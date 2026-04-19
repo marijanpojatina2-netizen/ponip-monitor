@@ -1,0 +1,16 @@
+{
+  "id": "59007",
+  "score_overall": 4.5,
+  "score_lokacija": 5.5,
+  "score_roi": 4.5,
+  "score_stanje": 4,
+  "recommendation": "watch",
+  "reasoning": "Industrijski kompleks na Zagrebačkoj ulici u Varaždinu pozicioniran je bolje od slavonskih alternativa; 25% popust na prvoj dražbi je skroman, ali Varaždin ima aktivno industrijsko i logističko tržište blizu zagrebačke osi.",
+  "flags": [
+    "industrijska namjena - ograničena prenamjena u stambeno",
+    "prva dražba - popust tek 25%, moguće bolje na idućoj",
+    "potrebna fizička procjena stanja objekata (više hala)"
+  ],
+  "input_hash": "428fd242948a",
+  "scored_at": "2026-04-19T19:33:27.166734"
+}

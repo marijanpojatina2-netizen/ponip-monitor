@@ -1,0 +1,16 @@
+{
+  "id": "59025",
+  "score_overall": 6.0,
+  "score_lokacija": 6.0,
+  "score_roi": 6.5,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Varaždin Zagrebačka ulica - 17.313m2 s više izgrađenih industrijskih zgrada i skladišta (ukupno ~4.000m2 pod krovom) po 25% popustu iz stečaja; jači investicijski case od susjedne čestice 59033 zahvaljujući izgrađenim objektima koji mogu generirati prihod odmah.",
+  "flags": [
+    "stečajni postupak - provjera tereta i eventualnih zakupnika u objektima",
+    "industrijska namjena - uže tržište kupaca/zakupnika",
+    "potencijalni troškovi sanacije starijih industrijskih objekata"
+  ],
+  "input_hash": "5faec0b6ec32",
+  "scored_at": "2026-04-19T19:35:31.434765"
+}

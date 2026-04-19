@@ -1,0 +1,17 @@
+{
+  "id": "57332",
+  "score_overall": 3.5,
+  "score_lokacija": 2.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "50% popust na drugoj dražbi privlačan je na papiru, no kolodvor u k.o. Štikada (Gračac, Lika) leži u jednoj od najdepopuliranijih zona Hrvatske bez ikakve perspektive prihoda, najma ili preprodaje.",
+  "flags": [
+    "kolodvor - iznimno specifična namjena, teška prenamjena",
+    "depopulacijska zona - Lika/Gračac",
+    "nema tržišta kupaca ni najmoprimaca",
+    "opsežni adaptacijski radovi nužni"
+  ],
+  "input_hash": "27f5121745d7",
+  "scored_at": "2026-04-19T19:46:12.936553"
+}

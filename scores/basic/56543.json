@@ -1,0 +1,17 @@
+{
+  "id": "56543",
+  "score_overall": 6.5,
+  "score_lokacija": 4.5,
+  "score_roi": 9.0,
+  "score_stanje": 3.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Izvanredan popust od 75% na trećoj dražbi (329k EUR početna za procjenu 1,316k EUR) za kompleks koji uključuje motel, benzinsku crpku i zemljište uz prometni koridor Rijeka–Zagreb — to je rijedak omjer cijene i imovine. Treća dražba signalizira problem (likvidnost, stanje, pravna pitanja), ali potencijal je dovoljno velik da opravda dubinsku analizu.",
+  "flags": [
+    "treća dražba — istražiti razlog neuspjeha prethodnih dražbi",
+    "benzinska crpka — obavezna provjera ekološke kontaminacije tla (UST tankovi)",
+    "motel — nepoznato operativno stanje i dozvole",
+    "ruralna lokacija — ograničena tržišna likvidnost pri izlasku"
+  ],
+  "input_hash": "a3d08f4cd0a8",
+  "scored_at": "2026-04-19T19:36:45.449835"
+}

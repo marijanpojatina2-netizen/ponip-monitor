@@ -1,0 +1,16 @@
+{
+  "id": "58727",
+  "score_overall": 5.5,
+  "score_lokacija": 6.0,
+  "score_roi": 5.0,
+  "score_stanje": 6.0,
+  "recommendation": "watch",
+  "reasoning": "Stambena zgrada u Zagrebu (Vrapče) je likvidna i pouzdana dugoročna investicija s jasnom exit strategijom, ali 20% popust na prvoj dražbi i zapadna periferija ne opravdavaju agresivan ulazak - vrijedi pratiti buduće dražbe.",
+  "flags": [
+    "provjera zauzetosti - osoba može stanovati u nekretnini",
+    "Vrapče - zapadna periferija, niža potražnja od centra/istoka",
+    "suvlasnički udjeli 4/8+3/8+1/8 - provjeriti jesu li svi udjeli u paketu"
+  ],
+  "input_hash": "188f793784ab",
+  "scored_at": "2026-04-19T19:46:12.937359"
+}

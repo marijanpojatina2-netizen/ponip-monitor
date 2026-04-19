@@ -1,0 +1,16 @@
+{
+  "id": "59135",
+  "score_overall": 4.0,
+  "score_lokacija": 4.0,
+  "score_roi": 3.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Koprivnica nudi ograničenu investicijsku likvidnost za poslovne nekretnine ovog opsega, a 20% popust na prvoj dražbi ne kompenzira industrijsku lokaciju u Obrtničkoj ulici bez jasne exit strategije.",
+  "flags": [
+    "industrijska zona - Obrtnička ulica",
+    "nizak investicijski interes regije",
+    "samo 20% popust na prvoj dražbi"
+  ],
+  "input_hash": "abb1087be924",
+  "scored_at": "2026-04-19T19:46:12.936445"
+}

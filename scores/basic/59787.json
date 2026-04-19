@@ -1,0 +1,17 @@
+{
+  "id": "59787",
+  "score_overall": 6.5,
+  "score_lokacija": 6.5,
+  "score_roi": 6.0,
+  "score_stanje": 5.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Autokamp Rača u Svetom Juraju kraj Senja - 12.484 m2 uz Jadransku magistralu s postojećom kamp dozvolom je rijetka i tražena imovina u rastu jadranskog turizma. 20% popust na prvoj dražbi nije izvanredan, ali kamp lokacija uz more s dozvolom opravdava temeljitu analizu.",
+  "flags": [
+    "Prva dražba - moguć bolji popust na kasnijim dražbama",
+    "Senj/Sveti Juraj - niži tier od Istre i Dalmacije",
+    "provjeriti važeće dozvole za kamp i komunalna priključenja",
+    "svega ~250 m2 čvrstih objekata - kamp infrastruktura skromna"
+  ],
+  "input_hash": "a318f3753bfd",
+  "scored_at": "2026-04-19T19:31:28.661957"
+}

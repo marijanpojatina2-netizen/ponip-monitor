@@ -1,0 +1,14 @@
+{
+  "id": "58920",
+  "score_overall": 6.5,
+  "score_lokacija": 7.0,
+  "score_roi": 6.0,
+  "score_stanje": 7.5,
+  "recommendation": "bid",
+  "reasoning": "Turistički apartmanski objekt (8 apartmana) s bazenom u primorju Šibenika nudi solidan kratkoročni najam potencijal i jasnu turističku namjenu; 20% popust na prvoj dražbi je na donjem pragu ali lokacija i tip objekta opravdavaju ulazak uz provjeru suvlasničkog statusa.",
+  "flags": [
+    "suvlasništvo 1/2 - provjeri draži li se cijela nekretnina ili samo jedan suvlasnički udio"
+  ],
+  "input_hash": "8290c8c0b417",
+  "scored_at": "2026-04-19T19:42:53.451794"
+}

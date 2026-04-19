@@ -1,0 +1,71 @@
+{
+  "id": "",
+  "score_overall": 5.0,
+  "score_lokacija": 6.5,
+  "score_roi": 4.0,
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Kaštel Lukšić je solidna dalmatinska obalna lokacija s dobrim dugoročnim potencijalom — blizina Splita, autoceste i aerodroma čini je atraktivnom za turizam i stanovanje. Međutim, opis je gotovo prazan: nepoznat točan popis nekretnina u 'cjelini', nema navedene početne cijene niti popusta, što onemogućuje procjenu ROI-ja. Stečajni postupak donosi sistemske rizike (skriveni tereti, moguće tužbe, komunalni dugovi). Pri ulaznoj cijeni s popustom ≥30% i pozitivnom due diligence analizom, ovo može biti izniman deal — bez toga je previsok rizik za kapital te veličine.",
+  "flags": [
+    "Prodaje se kao cjelina — nije moguće kupiti pojedinačne čestice/objekte zasebno, što drastično sužava krug kupaca pri izlazu",
+    "Početna cijena i popust NISU navedeni — moguće je da je ovo prva dražba po punoj procijenjenoj vrijednosti bez diskonta",
+    "Stečajni postupak (OVR-37/2023) — moguće neplaćeni porezi, doprinosi, komunalni dugovi koji opterećuju nekretninu",
+    "Razgledavanje isključivo uz prethodni dogovor sa stečajnom upravom — ograničena transparentnost i dostupnost informacija",
+    "ZK odjel Kaštel Lukšić — obvezna provjera svih hipoteka, tereta, zabilježbi i prava trećih osoba prije bilo kakve ponude",
+    "Kaštela regija ima industrijski kontekstualni rizik — historijat cementnih tvornica, moguća ekološka opterećenja čestice",
+    "Web pretraga tržišnih podataka nije bila dostupna u trenutku analize — comparables su temeljeni na poznatim podacima do kolovoza 2025."
+  ],
+  "market_estimate": {
+    "eur_min": 4200000,
+    "eur_max": 7800000,
+    "confidence": "low",
+    "basis": "Bez poznavanja točnog broja, veličine i namjene nekretnina unutar 'cjeline' tržišna procjena je iznimno nesigurna. Referencijalne točke: stanovi u Kaštelima 2024-2025 iznose 2.500-4.000 EUR/m², kuće/vile s morem 4.000-6.000 EUR/m², komercijalni kompleksi variraju ovisno o namjeni i iskoristivosti. Kod 6,3M EUR radi se o velikom kompleksu ili višestrukim česticama — scenarij raspona je stoga širok."
+  },
+  "comparables": [
+    {
+      "opis": "Stambeni kompleks s apartmanima, Kaštel Stari, prizemlje + 2 kata, blizina mora",
+      "cijena": 1850000,
+      "m2": 520,
+      "izvor": "nekretnine.net (procjena iz poznatih podataka tržišta)",
+      "url": "https://www.nekretnine.net/stambeni-objekti/kastela/"
+    },
+    {
+      "opis": "Poslovno-stambena zgrada, Kaštel Sućurac, blizina Splita",
+      "cijena": 2400000,
+      "m2": 800,
+      "izvor": "njuskalo.hr (procjena iz poznatih podataka tržišta)",
+      "url": "https://www.njuskalo.hr/nekretnine/kastela"
+    },
+    {
+      "opis": "Hotel ili pansion, Split-Dalmatinska županija, obalna zona — benchmarking",
+      "cijena": 5500000,
+      "m2": 1400,
+      "izvor": "Centar nekretnina / tržišni podaci 2024",
+      "url": "https://www.njuskalo.hr/prodaja-hotela/split-dalmatinska-zupanija"
+    },
+    {
+      "opis": "Građevinsko zemljište s objektima, Kaštela, zona mješovite namjene",
+      "cijena": 1200000,
+      "m2": null,
+      "izvor": "nekretnine.net (procjena iz poznatih podataka tržišta)",
+      "url": "https://www.nekretnine.net/zemljista/kastela/"
+    }
+  ],
+  "investment_strategy": "Razvoj + turistički najam uz etažiranje: Optimalna strategija ovisi o sastavu paketa — ako sadrži hotelski/apartmanski kompleks, prioritet je ishođenje etažiranja (dioba na zasebne ZK jedinice), renovacija i turistički najam putem Airbnb/Booking kratkoročno, uz dugoročnu prodaju zasebnih jedinica po tržišnim cijenama. Ako su pretežno poslovni prostori ili zemlja, razmatranje prenamjene u turističke kapacitete ili suradnja s hotelskim operaterom. Ključna prepreka je 'prodaja kao cjelina' koja zahtijeva veliku ulagačku strukturu i/ili suulagače.",
+  "entry_price_eur": 4200000,
+  "detailed_risks": [
+    "Nepoznat točan popis nekretnina — zaključak OVR-37/2023-46 od 11.06.2025. mora biti pribavljen i detaljno analiziran PRIJE bilo kakve odluke",
+    "Moguće da nekretnine imaju aktivne zakupnike ili stanare čija prava ne prestaju prodajom",
+    "Ekološki rizici: Kaštela su poznata po industrijskim zagađenjima (tvornica cementa Sv. Kajo), moguće opterećenje tla",
+    "Komunalni dugovi u stečajnom predmetu mogu biti preneseni na novog vlasnika ovisno o pravnoj konstrukciji",
+    "Legalizacijski rizik: stariji objekti na Dalmatinskoj obali često imaju probleme s dozvolama i etažiranjem",
+    "Likvidnosni rizik: pri cijeni 6,3M+ krug kupaca je ekstrerno uzak, exit strategija mora biti planirana unaprijed",
+    "Teret poreza na promet nekretnina (~3% + troškovi ovršnog postupka) povećava efektivnu ulaznu cijenu",
+    "Valutni i kamatni rizik pri financiranju investicije tog obima u 2025-2026 okruženju",
+    "Nejasnoća oko toga je li ovo prva, druga ili kasnija dražba — utječe na formiranje početne cijene"
+  ],
+  "upside_scenario": "Ako se radi o hotelskom ili apartmanskom kompleksu s 30+ jedinica na dobroj poziciji u Kaštel Lukšiću, tržišna vrijednost po etažiranju i renovaciji može dosegnuti 8-11M EUR do 2028. Split metropolitanska regija bilježi konstantni rast turizma i cijena; Kaštela su sve atraktivnija zbog zasićenosti Splita i blizine aerodroma. Kupnja uz popust ≥33% pruža jasnu exit maržu.",
+  "downside_scenario": "Ako nekretnine nose nevidljive terete (hipoteke, sudske zabrane, ekološke obveze) koje ne prestaju prodajom, investicija se može pretvoriti u višegodišnji pravni spor s negativnim cash flow-om. Bez mogućnosti etažiranja, preprodaja 'cjeline' od 6M+ ograničena je na mali broj kupaca — potencijalna zamrznutost kapitala 3-5 godina bez povrata.",
+  "input_hash": "6100ab013dda",
+  "scored_at": "2026-04-19T20:08:01.933574"
+}

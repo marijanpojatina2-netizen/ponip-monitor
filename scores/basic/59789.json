@@ -1,0 +1,17 @@
+{
+  "id": "59789",
+  "score_overall": 7.5,
+  "score_lokacija": 9.0,
+  "score_roi": 7.5,
+  "score_stanje": 6.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Poslovni prostori ukupno ~226 m² u k.o. Dubrovnik Nova s 25% popustom od procjene – Dubrovnik je premium tržište s iznimnim najamnim potencijalom (turizam, ugostiteljstvo), a cijena od ~2470 EUR/m² na startu ima prostora za rast; suvlasnički udio i etažno vlasništvo zahtijevaju hitnu pravnu provjeru.",
+  "flags": [
+    "etažno vlasništvo / suvlasnički udio – obavezna pravna due diligence",
+    "VP10 samo 10.34 m² – provjeri namjenu (moguće skladište/šupa)",
+    "poslovni prostor, nije stambeno",
+    "prva dražba"
+  ],
+  "input_hash": "2c29f8507006",
+  "scored_at": "2026-04-19T19:44:33.200427"
+}

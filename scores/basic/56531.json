@@ -1,0 +1,17 @@
+{
+  "id": "56531",
+  "score_overall": 4.5,
+  "score_lokacija": 3.5,
+  "score_roi": 7.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Treća dražba s 75% popustom statistički je raritet i financijski zanimljiva, no industrijska namjena (mlin, skladište, utovarna stanica) na periferiji Slavonskog Broda uz kompliciran suvlasnički udio 298/1000 ozbiljno ograničava exit strategije.",
+  "flags": [
+    "suvlasnički udio 298/1000 etažnog vlasništva - provjeriti suuvlasnike",
+    "industrijska zona Bjeliš - specifična namjena",
+    "potrebna provjera tereta i situacije suuvlasnika",
+    "niska likvidnost tržišta Slavonije"
+  ],
+  "input_hash": "a394666c2adc",
+  "scored_at": "2026-04-19T19:46:12.936827"
+}

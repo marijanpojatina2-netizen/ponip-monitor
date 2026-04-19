@@ -1,0 +1,16 @@
+{
+  "id": "58386",
+  "score_overall": 6.5,
+  "score_lokacija": 8.0,
+  "score_roi": 6.0,
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Nova Ves uz Gornji grad Zagreb jedna je od najpremijnijih mikrolokacija u RH s visokom likvidnošću; kuća od svega 61m2 na parceli 357m2 s dvorištem od 268m2 sugerira ogroman razvojni potencijal, ali 20% popust na prvoj dražbi ostavlja malo sigurnosnog jastuka.",
+  "flags": [
+    "mali popust 20% na prvoj dražbi",
+    "kuća 61m2 - vjerojatno pred rušenjem/rekonstrukcijom",
+    "provjeriti GUP dozvolu za gradnju/nadogradnju na dvorištu"
+  ],
+  "input_hash": "51b9e6504f3a",
+  "scored_at": "2026-04-19T19:50:25.712915"
+}

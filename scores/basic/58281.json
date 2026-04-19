@@ -1,0 +1,16 @@
+{
+  "id": "58281",
+  "score_overall": 7.5,
+  "score_lokacija": 8.0,
+  "score_roi": 8.0,
+  "score_stanje": 7.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Funkcionalni hotelski objekt s 16 smještajnih soba u turističkoj Istri (Vodnjan/Peroj, blizu Pule i Brijuna) s 40% popustom na drugoj dražbi, postojećim instalacijama grijanja i klime te uređenim okolišem predstavlja iznimnu prilaiku koja zaslužuje hitnu detaljnu due diligence analizu.",
+  "flags": [
+    "centralno grijanje na naftu - zastarjelo, troškovi modernizacije na OIE",
+    "provjeri građevinske i uporabne dozvole za turističku namjenu",
+    "provjeri eventualne terete i hipoteke"
+  ],
+  "input_hash": "42ab975e50a5",
+  "scored_at": "2026-04-19T19:42:53.452839"
+}

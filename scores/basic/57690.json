@@ -1,0 +1,16 @@
+{
+  "id": "57690",
+  "score_overall": 4.0,
+  "score_lokacija": 3.5,
+  "score_roi": 5.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Silosi i podno skladište u Ogulinu nemaju turistički ni rezidencijalni prenamjenski potencijal bez velikih troškova adaptacije; unatoč 40% popustu na drugoj dražbi, specijalizirana industrijska namjena i loša tržišna likvidnost unutrašnjosti čine investiciju neatraktivnom za generalnog investitora.",
+  "flags": [
+    "specijalizirana industrijska namjena (silosi, podno skladište)",
+    "depopulacijsko područje - slaba tržišna likvidnost",
+    "ograničene opcije prenamjene bez velikih ulaganja"
+  ],
+  "input_hash": "25fffb92827b",
+  "scored_at": "2026-04-19T19:42:53.452221"
+}

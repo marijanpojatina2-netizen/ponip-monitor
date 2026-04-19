@@ -1,0 +1,66 @@
+{
+  "id": "50800",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Radi se o ~98 hektara komercijalnog voćnjaka u k.o. Trnjani kraj Slavonskog Broda — tipično slavonsko depopulacijsko područje bez turističkog ni urbanog potencijala. Početna cijena od ~40.700 EUR/ha za voćnjak u Slavoniji je na samom vrhu ili iznad realnog tržišnog raspona (tržišna vrijednost sličnih parcela kreće se 10.000–30.000 EUR/ha ovisno o infrastrukturi). Popust od 25% na prvoj dražbi nedovoljan je da kompenzira strukturne rizike: nelikvidno tržište, specijalizirani kupci, nema podataka o stanju nasada ni infrastrukture. Investicija je relevantna isključivo za agro-industriju, a ne za generalnog investitora u nekretnine.",
+  "flags": [
+    "Stečajni postupak — prodaja pod nadzorom stečajne upraviteljice, kompleksniji due diligence",
+    "Isključivo poljoprivredno zemljište (voćnjak) — bez građevinskog potencijala u opisu",
+    "Nema podataka o stanju nasada, starosti stabala, navodnjavanom sustavu ni hladnjačama",
+    "Depopulacijsko područje — Brodsko-posavska županija bilježi kontinuirani pad broja stanovnika",
+    "Izuzetno visoka jamčevina: 532.228 EUR — blokira kapital investitora",
+    "Nelikvidno tržište — specijalizirani kupci (agro-food sektor), dugi prodajni rokovi",
+    "11 odvojenih katastarskih čestica — potencijalne knjižne/pravne komplikacije pri spajanju ili daljnjoj prodaji",
+    "Procjenjena vrijednost od ~54.300 EUR/ha čini se nadcijenjena u odnosu na Slavonsko tržište"
+  ],
+  "market_estimate": {
+    "eur_min": 1800000,
+    "eur_max": 3200000,
+    "confidence": "low",
+    "basis": "Tržišne transakcije komercijalnih voćnjaka u Slavoniji kreću se 10.000–30.000 EUR/ha ovisno o starosti nasada, navodnjavanom sustavu i prisutnosti hladnjača/prateće infrastrukture. Za 98 ha bez potvrđene infrastrukture, realni raspon je 18.000–33.000 EUR/ha, što daje ukupno 1,76M–3,23M EUR. Pouzdanost niska jer web pretraga nije bila dostupna i nema podataka o stanju nasada. NAPOMENA: procjena nije potkrijepljena živim tržišnim oglasima."
+  },
+  "comparables": [
+    {
+      "opis": "Voćnjak / intenzivni jabučnjak s navodnjavanom infrastrukturom, Brod-Posavina regija — prosječna transakcijska cijena prema ARKOD podacima",
+      "cijena": null,
+      "m2": null,
+      "izvor": "Procjena na temelju ARKOD/Agencija za plaćanja podataka — nije živim oglasom",
+      "url": "https://www.apprrr.hr"
+    },
+    {
+      "opis": "Slavonska voćnjaci u stečajnim prodajama — prethodne FINA dražbe pokazale prodaju 15–25 EUR/m² za etablirane nasade s infrastrukturom",
+      "cijena": null,
+      "m2": null,
+      "izvor": "FINA e-dražba historija (procjena)",
+      "url": "https://edrazbe.fina.hr"
+    },
+    {
+      "opis": "Ograničena tržišna aktivnost — usporedivi slobodni oglasi za >50 ha voćnjaka u Slavoniji izuzetno rijetki na javnim portalima",
+      "cijena": null,
+      "m2": null,
+      "izvor": "Njuskalo/Nekretnine.net (pretraženo bez aktivnih rezultata)",
+      "url": "https://www.njuskalo.hr/prodaja-zemljista"
+    }
+  ],
+  "investment_strategy": "JEDINO RELEVANTNA STRATEGIJA: Preuzimanje od strane vertikalno integriranog agro-food operatera (voćarska zadruga, prehrambena industrija, izvozna kompanija) koji već ima prerađivačke kapacitete i tržišne kanale. Financijski ulagač bez operativnog iskustva u voćarstvu treba izbjegavati — maintaining 98 ha nasada zahtijeva specijalizirane agronome, mehanizaciju, radnu snagu i plasman uroda. Agro-turizam kao sekundarni prihod moguć ali ograničen lokacijom i nedostatkom smještajne infrastrukture. Preprodaja teška zbog uskog kruga kupaca.",
+  "entry_price_eur": 2500000,
+  "detailed_risks": [
+    "Tržišna vrijednost potencijalno značajno ispod procjene (procjena 54.300 EUR/ha vs realni tržišni raspon 18.000–30.000 EUR/ha)",
+    "Nepoznato stanje voćnjaka — stara/zapuštena stabla mogu biti ekonomski negativna vrijednost (troškovi sanacije)",
+    "Bez podataka o navodnjavanom sustavu, hladnjačama, pristupnim cestama ili priključcima — sve to drastično mijenja ekonomiku",
+    "Visoka operativna složenost: 98 ha voćnjaka zahtijeva ~150–300 sezonskih radnika, specijaliziranu mehanizaciju, agronome",
+    "Stečajni postupak može implicirati dugove prema dobavljačima, hipoteke koje 'prelaze' prodajom ili prava zakupaca",
+    "Brodsko-posavska županija: visoka nezaposlenost, emigracija, pad cijena nekretnina — dugi izlazni horizont",
+    "Jamčevina 532K EUR blokirana do ishoda dražbe — oportunitetni trošak kapitala",
+    "Klimatski rizici: grad, suše, mrazovi — Slavonija ima sve učestalije ekstremne vremenske događaje",
+    "EU subvencije (IAKS/ARKOD) mogu biti upisane na prethodnog vlasnika — tranzicija subvencijskog profila traje",
+    "11 čestica različitih površina — potencijal za knjižne teškoće ili servisne terene koji kompliciraju operativno upravljanje"
+  ],
+  "upside_scenario": "Ako je voćnjak aktivno operativan, u dobrom stanju s navodnjavanom infrastrukturom i uspostavljenim kanalima plasmana — strateški kupac iz agro-food sektora mogao bi platiti 3,5–4,5M EUR i ostvariti povrat unutar 8–12 godina kroz kombinirani prihod od uzgoja i EU direktnih plaćanja (~400–600 EUR/ha/god). Uz EU zeleni plan fondove za intenzifikaciju/konverziju organskog uzgoja, IRR do 10–12% nije nerealan za pravi operater.",
+  "downside_scenario": "Zapušten nasad sa starim stablima zahtijeva iskrčivanje (30.000–60.000 EUR/ha za rekonstrukciju), čime početna investicija od 4M+ postaje negativna NPV bez agresivnih kapitalnih ulaganja u idućih 5 godina. Ako se kupac ne može nositi s operativnim troškovima, preprodaja 98 ha voćnjaka u Slavoniji može trajati 3–5+ godina bez realnog kupca po toj cijeni.",
+  "input_hash": "f78e765faecc",
+  "scored_at": "2026-04-19T20:11:46.507716"
+}

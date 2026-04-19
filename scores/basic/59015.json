@@ -1,0 +1,17 @@
+{
+  "id": "59015",
+  "score_overall": 6.0,
+  "score_lokacija": 5.5,
+  "score_roi": 7.0,
+  "score_stanje": 4.5,
+  "recommendation": "bid",
+  "reasoning": "Najveći industrijski kompleks u ovom skupu - ~9.980 m2 zgrada na 15.495 m2 zemljišta za 1.74M (~174 EUR/m2) je iznimno atraktivna valuacija za industrijskog ili logističkog investitora u Varaždinu s odličnom prometnom dostupnošću. 25% popust i niska cijena po m2 opravdavaju licitaciju uz prethodnu due diligence na stanje svih 10 zgrada.",
+  "flags": [
+    "10 industrijskih zgrada - varijabilno stanje, nužna fizička inspekcija",
+    "industrijsko - specifičan krug kupaca",
+    "provjeriti slobodnost i eventualnih zakupce",
+    "dio kompleksa s k.č.br. 3924/1 i 3925/69 - rizik parcelizacije"
+  ],
+  "input_hash": "5e4ed5287514",
+  "scored_at": "2026-04-19T19:31:28.662439"
+}

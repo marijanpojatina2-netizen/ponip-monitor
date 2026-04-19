@@ -1,0 +1,16 @@
+{
+  "id": "59625",
+  "score_overall": 6.0,
+  "score_lokacija": 8.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Vrhunska lokacija u Vrsaru (obalna Istra, turistička zona) pruža solidnu osnovu, ali tek prva dražba s minimalnim popustom od 20% ne opravdava ulazak; mješovita poslovna namjena zahtijeva provjeru zauzetosti i mogućnosti stambene ili turističke prenamjene.",
+  "flags": [
+    "zgrada mješovite uporabe - moguće u zakupu/najmu",
+    "poslovna namjena - nejasna prenamjena",
+    "samo 20% popust na prvoj dražbi"
+  ],
+  "input_hash": "28be98198730",
+  "scored_at": "2026-04-19T19:46:12.936231"
+}

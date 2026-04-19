@@ -1,17 +1,17 @@
 {
   "id": "",
-  "score_overall": 2,
-  "score_lokacija": 1,
-  "score_roi": 2,
-  "score_stanje": 3,
+  "score_overall": 3.0,
+  "score_lokacija": 3.5,
+  "score_roi": 2.5,
+  "score_stanje": 4.5,
   "recommendation": "pass",
-  "reasoning": "Heterogena masa od 3.284 komada pokretnina (alati, strojevi, vozila, zalihe, poslovni udjeli) izuzetno je nelikvidna i zahtijeva specijalizirano znanje za procjenu svakog segmenta, dok odsutnost početne cijene i jamčevine signalizira neriješene uvjete prodaje. Dugoročni ROI za investitora u nekretnine praktički ne postoji.",
+  "reasoning": "Đakovo je manji slavonski grad s ograničenom potražnjom za ovakvim portfeljem; nepoznata početna cijena i stečajni postupak uvode značajnu procesnu neizvjesnost uz ionako slab investicijski case.",
   "flags": [
-    "pokretnine – niska likvidnost i visoki troškovi individualne prodaje",
-    "3.284 heterogenih komada – enormni troškovi inventure i procjene",
-    "bez navedene početne cijene i jamčevine",
-    "poslovni udjeli u paketu – nepoznata solventnost društava"
+    "početna cijena nepoznata - nemoguće procijeniti ROI",
+    "stečajni upravitelj - kompleksniji i dugotrajniji postupak",
+    "5 zasebnih čestica u 2 zk.ul. - vlasnička kompleksnost",
+    "slavonija - ograničena likvidnost i potražnja"
   ],
-  "input_hash": "f38e38318e9d",
-  "scored_at": "2026-04-19T16:21:58.951636"
+  "input_hash": "a10dba13b0df",
+  "scored_at": "2026-04-19T19:50:25.713060"
 }

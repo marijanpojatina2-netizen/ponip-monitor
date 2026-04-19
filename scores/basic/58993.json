@@ -1,0 +1,17 @@
+{
+  "id": "58993",
+  "score_overall": 5.0,
+  "score_lokacija": 5.0,
+  "score_roi": 6.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Identičan profil kao ID 59001 na istoj ulici (k.o. Varaždin, Zagrebačka ulica) s 25% popustom – manji kompleks (~2867 m² zgrada, 5285 m² parcela); vrijedi istražiti mogućnost zajedničke kupnje s ID 59001 kao paketa, ali standalone ROI je prosječan.",
+  "flags": [
+    "industrijska namjena",
+    "prva dražba",
+    "ista lokacija kao 59001 – provjeri prostorno-plansku cjelinu",
+    "Varaždin – ograničena likvidnost"
+  ],
+  "input_hash": "27cef23812ad",
+  "scored_at": "2026-04-19T19:44:33.200324"
+}

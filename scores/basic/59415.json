@@ -1,0 +1,16 @@
+{
+  "id": "59415",
+  "score_overall": 2.5,
+  "score_lokacija": 2,
+  "score_roi": 3.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Poslovno-proizvodna hala u Novskoj (Slavonija) s 25% popustom na prvoj dražbi; depopulacijska zona s minimalnom potražnjom za industrijskim nekretninama i lošim izlaznim opcijama.",
+  "flags": [
+    "Slavonija - depopulacijska zona",
+    "industrijska hala ograničene prenamjene",
+    "niska tržišna likvidnost regije"
+  ],
+  "input_hash": "028868a35cc0",
+  "scored_at": "2026-04-19T19:33:27.166297"
+}

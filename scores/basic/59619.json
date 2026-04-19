@@ -1,0 +1,16 @@
+{
+  "id": "59619",
+  "score_overall": 5.0,
+  "score_lokacija": 5.5,
+  "score_roi": 5.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Industrijska hala 1300 m² u pulskoj poslovnoj zoni (Šijana) solidna je lokacija, ali popust od svega 20% na prvoj dražbi ostavlja malo ROI prostora; objekt star ~60 godina s betonskim temeljima i čeličnom konstrukcijom vjerojatno zahtijeva značajnija ulaganja.",
+  "flags": [
+    "industrijska namjena – ograničena konverzija u stambeno/turistički",
+    "~60 godina starosti – moguće skupe sanacije",
+    "prva dražba s minimalnim popustom"
+  ],
+  "input_hash": "89248e31e9d1",
+  "scored_at": "2026-04-19T19:44:33.199349"
+}

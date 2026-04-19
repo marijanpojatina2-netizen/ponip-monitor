@@ -1,0 +1,16 @@
+{
+  "id": "58524",
+  "score_overall": 4.5,
+  "score_lokacija": 4.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća 309m2 u Zagorju (Zabok/Zlatar) uz 20% popust na prvoj dražbi s periferijskom lokacijom bez turističkog ni komercijalnog potencijala; suvlasništka struktura zahtijeva hitnu provjeru je li predmet prodaje cijela nekretnina ili samo 1/2 dijela.",
+  "flags": [
+    "suvlasništvo prvoovršenika i drugoovršenika u 1/2 dijela ponaosob - provjera predmeta prodaje",
+    "periferija Zagorja - slaba likvidnost i exit strategija",
+    "20% popust ispod investicijskog praga za ovu lokaciju"
+  ],
+  "input_hash": "dd26345de485",
+  "scored_at": "2026-04-19T19:35:31.434170"
+}

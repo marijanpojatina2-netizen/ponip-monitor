@@ -1,0 +1,17 @@
+{
+  "id": "59429",
+  "score_overall": 5.0,
+  "score_lokacija": 5.5,
+  "score_roi": 5.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Poslovna zgrada 1572 m2 u Varaždinu s dvorištem na prvoj dražbi s 25% popustom – umjereno zanimljivo ali Varaždin nema visoku turističku premiju ni snažan investicijski pull za ovaj tip imovine.",
+  "flags": [
+    "prva dražba – skromniji popust",
+    "stanje unutrašnjosti nepoznato",
+    "poslovna namjena ograničava konverziju",
+    "visoka jamčevina 104.000 EUR"
+  ],
+  "input_hash": "51020f476033",
+  "scored_at": "2026-04-19T19:40:10.482293"
+}

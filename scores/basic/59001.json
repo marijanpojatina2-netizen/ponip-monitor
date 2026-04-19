@@ -1,0 +1,17 @@
+{
+  "id": "59001",
+  "score_overall": 5.0,
+  "score_lokacija": 5.0,
+  "score_roi": 6.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Industrijski kompleks na Zagrebačkoj ulici u Varaždinu – 25% popust i ~3185 m² raznih industrijskih zgrada na 8075 m² parcele nudi solidnu osnovu za industrijskog developera, ali Varaždin ima ograničenu turističku i rezidencijalnu likvidnost.",
+  "flags": [
+    "industrijska namjena",
+    "prva dražba",
+    "više heterogenih manjih zgrada – nejednaka kvaliteta",
+    "Varaždin – ograničena likvidnost i rast vrijednosti"
+  ],
+  "input_hash": "7e40337ce4e5",
+  "scored_at": "2026-04-19T19:44:33.200199"
+}

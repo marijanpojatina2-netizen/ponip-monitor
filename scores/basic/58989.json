@@ -1,0 +1,16 @@
+{
+  "id": "58989",
+  "score_overall": 5.5,
+  "score_lokacija": 5.5,
+  "score_roi": 6.0,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Varaždin kao regionalni industrijski centar blizu slovensko-austrijske granice nudi realnu potražnju za industrijskim prostorom; 390k EUR za 2184m2 industrijske zgrade s parkirištem na Zagrebačkoj ulici je atraktivna cijena, ali specijalizirana namjena zahtijeva provjeru tereta i potražnje zakupaca.",
+  "flags": [
+    "industrijska namjena - niša tržište, sporija likvidacija",
+    "stečajni dužnik - provjeriti hipoteke i prava trećih na nekretnini",
+    "Zagrebačka ulica - provjeriti prometni i logistički pristup"
+  ],
+  "input_hash": "10605f930388",
+  "scored_at": "2026-04-19T19:50:25.713239"
+}

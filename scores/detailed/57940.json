@@ -1,0 +1,63 @@
+{
+  "id": "57940",
+  "score_overall": 6.5,
+  "score_lokacija": 6.5,
+  "score_roi": 7.5,
+  "score_stanje": 3.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Elektromlin je rijetka urbana brownfield nekretnina površine ~1,5 ha u Puli — gradu s jednim od najjačih turističkih i komercijalnih tržišta Istre. Početna cijena od 3.720.000 EUR (~251 EUR/m² ukupnog zemljišta) privlačna je za razvoj, no kompleks stari objekata iz 1930.-1970. zahtijeva temeljitu provjeru azbesta, kontaminacije tla i usklađenosti s GUP-om Pule. Ključno je utvrditi je li Brionka d.d. i dalje korisnik/vlasnik dijela objekta te je li moguća promjena namjene iz industrijskog u mješovito/stambeno. Uz rezoning potencijal, projekt nosi IRR 20-35%+ u razvojnom scenariju, ali s vremenskim horizontom od 4-7 godina i visokim capexom.",
+  "flags": [
+    "Brionka d.d. — aktivna ili nedavno aktivna tvrtka na adresi; nejasan status stanara/korisnika kompleksa",
+    "Potencijalna industrijska kontaminacija tla — stara tvornica brašneno-konditorskih proizvoda (transformatorske stanice, maziva, čišćenje strojeva)",
+    "Objekti iz 1930.-1970. — visok rizik prisutnosti azbesta u krovnim pločama i izolaciji",
+    "Zoniranje (GUP Pule) — nužna provjera je li dozvoljeno stanovanje ili turizam na ovoj čestici; industrijska zona ograničava upotrebu",
+    "Visoka jamčevina od 620.000 EUR filtrira tržište ali i povećava likvidnosni rizik za kupca",
+    "Razgledavanje uz sudskog ovršitelja — ograničen pristup interijeru, nema nezavisne tehničke procjene",
+    "Više katastarskih čestica (9 parcela) — moguće parcijalno opterećenje hipotekama ili pravima prolaza"
+  ],
+  "market_estimate": {
+    "eur_min": 3800000,
+    "eur_max": 8500000,
+    "confidence": "medium",
+    "basis": "Donja granica = tržišna vrijednost za industrijsku/logističku namjenu (14.789 m² × 250-300 EUR/m² za urbano industrijsko zemljište u Puli). Gornja granica = razvojni scenarij (rezoning na stambeno/mješovito): urbano građevinsko zemljište u Puli dostiže 400-700 EUR/m² za rezidencijalnu izgradnju, što bi implicitnu vrijednost čestice podiglo na 6-10M EUR. Procjenjivačeva vrijednost od 6,2M EUR ukazuje na mješoviti potencijal. Napomena: web pretraživanje komparativa nije bilo dostupno — procjene su analitičke."
+  },
+  "comparables": [
+    {
+      "opis": "Poslovni kompleks s halom, Pula okolica ~5.000 m² građ. + 10.000 m² zemljište — analogna industrijsko/razvojna imovina",
+      "cijena": 2800000,
+      "m2": 15000,
+      "izvor": "procjena-analogija",
+      "url": "https://www.njuskalo.hr/prodaja-poslovnih-prostora/istra"
+    },
+    {
+      "opis": "Industrijska hala Pula, ~3.000 m² GBA, dobro stanje — referenca za prinos najma",
+      "cijena": 1800000,
+      "m2": 3000,
+      "izvor": "procjena-analogija",
+      "url": "https://www.nekretnine.net/nekretnine/pula/poslovni-prostori"
+    },
+    {
+      "opis": "Razvojno zemljište u Puli (zona Veruda/Vidikovac) ~5.000 m² — usporedba tržišne cijene rezidencijalnog terena",
+      "cijena": 2500000,
+      "m2": 5000,
+      "izvor": "procjena-analogija",
+      "url": "https://www.njuskalo.hr/prodaja-zemljista/istra-pula"
+    }
+  ],
+  "investment_strategy": "RAZVOJ (brownfield urban redevelopment) — primarna strategija: kupnja, ishodovanje rezoninga kroz GUP izmjene ili UPU, rušenje starih objekata, izgradnja stambeno-turističkog kompleksa ili modernog poslovnog kampusa. Sekundarna strategija: kratkoročni prihod od iznajmljivanja postojećih objekata kao skladišta/logistike (cca. 5-7 EUR/m²/mj. za 7.000-8.000 m² iskoristive površine ≈ 420.000-560.000 EUR/god. bruto prinos) dok teče razvojna procedura. Reno-flip nije relevantan — starosti i tipologiji objekta ekonomski je opravdanije rušenje.",
+  "entry_price_eur": 4200000,
+  "detailed_risks": [
+    "Zoniranje: ako GUP Pule zadrži industrijsku namjenu, razvojni upside potpuno otpada — maksimalna tržišna vrijednost pada na 3,5-4,5M EUR",
+    "Azbest: sanacija azbesta u objektima iz 1950.-1970. može iznositi 300.000-800.000 EUR — obavezna provjera",
+    "Kontaminacija tla: stara maziva, transformatori (PCB), kemikalije za pranje — geotehnička istraga obavezna prije kupnje (100.000-200.000 EUR za remedijaciju ako postoji)",
+    "Brionka d.d. — ako je tvrtka u stečaju ili ima privilegirane tražbine, postoji rizik naknadnih potraživanja na imovini",
+    "Capex: rušenje + rezoning + nova izgradnja 15.000 m² GFA ≈ 18-25M EUR ukupne investicije — zahtijeva jake financijske partnere ili institucijsko financiranje",
+    "Vremenski horizont: razvojna procedura u RH (izmjena GUP-a, lokacijska dozvola, građevinska dozvola) realno 3-5 godina — zamrzavanja kapitala",
+    "Višestruke katastarske čestice: svaka može imati zasebne opterećenje — detaljna provjera ZK nužna",
+    "Tržišni rizik: usporavanje turizma ili recesija u 2026-2028 može depresirati cijene novoizgrađenih nekretnina u Puli"
+  ],
+  "upside_scenario": "Kupnja na 3,72M EUR + rezoning na stambeno/turizam + rušenje i izgradnja 15.000 m² rezidencijalnih/apartmanskih jedinica × prosječna prodajna cijena 3.500-4.000 EUR/m² = 52,5-60M EUR prihoda od prodaje. Ukupna investicija (kupnja + demo + izgradnja): 23-28M EUR. Bruto dobit: 25-35M EUR. IRR 25-35% u 6-7 godina. Alternativno: hotel 5* ili rezidencijalni resort u Puli (deficitarna kategorija) — exit prema institucionalnom investitoru ili turoperatoru po 12-15M EUR.",
+  "downside_scenario": "Zoniranje ostaje industrijsko, kontaminacija tla potvrđena, sanacija 500K-1M EUR, tržište logistike stagnira — najam 5 EUR/m² × 7.000 m² = 420.000 EUR/god. bruto. Prinos na uloženo: ~11% bruto (privlačno za industrijskog investitora). Prodaja kao gotovog industrijskog kompleksa za 3,8-4,2M EUR — minimalan gubitak ili break-even za kratkoročnog kupca. Rizik: likvidnost ovako velikog industrijskog kompleksa u Puli ograničena — izlaz može trajati 2-4 godine.",
+  "input_hash": "6fa09ce741ac",
+  "scored_at": "2026-04-19T20:10:08.289605"
+}

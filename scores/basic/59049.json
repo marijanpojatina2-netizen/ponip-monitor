@@ -1,0 +1,16 @@
+{
+  "id": "59049",
+  "score_overall": 5.5,
+  "score_lokacija": 5.5,
+  "score_roi": 6.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Velika industrijska zgrada od 5.456 m2 u Varaždinu za ~1.9M (~350 EUR/m2) je razumna valuacija uz 25% popust - Varaždin ima aktivno industrijsko i logističko tržište s blizinom Mađarske i Slovenije. Potrebno utvrditi stanje, slobodnost i tehničke karakteristike zgrade.",
+  "flags": [
+    "industrijsko - specifičan krug kupaca",
+    "stanje i slobodnost zgrada nepoznati",
+    "dio kompleksa s k.č.br. 3924/1 i 3924/6 - analiziraj zajedno"
+  ],
+  "input_hash": "a1b3a0d04551",
+  "scored_at": "2026-04-19T19:31:28.662217"
+}

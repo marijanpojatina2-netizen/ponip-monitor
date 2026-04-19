@@ -1,0 +1,16 @@
+{
+  "id": "57280",
+  "score_overall": 3.5,
+  "score_lokacija": 4.0,
+  "score_roi": 3.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Pretežno oranice, livade i močvara u ruralnom dijelu Sesveta - blizina Zagreba ne kompenzira agrarni karakter i složenu strukturu više čestica u više z.k.ul. Niska likvidnost i ograničen investicijski potencijal za resale ili najam.",
+  "flags": [
+    "pretežno oranice i močvara - agrarno, ne investicijsko",
+    "složena struktura - više čestica u više z.k.ul.",
+    "ruralni karakter unatoč blizini Sesveta"
+  ],
+  "input_hash": "e07c9bd1a46a",
+  "scored_at": "2026-04-19T19:31:28.662111"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "58969",
+  "score_overall": 4.0,
+  "score_lokacija": 7.5,
+  "score_roi": 3.5,
+  "score_stanje": 2.5,
+  "recommendation": "watch",
+  "reasoning": "Iznimna lokacija na otoku Visu (60.522m2 ukupno) s T1 turističkom namjenom za dio parcele, ali dominantna kategorija zaštitne šume praktički blokira razvoj i čini cijenu od 1.2M EUR teško opravdanom bez gradivnog potencijala.",
+  "flags": [
+    "zaštitna šuma - dominantna kategorija koja blokira gradnju na većem dijelu",
+    "T1 turistička namjena ograničena na čest. 7322/1 - provjera faktičnog buildable area",
+    "neizgrađeno neobrađeno visokoraslinje - nulti prihod odmah"
+  ],
+  "input_hash": "52a8dcbe256d",
+  "scored_at": "2026-04-19T19:35:31.434654"
+}

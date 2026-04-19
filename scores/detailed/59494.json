@@ -1,0 +1,62 @@
+{
+  "id": "59494",
+  "score_overall": 4.5,
+  "score_lokacija": 6.0,
+  "score_roi": 3.5,
+  "score_stanje": 3.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Radi se o 71 ha šumskog i pašnjačkog zemljišta na otoku Pagu (k.o. Pag, lokacije Ogradica do Lokunja i Rebarsko) u stečajnoj prodaji. Procjena od 11,44 EUR/m² za neizgradivu šumu i pašnjak neuobičajeno je visoka i upućuje ili na postojeći T-zone status u prostornom planu Grada Paga ili na ozbiljnu inflaciju vrijednosti od strane sudskog vještaka — što je ključno razjasniti prije bilo kakve odluke. Bez potvrđenog razvojnog potencijala, tržišna vrijednost ove imovine višestruko je niža od početne cijene dražbe. Prva dražba bez dodatnog popusta te jamčevina od 812.500 EUR čine ovo izuzetno rizičnim ulaskom.",
+  "flags": [
+    "šumsko i pašnjačko zemljište — Zakon o šumama RH praktički onemogućuje gradnju bez dugotrajnog postupka prenamjene",
+    "procjena 11,44 EUR/m² za neizgradivu šumu anomalija je — moguća inflacija ili skriveni razvoj u prostornom planu",
+    "prva dražba — 25% je maksimalni popust u ovoj fazi, nema rezerve za daljnji popust",
+    "stečajna masa — obavezna provjera hipoteka, razlučnih prava i knjižnih tereta",
+    "Natura 2000 / ekološka mreža — znatan dio otoka Paga zaštićen, moguće stroge zabrane intervencija",
+    "izuzetno nelikvidna imovina — 71 ha otočnog neizgradivog zemljišta bez razvoja nema sekundarnog tržišta"
+  ],
+  "market_estimate": {
+    "eur_min": 710000,
+    "eur_max": 3550000,
+    "confidence": "low",
+    "basis": "Šumsko i pašnjačko zemljište bez građevinskog statusa u Dalmaciji tipično vrijedi 1–5 EUR/m². Za 710.296 m² to daje 710K–3,55M EUR. Gornja granica reflektira otočnu premiju Paga i eventualni turistički potencijal. Početna cijena od 6,09M EUR opravdana je jedino uz potvrđeni razvoj u prostornom planu (T1/T2/camping zone)."
+  },
+  "comparables": [
+    {
+      "opis": "Pašnjak/šuma Pag — tržišna procjena za neizgradivu kategoriju (~1–2 EUR/m²)",
+      "cijena": 1420000,
+      "m2": 710296,
+      "izvor": "tržišna procjena (web search nedostupan)",
+      "url": "n/a"
+    },
+    {
+      "opis": "Neizgradivo agro zemljište Zadar County, referentna razina ~2–3 EUR/m²",
+      "cijena": 2130888,
+      "m2": 710296,
+      "izvor": "tržišna procjena",
+      "url": "n/a"
+    },
+    {
+      "opis": "Turističko neizgrađeno zemljište Pag (T zona) — optimistični slučaj 8–12 EUR/m²",
+      "cijena": 7100000,
+      "m2": 710296,
+      "izvor": "procjena uz razvojni potencijal",
+      "url": "n/a"
+    }
+  ],
+  "investment_strategy": "razvoj (eco-resort / boutique camping / agro-turizam) + land banking — jedini smisleni case je resort projekt uz promjenu prostornog plana ili postojeće T-zoniranje. 71 ha kompaktnog posjedništva na Pagu (ekskluzivnost otoka) može biti osnova za premium eco-resort ili glamping projekt vrijedan 20M+ EUR, ali samo uz pribavljene dozvole. Kratkoročna preprodaja ili reno-flip nisu primjenjivi za ovu vrstu imovine.",
+  "entry_price_eur": 2500000,
+  "detailed_risks": [
+    "Zakon o šumama RH: šumsko zemljište praktički neizgradivo bez 5–10 godina regulatornog procesa prenamjene",
+    "Natura 2000 i ekološka mreža Paga: moguće potpune zabrane iskrčivanja, nasipavanja ili gradnje ikakvih objekata",
+    "Inflacija procjene: sudski vještaci u stečajnim postupcima katkad precjenjuju; neovisna procjena obvezna",
+    "Jamčevina 812.500 EUR — trajno blokiran kapital čak i za neuspješnu licitaciju",
+    "Nulti prihod: zemlja bez ikakve mogućnosti prihoda dok traje razvoj (5–10 godina)",
+    "Infrastruktura: lokacije Ogradica i Rebarsko vjerojatno bez pristupnih cesta, vode i struje",
+    "Nelikvidnost: izlaz bez razvoja gotovo nemoguć — nema kupaca za ovakvu imovinu na ovoj cijeni",
+    "Stečajni postupak: moguća knjižna neuredenost, višestruki razlučni vjerovnici, sudski sporovi"
+  ],
+  "upside_scenario": "Ako PPUO Pag ima T-zonu ili camping zonu nad dijelom ovih parcela, i ako je stečajni dužnik bio turistički developer s elaboriranim planovima (lokacijske dozvole, GUP suglasnosti), kupnja na 3–4M EUR mogla bi biti osnova za premium eco-resort projekt vrijedan 20–35M EUR u horizontu od 5–7 godina. 71 ha kompaktnog otočnog posjedništva gotovo je nemoguće ponovno akumulirati na tržištu.",
+  "downside_scenario": "Bez razvoja, ova zemlja vrijedi 700K–1,5M EUR na slobodnom tržištu. Kupac zaglavljuje s imovinom bez prihoda, uz godišnje troškove upravljanja, poreze i potencijalne ekološke obveze. Pri ulasku na 6,09M EUR, realizirani gubitak iznosi 4,5–5,4M EUR — bez jasne vremenske perspektive izlaza.",
+  "input_hash": "0e9b71352c69",
+  "scored_at": "2026-04-19T20:00:00.246818"
+}

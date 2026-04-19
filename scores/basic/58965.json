@@ -1,0 +1,16 @@
+{
+  "id": "58965",
+  "score_overall": 3.5,
+  "score_lokacija": 3,
+  "score_roi": 4,
+  "score_stanje": 4,
+  "recommendation": "pass",
+  "reasoning": "Industrijski kompleks u k.o. Buković (Benkovac area, inland Dalmacija) s 25% popustom na prvoj dražbi; slaba lokacija daleko od turističkih zona drastično smanjuje likvidnost i izlazne scenarije.",
+  "flags": [
+    "industrijska zona inland Dalmacije - niska likvidnost",
+    "pogon drvne ambalaže - zastarjela namjena",
+    "višenamjenski sklop teže za realizirati kao cjelinu"
+  ],
+  "input_hash": "02dcf99b6132",
+  "scored_at": "2026-04-19T19:33:27.166173"
+}

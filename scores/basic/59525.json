@@ -1,0 +1,17 @@
+{
+  "id": "59525",
+  "score_overall": 4.5,
+  "score_lokacija": 5.5,
+  "score_roi": 5.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Livada 740 m2 u Velikoj Gorici s 20% popustom na prvoj dražbi - lokacija blizu Zagreba i aerodroma ima razvojni potencijal, ali procjenjena vrijednost ~845 EUR/m2 za sirovu livadu je visoka bez potvrde građevinskog zoniranja.",
+  "flags": [
+    "samo sirovo zemljište (livada) - nema objekta",
+    "GUP/zoniranje nepoznato",
+    "visoka cijena po m2 za neizgrađeno",
+    "prva dražba - nema prostora za daljnja sniženja"
+  ],
+  "input_hash": "aa064be6f0da",
+  "scored_at": "2026-04-19T19:48:20.272877"
+}

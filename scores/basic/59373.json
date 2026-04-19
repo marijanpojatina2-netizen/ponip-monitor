@@ -1,0 +1,17 @@
+{
+  "id": "59373",
+  "score_overall": 4.5,
+  "score_lokacija": 4.5,
+  "score_roi": 5.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Industrijska zgrada 1753 m2 + dvorište 1389 m2 u k.o. Šarampov (TS Zagreb jurisdikcija) s 25% popustom na prvoj dražbi – solidna industrijska/skladišna imovina ali lokacija i konverzijski potencijal zahtijevaju terensku provjeru.",
+  "flags": [
+    "prva dražba",
+    "lokacija k.o. Šarampov – likvidnost nejasna bez terenske provjere",
+    "industrijska namjena – ograničena konverzija",
+    "stanje unutrašnjosti nepoznato"
+  ],
+  "input_hash": "f9c5fc58d73e",
+  "scored_at": "2026-04-19T19:40:10.482790"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "59033",
+  "score_overall": 5.5,
+  "score_lokacija": 6.0,
+  "score_roi": 5.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Varaždin Zagrebačka ulica - 18.532m2 pretežno dvorišnog zemljišta s pomoćnim zgradama (trafostanica, servisna zgrada) po 25% popustu iz stečaja; lokacija solidna za industriju/logistiku ali nedostatak glavne građevine smanjuje vrijednost.",
+  "flags": [
+    "stečajni postupak - detaljna provjera svih tereta i hipoteka",
+    "pretežno dvorište bez primarne građevine",
+    "industrijska namjena - provjera UPU/DPU mogućnosti preunamjene"
+  ],
+  "input_hash": "f05168c9cc87",
+  "scored_at": "2026-04-19T19:35:31.434547"
+}

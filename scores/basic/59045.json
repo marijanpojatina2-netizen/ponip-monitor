@@ -1,0 +1,17 @@
+{
+  "id": "59045",
+  "score_overall": 5.5,
+  "score_lokacija": 5.5,
+  "score_roi": 6.0,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Veliki industrijski kompleks 7931 m2 s 14 zgrada na Zagrebačkoj ulici Varaždin, 25% popust na prvoj dražbi – atraktivan volumen imovine po relativno povoljnoj cijeni, pogotovo u kombinaciji s parcelom 3924/2 (ID 59011).",
+  "flags": [
+    "prva dražba – prostor za daljnji popust",
+    "veliki kompleks zahtijeva značajan kapital i due diligence",
+    "stanje 14 zgrada nepoznato – moguće skupe sanacije",
+    "razmatrati kombinirano s ID 59011 (isti stečajni dužnik, ista ulica)"
+  ],
+  "input_hash": "50189f439964",
+  "scored_at": "2026-04-19T19:40:10.483233"
+}

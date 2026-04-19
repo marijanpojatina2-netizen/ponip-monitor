@@ -1,0 +1,16 @@
+{
+  "id": "59037",
+  "score_overall": 4.5,
+  "score_lokacija": 5.5,
+  "score_roi": 4.0,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Industrijska zgrada u Varaždinu s 25% popustom, ali mali obujam zgrada (~727 m2) uz 2.14M EUR početne cijene čini valuaciju po m2 zgrade previsoku (~2.940 EUR/m2). Dio vjerojatno većeg industrijskog kompleksa na Zagrebačkoj ulici - pogledaj kao paket s ID 59015 i 59049.",
+  "flags": [
+    "visoka cijena po m2 zgrade",
+    "industrijska namjena - ograničen krug kupaca",
+    "dio većeg kompleksa - provjeriti odnos s k.č.br. 3924/6 i 3925/69"
+  ],
+  "input_hash": "2697880239b1",
+  "scored_at": "2026-04-19T19:31:28.661823"
+}

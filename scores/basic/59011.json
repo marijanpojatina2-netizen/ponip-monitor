@@ -1,0 +1,17 @@
+{
+  "id": "59011",
+  "score_overall": 5.0,
+  "score_lokacija": 5.5,
+  "score_roi": 5.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Tri industrijske zgrade ukupno 599 m2 + dvorište na Zagrebačkoj ulici Varaždin s 25% popustom; posebno zanimljivo ako se promatra kao dio paketa s parcelom 3924/12 (ID 59045) od istog stečajnog dužnika.",
+  "flags": [
+    "prva dražba",
+    "industrijska namjena",
+    "razmatrati kombinirano s ID 59045 (ista Zagrebačka ul., isti stečajni dužnik)",
+    "stanje zgrada nepoznato"
+  ],
+  "input_hash": "7563ed7541d1",
+  "scored_at": "2026-04-19T19:40:10.482934"
+}

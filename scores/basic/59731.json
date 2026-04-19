@@ -1,0 +1,16 @@
+{
+  "id": "59731",
+  "score_overall": 3.8,
+  "score_lokacija": 3.5,
+  "score_roi": 4.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Ribogojilište u ruralnoj unutrašnjosti Dalmacije s visoko specifičnom namjenom i minimalnom prenamjenskom logikom za tipičnog investitora; 20% popust na prvoj dražbi apsolutno nedovoljan za kompenzaciju operativne kompleksnosti, ruralne nelikvidnosti i 26.000+ m2 neplodnog zemljišta bez jasne vrijednosti.",
+  "flags": [
+    "visoko specijalizirana namjena (ribogojilište) - uska baza kupaca",
+    "ruralna lokacija bez turističke infrastrukture",
+    "neplodno zemljište 12.309 m2 bez jasnog potencijala"
+  ],
+  "input_hash": "2c1a19d9c154",
+  "scored_at": "2026-04-19T19:42:53.452485"
+}

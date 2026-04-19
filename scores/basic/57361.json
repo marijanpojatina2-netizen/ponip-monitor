@@ -1,0 +1,16 @@
+{
+  "id": "57361",
+  "score_overall": 6.0,
+  "score_lokacija": 5.0,
+  "score_roi": 7.0,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Komercijalna nekretnina u Prelogu (Međimurje) s točno 40% popustom na drugoj dražbi daje solidnu ROI osnovu, a velika parcela (5072 m2) s restoranom, halom i skladištima nosi potencijal prenamjene. Frakcionalno etažno vlasništvo (468/1000 od E-1) i likvidnost manjeg industrijskog grada ograničavaju izlaznu strategiju.",
+  "flags": [
+    "frakcionalno vlasništvo 468/1000 od E-1",
+    "kompleksna etažno-vlasnička struktura - opis odsječen",
+    "manji grad - ograničena likvidnost"
+  ],
+  "input_hash": "5f7aff8a7fe6",
+  "scored_at": "2026-04-19T19:38:52.406918"
+}

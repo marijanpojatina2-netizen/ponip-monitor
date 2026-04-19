@@ -1,0 +1,16 @@
+{
+  "id": "59053",
+  "score_overall": 5.5,
+  "score_lokacija": 6.0,
+  "score_roi": 6.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Veliko zemljište (6.308 m2) u Varaždinu (Varteksova ul. - stara industrijska zona) s 25% popustom na prvoj dražbi; potencijal za development ili preprodaju investitoru. Slabost je što je 95% čestica neuređeno dvorište s minimalnim objektom (skladište 102 m2) - potrebna gradnja/prenamjena.",
+  "flags": [
+    "pretežno neizgrađeno dvorište - trošak razvoja",
+    "1. dražba - cijena može pasti na kasnijima",
+    "industrijska/komercijalna namjena - potrebna provjera prostornog plana"
+  ],
+  "input_hash": "ba4b40f599e9",
+  "scored_at": "2026-04-19T19:49:27.965786"
+}

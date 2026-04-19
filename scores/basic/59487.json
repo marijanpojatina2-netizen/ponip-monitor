@@ -1,0 +1,17 @@
+{
+  "id": "59487",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Mješoviti paket u Petrinji s 20% popustom na prvoj dražbi - suvlasništvo 1/2 drastično reducira upotrebljivost i preprodajnu vrijednost, a Petrinja kao potresno i depopulacijsko područje nema realnu investicijsku perspektivu.",
+  "flags": [
+    "suvlasništvo 1/2 - kupuješ samo pola kompleksa",
+    "Petrinja - potresno područje 2020., spora obnova",
+    "depopulacijska zona (Sisačko-moslavačka županija)",
+    "sitne razdrobljene čestice (29-439 m2) uz glavnu zgradu"
+  ],
+  "input_hash": "533529213506",
+  "scored_at": "2026-04-19T19:48:20.273615"
+}
