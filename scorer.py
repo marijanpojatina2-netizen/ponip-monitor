@@ -4,6 +4,12 @@ scorer.py — AI scoring za PONIP nekretnine (GHA edition).
 
 Koristi `claude --print` s CLAUDE_CODE_OAUTH_TOKEN env var — Max subscription.
 VAŽNO: Workflow mora NE postaviti ANTHROPIC_API_KEY, inače će biti billing preko API-ja.
+
+v3.1 - fixes:
+- Prompt via stdin (ne pozicijski arg) — izbjegava probleme s --allowed-tools
+- Smarter JSON extraction — prefer JSON koji matcha očekivanu shemu
+- Handle list wrapper u detailed scoring
+- Log raw output kad detailed scoring padne
 """
 
 import subprocess
@@ -25,8 +31,13 @@ DETAILED_DIR.mkdir(parents=True, exist_ok=True)
 
 DETAILED_THRESHOLD_EUR = 500_000
 CLAUDE_BIN = os.environ.get("CLAUDE_BIN", "claude")
+<<<<<<< HEAD
 CLAUDE_TIMEOUT_BASIC = 360
 CLAUDE_TIMEOUT_DETAILED = 360
+=======
+CLAUDE_TIMEOUT_BASIC = 300
+CLAUDE_TIMEOUT_DETAILED = 600
+>>>>>>> 36bd48c (rewrite scorer.py with all fixes (stdin, smart JSON, debug logging))
 
 
 # ============================================================================
@@ -72,18 +83,23 @@ def needs_rescoring(record: dict, cached: dict | None) -> bool:
 # ============================================================================
 
 def call_claude(prompt: str, timeout: int, allow_web: bool = False) -> str:
-    # SAFETY: ako je ANTHROPIC_API_KEY postavljen, upozorimo i obrišemo — idemo preko OAuth
+    """Poziva claude --print s promptom preko stdin-a."""
     env = os.environ.copy()
     if env.pop("ANTHROPIC_API_KEY", None):
         log.warning("ANTHROPIC_API_KEY je bio postavljen — uklonjen da se koristi OAuth token")
     if not env.get("CLAUDE_CODE_OAUTH_TOKEN"):
-        log.error("CLAUDE_CODE_OAUTH_TOKEN nije postavljen — claude --print neće raditi bez autentifikacije!")
+        log.error("CLAUDE_CODE_OAUTH_TOKEN nije postavljen — claude --print neće raditi!")
 
     cmd = [CLAUDE_BIN, "--print"]
     if allow_web:
         cmd += ["--allowed-tools", "web_search"]
+<<<<<<< HEAD
     # Prompt ide preko stdin-a umjesto pozicijskog argumenta — izbjegava probleme
     # s --allowed-tools koji konzumira previše argumenata, i podržava jako dugačke promptove
+=======
+    # Prompt preko stdin-a — izbjegava argv parsing probleme s --allowed-tools
+    # i podržava jako dugačke promptove
+>>>>>>> 36bd48c (rewrite scorer.py with all fixes (stdin, smart JSON, debug logging))
     log.debug(f"claude call: {len(prompt)} chars prompt via stdin, web={allow_web}")
     result = subprocess.run(
         cmd,
@@ -107,10 +123,19 @@ def _find_all_json(text: str):
         if ch not in "[{":
             i += 1
             continue
+<<<<<<< HEAD
         open_c, close_c = ch, "}" if ch == "{" else "]"
         depth = 0
         in_str = False
         esc = False
+=======
+        open_c = ch
+        close_c = "}" if ch == "{" else "]"
+        depth = 0
+        in_str = False
+        esc = False
+        found_end = False
+>>>>>>> 36bd48c (rewrite scorer.py with all fixes (stdin, smart JSON, debug logging))
         for j in range(i, len(text)):
             c = text[j]
             if esc:
@@ -135,18 +160,31 @@ def _find_all_json(text: str):
                     except json.JSONDecodeError:
                         pass
                     i = j + 1
+<<<<<<< HEAD
                     break
         else:
+=======
+                    found_end = True
+                    break
+        if not found_end:
+>>>>>>> 36bd48c (rewrite scorer.py with all fixes (stdin, smart JSON, debug logging))
             break
     return results
 
 
 def extract_json(text: str, prefer_key: str = None):
     """
+<<<<<<< HEAD
     Izvuče JSON iz Claudeovog outputa. Uzima:
     1. Ako je čisti JSON — vrati ga
     2. Ako ima više JSON blokova — prefer onaj koji ima `prefer_key` field
     3. Fallback: zadnji JSON objekt (obično stvarni odgovor je na kraju)
+=======
+    Izvuče JSON iz Claudeovog outputa.
+    - Ako je čisti JSON, vrati ga
+    - Inače nađi sve JSON blokove i prefer-iraj onaj koji ima prefer_key
+    - Fallback: zadnji kandidat
+>>>>>>> 36bd48c (rewrite scorer.py with all fixes (stdin, smart JSON, debug logging))
     """
     t = text.strip()
     # Skini ``` fences ako postoje
@@ -165,6 +203,7 @@ def extract_json(text: str, prefer_key: str = None):
     if not candidates:
         raise ValueError(f"Ne mogu parsirati JSON iz: {text[:500]}")
 
+<<<<<<< HEAD
     # Ako je zadan prefer_key, traži JSON koji ga ima
     if prefer_key:
         # Dict koji direktno ima taj key
@@ -178,6 +217,18 @@ def extract_json(text: str, prefer_key: str = None):
                     if isinstance(item, dict) and prefer_key in item:
                         return c  # vrati cijeli array
     # Fallback — zadnji kandidat (dict ili array)
+=======
+    if prefer_key:
+        # Dict koji direktno ima taj key (tražiti s kraja jer je odgovor obično zadnji)
+        for c in reversed(candidates):
+            if isinstance(c, dict) and prefer_key in c:
+                return c
+        # Array čiji članovi imaju taj key
+        for c in reversed(candidates):
+            if isinstance(c, list):
+                if any(isinstance(item, dict) and prefer_key in item for item in c):
+                    return c
+>>>>>>> 36bd48c (rewrite scorer.py with all fixes (stdin, smart JSON, debug logging))
     return candidates[-1]
 
 
@@ -287,7 +338,10 @@ Jamčevina: {r.get('jamcevina')} EUR
 Opis: {r.get('opis', '')}
 Razgledavanje: {r.get('razgledavanje', '—')}
 
-VRATI SAMO JSON (bez markdown, bez objašnjenja):
+VAŽNO: Tvoj ODGOVOR mora biti JEDAN JSON OBJEKT (ne array, ne markdown, ne objašnjenje).
+Slobodno pretraži web koliko god treba, ali u FINALNOM odgovoru PISAJ SAMO JSON objekt.
+
+Struktura:
 {{
   "id": "{r['id']}",
   "score_overall": <0-10>,
@@ -301,14 +355,14 @@ VRATI SAMO JSON (bez markdown, bez objašnjenja):
     "eur_min": <int>,
     "eur_max": <int>,
     "confidence": "low|medium|high",
-    "basis": "<kratko objašnjenje na čemu se procjena bazira>"
+    "basis": "<kratko objašnjenje>"
   }},
   "comparables": [
     {{"opis": "<kratki opis>", "cijena": <int>, "m2": <int ili null>, "izvor": "<portal>", "url": "<url>"}}
   ],
-  "investment_strategy": "<kratkoročna preprodaja / dugoročno iznajmljivanje / reno-flip / razvoj + obrazloženje>",
+  "investment_strategy": "<preprodaja / iznajmljivanje / reno-flip / razvoj + obrazloženje>",
   "entry_price_eur": <maks. cijena po kojoj je deal atraktivan>,
-  "detailed_risks": ["<specifičan rizik s obrazloženjem>", ...],
+  "detailed_risks": ["<specifičan rizik>", ...],
   "upside_scenario": "<optimistični scenarij 2-3 god>",
   "downside_scenario": "<što ako ne prođe>"
 }}"""
@@ -322,10 +376,18 @@ def score_basic_batch(records: list[dict]) -> list[dict]:
     if not records:
         return []
     prompt = build_basic_batch_prompt(records)
+<<<<<<< HEAD
 raw = call_claude(prompt, timeout=CLAUDE_TIMEOUT_BASIC, allow_web=False)
+=======
+    raw = call_claude(prompt, timeout=CLAUDE_TIMEOUT_BASIC, allow_web=False)
+>>>>>>> 36bd48c (rewrite scorer.py with all fixes (stdin, smart JSON, debug logging))
     parsed = extract_json(raw, prefer_key="score_overall")
     if not isinstance(parsed, list):
-        raise ValueError(f"Očekivan JSON array, dobio {type(parsed).__name__}")
+        # Claude možda vratio jedan objekt umjesto array-a
+        if isinstance(parsed, dict):
+            parsed = [parsed]
+        else:
+            raise ValueError(f"Očekivan JSON array, dobio {type(parsed).__name__}")
     by_id = {str(s.get("id")): s for s in parsed if isinstance(s, dict)}
     return [by_id[r["id"]] for r in records if r["id"] in by_id]
 
@@ -339,14 +401,27 @@ def score_detailed_one(r: dict) -> dict:
         # Spremi raw output za debug
         debug_path = DETAILED_DIR / f"{r['id']}_raw_failed.txt"
         debug_path.write_text(raw, encoding="utf-8")
+<<<<<<< HEAD
         log.error(f"Spremljen raw output u {debug_path}")
         raise
     # Claude ponekad vrati array s jednim objektom umjesto samog objekta
+=======
+        log.error(f"Spremljen raw output u {debug_path.name}")
+        raise
+    # Claude s web_search-om ponekad vrati array s jednim objektom
+>>>>>>> 36bd48c (rewrite scorer.py with all fixes (stdin, smart JSON, debug logging))
     if isinstance(result, list):
         dicts = [x for x in result if isinstance(x, dict) and "market_estimate" in x]
         if dicts:
             result = dicts[0]
         else:
+<<<<<<< HEAD
+=======
+            # Spremi raw za debug
+            debug_path = DETAILED_DIR / f"{r['id']}_raw_failed.txt"
+            debug_path.write_text(raw, encoding="utf-8")
+            log.error(f"Lista bez dict-a s market_estimate za ID {r['id']} — raw u {debug_path.name}")
+>>>>>>> 36bd48c (rewrite scorer.py with all fixes (stdin, smart JSON, debug logging))
             raise ValueError(f"Lista ne sadrži dict s market_estimate za ID {r['id']}")
     if not isinstance(result, dict):
         raise ValueError(f"Očekivan JSON objekt, dobio {type(result).__name__}")
