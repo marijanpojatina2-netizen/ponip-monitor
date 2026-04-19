@@ -98,33 +98,87 @@ def call_claude(prompt: str, timeout: int, allow_web: bool = False) -> str:
     return result.stdout
 
 
-def extract_json(text: str):
+def _find_all_json(text: str):
+    """Pronađe sve kompletne JSON objekte/array-e u tekstu."""
+    results = []
+    i = 0
+    while i < len(text):
+        ch = text[i]
+        if ch not in "[{":
+            i += 1
+            continue
+        open_c, close_c = ch, "}" if ch == "{" else "]"
+        depth = 0
+        in_str = False
+        esc = False
+        for j in range(i, len(text)):
+            c = text[j]
+            if esc:
+                esc = False
+                continue
+            if c == "\\":
+                esc = True
+                continue
+            if c == '"':
+                in_str = not in_str
+                continue
+            if in_str:
+                continue
+            if c == open_c:
+                depth += 1
+            elif c == close_c:
+                depth -= 1
+                if depth == 0:
+                    try:
+                        parsed = json.loads(text[i:j + 1])
+                        results.append(parsed)
+                    except json.JSONDecodeError:
+                        pass
+                    i = j + 1
+                    break
+        else:
+            break
+    return results
+
+
+def extract_json(text: str, prefer_key: str = None):
+    """
+    Izvuče JSON iz Claudeovog outputa. Uzima:
+    1. Ako je čisti JSON — vrati ga
+    2. Ako ima više JSON blokova — prefer onaj koji ima `prefer_key` field
+    3. Fallback: zadnji JSON objekt (obično stvarni odgovor je na kraju)
+    """
     t = text.strip()
+    # Skini ``` fences ako postoje
     if t.startswith("```"):
         t = t.split("\n", 1)[1] if "\n" in t else t[3:]
         if t.rstrip().endswith("```"):
             t = t.rsplit("```", 1)[0]
     t = t.strip()
+    # Direct parse
     try:
         return json.loads(t)
     except json.JSONDecodeError:
         pass
-    for open_c, close_c in [("[", "]"), ("{", "}")]:
-        start = t.find(open_c)
-        if start < 0:
-            continue
-        depth = 0
-        for i in range(start, len(t)):
-            if t[i] == open_c:
-                depth += 1
-            elif t[i] == close_c:
-                depth -= 1
-                if depth == 0:
-                    try:
-                        return json.loads(t[start:i + 1])
-                    except json.JSONDecodeError:
-                        break
-    raise ValueError(f"Ne mogu parsirati JSON iz: {text[:300]}")
+
+    candidates = _find_all_json(t)
+    if not candidates:
+        raise ValueError(f"Ne mogu parsirati JSON iz: {text[:500]}")
+
+    # Ako je zadan prefer_key, traži JSON koji ga ima
+    if prefer_key:
+        # Dict koji direktno ima taj key
+        for c in reversed(candidates):  # reversed jer je odgovor obično na kraju
+            if isinstance(c, dict) and prefer_key in c:
+                return c
+        # Array koji sadrži dict s tim key-em
+        for c in reversed(candidates):
+            if isinstance(c, list):
+                for item in c:
+                    if isinstance(item, dict) and prefer_key in item:
+                        return c  # vrati cijeli array
+    # Fallback — zadnji kandidat (dict ili array)
+    return candidates[-1]
 
 
 # ============================================================================
@@ -268,8 +322,8 @@ def score_basic_batch(records: list[dict]) -> list[dict]:
     if not records:
         return []
     prompt = build_basic_batch_prompt(records)
-    raw = call_claude(prompt, timeout=CLAUDE_TIMEOUT_BASIC, allow_web=False)
-    parsed = extract_json(raw)
+raw = call_claude(prompt, timeout=CLAUDE_TIMEOUT_BASIC, allow_web=False)
+    parsed = extract_json(raw, prefer_key="score_overall")
     if not isinstance(parsed, list):
         raise ValueError(f"Očekivan JSON array, dobio {type(parsed).__name__}")
     by_id = {str(s.get("id")): s for s in parsed if isinstance(s, dict)}
@@ -279,18 +333,21 @@ def score_basic_batch(records: list[dict]) -> list[dict]:
 def score_detailed_one(r: dict) -> dict:
     prompt = build_detailed_prompt(r)
     raw = call_claude(prompt, timeout=CLAUDE_TIMEOUT_DETAILED, allow_web=True)
-    result = extract_json(raw)
-    # Claude ponekad s web_search-om vrati array s jednim objektom umjesto samog objekta
+    try:
+        result = extract_json(raw, prefer_key="market_estimate")
+    except ValueError:
+        # Spremi raw output za debug
+        debug_path = DETAILED_DIR / f"{r['id']}_raw_failed.txt"
+        debug_path.write_text(raw, encoding="utf-8")
+        log.error(f"Spremljen raw output u {debug_path}")
+        raise
+    # Claude ponekad vrati array s jednim objektom umjesto samog objekta
     if isinstance(result, list):
-        dicts = [x for x in result if isinstance(x, dict)]
-        if len(dicts) == 1:
+        dicts = [x for x in result if isinstance(x, dict) and "market_estimate" in x]
+        if dicts:
             result = dicts[0]
-        elif len(dicts) > 1:
-            # Uzmi onaj čiji id odgovara našem record-u, ako postoji
-            match = next((x for x in dicts if str(x.get("id")) == r["id"]), None)
-            result = match or dicts[0]
         else:
-            raise ValueError(f"Lista ne sadrži ni jedan dict za ID {r['id']}")
+            raise ValueError(f"Lista ne sadrži dict s market_estimate za ID {r['id']}")
     if not isinstance(result, dict):
         raise ValueError(f"Očekivan JSON objekt, dobio {type(result).__name__}")
     return result
