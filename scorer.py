@@ -82,9 +82,17 @@ def call_claude(prompt: str, timeout: int, allow_web: bool = False) -> str:
     cmd = [CLAUDE_BIN, "--print"]
     if allow_web:
         cmd += ["--allowed-tools", "web_search"]
-    cmd.append(prompt)
-    log.debug(f"claude call: {len(prompt)} chars prompt, web={allow_web}")
-    result = subprocess.run(cmd, capture_output=True, text=True, timeout=timeout, env=env)
+    # Prompt ide preko stdin-a umjesto pozicijskog argumenta — izbjegava probleme
+    # s --allowed-tools koji konzumira previše argumenata, i podržava jako dugačke promptove
+    log.debug(f"claude call: {len(prompt)} chars prompt via stdin, web={allow_web}")
+    result = subprocess.run(
+        cmd,
+        input=prompt,
+        capture_output=True,
+        text=True,
+        timeout=timeout,
+        env=env,
+    )
     if result.returncode != 0:
         raise RuntimeError(f"claude exit {result.returncode}: {result.stderr[:500]}")
     return result.stdout
