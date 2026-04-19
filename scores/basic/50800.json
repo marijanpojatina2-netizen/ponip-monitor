@@ -1,0 +1,16 @@
+{
+  "id": "50800",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Gotovo 100 hektara aktivnih voćnjaka u Slavoniji (Trnjani/Slavonski Brod) operativna je imovina, ali ekstremno niska likvidnost regije, depopulacija i ograničena prenamjena agrikulturnog zemljišta čine exit strategiju gotovo nemogućom. 25% popust na prvoj dražbi nije dovoljan za kompenzaciju strukturnih rizika slavonskog tržišta.",
+  "flags": [
+    "Slavonija - depopulacijska regija, niska tržišna likvidnost",
+    "agrikulturno zemljište (voćnjaci) - ograničena prenamjena",
+    "97+ hektara - uzan krug potencijalnih kupaca (samo agro-investitori)"
+  ],
+  "input_hash": "f78e765faecc",
+  "scored_at": "2026-04-19T16:21:15.169774"
+}

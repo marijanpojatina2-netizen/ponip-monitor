@@ -1,0 +1,16 @@
+{
+  "id": "58815",
+  "score_overall": 3.0,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.5,
+  "recommendation": "pass",
+  "reasoning": "Stan 42m2 u Kninu za 34.4k EUR - Knin nema investicijskog potencijala, slabo turističko i ekonomsko središte s ograničenom likvidnošću nekretnina. Kompleksna ZK situacija (višestruki katastarski brojevi) dodaje pravni rizik koji nije opravdan lokacijom.",
+  "flags": [
+    "kompleksna ZK situacija - više katastarskih čestica za jedan stan",
+    "Knin - minimalna likvidnost tržišta",
+    "42m2 stan - limitirani prihodi od najma"
+  ],
+  "input_hash": "e0cedd817840",
+  "scored_at": "2026-04-19T16:11:49.257560"
+}

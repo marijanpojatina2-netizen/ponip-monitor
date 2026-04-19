@@ -1,0 +1,16 @@
+{
+  "id": "58129",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Livada 1277m² kod Daruvara s istom problematičnom pet-stranačkom vlasničkom strukturom kao nekretnina 5 (isti zk.ul.br. 1412, k.o. Koreničani). Praktički twin-lot s ID 58135, jednako nezanimljiv.",
+  "flags": [
+    "5 suvlasničkih strana",
+    "ista zk.ul.br. kao ID 58135 – paket s kompleksnom strukturom",
+    "Daruvar – depopulacijsko područje"
+  ],
+  "input_hash": "58d4b10bb694",
+  "scored_at": "2026-04-19T16:18:14.935510"
+}

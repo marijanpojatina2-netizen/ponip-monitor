@@ -1,0 +1,17 @@
+{
+  "id": "58369",
+  "score_overall": 5.5,
+  "score_lokacija": 6.5,
+  "score_roi": 5.5,
+  "score_stanje": 5,
+  "recommendation": "watch",
+  "reasoning": "Zagreb, Trešnjevka – solidna lokacija s potencijalom prenamijenbe, ali specijalizirana sportsko-rekreacijska namjena drastično sužava krug potencijalnih kupaca i otežava refinanciranje. Prva dražba s popustom od 25% nije dovoljno atraktivno za ovako kapitalintenzivnu kupovinu bez detaljne analize mogućnosti prenamjene.",
+  "flags": [
+    "specijalizirana namjena (sportska hala, teniski tereni) – ograničena tržišna likvidnost",
+    "visoka jamčevina 331.659 EUR",
+    "potrebna procjena troškova prenamjene i ishođenja dozvola",
+    "velika ukupna investicija (2,49M+ EUR)"
+  ],
+  "input_hash": "c745f03d7cf3",
+  "scored_at": "2026-04-19T16:21:58.951431"
+}

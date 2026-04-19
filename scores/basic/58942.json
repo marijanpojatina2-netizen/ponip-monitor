@@ -1,0 +1,16 @@
+{
+  "id": "58942",
+  "score_overall": 6.5,
+  "score_lokacija": 8.5,
+  "score_roi": 6.0,
+  "score_stanje": 3.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Nedovršena kuća 130m2 s okućnicom 347m2 na otoku Čiovu (Okrug Donji) blizu Trogira i Splita - premium turistička lokacija gdje gotova nekretnina može vrijedi 600k+ EUR. Ključni rizik je nepoznati opseg i trošak završnih radova koji mogu dramatično smanjiti ROI.",
+  "flags": [
+    "Nedovršeni stambeni objekt - nepoznati trošak i opseg radova",
+    "Provjera važećih građevinskih dozvola i etapnosti izgradnje",
+    "Prva dražba - bez dodatnog popusta"
+  ],
+  "input_hash": "44cd25855220",
+  "scored_at": "2026-04-19T16:09:10.028034"
+}

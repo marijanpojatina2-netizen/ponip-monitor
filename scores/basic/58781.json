@@ -1,0 +1,16 @@
+{
+  "id": "58781",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica 1823 m² u k.o. Glogovac (Koprivnica) - identičan profil kao ostale Koprivnica/Glogovac čestice u ovom skupu. Nema diferencirajućeg faktora, 20% popust na prvoj dražbi ne čini slučaj investicijskim.",
+  "flags": [
+    "poljoprivredno zemljište - niska likvidnost",
+    "ruralno kontinentalno područje",
+    "prva dražba, minimalni popust"
+  ],
+  "input_hash": "659172ae9e30",
+  "scored_at": "2026-04-19T16:17:12.085070"
+}

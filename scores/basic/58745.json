@@ -1,0 +1,16 @@
+{
+  "id": "58745",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Poljoprivredne parcele (livada, oranica) u ruralnom Glogovcu kod Koprivnice - depopulacijsko područje s minimalnim investicijskim potencijalom. Popust svega 20% na prvoj dražbi, niska likvidnost, bez razvojnog potencijala za turistički ili urbani najam.",
+  "flags": [
+    "poljoprivredno zemljište - ograničena namjena",
+    "ruralno depopulacijsko područje",
+    "niska tržišna likvidnost"
+  ],
+  "input_hash": "ddc533df84f8",
+  "scored_at": "2026-04-19T16:16:42.818270"
+}

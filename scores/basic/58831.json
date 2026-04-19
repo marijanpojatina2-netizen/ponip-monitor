@@ -1,0 +1,17 @@
+{
+  "id": "58831",
+  "score_overall": 5.0,
+  "score_lokacija": 6.5,
+  "score_roi": 4.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Zadar lokacija je pozitivna, ali kupnja samo 1/3 suvlasničkog dijela drastično komplicira raspolaganje nekretninom i exit; mali popust od 20% pri prvoj dražbi i obnova zemljišne knjige u tijeku dodatno povećavaju pravni i vremenski rizik.",
+  "flags": [
+    "1/3 suvlasničkog dijela - ograničeno raspolaganje, potrebna suglasnost ili sudska dioba",
+    "obnova zemljišne knjige u tijeku - nova izmjera",
+    "prva dražba",
+    "suvlasnici mogu blokirati prodaju/najam"
+  ],
+  "input_hash": "2f1d6982b5f3",
+  "scored_at": "2026-04-19T16:13:34.479943"
+}

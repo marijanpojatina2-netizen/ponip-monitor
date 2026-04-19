@@ -1,0 +1,16 @@
+{
+  "id": "46964",
+  "score_overall": 3.5,
+  "score_lokacija": 3.0,
+  "score_roi": 5.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Vrt 403 m² u Kraljevcu na Sutli (Klanjec) - Hrvatsko zagorje blizu slovenske granice, druga dražba s 40% popustom što je jedina pozitivna stavka. Mala parcela bez jasnog investicijskog case-a, ali popust opravdava praćenje ako postoji lokalni interes.",
+  "flags": [
+    "vrt/poljoprivredno - ograničena namjena",
+    "mala parcela (403 m²)",
+    "blizina granice - potencijal za turizam/vikendice no slaba infrastruktura"
+  ],
+  "input_hash": "4951dd820cd5",
+  "scored_at": "2026-04-19T16:17:12.085012"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "57347",
+  "score_overall": 6.5,
+  "score_lokacija": 5.5,
+  "score_roi": 7.5,
+  "score_stanje": 5.5,
+  "recommendation": "bid",
+  "reasoning": "Izvrstan popust od 40% na drugoj dražbi za kuću 120m2 s velikom česticom (oranica 3538m2 + dvorište 1075m2) u Velikoj Gorici - satelitski grad Zagreba s aktivnim tržištem nekretnina. Velika parcela nudi razvojni potencijal ili prodaju dijela zemljišta kao dodatni izvor povrata.",
+  "flags": [
+    "Oranica 3538m2 - provjera namjene (poljoprivredna vs. građevinska)",
+    "Provjera mogućnosti parcelacije i prenamjene u prostornom planu"
+  ],
+  "input_hash": "27078bd0eb8a",
+  "scored_at": "2026-04-19T16:09:10.028187"
+}

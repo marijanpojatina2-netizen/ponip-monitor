@@ -1,0 +1,17 @@
+{
+  "id": "57750",
+  "score_overall": 3.5,
+  "score_lokacija": 4.0,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Unatoč 40% popustu i drugoj dražbi, predmet je pojata (poljoprivredna zgrada/staja) od 241 m2 bez anagrafske oznake u unutrašnjosti Dalmacije; prenamjena u stambeno u RH je složena, a Hrvace nema turističkog niti investicijskog potencijala.",
+  "flags": [
+    "pojata - nije stambeni objekt, neuseljivo",
+    "nema anagrafske oznake / bez adrese",
+    "prenamjena u stambeni prostor administrativno složena",
+    "unutrašnjost Dalmacije - bez turističke rente"
+  ],
+  "input_hash": "ea2b16e87a50",
+  "scored_at": "2026-04-19T16:13:34.480069"
+}

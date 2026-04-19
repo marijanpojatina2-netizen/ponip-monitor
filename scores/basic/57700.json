@@ -1,0 +1,16 @@
+{
+  "id": "57700",
+  "score_overall": 5.5,
+  "score_lokacija": 4.5,
+  "score_roi": 7.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Širinec/Bunjani kod Ivanić-Grada nudi veliku parcelu 15.946m2 s građevinskim potencijalom za 30.5k EUR (40% popust, druga dražba) - volumen zemljišta je intrigantan. Problem je agrarna zona bez jasne građevinske namjene i udaljenost od Zagreba reducira urbanu premiju.",
+  "flags": [
+    "pretežno oranica i voćnjak - agrarna namjena, ne građevinsko",
+    "suvlasnička struktura nejasna - zgrade 327m2 bez detalja",
+    "potrebna provjera prostornog plana za potencijalnu prenamjenu"
+  ],
+  "input_hash": "949ca2e82fc0",
+  "scored_at": "2026-04-19T16:11:49.257498"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "58717",
+  "score_overall": 3.0,
+  "score_lokacija": 2.0,
+  "score_roi": 3.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Isključivo poljoprivredno zemljište (~37.000 m2 oranica, livada i voćnjaka) u ruralnom Bjelovarsko-bilogorskom kraju s minimalnim popustom od 20% pri prvoj dražbi; bez ikakvog objekta i turističkog potencijala, investicijski neinteresantno.",
+  "flags": [
+    "samo poljoprivredno zemljište - nema objekta",
+    "prva dražba - pun cjenovni rizik",
+    "niska regionalna likvidnost"
+  ],
+  "input_hash": "876cb1389d2e",
+  "scored_at": "2026-04-19T16:13:34.479869"
+}

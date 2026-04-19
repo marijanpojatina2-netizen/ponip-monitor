@@ -1,0 +1,16 @@
+{
+  "id": "58131",
+  "score_overall": 1.5,
+  "score_lokacija": 2.0,
+  "score_roi": 2.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Identičan vlasničko-pravni problem kao nekretnina 58141 — isti ovrhovoditelji, isti ZK uložak 1412 k.o. Koreničani, samo druga čestica livade (852 m²). Bez ikakvog razvijenog potencijala za toliku pravnu kompleksnost.",
+  "flags": [
+    "5 ovršenika s razlomljenim udjelima — isti profil kao 58141",
+    "moguća vezanost uz istu parcelizirajuću ovrhu",
+    "ruralno depopulacijsko područje"
+  ],
+  "input_hash": "f7f74ee63a77",
+  "scored_at": "2026-04-19T16:19:25.180966"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "58797",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Dvije livade u k.o. Glogovac, Koprivnica - fragmentirano poljoprivredno zemljište bez atraktivnosti za investitora. Isti profil kao ID 58779, niska likvidnost, slab ROI.",
+  "flags": [
+    "fragmentirano poljoprivredno zemljište (2 čestice)",
+    "ruralno, slaba potražnja",
+    "prva dražba, minimalni popust"
+  ],
+  "input_hash": "71526ed32aca",
+  "scored_at": "2026-04-19T16:17:12.084826"
+}

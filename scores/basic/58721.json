@@ -1,0 +1,16 @@
+{
+  "id": "58721",
+  "score_overall": 4.5,
+  "score_lokacija": 5.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Industrijski/poslovni objekt (prodajni salon sa skladištem) na periferiji Šibenika s minimalnim popustom 20% na prvoj dražbi - slaba investicijska teza za privatnog investitora. Specifična komercijalna namjena s niskom likvidnošću i ograničenim potencijalom konverzije.",
+  "flags": [
+    "Industrijska zgrada - ograničena konverzija u stambenu namjenu",
+    "Periferija Šibenika (Šubićevac/Ražine) - slabija tražnja",
+    "Visoki troškovi održavanja komercijalnog prostora"
+  ],
+  "input_hash": "3a98bc5982b5",
+  "scored_at": "2026-04-19T16:09:10.027950"
+}

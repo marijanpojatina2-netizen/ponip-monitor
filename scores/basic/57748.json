@@ -1,0 +1,17 @@
+{
+  "id": "57748",
+  "score_overall": 3.0,
+  "score_lokacija": 3.0,
+  "score_roi": 5.0,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Pojata (gospodarska zgrada) bez anagrafske oznake u ruralnom zaleđu Splita - vrsta objekta isključuje stambenu ili turističku upotrebu; popust od 40% i druga dražba poboljšavaju ROI ali drastično suženo tržište kupaca anulira prednost.",
+  "flags": [
+    "pojata - nije stambeni objekt",
+    "nema anagrafske oznake (bez adrese)",
+    "ruralno zaleđe Splita - Hrvace, slaba likvidnost",
+    "ograničen razvoj bez građevinskog prenamijenjavanja"
+  ],
+  "input_hash": "006a2b3bb000",
+  "scored_at": "2026-04-19T16:16:19.372605"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "58705",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Livade i oranice u k.o. Petrička (Bjelovar) – ukupno ~23.000 m2 obradivih površina, no lokacija je ruralna Bilogora bez turističkog ni komercijalnog potencijala. Relativno najveće zemljište u ovom setu, ali i dalje pas za investitora koji nije aktivan u agrarnom sektoru.",
+  "flags": [
+    "isključivo poljoprivredno zemljište",
+    "5 čestica – fragmentacija",
+    "slaba likvidnost regije Bjelovar"
+  ],
+  "input_hash": "009c0e28a614",
+  "scored_at": "2026-04-19T16:14:09.214863"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "58767",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Dvije livadne parcele ukupno ~4880 m2 u k.o. Glogovac - čisto poljoprivredno zemljište bez razvojnog potencijala. Prva dražba, 20% popust, depopulacijska ruralna regija.",
+  "flags": [
+    "isključivo poljoprivredna namjena",
+    "ruralno depopulacijsko područje",
+    "fragmentirane parcele"
+  ],
+  "input_hash": "7cf1f2309e7a",
+  "scored_at": "2026-04-19T16:16:42.818549"
+}

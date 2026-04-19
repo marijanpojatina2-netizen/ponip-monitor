@@ -1,0 +1,16 @@
+{
+  "id": "58787",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Livade krč u k.o. Glogovac kraj Koprivnice — neizgrađeno, nisko-vrijednosno poljoprivredno zemljište u kontinentalnom ruralnom pojasu. Popust 20% na prvoj dražbi, nema jasnog exit strategije za investitora.",
+  "flags": [
+    "livada krč — ograničena namjena",
+    "ruralno područje",
+    "niska likvidnost tržišta"
+  ],
+  "input_hash": "c16da9cef5ec",
+  "scored_at": "2026-04-19T16:14:37.271464"
+}

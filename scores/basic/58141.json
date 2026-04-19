@@ -1,0 +1,16 @@
+{
+  "id": "58141",
+  "score_overall": 1.5,
+  "score_lokacija": 2.0,
+  "score_roi": 2.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Livada 1032 m² u ruralnoj Slavoniji (Daruvar) s kompleksnim suvlasništvom 5 ovršenika u razlomljenim udjelima — pravna i operativna noćna mora za bilo kakvu integraciju. Vrijednost 495 EUR i 20% popusta ne opravdavaju ni administrativni trošak.",
+  "flags": [
+    "5 ovršenika s razlomljenim udjelima (2/15, 2/15, 2/15, 3/15, 6/15)",
+    "kompleksno suvlasništvo — otežana uknjižba",
+    "ruralno depopulacijsko područje"
+  ],
+  "input_hash": "fd285b43081b",
+  "scored_at": "2026-04-19T16:19:25.180890"
+}

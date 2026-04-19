@@ -1,0 +1,16 @@
+{
+  "id": "58914",
+  "score_overall": 5.5,
+  "score_lokacija": 5.5,
+  "score_roi": 5.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Poslovni lokal 23,88 m2 u istoj zgradi kao ID 58910, k.o. Sesvete Novo – isti rizici i isti potencijal; zajedno s lokalima 58910 mogla bi biti paketna prilika. Popust 25% uredan, ali izolirana kupnja jednog malog lokala na periferiji nosi visok rizik neiskorištenosti.",
+  "flags": [
+    "suvlasnički udio (17,93/10000) – složena vlasnička struktura",
+    "poslovni prostor – rizik praznog hoda",
+    "periferija Zagreba"
+  ],
+  "input_hash": "480e6a0b68d0",
+  "scored_at": "2026-04-19T16:14:09.214618"
+}

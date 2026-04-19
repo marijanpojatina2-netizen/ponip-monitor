@@ -1,0 +1,16 @@
+{
+  "id": "58751",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Dvorišna parcela od 111m² u selu Bakovčica jedina u skupu nosi 'selo/dvorište' namjenu – teoretski građevinskog karaktera, ali 111m² je premalo za samostalan razvoj. Bez poznavanja susjednih parcela i GUP-a ulazak nije opravdan.",
+  "flags": [
+    "svega 111m² – premalo za samostojeću izgradnju",
+    "nepoznata građevinska uvjetovanost (GUP/PPUO)",
+    "ruralno selo bez potražnje"
+  ],
+  "input_hash": "b44233466949",
+  "scored_at": "2026-04-19T16:18:14.935566"
+}

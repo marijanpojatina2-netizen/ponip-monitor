@@ -1,0 +1,16 @@
+{
+  "id": "58741",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Samo 7.112 m2 oranice u ruralnoj Bakovčici kod Koprivnice, bez ikakvog objekta ili razvojnog potencijala; 20% popust pri prvoj dražbi ne kompenzira lošu lokaciju i nepostojanje tržišne potražnje.",
+  "flags": [
+    "samo oranica - nema objekta",
+    "niska tržišna likvidnost",
+    "nema potencijala razvoja ni prenamjene"
+  ],
+  "input_hash": "7add5504d437",
+  "scored_at": "2026-04-19T16:13:34.480008"
+}

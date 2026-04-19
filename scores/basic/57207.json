@@ -1,0 +1,16 @@
+{
+  "id": "57207",
+  "score_overall": 4.0,
+  "score_lokacija": 3.0,
+  "score_roi": 5.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Kuća s dvorištem 735 m2 u Novoselcu na drugoj dražbi s 40% popustom nudi nisku apsolutnu cijenu (37.800 EUR), ali tržišna potražnja i likvidnost u ovom ruralnom području Moslavine su minimalni. Razmatranje isključivo za vikendica scenarij ili dugoročno čekanje infrastrukturnog razvoja.",
+  "flags": [
+    "ruralno naselje - minimalna likvidnost",
+    "nepoznato stanje kuće",
+    "ograničen exit bez jasnog kupca profila"
+  ],
+  "input_hash": "cdaecbc14d2f",
+  "scored_at": "2026-04-19T16:11:09.985800"
+}

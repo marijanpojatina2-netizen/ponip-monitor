@@ -1,0 +1,16 @@
+{
+  "id": "58793",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Livada i sjenokoša u k.o. Glogovac — isključivo poljoprivredno korištenje, starinski katastarski opisi (jutra i čhv) ukazuju na složenu povijest vlasništva. Bez potencijala za razvoj ili rentabilnu najamninu.",
+  "flags": [
+    "starinski katastarski upisi — moguće nejasno vlasništvo",
+    "livada/sjenokoša — niska tržišna vrijednost",
+    "niska likvidnost"
+  ],
+  "input_hash": "772051202fb6",
+  "scored_at": "2026-04-19T16:14:37.271668"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "57940",
+  "score_overall": 7.0,
+  "score_lokacija": 7.0,
+  "score_roi": 7.5,
+  "score_stanje": 4.0,
+  "recommendation": "deep_dive",
+  "reasoning": "14.789m2 industrijskog kompleksa u Puli s 40% popustom na drugoj dražbi izuzetan je potencijal za prenamjenu (logistika, mixed-use razvoj, turizam) u atraktivnoj istarskoj regiji s visokom likvidnošću. Stariji objekti (izgrađeni od 30-ih do 70-ih) zahtijevaju temeljitu provjeru ekoloških obveza, azbestnih materijala i troškova sanacije.",
+  "flags": [
+    "stari industrijski objekti (30-e do 70-e) - visok rizik azbesta i ekološkog opterećenja",
+    "prenamjena iz industrijske u drugu namjenu - složene i dugotrajne dozvole",
+    "veličina kompleksa zahtijeva značajan kapital za razvoj"
+  ],
+  "input_hash": "6fa09ce741ac",
+  "scored_at": "2026-04-19T16:21:15.169669"
+}

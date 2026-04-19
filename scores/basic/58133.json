@@ -1,0 +1,17 @@
+{
+  "id": "58133",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica u k.o. Koreničani (Daruvar) prodaje se u razlomljenim suvlasničkim udjelima (2/15, 3/15, 6/15) uz 5 ovršenika + ovrhovoditelja - izuzetno kompleksno vlasništvo. Daruvarsko područje je depopulacijska regija s minimalnim investicijskim interesom.",
+  "flags": [
+    "kompleksno suvlasništvo - 5 suvlasnika s razlomljenim udjelima",
+    "ovrhovoditelj drži 6/15 udjela - pravna složenost",
+    "ruralno depopulacijsko područje",
+    "poljoprivredno zemljište bez građevinskog potencijala"
+  ],
+  "input_hash": "f45598fa815b",
+  "scored_at": "2026-04-19T16:17:12.084891"
+}

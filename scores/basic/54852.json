@@ -1,0 +1,17 @@
+{
+  "id": "54852",
+  "score_overall": 3.5,
+  "score_lokacija": 3.0,
+  "score_roi": 5.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Četvrta dražba šivaćih strojeva po početnoj cijeni 1 EUR zvuči atraktivno, ali jamčevina od 16.354 EUR i usko specijalizirano tržište industrijalne opreme čine ovo neprikladnim za generalnog investitora. Likvidnost i stvarno stanje strojeva potpuno su nepoznanica.",
+  "flags": [
+    "pokretnina - industrijska oprema niske likvidnosti",
+    "visoka jamčevina (16.354 EUR) uz simboličnu početnu cijenu",
+    "nepoznato stanje i starost strojeva",
+    "usko specijalizirano tržište"
+  ],
+  "input_hash": "aa496ebfc281",
+  "scored_at": "2026-04-19T16:11:09.985216"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "58801",
+  "score_overall": 2.5,
+  "score_lokacija": 3.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Krčevine (~6.190 m²) u k.o. Glogovac - najniža kategorija agrarnog zemljišta koja zahtijeva dodatni rad za pripremu obrade; bez objekta, s minimalnim popustom od 20% na prvoj dražbi, investicijska osnova ne postoji.",
+  "flags": [
+    "krčevine - niža kvaliteta i produktivnost zemljišta",
+    "isključivo poljoprivredno zemljište",
+    "minimalni popust (20%), prva dražba"
+  ],
+  "input_hash": "3485312bf7ec",
+  "scored_at": "2026-04-19T16:16:19.373219"
+}

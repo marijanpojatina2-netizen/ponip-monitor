@@ -1,0 +1,17 @@
+{
+  "id": "58757",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 3.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Fragmentirane oranice i livade u Glogovcu kod Koprivnice upisane u više različitih zk.ul., bez ijednog objekta; 20% popust pri prvoj dražbi u ruralnoj regiji s niskom likvidnošću ne nudi prihvatljiv investicijski profil.",
+  "flags": [
+    "samo oranice i livade - nema objekta",
+    "parcele rasute po više zk.ul. - složena administracija",
+    "niska tržišna likvidnost",
+    "prva dražba"
+  ],
+  "input_hash": "bc070374cb4e",
+  "scored_at": "2026-04-19T16:13:34.480227"
+}

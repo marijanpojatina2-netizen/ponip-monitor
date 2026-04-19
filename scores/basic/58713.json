@@ -1,0 +1,17 @@
+{
+  "id": "58713",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Šuma, livade i vododerina u k.o. Samarica (Bjelovar) – fragmentirano šumsko-livadno zemljište bez infrastrukture i jasnog prihoda, duboko ruralno područje. Popust 20% na prvoj dražbi ne kompenzira gotovo nepostojeću likvidnost ovakvih čestica.",
+  "flags": [
+    "šumsko/livadno zemljište – izrazito niska likvidnost",
+    "fragmentirano vlasništvo (12 čestica)",
+    "depopulacijsko područje",
+    "vododerina – nekorisna čestica"
+  ],
+  "input_hash": "58c92325e3e0",
+  "scored_at": "2026-04-19T16:14:09.214682"
+}

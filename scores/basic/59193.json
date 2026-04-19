@@ -1,0 +1,16 @@
+{
+  "id": "59193",
+  "score_overall": 5.0,
+  "score_lokacija": 5.5,
+  "score_roi": 5.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Oranice u Donjoj Lomnici (Velika Gorica) imaju benefit blizine Zagreba za dugoročnu prenamjenu, ali 25% popust na prvoj dražbi i agrikulturna namjena bez objekata ograničavaju kratkoročni ROI. Vrijedi pratiti za drugu rundu dražbe ili provjeru prostorno-planske dokumentacije o mogućoj prenamjeni.",
+  "flags": [
+    "agrikulturno zemljište - potrebna promjena namjene za razvoj",
+    "blizina aerodroma Zagreb - moguća ograničenja visine gradnje i zoniranja (ICTS zone)",
+    "čkbr. s mjerama u čhv (katastralnim hvatima) - mogući katastrarski nesuglasice"
+  ],
+  "input_hash": "94c5c0c5bda7",
+  "scored_at": "2026-04-19T16:21:15.217402"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "58699",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Livade i oranica u k.o. Petrička — standardni ruralni paket bez građevinskog ili turističkog potencijala. Popust 20% na prvoj dražbi, uz depopulacijsku tendenciju Bjelovarsko-bilogorske županije, ne opravdava investiciju.",
+  "flags": [
+    "livade/oranica — ograničena namjena",
+    "depopulacijska regija",
+    "niska likvidnost tržišta"
+  ],
+  "input_hash": "3b93398316ca",
+  "scored_at": "2026-04-19T16:14:37.271967"
+}

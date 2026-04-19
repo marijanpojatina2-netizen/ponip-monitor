@@ -1,0 +1,17 @@
+{
+  "id": "58918",
+  "score_overall": 3.0,
+  "score_lokacija": 6.0,
+  "score_roi": 3.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Gornje Vrapče je solidan dio Zagreba, ali zemljište je uknjiženo kao 'društveno vlasništvo' što je ozbiljan pravni relikt YU sustava koji može blokirati prepis, hipoteku i buduću prodaju. Sa samo 20% popusta na prvoj dražbi, pravni rizik nije ni izbliza kompenziran.",
+  "flags": [
+    "KRITIČNO: zemljište upisano kao društveno vlasništvo",
+    "90/168 dijela čkbr. - kompleksna katastarsko-zk situacija",
+    "moguće pravne prepreke za uknjižbu i kredit",
+    "prva dražba - minimalan popust"
+  ],
+  "input_hash": "ee0b9e551728",
+  "scored_at": "2026-04-19T16:11:09.985743"
+}

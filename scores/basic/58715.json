@@ -1,0 +1,17 @@
+{
+  "id": "58715",
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 4.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Ruralni paket s kućom i dvorištem (281+284 m2) uz veće poljoprivredno zemljište u Samarici kod Bjelovara, no mali popust od 20% pri prvoj dražbi i slaba regionalna likvidnost čine ovo slabim investicijskim slučajem bez vidljive exit strategije.",
+  "flags": [
+    "ruralno depopulacijsko područje",
+    "niska tržišna likvidnost Bjelovar regije",
+    "vjerojatno stariji objekt - stanje nepoznato",
+    "prva dražba"
+  ],
+  "input_hash": "1f59518cc670",
+  "scored_at": "2026-04-19T16:13:34.480290"
+}

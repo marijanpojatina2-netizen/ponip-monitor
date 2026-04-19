@@ -1,0 +1,15 @@
+{
+  "id": "58821",
+  "score_overall": 6.5,
+  "score_lokacija": 6.5,
+  "score_roi": 6.0,
+  "score_stanje": 6.5,
+  "recommendation": "watch",
+  "reasoning": "Solidan stan 117.7m2 (3 sobe, 2. kat) u centru Rijeke na Ciottini s 25% popustom - Rijeka kao rastući grad s jakim sveučilišnim najamnim tržištem nudi stabilnu investicijsku bazu. Potencijal kratkoročnog turističkog najma (luka, kulturni turizam) dodatno opravdava interes.",
+  "flags": [
+    "Suvlasnički udio s neodređenim omjerom - standardno za etažno, ali provjera ZK-a preporučena",
+    "Nepoznato stanje unutrašnjosti stana - potencijalni kapex"
+  ],
+  "input_hash": "573ee4dbc559",
+  "scored_at": "2026-04-19T16:09:10.028255"
+}

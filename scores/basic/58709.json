@@ -1,0 +1,16 @@
+{
+  "id": "58709",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Raznoliki mix oranica, pašnjaka i šume u k.o. Petrička — fragmentirane čestice bez građevinskog potencijala u ruralnoj Bjelovarsko-bilogorskoj županiji. Popust 20% premalo za kompenzaciju slabe likvidnosti.",
+  "flags": [
+    "fragmentirane čestice — otežana upravljanje",
+    "mješovita namjena (šuma, pašnjak, oranica)",
+    "ruralno/depopulacijsko područje"
+  ],
+  "input_hash": "3b59cc3f8ede",
+  "scored_at": "2026-04-19T16:14:37.271735"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "58587",
+  "score_overall": 4.0,
+  "score_lokacija": 4.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Kloštar Ivanić je prihvatljiva lokacija blizu Zagreba ali vinograd s kućom u suvlasništvu 2/6 i 1/6 udjela je pravno kompleksan - kupuje se samo 3/6 (50%) ili manji udio što znači nemoguće samostalno raspolaganje imovinom. Suvlasnički problemi ozbiljno umanjuju investicijsku vrijednost.",
+  "flags": [
+    "KRITIČNO: suvlasnički udjeli - kupuje se parcijalno vlasništvo, ne cijela nekretnina",
+    "vinograd - agroturizam ili prenamjena zahtijeva dozvole",
+    "nejasno što je točno predmet prodaje (koji udio)"
+  ],
+  "input_hash": "6b7823000d1d",
+  "scored_at": "2026-04-19T16:11:49.257616"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "57668",
+  "score_overall": 5.0,
+  "score_lokacija": 5.5,
+  "score_roi": 6.0,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Dvorišna parcela 111 m2 u Zaboku na drugoj dražbi s 40% popustom - lokacija u Hrvatskom zagorju s pristojnom prometnom povezanošću daje umjereni potencijal, ali malena parcela bez objekta ograničava upotrebljivost. Vrijedi pratiti ako postoje susjedne nekretnine ili mogućnost spajanja parcela.",
+  "flags": [
+    "samo dvorište bez objekta - ograničena samodostatna vrijednost",
+    "mala parcela 111 m2",
+    "namjena i mogućnost gradnje nepoznata iz opisa"
+  ],
+  "input_hash": "bae2de4a5809",
+  "scored_at": "2026-04-19T16:16:42.818791"
+}

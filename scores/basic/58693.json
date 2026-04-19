@@ -1,0 +1,16 @@
+{
+  "id": "58693",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Dvije livade ukupno ~3300m² kod Bjelovara, bez građevinskog ni turističkog potencijala; navedeno je 'vlasništvo II. ovršenika' što signalizira potencijalno složenije ovršno stanje. Popust 20% na prvoj dražbi nije dovoljan za ruralno livadsko zemljište.",
+  "flags": [
+    "vlasništvo II. ovršenika – potencijalna kompleksnost",
+    "depopulacijsko područje Bjelovar-okolica",
+    "livada bez razvoja potencijala"
+  ],
+  "input_hash": "08bd1535910e",
+  "scored_at": "2026-04-19T16:18:14.935248"
+}

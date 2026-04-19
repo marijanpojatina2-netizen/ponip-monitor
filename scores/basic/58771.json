@@ -1,0 +1,17 @@
+{
+  "id": "58771",
+  "score_overall": 1.5,
+  "score_lokacija": 2.0,
+  "score_roi": 2.0,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Šuma od 1082m² gotovo nema investicijskog smisla – zakonski je ograničena namjena, potrebne posebne dozvole za svaki zahvat, a likvidnost šumskog mikroposjeda u Podravini je minimalna. Najslabiji ROI potencijal od svih 8 nekretnina.",
+  "flags": [
+    "šuma – strogo ograničena namjena",
+    "potrebne posebne dozvole (šumarski zakon)",
+    "niska likvidnost",
+    "ne može se graditi"
+  ],
+  "input_hash": "3c201004bb49",
+  "scored_at": "2026-04-19T16:18:14.935452"
+}

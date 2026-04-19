@@ -1,0 +1,16 @@
+{
+  "id": "58829",
+  "score_overall": 2.5,
+  "score_lokacija": 3.0,
+  "score_roi": 3.0,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Livada 4661 m2 u k.o. Zabok/Zlatar – Hrvatsko zagorje ima određenu turističku privlačnost, ali livada bez građevinskog potencijala nudi zanemariv prihod. Popust 20% na prvoj dražbi i agrarni karakter čine ovo slabim investicijskim slučajem.",
+  "flags": [
+    "livada – nema prihoda bez prenamjene",
+    "nejasni uvjeti prenamjene u GUP-u",
+    "niska tržišna likvidnost"
+  ],
+  "input_hash": "31bc72bdfb9d",
+  "scored_at": "2026-04-19T16:14:09.214747"
+}

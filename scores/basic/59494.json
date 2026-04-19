@@ -1,0 +1,18 @@
+{
+  "id": "59494",
+  "score_overall": 5.0,
+  "score_lokacija": 6.5,
+  "score_roi": 5.5,
+  "score_stanje": 2.5,
+  "recommendation": "watch",
+  "reasoning": "Oko 71 ha šume i pašnjaka na otoku Pagu (k.o. Pag) u stečajnoj prodaji — turistički island s potencijalom ali sirovo nerazvijeno zemljište zahtijeva dugotrajne i neizvjesne postupke prenamjene. Ulazni kapital 6,09M EUR plus 812.500 EUR jamčevine čini ovo igrom za kapitalno snažnog razvijača s dugim horizontom.",
+  "flags": [
+    "sirovo zemljište — šuma i pašnjak, bez infrastrukture",
+    "stečajna prodaja — nepoznate teret i ograničenja",
+    "jamčevina 812.500 EUR",
+    "zoniranje i prenamjena neizvjesni",
+    "prodaje se kao jedinstvena cjelina — nema dijeljenjan rizika"
+  ],
+  "input_hash": "0e9b71352c69",
+  "scored_at": "2026-04-19T16:19:25.181449"
+}

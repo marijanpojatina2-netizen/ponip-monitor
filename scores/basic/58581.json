@@ -1,0 +1,16 @@
+{
+  "id": "58581",
+  "score_overall": 4.0,
+  "score_lokacija": 4.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Poslovni prostor hotelskog tipa (recepcija, bife, sobe) u Ivanić-Gradu s kompleksnom suvlasničkom strukturom dva ovršenika i skromnim popustom 20% na prvoj dražbi. Ivanić-Grad nema turističkog ni snažnog poslovnog potencijala koji bi opravdao ovakav specijalizirani asset.",
+  "flags": [
+    "Suvlasništvo - dva ovršenika, kompleksna vlasnička struktura",
+    "Poslovni prostor hotelskog tipa - uska ciljna skupina kupaca",
+    "Ivanić-Grad - niska likvidnost tržišta nekretnina"
+  ],
+  "input_hash": "24157e75e211",
+  "scored_at": "2026-04-19T16:09:10.028099"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "58777",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Pola dijela oranice od 2327m² u Glogovcu – od svih frakcionalnih parcela u skupu ovo je najjednostavnija (1/2), ali lokacija i namjena ostaju investicijski nezanimljivi. 20% popust na prvoj dražbi ne opravdava ulazak.",
+  "flags": [
+    "frakcionalno vlasništvo 1/2",
+    "suvlasnički spor potencijal",
+    "niska likvidnost regije"
+  ],
+  "input_hash": "68c4e3569d73",
+  "scored_at": "2026-04-19T16:18:14.935326"
+}

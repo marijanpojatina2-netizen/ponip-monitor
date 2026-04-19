@@ -1,0 +1,16 @@
+{
+  "id": "58783",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Dvije šumske parcele ukupno ~4136 m2 u k.o. Glogovac prodaju se kao cjelina - šuma u ruralnom depopulacijskom području bez investicijskog potencijala za investitora u nekretnine. Prva dražba, 20% popust, minimalna likvidnost.",
+  "flags": [
+    "šumsko zemljište - ograničena namjena",
+    "ruralno depopulacijsko područje",
+    "niska tržišna likvidnost"
+  ],
+  "input_hash": "18f12c3c2ee6",
+  "scored_at": "2026-04-19T16:16:42.818855"
+}

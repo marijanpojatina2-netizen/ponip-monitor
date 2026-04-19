@@ -1,0 +1,16 @@
+{
+  "id": "58743",
+  "score_overall": 3.0,
+  "score_lokacija": 3.5,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Mali voćnjak i livada (~1.484 m²) u k.o. Bakovčica kod Koprivnice - premala parcela bez objekta za bilo kakav ozbiljan ROI; 20% popust na prvoj dražbi s ovakvim karakteristikama nema investicijskog opravdanja.",
+  "flags": [
+    "mala površina (1.484 m²) - ekonomski ograničen potencijal",
+    "isključivo poljoprivredno zemljište",
+    "minimalni popust (20%), prva dražba"
+  ],
+  "input_hash": "759d7facd9aa",
+  "scored_at": "2026-04-19T16:16:19.372945"
+}

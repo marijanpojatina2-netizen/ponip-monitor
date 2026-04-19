@@ -1,0 +1,16 @@
+{
+  "id": "58755",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica ~4172 m2 na periferiji Koprivnice - lokacija uz veći grad daje blagi plus, ali čisto poljoprivredno zemljište s 20% popustom na prvoj dražbi ne opravdava interes. Prenamjena u građevinsko neizvjesna i dugotrajna.",
+  "flags": [
+    "oranica - poljoprivredna namjena",
+    "prenamjena neizvjesna",
+    "prva dražba, mali popust"
+  ],
+  "input_hash": "ccb89ca41df1",
+  "scored_at": "2026-04-19T16:16:42.818616"
+}

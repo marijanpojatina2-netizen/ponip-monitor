@@ -1,0 +1,17 @@
+{
+  "id": "58763",
+  "score_overall": 1.5,
+  "score_lokacija": 2.0,
+  "score_roi": 2.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Udio od svega 92/368 (~25%) u livadi i oranici u Glogovcu čini izlaznu strategiju gotovo nemogućom; efektivno kupujete ~1700m² uz suimaoca kojeg ne kontrolirate. Jedna od najlošijih struktura vlasništva u skupu.",
+  "flags": [
+    "minimalni udio 92/368 (~25%)",
+    "niska likvidnost",
+    "suvlasnički rizik",
+    "poljoprivredno zemljište"
+  ],
+  "input_hash": "559e6abf24c6",
+  "scored_at": "2026-04-19T16:18:14.935127"
+}

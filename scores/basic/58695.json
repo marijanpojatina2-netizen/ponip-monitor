@@ -1,0 +1,16 @@
+{
+  "id": "58695",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Poljoprivredno zemljište (oranica i livada) u k.o. Petrička kod Bjelovara — ruralno područje s niskom likvidnošću i slabim investicijskim potencijalom. Popust od samo 20% na prvoj dražbi ne opravdava ulazak za investitora.",
+  "flags": [
+    "poljoprivredno zemljište — niska likvidnost",
+    "ruralno/depopulacijsko područje",
+    "bez građevinskog potencijala"
+  ],
+  "input_hash": "92f939d9c5cc",
+  "scored_at": "2026-04-19T16:14:37.271267"
+}

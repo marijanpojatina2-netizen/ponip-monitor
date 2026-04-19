@@ -1,0 +1,16 @@
+{
+  "id": "57775",
+  "score_overall": 4.0,
+  "score_lokacija": 2.5,
+  "score_roi": 5.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Ruralna Slavonija (Bratuljevci/Požega) s niskom likvidnošću i slabom potražnjom unatoč solidnom popustu od 40% i statusu druge dražbe; kombinacija voćnjaka i starije ruralne kuće nema jasne exit strategije za investitora.",
+  "flags": [
+    "ruralno depopulacijsko područje - Slavonija",
+    "niska tržišna likvidnost regije",
+    "nepoznato stanje kuće"
+  ],
+  "input_hash": "93f46515d9e3",
+  "scored_at": "2026-04-19T16:13:34.479674"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "58977",
+  "score_overall": 7.0,
+  "score_lokacija": 8.5,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Kuća s dvorištem (ukupno ~594m2 / 165 čhv) u Šestinama - premijumskoj rezidencijalnoj zoni Zagreba poznatoj po vilama - po početnoj cijeni 160.8k EUR potencijalno iznimna vrijednost uz asset ispod tržišne cijene. Oskudan opis bez detalja o stanju objekta zahtijeva obaveznu provjeru na terenu prije licitiranja.",
+  "flags": [
+    "Oskudan opis - nepoznato stanje objekta i omjer kuća/dvorište",
+    "Provjera urbanističkih uvjeta i dozvola za Šestine",
+    "Moguća starija gradnja - potrebna procjena statike i instalacija"
+  ],
+  "input_hash": "59c9d63b100b",
+  "scored_at": "2026-04-19T16:09:10.028316"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "58963",
+  "score_overall": 7.0,
+  "score_lokacija": 7.5,
+  "score_roi": 7.5,
+  "score_stanje": 5.5,
+  "recommendation": "bid",
+  "reasoning": "Malinska na Krku je etablirana turistička destinacija s odličnom povezanošću (aerodrom Krk, Rijeka 35 min); stan 29,33 m2 s parking mjestom na 40% popusta s druge dražbe nudi realan kratkoročni najam potencijal i dobru likvidnost pri preprodaji. Jedini ozbiljan minus je suteren koji može umanjiti premijum najamnine.",
+  "flags": [
+    "suteren (E-8) - može smanjiti najamni prinos",
+    "mala kvadratura 29m2 - ograničen profil stanara",
+    "7/101 suvlasničkog udjela - provjeri HOA pravila zgrade"
+  ],
+  "input_hash": "d85f026d8d37",
+  "scored_at": "2026-04-19T16:11:09.985688"
+}

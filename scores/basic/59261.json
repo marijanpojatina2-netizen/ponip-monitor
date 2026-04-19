@@ -1,0 +1,16 @@
+{
+  "id": "59261",
+  "score_overall": 4.0,
+  "score_lokacija": 4.5,
+  "score_roi": 4.0,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Industrijski kompleks s kotlovnicom u Ivancu (Varaždinska županija) nudi uski tržišni doseg zbog specifične namjene, a samo 20% popust na prvoj dražbi ostavlja premalu maržu za investitora koji preuzima rizike rekonstrukcije i prenamjene. Bez uvida u stanje opreme i eventualnih ekoloških obveza kotlovnice, risk/reward omjer nije povoljan.",
+  "flags": [
+    "specifična industrijska namjena (kotlovnica) - ograničen krug kupaca",
+    "20% popust na prvoj dražbi - nedovoljan za kompenzaciju rizika",
+    "kotlovnica - potencijalne ekološke obveze i troškovi sanacije"
+  ],
+  "input_hash": "fdfba1068e47",
+  "scored_at": "2026-04-19T16:21:15.217263"
+}

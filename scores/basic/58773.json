@@ -1,0 +1,16 @@
+{
+  "id": "58773",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Oranica Buđak u k.o. Glogovac — 9006 m2 poljoprivrednog zemljišta u ruralnoj Koprivničko-križevačkoj županiji bez jasnog razvojnog potencijala. Popust 20% na prvoj dražbi ne kompenzira slabu likvidnost regije.",
+  "flags": [
+    "čisto poljoprivredno zemljište",
+    "niska tržišna likvidnost",
+    "ruralno područje"
+  ],
+  "input_hash": "4d35d0b3f304",
+  "scored_at": "2026-04-19T16:14:37.271911"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "58747",
+  "score_overall": 3.0,
+  "score_lokacija": 3.5,
+  "score_roi": 4.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Tri čestice kod Koprivnice ukupno 6.845m2 - samo zemljište bez objekata, pretežno livada i dvorišta, bez opisane infrastrukture; za 31.7k EUR nema jasne strategije povrata investicije u ovoj regiji. Koprivnica je solidna lokacija ali samo parcele bez gradnje nude slab ROI potencijal.",
+  "flags": [
+    "samo zemljište - nema objekata",
+    "livada i dvorišta - neizgrađeno, nejasna namjena",
+    "potrebna provjera prostornog plana i mogućnosti gradnje"
+  ],
+  "input_hash": "af35318c1f1a",
+  "scored_at": "2026-04-19T16:11:49.257671"
+}

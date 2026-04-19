@@ -1,0 +1,16 @@
+{
+  "id": "58795",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Poljoprivredno zemljište (sjenokoša) u ruralnoj okolici Koprivnice, minimalna vrijednost od 561 EUR bez razvojnog potencijala. Samo 20% popusta na prvoj dražbi u depopulacijskom području nudi nikakav investicijski upside.",
+  "flags": [
+    "poljoprivredno zemljište bez građevnog potencijala",
+    "ruralno/depopulacijsko područje",
+    "ekstremno niska likvidnost"
+  ],
+  "input_hash": "5a0d8eb2d94c",
+  "scored_at": "2026-04-19T16:19:25.180689"
+}

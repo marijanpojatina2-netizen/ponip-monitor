@@ -1,0 +1,16 @@
+{
+  "id": "46960",
+  "score_overall": 3.5,
+  "score_lokacija": 3.0,
+  "score_roi": 5.0,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Oranica u Kraljevcu na Sutli — druga dražba s popustom 40% donosi bolji ROI profil nego ostale u ovom setu. Zagorska regija ima određeni turistički potencijal (blizina Kumrovca, terme), no tržišna likvidnost ostaje ograničena.",
+  "flags": [
+    "samo oranica — potrebna provjera namjene u prostornom planu",
+    "manja veličina parcele (3870 m2)",
+    "ruralno, ali turistički koridor Zagorje"
+  ],
+  "input_hash": "1168538ace75",
+  "scored_at": "2026-04-19T16:14:37.271795"
+}

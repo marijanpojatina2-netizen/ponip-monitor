@@ -1,0 +1,16 @@
+{
+  "id": "58791",
+  "score_overall": 3.5,
+  "score_lokacija": 3.5,
+  "score_roi": 3.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Fragmentirane oranice i livade (~8.170 m²) u k.o. Glogovac kod Koprivnice s minimalnim popustom od 20% na prvoj dražbi; bez ikakvog objekta nema izravnog prihoda, a agrarna likvidnost u Podravini ne opravdava investicijsku aktivaciju.",
+  "flags": [
+    "isključivo poljoprivredno zemljište - bez objekata",
+    "minimalni popust (20%), prva dražba",
+    "fragmentirane katastarske čestice (5 parcela)"
+  ],
+  "input_hash": "389cd8e7be07",
+  "scored_at": "2026-04-19T16:16:19.372804"
+}

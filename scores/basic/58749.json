@@ -1,0 +1,16 @@
+{
+  "id": "58749",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Tovilište i dvorište u Glogovcu - specifična namjena koja znatno ograničava krug kupaca i mogućnost prenamjene. Prva dražba s minimalnim popustom, ruralna lokacija bez investicijskog potencijala.",
+  "flags": [
+    "tovilište - specifična/ograničena namjena",
+    "ruralno depopulacijsko područje",
+    "niska likvidnost"
+  ],
+  "input_hash": "ecb0d03f311d",
+  "scored_at": "2026-04-19T16:16:42.818469"
+}

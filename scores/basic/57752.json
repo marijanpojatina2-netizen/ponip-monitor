@@ -1,0 +1,16 @@
+{
+  "id": "57752",
+  "score_overall": 4.5,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Hrvace je ruralno zaleđe Sinja, slaba likvidnost i minimalni turistički potencijal; 40% popust na drugoj dražbi poboljšava ROI matematiku ali ne mijenja temeljni problem lokacije. Bez anagrafske oznake i nejasnih detalja stanja rizik je umjeren.",
+  "flags": [
+    "nema anagrafske oznake - moguće nelegaliziran objekt",
+    "ruralna lokacija, niska likvidnost tržišta",
+    "60m2 kuća bez opisa stanja - moguće ruševno"
+  ],
+  "input_hash": "723ebbb4efe0",
+  "scored_at": "2026-04-19T16:11:49.257179"
+}

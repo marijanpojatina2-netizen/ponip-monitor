@@ -1,0 +1,16 @@
+{
+  "id": "58827",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Livada u k.o. Špičkovina (Zabok/Zlatar area) - Hrvatsko zagorje, malena parcela 198 čhv bez građevinskog potencijala. Samo 20% popust, gotovo nula prihodni potencijal za investitora.",
+  "flags": [
+    "livada - nije građevinsko zemljište",
+    "mali kvadrati, ograničena upotrebljivost",
+    "prva dražba, minimalni popust"
+  ],
+  "input_hash": "e153a6ef308f",
+  "scored_at": "2026-04-19T16:17:12.084741"
+}

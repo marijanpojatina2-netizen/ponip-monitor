@@ -1,0 +1,16 @@
+{
+  "id": "58910",
+  "score_overall": 5.5,
+  "score_lokacija": 5.5,
+  "score_roi": 5.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Poslovni lokal 28,79 m2 u k.o. Sesvete Novo (Zagreb periferija) – solidan potencijal za najam, ali suvlasnički udio i lokacija na periferiji ograničavaju aprecijaciju. Popust 25% donekle kompenzira, ali likvidnost lokala u Sesvetama nije visoka.",
+  "flags": [
+    "suvlasnički udio (21,61/10000) – složena vlasnička struktura",
+    "poslovni prostor – viši rizik praznog hoda nego stan",
+    "periferija Zagreba, ne centar"
+  ],
+  "input_hash": "cb1ac970e90e",
+  "scored_at": "2026-04-19T16:14:09.214470"
+}

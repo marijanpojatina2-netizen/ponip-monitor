@@ -1,0 +1,16 @@
+{
+  "id": "58707",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Livada od 9.520 m² u k.o. Petrička kod Bjelovara - depopulacijsko područje Bjelovar-Bilogorske županije bez razvojnih perspektiva; standardni popust od 20% na prvoj dražbi ne kompenzira slabe demografske i likvidnostne uvjete.",
+  "flags": [
+    "depopulacijsko područje - Bjelovar-Bilogorska županija",
+    "isključivo poljoprivredno zemljište",
+    "minimalni popust (20%), prva dražba"
+  ],
+  "input_hash": "8e7319609106",
+  "scored_at": "2026-04-19T16:16:19.373005"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "57507",
+  "score_overall": 4.5,
+  "score_lokacija": 5.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Granešina Nova (Zagreb-periferija) s 40% popustom privlačna je lokacija, ali prodaje se samo 1/2 suvlasničkog dijela što bez suglasnosti drugog suvlasnika onemogućuje normalnu prodaju, najam ili kredit. Potrebna je detaljna provjera statusa co-ownera prije bilo kakvog angažmana.",
+  "flags": [
+    "suvlasništvo 1/2 dijela - otežano raspolaganje",
+    "suglasnost suvlasnika obvezna za svaki akt",
+    "moguć sudski spor za razvrgnuće suvlasništva",
+    "pomoćna zgrada 47m2 - nepoznata namjena/stanje"
+  ],
+  "input_hash": "6215b487771e",
+  "scored_at": "2026-04-19T16:11:09.985567"
+}

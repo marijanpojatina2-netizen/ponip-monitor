@@ -1,0 +1,16 @@
+{
+  "id": "58959",
+  "score_overall": 5.5,
+  "score_lokacija": 7.0,
+  "score_roi": 5.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Neplodno zemljište 874m2 s vanjskim bazenom u Tribunju (turistička lokacija blizu Vodica i Šibenika) - atraktivna obalna pozicija, no status neplodnog zemljišta u pravilu isključuje mogućnost gradnje i dramatično ograničava ROI. Bazen bez pratećeg objekta neisplativ bez razjašnjene namjene u prostornom planu.",
+  "flags": [
+    "Neplodno zemljište - vjerojatno zabranjena ili ograničena gradnja",
+    "Bazen bez objekta - nejasna pravna situacija i troškovi održavanja",
+    "Obavezna provjera prostornog plana i GUP-a Tribunja"
+  ],
+  "input_hash": "270bd5b6f179",
+  "scored_at": "2026-04-19T16:09:10.028385"
+}

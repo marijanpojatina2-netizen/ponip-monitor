@@ -1,0 +1,16 @@
+{
+  "id": "58753",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Dvorište s gospodarskim zgradama u k.o. Bakovčica (Koprivnica) – ruralna lokacija, gospodarski objekti niske tržišne vrijednosti i ograničene prenamjene. Popust 20% na prvoj dražbi ne opravdava ulaganje za investicijsku svrhu.",
+  "flags": [
+    "gospodarska zgrada – niska tržišna likvidnost",
+    "ruralna mikrolokacija",
+    "nema stambene komponente"
+  ],
+  "input_hash": "d81bf96dcd74",
+  "scored_at": "2026-04-19T16:14:09.214547"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "58765",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Poljoprivredno zemljište (oranica/selište) u ruralnoj Podravini bez turističkog ni razvojnog potencijala; frakcionalno vlasništvo 19/23 dodatno komplicira izlaz. Popust samo 20% na prvoj dražbi ne kompenzira ekstremno nisku likvidnost regije.",
+  "flags": [
+    "frakcionalno vlasništvo 19/23",
+    "depopulacijsko područje Koprivnica-okolica",
+    "niska likvidnost tržišta",
+    "poljoprivredno zemljište"
+  ],
+  "input_hash": "fd7442e19bf1",
+  "scored_at": "2026-04-19T16:18:14.934926"
+}

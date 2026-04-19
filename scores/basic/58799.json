@@ -1,0 +1,16 @@
+{
+  "id": "58799",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Tri parcele livade i oranice tipa 'krč' ukupno ~5687 m2 u ruralnom Glogovcu - fragmentirane čistice bez infrastrukture i bez investicijskog potencijala. Prva dražba s minimalnim popustom.",
+  "flags": [
+    "fragmentirane ruralne parcele",
+    "depopulacijsko područje",
+    "niska likvidnost"
+  ],
+  "input_hash": "207781904a7a",
+  "scored_at": "2026-04-19T16:16:42.818676"
+}

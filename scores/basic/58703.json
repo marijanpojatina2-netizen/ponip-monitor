@@ -1,0 +1,16 @@
+{
+  "id": "58703",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Livada 128 čhv u k.o. Petrička (Bjelovar) - izrazito mala parcela bez ikakve investicijske atraktivnosti. Bjelovarsko ruralno zaleđe, 20% popust na prvoj dražbi ne kompenzira slabu lokaciju i tip nekretnine.",
+  "flags": [
+    "minimalna površina (128 čhv ~ 460 m²)",
+    "livada - nije građevinsko zemljište",
+    "ruralno, niska likvidnost"
+  ],
+  "input_hash": "917fc693f7af",
+  "scored_at": "2026-04-19T16:17:12.084954"
+}

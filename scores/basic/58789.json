@@ -1,0 +1,16 @@
+{
+  "id": "58789",
+  "score_overall": 3.5,
+  "score_lokacija": 3.5,
+  "score_roi": 3.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Oranice i livade (~8.079 m²) u k.o. Glogovac, Koprivnica - gotovo identičan profil kao ID 58791 s istim slojevitim nedostacima; standardni 20% popust na prvoj dražbi ne nudi dovoljnu investicijsku maržu bez stambenog objekta.",
+  "flags": [
+    "isključivo poljoprivredno zemljište - bez objekata",
+    "minimalni popust (20%), prva dražba",
+    "fragmentirane čestice (3 parcele)"
+  ],
+  "input_hash": "6f39bd9f0675",
+  "scored_at": "2026-04-19T16:16:19.372879"
+}

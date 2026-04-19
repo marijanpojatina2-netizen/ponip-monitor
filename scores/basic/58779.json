@@ -1,0 +1,16 @@
+{
+  "id": "58779",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Poljoprivredno zemljište (oranica) u k.o. Glogovac, Koprivničko-križevačka županija - ruralno kontinentalno područje s niskom likvidnošću. Samo 20% popust na prvoj dražbi, niska apsolutna vrijednost, minimalan investicijski potencijal.",
+  "flags": [
+    "poljoprivredno zemljište - niska likvidnost",
+    "ruralno područje depopulacije",
+    "prva dražba, minimalni popust"
+  ],
+  "input_hash": "42178c3be8b3",
+  "scored_at": "2026-04-19T16:17:12.084539"
+}

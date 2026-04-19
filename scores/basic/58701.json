@@ -1,0 +1,16 @@
+{
+  "id": "58701",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Fragmentirane livade i oranice (~9.183 m²) raspršene na 4 zasebne čestice u k.o. Petrička - raspršenost parcela dodatno otežava upravljanje i prodaju; depopulacijsko područje s minimalnim popustom ne nudi investicijsku vrijednost.",
+  "flags": [
+    "fragmentirane čestice (4 zasebne parcele)",
+    "depopulacijsko područje - Bjelovar",
+    "minimalni popust (20%), prva dražba"
+  ],
+  "input_hash": "adad8b986f11",
+  "scored_at": "2026-04-19T16:16:19.373130"
+}

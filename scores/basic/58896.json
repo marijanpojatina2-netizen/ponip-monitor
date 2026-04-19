@@ -1,0 +1,17 @@
+{
+  "id": "58896",
+  "score_overall": 2.5,
+  "score_lokacija": 1.5,
+  "score_roi": 4.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Štikada kod Gračaca je jedno od najdepopulacijanijih područja Hrvatske, Like bez turističkog ili investicijskog potencijala; dvije čestice ukupno 805m2 s kućama za 39k EUR je loša investicija bez realne izlazne strategije. Apsolutno izbjegavati.",
+  "flags": [
+    "ekstremno depopulacijsko područje - Lika/Gračac",
+    "nema opisa stanja objekata - vjerojatno ruinozno",
+    "nulta likvidnost tržišta",
+    "dvije odvojene čestice - kompleksnost uknjižbe"
+  ],
+  "input_hash": "52d38a4b11fe",
+  "scored_at": "2026-04-19T16:11:49.257339"
+}

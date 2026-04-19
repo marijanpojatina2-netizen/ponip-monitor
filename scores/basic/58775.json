@@ -1,0 +1,16 @@
+{
+  "id": "58775",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Oranica Krčevina ~4661 m2 u k.o. Glogovac - ruralno poljoprivredno zemljište bez ikakve razvojne perspektive za investitora. Prva dražba, 20% popust, minimalna likvidnost regije.",
+  "flags": [
+    "čisto poljoprivredno zemljište",
+    "ruralno depopulacijsko područje",
+    "niska tržišna likvidnost"
+  ],
+  "input_hash": "db3a1c9eb2db",
+  "scored_at": "2026-04-19T16:16:42.818733"
+}

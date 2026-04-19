@@ -1,0 +1,17 @@
+{
+  "id": "58135",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica 1403m² kod Daruvara u vlasništvu 4 ovršenika + ovrhovoditelja (5 strana) – ekstremno složena vlasnička struktura otežava uknjižbu i daljnju prodaju. Daruvar spada u slabije tržište kontinentalne Hrvatske.",
+  "flags": [
+    "5 suvlasničkih strana (4 ovršenika + ovrhovoditelj)",
+    "kompleksna vlasnička struktura",
+    "Daruvar – depopulacijsko područje",
+    "minimalna tržišna vrijednost"
+  ],
+  "input_hash": "b31ad61075b3",
+  "scored_at": "2026-04-19T16:18:14.935391"
+}

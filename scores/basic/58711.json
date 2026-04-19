@@ -1,0 +1,16 @@
+{
+  "id": "58711",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Šikara i sjenokoša u k.o. Petrička (Bjelovar) – poljoprivredno-šumsko zemljište bez jasnog prihoda, depopulacijsko područje. Popust 20% na prvoj dražbi nedovoljan za kompenzaciju niske likvidnosti i ograničene upotrebljivosti.",
+  "flags": [
+    "poljoprivredno/šumsko zemljište – ograničena prenamjena",
+    "slaba likvidnost regije",
+    "nema građevinskog potencijala"
+  ],
+  "input_hash": "9de9dde8698b",
+  "scored_at": "2026-04-19T16:14:09.214262"
+}

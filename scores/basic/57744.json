@@ -1,0 +1,16 @@
+{
+  "id": "57744",
+  "score_overall": 4.0,
+  "score_lokacija": 3.0,
+  "score_roi": 5.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Golema čestica 11.304 m2 u Bređkoj Gredi s 40% popustom nudi izuzetno nisku cijenu oko 6,6 EUR/m2, ali tržišna potražnja za agrarno-gospodarskim nekretninama Moslavine je ograničena. Zanimljivo isključivo za agrarnog investitora ili razvojni projekt s dugim horizontom.",
+  "flags": [
+    "ruralno područje - ograničena likvidnost",
+    "gospodarska zgrada nepoznatog stanja",
+    "oranica i pašnjak - agrarna namjena ograničava exit"
+  ],
+  "input_hash": "d9ee01ba8355",
+  "scored_at": "2026-04-19T16:11:09.985499"
+}

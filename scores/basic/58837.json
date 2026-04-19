@@ -1,0 +1,16 @@
+{
+  "id": "58837",
+  "score_overall": 7.5,
+  "score_lokacija": 8.5,
+  "score_roi": 6.0,
+  "score_stanje": 6.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Otok Prvić kod Šibenika je turistički atraktivna lokacija s visokim potencijalom za kratkoročni najam; mala kuća 34m2 s terasom na otoku za ~49k EUR je zanimljiva ulaznica. Prva dražba s minimalnim popustom od 20% umanjuje ROI, ali lokacija kompenzira.",
+  "flags": [
+    "samo 34m2 bruto - limitiran kapacitet iznajmljivanja",
+    "montažni pomoćni objekt - nejasna legalizacija",
+    "otočna logistika renoviranja skuplja"
+  ],
+  "input_hash": "1bdcb13f9527",
+  "scored_at": "2026-04-19T16:11:49.256956"
+}

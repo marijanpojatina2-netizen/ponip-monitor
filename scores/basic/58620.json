@@ -1,0 +1,16 @@
+{
+  "id": "58620",
+  "score_overall": 6.0,
+  "score_lokacija": 7.5,
+  "score_roi": 5.5,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Kamp u Vodicama s funkcionalnom infrastrukturom (recepcija, sanitarni čvor) na atraktivnoj dalmatinskoj lokaciji, no visoka ulazna točka 2.29M EUR i samo 20% popusta na prvoj dražbi ograničavaju ROI. Specifičan asset s malim brojem potencijalnih kupaca i sezonskim poslovanjem zahtijeva detaljnu analizu novčanih tokova.",
+  "flags": [
+    "Visoka jamčevina 286k EUR - ograničen krug kupaca",
+    "6 zasebnih kat. čestica - složena transakcija",
+    "Kamp - sezonski prihodi, operativno intenzivno upravljanje"
+  ],
+  "input_hash": "4b2ed8761e72",
+  "scored_at": "2026-04-19T16:09:10.027738"
+}

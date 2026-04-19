@@ -1,0 +1,17 @@
+{
+  "id": "58924",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Gunja je jedno od najugroženijih poplavnih područja u Hrvatskoj s teškom depopulacijom i gotovo nepostojećom tržišnom potražnjom; 20% popust na prvoj dražbi ne kompenzira strukturalni lokacijski rizik. Investicijski case praktički ne postoji.",
+  "flags": [
+    "visoki poplavni rizik - Gunja 2014+",
+    "izrazita depopulacija istočne Slavonije",
+    "minimalna tržišna likvidnost",
+    "prva dražba - nema dodatnog popusta"
+  ],
+  "input_hash": "97884eea6d41",
+  "scored_at": "2026-04-19T16:11:09.985425"
+}

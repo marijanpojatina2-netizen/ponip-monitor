@@ -1,0 +1,17 @@
+{
+  "id": "58971",
+  "score_overall": 3.5,
+  "score_lokacija": 4.0,
+  "score_roi": 3.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Podrum od 195,8 m2 netto u zgradi mješovite namjene u Sisku s 20% popustom na prvoj dražbi ne nudi atraktivan ROI - Sisak nije primarna lokacija, a podrum drastično ograničava namjenu na skladište ili poslovni prostor. Omjer cijene i potencijala nije konkurentan.",
+  "flags": [
+    "podrum - ograničena namjena (ne stanovanje)",
+    "zgrada mješovite namjene - etažni odnosi nejasni",
+    "Sisak - poplava 2020, sporiji oporavak tržišta",
+    "prva dražba s minimalnim popustom"
+  ],
+  "input_hash": "1f6abdb16233",
+  "scored_at": "2026-04-19T16:11:09.985630"
+}

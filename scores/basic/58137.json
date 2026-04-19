@@ -1,0 +1,17 @@
+{
+  "id": "58137",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Oranica od ~11.000 m2 u ruralnim Koreničanima kod Daruvara s kompleksnom vlasničkom strukturom (4 ovršenika + ovrhovoditelj koji prodaju udjele); minimalni popust od 20% pri prvoj dražbi i nulti investicijski potencijal.",
+  "flags": [
+    "složena vlasnička struktura - 4 ovršenika i ovrhovoditelj prodaju udjele",
+    "samo gola oranica bez objekta",
+    "ruralno depopulacijsko područje - Daruvar okolica",
+    "prva dražba"
+  ],
+  "input_hash": "3d947057340a",
+  "scored_at": "2026-04-19T16:13:34.480128"
+}

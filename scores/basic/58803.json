@@ -1,0 +1,17 @@
+{
+  "id": "58803",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "2/3 udjela oranice u k.o. Glogovac - suvlasnički udio na ruralnoj parceli kombinira sve negativne faktore: djelomično vlasništvo, poljoprivredno zemljište, depopulacijska regija. Kupnja 2/3 bez suglasnosti ostatka suvlasnika onemogućava slobodno raspolaganje.",
+  "flags": [
+    "suvlasnički udio 2/3 - ograničeno raspolaganje",
+    "treba suglasnost suvlasnika za prodaju/uređenje",
+    "ruralno, slaba tržišna likvidnost",
+    "poljoprivredno zemljište bez potencijala"
+  ],
+  "input_hash": "d07fabaf868e",
+  "scored_at": "2026-04-19T16:17:12.085127"
+}

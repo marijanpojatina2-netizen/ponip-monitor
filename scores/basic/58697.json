@@ -1,0 +1,16 @@
+{
+  "id": "58697",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Oranice (~9.394 m²) u k.o. Petrička, Bjelovar - ruralna lokacija s ograničenom potražnjom i minimalnim popustom od 20% na prvoj dražbi; bez objekta i u slabom regionalnom kontekstu ne postoji investicijska teza.",
+  "flags": [
+    "depopulacijsko područje",
+    "isključivo poljoprivredno zemljište",
+    "minimalni popust (20%), prva dražba"
+  ],
+  "input_hash": "c8f67ef6f4fe",
+  "scored_at": "2026-04-19T16:16:19.373072"
+}

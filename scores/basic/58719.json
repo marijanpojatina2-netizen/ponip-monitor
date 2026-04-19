@@ -1,0 +1,16 @@
+{
+  "id": "58719",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Mješovito poljoprivredno zemljište (oranica, livada, voćnjak) u k.o. Samarica kod Bjelovara — loša lokacija za investicijsku nekretninu, popust 20% na prvoj dražbi nedovoljan. Voćnjak donosi minimalni operativni potencijal ali ne i investicijski.",
+  "flags": [
+    "voćnjak — operativni troškovi bez prinosa",
+    "ruralno područje",
+    "fragmentirane čestice"
+  ],
+  "input_hash": "05b86fa495ca",
+  "scored_at": "2026-04-19T16:14:37.271854"
+}

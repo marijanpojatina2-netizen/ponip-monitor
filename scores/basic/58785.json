@@ -1,0 +1,16 @@
+{
+  "id": "58785",
+  "score_overall": 2.0,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Livade i oranice u k.o. Glogovac (Koprivnica) – ukupno ~19.000 m2 poljoprivrednog zemljišta u ruralnoj Podravini, bez stambene ili turističke komponente. Popust 20% na prvoj dražbi ne mijenja fundamentalno slabu investicijsku sliku za neagrarne investitore.",
+  "flags": [
+    "isključivo poljoprivredno zemljište – prihod ovisi o zakupu obradivih površina",
+    "fragmentirano (5 čestica)",
+    "niska likvidnost regije"
+  ],
+  "input_hash": "f34d3a13f492",
+  "scored_at": "2026-04-19T16:14:09.214807"
+}
