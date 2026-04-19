@@ -280,6 +280,17 @@ def score_detailed_one(r: dict) -> dict:
     prompt = build_detailed_prompt(r)
     raw = call_claude(prompt, timeout=CLAUDE_TIMEOUT_DETAILED, allow_web=True)
     result = extract_json(raw)
+    # Claude ponekad s web_search-om vrati array s jednim objektom umjesto samog objekta
+    if isinstance(result, list):
+        dicts = [x for x in result if isinstance(x, dict)]
+        if len(dicts) == 1:
+            result = dicts[0]
+        elif len(dicts) > 1:
+            # Uzmi onaj čiji id odgovara našem record-u, ako postoji
+            match = next((x for x in dicts if str(x.get("id")) == r["id"]), None)
+            result = match or dicts[0]
+        else:
+            raise ValueError(f"Lista ne sadrži ni jedan dict za ID {r['id']}")
     if not isinstance(result, dict):
         raise ValueError(f"Očekivan JSON objekt, dobio {type(result).__name__}")
     return result
