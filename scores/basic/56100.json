@@ -1,0 +1,17 @@
+{
+  "id": "56100",
+  "score_overall": 6.5,
+  "score_lokacija": 5.0,
+  "score_roi": 8.5,
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Treća dražba s 75% popustom – početna cijena 104K EUR za procijenjenu vrijednost 416K EUR u Sesvetima je izniman ROI potencijal za flip ili dugoročni najam. Kritičan nedostatak je potpuni izostanak opisa predmeta (samo katastarska čestica bez navoda vrste i stanja), što čini terensku provjeru i uvid u ZK izvadak apsolutnom nužnošću.",
+  "flags": [
+    "nema opisa predmeta – nepoznata vrsta nekretnine i stvarno stanje",
+    "jamčevina 41.629 EUR ≈ 40% početne cijene – visoko za kupnju",
+    "Sesvete – solidna ali ne premium lokacija",
+    "potreban hitan uvid u ZK i terenska provjera prije licitacije"
+  ],
+  "input_hash": "f6be508ca331",
+  "scored_at": "2026-04-19T20:37:08.368436"
+}

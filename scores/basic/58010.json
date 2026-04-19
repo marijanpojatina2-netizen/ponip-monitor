@@ -1,0 +1,16 @@
+{
+  "id": "58010",
+  "score_overall": 6.5,
+  "score_lokacija": 8.0,
+  "score_roi": 7.0,
+  "score_stanje": 4.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Mali Lošinj (Dražica) s 40% popustom u drugoj dražbi je top investicijska priča - otok s premium turističkom potražnjom i ograničenom ponudom nekretnina. Gospodarski objekt 197 m2 + dvorište zahtijeva prenamjenu, ali potencijal za luksuzni smještaj opravdava dubinsku analizu.",
+  "flags": [
+    "gospodarski objekt - potrebna promjena namjene (UPU provjera)",
+    "nepoznato stanje konstrukcije i infrastrukture",
+    "treba provjeriti energetski certifikat i dozvole"
+  ],
+  "input_hash": "564c8fc55214",
+  "scored_at": "2026-04-19T20:39:08.071915"
+}

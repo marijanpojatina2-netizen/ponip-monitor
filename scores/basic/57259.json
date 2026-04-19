@@ -1,0 +1,16 @@
+{
+  "id": "57259",
+  "score_overall": 3.5,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Kuća u Pitomači s 50% popustom zvuči povoljno, ali depopulacijski pritisak i izrazito niska tržišna likvidnost Virovitičko-podravske županije eliminiraju sve realistične exit strategije; popust kompenzira lokaciju samo za vrlo specifičan, neinvesticijski profil kupca.",
+  "flags": [
+    "depopulacijska zona (Pitomača, Virovitica)",
+    "izrazito niska tržišna likvidnost Slavonije",
+    "ograničene ili nepostojeće izlazne strategije za investitora"
+  ],
+  "input_hash": "d2d8d41a7ddb",
+  "scored_at": "2026-04-19T20:35:02.929807"
+}

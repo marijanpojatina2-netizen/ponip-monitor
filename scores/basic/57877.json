@@ -1,0 +1,17 @@
+{
+  "id": "57877",
+  "score_overall": 7.5,
+  "score_lokacija": 8.0,
+  "score_roi": 8.5,
+  "score_stanje": 6.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Stan 360,89m² na VI. katu u Splitu s 40% popustom na DRUGOJ dražbi (početna 291.000 EUR) nudi izvanredan entry point od ~806 EUR/m² na tržištu gdje su tržišne cijene 2.500-4.000 EUR/m²; potencijal revalorizacije i turističkog najma izuzetno visok. Neophodna dubinska analiza stvarnog stanja stana, razloga ovršnog postupka i eventualnog zakupnog statusa.",
+  "flags": [
+    "velika površina 360m² - luksuzni segment, uži krug finalnih kupaca",
+    "potrebna provjera je li stan u zakupu/useljen",
+    "provjera stanja zgrade, lift, zajednički dijelovi",
+    "Požeška 5 - provjera mikrolokacije unutar Splita"
+  ],
+  "input_hash": "945121af9a43",
+  "scored_at": "2026-04-19T20:33:03.525420"
+}

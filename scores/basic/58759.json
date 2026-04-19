@@ -1,0 +1,17 @@
+{
+  "id": "58759",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 3.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Ruralna lokacija u depopulacijskom pojasu Karlovačke županije (Brezova Glava/Tušilović) nudi minimalnu likvidnost; stečajni kontekst, nejasna zgrada mješovite namjene i priložene pokretnine multipliciraju operativnu složenost.",
+  "flags": [
+    "stečajni dužnik",
+    "ruralna/depopulacijska lokacija - slaba likvidnost",
+    "zgrada mješovite namjene - nedefinirano stanje i namjena",
+    "pokretnine kao dio paketa - pravna i logistička kompleksnost"
+  ],
+  "input_hash": "114737fb6e71",
+  "scored_at": "2026-04-19T20:40:05.867776"
+}

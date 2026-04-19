@@ -1,0 +1,16 @@
+{
+  "id": "56104",
+  "score_overall": 5.5,
+  "score_lokacija": 4.0,
+  "score_roi": 8.5,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Popust od 75% na trećoj dražbi u Sesvetskom Kraljevcu financijski je iznimno atraktivan, ali opis ne otkriva vrstu ni stanje objekta, što onemogućuje procjenu stvarnog potencijala; bez inspekcije i detalja o namjeni i opterećenjima ne ulazi se.",
+  "flags": [
+    "nema opisa objekta - vrsta, namjena i stanje potpuno nepoznati",
+    "treća dražba - razlog za odustajanje na prethodnim dražbama nepoznat",
+    "periferija Zagreba (Sesvetski Kraljevec) - ograničeni turistički potencijal"
+  ],
+  "input_hash": "1ebde52a6bcd",
+  "scored_at": "2026-04-19T20:35:02.929735"
+}

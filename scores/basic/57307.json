@@ -1,0 +1,17 @@
+{
+  "id": "57307",
+  "score_overall": 6.5,
+  "score_lokacija": 6.0,
+  "score_roi": 7.5,
+  "score_stanje": 6.5,
+  "recommendation": "bid",
+  "reasoning": "Stan 190,80 m2 na 17. katu u Novom Zagrebu s dvije natkrivene terase i 5 soba - 40% popust na drugoj dražbi daje početnu cijenu od ~1.570 EUR/m2 što je ispod tržišnog prosjeka Zagreba za tu veličinu; stan je opisan funkcionalno (ulaz, dnevni boravak, kuhinja, ostava, 2 kupaonice, garderoba) bez alarmantnih znakova ruševnosti. Glavni rizici su 'neodređeni omjer' suvlasništva i troškovi starije visoke zgrade.",
+  "flags": [
+    "suvlasnički dio s neodređenim omjerom - pravna provjera obavezna",
+    "17. kat - provjeri stanje liftova i pričuvu zgrade",
+    "Zaprudski otok - starija zgrada, provjeri troškove održavanja i pričuvu",
+    "provjeri je li stan u najmu/zakupu ili slobodan"
+  ],
+  "input_hash": "336a8d3319fd",
+  "scored_at": "2026-04-19T20:31:01.561397"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "57936",
+  "score_overall": 6.5,
+  "score_lokacija": 8.0,
+  "score_roi": 7.5,
+  "score_stanje": 2.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Novigrad, Istra - 3.120 m2 u turistički atraktivnoj istarskoj destinaciji s 40% popustom na drugoj dražbi = izuzetno interesantan land deal, vrijednost zemljišta u Novigradu sama po sebi opravdava analizu; međutim, zgrada je potpuno ruševna (urušen krov, obraslost raslinjem, puna otpada) i najvjerojatnije sadrži azbest (salonit pokrov) što znači znatne troškove sanacije i potencijalnu ekološku obvezu. Isplativost ovisi o namjeni u GUP-u i trošku rušenja/sanacije.",
+  "flags": [
+    "zapuštena i trošna zgrada - praktički rušenje",
+    "djelomično urušen krov",
+    "SALONIT POKROV - visok rizik azbestne sanacije (skupo, regulirano)",
+    "zgrada puna otpada i mehanizacije - troškovi čišćenja",
+    "obraslost dračom - otežan pristup i procjena",
+    "provjeri GUP Novigrad: namjena čestice (T, GP, Z...)",
+    "provjeri je li zgrada u registru kulturnih dobara"
+  ],
+  "input_hash": "6c3ecabd9c39",
+  "scored_at": "2026-04-19T20:31:01.561264"
+}

@@ -1,71 +1,51 @@
 {
   "id": "",
-  "score_overall": 5.0,
-  "score_lokacija": 6.5,
-  "score_roi": 4.0,
-  "score_stanje": 5.0,
-  "recommendation": "deep_dive",
-  "reasoning": "Kaštel Lukšić je solidna dalmatinska obalna lokacija s dobrim dugoročnim potencijalom — blizina Splita, autoceste i aerodroma čini je atraktivnom za turizam i stanovanje. Međutim, opis je gotovo prazan: nepoznat točan popis nekretnina u 'cjelini', nema navedene početne cijene niti popusta, što onemogućuje procjenu ROI-ja. Stečajni postupak donosi sistemske rizike (skriveni tereti, moguće tužbe, komunalni dugovi). Pri ulaznoj cijeni s popustom ≥30% i pozitivnom due diligence analizom, ovo može biti izniman deal — bez toga je previsok rizik za kapital te veličine.",
+  "score_overall": 2.0,
+  "score_lokacija": 1.0,
+  "score_roi": 2.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Ova stavka NIJE nekretnina — radi se o portfelju pravnih potraživanja (claims) iz ovršnih postupaka u okviru stečajnog postupka, što u potpunosti izlazi iz domene standardne analize nekretnina. Nominalna vrijednost od 3.353.708 EUR ne odražava stvarnu naplativu vrijednost jer recovery rate u hrvatskim ovršnim postupcima tipično iznosi 10–50% ovisno o bonitetu dužnika, fazi postupka i podlozi tražbine. Bez poznavanja sastava portfelja (broj dužnika, vrsta potraživanja, osiguranje nekretninom ili ne), procjena stvarne vrijednosti i roka povrata gotovo je nemoguća. Jamčevina od svega 10.000 EUR (0,3% nominalne vrijednosti) neuobičajeno je niska i može ukazivati na nisku percipiranu naplativost.",
   "flags": [
-    "Prodaje se kao cjelina — nije moguće kupiti pojedinačne čestice/objekte zasebno, što drastično sužava krug kupaca pri izlazu",
-    "Početna cijena i popust NISU navedeni — moguće je da je ovo prva dražba po punoj procijenjenoj vrijednosti bez diskonta",
-    "Stečajni postupak (OVR-37/2023) — moguće neplaćeni porezi, doprinosi, komunalni dugovi koji opterećuju nekretninu",
-    "Razgledavanje isključivo uz prethodni dogovor sa stečajnom upravom — ograničena transparentnost i dostupnost informacija",
-    "ZK odjel Kaštel Lukšić — obvezna provjera svih hipoteka, tereta, zabilježbi i prava trećih osoba prije bilo kakve ponude",
-    "Kaštela regija ima industrijski kontekstualni rizik — historijat cementnih tvornica, moguća ekološka opterećenja čestice",
-    "Web pretraga tržišnih podataka nije bila dostupna u trenutku analize — comparables su temeljeni na poznatim podacima do kolovoza 2025."
+    "KRITIČNO: NIJE NEKRETNINA — vrsta 'pravo', opis 'Potraživanja po osnovi ovršnih postupaka'",
+    "Početna cijena nije navedena (None EUR) — nepoznat stvarni trošak ulaska",
+    "Jamčevina 10.000 EUR na 3,35M EUR nominale = 0,3% — neuobičajeno nisko, potencijalni signal loše naplativosti",
+    "Stečajni postupak — pravna kompleksnost, dugotrajni postupci, neizvjesnost naplate",
+    "Nepoznat sastav portfelja: broj dužnika, faza ovršnog postupka, vrsta osiguranja",
+    "Potraživanja mogu biti neosigurana (bez hipoteke) — tada recovery rate bliži 5–20%",
+    "Specijalizirani instrument — zahtijeva pravnu i financijsku ekspertizu izvan nekretninarstva",
+    "Vremenski horizont naplate: potencijalno 3–8+ godina kroz sudske postupke"
   ],
   "market_estimate": {
-    "eur_min": 4200000,
-    "eur_max": 7800000,
+    "eur_min": 200000,
+    "eur_max": 1200000,
     "confidence": "low",
-    "basis": "Bez poznavanja točnog broja, veličine i namjene nekretnina unutar 'cjeline' tržišna procjena je iznimno nesigurna. Referencijalne točke: stanovi u Kaštelima 2024-2025 iznose 2.500-4.000 EUR/m², kuće/vile s morem 4.000-6.000 EUR/m², komercijalni kompleksi variraju ovisno o namjeni i iskoristivosti. Kod 6,3M EUR radi se o velikom kompleksu ili višestrukim česticama — scenarij raspona je stoga širok."
+    "basis": "Gruba procjena tržišne vrijednosti portfelja primjenom recovery rate 6–36% na nominalnu vrijednost 3,35M EUR. Faktoring kuće i distressed debt fondovi u Hrvatskoj tipično plaćaju 5–30% nominale za ovršna potraživanja bez solidne podloge. Bez uvida u popis dužnika i osiguranja pouzdana procjena nije moguća."
   },
   "comparables": [
     {
-      "opis": "Stambeni kompleks s apartmanima, Kaštel Stari, prizemlje + 2 kata, blizina mora",
-      "cijena": 1850000,
-      "m2": 520,
-      "izvor": "nekretnine.net (procjena iz poznatih podataka tržišta)",
-      "url": "https://www.nekretnine.net/stambeni-objekti/kastela/"
-    },
-    {
-      "opis": "Poslovno-stambena zgrada, Kaštel Sućurac, blizina Splita",
-      "cijena": 2400000,
-      "m2": 800,
-      "izvor": "njuskalo.hr (procjena iz poznatih podataka tržišta)",
-      "url": "https://www.njuskalo.hr/nekretnine/kastela"
-    },
-    {
-      "opis": "Hotel ili pansion, Split-Dalmatinska županija, obalna zona — benchmarking",
-      "cijena": 5500000,
-      "m2": 1400,
-      "izvor": "Centar nekretnina / tržišni podaci 2024",
-      "url": "https://www.njuskalo.hr/prodaja-hotela/split-dalmatinska-zupanija"
-    },
-    {
-      "opis": "Građevinsko zemljište s objektima, Kaštela, zona mješovite namjene",
-      "cijena": 1200000,
+      "opis": "Nema direktno usporedivih javnih oglasa — portfelji potraživanja se ne prodaju na otvorenom tržištu već kroz specializirane aukcije ili direktne dogovore s faktorima. Transakcije nisu javno objavljene.",
+      "cijena": null,
       "m2": null,
-      "izvor": "nekretnine.net (procjena iz poznatih podataka tržišta)",
-      "url": "https://www.nekretnine.net/zemljista/kastela/"
+      "izvor": "N/A",
+      "url": "N/A"
     }
   ],
-  "investment_strategy": "Razvoj + turistički najam uz etažiranje: Optimalna strategija ovisi o sastavu paketa — ako sadrži hotelski/apartmanski kompleks, prioritet je ishođenje etažiranja (dioba na zasebne ZK jedinice), renovacija i turistički najam putem Airbnb/Booking kratkoročno, uz dugoročnu prodaju zasebnih jedinica po tržišnim cijenama. Ako su pretežno poslovni prostori ili zemlja, razmatranje prenamjene u turističke kapacitete ili suradnja s hotelskim operaterom. Ključna prepreka je 'prodaja kao cjelina' koja zahtijeva veliku ulagačku strukturu i/ili suulagače.",
-  "entry_price_eur": 4200000,
+  "investment_strategy": "Distressed debt / naplata potraživanja — nije standardna nekretninska strategija. Jedine smislene strategije su: (1) naplata kroz aktivno vođenje ovršnih postupaka uz vlastiti pravni tim, ili (2) brza preprodaja profesionalnom debt-collection investitoru uz prihvaćanje daljnjeg diskonta. Strategija 'reno-flip' ili 'iznajmljivanje' nije primjenjiva jer nema fizičke imovine.",
+  "entry_price_eur": 250000,
   "detailed_risks": [
-    "Nepoznat točan popis nekretnina — zaključak OVR-37/2023-46 od 11.06.2025. mora biti pribavljen i detaljno analiziran PRIJE bilo kakve odluke",
-    "Moguće da nekretnine imaju aktivne zakupnike ili stanare čija prava ne prestaju prodajom",
-    "Ekološki rizici: Kaštela su poznata po industrijskim zagađenjima (tvornica cementa Sv. Kajo), moguće opterećenje tla",
-    "Komunalni dugovi u stečajnom predmetu mogu biti preneseni na novog vlasnika ovisno o pravnoj konstrukciji",
-    "Legalizacijski rizik: stariji objekti na Dalmatinskoj obali često imaju probleme s dozvolama i etažiranjem",
-    "Likvidnosni rizik: pri cijeni 6,3M+ krug kupaca je ekstrerno uzak, exit strategija mora biti planirana unaprijed",
-    "Teret poreza na promet nekretnina (~3% + troškovi ovršnog postupka) povećava efektivnu ulaznu cijenu",
-    "Valutni i kamatni rizik pri financiranju investicije tog obima u 2025-2026 okruženju",
-    "Nejasnoća oko toga je li ovo prva, druga ili kasnija dražba — utječe na formiranje početne cijene"
+    "Potpuna neizvjesnost naplate: nominalna vrijednost 3,35M EUR ne garantira nikakav povrat",
+    "Dužnici mogu biti insolventni, mrtvi ili nelocirarani — naplata nemoguća",
+    "Hrvatski ovršni postupci iznimno su spori: prosjek 3–7 godina za naplatu",
+    "Pravni troškovi vođenja ovršnih postupaka mogu značajno erodiditati prinos",
+    "Neosigurana potraživanja (bez hipoteke) imaju prioritet ispod osiguranih vjerovnika u stečaju",
+    "Portfelj može sadržavati zastarjela potraživanja (zastara potraživanja u HR: 5 godina opća)",
+    "Bez due diligence uvida u popis potraživanja nema osnove za ponudu",
+    "Moguće da su dužnici već u stečaju — tada je naplata extrereno otežana",
+    "Početna cijena nije poznata: postoji rizik preplaćivanja bez referentne točke"
   ],
-  "upside_scenario": "Ako se radi o hotelskom ili apartmanskom kompleksu s 30+ jedinica na dobroj poziciji u Kaštel Lukšiću, tržišna vrijednost po etažiranju i renovaciji može dosegnuti 8-11M EUR do 2028. Split metropolitanska regija bilježi konstantni rast turizma i cijena; Kaštela su sve atraktivnija zbog zasićenosti Splita i blizine aerodroma. Kupnja uz popust ≥33% pruža jasnu exit maržu.",
-  "downside_scenario": "Ako nekretnine nose nevidljive terete (hipoteke, sudske zabrane, ekološke obveze) koje ne prestaju prodajom, investicija se može pretvoriti u višegodišnji pravni spor s negativnim cash flow-om. Bez mogućnosti etažiranja, preprodaja 'cjeline' od 6M+ ograničena je na mali broj kupaca — potencijalna zamrznutost kapitala 3-5 godina bez povrata.",
-  "input_hash": "6100ab013dda",
-  "scored_at": "2026-04-19T20:08:01.933574"
+  "upside_scenario": "Ako portfelj sadrži potraživanja osigurana hipotekama na nekretninama u urbanim područjima, te su dužnici aktivni subjekti s imovinom, recovery rate mogao bi doseći 40–60%. Uz ulaznu cijenu ispod 500.000 EUR i uspješnu naplatu 1,5–2M EUR unutar 3–5 godina, IRR bi bio atraktivan za specijaliziranog investitora. Realistično samo uz pristup cjelovitom popisu potraživanja i due diligence.",
+  "downside_scenario": "Dužnici su insolventni ili bez imovine, potraživanja neosigurana i/ili zastarjela — recovery rate 0–10%. Uz pravne troškove i vremensku vrijednost novca, ulaganje završava u totalnom gubitku. Ovaj scenarij nije zanemariv bez poznavanja sastava portfelja.",
+  "input_hash": "883c0fc3db1d",
+  "scored_at": "2026-04-19T21:05:09.034170"
 }

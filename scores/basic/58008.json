@@ -1,0 +1,15 @@
+{
+  "id": "58008",
+  "score_overall": 7.5,
+  "score_lokacija": 9.0,
+  "score_roi": 8.0,
+  "score_stanje": 6.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Kuća 200 m2 s dvorištem u Malom Lošinju na drugoj dražbi s 40% popustom od procjene predstavlja izvanredan turistički investicijski slučaj s jasnom exit strategijom; stanje interijera nije opisano, fizička inspekcija je preduvjet za licitiranje.",
+  "flags": [
+    "stanje interijera nepoznato - nužna fizička inspekcija",
+    "druga dražba (razlog za neuspjeh prve dražbe nije poznat)"
+  ],
+  "input_hash": "0650d8fb7915",
+  "scored_at": "2026-04-19T20:35:02.929631"
+}

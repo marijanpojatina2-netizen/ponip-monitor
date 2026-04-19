@@ -1,0 +1,16 @@
+{
+  "id": "58084",
+  "score_overall": 4.0,
+  "score_lokacija": 5.0,
+  "score_roi": 4.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Atraktivan 40% popust (druga dražba) na Škurinjama u Rijeci, ali prodaje se samo 1/2 suvlasničkog udjela što drastično ograničava upotrebu, refinanciranje i daljnju prodaju bez suglasnosti suvlasnika. Periferna lokacija Rijeke bez turističke premije.",
+  "flags": [
+    "suvlasnički udio 1/2 - kritičan rizik upravljanja i izlaza",
+    "periferna lokacija (Škurinje - nije centar Rijeke)",
+    "nepoznato stanje i starost objekta"
+  ],
+  "input_hash": "3b56a4fcbb85",
+  "scored_at": "2026-04-19T20:39:08.071796"
+}

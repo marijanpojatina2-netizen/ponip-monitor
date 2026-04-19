@@ -1,0 +1,16 @@
+{
+  "id": "58997",
+  "score_overall": 4.5,
+  "score_lokacija": 5.0,
+  "score_roi": 5.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Industrijska nekretnina u Varaždinu (Zagrebačka ul.) s 25% popustom i solidnim površinama (dvorište ~3131 m2, zgrade ~1171 m2) - Varaždin ima industrijsku tradiciju i blizinu Austriji/Mađarskoj. Rentabilno samo za industrijsko/logističko korištenje, bez rezidencijalnog potencijala.",
+  "flags": [
+    "industrijska namjena - ograničena prenamjena",
+    "prva dražba",
+    "stečaj - nepoznato stanje objekta i dugovi prema komunalcima"
+  ],
+  "input_hash": "120bfa2af431",
+  "scored_at": "2026-04-19T20:39:08.071995"
+}

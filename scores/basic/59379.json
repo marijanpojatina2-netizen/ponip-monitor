@@ -1,0 +1,16 @@
+{
+  "id": "59379",
+  "score_overall": 5.5,
+  "score_lokacija": 6.5,
+  "score_roi": 6.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Industrijska nekretnina u k.o. Šarampov (Split) s 25% popustom - solidna lokacija za industrijsko/komercijalno korištenje, ali isključivo B2B tržište bez turističkog potencijala. Prva dražba, dvorište 5220 m2 + zgrada 1061 m2 nudi opcije za razvoj ili iznajmljivanje.",
+  "flags": [
+    "industrijska namjena - ograničena konverzija",
+    "prva dražba bez popusta na popust",
+    "nepoznato stanje objekta i komunalni priključci"
+  ],
+  "input_hash": "f16d30caa216",
+  "scored_at": "2026-04-19T20:39:08.071631"
+}

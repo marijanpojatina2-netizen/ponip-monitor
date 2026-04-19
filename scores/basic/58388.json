@@ -1,0 +1,15 @@
+{
+  "id": "58388",
+  "score_overall": 6.0,
+  "score_lokacija": 7.5,
+  "score_roi": 5.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Nova Vas je atraktivno istarsko ruralno-turističko zaleđe Poreča s dobrim razvojnim potencijalom, no 20% popust na prvoj dražbi je minimalan entry i opis ne otkriva stvarno stanje objekta.",
+  "flags": [
+    "nema detalja o stanju objekta",
+    "prva dražba - minimalan popust od procjene"
+  ],
+  "input_hash": "744b459c9515",
+  "scored_at": "2026-04-19T20:40:05.866871"
+}

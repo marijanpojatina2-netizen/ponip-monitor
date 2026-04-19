@@ -1,0 +1,62 @@
+{
+  "id": "59193",
+  "score_overall": 4.5,
+  "score_lokacija": 4.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Radi se o skupu poljoprivrednih čestica (oranica) u k.o. Donja Lomnica (Velika Gorica), u neposrednoj blizini Međunarodne zračne luke Franjo Tuđman — strateška lokacija za industrijske/logističke projekte, ali ne i za turizam ili stanovanje. Procjena od 3,46 mil. EUR za oranice je iznimno visoka i sugerira da je procjenitelj vrednovao potencijal prenamjene, a ne samo poljoprivrednu vrijednost — to trebeba verificirati uvidom u GUP Velike Gorice. Prva dražba s popustom od svega 25% i početnom cijenom 2,59 mil. EUR znači visok kapital uz neizvjestan prinos bez potvrde planerske namjene. Opis je odrezan pa puna površina i broj čestica nisu poznati, što samo po sebi onemogućava ozbiljnu kalkulaciju.",
+  "flags": [
+    "Opis opisa odrezan — nepoznata ukupna površina i broj svih čestica",
+    "Sve čestice klasificirane kao 'oranica' — zahtijeva provjeru GUP namjene za eventualnu izgradnju/prenamjenu",
+    "Prva dražba — nema bonusa ponavljajuće dražbe",
+    "Blizina aerodroma — moguća ograničenja visine gradnje i buka-zone (ICAO/HRZ propisi)",
+    "Fragmentirani vlasništvo: 11+ različitih katastarskih čestica u više zk. ulozaka — složeniji postupak preuzimanja titula",
+    "Stečajni predmet Trgovačkog suda Zagreb — potrebno provjeriti moguće realne terete/hipoteke preostale na česticama",
+    "Jamčevina 345.693 EUR — visok ulazni trošak za due diligence fazu"
+  ],
+  "market_estimate": {
+    "eur_min": 350000,
+    "eur_max": 2800000,
+    "confidence": "low",
+    "basis": "Raspršen raspon odražava ključnu neizvjesnost: (a) ako su čestice strogo poljoprivredne namjene, tržišna vrijednost oranica u Turopolju kreće se 3–15 EUR/m². Unazad iz procjene od 3,46 mil. EUR slijedi ukupna površina ~230.000–1.150.000 m² — nerealno velika za opisane čkbr., pa procjenitelj mora biti vrednovao razvojni potencijal. (b) Ako GUP Velike Gorice ima ove čestice kao poslovnu/industrijsku ili mješovitu zonu blizu aerodroma, tržišne vrijednosti građevinskog/poslovnog zemljišta u okolici Velike Gorice kreću se 40–120 EUR/m². Bez uvida u GUP i ukupnu površinu pouzdana procjena nije moguća. Web pretraživanje portala njuskalo.hr i nekretnine.net nije bilo dostupno u ovom okruženju."
+  },
+  "comparables": [
+    {
+      "opis": "Građevinsko zemljište, Velika Gorica (centar/okolica), ~1.000–5.000 m², tipična tržišna razina 2024–2025",
+      "cijena": 80,
+      "m2": null,
+      "izvor": "tržišno znanje (EUR/m²)",
+      "url": "https://www.njuskalo.hr/prodaja-zemljista/velika-gorica"
+    },
+    {
+      "opis": "Poljoprivredno (oranica) Turopolje/Moslavina — tržišna razina za čistu agro-namjenu",
+      "cijena": 8,
+      "m2": null,
+      "izvor": "tržišno znanje (EUR/m²)",
+      "url": "https://www.nekretnine.net/stambeni-objekti/zemljista/lista/"
+    },
+    {
+      "opis": "Industrijska/logistička zona Velika Gorica — usporediva s transakcijama u Jankomiru/Rugvici, 2023–2025",
+      "cijena": 120,
+      "m2": null,
+      "izvor": "tržišno znanje (EUR/m²)",
+      "url": "https://www.cbre.hr/insights/reports"
+    }
+  ],
+  "investment_strategy": "Zemljišna špekulacija (land banking) s ciljem prenamjene u poslovnu/industrijsku/logističku namjenu. Blizina Aerodroma Zagreb i autoceste A3/A4 jedini su relevantan investicijski argument — ako GUP potvrdi razvoj, ovaj predio može u 5–10 god. postati atraktivan za developere logističkih parkova ili light-industrial prostora. Iznajmljivanje za poljoprivrednu svrhu (zakup oranica) generirat će zanemariv prinos (~2.000–5.000 EUR/god. za cijeli portfelj). Preprodaja bez prenamjene nerealna je po ovim cijenama.",
+  "entry_price_eur": 1200000,
+  "detailed_risks": [
+    "GUP rizik: ako su čestice i dalje u agro-zoni bez perspektive prenamjene, stvarna tržišna vrijednost je 5–15x niža od procjene",
+    "Aerodromska ograničenja: Donja Lomnica je u zoni buke i potencijalnih visinski restrikcija Aerodroma Zagreb — može bitno limitirati tipove gradnje",
+    "Fragmentacija: 11+ čestica s različitim površinama izraženim u m² i čhv — u praksi znači složenu uknjižbu i potencijalnu parcijalizaciju projekta",
+    "Opis odrezan: nepoznate čestice od čkbr. 1300 nadalje — mogu uključivati terete, sporove ili pristupne putove koji nisu evidentni",
+    "Likvidnost: sekundarno tržište za veliki portfelj agro-čestica u Turopolju je ekstremno plitko — exit strategija ograničena na mali broj strateškog kupaca",
+    "Regulatorna rizik: izmjene GUP/PPUG Velika Gorica mogu i deprioritizirati ovo područje za razvoj",
+    "Kapitalna neučinkovitost: imobilizacija 2,6+ mil. EUR u spekulativnom projektu bez prihoda čeka na regulatorni outcome koji može potrajati 3–8 god."
+  ],
+  "upside_scenario": "Ako GUP Velike Gorice (u reviziji koja je u tijeku ili planirana) zoni ove čestice kao poslovnu/industrijsku ili logističku namjenu, te ako se Zagreb International Airport nastavi širiti prema jugu/jugoistoku, ukupna površina portfelja (vjerojatno 30.000–100.000 m²) mogla bi postići 80–150 EUR/m² u 5–7 god. horizonta — exit vrijednost 2,4–15 mil. EUR za strateškog kupca (Developer logističkih parkova, npr. GLP, Logicor ili domaći investitor). Prinos ovisi dominantno o regulatornom ishodu.",
+  "downside_scenario": "Bez GUP prenamjene, ove oranice vrijede po agro-tržišnoj cijeni 5–15 EUR/m². Čak i za konzervativnih 60.000 m² ukupne površine, to je 300.000–900.000 EUR — pad od 65–88% na uplaćenu početnu cijenu od 2,59 mil. EUR. Uz troškove poreza na promet nekretnina (3%), notara i eventualne sanacije pristupnih putova, ukupni gubitak mogao bi premašiti 1,8 mil. EUR.",
+  "input_hash": "94c5c0c5bda7",
+  "scored_at": "2026-04-19T21:03:53.829462"
+}

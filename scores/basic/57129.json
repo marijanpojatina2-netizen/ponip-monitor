@@ -1,0 +1,17 @@
+{
+  "id": "57129",
+  "score_overall": 6.5,
+  "score_lokacija": 7.5,
+  "score_roi": 7.0,
+  "score_stanje": 5.0,
+  "recommendation": "bid",
+  "reasoning": "Dva stana na Jadranskom trgu u centru Rijeke (48+81 m2) s 40% popustom na drugoj dražbi su solidna investicijska prilika – centralna lokacija idealna za dugoročni najam ili preprodaju. Jamčevina od 127.500 EUR (50% početne cijene) je neobično visoka i zahtijeva znatan likvidni kapital, što je potrebno pažljivo razmotriti.",
+  "flags": [
+    "jamčevina 127.500 EUR = 50% početne cijene – iznimno visoko, provjeriti razlog",
+    "moguć zakup ili osoba u posjedu",
+    "nema opisa fizičkog stanja stanova",
+    "dva stana u jednom postupku – kompleksnost uknjižbe"
+  ],
+  "input_hash": "ba94c3f5ec08",
+  "scored_at": "2026-04-19T20:37:08.367697"
+}

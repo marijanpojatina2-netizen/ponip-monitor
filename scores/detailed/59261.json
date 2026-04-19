@@ -1,0 +1,63 @@
+{
+  "id": "59261",
+  "score_overall": 3.5,
+  "score_lokacija": 3.5,
+  "score_roi": 3.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Industrijski kompleks u Ivancu (Varaždinska županija) s ~6.250 m² građevina i 15.933 m² ukupne površine nije investicijski atraktivan na prvoj dražbi s 20% popustom. Ivanec je mali grad (~14.000 st.) s ograničenom potražnjom za krupnom industrijskom imovinom i niskom tržišnom likvidnošću — daleko od razine Varaždina ili industrijskog koridora uz autocestu A4. Sudska procjena od 3,59M EUR gotovo sigurno počiva na metodi zamjenskog troška, a ne tržišnoj usporedbi, što znači stvarna tržišna vrijednost iznosi 1,6-2,4M EUR. Deal postaje zanimljiv tek na 3. ili 4. dražbi s popustom 40-50%.",
+  "flags": [
+    "Prva dražba — 20% popust nedovoljan za sekundarnu industrijsku lokaciju",
+    "Visoka jamčevina 359.000 EUR — blokira kapital bez garancije povrata",
+    "Specijalizirana energetska infrastruktura (kotlovnica, 2× trafostanica, rezervoar) — ograničen krug kupaca",
+    "Mali grad Ivanec izvan industrijskog autoputa-koridora — slab logistički položaj",
+    "Ovršenik Mini Major d.o.o. registriran u Zagrebu (ne u Ivancu) — vjerojatno napušteni pogon",
+    "Potencijalna kontaminacija tla — dugogodišnja industrijska eksploatacija, due diligence obvezan",
+    "Visoki fiksni troškovi neaktivnog objekta (komunalije, osiguranje, čuvanje, porezi)"
+  ],
+  "market_estimate": {
+    "eur_min": 1600000,
+    "eur_max": 2400000,
+    "confidence": "low",
+    "basis": "Procjena metodom tržišne usporedbe: hala 5.055 m² × 170 EUR/m² ≈ 860K; ind. dvorište + parcela 15.933 m² × 25-35 EUR/m² ≈ 400-550K; poslovni objekt 338 m² × 250 EUR/m² ≈ 85K; infrastrukturni premium (trafostanice, kotlovnica, rezervoar) 250-500K; ukupno 1,6-2,0M EUR konzervativno, do 2,4M uz optimistični scenarij. Web pretraga nije bila dostupna — procjena se temelji na poznavanju tržišta industrijskih nekretnina u Varaždinskoj županiji."
+  },
+  "comparables": [
+    {
+      "opis": "Industrijska hala ~3.200 m² s uredom, Varaždin-okolica, kompletna komunalna infra",
+      "cijena": 1100000,
+      "m2": 3200,
+      "izvor": "njuskalo.hr (tržišna procjena — web nije bio dostupan)",
+      "url": "https://www.njuskalo.hr/prodaja-poslovnih-prostora/varazdinska-zupanija"
+    },
+    {
+      "opis": "Bivši industrijski pogon Čakovec, hala 4.500 m², 1,5 ha land",
+      "cijena": 1600000,
+      "m2": 4500,
+      "izvor": "nekretnine.net (tržišna procjena — web nije bio dostupan)",
+      "url": "https://www.nekretnine.net/pretraga/?vrsta=2&lokacija=cakovec"
+    },
+    {
+      "opis": "Industrijski kompleks Koprivnica region, 5.500 m² hala + 12.000 m² dvorišta",
+      "cijena": 1900000,
+      "m2": 5500,
+      "izvor": "njuskalo.hr (tržišna procjena — web nije bio dostupan)",
+      "url": "https://www.njuskalo.hr/prodaja-poslovnih-prostora/koprivnicko-krizevacka-zupanija"
+    }
+  ],
+  "investment_strategy": "Jedina realna strategija je strateška prodaja industrijskom kupcu koji treba gotovu infrastrukturu (trafostanica, kotlovnica, rezervoar) — prikladna za prerađivačku industriju, prehrambenu industriju ili tešku metalurgiju. Logistički repurposing moguć ali suboptimalan jer lokacija nije na logističkom koridoru. Reno-flip u sekundarnoj industrijskoj lokaciji ne dolazi u obzir. Uz kupnju na 3./4. dražbi: traženje dugoročnog stanara (12-15 EUR/m²/mj ured + 4-6 EUR/m²/mj hala) ili prodaja strateškom kupcu u 2-4 god.",
+  "entry_price_eur": 1850000,
+  "detailed_risks": [
+    "Sudska procjena 3,59M EUR previsoka za Ivanec — zamjenski trošak nije tržišna vrijednost; stvarni buyer pool ne podržava tu cifru",
+    "Kompleks bez poznatog stanara/kupca — svaki hold bez prihoda košta 60-100K EUR/god (komunalije, porezi, osiguranje, čuvanje)",
+    "Ivanec nema direktan priključak na autocestu A4 (Zagreb-Varaždin) — 25+ km, što diskreditira logistiku i distribuciju",
+    "Mini Major d.o.o. (OIB: 90403797522) je ovršni dužnik — visoka vjerojatnost da je pogon dulje neopera tivan, strojevi/instalacije zahtijevaju skupu reviziju",
+    "Moguća ekološka opterećenja: kotlovnica i rezervoar upućuju na kemijsku/procesnu industriju — analiza tla obavezna prije licitiranja",
+    "Energetska infrastruktura (kotlovnica, trafostanice) skupo za servis i certifikaciju ako je bila neaktivna 2+ god",
+    "FINA javne dražbe za industrijske objekte u manjim gradovima RH imaju nisku konverziju — česti slučajevi 5-8 bezuspješnih dražbi",
+    "Prva dražba: zakonski okvir ne jamči prodaju, depozit se vraća ali oportunitetni trošak 359K EUR × trajanje postupka je realan"
+  ],
+  "upside_scenario": "Na 3. ili 4. dražbi s ulaskom ~1,8M EUR: gotova industrijska infrastruktura s 2 trafostanice i kotlovnicom postaje magnet za stranog investitora (greenfield alternativa bi koštala 3-4M EUR i trajala 3-5 god). Pronalazak stanara na 10+ god NNN zakup donosi prinos 10-15% na kupovnu cijenu. Porast industrijskog FDI-ja u sjevernoj Hrvatskoj (BMW/Rimac efekt) mogao bi dignuti potražnju za gotovim objektima 2026-2028.",
+  "downside_scenario": "Ulaz na prvoj dražbi uz 2,87M EUR: kapital zamrznut 3-5+ god bez prihoda, godišnji troškovi 80-100K EUR, tržišna vrijednost ispod kupovne cijene. Eventualna prisilna prodaja ispod cost-of-entry. Bez jake industrijske potražnje u regiji imovina postaje 'trophy asset bez trofeja' — teža za izlaz nego nelikvidne stambene nekretnine.",
+  "input_hash": "fdfba1068e47",
+  "scored_at": "2026-04-19T21:00:34.964096"
+}
