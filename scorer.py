@@ -31,13 +31,8 @@ DETAILED_DIR.mkdir(parents=True, exist_ok=True)
 
 DETAILED_THRESHOLD_EUR = 500_000
 CLAUDE_BIN = os.environ.get("CLAUDE_BIN", "claude")
-<<<<<<< HEAD
-CLAUDE_TIMEOUT_BASIC = 360
-CLAUDE_TIMEOUT_DETAILED = 360
-=======
 CLAUDE_TIMEOUT_BASIC = 300
 CLAUDE_TIMEOUT_DETAILED = 600
->>>>>>> 36bd48c (rewrite scorer.py with all fixes (stdin, smart JSON, debug logging))
 
 
 # ============================================================================
@@ -93,13 +88,8 @@ def call_claude(prompt: str, timeout: int, allow_web: bool = False) -> str:
     cmd = [CLAUDE_BIN, "--print"]
     if allow_web:
         cmd += ["--allowed-tools", "web_search"]
-<<<<<<< HEAD
-    # Prompt ide preko stdin-a umjesto pozicijskog argumenta — izbjegava probleme
-    # s --allowed-tools koji konzumira previše argumenata, i podržava jako dugačke promptove
-=======
     # Prompt preko stdin-a — izbjegava argv parsing probleme s --allowed-tools
     # i podržava jako dugačke promptove
->>>>>>> 36bd48c (rewrite scorer.py with all fixes (stdin, smart JSON, debug logging))
     log.debug(f"claude call: {len(prompt)} chars prompt via stdin, web={allow_web}")
     result = subprocess.run(
         cmd,
@@ -123,19 +113,12 @@ def _find_all_json(text: str):
         if ch not in "[{":
             i += 1
             continue
-<<<<<<< HEAD
-        open_c, close_c = ch, "}" if ch == "{" else "]"
-        depth = 0
-        in_str = False
-        esc = False
-=======
         open_c = ch
         close_c = "}" if ch == "{" else "]"
         depth = 0
         in_str = False
         esc = False
         found_end = False
->>>>>>> 36bd48c (rewrite scorer.py with all fixes (stdin, smart JSON, debug logging))
         for j in range(i, len(text)):
             c = text[j]
             if esc:
@@ -160,31 +143,19 @@ def _find_all_json(text: str):
                     except json.JSONDecodeError:
                         pass
                     i = j + 1
-<<<<<<< HEAD
-                    break
-        else:
-=======
                     found_end = True
                     break
         if not found_end:
->>>>>>> 36bd48c (rewrite scorer.py with all fixes (stdin, smart JSON, debug logging))
             break
     return results
 
 
 def extract_json(text: str, prefer_key: str = None):
     """
-<<<<<<< HEAD
-    Izvuče JSON iz Claudeovog outputa. Uzima:
-    1. Ako je čisti JSON — vrati ga
-    2. Ako ima više JSON blokova — prefer onaj koji ima `prefer_key` field
-    3. Fallback: zadnji JSON objekt (obično stvarni odgovor je na kraju)
-=======
     Izvuče JSON iz Claudeovog outputa.
     - Ako je čisti JSON, vrati ga
     - Inače nađi sve JSON blokove i prefer-iraj onaj koji ima prefer_key
     - Fallback: zadnji kandidat
->>>>>>> 36bd48c (rewrite scorer.py with all fixes (stdin, smart JSON, debug logging))
     """
     t = text.strip()
     # Skini ``` fences ako postoje
@@ -203,21 +174,6 @@ def extract_json(text: str, prefer_key: str = None):
     if not candidates:
         raise ValueError(f"Ne mogu parsirati JSON iz: {text[:500]}")
 
-<<<<<<< HEAD
-    # Ako je zadan prefer_key, traži JSON koji ga ima
-    if prefer_key:
-        # Dict koji direktno ima taj key
-        for c in reversed(candidates):  # reversed jer je odgovor obično na kraju
-            if isinstance(c, dict) and prefer_key in c:
-                return c
-        # Array koji sadrži dict s tim key-em
-        for c in reversed(candidates):
-            if isinstance(c, list):
-                for item in c:
-                    if isinstance(item, dict) and prefer_key in item:
-                        return c  # vrati cijeli array
-    # Fallback — zadnji kandidat (dict ili array)
-=======
     if prefer_key:
         # Dict koji direktno ima taj key (tražiti s kraja jer je odgovor obično zadnji)
         for c in reversed(candidates):
@@ -228,7 +184,6 @@ def extract_json(text: str, prefer_key: str = None):
             if isinstance(c, list):
                 if any(isinstance(item, dict) and prefer_key in item for item in c):
                     return c
->>>>>>> 36bd48c (rewrite scorer.py with all fixes (stdin, smart JSON, debug logging))
     return candidates[-1]
 
 
@@ -376,11 +331,7 @@ def score_basic_batch(records: list[dict]) -> list[dict]:
     if not records:
         return []
     prompt = build_basic_batch_prompt(records)
-<<<<<<< HEAD
-raw = call_claude(prompt, timeout=CLAUDE_TIMEOUT_BASIC, allow_web=False)
-=======
     raw = call_claude(prompt, timeout=CLAUDE_TIMEOUT_BASIC, allow_web=False)
->>>>>>> 36bd48c (rewrite scorer.py with all fixes (stdin, smart JSON, debug logging))
     parsed = extract_json(raw, prefer_key="score_overall")
     if not isinstance(parsed, list):
         # Claude možda vratio jedan objekt umjesto array-a
@@ -401,27 +352,18 @@ def score_detailed_one(r: dict) -> dict:
         # Spremi raw output za debug
         debug_path = DETAILED_DIR / f"{r['id']}_raw_failed.txt"
         debug_path.write_text(raw, encoding="utf-8")
-<<<<<<< HEAD
-        log.error(f"Spremljen raw output u {debug_path}")
-        raise
-    # Claude ponekad vrati array s jednim objektom umjesto samog objekta
-=======
         log.error(f"Spremljen raw output u {debug_path.name}")
         raise
     # Claude s web_search-om ponekad vrati array s jednim objektom
->>>>>>> 36bd48c (rewrite scorer.py with all fixes (stdin, smart JSON, debug logging))
     if isinstance(result, list):
         dicts = [x for x in result if isinstance(x, dict) and "market_estimate" in x]
         if dicts:
             result = dicts[0]
         else:
-<<<<<<< HEAD
-=======
             # Spremi raw za debug
             debug_path = DETAILED_DIR / f"{r['id']}_raw_failed.txt"
             debug_path.write_text(raw, encoding="utf-8")
             log.error(f"Lista bez dict-a s market_estimate za ID {r['id']} — raw u {debug_path.name}")
->>>>>>> 36bd48c (rewrite scorer.py with all fixes (stdin, smart JSON, debug logging))
             raise ValueError(f"Lista ne sadrži dict s market_estimate za ID {r['id']}")
     if not isinstance(result, dict):
         raise ValueError(f"Očekivan JSON objekt, dobio {type(result).__name__}")
