@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PONIP Dashboard — Dražbe u najavi</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<style>
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif; -webkit-font-smoothing: antialiased; }
+  .chip { transition: all 0.15s; }
+  .chip.active { background: #2563eb; color: white; border-color: #2563eb; }
+  table { font-variant-numeric: tabular-nums; }
+  th.sortable { cursor: pointer; user-select: none; }
+  th.sortable:hover { background: #f3f4f6; }
+  th.sortable.sorted::after { content: ''; display: inline-block; margin-left: 4px; border: 4px solid transparent; }
+  th.sortable.asc::after { border-bottom-color: #6b7280; margin-bottom: 4px; }
+  th.sortable.desc::after { border-top-color: #6b7280; margin-top: 4px; }
+  .badge-prva { background: #dbeafe; color: #1e3a8a; }
+  .badge-druga { background: #fef3c7; color: #78350f; }
+  .badge-treca { background: #fed7aa; color: #9a3412; }
+  .badge-cetvrta { background: #fecaca; color: #7f1d1d; }
+  .badge-new { background: #d1fae5; color: #064e3b; }
+  .badge-urgent { background: #fee2e2; color: #7f1d1d; }
+  .score-hi { background: #d1fae5; color: #064e3b; }
+  .score-md { background: #fef3c7; color: #78350f; }
+  .score-lo { background: #fee2e2; color: #7f1d1d; }
+  .rec-bid { color: #064e3b; }
+  .rec-deep_dive { color: #1e3a8a; }
+  .rec-watch { color: #78350f; }
+  .rec-pass { color: #6b7280; }
+  tr.expanded-row td { background: #f9fafb; }
+  details > summary { list-style: none; cursor: pointer; }
+  details > summary::-webkit-details-marker { display: none; }
+  .scrollbar-thin::-webkit-scrollbar { width: 8px; height: 8px; }
+  .scrollbar-thin::-webkit-scrollbar-thumb { background: #d1d5db; border-radius: 4px; }
+  .detailed-badge { background: linear-gradient(90deg, #7c3aed, #2563eb); color: white; padding: 2px 6px; border-radius: 6px; font-size: 10px; font-weight: 600; }
+</style>
+</head>
+<body class="bg-stone-50 text-gray-900">
+
+<div class="max-w-[1500px] mx-auto p-4 md:p-6">
+
+  <header class="mb-6">
+    <div class="flex items-baseline justify-between flex-wrap gap-2">
+      <h1 class="text-2xl font-semibold tracking-tight">PONIP Dashboard</h1>
+      <div id="lastUpdated" class="text-xs text-gray-500"></div>
+    </div>
+    <p class="text-sm text-gray-600 mt-1">Javne dražbe iz FINA Očevidnika s AI scoringom. Filtriraj, sortiraj, spremi presetove.</p>
+  </header>
+
+  <!-- Summary pills -->
+  <div class="grid grid-cols-2 md:grid-cols-4 gap-2 md:gap-4 mb-6">
+    <div class="bg-white border border-gray-200 rounded-lg p-3 md:p-4">
+      <div class="text-xs text-gray-500 uppercase tracking-wide">Aktivnih</div>
+      <div class="text-2xl md:text-3xl font-semibold" id="totalPill">—</div>
+    </div>
+    <div class="bg-emerald-50 border border-emerald-200 rounded-lg p-3 md:p-4">
+      <div class="text-xs text-emerald-700 uppercase tracking-wide">Novih od jučer</div>
+      <div class="text-2xl md:text-3xl font-semibold text-emerald-900" id="newPill">—</div>
+    </div>
+    <div class="bg-rose-50 border border-rose-200 rounded-lg p-3 md:p-4">
+      <div class="text-xs text-rose-700 uppercase tracking-wide">Hitne jamčevine</div>
+      <div class="text-2xl md:text-3xl font-semibold text-rose-900" id="urgentPill">—</div>
+    </div>
+    <div class="bg-violet-50 border border-violet-200 rounded-lg p-3 md:p-4">
+      <div class="text-xs text-violet-700 uppercase tracking-wide">AI ocijenjenih</div>
+      <div class="text-2xl md:text-3xl font-semibold text-violet-900" id="scoredPill">—</div>
+    </div>
+  </div>
+
+  <!-- Filters -->
+  <details class="bg-white border border-gray-200 rounded-lg mb-4" open>
+    <summary class="px-4 py-3 flex items-center justify-between text-sm font-medium">
+      <span>Filteri</span>
+      <span class="text-xs text-gray-500" id="activeFiltersCount"></span>
+    </summary>
+    <div class="px-4 pb-4 border-t border-gray-100 pt-4 space-y-4">
+
+      <div>
+        <label class="block text-xs text-gray-600 mb-1">Pretraga (opis, sud, adresa, poslovni broj)</label>
+        <input type="text" id="search" placeholder="npr. Poreč, bazen, villa, ST-280..."
+               class="w-full border border-gray-300 rounded-md px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent">
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
+        <div>
+          <label class="block text-xs text-gray-600 mb-1">Županija</label>
+          <select id="zupanija" class="w-full border border-gray-300 rounded-md px-3 py-2 text-sm">
+            <option value="">Sve županije</option>
+          </select>
+        </div>
+        <div>
+          <label class="block text-xs text-gray-600 mb-1">Vrsta predmeta</label>
+          <select id="vrsta" class="w-full border border-gray-300 rounded-md px-3 py-2 text-sm">
+            <option value="">Sve vrste</option>
+          </select>
+        </div>
+      </div>
+
+      <div>
+        <label class="block text-xs text-gray-600 mb-2">Redni broj dražbe</label>
+        <div class="flex gap-2 flex-wrap" id="roundChips">
+          <button class="chip active px-3 py-1 text-xs border border-gray-300 rounded-full" data-round="all">Sve</button>
+          <button class="chip px-3 py-1 text-xs border border-gray-300 rounded-full" data-round="Prva">Prva</button>
+          <button class="chip px-3 py-1 text-xs border border-gray-300 rounded-full" data-round="Druga">Druga</button>
+          <button class="chip px-3 py-1 text-xs border border-gray-300 rounded-full" data-round="Treća">Treća</button>
+          <button class="chip px-3 py-1 text-xs border border-gray-300 rounded-full" data-round="Četvrta">Četvrta</button>
+        </div>
+      </div>
+
+      <div>
+        <label class="block text-xs text-gray-600 mb-2">AI preporuka</label>
+        <div class="flex gap-2 flex-wrap" id="recChips">
+          <button class="chip active px-3 py-1 text-xs border border-gray-300 rounded-full" data-rec="all">Sve</button>
+          <button class="chip px-3 py-1 text-xs border border-gray-300 rounded-full" data-rec="deep_dive">Deep dive</button>
+          <button class="chip px-3 py-1 text-xs border border-gray-300 rounded-full" data-rec="bid">Bid</button>
+          <button class="chip px-3 py-1 text-xs border border-gray-300 rounded-full" data-rec="watch">Watch</button>
+          <button class="chip px-3 py-1 text-xs border border-gray-300 rounded-full" data-rec="pass">Pass</button>
+        </div>
+      </div>
+
+      <div class="grid grid-cols-2 md:grid-cols-3 gap-3">
+        <div>
+          <label class="block text-xs text-gray-600 mb-1">Min. početna cijena (EUR)</label>
+          <input type="number" id="minPrice" placeholder="0" step="10000"
+                 class="w-full border border-gray-300 rounded-md px-3 py-2 text-sm">
+        </div>
+        <div>
+          <label class="block text-xs text-gray-600 mb-1">Maks. početna cijena (EUR)</label>
+          <input type="number" id="maxPrice" placeholder="bez limita" step="10000"
+                 class="w-full border border-gray-300 rounded-md px-3 py-2 text-sm">
+        </div>
+        <div>
+          <label class="block text-xs text-gray-600 mb-1">Min. AI score</label>
+          <input type="number" id="minScore" placeholder="0" min="0" max="10" step="0.5"
+                 class="w-full border border-gray-300 rounded-md px-3 py-2 text-sm">
+        </div>
+      </div>
+
+      <div class="flex gap-4 flex-wrap text-sm">
+        <label class="inline-flex items-center gap-2">
+          <input type="checkbox" id="onlyNew" class="rounded border-gray-300">
+          <span>Samo nova od jučer</span>
+        </label>
+        <label class="inline-flex items-center gap-2">
+          <input type="checkbox" id="onlyUrgent" class="rounded border-gray-300">
+          <span>Samo hitne jamčevine</span>
+        </label>
+        <label class="inline-flex items-center gap-2">
+          <input type="checkbox" id="onlyDetailed" class="rounded border-gray-300">
+          <span>Samo s detaljnom analizom</span>
+        </label>
+      </div>
+
+      <div class="flex gap-2 flex-wrap pt-2 border-t border-gray-100">
+        <button id="btnReset" class="text-xs px-3 py-1.5 border border-gray-300 rounded-md hover:bg-gray-50">Resetiraj</button>
+        <button id="btnSavePreset" class="text-xs px-3 py-1.5 border border-blue-300 text-blue-700 rounded-md hover:bg-blue-50">Spremi preset</button>
+        <button id="btnExportCsv" class="text-xs px-3 py-1.5 border border-gray-300 rounded-md hover:bg-gray-50 ml-auto">Izvezi CSV</button>
+      </div>
+    </div>
+  </details>
+
+  <div class="mb-4">
+    <div class="text-xs text-gray-500 mb-2">Presetovi</div>
+    <div class="flex gap-2 flex-wrap" id="presets"></div>
+  </div>
+
+  <div class="text-sm text-gray-600 mb-2" id="countLine">—</div>
+
+  <div class="bg-white border border-gray-200 rounded-lg overflow-hidden">
+    <div class="overflow-x-auto scrollbar-thin">
+      <table class="w-full text-sm">
+        <thead class="bg-gray-50 border-b border-gray-200">
+          <tr>
+            <th class="sortable px-3 py-2 text-left text-xs font-medium text-gray-600 uppercase tracking-wide" data-sort="runda" style="width: 90px;">Runda</th>
+            <th class="sortable px-3 py-2 text-left text-xs font-medium text-gray-600 uppercase tracking-wide" data-sort="scoreValue" style="width: 85px;">AI score</th>
+            <th class="sortable px-3 py-2 text-left text-xs font-medium text-gray-600 uppercase tracking-wide" data-sort="zupanija">Lokacija</th>
+            <th class="px-3 py-2 text-left text-xs font-medium text-gray-600 uppercase tracking-wide">Opis + AI reasoning</th>
+            <th class="sortable px-3 py-2 text-right text-xs font-medium text-gray-600 uppercase tracking-wide" data-sort="vrijednost" style="width: 100px;">Procjena</th>
+            <th class="sortable px-3 py-2 text-right text-xs font-medium text-gray-600 uppercase tracking-wide sorted desc" data-sort="pocetna" style="width: 100px;">Početna</th>
+            <th class="sortable px-3 py-2 text-right text-xs font-medium text-gray-600 uppercase tracking-wide" data-sort="jamcevina" style="width: 95px;">Jamčevina</th>
+            <th class="sortable px-3 py-2 text-left text-xs font-medium text-gray-600 uppercase tracking-wide" data-sort="rokJamcevina" style="width: 100px;">Rok jamč.</th>
+            <th class="sortable px-3 py-2 text-left text-xs font-medium text-gray-600 uppercase tracking-wide" data-sort="pocetakNadm" style="width: 100px;">Dražba</th>
+          </tr>
+        </thead>
+        <tbody id="tbody"></tbody>
+      </table>
+    </div>
+  </div>
+
+  <p class="text-xs text-gray-400 mt-6 text-center">Izvor: ponip.fina.hr/ocevidnik-web • AI scoring: Claude Max (lokalno na VPS-u)</p>
+
+</div>
+
+<script>
+const PAYLOAD = "__DASHBOARD_DATA__";
+const DATA = (PAYLOAD.items || []).map(r => ({
+  ...r,
+  scoreValue: r.score ? r.score.score_overall : null,
+  recommendation: r.score ? r.score.recommendation : null,
+  hasDetailed: !!r.detailed,
+}));
+const META = PAYLOAD.meta || {};
+
+const state = {
+  search: "", zupanija: "", vrsta: "", round: "all", rec: "all",
+  minPrice: null, maxPrice: null, minScore: null,
+  onlyNew: false, onlyUrgent: false, onlyDetailed: false,
+  sortKey: "pocetna", sortDir: -1,
+};
+
+const DEFAULT_PRESETS = [
+  { name: "Istra sve", filters: { zupanija: "Istarska" } },
+  { name: "Zagreb 200k+", filters: { zupanija: "Grad Zagreb i okolica", minPrice: 200000 } },
+  { name: "Deep dive kandidati", filters: { rec: "deep_dive" } },
+  { name: "AI score 7+", filters: { minScore: 7 } },
+  { name: "Treća/četvrta dražba", filters: { round: "Treća" } },
+  { name: "Hitne jamčevine", filters: { onlyUrgent: true } },
+  { name: "Samo novo", filters: { onlyNew: true } },
+  { name: "500k+ s analizom", filters: { onlyDetailed: true } },
+];
+
+const PRESETS_KEY = "ponip_dashboard_presets_v2";
+const loadUserPresets = () => { try { return JSON.parse(localStorage.getItem(PRESETS_KEY) || "[]"); } catch { return []; } };
+const saveUserPresets = p => localStorage.setItem(PRESETS_KEY, JSON.stringify(p));
+
+const euroFmt = new Intl.NumberFormat("hr-HR", { style: "currency", currency: "EUR", maximumFractionDigits: 0 });
+const fmtEUR = n => n == null ? "—" : euroFmt.format(n);
+const fmtDate = iso => {
+  if (!iso) return "—";
+  const d = new Date(iso);
+  return isNaN(d) ? "—" : d.toLocaleDateString("hr-HR", { day: "2-digit", month: "2-digit", year: "numeric" });
+};
+const badgeClass = r => ({ "Prva": "badge-prva", "Druga": "badge-druga", "Treća": "badge-treca", "Četvrta": "badge-cetvrta" }[r]) || "bg-gray-100 text-gray-700";
+const scoreClass = v => v >= 7.5 ? "score-hi" : v >= 5.5 ? "score-md" : "score-lo";
+const escapeHtml = s => (s || "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+
+function applyFilters() {
+  const q = state.search.toLowerCase();
+  let f = DATA.filter(r => {
+    if (q) {
+      const hay = (r.opis + " " + r.sud + " " + r.poslBroj + " " + r.zupanija).toLowerCase();
+      if (!hay.includes(q)) return false;
+    }
+    if (state.zupanija && r.zupanija !== state.zupanija) return false;
+    if (state.vrsta && r.vrsta !== state.vrsta) return false;
+    if (state.round !== "all" && r.runda !== state.round) return false;
+    if (state.rec !== "all" && r.recommendation !== state.rec) return false;
+    if (state.minPrice != null && (r.pocetna == null || r.pocetna < state.minPrice)) return false;
+    if (state.maxPrice != null && (r.pocetna == null || r.pocetna > state.maxPrice)) return false;
+    if (state.minScore != null && (r.scoreValue == null || r.scoreValue < state.minScore)) return false;
+    if (state.onlyNew && !r.nova) return false;
+    if (state.onlyUrgent && !r.urgent) return false;
+    if (state.onlyDetailed && !r.hasDetailed) return false;
+    return true;
+  });
+  f.sort((a, b) => {
+    const va = a[state.sortKey], vb = b[state.sortKey];
+    if (va == null && vb == null) return 0;
+    if (va == null) return 1;
+    if (vb == null) return -1;
+    return (va > vb ? 1 : va < vb ? -1 : 0) * state.sortDir;
+  });
+  return f;
+}
+
+function render() {
+  document.getElementById("totalPill").textContent = DATA.length.toLocaleString("hr-HR");
+  document.getElementById("newPill").textContent = DATA.filter(r => r.nova).length;
+  document.getElementById("urgentPill").textContent = DATA.filter(r => r.urgent).length;
+  document.getElementById("scoredPill").textContent = DATA.filter(r => r.score).length;
+
+  if (META.generated_at) {
+    document.getElementById("lastUpdated").textContent = "Ažurirano: " + new Date(META.generated_at).toLocaleString("hr-HR");
+  }
+
+  const rows = applyFilters();
+  document.getElementById("countLine").textContent = `Prikazano ${rows.length.toLocaleString("hr-HR")} od ${DATA.length.toLocaleString("hr-HR")}`;
+  const active = [state.search, state.zupanija, state.vrsta, state.round !== "all" && state.round, state.rec !== "all" && state.rec, state.minPrice, state.maxPrice, state.minScore, state.onlyNew, state.onlyUrgent, state.onlyDetailed].filter(Boolean).length;
+  document.getElementById("activeFiltersCount").textContent = active > 0 ? `${active} aktivnih` : "";
+
+  const tbody = document.getElementById("tbody");
+  if (rows.length === 0) {
+    tbody.innerHTML = `<tr><td colspan="9" class="px-3 py-8 text-center text-gray-400 text-sm">Nema rezultata. Olabavi filtere ili resetiraj.</td></tr>`;
+    return;
+  }
+
+  tbody.innerHTML = rows.slice(0, 500).map(r => {
+    const rundaBadge = r.runda ? `<span class="inline-block px-2 py-0.5 text-[10px] font-semibold rounded-full uppercase ${badgeClass(r.runda)}">${r.runda}</span>` : "";
+    const newBadge = r.nova ? `<span class="inline-block px-1.5 py-0.5 text-[10px] font-semibold rounded-full badge-new ml-1">novo</span>` : "";
+    const urgentBadge = r.urgent ? `<span class="inline-block px-1.5 py-0.5 text-[10px] font-semibold rounded-full badge-urgent ml-1">hitno</span>` : "";
+    const detailedBadge = r.hasDetailed ? `<span class="detailed-badge ml-1">PRO</span>` : "";
+    const scoreBadge = r.scoreValue != null
+      ? `<div><span class="inline-block px-2 py-0.5 text-xs font-bold rounded ${scoreClass(r.scoreValue)}">${r.scoreValue.toFixed(1)}</span></div>
+         <div class="rec-${r.recommendation} text-[10px] font-semibold uppercase mt-1">${r.recommendation || ""}</div>`
+      : `<span class="text-gray-300 text-xs">—</span>`;
+    const reasoning = r.score?.reasoning ? `<div class="text-xs text-gray-600 italic mt-1">AI: ${escapeHtml(r.score.reasoning)}</div>` : "";
+    const opis = escapeHtml(r.opis || "");
+    const opisShort = opis.length > 180 ? opis.substring(0, 180) + "…" : opis;
+
+    return `
+      <tr class="border-t border-gray-100 hover:bg-gray-50 cursor-pointer" onclick="toggleRow(this, '${r.id}')">
+        <td class="px-3 py-3 align-top">${rundaBadge}${newBadge}${urgentBadge}${detailedBadge}</td>
+        <td class="px-3 py-3 align-top">${scoreBadge}</td>
+        <td class="px-3 py-3 align-top">
+          <div class="font-medium">${escapeHtml(r.zupanija)}</div>
+          <div class="text-xs text-gray-500 mt-0.5">${escapeHtml(r.sud)}</div>
+        </td>
+        <td class="px-3 py-3 align-top text-gray-700 max-w-[320px]">${opisShort}${reasoning}</td>
+        <td class="px-3 py-3 align-top text-right text-gray-600">${fmtEUR(r.vrijednost)}</td>
+        <td class="px-3 py-3 align-top text-right font-medium">${fmtEUR(r.pocetna)}</td>
+        <td class="px-3 py-3 align-top text-right">${fmtEUR(r.jamcevina)}</td>
+        <td class="px-3 py-3 align-top whitespace-nowrap ${r.urgent ? "text-rose-700 font-medium" : ""}">${fmtDate(r.rokJamcevina)}</td>
+        <td class="px-3 py-3 align-top whitespace-nowrap">${fmtDate(r.pocetakNadm)}</td>
+      </tr>
+    `;
+  }).join("");
+
+  if (rows.length > 500) {
+    tbody.insertAdjacentHTML("beforeend", `<tr><td colspan="9" class="px-3 py-3 text-center text-xs text-gray-400 bg-gray-50">Prikazano prvih 500 od ${rows.length}. Suzi filtere.</td></tr>`);
+  }
+}
+
+window.toggleRow = function (tr, id) {
+  const next = tr.nextElementSibling;
+  if (next && next.classList.contains("expanded-row")) { next.remove(); return; }
+  const r = DATA.find(x => x.id === id);
+  if (!r) return;
+  const d = r.detailed;
+  const s = r.score;
+
+  const aiSection = s ? `
+    <div class="md:col-span-2 mb-3 p-3 bg-violet-50 border border-violet-200 rounded-lg">
+      <div class="flex items-baseline gap-3 mb-2">
+        <span class="inline-block px-2 py-0.5 text-sm font-bold rounded ${scoreClass(s.score_overall)}">${s.score_overall.toFixed(1)}</span>
+        <span class="rec-${s.recommendation} text-xs font-bold uppercase">${s.recommendation}</span>
+      </div>
+      <div class="grid grid-cols-3 gap-2 text-xs mb-2">
+        <div><span class="text-gray-500">Lokacija:</span> <b>${s.score_lokacija?.toFixed(1) || "—"}</b></div>
+        <div><span class="text-gray-500">ROI:</span> <b>${s.score_roi?.toFixed(1) || "—"}</b></div>
+        <div><span class="text-gray-500">Stanje:</span> <b>${s.score_stanje?.toFixed(1) || "—"}</b></div>
+      </div>
+      <div class="text-sm text-gray-800 italic mb-2">"${escapeHtml(s.reasoning || "")}"</div>
+      ${s.flags && s.flags.length > 0 ? `<div class="flex gap-1 flex-wrap">${s.flags.map(f => `<span class="px-2 py-0.5 text-[10px] bg-rose-100 text-rose-900 rounded-full">${escapeHtml(f)}</span>`).join("")}</div>` : ""}
+    </div>` : "";
+
+  const detailedSection = d ? `
+    <div class="md:col-span-2 p-3 bg-blue-50 border border-blue-200 rounded-lg">
+      <div class="text-xs text-blue-700 font-semibold uppercase mb-2">Detaljna AI analiza (&gt;500k EUR)</div>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs">
+        <div>
+          <div class="text-gray-500 uppercase text-[10px] mb-1">Tržišna procjena</div>
+          <div class="text-sm"><b>${fmtEUR(d.market_estimate?.eur_min)} – ${fmtEUR(d.market_estimate?.eur_max)}</b></div>
+          <div class="text-gray-600 mt-1">${escapeHtml(d.market_estimate?.basis || "")}</div>
+          <div class="text-gray-500 mt-1">Pouzdanost: ${d.market_estimate?.confidence || "—"}</div>
+        </div>
+        <div>
+          <div class="text-gray-500 uppercase text-[10px] mb-1">Strategija</div>
+          <div class="text-sm mb-2">${escapeHtml(d.investment_strategy || "—")}</div>
+          <div class="text-gray-500 uppercase text-[10px] mb-1">Entry price (maks)</div>
+          <div class="text-sm"><b>${fmtEUR(d.entry_price_eur)}</b></div>
+        </div>
+        ${d.comparables?.length ? `
+          <div class="md:col-span-2">
+            <div class="text-gray-500 uppercase text-[10px] mb-1">Usporedive nekretnine</div>
+            <ul class="space-y-1">
+              ${d.comparables.map(c => `
+                <li>${escapeHtml(c.opis)} — <b>${fmtEUR(c.cijena)}</b>${c.m2 ? ` (${c.m2} m²)` : ""} 
+                ${c.url ? `<a href="${c.url}" target="_blank" class="text-blue-600 hover:underline">${escapeHtml(c.izvor)} ↗</a>` : `<span class="text-gray-500">(${escapeHtml(c.izvor)})</span>`}</li>
+              `).join("")}
+            </ul>
+          </div>` : ""}
+        ${d.detailed_risks?.length ? `
+          <div>
+            <div class="text-gray-500 uppercase text-[10px] mb-1">Rizici</div>
+            <ul class="list-disc pl-4 space-y-0.5 text-rose-800">${d.detailed_risks.map(x => `<li>${escapeHtml(x)}</li>`).join("")}</ul>
+          </div>` : ""}
+        <div>
+          <div class="text-gray-500 uppercase text-[10px] mb-1">Scenarji</div>
+          <div class="space-y-1">
+            ${d.upside_scenario ? `<div><span class="text-emerald-700 font-semibold">Upside:</span> ${escapeHtml(d.upside_scenario)}</div>` : ""}
+            ${d.downside_scenario ? `<div><span class="text-rose-700 font-semibold">Downside:</span> ${escapeHtml(d.downside_scenario)}</div>` : ""}
+          </div>
+        </div>
+      </div>
+    </div>` : "";
+
+  const detailRow = document.createElement("tr");
+  detailRow.className = "expanded-row";
+  detailRow.innerHTML = `
+    <td colspan="9" class="px-4 py-4 border-t border-gray-200">
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-4 text-sm">
+        ${aiSection}
+        ${detailedSection}
+        <div class="md:col-span-2">
+          <div class="text-xs text-gray-500 uppercase mb-1">Puni opis</div>
+          <div class="text-gray-800">${escapeHtml(r.opis)}</div>
+        </div>
+        <div>
+          <div class="text-xs text-gray-500 uppercase mb-1">Detalji</div>
+          <div class="space-y-1">
+            <div><span class="text-gray-500">ID:</span> <b>${r.id}</b></div>
+            <div><span class="text-gray-500">Poslovni broj:</span> ${escapeHtml(r.poslBroj)}</div>
+            <div><span class="text-gray-500">Vrsta:</span> ${escapeHtml(r.vrsta)}</div>
+            <div><span class="text-gray-500">Način prodaje:</span> ${escapeHtml(r.nacin)}</div>
+            <div><span class="text-gray-500">Dražbeni korak:</span> ${fmtEUR(r.korak)}</div>
+          </div>
+        </div>
+        <div>
+          <div class="text-xs text-gray-500 uppercase mb-1">Rokovi</div>
+          <div class="space-y-1">
+            <div><span class="text-gray-500">Početak prijava:</span> ${fmtDate(r.pocetakPrijava)}</div>
+            <div><span class="text-gray-500">Početak nadmetanja:</span> ${fmtDate(r.pocetakNadm)}</div>
+            <div><span class="text-gray-500">Kraj nadmetanja:</span> ${fmtDate(r.zavrsetakNadm)}</div>
+            <div><span class="text-gray-500">Rok jamčevine:</span> <b class="${r.urgent ? "text-rose-700" : ""}">${fmtDate(r.rokJamcevina)}</b></div>
+            <div><span class="text-gray-500">Rok kupovnine:</span> ${escapeHtml(r.rokKupovnine)}</div>
+          </div>
+        </div>
+        <div class="md:col-span-2">
+          <div class="text-xs text-gray-500 uppercase mb-1">Razgledavanje</div>
+          <div class="text-gray-700">${escapeHtml(r.razgledavanje) || "—"}</div>
+        </div>
+      </div>
+    </td>`;
+  tr.after(detailRow);
+};
+
+function populateDropdowns() {
+  const zSet = new Set(DATA.map(r => r.zupanija).filter(Boolean));
+  const vSet = new Set(DATA.map(r => r.vrsta).filter(Boolean));
+  const zEl = document.getElementById("zupanija");
+  const vEl = document.getElementById("vrsta");
+  [...zSet].sort().forEach(z => zEl.insertAdjacentHTML("beforeend", `<option value="${z}">${z}</option>`));
+  [...vSet].sort().forEach(v => vEl.insertAdjacentHTML("beforeend", `<option value="${v}">${v}</option>`));
+}
+
+function renderPresets() {
+  const el = document.getElementById("presets");
+  const user = loadUserPresets();
+  const all = [...DEFAULT_PRESETS, ...user.map(p => ({ ...p, user: true }))];
+  el.innerHTML = all.map((p, i) => `
+    <button class="text-xs px-3 py-1.5 border border-dashed border-gray-300 rounded-full hover:bg-blue-50 hover:border-blue-300" data-preset-idx="${i}">
+      ${escapeHtml(p.name)}${p.user ? ' <span class="text-gray-400">×</span>' : ''}
+    </button>
+  `).join("");
+  el.querySelectorAll("button").forEach(btn => btn.addEventListener("click", e => {
+    const idx = +btn.dataset.presetIdx;
+    const p = all[idx];
+    if (p.user && e.offsetX > btn.offsetWidth - 20) {
+      const userPresets = loadUserPresets();
+      userPresets.splice(idx - DEFAULT_PRESETS.length, 1);
+      saveUserPresets(userPresets); renderPresets();
+      return;
+    }
+    applyPreset(p.filters);
+  }));
+}
+
+function applyPreset(filters) {
+  Object.assign(state, { search: "", zupanija: "", vrsta: "", round: "all", rec: "all", minPrice: null, maxPrice: null, minScore: null, onlyNew: false, onlyUrgent: false, onlyDetailed: false });
+  Object.assign(state, filters);
+  syncInputs(); render();
+}
+
+function syncInputs() {
+  document.getElementById("search").value = state.search;
+  document.getElementById("zupanija").value = state.zupanija;
+  document.getElementById("vrsta").value = state.vrsta;
+  document.getElementById("minPrice").value = state.minPrice ?? "";
+  document.getElementById("maxPrice").value = state.maxPrice ?? "";
+  document.getElementById("minScore").value = state.minScore ?? "";
+  document.getElementById("onlyNew").checked = state.onlyNew;
+  document.getElementById("onlyUrgent").checked = state.onlyUrgent;
+  document.getElementById("onlyDetailed").checked = state.onlyDetailed;
+  document.querySelectorAll("#roundChips .chip").forEach(b => b.classList.toggle("active", b.dataset.round === state.round));
+  document.querySelectorAll("#recChips .chip").forEach(b => b.classList.toggle("active", b.dataset.rec === state.rec));
+}
+
+// Event bindings
+document.getElementById("search").addEventListener("input", e => { state.search = e.target.value; render(); });
+document.getElementById("zupanija").addEventListener("change", e => { state.zupanija = e.target.value; render(); });
+document.getElementById("vrsta").addEventListener("change", e => { state.vrsta = e.target.value; render(); });
+document.getElementById("minPrice").addEventListener("input", e => { state.minPrice = e.target.value ? +e.target.value : null; render(); });
+document.getElementById("maxPrice").addEventListener("input", e => { state.maxPrice = e.target.value ? +e.target.value : null; render(); });
+document.getElementById("minScore").addEventListener("input", e => { state.minScore = e.target.value ? +e.target.value : null; render(); });
+document.getElementById("onlyNew").addEventListener("change", e => { state.onlyNew = e.target.checked; render(); });
+document.getElementById("onlyUrgent").addEventListener("change", e => { state.onlyUrgent = e.target.checked; render(); });
+document.getElementById("onlyDetailed").addEventListener("change", e => { state.onlyDetailed = e.target.checked; render(); });
+
+document.querySelectorAll("#roundChips .chip").forEach(btn => btn.addEventListener("click", () => {
+  document.querySelectorAll("#roundChips .chip").forEach(b => b.classList.remove("active"));
+  btn.classList.add("active"); state.round = btn.dataset.round; render();
+}));
+document.querySelectorAll("#recChips .chip").forEach(btn => btn.addEventListener("click", () => {
+  document.querySelectorAll("#recChips .chip").forEach(b => b.classList.remove("active"));
+  btn.classList.add("active"); state.rec = btn.dataset.rec; render();
+}));
+document.querySelectorAll("th.sortable").forEach(th => th.addEventListener("click", () => {
+  const k = th.dataset.sort;
+  if (state.sortKey === k) state.sortDir *= -1;
+  else { state.sortKey = k; state.sortDir = 1; }
+  document.querySelectorAll("th.sortable").forEach(t => t.classList.remove("sorted", "asc", "desc"));
+  th.classList.add("sorted", state.sortDir === 1 ? "asc" : "desc");
+  render();
+}));
+
+document.getElementById("btnReset").addEventListener("click", () => applyPreset({}));
+document.getElementById("btnSavePreset").addEventListener("click", () => {
+  const name = prompt("Naziv preseta:");
+  if (!name) return;
+  const f = {};
+  for (const k of ["search", "zupanija", "vrsta", "round", "rec", "minPrice", "maxPrice", "minScore"]) if (state[k] && state[k] !== "all") f[k] = state[k];
+  for (const k of ["onlyNew", "onlyUrgent", "onlyDetailed"]) if (state[k]) f[k] = true;
+  const user = loadUserPresets(); user.push({ name, filters: f }); saveUserPresets(user); renderPresets();
+});
+document.getElementById("btnExportCsv").addEventListener("click", () => {
+  const rows = applyFilters();
+  const cols = ["id", "runda", "scoreValue", "recommendation", "zupanija", "sud", "poslBroj", "vrsta", "opis", "vrijednost", "pocetna", "jamcevina", "rokJamcevina", "pocetakNadm"];
+  const esc = v => { if (v == null) return ""; const s = String(v).replace(/"/g, '""'); return /[";\n]/.test(s) ? `"${s}"` : s; };
+  const csv = [cols.join(";"), ...rows.map(r => cols.map(c => esc(r[c])).join(";"))].join("\n");
+  const blob = new Blob(["\uFEFF" + csv], { type: "text/csv;charset=utf-8" });
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = `ponip_${new Date().toISOString().slice(0, 10)}.csv`;
+  a.click();
+});
+
+populateDropdowns();
+renderPresets();
+render();
+</script>
+</body>
+</html>

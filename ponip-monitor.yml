@@ -1,0 +1,187 @@
+name: PONIP Monitor
+
+on:
+  # Radnim danima u 06:00 UTC = 07:00 Zagreb (zima) / 08:00 Zagreb (ljeto)
+  # Napomena: GitHub cron može kasniti 5-30 min pod opterećenjem
+  schedule:
+    - cron: '0 6 * * 1-5'
+
+  # Ručno pokretanje iz UI-a (Actions tab → Run workflow)
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry run (ne šalji email)'
+        type: boolean
+        default: false
+      skip_scoring:
+        description: 'Preskoči AI scoring'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write  # za commit natrag u repo
+  pages: write     # za Pages deploy
+  id-token: write  # za Pages deploy
+
+# Spriječi paralelne run-ove (izbjegni konflikte na git push-u)
+concurrency:
+  group: ponip-monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      # -----------------------------------------------------------------------
+      # 1. Checkout (puna povijest — potrebno za git operations kasnije)
+      # -----------------------------------------------------------------------
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # -----------------------------------------------------------------------
+      # 2. Setup Python i Node (Claude Code je npm paket)
+      # -----------------------------------------------------------------------
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # -----------------------------------------------------------------------
+      # 3. Cache CSV snapshots (ne commit-amo ih, privacy + size)
+      # -----------------------------------------------------------------------
+      - name: Restore CSV cache
+        uses: actions/cache@v4
+        with:
+          path: data/
+          key: ponip-data-${{ github.run_id }}
+          restore-keys: |
+            ponip-data-
+
+      # -----------------------------------------------------------------------
+      # 4. Install dependencies
+      # -----------------------------------------------------------------------
+      - name: Install Python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas pyyaml requests python-dotenv
+
+      - name: Install Claude Code
+        run: npm install -g @anthropic-ai/claude-code
+
+      # -----------------------------------------------------------------------
+      # 5. SAFETY CHECK — OAuth token postavljen, API key NIJE
+      # -----------------------------------------------------------------------
+      - name: Validate auth setup
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          if [[ -z "${CLAUDE_CODE_OAUTH_TOKEN}" ]]; then
+            echo "::error::CLAUDE_CODE_OAUTH_TOKEN secret nije postavljen!"
+            echo "Generiraj token lokalno: claude setup-token"
+            echo "Zatim Settings → Secrets → Actions → New secret"
+            exit 1
+          fi
+          if [[ -n "${ANTHROPIC_API_KEY}" ]]; then
+            echo "::error::ANTHROPIC_API_KEY je postavljen — ovo bi billing-alo API account umjesto Max plan-a!"
+            echo "Ukloni ANTHROPIC_API_KEY secret ako si ga slučajno postavio."
+            exit 1
+          fi
+          echo "✓ OAuth token postavljen, API key nije. Max plan billing OK."
+
+      - name: Test Claude Code auth
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          set -e
+          OUT=$(timeout 30 claude --print "Odgovori samo rječju: radi" 2>&1)
+          echo "Claude output: $OUT"
+          if echo "$OUT" | grep -qi "error\|unauthorized\|invalid\|expired"; then
+            echo "::error::Claude auth ne radi. Token možda istekao?"
+            exit 1
+          fi
+          echo "✓ Claude Code autentifikacija radi"
+
+      # -----------------------------------------------------------------------
+      # 6. POKRENI MONITOR
+      # -----------------------------------------------------------------------
+      - name: Run PONIP monitor
+        env:
+          # Claude auth — OBAVEZNO
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          # SMTP
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          SMTP_FROM: ${{ secrets.SMTP_FROM }}
+          SMTP_USE_TLS: ${{ secrets.SMTP_USE_TLS }}
+          # Primatelj
+          PONIP_EMAIL_TO: ${{ secrets.PONIP_EMAIL_TO }}
+          # URL dashboard-a (za link u mailu)
+          PONIP_PUBLIC_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+          # Putevi
+          PONIP_BASE: ${{ github.workspace }}
+          PONIP_DASHBOARD_OUT: ${{ github.workspace }}/docs/index.html
+          CLAUDE_BIN: claude
+          # Dry run kod manual trigger-a
+          PONIP_DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '0' }}
+        run: python3 monitor.py
+
+      # -----------------------------------------------------------------------
+      # 7. Commit state natrag u repo
+      # -----------------------------------------------------------------------
+      - name: Commit updated state
+        run: |
+          git config user.name "PONIP Monitor Bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Dodaj samo ono što želimo u repo
+          mkdir -p scores/basic scores/detailed docs reports
+          git add scores/ docs/ reports/ 2>/dev/null || true
+
+          # Commit samo ako ima promjena
+          if git diff --staged --quiet; then
+            echo "Nema promjena za commitat."
+          else
+            STATS=$(git diff --staged --numstat | awk '{added+=$1; deleted+=$2; files++} END {printf "%d files, +%d -%d", files, added, deleted}')
+            git commit -m "chore: daily run $(date -u +%Y-%m-%d) (${STATS})"
+            git push
+            echo "✓ State committed & pushed"
+          fi
+
+      # -----------------------------------------------------------------------
+      # 8. Deploy na GitHub Pages
+      # -----------------------------------------------------------------------
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - name: Deploy to Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      # -----------------------------------------------------------------------
+      # 9. Upload logs kao artifact (debugging)
+      # -----------------------------------------------------------------------
+      - name: Upload logs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: logs-${{ github.run_id }}
+          path: logs/
+          retention-days: 14
+          if-no-files-found: ignore

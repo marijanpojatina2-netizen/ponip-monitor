@@ -1,0 +1,31 @@
+# ============================================================================
+# PONIP Monitor v3 — config (VPS edition)
+# ============================================================================
+
+# Hitna jamčevina = dospijeće u sljedećih N dana
+alert_jamcevina_dana: 7
+
+# AI SCORING
+# -----------
+# Ako isključeno, skripta radi brže ali bez AI analize
+scoring_enabled: true
+
+# Max broj basic scoringa per run (batched po 15, pa 100 = ~7 claude poziva)
+# Max plan daje cca 200 poziva po 5h — 100/dan je daleko ispod limita
+max_basic_per_run: 100
+
+# Max broj detailed scoringa per run (jedan-po-jedan, s web search, sporo)
+# Jedan detailed = ~2 min. 10/dan = 20 min
+max_detailed_per_run: 10
+
+# Veličina batch-a za basic scoring
+batch_size_basic: 15
+
+# =============================================================================
+# NAPOMENE
+# =============================================================================
+# - Threshold za detailed scoring je hardkodiran na 500k EUR u scorer.py
+# - Svi rezultati se kešuju u scores/basic/*.json i scores/detailed/*.json
+# - Re-scoring se okida samo ako se cijena ili opis promijeni (input_hash)
+# - Na prvi run, backfill će ocijeniti top 100 (sortirano: nova > urgent > vrijednost)
+#   Preostale će scoreati u idućim run-ovima, postupno kroz nekoliko dana

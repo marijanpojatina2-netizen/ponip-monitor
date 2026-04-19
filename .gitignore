@@ -1,0 +1,31 @@
+# Environment & secrets
+.env
+.env.local
+*.env
+
+# CSV snapshots — NE commit-amo ih (privacy + repo size)
+# Cache-iraju se preko GitHub Actions cache-a između run-ova
+data/
+
+# Logs — GitHub Actions već spremi u svoj log UI
+logs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
