@@ -19,7 +19,7 @@ max_basic_per_run: 100
 max_detailed_per_run: 10
 
 # Veličina batch-a za basic scoring
-batch_size_basic: 15
+batch_size_basic: 8
 
 # =============================================================================
 # NAPOMENE
