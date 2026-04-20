@@ -1,0 +1,15 @@
+{
+  "id": "57640",
+  "score_overall": 2.5,
+  "score_lokacija": 3.5,
+  "score_roi": 3.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Čista oranica od 730 čhv u k.o. Desinić nema operativnog investicijskog potencijala osim poljorivrednog korištenja ili spekulativnog čekanja na promjenu namjene. 40% popust na drugoj dražbi zvuči atraktivno ali nominalna vrijednost od ~1.938 EUR govori o marginalnom lotu bez jasnog exita.",
+  "flags": [
+    "samo oranica – ograničena namjena i prihod",
+    "bez objekta – nema kratkoročnog ROI-a"
+  ],
+  "input_hash": "08b447d3b51a",
+  "scored_at": "2026-04-20T08:12:37.045919"
+}

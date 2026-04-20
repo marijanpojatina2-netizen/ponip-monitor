@@ -1,0 +1,16 @@
+{
+  "id": "57732",
+  "score_overall": 6.5,
+  "score_lokacija": 7.0,
+  "score_roi": 7.0,
+  "score_stanje": 5.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Remete (Zagreb) s 40% popustom na drugoj dražbi i kućama s dvorištima nudi atraktivan ulazni punkt u likvidno tržište; kritični bloker je ¼ suvlasničkog udjela koji bez otkupa preostalih dijelova čini upravljanje i preprodaju izuzetno kompleksnima.",
+  "flags": [
+    "suvlasništvo ¼ dijela – otežano upravljanje i prodaja",
+    "nejasno stanje objekata (starije kuće)",
+    "nužan otkup ostalih suvlasnika za punu kontrolu"
+  ],
+  "input_hash": "28797897ebd1",
+  "scored_at": "2026-04-20T08:08:46.046385"
+}

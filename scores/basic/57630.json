@@ -1,0 +1,16 @@
+{
+  "id": "57630",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica u Desiniću ide u isti koš kao ID 57632 - depopulacijsko ruralno Zagorje bez izlazne strategije, zanemariva apsolutna vrijednost.",
+  "flags": [
+    "depopulacijsko područje",
+    "neizgrađeno - oranica (jarek)",
+    "ista k.o. kao ID 57632 - koncentrirani ekspozicija"
+  ],
+  "input_hash": "80f16dbfb0fe",
+  "scored_at": "2026-04-20T08:13:51.192762"
+}

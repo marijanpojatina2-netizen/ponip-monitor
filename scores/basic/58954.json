@@ -1,0 +1,16 @@
+{
+  "id": "58954",
+  "score_overall": 6.5,
+  "score_lokacija": 7.5,
+  "score_roi": 6.0,
+  "score_stanje": 6.5,
+  "recommendation": "watch",
+  "reasoning": "Novalja na Pagu je solidna turistička destinacija s realnim potencijalom kratkoročnog najma (Zrće, ljetna sezona); 20% popust na prvoj dražbi je minimalan prag, a mala kvadratura od 37 m2 ograničava prihod i ciljnu skupinu kupaca.",
+  "flags": [
+    "mala kvadratura (37 m2)",
+    "prva dražba – nema bonusa daljnjih rundi",
+    "sezonski turizam – slaba zimska popunjenost"
+  ],
+  "input_hash": "4ab7b9e87c4c",
+  "scored_at": "2026-04-20T08:08:46.046175"
+}

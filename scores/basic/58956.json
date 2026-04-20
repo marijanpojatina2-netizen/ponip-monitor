@@ -1,0 +1,15 @@
+{
+  "id": "58956",
+  "score_overall": 7.5,
+  "score_lokacija": 8.5,
+  "score_roi": 7.0,
+  "score_stanje": 6.5,
+  "recommendation": "bid",
+  "reasoning": "Stan E-11 u Novalji (Zrće destinacija) s dvije krovne terase i parkingom za ~2516 EUR/m2 je atraktivna kombinacija; turistički najamni prihodi na Novalji su u top-tier kategoriji u RH.",
+  "flags": [
+    "stan vjerojatno u turističkom najmu - provjeri ugovor i datum isteka",
+    "etažno vlasništvo u kompleksu - provjeri suvlasničku zajednicu i dugove prema ZOU"
+  ],
+  "input_hash": "52d218988477",
+  "scored_at": "2026-04-20T08:04:49.388063"
+}

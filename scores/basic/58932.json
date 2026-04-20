@@ -1,0 +1,15 @@
+{
+  "id": "58932",
+  "score_overall": 6.5,
+  "score_lokacija": 7.5,
+  "score_roi": 6.5,
+  "score_stanje": 6.0,
+  "recommendation": "bid",
+  "reasoning": "Novalja (Pag) je etablirana turistička destinacija s jakim kratkoročnim najamom (Zrće zona), a ovaj stan jedini u kompleksu ima okućnicu 41,5 m2 što povećava turističku atraktivnost i vrijednost. Apsolutni ulaz ~117k EUR razuman je za turističku lokaciju s dobrim prinosom.",
+  "flags": [
+    "7 jedinica iz istog kompleksa simultano na dražbi - moguća neplaćena pričuva ili developer stečaj",
+    "prva dražba - očekivati konkurenciju"
+  ],
+  "input_hash": "87ed22bcf4d4",
+  "scored_at": "2026-04-20T08:06:35.134783"
+}

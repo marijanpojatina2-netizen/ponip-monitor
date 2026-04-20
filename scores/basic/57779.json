@@ -1,0 +1,16 @@
+{
+  "id": "57779",
+  "score_overall": 3.0,
+  "score_lokacija": 2.0,
+  "score_roi": 4.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Lipovac Nova kod Vinkovaca duboka je ruralna Slavonija bez perspektive; vlasništvo je dijeljeno između samog ovrhovoditelja i oba ovršenika što je neuobičajena i pravno kompleksna situacija koja zahtijeva detaljnu provjeru koji se točno udio prodaje.",
+  "flags": [
+    "vlasništvo dijele ovrhovoditelj + oba ovršenika - netransparentna suvlasnička struktura",
+    "ruralna Slavonija - depopulacija, minimalna potražnja",
+    "nejasno koji udio i pod kojim uvjetima prelazi na kupca"
+  ],
+  "input_hash": "c7edbdfd3e05",
+  "scored_at": "2026-04-20T08:11:18.891877"
+}

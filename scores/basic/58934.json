@@ -1,0 +1,15 @@
+{
+  "id": "58934",
+  "score_overall": 7.0,
+  "score_lokacija": 8.5,
+  "score_roi": 6.5,
+  "score_stanje": 6.0,
+  "recommendation": "bid",
+  "reasoning": "Stan E-3 iste zgrade kao E-11, Novalja, slična kvadratura (53.33m2) ali samo jedna terasa umjesto dvije krovne - nešto manji turistički premium ali i dalje solidan bid kandidat.",
+  "flags": [
+    "stan vjerojatno u turističkom najmu - provjeri ugovor",
+    "isti kompleks kao E-1 i E-11 - provjeri dugove ZOU jednom za sve tri nekretnine"
+  ],
+  "input_hash": "d778c771c8f6",
+  "scored_at": "2026-04-20T08:04:49.388166"
+}

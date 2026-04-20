@@ -1,0 +1,16 @@
+{
+  "id": "59097",
+  "score_overall": 3.0,
+  "score_lokacija": 3.5,
+  "score_roi": 3.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Slavonski Brod ima bolju bazičnu likvidnost od ruralnih lokacija, no kupovina isključivo 1/2 dijela nekretnine stvara pravne i praktične komplikacije koje daleko nadilaze prednost cijene; 20% popust na prvoj dražbi ne kompenzira suvlasnički rizik.",
+  "flags": [
+    "samo 1/2 dijela vlasništva - suvlasnički rizik, ograničena raspolaganje imovinom",
+    "Slavonski Brod - ograničeni rast vrijednosti nekretnina",
+    "potrebno sporazumno rješavanje s drugim suvlasnikom za svaku odluku"
+  ],
+  "input_hash": "c0174b526b56",
+  "scored_at": "2026-04-20T08:11:18.892169"
+}

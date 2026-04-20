@@ -1,0 +1,16 @@
+{
+  "id": "58979",
+  "score_overall": 7.0,
+  "score_lokacija": 9.0,
+  "score_roi": 6.5,
+  "score_stanje": 5.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Dubrovnik Gruž, Obala Stjepana Radića - izuzetna lokacija s trajektnim terminalom i turističkim prometom; 4848 EUR/m2 za poslovni prostor visoko je ali Dubrovnik opravdava premium uz provjeru statusa 'Robne kuće Srđ'.",
+  "flags": [
+    "Robna kuća Srđ - provjeri je li zgrada funkcionalna ili zapuštena",
+    "poslovni prostor može biti u aktivnom zakupu",
+    "41m2 je mali prostor - provjeri namjensko korištenje i urbanistički plan"
+  ],
+  "input_hash": "1abe702ffb59",
+  "scored_at": "2026-04-20T08:04:49.387956"
+}

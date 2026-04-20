@@ -1,0 +1,16 @@
+{
+  "id": "58961",
+  "score_overall": 6.0,
+  "score_lokacija": 7.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Garaža u Varvarima u zoni Poreča nosi istarsku lokacijsku premiju i etažno vlasništvo je pravno jasno definirano; produkt je međutim izrazito nišan (17.40 m2) pa ROI ovisi o zakupnom tržištu parkinga, a 20% popust na prvoj dražbi ostavlja malen sigurnosni jastuk.",
+  "flags": [
+    "samo garaža 17.40 m2 - ograničena namjena i mali krug kupaca",
+    "niche produkt - izlaz ovisi o zakupu ili bundlingu s drugim imovinom",
+    "etažno vlasništvo - provjera stanja zgrade i ZK tereta neophodna"
+  ],
+  "input_hash": "be533c0361eb",
+  "scored_at": "2026-04-20T08:11:18.891776"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "58846",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Satnica kod Valpova duboka je slavonska ruralna zona s izraženom depopulacijom i iznimno niskom likvidnošću tržišta nekretnina. 1/2 suvlasnički udio uz 20% popust na prvoj dražbi ne čini investicijski case atraktivnim.",
+  "flags": [
+    "1/2 suvlasničkog dijela",
+    "ruralna Slavonija – niska likvidnost i depopulacija",
+    "Valpovo subregija – ograničena potražnja"
+  ],
+  "input_hash": "2305ccfc5051",
+  "scored_at": "2026-04-20T08:12:37.045484"
+}

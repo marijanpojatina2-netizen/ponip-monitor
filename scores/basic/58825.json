@@ -1,0 +1,16 @@
+{
+  "id": "58825",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Virovitica je ekonomski jedna od najslabijih sredina u kontinentalnoj Hrvatskoj s minimalnom potražnjom; oranica u naravi otežava prodaju i potencijalno podliježe agrarnim ograničenjima.",
+  "flags": [
+    "Slavonija – jedna od najslabijih regija",
+    "oranica pripojena – agrarne restrikcije",
+    "prva dražba, nema dodatnog popusta"
+  ],
+  "input_hash": "e64478baa708",
+  "scored_at": "2026-04-20T08:08:46.046845"
+}

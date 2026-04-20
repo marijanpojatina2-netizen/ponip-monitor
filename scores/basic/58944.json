@@ -1,0 +1,14 @@
+{
+  "id": "58944",
+  "score_overall": 6.0,
+  "score_lokacija": 7.5,
+  "score_roi": 6.0,
+  "score_stanje": 6.0,
+  "recommendation": "bid",
+  "reasoning": "Identičan slučaj kao Stan 4 - ista površina, ista cijena, terasa i parking. Nema razlike između ova dva stana osim oznake, oba su jednako privlačna za turistički najam u Novalji.",
+  "flags": [
+    "7 jedinica iz istog kompleksa simultano na dražbi - moguća neplaćena pričuva ili developer stečaj"
+  ],
+  "input_hash": "a3112ec716bb",
+  "scored_at": "2026-04-20T08:06:35.135195"
+}

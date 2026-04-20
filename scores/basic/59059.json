@@ -1,0 +1,15 @@
+{
+  "id": "59059",
+  "score_overall": 2.5,
+  "score_lokacija": 4.0,
+  "score_roi": 2.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Šuma i oranica u 1/4 suvlasničkom dijelu bez ikakvog objekta u Donjoj Stubici nema jasnog investicijskog potencijala – nema prihoda, nema razvoja bez suglasnosti svih suvlasnika. Skromni 20% popust na prvoj dražbi ne opravdava ulazak u suvlasničku strukturu.",
+  "flags": [
+    "1/4 idealnog suvlasničkog dijela – bez mogućnosti samostalnog raspolaganja",
+    "samo šuma i oranica – bez objekta i bez prihoda"
+  ],
+  "input_hash": "9e48f6caec10",
+  "scored_at": "2026-04-20T08:12:37.045713"
+}

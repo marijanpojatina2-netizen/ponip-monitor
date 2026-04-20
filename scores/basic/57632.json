@@ -1,0 +1,16 @@
+{
+  "id": "57632",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Pašnjak u depopulacijskom Desiniću (Zagorje) bez ikakve realne izlazne strategije; 40% popust matematički atraktivan ali tržište je praktički nepostojeće.",
+  "flags": [
+    "depopulacijsko područje",
+    "neizgrađeno - pašnjak",
+    "niska likvidnost Krapinsko-zagorske ruralne zone"
+  ],
+  "input_hash": "d429da341de0",
+  "scored_at": "2026-04-20T08:13:51.192542"
+}

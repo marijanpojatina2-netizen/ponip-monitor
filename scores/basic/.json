@@ -1,17 +1,17 @@
 {
   "id": "",
-  "score_overall": 4.0,
-  "score_lokacija": 5.5,
-  "score_roi": 3.0,
-  "score_stanje": 6.0,
+  "score_overall": 2.0,
+  "score_lokacija": 5.0,
+  "score_roi": 1.5,
+  "score_stanje": 3.0,
   "recommendation": "pass",
-  "reasoning": "Stan u Varaždinu je funkcionalan i dobro opisan, ali potpuno nedostaju cjenovni parametri (početna cijena, popust, redni broj dražbe) koji su neophodna osnova za ikakvu ROI analizu.",
+  "reasoning": "Pazin (Istra) je dobra makrolokacija, ali predmet je ekstremno specijalizirano postrojenje za proizvodnju generatora velike snage - globalno nišni tržišni segment bez relevantnosti za standardnog investitora u nekretnine.",
   "flags": [
-    "nema početne cijene",
-    "nema rednog broja dražbe",
-    "nema podataka o popustu od procjene",
-    "ID nepoznat"
+    "pokretnina - nema dugoročnog ROI",
+    "visoko specijalizirana industrijska oprema (generatori)",
+    "tehnička arhiva bez jasne tržišne vrijednosti",
+    "bez jamčevine - netransparentni uvjeti"
   ],
-  "input_hash": "bf7856d2ae54",
-  "scored_at": "2026-04-19T20:40:05.867291"
+  "input_hash": "481325e47a36",
+  "scored_at": "2026-04-20T08:24:10.136716"
 }

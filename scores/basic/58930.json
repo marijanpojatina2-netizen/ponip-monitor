@@ -1,0 +1,16 @@
+{
+  "id": "58930",
+  "score_overall": 7.0,
+  "score_lokacija": 8.5,
+  "score_roi": 6.5,
+  "score_stanje": 6.5,
+  "recommendation": "bid",
+  "reasoning": "Stan E-1 u Novalji, 47.78m2 s terasom, parkingom i dijelom okućnice (14.3m2) - prizemni stan s okućnicom idealan za obitelji ili dugoročni najam; od tri stana u toj zgradi nudi jedinstven outdoor prostor.",
+  "flags": [
+    "prizemni stan - manja privatnost i potencijalno manji turistički prinos vs katovi",
+    "isti kompleks kao E-3 i E-11 - provjeri dugove ZOU",
+    "stan vjerojatno u zakupu/najmu"
+  ],
+  "input_hash": "4300be2c6946",
+  "scored_at": "2026-04-20T08:04:49.388374"
+}

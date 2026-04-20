@@ -1,0 +1,16 @@
+{
+  "id": "57865",
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 5.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Vukosavljevica kod Virovitice nudi relativno dobar popust (40%, 2. dražba) ali ruralna Slavonija/Podravina s depopulacijom eliminira izlaznu strategiju za bilo kojeg investitora; gospodarske zgrade dodatno smanjuju prosječnu kvadratnu vrijednost.",
+  "flags": [
+    "ruralna Slavonija/Podravina - depopulacija",
+    "gospodarske zgrade smanjuju ukupnu vrijednost",
+    "niska likvidnost - bez realnog izlaza iz investicije"
+  ],
+  "input_hash": "7b4d8de32560",
+  "scored_at": "2026-04-20T08:11:18.892071"
+}

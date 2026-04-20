@@ -1,0 +1,16 @@
+{
+  "id": "57638",
+  "score_overall": 3.5,
+  "score_lokacija": 4.0,
+  "score_roi": 5.0,
+  "score_stanje": 2.0,
+  "recommendation": "watch",
+  "reasoning": "Desinić u Zagorju ima određenu ruralnu turističku atraktivnost, a 40% popust na drugoj dražbi s početnom cijenom od 4.440 EUR za 1.377 m² zemjlišta pruža interesantan ulazni prag. Međutim, ruševna zgrada i klasifikacija pašnjaka značajno ograničavaju izvedivost gradnje bez dodatnih istraživanja lokalne regulacije.",
+  "flags": [
+    "ruševna zgrada – visoki troškovi obnove ili rušenja",
+    "pašnjak klasifikacija – mogući problemi s građevinskom dozvolom",
+    "zapušteno dvorište – nepoznat opseg čišćenja"
+  ],
+  "input_hash": "6d5c37e8a3d2",
+  "scored_at": "2026-04-20T08:12:37.045817"
+}

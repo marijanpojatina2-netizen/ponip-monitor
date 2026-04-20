@@ -1,0 +1,16 @@
+{
+  "id": "57730",
+  "score_overall": 2.5,
+  "score_lokacija": 4.5,
+  "score_roi": 2.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Trnovec kod Varaždina je prihvatljiva lokacija, ali livada od samo 57 m² je premala za ikakav smisleni razvoj i praktički nema samostalne upotrebne vrijednosti. 40% popust na drugoj dražbi zvuči dobro ali mikro-veličina parcele čini ovaj lot neupotrebljivim bez susjednih čestica.",
+  "flags": [
+    "samo 57 m² – premalo za samostalan razvoj",
+    "livada/neizgrađeno – nepoznata namjena u prostornom planu",
+    "mikroparcel bez konteksta susjednih čestica"
+  ],
+  "input_hash": "dd1947162644",
+  "scored_at": "2026-04-20T08:12:37.046233"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "58866",
+  "score_overall": 4.0,
+  "score_lokacija": 3.5,
+  "score_roi": 3.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Bjelovar je depopulacijska sredina s niskom likvidnošću i ograničenom potražnjom; 20% popust na prvoj dražbi ne kompenzira strukturalne slabosti tržišta i dugi rok izlaza iz investicije.",
+  "flags": [
+    "depopulacijska regija",
+    "slaba likvidnost tržišta",
+    "prva dražba bez popusta daljnjih rundi"
+  ],
+  "input_hash": "d1b36dcfad6d",
+  "scored_at": "2026-04-20T08:08:46.046531"
+}

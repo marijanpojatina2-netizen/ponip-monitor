@@ -1,0 +1,16 @@
+{
+  "id": "57648",
+  "score_overall": 3.0,
+  "score_lokacija": 3.0,
+  "score_roi": 3.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Livada uz Dugu Resu nema turističke ni razvojne vrijednosti; mali popust na već nisku procjenu ne otvara smislenu investicijsku tezu.",
+  "flags": [
+    "neizgrađeno - livada",
+    "nije građevinsko zemljište",
+    "Karlovačka županija - slaba likvidnost ruralnih parcela"
+  ],
+  "input_hash": "6cd983471bd4",
+  "scored_at": "2026-04-20T08:13:51.192656"
+}

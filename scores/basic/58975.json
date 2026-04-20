@@ -1,0 +1,16 @@
+{
+  "id": "58975",
+  "score_overall": 6.5,
+  "score_lokacija": 7.5,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća 167m2 s dvorištem 213m2 na otoku Pagu za ~1285 EUR/m2 gradnje je konkurentna cijena za turističku lokaciju; nepoznato stanje zahtijeva obaveznu fizičku inspekciju prije odluke.",
+  "flags": [
+    "stanje objekta nepoznato - nema opisa interijera",
+    "grad Pag - centar ili periferija nije navedeno",
+    "moguće opterećenje ili starost objekta"
+  ],
+  "input_hash": "f69e644729aa",
+  "scored_at": "2026-04-20T08:04:49.387841"
+}

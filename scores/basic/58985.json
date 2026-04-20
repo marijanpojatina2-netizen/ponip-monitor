@@ -1,0 +1,17 @@
+{
+  "id": "58985",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Gola oranica bez ikakvog objekta u Ivankovu kod Vinkovaca nema realnog investicijskog smisla; Slavonija je strukturno najnelikvidnija hrvatska regija, a parcela uz prugu dodatno je opterećena bučnim okruženjem i potencijalnim restrikcijama.",
+  "flags": [
+    "samo parcela bez objekta",
+    "u naravi oranica – nepoznat građevinski status",
+    "blizina željezničke pruge",
+    "Slavonija – najniža likvidnost u RH"
+  ],
+  "input_hash": "787cc515b164",
+  "scored_at": "2026-04-20T08:08:46.047042"
+}

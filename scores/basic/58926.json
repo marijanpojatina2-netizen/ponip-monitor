@@ -1,0 +1,16 @@
+{
+  "id": "58926",
+  "score_overall": 2.5,
+  "score_lokacija": 1.5,
+  "score_roi": 3.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Slakovci kod Vinkovaca, duboka ruralna Slavonija bez ikakvog razvojnog ili turističkog potencijala; 20% popust na prvoj dražbi uz minimalnu tržišnu potražnju čini ovo ulaganje investicijski neopravdanim.",
+  "flags": [
+    "ruralna Slavonija - depopulacija i negativni demografski trend",
+    "prva dražba - najmanji mogući popust",
+    "niska likvidnost - teška prodaja u budućnosti"
+  ],
+  "input_hash": "ac995eee912c",
+  "scored_at": "2026-04-20T08:11:18.891975"
+}

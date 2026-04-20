@@ -1,0 +1,15 @@
+{
+  "id": "57642",
+  "score_overall": 2.0,
+  "score_lokacija": 3.5,
+  "score_roi": 2.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Šumska čestica od 574 čhv u k.o. Desinić ima strogo ograničenu namjenu po šumarskom zakonu i nudi minimalan investicijski potencijal za nespecijaliziranog investitora. Unatoč 40% popustu na drugoj dražbi, apsolutna vrijednost i likvidnost ovog lota su zanemarivi.",
+  "flags": [
+    "šuma – stroge zakonske restrikcije korištenja i gradnje",
+    "niska apsolutna vrijednost – marginalan lot bez exita"
+  ],
+  "input_hash": "539d416357a4",
+  "scored_at": "2026-04-20T08:12:37.046133"
+}

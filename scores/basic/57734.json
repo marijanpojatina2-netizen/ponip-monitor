@@ -1,0 +1,16 @@
+{
+  "id": "57734",
+  "score_overall": 4.0,
+  "score_lokacija": 3.0,
+  "score_roi": 5.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "40% popust na drugoj dražbi je privlačan, no opis 'Suvlasnički dio: 1/3 Etažno vlasništvo E-3' snažno indicira kupnju samo trećine stana, a ne cijelog E-3 – nužna je hitna provjera ZK izvatka prije ikakve odluke.",
+  "flags": [
+    "vjerojatno 1/3 suvlasništva u stanu – ne cijeli stan",
+    "nejasna vlasnička struktura – obvezna ZK provjera",
+    "Nova Gradiška – slabija slavonska lokacija"
+  ],
+  "input_hash": "d538ad29e68a",
+  "scored_at": "2026-04-20T08:08:46.046945"
+}

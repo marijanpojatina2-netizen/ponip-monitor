@@ -1,0 +1,16 @@
+{
+  "id": "58833",
+  "score_overall": 3.5,
+  "score_lokacija": 3.0,
+  "score_roi": 4.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Ivanec, ruralni kontinentalni prostor bez turističke ili razvojne perspektive s niskom tržišnom potražnjom za gospodarskim zgradama; 20% popust na prvoj dražbi ne kompenzira fundamentalno slabu likvidnost ovog mikrotržišta.",
+  "flags": [
+    "gospodarska zgrada + oranica - niša tržište",
+    "prva dražba - minimalan popust 20%",
+    "ruralni Varaždin kraj bez turističke vrijednosti"
+  ],
+  "input_hash": "7badecce2f7e",
+  "scored_at": "2026-04-20T08:11:18.891312"
+}

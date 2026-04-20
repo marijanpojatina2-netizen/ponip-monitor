@@ -1,0 +1,16 @@
+{
+  "id": "59023",
+  "score_overall": 4.5,
+  "score_lokacija": 6.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Otok Pag (k.o. Kolan) nosi lokacijsku premiju kao otočna nekretnina, ali predmet je gotovo isključivo oranica s tek 48 m2 izgrađenosti i prodaje se samo 1/2 dijela vlasništva; 20% popust na prvoj dražbi nedovoljan za ovakvu konfiguraciju bez jasne razvojne dozvole.",
+  "flags": [
+    "samo 1/2 dijela vlasništva - suvlasnički rizik",
+    "pretežno oranica - ograničenja gradnje na poljoprivrednom zemljištu",
+    "minimalna izgrađenost (48 m2) - nedefinirani razvojni potencijal"
+  ],
+  "input_hash": "bb4d886c90f7",
+  "scored_at": "2026-04-20T08:11:18.891672"
+}

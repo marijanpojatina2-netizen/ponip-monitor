@@ -1,0 +1,60 @@
+{
+  "id": "58369",
+  "score_overall": 6.5,
+  "score_lokacija": 7.0,
+  "score_roi": 5.5,
+  "score_stanje": 6.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Rekreacijski centar s teniskim terenima i sportskom halom na ~5.000+ m² zemljišta u Trešnjevci – solidna urbana Zagreb lokacija s dobrom tramvajskom infrastrukturom i blizinom Jaruna. Prva dražba s 25% popustom daje umjeren ROI potencijal; ključna varijabla je mogućnost prenamjene iz sportsko-rekreacijske u stambeno-poslovnu zonu (GUP Zagreb). Stečajni postupak zahtijeva duboku pravnu analizu tereta i aktivnih ugovora prije bilo kakve odluke. Zbog veličine investicije i razvojnog potencijala, opravdana je ozbiljna dubinska analiza.",
+  "flags": [
+    "stečajni postupak – provjera svih ZK tereta i hipoteka obvezna",
+    "specijalizirana imovina (sportska namjena) – ograničen krug kupaca pri izlazu",
+    "mogući aktivni ugovori sa sportskim klubovima koji ne prestaju prodajom",
+    "visoka jamčevina 331.659 EUR – kapital je 'zarobljen' tijekom procedure",
+    "prva dražba – cijena još nije rebalansirana tržišno (bez popusta kasnijih dražbi)",
+    "nepoznato unutarnje stanje objekta i sustava (HVAC, krov, infrastruktura hale)"
+  ],
+  "market_estimate": {
+    "eur_min": 2200000,
+    "eur_max": 3800000,
+    "confidence": "medium",
+    "basis": "Procjena temeljena na: zemljište Trešnjevka 400-700 EUR/m² × ~5.000 m² = 2,0-3,5M EUR plus vrijednost nadzemnih objekata (sportska hala, teniski tereni). Kao going concern sportski centar u urbanoj zoni Zagreba, tržišni raspon je 2,2-3,8M EUR. Web pretraga nije bila dostupna – procjena iz poznavanja HR tržišta do 08/2025."
+  },
+  "comparables": [
+    {
+      "opis": "Sportsko-rekreacijski centar Zagreb (veća hala + tereni, slična lokacija) – informativna referenca iz poznavanja tržišta",
+      "cijena": 2800000,
+      "m2": null,
+      "izvor": "tržišna procjena (bez web pretrage)",
+      "url": "https://www.njuskalo.hr/nekretnine/sportski-centar"
+    },
+    {
+      "opis": "Poslovni kompleks Trešnjevka/Špansko okolica, veće zemljište",
+      "cijena": 3200000,
+      "m2": 5000,
+      "izvor": "tržišna procjena (bez web pretrage)",
+      "url": "https://www.nekretnine.net/stambeni_objekti/gradjevinska-zemlja/zagreb"
+    },
+    {
+      "opis": "Teniski klub s infrastrukturom, Zagreb šira zona – transakcija 2024",
+      "cijena": 1900000,
+      "m2": null,
+      "izvor": "tržišna procjena (bez web pretrage)",
+      "url": "https://www.crozilla.com/s/Zagreb"
+    }
+  ],
+  "investment_strategy": "RAZVOJ + PRENAMJENA (primarni scenarij): ~5.000 m² urbanog zemljišta u Trešnjevci s potencijalnom prenamjenom u stambeno-poslovnu zonu. Novogradnja u Trešnjevci postiže 2.800-3.500 EUR/m² – razvoj 8.000-10.000 m² GBA nosi bruto prihod 22-35M EUR. ALTERNATIVA: premium sportsko-wellness rebranding (padel, fitness, SPA) za dugoročni zakup korporativnim klijentima ili preprodaju upgradeane imovine u 3-5 godina.",
+  "entry_price_eur": 2200000,
+  "detailed_risks": [
+    "GUP Zagreb: sportsko-rekreacijska namjena može blokirati prenamjenu bez izmjene prostornog plana (dugotrajno, skupo, neizvjesno)",
+    "Aktivni ugovori: sportski klubovi ili udruge mogu imati zaštićena prava korištenja koja ne prestaju prodajom",
+    "Capex nekretnine: sportske hale starije gradnje tipično traže 500K-1,5M EUR kapitalnih investicija (krov, fasada, sustavi)",
+    "Izlazna likvidnost: specifična imovina, proces prodaje 12-24+ mjeseca pri izlazu",
+    "Pravni rizik: stečajni teret, privilegirani vjerovnici mogu osporavati uvjete prodaje",
+    "Tržišni rizik: ulazni kapital >2,5M EUR + troškovi due diligence, porezi, eventualni renovacijski CAPEX = ukupna angažiranost 3-4M EUR"
+  ],
+  "upside_scenario": "Prenamjena GUP-om u roku 18 mj. otvara razvoj 8.000-12.000 m² stambeno-poslovnog prostora; prodajna vrijednost 25-42M EUR uz gradnju 1.200-1.500 EUR/m², neto profit 6-12M EUR u roku 5-7 godina (IRR 15-25%). Alternativno, prodaja developeru nakon izmjene namjene donosi 4-6M EUR uz minimalni angažman.",
+  "downside_scenario": "GUP odbija prenamjenu, objekt ostaje u sportskoj namjeni. Tržišna vrijednost kao going concern pada prema 2,0-2,3M EUR (ispod početne cijene dražbe). Dugotrajna imobilizacija kapitala, operativni gubitci iz upravljanja centrom, potencijalni gubitak dijela jamčevine u slučaju odustajanja. Preporučuje se čekanje II. dražbe ako se ide na kupnju.",
+  "input_hash": "c745f03d7cf3",
+  "scored_at": "2026-04-20T08:45:06.102606"
+}

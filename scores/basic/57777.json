@@ -1,0 +1,16 @@
+{
+  "id": "57777",
+  "score_overall": 3.0,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Komletinci kod Vinkovaca tipičan su primjer depopulacijske ruralne Slavonije s gotovo nepostojećom tržišnom potražnjom; 40% popust na drugoj dražbi privlačan je na papiru, ali bez izlazne strategije u ovoj regiji ulaganje nema smisla.",
+  "flags": [
+    "ruralna Slavonija - depopulacija",
+    "niska likvidnost tržišta Vinkovci okolica",
+    "starija kuća u selu - visoki potencijalni renovacijski troškovi"
+  ],
+  "input_hash": "d859565c9df9",
+  "scored_at": "2026-04-20T08:11:18.891556"
+}

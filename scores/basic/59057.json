@@ -1,0 +1,15 @@
+{
+  "id": "59057",
+  "score_overall": 3.5,
+  "score_lokacija": 4.0,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Donja Stubica je ruralno Zagorje bez značajnog turističkog ili stambenog potencijala, a 1/4 suvlasnički udio drastično otežava svaku buduću prodaju ili korištenje objekta. Popust od samo 20% na prvoj dražbi ne opravdava kompleksnost suvlasničke situacije.",
+  "flags": [
+    "1/4 idealnog suvlasničkog dijela – otežana prodaja i korištenje",
+    "suvlasništvo bez sporazuma s ostalima blokira razvoj"
+  ],
+  "input_hash": "38e1b296919e",
+  "scored_at": "2026-04-20T08:12:37.045226"
+}

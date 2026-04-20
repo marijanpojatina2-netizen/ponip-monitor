@@ -1,0 +1,17 @@
+{
+  "id": "57728",
+  "score_overall": 2.5,
+  "score_lokacija": 3.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Livada svega 49m2 u ruralnom Trnovecu nema razvojnog potencijala ni likvidnosti; 40% popust ne kompenzira ekstremo nisku investicijsku vrijednost ovog tipa zemljišta.",
+  "flags": [
+    "neizgrađeno - nije građevinska čestica",
+    "ekstremno mala površina (49 m2)",
+    "niska likvidnost ruralnog tržišta",
+    "Varaždinsko ruralno područje"
+  ],
+  "input_hash": "0159ce82f84d",
+  "scored_at": "2026-04-20T08:13:51.192287"
+}

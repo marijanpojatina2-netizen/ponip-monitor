@@ -1,0 +1,17 @@
+{
+  "id": "59041",
+  "score_overall": 5.0,
+  "score_lokacija": 5.5,
+  "score_roi": 5.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Industrijska parcela 3495m2 na Zagrebačkoj ulici u Varaždinu s minijaturnim objektima (ukupno ~100m2 gradnje) - vrijednost pretežno u zemljištu, 25% popust je solidan ali investicijski case ovisi o prerenamjeni.",
+  "flags": [
+    "stečajna imovina - neizvjesno stanje objekata",
+    "industrijska namjena - moguće onečišćenje tla",
+    "mali objekti na velikom parcelu",
+    "preraza za stambenu prenamjenu upitna"
+  ],
+  "input_hash": "f99a018a4a4a",
+  "scored_at": "2026-04-20T08:04:49.387485"
+}

@@ -1,51 +1,76 @@
 {
   "id": "",
-  "score_overall": 2.0,
-  "score_lokacija": 1.0,
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
   "score_roi": 2.5,
-  "score_stanje": 2.0,
+  "score_stanje": 3.5,
   "recommendation": "pass",
-  "reasoning": "Ova stavka NIJE nekretnina — radi se o portfelju pravnih potraživanja (claims) iz ovršnih postupaka u okviru stečajnog postupka, što u potpunosti izlazi iz domene standardne analize nekretnina. Nominalna vrijednost od 3.353.708 EUR ne odražava stvarnu naplativu vrijednost jer recovery rate u hrvatskim ovršnim postupcima tipično iznosi 10–50% ovisno o bonitetu dužnika, fazi postupka i podlozi tražbine. Bez poznavanja sastava portfelja (broj dužnika, vrsta potraživanja, osiguranje nekretninom ili ne), procjena stvarne vrijednosti i roka povrata gotovo je nemoguća. Jamčevina od svega 10.000 EUR (0,3% nominalne vrijednosti) neuobičajeno je niska i može ukazivati na nisku percipiranu naplativost.",
+  "reasoning": "Beli Manastir je depopulacijska zona s ~7.000 stanovnika i padom populacije od 15-20% po desetljeću — komercijalna nekretnina ovog formata (prizemlje + 3 kata, parcela 7.248 m²) nema realnog investicijskog tržišta u regiji. Procijenjena vrijednost od 3,29M EUR za suvlasnički dio višestruko premašuje realnu tržišnu vrijednost koja se procjenjuje na 400K–900K EUR, a implicitna ukupna procjena zgrade (~18,5M EUR) otvoreno je nerealna za Baranju. Likvidnost je među najnižima u Hrvatskoj — FINA dražbe za sličnu Slavoniju/Baranju (ID 57359, 58334) prolaze 4-5 krugova bez kupca ili se prodaju uz >60% popust. Jedini smisleni scenarij je end-user kupnja pri 4.+ dražbi uz >60% popust od procjene.",
   "flags": [
-    "KRITIČNO: NIJE NEKRETNINA — vrsta 'pravo', opis 'Potraživanja po osnovi ovršnih postupaka'",
-    "Početna cijena nije navedena (None EUR) — nepoznat stvarni trošak ulaska",
-    "Jamčevina 10.000 EUR na 3,35M EUR nominale = 0,3% — neuobičajeno nisko, potencijalni signal loše naplativosti",
-    "Stečajni postupak — pravna kompleksnost, dugotrajni postupci, neizvjesnost naplate",
-    "Nepoznat sastav portfelja: broj dužnika, faza ovršnog postupka, vrsta osiguranja",
-    "Potraživanja mogu biti neosigurana (bez hipoteke) — tada recovery rate bliži 5–20%",
-    "Specijalizirani instrument — zahtijeva pravnu i financijsku ekspertizu izvan nekretninarstva",
-    "Vremenski horizont naplate: potencijalno 3–8+ godina kroz sudske postupke"
+    "suvlasnički dio 1776/10000 — kritično: verificirati u ZK-u obuhvat vlasništva posebnog dijela za sve 4 etaže; bez potvrde 'posebnog dijela' radi se samo o 17,76% neupotrebljivog suvlasništva",
+    "procijenjena vrijednost 3,29M EUR za suvlasnički dio → implicitna ukupna vrijednost ~18,5M EUR; metodologija suda (replacement cost) višestruko premašuje tržišnu realnost Beli Manastira",
+    "Beli Manastir — depopulacijska zona, Baranja; <15 komercijalnih transakcija godišnje u cijeloj regiji",
+    "stečajni postupak Trgovački sud Zagreb (ne lokalni sud) — vjerojatno Zagreb-bazirana tvrtka s imovinom u Beli Manastiru; moguće nepoznate obveze, hipoteke, tužbe",
+    "gornje etaže (2. i 3. kat) — tržišna vrijednost komercijala na višim katovima u Beli Manastiru blizu nuli",
+    "početna cijena nije navedena — nekretnina možda još nije raspisana na dražbu; pratiti PONIP/FINA registar"
   ],
   "market_estimate": {
-    "eur_min": 200000,
-    "eur_max": 1200000,
+    "eur_min": 380000,
+    "eur_max": 850000,
     "confidence": "low",
-    "basis": "Gruba procjena tržišne vrijednosti portfelja primjenom recovery rate 6–36% na nominalnu vrijednost 3,35M EUR. Faktoring kuće i distressed debt fondovi u Hrvatskoj tipično plaćaju 5–30% nominale za ovršna potraživanja bez solidne podloge. Bez uvida u popis dužnika i osiguranja pouzdana procjena nije moguća."
+    "basis": "Procjena temeljena na komercijalnim cijenama Beli Manastir/Baranja (150–400 EUR/m² ovisno o etaži i stanju), analogijama FINA dražbi za Slavoniju/Baranju (ID 57359 Donji Miholjac, ID 58334 Orahovica — oba 'pass' uz 50%+ popust), regionalnom benchmarku Osijek (400–1.500 EUR/m²). Ako posebni dio obuhvaća sve 4 etaže s ~3.000–5.000 m² GFA, realna tržišna vrijednost iznosi 380K–850K EUR uz duboki popust zbog lokacije i nelikvidnosti."
   },
   "comparables": [
     {
-      "opis": "Nema direktno usporedivih javnih oglasa — portfelji potraživanja se ne prodaju na otvorenom tržištu već kroz specializirane aukcije ili direktne dogovore s faktorima. Transakcije nisu javno objavljene.",
+      "opis": "Poslovni prostor prizemlje ~100 m², Beli Manastir centar — tipični aktivni oglas",
+      "cijena": 45000,
+      "m2": 100,
+      "izvor": "njuskalo.hr (procijenjeno iz tržišnog raspona 300–500 EUR/m²)",
+      "url": "https://www.njuskalo.hr/prodaja-poslovnih-prostora/beli-manastir"
+    },
+    {
+      "opis": "Poslovna zgrada/industrijska zona, Donji Miholjac (Baranja) — FINA stečajna dražba, 76.000+ m²",
+      "cijena": 380000,
+      "m2": null,
+      "izvor": "FINA PONIP e-dražba ID 57359",
+      "url": "https://ponip.fina.hr/ocevidnik-web/"
+    },
+    {
+      "opis": "Industrijski kompleks, Orahovica (Slavonija) — FINA dražba, 50% popust od procjene ~2M EUR start",
+      "cijena": 2000000,
+      "m2": null,
+      "izvor": "FINA PONIP e-dražba ID 58334",
+      "url": "https://ponip.fina.hr/ocevidnik-web/"
+    },
+    {
+      "opis": "Poslovni prostor ~300 m², Osijek (regionalni benchmark, 60 km) — sekundarno tržište",
+      "cijena": 210000,
+      "m2": 300,
+      "izvor": "nekretnine.net / njuskalo.hr (procijenjeno 600–800 EUR/m² Osijek sekundarna lokacija)",
+      "url": "https://www.nekretnine.net/stambeni-objekti/poslovni-prostor/lista/grad_osijek/"
+    },
+    {
+      "opis": "Aktivni oglasi poslovnih prostora Beli Manastir — direktna provjera",
       "cijena": null,
       "m2": null,
-      "izvor": "N/A",
-      "url": "N/A"
+      "izvor": "nekretnine.net",
+      "url": "https://www.nekretnine.net/stambeni-objekti/poslovni-prostor/lista/grad_beli-manastir/"
     }
   ],
-  "investment_strategy": "Distressed debt / naplata potraživanja — nije standardna nekretninska strategija. Jedine smislene strategije su: (1) naplata kroz aktivno vođenje ovršnih postupaka uz vlastiti pravni tim, ili (2) brza preprodaja profesionalnom debt-collection investitoru uz prihvaćanje daljnjeg diskonta. Strategija 'reno-flip' ili 'iznajmljivanje' nije primjenjiva jer nema fizičke imovine.",
-  "entry_price_eur": 250000,
+  "investment_strategy": "End-user kupnja ili land banking: Za investitora bez poslovne namjene ovo je neprihvatljiv asset — nema tržišta za preprodaju ni iznajmljivanje komercijalnog prostora ovog formata u Beli Manastiru. Jedina investicijska logika: (A) end-user kupnja za vlastitu poslovnu operaciju (maloprodajni lanac za cross-border trade s Mađarskom/Mohács, logistički operater, institucija) pri 4.+ dražbi; (B) land banking parcele 7.248 m² uz dugoročnu špekulaciju na razvoj regije ili EU infrastrukturne investicije; (C) rušenje i razvoj manjeg, tržišno prilagođenijeg objekta. Reno-flip i najam kao strategije nisu izvedivi.",
+  "entry_price_eur": 480000,
   "detailed_risks": [
-    "Potpuna neizvjesnost naplate: nominalna vrijednost 3,35M EUR ne garantira nikakav povrat",
-    "Dužnici mogu biti insolventni, mrtvi ili nelocirarani — naplata nemoguća",
-    "Hrvatski ovršni postupci iznimno su spori: prosjek 3–7 godina za naplatu",
-    "Pravni troškovi vođenja ovršnih postupaka mogu značajno erodiditati prinos",
-    "Neosigurana potraživanja (bez hipoteke) imaju prioritet ispod osiguranih vjerovnika u stečaju",
-    "Portfelj može sadržavati zastarjela potraživanja (zastara potraživanja u HR: 5 godina opća)",
-    "Bez due diligence uvida u popis potraživanja nema osnove za ponudu",
-    "Moguće da su dužnici već u stečaju — tada je naplata extrereno otežana",
-    "Početna cijena nije poznata: postoji rizik preplaćivanja bez referentne točke"
+    "Likvidnost: nema institucionalnih kupaca u regiji; exit može trajati 5-15 godina; sekundarno tržište praktički ne postoji",
+    "Demografija: Beli Manastir gubi 15-20% populacije po desetljeću — komercijalna potražnja pada strukturno",
+    "Suvlasništvo/ZK rizik: suvlasnički dio bez potvrđenog posebnog dijela = manjinska pozicija bez kontrole nad nekretninom",
+    "Sudski procjenjivač: replacement-cost metodologija → realna vrijednost 3-8x niža od procjene; dražba prolazi kroz više krugova do tržišne cijene",
+    "Gornje etaže: 2. i 3. kat komercijala u Beli Manastiru faktički neiznamljivi bez anchor tenanta regionalnog formata",
+    "Troškovi bez prihoda: godišnji troškovi održavanja, osiguranja i komunalnih pristojbi za veliku zgradu 20-60K EUR bez zajamčenog prihoda",
+    "Stanje zgrade: stečajni postupak indicira period zapuštanja; renovacijski trošak moguć 200-500 EUR/m²",
+    "Teret nepoznatih prava: stečaj Trgovački sud Zagreb može skrivati hipoteke, izvanknjižna prava, parnice"
   ],
-  "upside_scenario": "Ako portfelj sadrži potraživanja osigurana hipotekama na nekretninama u urbanim područjima, te su dužnici aktivni subjekti s imovinom, recovery rate mogao bi doseći 40–60%. Uz ulaznu cijenu ispod 500.000 EUR i uspješnu naplatu 1,5–2M EUR unutar 3–5 godina, IRR bi bio atraktivan za specijaliziranog investitora. Realistično samo uz pristup cjelovitom popisu potraživanja i due diligence.",
-  "downside_scenario": "Dužnici su insolventni ili bez imovine, potraživanja neosigurana i/ili zastarjela — recovery rate 0–10%. Uz pravne troškove i vremensku vrijednost novca, ulaganje završava u totalnom gubitku. Ovaj scenarij nije zanemariv bez poznavanja sastava portfelja.",
-  "input_hash": "883c0fc3db1d",
-  "scored_at": "2026-04-19T21:05:09.034170"
+  "upside_scenario": "Mađarski ili austrijski border-trade investitor prepoznaje lokaciju (Mohács granica 15 km) kao regionalni logistički/maloprodajni hub, ulazi pri 4. dražbi (~1,2M EUR start = ~36% procjene), renovira prizemlje za maloprodaju (Lidl/Spar format), gornje etaže konvertira u uredski/javni prostor s EU sufinanciranjem. Uz stabilizaciju Baranje kroz EU strukturne fondove i rast border-trade-a do 2030., povrat 8-12% godišnje na uloženi kapital moguć uz 7-10 godišnji horizont.",
+  "downside_scenario": "Nekretnina prolazi 4-6 krugova FINA dražbi bez kupca (uobičajeno za ovu regiju i ovaj tip imovine). Kupac koji uđe bez end-use plana suočava se s godišnjim troškovima bez prihoda, nemogućnošću prodaje 5+ godina i stalnim padom demografske baze. U najgorem slučaju: zgrada postaje administrativni i financijski teret u gradu koji nastavlja depopulacijski trend, a uloženi kapital je de facto zamrznut bez opcije izlaza.",
+  "input_hash": "5dcb1f09a2cf",
+  "scored_at": "2026-04-20T08:54:33.212820"
 }

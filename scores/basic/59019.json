@@ -1,0 +1,17 @@
+{
+  "id": "59019",
+  "score_overall": 6.0,
+  "score_lokacija": 5.5,
+  "score_roi": 7.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Industrijska zgrada 405m2 + 857m2 dvorišta za 120,000 EUR (296 EUR/m2 gradnje) je izuzetno jeftino za Varaždin koji ima aktivno industrijsko tržište; 25% popust uvjerljiv ali stanje objekta presudno.",
+  "flags": [
+    "stečajna imovina - nepoznato stanje",
+    "industrijska namjena - provjeri tehničku ispravnost i dozvole",
+    "dio većeg kompleksa s ID 59041 - razmotri paket kupnju",
+    "moguće onečišćenje tla"
+  ],
+  "input_hash": "f64ab0d441c0",
+  "scored_at": "2026-04-20T08:04:49.388269"
+}

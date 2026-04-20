@@ -1,0 +1,17 @@
+{
+  "id": "52990",
+  "score_overall": 2.0,
+  "score_lokacija": 2.5,
+  "score_roi": 2.0,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Oklaj kod Knina je unutrašnjost Dalmacije s teškim depopulacijskim trendom, a radi se o raspršenim česticama pašnjaka i vinograda pretežno u 1/2 suvlasništvu bez ikakvog objekta. Minimalni popust od 20% na prvoj dražbi uz fragmentiranost čestica čini ovaj lot gotovo neupotrebljivim.",
+  "flags": [
+    "suvlasnički dijelovi 1/2 na većini čestica",
+    "neizgrađena zemlja – pašnjaci i vinogradi bez infrastrukture",
+    "depopulacijska zona Knin-Oklaj",
+    "fragmentirane čestice – pravna kompleksnost spajanja"
+  ],
+  "input_hash": "88427ed9ee83",
+  "scored_at": "2026-04-20T08:12:37.045604"
+}

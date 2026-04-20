@@ -1,0 +1,16 @@
+{
+  "id": "58952",
+  "score_overall": 6.0,
+  "score_lokacija": 7.0,
+  "score_roi": 5.5,
+  "score_stanje": 6.0,
+  "recommendation": "watch",
+  "reasoning": "Picerija 164m2 u Brodarici uz more ima turistički potencijal, ali 20% popust na prvoj dražbi je minimum za poslovni prostor sa sezonskim prihodima i nejasnom suvlasničkom strukturom.",
+  "flags": [
+    "poslovni prostor - vjerojatno u zakupu/pogonu",
+    "suvlasništvo 1/2 - provjeri prodaje li se cijeli udio ili samo 1/2",
+    "sezonski prihodi - Brodarica nije cjelogodišnja destinacija"
+  ],
+  "input_hash": "06646dc09f4f",
+  "scored_at": "2026-04-20T08:04:49.387720"
+}

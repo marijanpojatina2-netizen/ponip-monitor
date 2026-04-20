@@ -1,0 +1,16 @@
+{
+  "id": "58922",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Novo Selo kod Siska je ruralno i ekonomski slabo područje bez investicijskog potencijala; pripojena oranica (561 m2) komplicira uknjižbu i privlači ograničen krug kupaca uz agrarne restrikcije.",
+  "flags": [
+    "ruralno – depopulacijska zona",
+    "oranica u sklopu nekretnine",
+    "gospodarska zgrada – nepoznat stupanj dotrajalosti"
+  ],
+  "input_hash": "16146f64d884",
+  "scored_at": "2026-04-20T08:08:46.046640"
+}
