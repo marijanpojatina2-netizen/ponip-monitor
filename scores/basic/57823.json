@@ -1,0 +1,17 @@
+{
+  "id": "57823",
+  "score_overall": 3.5,
+  "score_lokacija": 3.0,
+  "score_roi": 5.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "40% popust na drugoj dražbi za velik stan u Josipovcu je cenovno privlačan, ali prodaja samo 1/2 etažnog vlasništva je kritični bloker, a Josipovac (prigradsko naselje Osijeka) ima minimalnu tržišnu likvidnost.",
+  "flags": [
+    "suvlasnički udio 1/2 etažnog vlasništva - kritični rizik",
+    "druga dražba - signal nedostatka tržišnog interesa",
+    "Josipovac - niska likvidnost i potražnja",
+    "ograničeno raspolaganje bez suglasnosti suvlasnika"
+  ],
+  "input_hash": "f8581f24e36d",
+  "scored_at": "2026-04-20T13:45:29.515268"
+}

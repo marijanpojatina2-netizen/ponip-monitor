@@ -1,0 +1,15 @@
+{
+  "id": "59443",
+  "score_overall": 5.5,
+  "score_lokacija": 7.5,
+  "score_roi": 5.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Pula je izvrsna turistička lokacija s visokim potencijalom kratkoročnog najma, no opis jasno signalizira da zgrada nema izdanu uporabnu dozvolu što donosi pravnu neizvjesnost i potencijalne troškove legalizacije. Stan od 37 m2 u prizemlju dodatno limitira premijumski turistički najam.",
+  "flags": [
+    "nema uporabne dozvole za zgradu",
+    "prizemlje - sigurnosni i privatnost rizik, manje traženo za turistički najam"
+  ],
+  "input_hash": "6926341ca792",
+  "scored_at": "2026-04-20T14:11:34.787201"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "57349",
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 4.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Bulinac/Bedenik je duboko ruralna depopulacijska zona Bjelovarsko-bilogorske županije bez turističkog potencijala; poslovni objekt tipa prenočišta na ovakvoj lokaciji praktički je nelikvidna imovina unatoč 40% popustu.",
+  "flags": [
+    "depopulacijska ruralna zona",
+    "poslovni objekt bez turističke potražnje",
+    "ekstremno niska likvidnost pri izlazu"
+  ],
+  "input_hash": "a84c88fcd31a",
+  "scored_at": "2026-04-20T13:51:38.839177"
+}

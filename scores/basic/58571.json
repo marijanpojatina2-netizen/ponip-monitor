@@ -1,0 +1,16 @@
+{
+  "id": "58571",
+  "score_overall": 4.5,
+  "score_lokacija": 4.0,
+  "score_roi": 5.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Marčelji - ruralno zaleđe Rijeke s pašnjakom i poslovnom zgradom, 25% popust na prvoj dražbi je pozitivan signal ali mješovita namjena i slaba likvidnost tržišta ograničavaju izlazne strategije. Poslovna zgrada 294m2 zahtijeva provjeru namjene i stanja.",
+  "flags": [
+    "ruralna lokacija",
+    "pašnjak s niskom likvidnošću",
+    "poslovna namjena - specifičan kupac profil"
+  ],
+  "input_hash": "1a98c49893b5",
+  "scored_at": "2026-04-20T13:01:00.584678"
+}

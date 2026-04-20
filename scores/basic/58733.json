@@ -1,0 +1,15 @@
+{
+  "id": "58733",
+  "score_overall": 6.5,
+  "score_lokacija": 6.5,
+  "score_roi": 7.0,
+  "score_stanje": 5.5,
+  "recommendation": "bid",
+  "reasoning": "Stan 79,67 m2 sa spremlištem na Zagrebačkoj cesti 76 (Vrapče) s 25% popustom na prvoj dražbi – startna cijena ~1.575 EUR/m2 je ispod tržišnih cijena zapadnog Zagreba, realan kandidat za licitaciju.",
+  "flags": [
+    "Trgovački sud Pazin vodi slučaj za Zagreb nekretninu – poslovni dug tvrtke iz Istre/Pazina",
+    "prva dražba – ako ne prođe, 3./4. dražba nudi veći popust"
+  ],
+  "input_hash": "37c10383895d",
+  "scored_at": "2026-04-20T13:24:56.441245"
+}

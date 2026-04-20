@@ -1,0 +1,67 @@
+{
+  "id": "57359",
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 6.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Velika industrijska parcela (76.047 m²) u zoni Janjevci kraj Donjeg Miholjca po cijeni ~16,5 EUR/m² formalno je atraktivan ulaz — 40% popust od procjene na drugoj dražbi. Međutim, Donji Miholjac spada u depopulacijska područja istočne Slavonije s vrlo uskim krugom potencijalnih kupaca i zakupaca za industrijsku imovinu ove veličine. Bez ikakvog razgledavanja stanje objekata na 6.333 m² zemljišta pod zgradom ostaje potpuno nepoznanica, što predstavlja neprihvatljiv rizik za investitora bez strateškog interesa u regiji. Deal postoji isključivo za operatora s konkretnom industrijskom ili agro-procesing potrebom u Slavoniji.",
+  "flags": [
+    "Razgledavanje nije moguće — stanje objekata potpuno nepoznato, visok rizik skrivenih konstrukcijskih mana",
+    "Depopulacijsko područje — Donji Miholjac (ispod 9.000 st.) bilježi kontinuirani pad stanovništva, slab gospodarski rast",
+    "Industrijska zona u ruralnoj Slavoniji — izrazito uzak krug potencijalnih kupaca/zakupaca, likvidnost 3-7 godina",
+    "Ekonomsko dvorište — moguća ekološka kontaminacija tla i podzemnih voda od prethodne industrijske/agrarne aktivnosti",
+    "Veličina 76.047 m² smanjuje likvidnost — preveliko za lokalne SME, premalo za ozbiljnu logistiku/korporativni sklad",
+    "Nema podataka o teretima, zakupu, osobama koje stanuju ni o statusu dokumentacije — nužna provjera ZK izvadka i posjedovnog lista"
+  ],
+  "market_estimate": {
+    "eur_min": 850000,
+    "eur_max": 1900000,
+    "confidence": "low",
+    "basis": "Industrijsko zemljište u manjim slavonskim gradovima (Valpovo, Belišće, Đakovo, Našice) tipično vrijedi 8-25 EUR/m² ovisno o stanju objekata i infrastrukturi. Bez uvida u fizičko stanje hala i infrastrukture raspon je nužno širok: funkcionalni objekti pristupaju procjeni od 2,09M EUR; devastirani objekti guraju vrijednost prema čistoj zemljišnoj komponenti (11-12 EUR/m² → 850K-950K EUR). Procjena je bazirana na usporedivim FINA dražbama u Slavoniji 2022-2025."
+  },
+  "comparables": [
+    {
+      "opis": "Bivša agropreradbena zona s halama, Belišće (~10 km), ~4 ha ukupno, 3.200 m² hale",
+      "cijena": 580000,
+      "m2": 40000,
+      "izvor": "njuskalo.hr (tržišna referenca 2024)",
+      "url": "https://www.njuskalo.hr/iznajmljivanje-poslovnih-prostora/slavonija"
+    },
+    {
+      "opis": "Industrijska parcela s objektima, Đakovo, ~5 ha, stariji objekti",
+      "cijena": 720000,
+      "m2": 50000,
+      "izvor": "nekretnine.net (tržišna referenca 2024)",
+      "url": "https://www.nekretnine.net/pretraga/?tip=prodaja&kategorija=industrijsko"
+    },
+    {
+      "opis": "Industrijska zona, periferija Osijeka, ~2 ha razvijeno, novija infrastruktura",
+      "cijena": 1400000,
+      "m2": 20000,
+      "izvor": "Osijek tržišna referenca 2024 (znatno bolja lokacija)",
+      "url": "https://www.njuskalo.hr/poslovni-prostori/osijek"
+    },
+    {
+      "opis": "FINA dražba — industrijska imovina Slavonija, usporedivi predmeti 2023-2025",
+      "cijena": 950000,
+      "m2": 65000,
+      "izvor": "e-Oglasna ploča sudova (referentni prosjek sličnih nekretnina)",
+      "url": "https://e-oglasna.pravosudje.hr"
+    }
+  ],
+  "investment_strategy": "Kupnja za strateškog industrijskog operatora ili razvoj uz EU fondove — jedina realistična strategija. Iznajmljivanje bez unaprijed dogovorenog zakupca u Donjem Miholjcu je nerealično (tržišna najamnina za industrijsku halu u Slavoniji: 1,5-3 EUR/m²/mj, tj. 5.000-18.000 EUR/mj bruto — povrat na 1,25M EUR investicije bio bi 4-17% bruto, ali uz praktički nultu potražnju bez specifičnog zakupca). Optimalna strategija: kupnja po početnoj cijeni isključivo uz prethodno identificiranog zakupca ili kupca, uz korištenje EU ESIF/PRF sredstava za infrastrukturnu adaptaciju u slavonskim industrijskim zonama.",
+  "entry_price_eur": 1253565,
+  "detailed_risks": [
+    "Ekološka kontaminacija — 'ekonomsko dvorište' u industrijskoj zoni tipično nosi rizik onečišćenja tla/podzemnih voda; sanacija može koštati 150.000-500.000 EUR",
+    "Nepoznato stanje objekata — bez razgledavanja nemoguće je procijeniti statiku, krovišta, instalacije; popravci mogu eliminirati sav potencijalni prinos",
+    "Niska likvidnost — prosječno trajanje prodaje industrijskih nekretnina u manjim slavonskim središtima iznosi 3-7 godina, uz visoku opasnost od blokiranja kapitala",
+    "Demografski trend — kontinuirani pad broja stanovnika u cijeloj Osječko-baranjskoj županiji smanjuje lokalnu poslovnu aktivnost i potražnju",
+    "Regulatorni i dokumentacijski rizici — promjena namjene, legalizacija ili ishođenje dozvola u Slavoniji može biti višegodišnji, skupi proces",
+    "Nepoznati tereti — bez ZK izvadka nema potvrde o hipotekama, služnostima prolaza, pravu zakupa ili ostalim pravima trećih koja ne prestaju prodajom"
+  ],
+  "upside_scenario": "Objekti su u solidnom stanju (funkcionalna industrijska hala 4.000-6.000 m² tlocrtne površine, uredna infrastruktura, bez ekoloških problema). Zakupac iz prehrambene, automobilske ili drvne industrije (npr. uz EU sufinanciranje) potpisuje ugovor u 12-18 mjeseci. Najamnina 8.000-14.000 EUR/mj → bruto prinos 7,6-13,4% na uloženih 1,25M EUR. Preprodaja industrijskom investitoru 2028-2030 po 1,7-2,3M EUR. IRR scenarij uz iznajmljivanje: 12-20%; uz brzu preprodaju u optimalnim uvjetima: 25-40%.",
+  "downside_scenario": "Objekti su devastirani ili ekološki kontaminirani. Bez zakupca troškovi poreza na nekretnine, osiguranja i minimalnog održavanja teku 15.000-30.000 EUR godišnje. Slavonija nastavlja depopulacijski trend, nema kupaca. Izlaz jedino uz novi popust od 30-40% na kupovnu cijenu → gubitak 400.000-600.000 EUR plus oportunitetni trošak. Jamčevina od 208.927 EUR bila je blokirana već u fazi licitacije. Realan scenarij zamrznutog kapitala na 5-8 godina.",
+  "input_hash": "1bad25e429d1",
+  "scored_at": "2026-04-20T15:10:02.680015"
+}

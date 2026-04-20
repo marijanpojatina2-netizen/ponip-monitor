@@ -1,0 +1,16 @@
+{
+  "id": "59076",
+  "score_overall": 4.0,
+  "score_lokacija": 3.5,
+  "score_roi": 4.0,
+  "score_stanje": 5.5,
+  "recommendation": "pass",
+  "reasoning": "Goričan u Međimurju je pogranično ruralno područje s ograničenim investicijskim interesom, a skroman popust od 20% na prvoj dražbi ne opravdava ulazak u nelikvidno tržište s minimalnim potencijalom rasta vrijednosti.",
+  "flags": [
+    "granično ruralno područje - limitiran kupački interes",
+    "skroman popust na prvoj dražbi - očekuj daljnje sniženje",
+    "gospodarska zgrada - potencijalni troškovi adaptacije"
+  ],
+  "input_hash": "3ebbe072da44",
+  "scored_at": "2026-04-20T14:06:55.687427"
+}

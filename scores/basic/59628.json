@@ -1,0 +1,16 @@
+{
+  "id": "59628",
+  "score_overall": 5.5,
+  "score_lokacija": 6.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Trnje je solidna centralna četvrt Zagreba s dobrom prometnom povezanošću, ali 20% popust na prvoj dražbi bez bonusa daje slab ROI potencijal; loggia i spremište povećavaju korisnost stana.",
+  "flags": [
+    "prva dražba - nema popust bonus",
+    "nema podataka o stanju interijera",
+    "suvlasnički udio u zgradi mješovite namjene"
+  ],
+  "input_hash": "3ddcb8035793",
+  "scored_at": "2026-04-20T12:43:12.964591"
+}

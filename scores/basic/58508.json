@@ -1,0 +1,16 @@
+{
+  "id": "58508",
+  "score_overall": 5.5,
+  "score_lokacija": 5.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Krapinske Toplice su termalna turistička destinacija s potencijalom za wellness turizam, ali kontinentalna lokacija i specifična namjena prostora (odmor/fitnes u potkrovlju poslovne zgrade) ograničavaju likvidnost; 20% popust na prvoj dražbi je minimalan za ovaj tip objekta.",
+  "flags": [
+    "poslovni prostor specifične namjene - odmor/fitnes",
+    "potkrovlje može ograničiti iskoristivost ljeti",
+    "bez podataka o stanju interijera"
+  ],
+  "input_hash": "5781781a77c5",
+  "scored_at": "2026-04-20T14:09:55.675603"
+}

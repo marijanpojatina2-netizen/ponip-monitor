@@ -1,0 +1,16 @@
+{
+  "id": "58365",
+  "score_overall": 7.0,
+  "score_lokacija": 7.5,
+  "score_roi": 6.5,
+  "score_stanje": 6.5,
+  "recommendation": "bid",
+  "reasoning": "Cijela kuća u Šestinama — garaža, spremište, četverosobni stan (111m2) i dvosobni stan (54m2) — prestižna rezidencijalna lokacija Zagreba s visokom likvidnošću i fleksibilnošću: dvije stambene jedinice za najam ili prodaju. Prva dražba s 20% popustom je solidan ulaz, ali postoji prostor za bolji uvjet.",
+  "flags": [
+    "prva dražba (može ići niže na idućoj)",
+    "stanje objekta nespecificirano",
+    "opis odrezan (nekretnina 4 nepotpuna u tekstu)"
+  ],
+  "input_hash": "fc4294fef66c",
+  "scored_at": "2026-04-20T12:39:45.868207"
+}

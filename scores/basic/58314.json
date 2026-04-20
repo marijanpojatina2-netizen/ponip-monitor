@@ -1,0 +1,17 @@
+{
+  "id": "58314",
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 6.0,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Atraktivan 40% popust na drugoj dražbi, ali oranica u ruralnoj Slavoniji (Gornji Bogićevci) ima minimalnu likvidnost i ograničene scenarije valorizacije.",
+  "flags": [
+    "depopulacijsko ruralno područje",
+    "samo poljoprivredno zemljište",
+    "bez objekata",
+    "niska likvidnost regije"
+  ],
+  "input_hash": "5db66e0e20aa",
+  "scored_at": "2026-04-20T14:08:09.743547"
+}

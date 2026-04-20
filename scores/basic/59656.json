@@ -1,0 +1,15 @@
+{
+  "id": "59656",
+  "score_overall": 6.8,
+  "score_lokacija": 8.0,
+  "score_roi": 6.5,
+  "score_stanje": 5.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Kuća s okućnicom na otoku Korčuli (Vela Luka) za 126k EUR je izuzetno atraktivna cijena za dalmatinski otok; vlasništvo za cijelo, Dubrovačka regija s rastućim turizmom - ovo zaslužuje detaljnu provjeru stanja objekta i GUP-a jer potencijal za renovaciju i turistički najam je visok.",
+  "flags": [
+    "nepoznato stanje kuće - obavezna fizička inspekcija prije licitacije",
+    "420m2 ukupna čestica - treba razjasniti tlocrt kuće"
+  ],
+  "input_hash": "6e1e2da10123",
+  "scored_at": "2026-04-20T13:30:38.690016"
+}

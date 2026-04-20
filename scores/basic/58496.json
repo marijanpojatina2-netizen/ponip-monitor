@@ -1,0 +1,15 @@
+{
+  "id": "58496",
+  "score_overall": 4.0,
+  "score_lokacija": 4.5,
+  "score_roi": 4.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Poslovni prostor specifične namjene (caffe bar) u podrumu zgrade u Krapinskim Toplicama ima izrazito uzak krug potencijalnih kupaca i zakupaca, a lokacija nema dovoljnu turističku ili poslovnu propulziju za ozbiljan ROI. Podrum + specifična namjena + manji grad = loša kombinacija likvidnosti.",
+  "flags": [
+    "poslovni prostor u podrumu",
+    "specifična namjena caffe bar - ograničava prenamjenu i zakupce"
+  ],
+  "input_hash": "5887aeb71dbc",
+  "scored_at": "2026-04-20T13:15:25.753859"
+}

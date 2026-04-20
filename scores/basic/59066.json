@@ -1,0 +1,16 @@
+{
+  "id": "59066",
+  "score_overall": 4.0,
+  "score_lokacija": 5.0,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Suvlasnički udio 161/247 je kritičan red flag koji onemogućuje samostalno upravljanje i otežava prodaju, a radi se o čisto poljoprivrednom zemljištu (voćnjak/vinograd) bez građevinskog potencijala u periferiji Zagreba. 25% popust na prvoj dražbi ne kompenzira pravne i razvojne teškoće.",
+  "flags": [
+    "suvlasnički udio (161/247) - nemogućnost autonomnog upravljanja",
+    "isključivo poljoprivredno zemljište bez građevinskog potencijala",
+    "ograničena tržišna likvidnost"
+  ],
+  "input_hash": "f3decb448d38",
+  "scored_at": "2026-04-20T12:57:10.722665"
+}

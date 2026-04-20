@@ -1,0 +1,16 @@
+{
+  "id": "57205",
+  "score_overall": 7.0,
+  "score_lokacija": 7.5,
+  "score_roi": 7.5,
+  "score_stanje": 6.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Centralni Zagreb (Ulica Petra i Tome Erdödyja), 40% popust na drugoj dražbi – izvrsna kombinacija lokacije i popusta, ali prodaje se samo 1/2 suvlasničkog dijela što znači ulazak u suvlasništvo s nepoznatom osobom. Deep dive nužan za ZK terete, stanje odnosa sa suvlasnikom i mogućnost otkupa ostatka.",
+  "flags": [
+    "1/2 suvlasničkog dijela – drugi suvlasnik ostaje",
+    "Kompleksna suvlasnička situacija – ograničeno raspolaganje",
+    "Moguće pravo prvokupa suvlasnika"
+  ],
+  "input_hash": "b17aa31d70fd",
+  "scored_at": "2026-04-20T12:54:53.522616"
+}

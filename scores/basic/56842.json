@@ -1,0 +1,17 @@
+{
+  "id": "56842",
+  "score_overall": 6.0,
+  "score_lokacija": 5.0,
+  "score_roi": 7.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Popust od 50% na drugoj dražbi za poslovnu zgradu u Čakovcu čini financijski ulaz izrazito atraktivnim, no poslovna namjena i manja međimurska lokacija ograničavaju likvidnost i mogućnosti prenamjene. Preporuča se fizički pregled i provjera tereta.",
+  "flags": [
+    "stečajni dužnik",
+    "poslovna namjena (ograničena prenamjena u stambeno)",
+    "stanje objekta nespecificirano",
+    "Čakovec — manja tržišna likvidnost"
+  ],
+  "input_hash": "fca122b845d2",
+  "scored_at": "2026-04-20T12:39:45.868069"
+}

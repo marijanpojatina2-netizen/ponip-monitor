@@ -1,0 +1,15 @@
+{
+  "id": "59427",
+  "score_overall": 4.5,
+  "score_lokacija": 4.0,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Bregana je pograničan maleni grad s niskom likvidnošću i ograničenom potražnjom, daleko od ključnih tržišnih centara. Popust od 20% na prvoj dražbi nije dovoljan za kompenzaciju slabe lokacije i skromnih izgleda za rast vrijednosti.",
+  "flags": [
+    "mala likvidnost (pograničje HR/SI)",
+    "prva dražba bez bonusa za popust"
+  ],
+  "input_hash": "e2cfc1ab43f4",
+  "scored_at": "2026-04-20T14:04:36.437292"
+}

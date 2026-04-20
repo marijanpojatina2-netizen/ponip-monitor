@@ -1,0 +1,16 @@
+{
+  "id": "59359",
+  "score_overall": 4.5,
+  "score_lokacija": 4.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Stan u Žitnjaku – industrijsko-radničkoj periferiji Zagreba s niskim investicijskim atraktivitetom; 20% popust na prvoj dražbi je minimalan za ulaz.",
+  "flags": [
+    "periferijska industrijska zona",
+    "mala stambena jedinica 38m²",
+    "nema opisa stanja"
+  ],
+  "input_hash": "af06aa056103",
+  "scored_at": "2026-04-20T14:08:09.742165"
+}

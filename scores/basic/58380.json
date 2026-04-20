@@ -1,0 +1,16 @@
+{
+  "id": "58380",
+  "score_overall": 4.5,
+  "score_lokacija": 6.0,
+  "score_roi": 4.0,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Zagreb lokacija (Klara, JZ Zagreb) privlačna, ali prodaje se isključivo 1/2 suvlasničkog udjela - kupac ne može samostalno upravljati niti prodati nekretninu bez suglasnosti drugog suvlasnika. Pravna kompleksnost eliminira standardne investicijske scenarije.",
+  "flags": [
+    "samo 1/2 suvlasničkog udjela - nemoguće samostalno raspolagati",
+    "svaka radnja zahtijeva suglasnost drugog suvlasnika",
+    "realna efektivna vrijednost udjela znatno niža od 99.200 EUR"
+  ],
+  "input_hash": "31cce2f2bd9d",
+  "scored_at": "2026-04-20T13:55:31.927333"
+}

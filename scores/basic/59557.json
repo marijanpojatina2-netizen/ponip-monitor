@@ -1,0 +1,16 @@
+{
+  "id": "59557",
+  "score_overall": 3.5,
+  "score_lokacija": 3.5,
+  "score_roi": 4.0,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Ruralna nekretnina u Pušći kraj Zaprešića s kućom i gospodarskom zgradom na prvoj dražbi s 20% popustom nema investicijskog imperativa - slaba likvidnost i skroman discount.",
+  "flags": [
+    "ruralna lokacija - ograničena likvidnost i turistički potencijal",
+    "gospodarska zgrada (gos. zg.) ograničava konverzijsku namjenu",
+    "prva dražba, svega 20% popusta - bez urgentnosti"
+  ],
+  "input_hash": "0f47569d83e6",
+  "scored_at": "2026-04-20T13:32:50.153941"
+}

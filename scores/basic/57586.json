@@ -1,0 +1,16 @@
+{
+  "id": "57586",
+  "score_overall": 6.5,
+  "score_lokacija": 7.0,
+  "score_roi": 8.0,
+  "score_stanje": 4.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Ilica 153 s 40% popustom na drugoj dražbi za 323 m2 kuće s dvorištem u Zagrebu je rijetka prilika koja zaslužuje duboku analizu - potencijal za parcelaciju, prenamjenu ili renovaciju je visok. Međutim prodaja obuhvaća samo 3/4 suvlasničkog dijela što je kritičan pravni problem koji može blokirati svaku dispoziciju nekretninom.",
+  "flags": [
+    "samo 3/4 suvlasničkog dijela - nije 100% vlasništvo",
+    "neodređeni suvlasnički omjer - pravna kompleksnost i blokirajući potencijal",
+    "etažno vlasništvo E-2 kombinirano sa suvlasništvom - potrebna detaljna analiza teretnog lista"
+  ],
+  "input_hash": "28173762b7fd",
+  "scored_at": "2026-04-20T13:15:25.754483"
+}

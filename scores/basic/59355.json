@@ -1,0 +1,16 @@
+{
+  "id": "59355",
+  "score_overall": 5.0,
+  "score_lokacija": 5.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća br. 8 (88 m²) s dvorištem 500 m² u Samoboru – lijepo gradsko središte blizu Zagreba s solidnom stambenom potražnjom, ali 310.000 EUR početna cijena za 88 m² kuću čini se skupo za samoborsko tržište. Prva dražba – preporuča se pratiti sljedeće runde radi boljeg ulaza.",
+  "flags": [
+    "mala stambena površina (88 m²) za visoku apsolutnu cijenu",
+    "Samobor – ograničena likvidnost pri izlazu",
+    "prva dražba – poželjno čekati sniženje na idućoj"
+  ],
+  "input_hash": "ad476bd0aba3",
+  "scored_at": "2026-04-20T12:38:16.442139"
+}

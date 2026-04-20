@@ -1,0 +1,14 @@
+{
+  "id": "59317",
+  "score_overall": 5.5,
+  "score_lokacija": 6.5,
+  "score_roi": 5.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Lokal 114 m2 u Novom Zagrebu ima solidnu lokacijsku podlogu i likvidnost zagrebačkog tržišta, ali 20% popust na prvoj dražbi ne opravdava agresivan nastup; suvlasnički dio s 'neodređenim omjerom' unosi pravni rizik koji treba razriješiti.",
+  "flags": [
+    "suvlasnički dio s neodređenim omjerom"
+  ],
+  "input_hash": "e8160f85edd8",
+  "scored_at": "2026-04-20T13:02:52.786801"
+}

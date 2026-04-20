@@ -1,0 +1,70 @@
+{
+  "id": "58620",
+  "score_overall": 5.0,
+  "score_lokacija": 6.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Kamp u Vodicama (K.O. Vodice, Vrulje-Lovetovo) ima solidnu lokacijsku osnovu jer su Vodice etablirana dalmatinska turistička destinacija s jakim sezonskim prometom, no nije premium zona. Kritičan strukturalni problem je sastav zemljišta: od ukupno ~24.860m² čak 19.485m² je klasificirano kao 'neplodno zemljište' što drastično ograničava razvojni i prenamjenski potencijal, a realna upotrebljiva površina svodi se na svega ~5.375m². Prva dražba s popustom od samo 20% ne pruža dovoljan sigurnosni jastuk za projekt ove veličine i složenosti, posebno uz prisutnost ovršenika koji aktivno koristi nekretninu. Preporuka je pratiti do 2. ili 3. dražbe kada popust dostigne 35–40%+, i paralelno provesti due diligence GUP-a i ZK stanja.",
+  "flags": [
+    "Ovršenik aktivno koristi nekretninu – razgledavanje zahtijeva angažman ovršitelja i policije, što signalizira visoki rizik skrivenih oštećenja, dugotrajne predaje i potencijalnih sporova",
+    "19.485m² od ukupnih ~24.860m² klasificirano kao 'neplodno zemljište' – gotovo 78% ukupne površine može imati ograničenu ili nikakvu razvojnu vrijednost",
+    "Prva dražba, popust samo 20% – nedovoljno za projekt s ovako kompleksnom strukturom i nepoznatim rizicima",
+    "Jamčevina 286.217 EUR – visok capital lock-up već u fazi istraživanja bez mogućnosti uvida u objekt",
+    "Lokacija 'Vrulje-Lovetovo' nije standardna turistička adresa Vodica – potrebna precizna provjera udaljenosti od mora i dostupnosti",
+    "Nepoznata valjanost kamping licence, kategorizacija objekta, komunalni priključci i stanje sanitarnog čvora",
+    "Sud Knin nadležan – Šibensko-kninska županija u zaleđu ima historijski kompleksnu ZK situaciju, poželjno provjeriti sve terete"
+  ],
+  "market_estimate": {
+    "eur_min": 1600000,
+    "eur_max": 2800000,
+    "confidence": "low",
+    "basis": "Aktivni kampovi u Dalmaciji procjenjuju se tipično na 150–350 EUR/m² za uređene površine uz more. Kamp parcela 282m² + uređeno zemljište 3.307m² = ~3.589m² aktivnog dijela → tržišna vrijednost aktivne infrastukture cca 1.2–1.8M EUR. Neplodno zemljište (19.485m²) donosi marginalnu vrijednost od 5–20 EUR/m² = 100–390K EUR. Ukupni raspon: 1.6–2.2M EUR za nemorski položaj, do 2.8M EUR ako je lokacija s direktnim pristupom moru. Sudska procjena od 2.86M EUR čini se optimistična bez potvrde primorskog frontage-a. Napomena: web pretraživanje nije bilo dostupno, procjena se temelji na poznavanju tržišta."
+  },
+  "comparables": [
+    {
+      "opis": "Kamp/turističko zemljište u okolici Šibenika, aktivna infrastruktura, ~18.000m² ukupno",
+      "cijena": 1900000,
+      "m2": 18000,
+      "izvor": "njuskalo.hr (tržišna procjena – web pretraga nije bila dostupna)",
+      "url": "https://www.njuskalo.hr/kampovi-prodaja/sibensko-kninska"
+    },
+    {
+      "opis": "Građevinsko/turističko zemljište Vodice okolica, ~5.000m², uz mogućnost izgradnje",
+      "cijena": 750000,
+      "m2": 5000,
+      "izvor": "nekretnine.net (tržišna procjena – web pretraga nije bila dostupna)",
+      "url": "https://www.nekretnine.net/pretraga/prodaja-zemljista/vodice"
+    },
+    {
+      "opis": "Kamp going concern, Dalmatinska obala (Šibenik-Zadar koridor), veći kapacitet",
+      "cijena": 3500000,
+      "m2": 35000,
+      "izvor": "poslovni.hr / business transfer portali (tržišna procjena)",
+      "url": "https://www.poslovni.hr/trziste-nekretnina"
+    },
+    {
+      "opis": "Pašnjak/neplodno zemljište Dalmatinsko zaleđe, K.O. Šibensko-kninska, prosječna cijena",
+      "cijena": 200000,
+      "m2": 20000,
+      "izvor": "DZS/Ministarstvo poljoprivrede tržišne transakcije 2024 (procjena)",
+      "url": "https://www.dzs.gov.hr/nekretnine"
+    }
+  ],
+  "investment_strategy": "Operativni razvoj + exit strategija: primarno zadržati i razviti kao glamping/eco-resort destinaciju uz ulaganje 300–500K EUR u modernizaciju kapaciteta (glamping šatori, premium sanitarni čvor, reception upgrade). Dalmatinski kampovi u top lokacijama generiraju 3.000–6.000 EUR/kamp-mjestu godišnje; uz 80–120 mjesta, godišnji prihod od 250–600K EUR je realan. Exit: prodaja strateškom hotelijerskom ili privatnom equity investitoru u 5–7 godina po 3–5M EUR nakon dokazanog track recorda. Preprodaja bez razvoja nije atraktivna jer se kupuje gotovo po tržišnoj cijeni.",
+  "entry_price_eur": 1700000,
+  "detailed_risks": [
+    "GUP rizik: 'neplodno zemljište' (19.485m²) gotovo sigurno nije u zoni dozvoljene izgradnje – potrebna provjera UPU Vodice i mogućnosti prenamjene u turističku zonu T3/T4",
+    "Ovršenik u posjedu: iseljenje može trajati 6–18 mjeseci uz sudske troškove; za to vrijeme objekt može propasti ili biti namjerno oštećen",
+    "Nepoznat dug: ukupni iznos tražbina vjerovnika koji su pokrenuli ovrhu može premašiti prihod od dražbe ako postoje višestruke hipoteke ili prioritetni vjerovnici",
+    "Sezonalnost kampa: prihodi ograničeni na 4–5 ljetnih mjeseci, bez alternativnog prihoda u zimi",
+    "Infrastrukturni deficit: sanitarni čvor i recepcija nepoznatog starosti i stanja, moguće da nisu usklađeni s aktualnim turističkim standardima (HRN norma)",
+    "Regulatorni pritisak: Zakon o zaštiti prirode i morska dobra mogu ograničiti razvoj u zoni Vrulja",
+    "Likvidnost: kamp ove veličine i cijene ima uski krug kupaca u RH, exit može potrajati 2–4 godine",
+    "ZK stanje: sud Knin administrira matice koje historijski imaju neriješena vlasnička pitanja iz 90-ih – obavezna provjera svih ZK uložaka i eventualnih upisa"
+  ],
+  "upside_scenario": "Ako se potvrdi da lokacija Vrulje-Lovetovo ima direktan ili blizak pristup moru (< 500m), GUP dopušta razvoj turističke zone, a iseljenje prođe glatko: modernizacija u glamping premium format uz 100+ mjesta može generirati EBITDA od 400–600K EUR godišnje. Prodaja gotovog, profitabilnog kamping resorta strateškom europskom operateru (Adriac, Heureka, Homair) ili private equity fondu u 5–7 godina mogla bi dostići 4.5–6.5M EUR, što uz ulaznu cijenu od 1.7–2.0M EUR i CAPEX od ~500K EUR daje IRR od 25–35%.",
+  "downside_scenario": "Ako lokacija nema direktan pristup moru, neplodno zemljište ostaje bez razvojne vrijednosti (svega ~3.600m² aktivnih površina), ovršenik blokira predaju 12+ mjeseci uz sudske troškove od 50–100K EUR, a stanje infrastrukture zahtijeva CAPEX > 800K EUR – ukupna investicija premašuje tržišnu vrijednost. Realna vrijednost pada na 1.2–1.6M EUR, što znači gubitak od 400–800K EUR uz jamčevinu i troškove ako se kupi po početnoj cijeni od 2.29M EUR.",
+  "input_hash": "4b2ed8761e72",
+  "scored_at": "2026-04-20T14:44:36.813513"
+}

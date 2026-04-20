@@ -1,0 +1,15 @@
+{
+  "id": "58928",
+  "score_overall": 4.0,
+  "score_lokacija": 4.5,
+  "score_roi": 4.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Donja Dubrava je rubna zagrebačka lokacija niske potražnje, a samo 20% popusta na prvoj dražbi uz nejasno definiran suvlasnički udio u starijim kućama ne opravdava angažman.",
+  "flags": [
+    "suvlasnički udio (kompleksnost kupnje i uknjižbe)",
+    "niža tržišna potražnja za lokacijom"
+  ],
+  "input_hash": "962d3d8f34a9",
+  "scored_at": "2026-04-20T12:52:48.739019"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "58174",
+  "score_overall": 5.5,
+  "score_lokacija": 5.5,
+  "score_roi": 7.5,
+  "score_stanje": 4.0,
+  "recommendation": "bid",
+  "reasoning": "Atraktivan 40% popust na drugoj dražbi za kuću s velikim dvorištem (270 čhv ≈ 960 m²) u Remetama donosi dobar potencijal za renovaciju ili prenamjenu, uz solidan Zagreb-kontekst.",
+  "flags": [
+    "staro stanje nekretnine, vjerojatno potrebna opsežna renovacija",
+    "stari katastarski zapisi u čhv - provjeri granice"
+  ],
+  "input_hash": "e01d7bcf3485",
+  "scored_at": "2026-04-20T12:52:48.738822"
+}

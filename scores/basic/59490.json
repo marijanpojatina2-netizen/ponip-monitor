@@ -1,0 +1,16 @@
+{
+  "id": "59490",
+  "score_overall": 5.0,
+  "score_lokacija": 4.5,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Poslovni prostor od 179 m2 u Čakovcu s 40% popustom na drugoj dražbi nudi povoljnu ulaznu cijenu, ali potkrovni lokal u manjem regionalnom centru ima strukturalno ograničenu potražnju za zakup i otežanu preprodaju.",
+  "flags": [
+    "poslovni prostor - ne stambeno, niža likvidnost",
+    "potkrovlje - atraktivnost upitna za poslovnu namjenu",
+    "ograničeno tržište Čakovec/Međimurje"
+  ],
+  "input_hash": "db7376e0d36c",
+  "scored_at": "2026-04-20T13:36:26.409250"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "58110",
+  "score_overall": 5.5,
+  "score_lokacija": 6.5,
+  "score_roi": 7.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "40% popust na drugoj dražbi u turističkom naselju na Velebitskom kanalu privlačan je s aspekta ROI-a, no izuzetno kompleksna struktura suvlasništva (prodaja 12/24 udjela triju ovršenika) nosi visoki pravni rizik i otežano upravljanje imovinom.",
+  "flags": [
+    "kompleksno suvlasništvo - prodaju se 12/24 udjela 3 ovršenika",
+    "prava ostalih suvlasnika mogu ometati korištenje i preprodaju",
+    "turističko-ugostiteljsko naselje - posebni propisi upravljanja kompleksom"
+  ],
+  "input_hash": "dc248f50972b",
+  "scored_at": "2026-04-20T14:06:55.687349"
+}

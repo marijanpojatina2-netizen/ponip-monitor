@@ -1,0 +1,16 @@
+{
+  "id": "59636",
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 4.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Babina Greda je depopulacijsko slavonsko selo s izuzetno slabom likvidnošću nekretnina i minimalnim investicijskim potencijalom; popust od 25% na prvoj dražbi nije dovoljan da kompenzira strukturne slabosti lokacije i gotovo nepostojeću potražnju.",
+  "flags": [
+    "depopulacijska zona - ruralna Slavonija",
+    "slaba tržišna likvidnost",
+    "minimalna turistička i najamna potražnja"
+  ],
+  "input_hash": "2eac4c544e33",
+  "scored_at": "2026-04-20T14:06:55.687073"
+}

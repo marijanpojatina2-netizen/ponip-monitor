@@ -1,0 +1,17 @@
+{
+  "id": "57857",
+  "score_overall": 5.5,
+  "score_lokacija": 5.5,
+  "score_roi": 7.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Druga dražba sa 40% popustom za 50% suvlasništvo u 1300 m² oranice u Sesvetama je cjenovno atraktivna, no oranica i nepoznati suvlasnik su ozbiljni zapreke za brzu realizaciju.",
+  "flags": [
+    "50% suvlasništvo - drugi 50% nije u dražbi, koordinacija neizvjesna",
+    "oranica - prostorni plan može blokirati gradnju",
+    "efektivno samo ~650 m² raspolaganja",
+    "bez ikakve građevine - čisto špekulativna vrijednost"
+  ],
+  "input_hash": "349480a64310",
+  "scored_at": "2026-04-20T13:32:50.153845"
+}

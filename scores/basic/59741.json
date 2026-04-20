@@ -1,0 +1,15 @@
+{
+  "id": "59741",
+  "score_overall": 4.0,
+  "score_lokacija": 4.0,
+  "score_roi": 4.0,
+  "score_stanje": 5.5,
+  "recommendation": "pass",
+  "reasoning": "Bjelovar je srednje tržište s ograničenom likvidnošću, a kompleksna suvlasnička struktura s četiri suvlasnika (ovrhovoditelj + 3 ovršenika) stvara značajne pravne rizike kod upravljanja, najma i preprodaje.",
+  "flags": [
+    "višestruko suvlasništvo – 4 suvlasnika (ovrhovoditelj 1/6 + 3 ovršenika)",
+    "složena pravna struktura – otežano raspolaganje"
+  ],
+  "input_hash": "1a5a064d6e46",
+  "scored_at": "2026-04-20T13:51:38.838861"
+}

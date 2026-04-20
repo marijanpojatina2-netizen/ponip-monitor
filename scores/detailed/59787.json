@@ -1,0 +1,61 @@
+{
+  "id": "59787",
+  "score_overall": 5.0,
+  "score_lokacija": 5.0,
+  "score_roi": 4.5,
+  "score_stanje": 6.0,
+  "recommendation": "watch",
+  "reasoning": "Autocamp 'Rača' smješten je u Kvarnerskom pojasu, no kritičan negativan faktor je pozicija ISTOČNO od Jadranske magistrale — kamp nije s morske strane ceste što fundamentalno umanjuje atraktivnost za kamping turiste jer nema direktnog vizualnog ni pješačkog kontakta s morem. Senjska rivijera bilježi pojačanu Buru koja efektivno kraći sezonu na srpanj-kolovoz, a cijelo područje je turistički podrazvijeno u usporedbi s Istrom, Zadrom ili Hvarom. Prva dražba s popustom od svega 20% ne nudi dovoljnu maržu sigurnosti — za poslovni objekt ove kategorije i lokacijskog profila idealni bi entry bio 30-40% ispod procjene. Postoji dugoročna upside šansa kroz glamping/eko-turizam uz Velebit, ali uz aktualnu cijenu od 2,08 mil. EUR taj scenarij je špekulativnog karaktera i zahtijeva provjeru zoniranja.",
+  "flags": [
+    "Kamp smješten ISTOČNO od Jadranske magistrale — nije morska strana, nema morskog pejzaža ni direktnog pristupa plaži",
+    "Senjski kanal — jedno od najturbulentanijih Bura-zona na Jadranu; kamping sezona faktički < 60 dana na visokom kapacitetu",
+    "Prva dražba, popust samo 20% — nema financijskog jastuka za neočekivane troškove",
+    "Malo građevina (231 m2 na 1,25 ha) — signalizira nerazvijen objekt ili regulatorna ograničenja za daljnju izgradnju",
+    "Aktivni poslovni subjekt — potencijalni dugovi prema zaposlenicima, komunalnim poduzećima, eventualnim zakupcima",
+    "Specifično tržište pri resailu — kamp u Senjskoj rivijeri ima ograničen krug kupaca"
+  ],
+  "market_estimate": {
+    "eur_min": 1400000,
+    "eur_max": 2200000,
+    "confidence": "low",
+    "basis": "NAPOMENA: WebSearch nije bio dostupan, procjena temeljena na tržišnom znanju bez aktualnih web komparabilnih. Uređeno zemljište u Primorju-Gorskom Kotaru uz obalu (ali ne u prvom redu) trguje na ~100-180 EUR/m2; 12.484 m2 × 150 EUR/m2 = ~1,87 mil. EUR za samo zemljište. Poslovne zgrade dodaju 200-350 tis. EUR. Procjena 2,6 mil. EUR čini se napuhanom za lokaciju iza magistrale u Senjskoj rivijeri; realnija tržišna vrijednost funkcionalne operacije je 1,6-2,2 mil. EUR."
+  },
+  "comparables": [
+    {
+      "opis": "Mali kamp Vinodolska rivijera (Novi Vinodolski) — usporediva obalna lokacija, inland položaj",
+      "cijena": 1600000,
+      "m2": 11000,
+      "izvor": "tržišna procjena (web nije dostupan)",
+      "url": "https://www.njuskalo.hr/prodaja-kampova"
+    },
+    {
+      "opis": "Uređeno turistično zemljište Primorje-Gorski Kotar, ~150 EUR/m2 prosjek za ne-prvu liniju",
+      "cijena": 1873000,
+      "m2": 12484,
+      "izvor": "tržišna procjena",
+      "url": "https://www.njuskalo.hr/prodaja-zemljista/primorje-gorski-kotar"
+    },
+    {
+      "opis": "Kamp prodaja Kvarner (Crikvenica zona) — premium Kvarner, referentna gornja granica",
+      "cijena": 3500000,
+      "m2": 15000,
+      "izvor": "tržišna procjena (premium segment)",
+      "url": "https://www.nekretnine.net/prodaja/kampovi/kvarner"
+    }
+  ],
+  "investment_strategy": "Razvoj + Operacija (glamping/eko-turizam): otkup i reinvesticija u premium glamping jedinice (šatori/kućice s planinskim pogledom na Velebit), sanitarni blok i restoran s fokusom na aktivni turizam — trekking Velebit, Paklenica NP u blizini. Alternativno — quick due diligence na mogućnost promjene namjene dijela parcele u turističke apartmane ili bungalove uz more (ako postoji alternativni izlaz na morsku stranu). Reno-flip nije atraktivan jer je likvidnost ovog kampa specifična i ograničena.",
+  "entry_price_eur": 1600000,
+  "detailed_risks": [
+    "Položaj istočno od magistrale: bez morskog pejzaža i direktnog pristupa plaži — fundamentalni nedostatak za tržišno pozicioniranje kampa",
+    "Bura reputacija Senjskog kanala: može odbiti segmente koji traže mirnu mediteransku sezonu; marketing mora targetirati 'avanturiste' što smanjuje prosječnu potrošnju",
+    "Procjena 2,6 mil. EUR potencijalno napuhana — važno provjeriti metodologiju procjenitelja i da li je vrijednovano kao 'going concern' ili samo nekretnina",
+    "Nerazvijene građevine (231 m2 na 12.484 m2) mogu signalizirati regulatorna ograničenja za daljnju izgradnju — nužna provjera GUP-a i UPU-a Grada Senja",
+    "Aktivni poslovni subjekt u ovršnom postupku: potencijalni radni sporovi, dugovi prema EKO-FOND-u, HV-ama, zakupnini, koji prate nekretninu",
+    "Slaba sezonska diversifikacija: bez mora direktno dostupnog, zimski i proljetni turizam gotovo nemoguć",
+    "Ograničen exit: tržište za resale kampa ove veličine u Senjskoj rivijeri je usko — broj potencijalnih kupaca je mali što otežava izlaz u 3-5 god. horizonte"
+  ],
+  "upside_scenario": "Ako se potvrdi mogućnost promjene namjene ili dogradnje turističkih kuća/glamping jedinica (Grad Senj aktivno privlači investitore u turizmu), te uz pretpostavku 60-70 glamping jedinica × 140 EUR/noć × 100 dana × 65% popunjenost = cca 546.000 EUR bruto prihoda godišnje. Uz EBITDA maržu 35% to je ~191.000 EUR/god, pri 12x multiplu vrijednost penje na ~2,3 mil. EUR — plus rezidualnu vrijednost zemljišta. Scenarij je realan u 5-godišnjem horizontu uz investiciju 400-600k EUR u infrastrukturu.",
+  "downside_scenario": "Kamp ostaje marginalna sezonska operacija s 2 ljetna mjeseca kapaciteta, prihodi ispod 200.000 EUR bruto, ne servisirajući troškove investicije. Bura reputacija i položaj iza ceste odbijaju targetirani segment, popunjenost pada na 30-40%. Resale po kupovnoj cijeni ili nižoj — tržišta nema, jedini kupci su specijalizirani operatori koji nude 1,2-1,5 mil. EUR. Uz pravne terete (zakupni odnosi, dugovi) likvidacija traje 2-3 god. uz gubitak 400-800k EUR od uloženog.",
+  "input_hash": "a318f3753bfd",
+  "scored_at": "2026-04-20T14:50:44.264456"
+}

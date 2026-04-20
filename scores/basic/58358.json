@@ -1,0 +1,15 @@
+{
+  "id": "58358",
+  "score_overall": 6.5,
+  "score_lokacija": 6.5,
+  "score_roi": 8.0,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Građevinsko zemljište 2740 m2 u Istri s 40% popustom na drugoj dražbi daje solidan ulaz s potencijalom razvoja, no neevidentirana služnost NN mreže u ZK zahtijeva pravnu provjeru prije licitacije.",
+  "flags": [
+    "neevidentirana služnost NN mreže u zemljišnoj knjizi",
+    "golo zemljište bez objekta - trošak gradnje"
+  ],
+  "input_hash": "1ff21bf70c2b",
+  "scored_at": "2026-04-20T13:36:26.408530"
+}

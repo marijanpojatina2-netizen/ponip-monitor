@@ -1,0 +1,15 @@
+{
+  "id": "56098",
+  "score_overall": 6.0,
+  "score_lokacija": 5.5,
+  "score_roi": 9.0,
+  "score_stanje": 3.0,
+  "recommendation": "deep_dive",
+  "reasoning": "75% popust na trećoj dražbi u Sesvetama iznimno je atraktivan s ROI aspekta, no potpuno nedostaju detalji o nekretnini što ukazuje na potencijalne skrivene probleme. Hitno provjeriti ZK izvadak, fizičko stanje i razlog enormnog popusta prije bilo kakve odluke.",
+  "flags": [
+    "minimalan opis - stanje i tip nekretnine potpuno nepoznati",
+    "treća dražba s 75% popustom - istražiti razlog (ruševina, spor, teret?)"
+  ],
+  "input_hash": "ad77e9386241",
+  "scored_at": "2026-04-20T12:49:08.580613"
+}

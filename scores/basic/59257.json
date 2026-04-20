@@ -1,0 +1,16 @@
+{
+  "id": "59257",
+  "score_overall": 7.0,
+  "score_lokacija": 8.5,
+  "score_roi": 7.0,
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Kuća u Malom Lošinju (Matije Gupca 30) za 286.400 EUR startna je izvanredna prilika na jednoj od najpoželjnijih hrvatskih otočkih destinacija - tržišne cijene Lošinj su znatno iznad, a turistička potražnja visoka.",
+  "flags": [
+    "1/4 suvlasništva na čestici kč.br. 2449 - istražiti je li to zajednički pristup/stepenice ili zasebna čestica",
+    "stanje objekta nepoznato - karakteristična stara gradnja, moguće renoviranje",
+    "prva dražba - realna mogućnost ulaska ispod tržišne vrijednosti"
+  ],
+  "input_hash": "a45686233be8",
+  "scored_at": "2026-04-20T12:41:35.307111"
+}

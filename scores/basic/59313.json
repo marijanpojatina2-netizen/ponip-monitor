@@ -1,0 +1,17 @@
+{
+  "id": "59313",
+  "score_overall": 4.5,
+  "score_lokacija": 3.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Kombinirani objekt s benzinskom pumpom, dva stambeno-poslovna objekta i dvorištem na 2773 m2 u Bereku/Garešnici je operativno zanimljiv, ali lokacija (Bjelovarsko-bilogorska županija, ruralno) ograničava potencijal rasta vrijednosti. Ekološki rizik od kontaminacije tla uz pumpu i provjera operativnosti pumpe su kritični koraci due diligence.",
+  "flags": [
+    "benzinska pumpa - obavezna provjera ekoloških dozvola i moguće kontaminacije tla",
+    "provjera posluje li pumpa aktivno ili je zatvorena",
+    "Berek/Garešnica - ograničena likvidnost i demografski trend",
+    "provjera komunalne opremljenosti i priključaka"
+  ],
+  "input_hash": "dc096923b810",
+  "scored_at": "2026-04-20T12:58:37.603955"
+}

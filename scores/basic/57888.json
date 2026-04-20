@@ -1,0 +1,16 @@
+{
+  "id": "57888",
+  "score_overall": 4.5,
+  "score_lokacija": 5.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Barić Draga je atraktivna obalna Lika lokacija s potencijalom, a 40% popust na drugoj dražbi je primamljiv - ali opis je izrazito minimalan (590 m² s 'objektom' bez ikakvog detalja o stanju), što znači visok rizik skrivenih troškova.",
+  "flags": [
+    "izrazito minimalan opis - nepoznato stvarno stanje objekta",
+    "izolirana nepristupačna lokacija, slaba infrastruktura",
+    "potreban teren pregled prije bilo kakve licitacije"
+  ],
+  "input_hash": "0aaef48f64f0",
+  "scored_at": "2026-04-20T12:50:46.292389"
+}

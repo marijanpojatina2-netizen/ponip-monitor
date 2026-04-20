@@ -1,0 +1,17 @@
+{
+  "id": "57277",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Unatoč 50% popustu na drugoj dražbi, Slavonski Šamac je depopulacijsko ruralno područje s gotovo nultom likvidnošću, a industrijska/gospodarska imovina bez jasne namjene nema realnog investicijskog izlaza.",
+  "flags": [
+    "industrijska/gospodarska namjena (nije stambeno)",
+    "depopulacijsko područje - ruralna Slavonija uz granicu BiH",
+    "ekstremno niska tržišna likvidnost",
+    "stečajni postupak (Trgovački sud)"
+  ],
+  "input_hash": "a93d88950121",
+  "scored_at": "2026-04-20T12:52:48.739172"
+}

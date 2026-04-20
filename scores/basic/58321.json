@@ -1,0 +1,17 @@
+{
+  "id": "58321",
+  "score_overall": 2.0,
+  "score_lokacija": 1.5,
+  "score_roi": 2.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica i dvorište u Jasenovcu - jedno od najtežih depopulacijskih područja Hrvatske bez ikakvog investicijskog potencijala. 20% popust na prvoj dražbi daleko je od kompenzacije za gotovo nultu likvidnost tržišta.",
+  "flags": [
+    "Jasenovac - ekstremno depopulacijsko ruralno područje",
+    "oranica bez stambene/poslovne vrijednosti",
+    "praktički nulta tržišna likvidnost",
+    "agricolno zemljište - ograničena prenamjena"
+  ],
+  "input_hash": "6301ddd75b74",
+  "scored_at": "2026-04-20T13:06:27.646685"
+}

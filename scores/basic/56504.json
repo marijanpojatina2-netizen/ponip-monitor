@@ -1,0 +1,16 @@
+{
+  "id": "56504",
+  "score_overall": 6.5,
+  "score_lokacija": 8.5,
+  "score_roi": 7.5,
+  "score_stanje": 3.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Oranice u Vrbniku na Krku uz 50% popust na drugoj dražbi izuzetno su atraktivne – zemlja na Krku rijetko dolazi na tržište po ovakvim cijenama (~61 EUR/m2). Ključni rizik je agrikulturna namjena i zabrana gradnje, ali lokacija opravdava detaljnu analizu GUP/UPU Vrbnika za mogućnost prenamjene.",
+  "flags": [
+    "oranica – agrikulturna namjena, zabrana gradnje do promjene namjene",
+    "potrebna provjera UPU Vrbnika za moguće prenamjene ili legalizaciju",
+    "bez izgrađene infrastrukture na parcelama"
+  ],
+  "input_hash": "600f5fa306d1",
+  "scored_at": "2026-04-20T14:20:40.101620"
+}

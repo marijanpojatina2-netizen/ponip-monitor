@@ -1,0 +1,16 @@
+{
+  "id": "59251",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Pitomača je duboka ruralna Slavonija s izraženom depopulacijom i minimalnom likvidnošću tržišta; staja i skladište na 5818 m2 bez stambene komponente nema realnog izlaza za investitora. Svega 20% popusta na prvoj dražbi ne kompenzira strukturalni rizik lokacije.",
+  "flags": [
+    "ruralno/depopulacijsko područje Slavonije",
+    "nestambeni objekt (staja, skladište) - ograničena prenamjena",
+    "niska tržišna likvidnost regije"
+  ],
+  "input_hash": "3d0acd399f6a",
+  "scored_at": "2026-04-20T12:58:37.602450"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "59668",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Ruralna imovina u depopulacijskom području Garešnice s agrarnom namjenom i štalom nema realnog investicijskog potencijala, a 20% popust na prvoj dražbi je daleko ispod prihvatljivog praga za ovako nelikvidno tržište.",
+  "flags": [
+    "depopulacijsko područje Bilogore",
+    "agrarno-ruralna namjena",
+    "staja za muzne krave - specifična namjena",
+    "izrazito niska tržišna likvidnost"
+  ],
+  "input_hash": "5634851fb04e",
+  "scored_at": "2026-04-20T13:36:26.408881"
+}

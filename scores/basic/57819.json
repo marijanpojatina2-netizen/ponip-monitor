@@ -1,0 +1,16 @@
+{
+  "id": "57819",
+  "score_overall": 6.5,
+  "score_lokacija": 6.0,
+  "score_roi": 7.5,
+  "score_stanje": 6.0,
+  "recommendation": "bid",
+  "reasoning": "Šašinovec/Sesvete (Zagreb) - kuća prizemlje+kat 78,90 m² s dvorištem 405 m² po 105.000 EUR (40% popust, druga dražba) atraktivan je ulaz ispod tržišne vrijednosti za zagrebačko predgrađe; provjeriti drugi etažni vlasnik.",
+  "flags": [
+    "suvlasnički dio 54.66/100 - postoji drugi etažni vlasnik (E-2)",
+    "provjeriti faktično stanje objekta i pristup",
+    "Prepuštovečki odvojak - provjeriti infrastrukturu"
+  ],
+  "input_hash": "d5ebbd373b23",
+  "scored_at": "2026-04-20T13:21:03.132768"
+}

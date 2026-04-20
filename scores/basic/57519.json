@@ -1,0 +1,16 @@
+{
+  "id": "57519",
+  "score_overall": 4.0,
+  "score_lokacija": 3.0,
+  "score_roi": 5.5,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "40% popust na drugoj dražbi jedina je atraktivna strana - radi se o isključivo agrarnom i gospodarskom objektu u dubokoj ruralnoj zoni bez rezidencijalnog ili turističkog potencijala. Visok popust sugerira da tržište ne prepoznaje vrijednost, a niska potražnja čini exit strategiju neizvjesnom.",
+  "flags": [
+    "isključivo oranica + gospodarski objekt",
+    "niska likvidnost (duboka ruralna zona, k.o. Cerje Tužno)",
+    "nema rezidencijalnog ni turističkog potencijala"
+  ],
+  "input_hash": "1271501c2e22",
+  "scored_at": "2026-04-20T14:04:36.437873"
+}

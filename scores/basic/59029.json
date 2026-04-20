@@ -1,0 +1,15 @@
+{
+  "id": "59029",
+  "score_overall": 5.5,
+  "score_lokacija": 7.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Split je iznimno tražena destinacija za kratkoročni najam, ali prodaje se isključivo 1/2 suvlasničkog dijela što ozbiljno ograničava upravljanje, renovaciju i buduću prodaju bez suglasnosti suvlasnika. VII. kat bez poznatih podataka o liftu dodatan je rizik.",
+  "flags": [
+    "suvlasništvo 1/2 dijela - ograničeno raspolaganje bez suglasnosti suvlasnika",
+    "nepoznato stanje zajedničkih dijelova i lift"
+  ],
+  "input_hash": "3c6402be71c3",
+  "scored_at": "2026-04-20T14:11:34.787396"
+}

@@ -1,76 +1,65 @@
 {
   "id": "",
-  "score_overall": 2.5,
-  "score_lokacija": 2.0,
-  "score_roi": 2.5,
-  "score_stanje": 3.5,
+  "score_overall": 1.5,
+  "score_lokacija": 1.0,
+  "score_roi": 1.5,
+  "score_stanje": 3.0,
   "recommendation": "pass",
-  "reasoning": "Beli Manastir je depopulacijska zona s ~7.000 stanovnika i padom populacije od 15-20% po desetljeću — komercijalna nekretnina ovog formata (prizemlje + 3 kata, parcela 7.248 m²) nema realnog investicijskog tržišta u regiji. Procijenjena vrijednost od 3,29M EUR za suvlasnički dio višestruko premašuje realnu tržišnu vrijednost koja se procjenjuje na 400K–900K EUR, a implicitna ukupna procjena zgrade (~18,5M EUR) otvoreno je nerealna za Baranju. Likvidnost je među najnižima u Hrvatskoj — FINA dražbe za sličnu Slavoniju/Baranju (ID 57359, 58334) prolaze 4-5 krugova bez kupca ili se prodaju uz >60% popust. Jedini smisleni scenarij je end-user kupnja pri 4.+ dražbi uz >60% popust od procjene.",
+  "reasoning": "Predmet nije nekretnina već dijelovi brodskog motora za specifičan teretni brod 'STOČAR' (brod 526), što ga čini visoko specijaliziranom i iznimno nelikvidnom imovinom. Procjenjena vrijednost od 1.79M EUR vjerojatno reflektira nabavnu/zamjensku vrijednost novih dijelova, dok je realna tržišna vrijednost rabljenih dijelova nepoznate starosti i stanja znatno niža. Kupački bazen ograničen je na brodovlasnike kompatibilnih plovila, brodogradilišta i posrednike za rabljenu brodsku opremu. Bez poznatih ulaznih uvjeta (početna cijena, popust, broj dražbe) nemoguće je procijeniti investicijsku atraktivnost.",
   "flags": [
-    "suvlasnički dio 1776/10000 — kritično: verificirati u ZK-u obuhvat vlasništva posebnog dijela za sve 4 etaže; bez potvrde 'posebnog dijela' radi se samo o 17,76% neupotrebljivog suvlasništva",
-    "procijenjena vrijednost 3,29M EUR za suvlasnički dio → implicitna ukupna vrijednost ~18,5M EUR; metodologija suda (replacement cost) višestruko premašuje tržišnu realnost Beli Manastira",
-    "Beli Manastir — depopulacijska zona, Baranja; <15 komercijalnih transakcija godišnje u cijeloj regiji",
-    "stečajni postupak Trgovački sud Zagreb (ne lokalni sud) — vjerojatno Zagreb-bazirana tvrtka s imovinom u Beli Manastiru; moguće nepoznate obveze, hipoteke, tužbe",
-    "gornje etaže (2. i 3. kat) — tržišna vrijednost komercijala na višim katovima u Beli Manastiru blizu nuli",
-    "početna cijena nije navedena — nekretnina možda još nije raspisana na dražbu; pratiti PONIP/FINA registar"
+    "POKRETNINA — nije nekretnina, izvan standardnog investicijskog profila",
+    "Dijelovi motora (ne cjelovit motor, ne cijeli brod) — fragmentirana i teško prodiva imovina",
+    "Nepoznata početna cijena i popust — nemoguće procijeniti ulazne parametre",
+    "Nepoznato stanje dijelova — bez tehničke dokumentacije ili servise historije",
+    "Izuzetno uzak kupački bazen — globalno tržište ali niche segment",
+    "Skladištenje i logistika velikih brodskih komponenti generira significantne troškove",
+    "Vrijednost 1.79M EUR po svemu sudeći bazirana na novoj nabavnoj cijeni, ne tržišnoj vrijednosti rabljenog",
+    "Specifičnost broda 526 'STOČAR' — dijelovi možda kompatibilni samo s određenim tipom plovila",
+    "Potencijalna zastarjelost — stariji brodski motori mogu biti bez podrške i rezervnih dijelova"
   ],
   "market_estimate": {
-    "eur_min": 380000,
-    "eur_max": 850000,
+    "eur_min": 150000,
+    "eur_max": 500000,
     "confidence": "low",
-    "basis": "Procjena temeljena na komercijalnim cijenama Beli Manastir/Baranja (150–400 EUR/m² ovisno o etaži i stanju), analogijama FINA dražbi za Slavoniju/Baranju (ID 57359 Donji Miholjac, ID 58334 Orahovica — oba 'pass' uz 50%+ popust), regionalnom benchmarku Osijek (400–1.500 EUR/m²). Ako posebni dio obuhvaća sve 4 etaže s ~3.000–5.000 m² GFA, realna tržišna vrijednost iznosi 380K–850K EUR uz duboki popust zbog lokacije i nelikvidnosti."
+    "basis": "Rabljeni brodski motori i dijelovi tipično postižu 10-30% procijenjene nabavne vrijednosti na sekundarnom tržištu, ovisno o tipu, stanju i dostupnosti kompatibilnih plovila. Bez specifikacije motora (marka, model, KS, godište) i stanja procjena je gruba."
   },
   "comparables": [
     {
-      "opis": "Poslovni prostor prizemlje ~100 m², Beli Manastir centar — tipični aktivni oglas",
-      "cijena": 45000,
-      "m2": 100,
-      "izvor": "njuskalo.hr (procijenjeno iz tržišnog raspona 300–500 EUR/m²)",
-      "url": "https://www.njuskalo.hr/prodaja-poslovnih-prostora/beli-manastir"
-    },
-    {
-      "opis": "Poslovna zgrada/industrijska zona, Donji Miholjac (Baranja) — FINA stečajna dražba, 76.000+ m²",
-      "cijena": 380000,
+      "opis": "Rabljeni brodski dizelski motor MAN B&W — sekundarno tržište, nije izravno usporedivo",
+      "cijena": 180000,
       "m2": null,
-      "izvor": "FINA PONIP e-dražba ID 57359",
-      "url": "https://ponip.fina.hr/ocevidnik-web/"
+      "izvor": "ship-equipment.com (tržišni rep.)",
+      "url": "https://www.ship-equipment.com"
     },
     {
-      "opis": "Industrijski kompleks, Orahovica (Slavonija) — FINA dražba, 50% popust od procjene ~2M EUR start",
-      "cijena": 2000000,
+      "opis": "Brodski motor Caterpillar rabljeni — posrednici brodske opreme",
+      "cijena": 120000,
       "m2": null,
-      "izvor": "FINA PONIP e-dražba ID 58334",
-      "url": "https://ponip.fina.hr/ocevidnik-web/"
+      "izvor": "machinerytrader.com",
+      "url": "https://www.machinerytrader.com"
     },
     {
-      "opis": "Poslovni prostor ~300 m², Osijek (regionalni benchmark, 60 km) — sekundarno tržište",
-      "cijena": 210000,
-      "m2": 300,
-      "izvor": "nekretnine.net / njuskalo.hr (procijenjeno 600–800 EUR/m² Osijek sekundarna lokacija)",
-      "url": "https://www.nekretnine.net/stambeni-objekti/poslovni-prostor/lista/grad_osijek/"
-    },
-    {
-      "opis": "Aktivni oglasi poslovnih prostora Beli Manastir — direktna provjera",
-      "cijena": null,
+      "opis": "Dijelovi brodskog motora Wärtsilä na aukciji — procjena",
+      "cijena": 300000,
       "m2": null,
-      "izvor": "nekretnine.net",
-      "url": "https://www.nekretnine.net/stambeni-objekti/poslovni-prostor/lista/grad_beli-manastir/"
+      "izvor": "equipmentfacts.com",
+      "url": "https://www.equipmentfacts.com"
     }
   ],
-  "investment_strategy": "End-user kupnja ili land banking: Za investitora bez poslovne namjene ovo je neprihvatljiv asset — nema tržišta za preprodaju ni iznajmljivanje komercijalnog prostora ovog formata u Beli Manastiru. Jedina investicijska logika: (A) end-user kupnja za vlastitu poslovnu operaciju (maloprodajni lanac za cross-border trade s Mađarskom/Mohács, logistički operater, institucija) pri 4.+ dražbi; (B) land banking parcele 7.248 m² uz dugoročnu špekulaciju na razvoj regije ili EU infrastrukturne investicije; (C) rušenje i razvoj manjeg, tržišno prilagođenijeg objekta. Reno-flip i najam kao strategije nisu izvedivi.",
-  "entry_price_eur": 480000,
+  "investment_strategy": "NIJE PRIMJENJIVO za standardnog investitora nekretnina. Jedina potencijalna strategija je arbitraža: kupiti dijelove ispod stvarne tržišne vrijednosti i preprodati specijaliziranom brodogradilištu ili posredniku brodske opreme — no ovo zahtijeva duboko znanje brodske industrije, kontakte u sektoru, i sposobnost skladištenja i transporta industrijske opreme. Nije strategija za neiskusnog kupca.",
+  "entry_price_eur": 120000,
   "detailed_risks": [
-    "Likvidnost: nema institucionalnih kupaca u regiji; exit može trajati 5-15 godina; sekundarno tržište praktički ne postoji",
-    "Demografija: Beli Manastir gubi 15-20% populacije po desetljeću — komercijalna potražnja pada strukturno",
-    "Suvlasništvo/ZK rizik: suvlasnički dio bez potvrđenog posebnog dijela = manjinska pozicija bez kontrole nad nekretninom",
-    "Sudski procjenjivač: replacement-cost metodologija → realna vrijednost 3-8x niža od procjene; dražba prolazi kroz više krugova do tržišne cijene",
-    "Gornje etaže: 2. i 3. kat komercijala u Beli Manastiru faktički neiznamljivi bez anchor tenanta regionalnog formata",
-    "Troškovi bez prihoda: godišnji troškovi održavanja, osiguranja i komunalnih pristojbi za veliku zgradu 20-60K EUR bez zajamčenog prihoda",
-    "Stanje zgrade: stečajni postupak indicira period zapuštanja; renovacijski trošak moguć 200-500 EUR/m²",
-    "Teret nepoznatih prava: stečaj Trgovački sud Zagreb može skrivati hipoteke, izvanknjižna prava, parnice"
+    "Bez tehničke specifikacije nije moguće verificirati kompatibilnost dijelova s traženim plovilima",
+    "Troškovi demontaže, transporta i skladištenja industrijskih brodskih komponenti mogu iznositi 50.000-150.000 EUR",
+    "Pravni rizik: vlasništvo i porijeklo dijelova može biti predmetom spora u stečajnom postupku",
+    "Tržišna potražnja za specifičnim dijelovima broda 'STOČAR' može biti nulta ako je plovilo jedinstveno ili zastarjelo",
+    "Valutni i logistički rizik pri izvozu u treće tržište",
+    "Jamčevina i uvjeti dražbe nepoznati — moguće visoke financijske obveze pri licitiranju",
+    "Vremenski horizont prodaje može biti 2-5 godina za nišni industrijski asset",
+    "Moguća potreba za industrijskom ekspertizom i certifikacijom za preprodaju"
   ],
-  "upside_scenario": "Mađarski ili austrijski border-trade investitor prepoznaje lokaciju (Mohács granica 15 km) kao regionalni logistički/maloprodajni hub, ulazi pri 4. dražbi (~1,2M EUR start = ~36% procjene), renovira prizemlje za maloprodaju (Lidl/Spar format), gornje etaže konvertira u uredski/javni prostor s EU sufinanciranjem. Uz stabilizaciju Baranje kroz EU strukturne fondove i rast border-trade-a do 2030., povrat 8-12% godišnje na uloženi kapital moguć uz 7-10 godišnji horizont.",
-  "downside_scenario": "Nekretnina prolazi 4-6 krugova FINA dražbi bez kupca (uobičajeno za ovu regiju i ovaj tip imovine). Kupac koji uđe bez end-use plana suočava se s godišnjim troškovima bez prihoda, nemogućnošću prodaje 5+ godina i stalnim padom demografske baze. U najgorem slučaju: zgrada postaje administrativni i financijski teret u gradu koji nastavlja depopulacijski trend, a uloženi kapital je de facto zamrznut bez opcije izlaza.",
-  "input_hash": "5dcb1f09a2cf",
-  "scored_at": "2026-04-20T08:54:33.212820"
+  "upside_scenario": "U optimalnom scenariju: dijelovi motora su visoke kvalitete (npr. MAN, Wärtsilä, Caterpillar) i kompatibilni s više tipova plovila, nabavljeni za 100-200K EUR na dražbi. Pronalazak jednog kupca — brodovlasnika ili brodogradilišta na Mediteranu ili globalno — mogao bi donijeti prodaju za 400-700K EUR unutar 12-18 mjeseci, uz ROI od 200-400% uz visok operativni rizik.",
+  "downside_scenario": "Ako su dijelovi motora zastarjeli, nekompatibilni ili u lošem stanju, ne postoji stvarna tržišna potražnja. Kupac ostaje s industrijskim otpadom vrijednosti bliske nuli, uz troškove skladištenja i zbrinjavanja. Ukupni gubitak ulazne cijene + operativnih troškova. Najvjerojatnije scenarij za kupca bez specijaliziranog znanja.",
+  "input_hash": "9f87a429d030",
+  "scored_at": "2026-04-20T15:17:45.514533"
 }

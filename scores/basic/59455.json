@@ -1,0 +1,17 @@
+{
+  "id": "59455",
+  "score_overall": 3.5,
+  "score_lokacija": 3.0,
+  "score_roi": 3.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Kompleksan portfelj raznih čestica (oranice, šume, pašnjaci + gospodarska zgrada) u ruralnom Krnjaku blizu Karlovca - loša likvidnost i teška konverzija, 20% popust ne opravdava ulazak.",
+  "flags": [
+    "ruralno depopulacijsko područje (Krnjak)",
+    "kompleksan portfelj - 12+ čestica u dvjema k.o.",
+    "gospodarska zgrada - teška za konverziju u rezidencijalnu namjenu",
+    "slaba tržišna likvidnost Karlovac periferija"
+  ],
+  "input_hash": "e2ec4b1f6ab0",
+  "scored_at": "2026-04-20T12:41:35.306538"
+}

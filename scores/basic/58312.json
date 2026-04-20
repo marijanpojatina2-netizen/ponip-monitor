@@ -1,0 +1,15 @@
+{
+  "id": "58312",
+  "score_overall": 4.0,
+  "score_lokacija": 5.5,
+  "score_roi": 4.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "40% popust i druga dražba privlačni su, ali zgrada nije uplanjena u katastarski operat niti postoji akt o dozvoli građenja ili uporabe što predstavlja teški legalizacijski i pravni rizik. Solin nema dovoljno turističke premije da kompenzira te rizike.",
+  "flags": [
+    "zgrada nije uplanjena u katastarski operat",
+    "nema akta o dozvoli građenja ni uporabe - legalizacijski rizik"
+  ],
+  "input_hash": "df4972648931",
+  "scored_at": "2026-04-20T12:49:08.580399"
+}

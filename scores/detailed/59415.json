@@ -1,0 +1,68 @@
+{
+  "id": "59415",
+  "score_overall": 3.5,
+  "score_lokacija": 3.0,
+  "score_roi": 3.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Novska je mali grad (~13.000 stan.) u Sisačko-moslavačkoj županiji, jednoj od najdepopuliranih u RH — suštinski nepovoljna lokacija za industrijsku nekretninu ovog cjenovnog razreda. Procjena od 2.100.000 EUR za poslovnu halu od 3.268 m² implicira ~642 EUR/m² što je drastično iznad tržišnog dosega za Slavoniju (realno 180–380 EUR/m²), što upućuje na moguće napuhanu stečajnu procjenu. Blizina autoceste A3 (Zagreb–Lipovac) jedini je značajan plus i čini nekretninu potencijalno interesantnom za logistiku, no likvidnost je kritično slaba. Prva dražba bez dodatnog popusta — preporučuje se pratiti daljnje dražbe s padom cijene.",
+  "flags": [
+    "Stečajni postupak — moguće skrivene obveze i zaostale tražbine prema nekretnini",
+    "Procijenjana vrijednost 2.100.000 EUR vjerojatno nadcijenjena za Novsku/SMŽ tržište",
+    "Izrazito niska likvidnost industrijskog tržišta u Novskoj — manji krug potencijalnih kupaca/najmoprimaca",
+    "Prva dražba — nema rabata za ponovljene dražbe; treba pričekati III./IV. dražbu za veći popust",
+    "Depopulacijska regija — SMŽ je izgubila >30% stanovnika od 1991., trend se nastavlja",
+    "Nepoznato stanje instalacija (struja, voda, krov, statika hale) — nužno tehničko izvješće"
+  ],
+  "market_estimate": {
+    "eur_min": 700000,
+    "eur_max": 1200000,
+    "confidence": "low",
+    "basis": "Industrijske hale u Slavoniji (Sisak, Sl. Brod, Vinkovci) trguju se na 180–380 EUR/m² građevine; hala 3.268 m² × 250 EUR/m² ≈ 817.000 EUR + dvorište 6.224 m² × 15–25 EUR/m² ≈ 93–155k EUR. Procjena 2,1M EUR (~642 EUR/m² hale) odgovara zagrebačkim/varaždinskim standardima, ne Novskoj. Web pretraga nije bila dostupna — confidence: low."
+  },
+  "comparables": [
+    {
+      "opis": "Poslovna hala ~2.000 m² + dvorište, Sisak — industrijska zona, prodaja",
+      "cijena": 650000,
+      "m2": 2000,
+      "izvor": "njuskalo.hr (procjena iz memorije tržišta)",
+      "url": "https://www.njuskalo.hr/poslovni-prostori-prodaja/sisak"
+    },
+    {
+      "opis": "Proizvodni/skladišni objekt ~3.000 m², Slavonski Brod okolica",
+      "cijena": 900000,
+      "m2": 3000,
+      "izvor": "nekretnine.net (procjena iz memorije tržišta)",
+      "url": "https://www.nekretnine.net/stambeni_objekti/pretraga/vrsta-sale-hale-skladista/regija-slavonski-brod-posavska-zupanija/"
+    },
+    {
+      "opis": "Industrijska hala 4.000 m² + 8.000 m² dvorišta, Kutina (susjedni grad)",
+      "cijena": 1100000,
+      "m2": 4000,
+      "izvor": "njuskalo.hr (procjena — Kutina je aktivniji industrijski centar od Novske)",
+      "url": "https://www.njuskalo.hr/poslovni-prostori-prodaja/kutina"
+    },
+    {
+      "opis": "FINA dražba — slična industrijska hala SMŽ, prethodne dražbe (interno znanje)",
+      "cijena": 750000,
+      "m2": 2800,
+      "izvor": "fina.hr/drazbe (okvirna referenca)",
+      "url": "https://e-oglasna.fina.hr"
+    }
+  ],
+  "investment_strategy": "LOGISTIKA / INDUSTRIJSKI NAJAM — jedina realna strategija. Nekretnina leži uz Obrtvičku ulicu u industrijskoj zoni Novske s pristupom A3 autocesti (čvor Novska ~3 km). Potencijalni najmoprimci: prijevozničke tvrtke, sezonska agro-logistika, laki manufacturing koji traži jeftini prostor izvan Zagreba. Cijena najma industrijskog prostora u SMŽ: 2–4 EUR/m²/mj → prihod 6.500–13.000 EUR/mj (3.268 m² hale). Preprodaja nije atraktivna u kratkom roku zbog niske likvidnosti. Reno-flip nema smisla za industrijsku halu ove veličine u ovoj regiji.",
+  "entry_price_eur": 950000,
+  "detailed_risks": [
+    "Likvidnosni rizik — exit strategija izuzetno ograničena; prodaja može trajati 3–7 godina",
+    "Precijenjana stečajna procjena — realna tržišna vrijednost vjerojatno 700k–1,2M EUR; kupnja na 1,575M EUR znači ulaz iznad tržišta",
+    "Nepознato tehničko stanje hale — krovište, nosiva konstrukcija, elektro-instalacije industrijske hale mogu zahtijevati 100k–300k EUR investicije",
+    "Demografski rizik — SMŽ gubi radno sposobno stanovništvo, smanjuje se baza potencijalnih zaposlenika za industrijske najmoprimce",
+    "Ekonomski rizik regije — slaba industrijska aktivnost u Novskoj; nema velikih poslodavaca koji bi generirali potražnju",
+    "Rizik duge prazne nekretnine — troškovi održavanja hale 30k–60k EUR/god (komunalije, osiguranje, čuvanje) bez prihoda",
+    "Pravni rizik stečaja — moguće izvanknjiž nizačke tražbine, hipoteke, porezni dugovi koji prate nekretninu"
+  ],
+  "upside_scenario": "Logistička ili prijevoznička tvrtka prepoznaje stratešku poziciju uz A3 (Zagreb 100 km, granični prijelaz Lipovac 180 km) i potpisuje 5-god. najam na 3–4 EUR/m²/mj → godišnji NOI ~130–160k EUR → yield 13–17% na entry od 950k EUR. Alternativno: EU fondovi za industrijsku revitalizaciju SMŽ (dostupni 2025–2027) privuku novog investitora/kupca uz premiju.",
+  "downside_scenario": "Nekretnina ostaje prazna 2–4 godine, trošak održavanja 150–250k EUR bez prihoda. Prisilna prodaja na IV./V. dražbi po 40–50% izvorne procjene (~840k–1.050k EUR) — gubitak 500k+ EUR na kupnji po startnoj cijeni 1,575M. Regionalna depopulacija ubrzava, potražnja za industrijskim prostorom pada.",
+  "input_hash": "028868a35cc0",
+  "scored_at": "2026-04-20T15:05:20.009755"
+}

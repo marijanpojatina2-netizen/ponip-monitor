@@ -1,0 +1,15 @@
+{
+  "id": "59341",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Vinkovci su duboko depopulacijsko područje s vrlo niskom likvidnošću nekretnina, a suvlasništvo bez definiranog udjela dodaje ozbiljan pravni i operativni rizik; 20% popust na prvoj dražbi daleko je ispod praga koji bi opravdao ulazak.",
+  "flags": [
+    "suvlasništvo - udio nije definiran",
+    "depopulacijsko područje - niska likvidnost"
+  ],
+  "input_hash": "4cbc17c82334",
+  "scored_at": "2026-04-20T13:02:52.786919"
+}

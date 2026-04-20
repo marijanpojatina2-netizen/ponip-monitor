@@ -1,0 +1,16 @@
+{
+  "id": "58394",
+  "score_overall": 3.0,
+  "score_lokacija": 3.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Pašnjak u ruralnom naselju Žedno bez razvojne perspektive i komunalne infrastrukture; prva dražba s minimalnim popustom od 20% ne kompenzira nisku likvidnost poljoprivrednog zemljišta u toj mikrolokaciji.",
+  "flags": [
+    "pašnjak - ograničena namjena i razvojna perspektiva",
+    "ruralno područje - slaba likvidnost",
+    "nema komunalne infrastrukture"
+  ],
+  "input_hash": "ad1db50a2c58",
+  "scored_at": "2026-04-20T13:17:07.675665"
+}

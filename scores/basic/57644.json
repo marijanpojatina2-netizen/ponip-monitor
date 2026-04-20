@@ -1,0 +1,15 @@
+{
+  "id": "57644",
+  "score_overall": 7.0,
+  "score_lokacija": 4.5,
+  "score_roi": 8.0,
+  "score_stanje": 6.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Druga dražba s 40% popustom daje mješoviti poslovni+stambeni objekt (307m2 etažnog vlasništva + zgrada 196m2 + dvorište) u Križevcima po 73.800 EUR - iznimno atraktivan omjer cijene i volumena. Diversificirana prihoda baza (najam poslovnog + stambenog) čini case otpornim čak i na manjem tržištu.",
+  "flags": [
+    "zajednički dijelovi zgrade - provjeriti HOA troškove i stanje zgrade",
+    "složena etažna dokumentacija (38 opisanih prostorija) - potrebna detaljna pravna provjera"
+  ],
+  "input_hash": "654a85d0a2a8",
+  "scored_at": "2026-04-20T13:55:31.927771"
+}

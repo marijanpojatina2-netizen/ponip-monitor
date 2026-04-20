@@ -1,0 +1,15 @@
+{
+  "id": "59648",
+  "score_overall": 5.0,
+  "score_lokacija": 5.0,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća 125 m² u Jadrtovcu (prigradsko selo oko Šibenika) na prvoj dražbi s 25% popustom - lokacija nije direktno obalna niti turistički atraktivna, ali Šibenik regija bilježi rast; čekati drugu dražbu za bolji entry point.",
+  "flags": [
+    "Jadrtovac - ruralno prigradsko, nije obalna lokacija",
+    "prva dražba - moguć bolji ulaz"
+  ],
+  "input_hash": "06dfc3b00fd3",
+  "scored_at": "2026-04-20T12:50:46.292205"
+}

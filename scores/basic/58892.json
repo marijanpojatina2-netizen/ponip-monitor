@@ -1,0 +1,16 @@
+{
+  "id": "58892",
+  "score_overall": 3.5,
+  "score_lokacija": 4.0,
+  "score_roi": 4.0,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Oranica 10.117 m2 uz Varaždin s 25% popustom ima potencijal jedino ako prostorni plan dopušta prenamjenu u građevinsko - bez toga je agrikolna zemlja slaba investicija. Potrebna hitna provjera GUP-a Varaždina za k.o. Jakopovec.",
+  "flags": [
+    "oranica - investicijski slučaj ovisi isključivo o mogućnosti prenamjene",
+    "stečajni predmet - provjera eventualne upisane hipoteke",
+    "bez ikakve izgrađenosti na parceli"
+  ],
+  "input_hash": "6039109163f0",
+  "scored_at": "2026-04-20T13:06:27.646833"
+}

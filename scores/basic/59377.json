@@ -1,0 +1,15 @@
+{
+  "id": "59377",
+  "score_overall": 4.0,
+  "score_lokacija": 4.0,
+  "score_roi": 5.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Đurmanec kraj Krapine nudi slabu likvidnost, a opis sugerira isključivo parcelu (1489 m2) bez jasnog objekta - investicijski case je nedovoljno jak.",
+  "flags": [
+    "opis nejasan - vjerojatno samo gola parcela bez objekta",
+    "Zagorje - ograničena potražnja i likvidnost"
+  ],
+  "input_hash": "f222f35ed26b",
+  "scored_at": "2026-04-20T13:38:09.034437"
+}

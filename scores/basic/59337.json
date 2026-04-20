@@ -1,0 +1,16 @@
+{
+  "id": "59337",
+  "score_overall": 7.0,
+  "score_lokacija": 9.0,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Cavtat je premium lokacija tik uz Dubrovnik s velikom stambenom zgradom 293m2 i dvorištem, visok turistički potencijal za kratkoročni/dugoročni najam. Međutim, radi se o kompleksnim suvlasničkim udjelima (frakcije) na 6+ čestica što pravno i operativno značajno komplicira stjecanje i korištenje, a popust od 20% na prvoj dražbi još je na donjem rubu isplativosti.",
+  "flags": [
+    "suvlasnički udjeli - frakcije na 6+ čestica",
+    "kompleksna vlasnička struktura - nepotpuno vlasništvo nad svim česticama",
+    "visoka jamčevina 20.442 EUR za frakcijsko vlasništvo"
+  ],
+  "input_hash": "884413d89d2e",
+  "scored_at": "2026-04-20T13:11:08.600458"
+}

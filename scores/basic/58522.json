@@ -1,0 +1,17 @@
+{
+  "id": "58522",
+  "score_overall": 2.5,
+  "score_lokacija": 3.0,
+  "score_roi": 2.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Pašnjak u ruralnom Zagorju (Vižovlje) s minimalnim turističkim ili razvojnim potencijalom; kupuje se samo 1/2 nekretnine, a 20% popust na prvoj dražbi ne opravdava ulaganje u nelikvidno ruralno zemljište.",
+  "flags": [
+    "suvlasništvo 1/2 dijela",
+    "pašnjak - niska likvidnost i nulti prinos",
+    "ruralno Zagorje - depopulacijski trend",
+    "prva dražba - minimalni popust"
+  ],
+  "input_hash": "e06c6810360a",
+  "scored_at": "2026-04-20T14:02:01.835375"
+}

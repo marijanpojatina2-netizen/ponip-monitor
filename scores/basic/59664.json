@@ -1,0 +1,15 @@
+{
+  "id": "59664",
+  "score_overall": 5.5,
+  "score_lokacija": 6.5,
+  "score_roi": 5.5,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Samobor nudi dobru poziciju uz Zagreb s turističkim karakterom i razumnom likvidnošću, a 20% popust na prvoj dražbi daje umjeren entry point; kombinacija kuće, gospodarske zgrade i oranice (736 m2 ukupno) zahtijeva provjeru urbanističkog plana i stvarnog stanja objekta.",
+  "flags": [
+    "djelomično oranica - treba provjeriti namjenu",
+    "gospodarska zgrada - potencijalni troškovi uređenja ili rušenja"
+  ],
+  "input_hash": "9fa2cdca663e",
+  "scored_at": "2026-04-20T13:19:00.305950"
+}

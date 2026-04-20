@@ -1,0 +1,16 @@
+{
+  "id": "58032",
+  "score_overall": 5.0,
+  "score_lokacija": 3.5,
+  "score_roi": 8.0,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Druga dražba s 40% popustom je financijski atraktivna i jedini pravi ROI signal u ovom setu, ali ruralna lokacija Zagorja (Sveti Križ / Klanjec) znači slabu tržišnu likvidnost i ograničen turistički potencijal; posjed od 3808 m2 s kućom i gospodarskom zgradom ima nišni potencijal za agro-turizam ili povrat u prirodu. Preporučujem provjeru pristupnosti, komunalne infrastrukture i stanja objekata na licu mjesta.",
+  "flags": [
+    "ruralna lokacija – slabija tržišna likvidnost",
+    "gospodarska zgrada – provjeri namjenu, stanje i dozvole",
+    "nedostaje opis stanja objekta"
+  ],
+  "input_hash": "292c9eb4b729",
+  "scored_at": "2026-04-20T13:43:26.240953"
+}

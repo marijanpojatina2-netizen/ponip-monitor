@@ -1,0 +1,16 @@
+{
+  "id": "59343",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Industrijska tvornica u Iloku - jednom od najdepresivnijih tržišta u Hrvatskoj - praktički nema skupa kupaca ni exit strategije; 20% popust na prvoj dražbi ne kompenzira gotovo nepostojeću potražnju i visoke troškove praznog čuvanja ili konverzije objekta. Lokacija sama po sebi eliminira investicijski case.",
+  "flags": [
+    "industrijski objekt u depopulacijskom ruralnom području",
+    "niska do nikakva likvidnost tržišta",
+    "prva dražba - viša početna cijena bez prostora za dodatni popust"
+  ],
+  "input_hash": "140497949df1",
+  "scored_at": "2026-04-20T12:45:08.088677"
+}

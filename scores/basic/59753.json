@@ -1,0 +1,16 @@
+{
+  "id": "59753",
+  "score_overall": 6.5,
+  "score_lokacija": 8.0,
+  "score_roi": 6.0,
+  "score_stanje": 6.0,
+  "recommendation": "watch",
+  "reasoning": "Stan 99m2 s jasnim etažnim vlasništvom u Poreču nudi visok potencijal kratkotrajnog turističkog najma u premium istarskoj destinaciji. Popust od 20% na prvoj dražbi je skroman — vrijedi pratiti do druge dražbe za bolji ulazni ROI.",
+  "flags": [
+    "prva dražba (skroman popust)",
+    "stanje objekta nespecificirano",
+    "veća zgrada s više suvlasnika"
+  ],
+  "input_hash": "fb6d2aba3bfe",
+  "scored_at": "2026-04-20T12:39:45.867894"
+}

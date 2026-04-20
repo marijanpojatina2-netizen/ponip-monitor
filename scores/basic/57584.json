@@ -1,0 +1,14 @@
+{
+  "id": "57584",
+  "score_overall": 4.5,
+  "score_lokacija": 3.5,
+  "score_roi": 6.0,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Kuća s dvorištem 1942 m² u Kutini na drugoj dražbi s 40% popustom financijski je interesantno, ali Kutina je industrijski grad s niskom likvidnošću nekretnina i slabim turističkim/investicijskim potencijalom - eventualno za dugoročni najam.",
+  "flags": [
+    "Kutina - industrijska zona, slaba likvidnost tržišta nekretnina"
+  ],
+  "input_hash": "e0ab4f611784",
+  "scored_at": "2026-04-20T12:50:46.292530"
+}

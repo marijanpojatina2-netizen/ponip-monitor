@@ -1,0 +1,16 @@
+{
+  "id": "58608",
+  "score_overall": 6.0,
+  "score_lokacija": 7.0,
+  "score_roi": 5.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Stan u Crikvenici ima solidnu turističku lokaciju na Kvarneru s realnim potencijalom kratkoročnog najma, ali 20% popust na prvoj dražbi nije dovoljno atraktivan za aktivnu ponudu bez provjere stanja.",
+  "flags": [
+    "prva dražba - manji popust",
+    "nepoznato stanje stana i kvadratura",
+    "nema podataka o etaži i orijentaciji"
+  ],
+  "input_hash": "9d64fee70538",
+  "scored_at": "2026-04-20T13:45:29.514205"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "59561",
+  "score_overall": 5.5,
+  "score_lokacija": 7.0,
+  "score_roi": 5.0,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Pula kao istarska destinacija nudi solidnu lokacijsku osnovu, ali prizemna zgrada stara ~100 godina, prislonjena uz susjedni objekt, zahtijeva temeljitu obnovu koja lako guta investicijski popust od 20%; na prvoj dražbi ROI nije uvjerljiv. Ako ode na drugu ili treću dražbu, prelazi u deep_dive kandidata.",
+  "flags": [
+    "stara gradnja ~100 godina – neizvjesni trošak obnove",
+    "prislonjena uz susjedni objekt – ograničeni zahvati na sjevernom pročelju"
+  ],
+  "input_hash": "c15750b1bbdd",
+  "scored_at": "2026-04-20T13:43:26.240827"
+}

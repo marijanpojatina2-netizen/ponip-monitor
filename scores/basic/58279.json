@@ -1,0 +1,16 @@
+{
+  "id": "58279",
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 5.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "40% popust na drugoj dražbi je atraktivan parametar koji normalno zaslužuje pažnju, ali Bošnjaci u općini Ivankovo su duboka ruralna Slavonija s negativnim demografskim trendom i gotovo nultom aktivnom potražnjom za stambeno-poslovnim objektima te površine. Exit strategija u ovakvoj lokaciji predstavlja veći rizik od same kupnje.",
+  "flags": [
+    "duboka ruralna Slavonija - depopulacijska zona",
+    "minimalna potražnja za stambeno-poslovnim objektima",
+    "teška i dugotrajna exit strategija"
+  ],
+  "input_hash": "a8a5ca07ef65",
+  "scored_at": "2026-04-20T12:45:08.089391"
+}

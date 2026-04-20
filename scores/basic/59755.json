@@ -1,0 +1,15 @@
+{
+  "id": "59755",
+  "score_overall": 6.0,
+  "score_lokacija": 7.0,
+  "score_roi": 5.5,
+  "score_stanje": 6.0,
+  "recommendation": "watch",
+  "reasoning": "Klenovica (Kvarnerska obala) je atraktivna turistička lokacija s dobrim short-stay potencijalom, apartman 53m2 s loggijom ima realnu najamnu vrijednost, ali prva dražba na 80% procjene čini entry manje atraktivnim – pratiti do 2. dražbe.",
+  "flags": [
+    "prva dražba – 20% popust, pratiti do 2. dražbe",
+    "E-3 etažno vlasništvo – provjeriti HOA/zajedničke troškove zgrade"
+  ],
+  "input_hash": "a812fb789190",
+  "scored_at": "2026-04-20T13:47:48.602846"
+}

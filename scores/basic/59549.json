@@ -1,0 +1,16 @@
+{
+  "id": "59549",
+  "score_overall": 3.0,
+  "score_lokacija": 3.0,
+  "score_roi": 3.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Livada u ruralnom Zagorju bez ikakvog objekta i bez turističkog ili urbanog razvojnog potencijala; 20% popust na prvoj dražbi ne kompenzira slabu likvidnost i minimalnu iskoristivost same parcele.",
+  "flags": [
+    "samo livada - nema objekta",
+    "ruralna lokacija bez razvoja",
+    "slaba tržišna likvidnost regije"
+  ],
+  "input_hash": "770752ee0f6e",
+  "scored_at": "2026-04-20T13:53:26.519094"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "59221",
+  "score_overall": 6.0,
+  "score_lokacija": 6.5,
+  "score_roi": 6.0,
+  "score_stanje": 5.0,
+  "recommendation": "bid",
+  "reasoning": "Dvije stambene jedinice u Labinu (Istra) za početnih ~101k EUR atraktivna su ulazna točka za kratkoročni turistički najam ili preprodaju uz dobar potencijal rasta istarske regije.",
+  "flags": [
+    "pomoćna građevina nije uknjižena u katastru",
+    "stanje nije detaljno opisano u oglasu"
+  ],
+  "input_hash": "5572eeb22061",
+  "scored_at": "2026-04-20T13:53:26.520286"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "58398",
+  "score_overall": 2.5,
+  "score_lokacija": 3.0,
+  "score_roi": 2.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Šuma od 6229 m2 u ruralnom Žednom nosi stroga zakonska ograničenja namjene i izuzetno je teško utrživu imovinu; 20% popust na prvoj dražbi ne kompenzira strukturne nedostatke.",
+  "flags": [
+    "šuma - zakonske restrikcije namjene i sječe",
+    "niska likvidnost - uzak krug kupaca",
+    "ista k.o. kao ID 58394 - sumnjivo skupljanje nelikvidnih čestica"
+  ],
+  "input_hash": "474212689459",
+  "scored_at": "2026-04-20T13:17:07.676848"
+}

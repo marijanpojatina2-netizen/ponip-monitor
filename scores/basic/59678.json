@@ -1,0 +1,17 @@
+{
+  "id": "59678",
+  "score_overall": 6.0,
+  "score_lokacija": 7.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Kaštelir u blizini Poreča je tražena istarska zona s visokim turističkim i rezidencijalnim potencijalom, a 25% popust na prvoj dražbi privlačan je; međutim kuća je u rekonstrukciji i eksplicitno nije samostalna funkcionalna cjelina bez susjedne k.č. 93/2 koja nije na prodaji.",
+  "flags": [
+    "u rekonstrukciji – nepoznati troškovi dovršetka",
+    "KRITIČNO: nije samostalna funkcionalna cjelina – ovisi o k.č. 93/2 koja nije predmet prodaje",
+    "potencijalni pristupni/infrastrukturni problemi",
+    "Trgovački sud Pazin – stečajni kontekst"
+  ],
+  "input_hash": "8a390e5a824d",
+  "scored_at": "2026-04-20T13:34:18.172802"
+}

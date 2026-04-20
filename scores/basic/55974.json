@@ -1,0 +1,15 @@
+{
+  "id": "55974",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Virovitica/Bajer je duboka Slavonija s izraženom depopulacijom, niskom potražnjom i minimalnom likvidnošću nekretnina; suvlasništvo 1/2 dvaju objekata dodatno komplicira izlaz iz investicije bez aktivne suradnje drugog suvlasnika. Tržišni rizik pretežak za investicijsku logiku.",
+  "flags": [
+    "Slavonija/Virovitica - depopulacija i niska tržišna likvidnost",
+    "suvlasništvo 1/2 dijela na svim česticama"
+  ],
+  "input_hash": "267650d3383f",
+  "scored_at": "2026-04-20T14:11:34.788457"
+}

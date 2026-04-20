@@ -1,0 +1,17 @@
+{
+  "id": "54777",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 4.0,
+  "score_stanje": 1.5,
+  "recommendation": "watch",
+  "reasoning": "Nominalna ulazna cijena od 1 EUR na četvrtoj dražbi zvuči primamljivo, ali predmet prodaje su suvlasnički udjeli isključivo na prometnicama i livadama koji ne generiraju prihod i praktički se ne mogu monetizirati; tri uzastopno neuspjele dražbe jasno pokazuju da tržište nije prepoznalo vrijednost. Jedini scenarij za deep_dive bio bi ako su ovi udjeli strateški ključni za pristup nekom drugom vrijednom objektu u kompleksu.",
+  "flags": [
+    "suvlasnički udjeli na cestama i livadama - nema direktnog prihoda",
+    "četvrta dražba - tržište tri puta odbilo",
+    "stečajni dužnik - moguća nerazvrstana prava i tereti",
+    "Slavonija - niska likvidnost tržišta"
+  ],
+  "input_hash": "9cfd2f7ea7bb",
+  "scored_at": "2026-04-20T12:45:08.089309"
+}

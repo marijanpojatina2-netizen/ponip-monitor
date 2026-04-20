@@ -1,0 +1,15 @@
+{
+  "id": "59477",
+  "score_overall": 6.0,
+  "score_lokacija": 7.0,
+  "score_roi": 6.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Zagreb/Trešnjevka nudi stabilnu dugoročnu potražnju za najmom i solidan popust od 20% na prvoj dražbi; stan je mali (43,51 m2) i u prizemlju što smanjuje premijum ali osigurava konzervativni prinos s dobrim izlaznim potencijalom. Vrijedi pratiti i eventualno licitirati ako ne dođe do natjecanja.",
+  "flags": [
+    "prizemlje - sigurnosni rizik i slabija tražnja",
+    "mali stan ograničava premijum najam"
+  ],
+  "input_hash": "ba68ecf320de",
+  "scored_at": "2026-04-20T14:11:34.787586"
+}

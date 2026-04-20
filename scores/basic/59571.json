@@ -1,0 +1,15 @@
+{
+  "id": "59571",
+  "score_overall": 5.0,
+  "score_lokacija": 6.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Rijeka/Sušak je solidan grad s realnim najamnim tržištem, ali prva dražba na 80% procijenjene vrijednosti nudi premalo sigurnosnog jastuka; pratiti do eventualne druge dražbe s boljim popustom.",
+  "flags": [
+    "prva dražba – 20% popust nedovoljan za agresivni entry",
+    "7. kat – bez potvrde o ispravnosti lifta"
+  ],
+  "input_hash": "b3cd97088ea3",
+  "scored_at": "2026-04-20T13:47:48.601881"
+}

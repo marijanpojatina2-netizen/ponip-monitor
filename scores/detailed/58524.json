@@ -1,0 +1,68 @@
+{
+  "id": "58524",
+  "score_overall": 2.5,
+  "score_lokacija": 4.0,
+  "score_roi": 1.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Nekretnina u Vižovlju (k.o. Strmec, blizu Zaboka) ima utvrđenu vrijednost od 1.824.299 EUR, što iznosi ≈5.904 EUR/m² za 309 m² kuće u Krapina-Zagorje regiji — 2 do 4 puta više od realnih tržišnih cijena ovog područja (1.000–2.200 EUR/m²). Početna cijena od 1.459.439 EUR (1. dražba, svega 20% popusta) ne ostavlja prostor za pozitivan ROI niti uz optimistični scenarij. Razgledavanje nije dostupno, stanje nekretnine potpuno nepoznato, a tržišna likvidnost Krapina-Zagorje je niska.",
+  "flags": [
+    "Razgledavanje nedostupno — stanje nekretnine potpuno nepoznato, visok skriveni rizik",
+    "Utvrđena vrijednost ≈5.904 EUR/m² sumnjivo visoka za ruralni Zabok / Krapina-Zagorje (tržišni prosjek 1.000–2.200 EUR/m²) — procjena vjerojatno inflated",
+    "Prva dražba, minimalni popust 20% — bez margine sigurnosti",
+    "Niska likvidnost tržišta Krapina-Zagorje — dugo trajanje eventual prodaje",
+    "Suvlasništvo 1/2 + 1/2: provjeri u ZK/sudu obuhvaća li dražba oba dijela (1/1) ili samo jedan suvlasnički udio",
+    "Visoka jamčevina 182.430 EUR — zamrzavanje kapitala u neatraktivnom predmetu"
+  ],
+  "market_estimate": {
+    "eur_min": 350000,
+    "eur_max": 680000,
+    "confidence": "low",
+    "basis": "Tržišne cijene kuća u Krapina-Zagorje regiji (Zabok, Zlatar, okolna naselja) kreću se 1.000–2.200 EUR/m² ovisno o lokaciji, stanju i okućnici. Za 309 m² kuće u seoskom naselju Vižovlje realna vrijednost procjenjuje se na 350k–680k EUR. Gornji rang (680k) pretpostavlja luksuznu gradnju s okućnicom; donji (350k) standardnu kuću lošijeg stanja. Napomena: web pretraga nije bila dostupna — procjena bazirana na tržišnom znanju do VIII/2025."
+  },
+  "comparables": [
+    {
+      "opis": "Kuća ~260 m², Zabok — standardna gradska kuća, useljiivo",
+      "cijena": 250000,
+      "m2": 260,
+      "izvor": "njuskalo.hr (tržišno znanje do VIII/2025, live provjera nije bila moguća)",
+      "url": "https://www.njuskalo.hr/prodaja-kuca/zabok"
+    },
+    {
+      "opis": "Kuća ~350 m², Krapina — veća kuća, centar županijskog grada",
+      "cijena": 370000,
+      "m2": 350,
+      "izvor": "nekretnine.net (tržišno znanje do VIII/2025)",
+      "url": "https://www.nekretnine.net/nekretnine?vrstaNekretnine=kuca&grad=krapina"
+    },
+    {
+      "opis": "Luksuzna vila ~300 m² s okućnicom, Zagorje — premium segment",
+      "cijena": 650000,
+      "m2": 300,
+      "izvor": "njuskalo.hr (procjena gornjeg ranga za Krapina-Zagorje)",
+      "url": "https://www.njuskalo.hr/prodaja-kuca/krapinska-zagorska-zupanija"
+    },
+    {
+      "opis": "Kuća ~200 m², Zlatar-Bistrica — usporediva mikrolokacija",
+      "cijena": 180000,
+      "m2": 200,
+      "izvor": "njuskalo.hr (tržišno znanje)",
+      "url": "https://www.njuskalo.hr/prodaja-kuca/zlatar"
+    }
+  ],
+  "investment_strategy": "PASS pri trenutnoj cijeni. Nema strategije izlaska koja daje pozitivan ROI pri ulazu od 1.46M EUR na tržištu vrijednom 350k–680k EUR. Hipotetski, da je objekt dostupan ispod 500k EUR (moguće tek u 3.–4. dražbi uz 40–50% popusta od procjene), moglo bi se razmatrati: (1) reno-flip za rezidencijalne kupce iz Zagreba (Zagorje ima potražnju vikendaša/perifernih kupaca), ili (2) ruralni turizam / agro-turizam uz investiciju u uređenje. No čak i tada, inflirana sudska procjena ostaje signal upozorenja.",
+  "entry_price_eur": 480000,
+  "detailed_risks": [
+    "Procijenjana vrijednost 5.904 EUR/m² je 2–4x viša od tržišnih cijena Krapina-Zagorje — klasična 'vrijednosna zamka' sudske procjene",
+    "Razgledavanje nije dostupno — nepoznati građevinski troškovi, moguće skrivene štete (statika, krov, vlaga, instalacije)",
+    "Niska tržišna likvidnost: Zabok/Vižovlje nije ni turistička ni primarna rezidencijalna destinacija — exit može trajati 3–5+ godina",
+    "Suvlasničke komplikacije: ako dražba obuhvaća samo 1/2 udjela, kupac postaje suvlasnik s nepoznatom osobom",
+    "Inflirana sudska procjena: rizik da procjenitelj nije koristio usporedive tržišne transakcije nego troškovnu metodu ili zastarjele podatke",
+    "Visoka jamčevina 182.430 EUR — zamrzavanje kapitala bez garancije dobivanja",
+    "Dugi sudski postupci: Općinski sud Zlatar / Zabok — potencijalno kašnjenje u uknjižbi i primopredaji"
+  ],
+  "upside_scenario": "Ako je nekretnina zapravo luksuzna vila s velikom okućnicom (> 1.000 m² zemljišta), bazenom ili posebnim obilježjima koja nisu opisana u oglasu, realna vrijednost mogla bi biti 700k–900k EUR. U tom slučaju: čekati 3.–4. dražbu (cijena pada na ~1.0–1.1M), zatim pregovarati s vjerovnikom. Optimistično: renovacija + marketing prema Zagreb-premijum vikendaš kupcima → preprodaja za 800k–1.0M kroz 3 god. IRR ostaje nizak (<10%).",
+  "downside_scenario": "Kupnja po 1.459.439 EUR uz realnu tržišnu vrijednost od 400k–500k EUR = trenutni gubitak ~1M EUR. Bez razgledavanja moguće su skrivene štete koje zahtijevaju 100k–300k EUR renovacije. Tržišna likvidnost Krapina-Zagorje je niska — nekretnina može stajati neprodana 5+ godina. Ukupni scenarij: zamrznut kapital, negativan ROI, exit bez kupca.",
+  "input_hash": "dd26345de485",
+  "scored_at": "2026-04-20T15:16:30.863557"
+}

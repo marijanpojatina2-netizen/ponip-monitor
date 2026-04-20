@@ -1,0 +1,62 @@
+{
+  "id": "59037",
+  "score_overall": 5.0,
+  "score_lokacija": 6.0,
+  "score_roi": 4.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Industrijski kompleks na Zagrebačkoj ulici u Varaždinu — solidna lokacija na glavnoj prometnici s pristupom A4 autocesti prema Zagrebu (75 km) i austrijsko-slovenskom tržištu, ali procjenjena vrijednost od 2.850.000 EUR čini 3.900+ EUR/m² tlocrtne površine zgrada (727 m²) što višestruko nadilazi tipične industrijske vrijednosti za Varaždin od 500–900 EUR/m². Prva dražba s 25% popustom je nedovoljno atraktivan ulaz — bez daljnjeg pada ne postoji adekvatan sigurnosni jastuk. Stečajni kontekst, nedostupnost procjene bez upita i nepoznato stanje zgrada povećavaju informacijsku asimetriju. Preporuča se praćenje do 2. ili 3. dražbe kada bi početna cijena trebala pasti na 1.425.000–1.710.000 EUR (50–60% procjene).",
+  "flags": [
+    "Stečajni postupak — nepoznata operativna i tehnička povijest objekta",
+    "Prva dražba — maksimalna tražena cijena, nema sigurnosnog jastuka za investitora",
+    "Procjena dostupna samo na upit stečajnom upravitelju — informacijska asimetrija",
+    "Cijena/m² tlocrtne površine (~2.940 EUR/m² na početnoj cijeni) nadilazi tržišne norme za Varaždin",
+    "Industrijska namjena — potencijalno ograničena prenamjena bez promjene UPU-a/GUP-a",
+    "Visoka jamčevina 285.000 EUR — blokiran kapital u dugom procesu",
+    "Moguće ekološko zagađenje tla i podzemnih voda (industrijska namjena, stečaj)"
+  ],
+  "market_estimate": {
+    "eur_min": 1300000,
+    "eur_max": 2200000,
+    "confidence": "low",
+    "basis": "Web pretraga nije bila dostupna — procjena temeljena na tržišnom znanju. Industrijske nekretnine u Varaždinu tipično 500–900 EUR/m² GBA. Tlocrtna površina 727 m² (potencijalno 2-etažno ~1.350–1.450 m² GBA) = 675K–1.3M EUR za čistu industrijsku namjenu. Gornji raspon do 2.2M EUR uključuje premium Zagrebačke ulice (300–450 EUR/m² zemljišta × 1.309 m²) i scenarij prenamjene u logistiku/commercial. Procjeniteljev iznos od 2.85M EUR moguće temeljen na troškovnoj metodi ili uključuje opremu."
+  },
+  "comparables": [
+    {
+      "opis": "Web pretraga nije bila dostupna — usporedni podaci nisu mogli biti prikupljeni u realnom vremenu. Preporuča se ručna provjera za industrijske objekte u Varaždinu.",
+      "cijena": null,
+      "m2": null,
+      "izvor": "njuskalo.hr",
+      "url": "https://www.njuskalo.hr/prodaja-poslovnih-prostora/varazdin"
+    },
+    {
+      "opis": "Preporuča se provjera industrijsko-poslovnih nekretnina na nekretnine.net za Varaždinsku županiju.",
+      "cijena": null,
+      "m2": null,
+      "izvor": "nekretnine.net",
+      "url": "https://www.nekretnine.net/stambeni-objekti/poslovni-prostori/lista/lokacija_Varazdin/"
+    },
+    {
+      "opis": "FINA dražbe — provjera prethodnih prodaja industrijskog na Varaždinskom području za kalibraciju cijena.",
+      "cijena": null,
+      "m2": null,
+      "izvor": "fina.hr",
+      "url": "https://e-oglasna.fina.hr/"
+    }
+  ],
+  "investment_strategy": "Iznajmljivanje industrijskom ili logističkom korisniku (preferirano). Pri ulaznoj cijeni ispod 1.7M EUR i GBA ~1.350 m², najam 6–9 EUR/m²/mj = 97K–146K EUR/god = 5.7–8.6% bruto prinos. Alternativno: preprodaja strateškom industrijskom kupcu koji traži lokaciju uz A4 i Varaždinsku brzu cestu. Reno-flip nije preporučljiv na industrijskim objektima ove veličine bez jasnog exit buyera unaprijed.",
+  "entry_price_eur": 1650000,
+  "detailed_risks": [
+    "Procjenjena vrijednost 2.85M EUR vjerojatno temeljena na troškovnoj metodi, a ne tržišnoj — realna likvidacijska vrijednost može biti 30–50% niža",
+    "Ekološka sanacija moguća pri industrijskom korištenju — potencijalni skriveni trošak 100K–500K EUR",
+    "Likvidnost industrijskog tržišta Varaždina ograničena — mogući holding period 3–6 godina za exit",
+    "Fragmentirana imovina (3 zasebne industrijske zgrade + dvorišni parceli) komplicira upravljanje i preprodaju",
+    "Stečajni postupak može imati nenamirene tražbine ili skrivene hipoteke — potrebna detaljna ZK provjera",
+    "Promjena UPU-a/GUP-a za prenamjenu neizvjesna i dugotrajna (12–36 mj)",
+    "Visoka jamčevina 285.000 EUR vezuje kapital kroz cijeli postupak"
+  ],
+  "upside_scenario": "Ako je GBA >1.500 m² (višeetažne zgrade u dobrom stanju) i objekt se iznajmi logističkom ili industrijskom korisniku pri 7–8 EUR/m²/mj, pri ulaznoj cijeni 1.65M EUR postiže se 7.6–8.7% neto prinos — atraktivan za institucionalne investitore. Blizina austrijskog tržišta i Slobodne zone Varaždin povećava interes stranih industrijskih stanara. Uz pozitivan trendovi FDI u Varaždinsku županiju, vrijednost kompleksa u 3–5 godina mogla bi narasti na 2.0–2.5M EUR.",
+  "downside_scenario": "Loše stanje objekta (sanacija 300–500K EUR), ekološka kontaminacija tla, i ograničena potražnja industrijskog najma u Varaždinu mogu stisnuti efektivnu vrijednost na 1.0–1.3M EUR. Uz holding costs (porez, komunalije, osiguranje ~40–60K EUR/god) i spor exit, investicija može ostati u minusu 5+ godina. Rizik 'catching falling knife' pri prvoj dražbi je visok.",
+  "input_hash": "2697880239b1",
+  "scored_at": "2026-04-20T14:47:50.042074"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "59567",
+  "score_overall": 3.5,
+  "score_lokacija": 4.0,
+  "score_roi": 3.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Kompleksna suvlasnička struktura (ovrhovoditelj 5/6, ovršenica samo 1/6) stvara ozbiljnu pravnu neizvjesnost - nejasno je što kupac zapravo stječe i pod kojim uvjetima. Međimurje/Nedelišće nema dovoljno jak investicijski argument za preuzimanje tog pravnog rizika.",
+  "flags": [
+    "suvlasništvo 1/6 ovršenica vs. 5/6 ovrhovoditelj - kompleksna pravna situacija",
+    "nejasno što se prodaje i stječe kupnjom",
+    "Nedelišće - srednja likvidnost tržišta"
+  ],
+  "input_hash": "f5825c787ee8",
+  "scored_at": "2026-04-20T13:59:56.175444"
+}

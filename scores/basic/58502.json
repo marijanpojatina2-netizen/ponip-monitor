@@ -1,0 +1,16 @@
+{
+  "id": "58502",
+  "score_overall": 4.0,
+  "score_lokacija": 5.0,
+  "score_roi": 4.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Uredski poslovni prostor u Krapinskim Toplicama ima uski kupački krug i ograničeno investicijsko tržište; 20% popust na prvoj dražbi ne kompenzira slabu likvidnost i specifičnu uredsku namjenu u manjem spa-gradu.",
+  "flags": [
+    "uredska namjena - specifičan kupački krug",
+    "slaba tržišna likvidnost regije",
+    "suvlasnički udio - etažno vlasništvo kompleksnost"
+  ],
+  "input_hash": "90f43608703f",
+  "scored_at": "2026-04-20T13:53:26.520367"
+}

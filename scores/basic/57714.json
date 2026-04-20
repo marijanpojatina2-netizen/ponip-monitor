@@ -1,0 +1,16 @@
+{
+  "id": "57714",
+  "score_overall": 7.0,
+  "score_lokacija": 7.5,
+  "score_roi": 7.5,
+  "score_stanje": 5.0,
+  "recommendation": "bid",
+  "reasoning": "Centralna Zagreb lokacija (Ilica 153) s 40% popustom od procjene i drugom dražbom čini ovo jednim od rjeđih nalaza u ovoj cjenovnoj klasi; stanje interijera nepoznato ali lokacija i diskont kompenziraju rizik.",
+  "flags": [
+    "prizemno desno – sigurnosni i privatnosti rizik",
+    "stanje interijera nepoznato – moguće renoviranje",
+    "nejasna etažna oznaka ('4. etaža 0/0') nasuprot 'prizemno' – verificirati u ZK"
+  ],
+  "input_hash": "9e24ccc5c75d",
+  "scored_at": "2026-04-20T13:09:07.447138"
+}

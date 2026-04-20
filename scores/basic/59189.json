@@ -1,0 +1,17 @@
+{
+  "id": "59189",
+  "score_overall": 3.0,
+  "score_lokacija": 3.0,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Koprivnički Ivanec - industrijska parcela 12.284m2 s gospodarskom zgradom i silosom, suvlasnički udio 102/200 u ruralnoj lokaciji daleko od turističkih i stambenih trendova. 20% popust uz suvlasničke komplikacije i specifičnu industrijsku namjenu ne opravdavaju investiciju za standardnog investitora nekretninama.",
+  "flags": [
+    "suvlasnički udio 102/200 - suvlasničke komplikacije pri upravljanju i prodaji",
+    "industrijska/agrarna namjena - silos i gospodarska zgrada",
+    "ruralna lokacija s niskom likvidnošću",
+    "Industrijska ulica - ograničeno tržište potencijalnih kupaca"
+  ],
+  "input_hash": "80c1dc66dfff",
+  "scored_at": "2026-04-20T13:11:08.601979"
+}

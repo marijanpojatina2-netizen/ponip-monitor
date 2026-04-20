@@ -1,0 +1,16 @@
+{
+  "id": "59459",
+  "score_overall": 3.0,
+  "score_lokacija": 5.5,
+  "score_roi": 3.0,
+  "score_stanje": 5.5,
+  "recommendation": "pass",
+  "reasoning": "Aktivna zabilježba spora Z-7322/2025 ostaje kupcu jer je sud neće brisati po službenoj dužnosti - to je kritičan pravni rizik koji poništava povoljnost lokacije; uz tek 20% popust na prvoj dražbi investicijski case je jako slab.",
+  "flags": [
+    "aktivna zabilježba spora Z-7322/2025 - kupac preuzima rizik parnice",
+    "sud neće brisati zabilježbu po službenoj dužnosti",
+    "sporno vlasništvo / neriješen pravni status"
+  ],
+  "input_hash": "0520fe6847bf",
+  "scored_at": "2026-04-20T12:50:46.292061"
+}

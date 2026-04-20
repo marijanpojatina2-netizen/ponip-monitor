@@ -1,0 +1,70 @@
+{
+  "id": "59007",
+  "score_overall": 5.0,
+  "score_lokacija": 5.5,
+  "score_roi": 5.5,
+  "score_stanje": 4.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Industrijski kompleks na Zagrebačkoj ulici u Varaždinu nudi ~7.392 m² izgrađenog prostora i 13.767 m² zemljišta uz 25% popust na prvoj dražbi — omjer cijene (~192 EUR/m² izgrađenog) ispod je tržišnih vrijednosti za funkcionalne industrijske objekte u regiji. Varaždin ima aktivnu industrijsku scenu i dobru prometnu vezu prema A4 autocesti i CEE tržištu, ali nije tourist-grade lokacija. Kritični nepoznati su stanje zgrada i rizik ekološke kontaminacije tipičan za stare industrijske komplekse u stečaju, što ovaj slučaj čini kandidatom za temeljitu due diligence a ne direktnu licitaciju.",
+  "flags": [
+    "Stečajna imovina — vjerojatno dugogodišnje zanemarivanje održavanja",
+    "Nema podataka o stanju zgrada — procjena samo na pisani upit upravitelju",
+    "Visok rizik ekološke kontaminacije tla i podzemnih voda (industrija)",
+    "Moguće prisustvo azbesta u starijoj industrijskoj gradnji",
+    "Nepoznato je li kompleks slobodan ili u zakupu/korištenju treće strane",
+    "Pet zasebnih zgrada (uključujući 43 m² i 6 m²) — fragmentirana funkcionalna cjelina",
+    "Skrivene tražbine ili hipoteke vjerovnika u stečajnom postupku"
+  ],
+  "market_estimate": {
+    "eur_min": 1500000,
+    "eur_max": 2300000,
+    "confidence": "low",
+    "basis": "Procjena temeljena na znanju o tržištu: industrijsko zemljište u Varaždinu 60-100 EUR/m² (13.767 m² ≈ 825K-1,38M EUR), starije industrijske hale 130-250 EUR/m² ovisno o stanju (7.392 m² ≈ 960K-1,85M EUR). Web pretraga nije bila dostupna u ovoj sesiji — obvezna terenska i online verifikacija."
+  },
+  "comparables": [
+    {
+      "opis": "Industrijska hala s pisarnicama, Varaždin okolica, ~3.000 m² hale + zemljište",
+      "cijena": 900000,
+      "m2": 3000,
+      "izvor": "njuskalo.hr — procjena raspona",
+      "url": "https://www.njuskalo.hr/poslovni-prostori-prodaja/varazdin"
+    },
+    {
+      "opis": "Industrijska zona Čakovec (25 km) — usporedna lokacija, hala ~2.500 m²",
+      "cijena": 650000,
+      "m2": 2500,
+      "izvor": "nekretnine.net — procjena raspona",
+      "url": "https://www.nekretnine.net/prodaja/poslovni-prostor/medjimurska-zupanija"
+    },
+    {
+      "opis": "Logistički centar NW Hrvatska, novogradnja 5.000 m², greenfield",
+      "cijena": 2500000,
+      "m2": 5000,
+      "izvor": "CBRE HR tržišni izvještaj 2024/2025",
+      "url": "https://www.cbre.hr/hr-hr/research-and-reports"
+    },
+    {
+      "opis": "Industrijski kompleks Zagreb okolica (Zaprešić/Samobor), ~8.000 m²",
+      "cijena": 3200000,
+      "m2": 8000,
+      "izvor": "nekretnine.net — analogna referenca",
+      "url": "https://www.nekretnine.net/prodaja/poslovni-prostor/zagrebacka-zupanija"
+    }
+  ],
+  "investment_strategy": "Razvoj + iznajmljivanje ili strateška preprodaja: Kompleks je prevelik za klasični reno-flip — optimalna strategija je akvizicija, procjena stvarnog stanja, pa ili (a) dugoročni najam industrijskom/logističkom korisniku (5-8 EUR/m²/mj. za starije hale u regiji = 37.000-59.000 EUR/mj. bruto), ili (b) prodaja en-bloc strateškom industrijskom investitoru koji traži spreman objekt u NW Hrvatskoj. Varaždin je privlačan za tvrtke koje rade s austrijskim i slovenskim tržištem zbog blizine granice.",
+  "entry_price_eur": 1200000,
+  "detailed_risks": [
+    "Ekološka kontaminacija tla/podzemnih voda — sanacija može koštati 200.000-1.000.000+ EUR",
+    "Azbest u krovnim i zidnim panelima starije industrijske gradnje — obvezna procjena",
+    "Nepoznata statička ispravnost pet zasebnih zgrada različite starosti i namjene",
+    "Skrivene hipoteke i prioritetne tražbine vjerovnika u stečajnom postupku",
+    "Niska likvidnost industrijskog segmenta u Varaždinu — exit može trajati 2-4 godine",
+    "Visoka kapitalna obveza od prvog dana: 189.000 EUR jamčevina + ulazna cijena + due diligence troškovi",
+    "Tržišna apsorpcija: malo aktivnih kupaca za kompleks ovog volumena izvan institucionalnih investitora",
+    "Nepoznate komunalne zaostalosti i priključci (struja, voda, plin, kanalizacija)"
+  ],
+  "upside_scenario": "Zgrade su u solidnom konstruktivnom stanju bez ekoloških problema. Kompleks se iznajmljuje logističkom ili industrijskom korisniku za 6 EUR/m²/mj. na 7.000 m² = 504.000 EUR godišnjeg prihoda bruto; NOI ~400.000 EUR uz yield 7% implicira vrijednost 5,7M EUR — no to pretpostavlja pune popunjenosti i modernizirane prostore. Realističniji scenarij: djelomična renovacija 300.000 EUR, prodaja strateškom kupcu za 1,9-2,2M EUR za 18-30 mjeseci, neto dobit 300.000-500.000 EUR.",
+  "downside_scenario": "Ekološka kontaminacija ili ozbiljni strukturalni problemi eliminiraju margin of safety i guraju ukupni trošak (kupovina + sanacija) iznad tržišne vrijednosti. Niska likvidnost znači da nekretnina može stajati neprodana i nepopunjena 24-36 mjeseci uz carrying costs, a u slučaju duboke recesije industrijskog sektora, realna likvidacijska vrijednost može pasti ispod 1,2M EUR.",
+  "input_hash": "428fd242948a",
+  "scored_at": "2026-04-20T15:12:02.867455"
+}

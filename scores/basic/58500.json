@@ -1,0 +1,16 @@
+{
+  "id": "58500",
+  "score_overall": 5.0,
+  "score_lokacija": 5.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Krapinske Toplice imaju određeni potencijal kao toplička destinacija, ali kavana kao poslovni prostor nosi operativne i zakupne rizike koji nisu razjašnjeni iz opisa. Prva dražba s 20% popustom ne opravdava aktivno licitiranje bez provjere najamnog statusa i tekućih ugovora.",
+  "flags": [
+    "poslovni prostor specifične namjene (kavana) - ograničena prenamjena",
+    "nepoznato je li prostor u zakupu/aktivno",
+    "mali grad, ograničeno tržište poslovnih prostora"
+  ],
+  "input_hash": "43e416b5e6c5",
+  "scored_at": "2026-04-20T14:04:36.437975"
+}

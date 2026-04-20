@@ -1,0 +1,16 @@
+{
+  "id": "59676",
+  "score_overall": 3.0,
+  "score_lokacija": 2.0,
+  "score_roi": 3.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Lika je jedno od najdepopulacijskih područja u Hrvatskoj s minimalnom tržišnom likvidnošću; popust od 20% na prvoj dražbi ne kompenzira gotovo nikakav dugoročni investicijski potencijal u ovoj regiji.",
+  "flags": [
+    "ruralno depopulacijsko područje (Lika/Gospić)",
+    "minimalna tržišna likvidnost",
+    "otežana preprodaja"
+  ],
+  "input_hash": "4f85ed8369a5",
+  "scored_at": "2026-04-20T13:22:37.998675"
+}

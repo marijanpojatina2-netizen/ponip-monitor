@@ -1,0 +1,16 @@
+{
+  "id": "59161",
+  "score_overall": 4.5,
+  "score_lokacija": 4.5,
+  "score_roi": 5.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Marinići/Bezjaki - periferija Rijeke, ali stan 202m2 za ~193k EUR (~957 EUR/m2) je iznimno niska jedinična cijena i može biti interesantna za dugoročni najam. Suvlasnički udio 278/1000 i prizemlje su faktori koji snižavaju atraktivnost.",
+  "flags": [
+    "suvlasnički udio 278/1000",
+    "prizemlje",
+    "ruralna periferija Rijeke"
+  ],
+  "input_hash": "d2441326e98a",
+  "scored_at": "2026-04-20T13:01:00.584895"
+}

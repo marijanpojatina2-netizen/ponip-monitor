@@ -1,0 +1,17 @@
+{
+  "id": "57269",
+  "score_overall": 4.0,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "50% popust na drugoj stečajnoj dražbi s uključenom zgradom 1042 m2 je financijski zanimljiv, ali Velika Kopanica kraj Slavonskog Broda je izrazito depopulacijsko ruralno područje s gotovo nultom tržišnom likvidnošću i minimalnom potražnjom. Bez izlazne strategije (tko bi kupio ili iznajmio), diskont ne spašava investicijski case.",
+  "flags": [
+    "stečajni dužnik - moguće dodatne tužbe ili tereti",
+    "ruralna Slavonija, depopulacijsko područje",
+    "niska likvidnost - ograničena baza kupaca/zakupaca",
+    "stanje zgrade 1042 m2 nepoznato - provjera obavezna"
+  ],
+  "input_hash": "73f916ad3616",
+  "scored_at": "2026-04-20T12:58:37.603854"
+}

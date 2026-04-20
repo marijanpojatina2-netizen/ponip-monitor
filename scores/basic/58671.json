@@ -1,0 +1,16 @@
+{
+  "id": "58671",
+  "score_overall": 7.5,
+  "score_lokacija": 8.5,
+  "score_roi": 7.5,
+  "score_stanje": 5.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Stan na Ilici 47 u samom centru Zagreba po početnoj cijeni od ~2.493 EUR/m2 (tržišna vrijednost u toj zoni 3.200-4.000 EUR/m2) nudi solidan ulazni popust uz izvanrednu lokaciju za najam ili preprodaju; potrebna provjera stanja unutar stana i tereta na nekretnini.",
+  "flags": [
+    "starija zgrada - provjera stanja konstrukcije i instalacija",
+    "prvi kat - blagi minus za prirodno svjetlo",
+    "provjera eventualnih stanara ili tereta"
+  ],
+  "input_hash": "8c820d8fbfb6",
+  "scored_at": "2026-04-20T13:17:07.677033"
+}

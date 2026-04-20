@@ -1,0 +1,16 @@
+{
+  "id": "58908",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Nuštar kod Vinkovaca spada u depopulacijsku slavonsku zonu s izrazito slabom likvidnošću tržišta nekretnina. Popust od samo 20% na prvoj dražbi nije dostatan kompenzacija za rizik dugog vezivanja kapitala u ovoj regiji.",
+  "flags": [
+    "Slavonija - depopulacijska zona, slaba likvidnost",
+    "težak izlaz iz investicije",
+    "niska turistička i razvojna atraktivnost"
+  ],
+  "input_hash": "e330848c13e9",
+  "scored_at": "2026-04-20T13:59:56.175238"
+}

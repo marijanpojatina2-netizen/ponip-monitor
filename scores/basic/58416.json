@@ -1,0 +1,17 @@
+{
+  "id": "58416",
+  "score_overall": 3.5,
+  "score_lokacija": 4.0,
+  "score_roi": 3.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Roh-bau kuća u Prelogu na gradskom zemljištu s pravom građenja — kupac ne stječe vlasništvo nad zemljištem, kuća nije upisana u ZK ni katastar, a za dovršetak su potrebni značajni radovi. Pravni i građevinski rizici daleko nadilaze 20% popust.",
+  "flags": [
+    "pravo građenja - ne posjeduje se zemljište (gradsko vlasništvo)",
+    "kuća nije upisana u ZK niti u katastar",
+    "roh-bau faza (bez fasade, bez unutrašnjih radova)",
+    "potrebna legalizacija i upis"
+  ],
+  "input_hash": "27a5d4cba927",
+  "scored_at": "2026-04-20T13:28:15.836704"
+}

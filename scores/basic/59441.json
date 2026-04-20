@@ -1,0 +1,15 @@
+{
+  "id": "59441",
+  "score_overall": 6.5,
+  "score_lokacija": 7.5,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Pula kao turistički centar Istre daje dobar kratkoročni najamni potencijal za 46 m2 stan s terasom; ipak, prizemlje, skroman 20% popust na prvoj dražbi i naznaka o izostanku uporabne dozvole zahtijevaju detaljnu pravnu provjeru.",
+  "flags": [
+    "potencijalno bez uporabne dozvole (opis prekinut – 'Za zgradu nij...')",
+    "prizemlje – manji turistički premium"
+  ],
+  "input_hash": "137d5fac7eec",
+  "scored_at": "2026-04-20T13:51:38.839359"
+}

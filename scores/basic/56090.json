@@ -1,0 +1,16 @@
+{
+  "id": "56090",
+  "score_overall": 5.5,
+  "score_lokacija": 4.0,
+  "score_roi": 8.5,
+  "score_stanje": 3.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Treća dražba s 75% popustom daje startnu cijenu od svega 77k EUR - iznimno atraktivno čak i za rubnu lokaciju u okolici Zagreba; izuzetno oskudan opis bez ikakvog detalja o tipu i stanju objekta zahtijeva hitnu provjeru ZK izvadaka i uviđaj prije ikakve odluke.",
+  "flags": [
+    "izuzetno oskudan opis - samo katastarska oznaka, tip i stanje nekretnine nepoznati",
+    "treća dražba - razlog dosadašnjeg izbjegavanja od kupaca nepoznat",
+    "Sesvetski Kraljevec - ruralna periferija sa slabijom likvidnošću"
+  ],
+  "input_hash": "7654ee257327",
+  "scored_at": "2026-04-20T12:47:32.393561"
+}

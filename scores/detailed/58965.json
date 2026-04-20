@@ -1,0 +1,63 @@
+{
+  "id": "58965",
+  "score_overall": 3.5,
+  "score_lokacija": 3.0,
+  "score_roi": 4.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Industrijski kompleks (pogon drvne ambalaže + 2 skladišta + manipulativni prostor = ~3.883 m² natkrivenog + dvorišta ~8.900 m²) u k.o. Buković, kontinentalni hinterland Zadarske županije — bez turističkog ni stambenog potencijala. Početna cijena 1,65M EUR na PRVOJ dražbi je visoka i ostavlja malo sigurnosnog prostora; 25% popust je tek prosječan za industrijski stečaj. Procjena od 2,2M EUR za hinterland industrijsku lokaciju izgleda optimistično u odnosu na stvarnu tržišnu likvidnost. Investicijski case postoji isključivo za industrijskog operatera ili logistički hub, nikako za rezidencijalnu ili turističku prenamjenu.",
+  "flags": [
+    "Stečajni predmet — obvezna provjera svih tereta, hipoteka i starih dugova (ZK izvadak prioritet!)",
+    "Industrijska namjena — promjena namjene bez izmjena prostornog plana nije moguća",
+    "Ekološki rizik — pogon drvne ambalaže može uključivati impregnanate, lake zapaljive tvari, kontaminaciju tla",
+    "Opis odsječen ('kč.br. 1704/4 uprav...') — nepoznat ukupan broj čestica i zgrada",
+    "Prva dražba — nema redukcije cijene; racionalnija strategija je čekati 2. dražbu (−20%)",
+    "Visoka jamčevina 220.434 EUR — kapital blokiran za cijelo trajanje stečajnog postupka",
+    "Razgledavanje samo uz prethodni dogovor sa stečajnim upraviteljem — ograničen due diligence"
+  ],
+  "market_estimate": {
+    "eur_min": 850000,
+    "eur_max": 1350000,
+    "confidence": "low",
+    "basis": "Industrijske hale/skladišta u zaleđu Zadra procjenjuju se na 220–380 EUR/m² natkrivenog prostora u stečajnim uvjetima. ~3.883 m² × 300 EUR ≈ 1,165M EUR za objekte. Dvorišna zemljišta u industrijskim zonama hinterlenda: 25–50 EUR/m²; ~8.900 m² × 35 EUR ≈ 312K EUR. Tržišna vrijednost 850K–1,35M EUR, što implicira da je procjena od 2,2M EUR napihnuta za cca 40–60%; web pretraga za komparablima nije bila dostupna u ovoj sesiji."
+  },
+  "comparables": [
+    {
+      "opis": "Industrijska hala s dvorištem, Benkovac/Ravni Kotari zona, ~2.000 m² natkriveno",
+      "cijena": 550000,
+      "m2": 2000,
+      "izvor": "tržišna procjena (web search nedostupan)",
+      "url": "N/A"
+    },
+    {
+      "opis": "Skladišno-poslovni kompleks zaleđe Zadra, stečajna prodaja, ~1.500 m²",
+      "cijena": 480000,
+      "m2": 1500,
+      "izvor": "tržišna procjena (web search nedostupan)",
+      "url": "N/A"
+    },
+    {
+      "opis": "Industrijska zona Zadar okolica, teren + hale, logistika, ~4.000 m²",
+      "cijena": 1200000,
+      "m2": 4000,
+      "izvor": "tržišna procjena (web search nedostupan)",
+      "url": "N/A"
+    }
+  ],
+  "investment_strategy": "Jedino realistična strategija je industrijska operacija ili dugoročni zakup: kupiti, minimalno investirati u dovođenje instalacija u funkciju, te iznajmiti kao regionalni skladišno-logistički hub za opskrbu jadranskih destinacija (Zadar ~40–60 km). Prinos za industrijske najme u ovoj regiji: 7–9% godišnje. Prenamjena u turizam, rezidenciju ili ugostiteljtvo nije ekonomski ni regulatorno ostvariva. Reno-flip nije primjenjiv zbog niske i uske potražnje.",
+  "entry_price_eur": 980000,
+  "detailed_risks": [
+    "Procijenjena vrijednost 2,2M EUR vrlo vjerojatno napihnuta za hinterland lokaciju — potrebna neovisna procjena prije licitacije",
+    "Izrazito niska tržišna likvidnost: industrijske nekretnine u Ravni Kotari/hinterlandu teško se prodaju, horizont izlaska 3–7 god",
+    "Ekološki rizik: bivši pogon drvne ambalaže — moguća kontaminacija tla i podzemnih voda, potencijalna sanacijska obveza 100K–500K EUR",
+    "Pravni rizici stečajnog postupka: neraščišćene hipoteke, neisplaćeni radnički zahtjevi, porezni dugovi koji mogu opteretiti nekretninu",
+    "Visoki tekući troškovi: osiguranje, komunalije, čuvanje i minimalno održavanje ~3.900 m² industrijskih objekata (procjena 30–60K EUR/god bez prihoda)",
+    "Opis odsječen — broj i veličina svih čestica nepoznati; moguće neugodno iznenađenje pri uvidu u ZK i spis",
+    "Nepoznato stanje instalacija: strujni kapacitet, vodoopskrba, kanalizacija, protupožarni sustav, krovišta",
+    "Nema podataka o energetskim certifikatima niti usklađenosti s Pravilnikom o zaštiti od požara"
+  ],
+  "upside_scenario": "Kupnja na 2. ili 3. dražbi po cijeni ispod 1M EUR (cca 850K–950K EUR), brza ekološka provjera tla bez nalaza, pronalazak logističkog ili prerađivačkog najmoprimca (prihod 70–100K EUR/god) uz prinos 8%+ na uloženi kapital; potencijalna preprodaja industrijskom investitoru za 1,2–1,5M EUR za 3–5 godina.",
+  "downside_scenario": "Kupnja po početnoj cijeni 1,65M EUR uz naknadno otkrivene pravne terete ili ekološku kontaminaciju koja iziskuje sanaciju od 200–500K EUR; nemogućnost nalaženja najmoprimca u ruralnoj industrijskoj zoni; nelikvidna imovina veže kapital 5+ godina uz negativni prinos i rastući oportunitetni trošak.",
+  "input_hash": "02dcf99b6132",
+  "scored_at": "2026-04-20T15:03:15.134970"
+}

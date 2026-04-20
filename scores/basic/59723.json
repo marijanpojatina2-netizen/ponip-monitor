@@ -1,0 +1,16 @@
+{
+  "id": "59723",
+  "score_overall": 5.0,
+  "score_lokacija": 4.5,
+  "score_roi": 5.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Poslovni prostor od 89 m2 u centru Sinja s 25% popustom na prvoj dražbi pruža umjereni ROI, ali Sinj kao lokacija ima ograničenu likvidnost i uski buyer pool za poslovne prostore – cijena od ~800 EUR/m2 na granici je prihvatljivog za tu tržišnu nišu.",
+  "flags": [
+    "poslovni prostor – uži buyer pool od stana",
+    "ograničena likvidnost tržišta Sinja",
+    "nepoznato stanje poslovnog prostora"
+  ],
+  "input_hash": "c1d5b3208104",
+  "scored_at": "2026-04-20T14:20:40.101144"
+}

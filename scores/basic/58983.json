@@ -1,0 +1,15 @@
+{
+  "id": "58983",
+  "score_overall": 5.5,
+  "score_lokacija": 6.0,
+  "score_roi": 5.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Zagreb donosi likvidnost tržišta i stabilan najamni prinos, no prizemlje smanjuje vrijednost i atraktivnost, a neodređeni omjer suvlasništva zahtijeva pravnu provjeru prije licitacije.",
+  "flags": [
+    "prizemlje - niža tržišna vrijednost",
+    "suvlasnički udio s neodređenim omjerom - pravni rizik"
+  ],
+  "input_hash": "723fd2aa883b",
+  "scored_at": "2026-04-20T13:49:15.069689"
+}

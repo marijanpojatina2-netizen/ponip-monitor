@@ -1,0 +1,15 @@
+{
+  "id": "59319",
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 4.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Županja u dubokoj Slavoniji spada u depopulacijska područja s minimalnom potražnjom i likvidnošću; 20% popust na prvoj dražbi nije kompenzirajući faktor za ovako slabu lokaciju.",
+  "flags": [
+    "Županja - izrazito depopulacijsko i niskopotražno tržište",
+    "suvlasnički udio - treba provjeriti je li cijeli 100/100 dio predmet prodaje"
+  ],
+  "input_hash": "cfdd619b38f6",
+  "scored_at": "2026-04-20T13:38:09.034759"
+}

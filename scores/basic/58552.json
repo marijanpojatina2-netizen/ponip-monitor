@@ -1,0 +1,17 @@
+{
+  "id": "58552",
+  "score_overall": 4.5,
+  "score_lokacija": 5.5,
+  "score_roi": 6.5,
+  "score_stanje": 2.0,
+  "recommendation": "watch",
+  "reasoning": "Druga dražba s 40% popustom u splitskom zaleđu (Prugovo) po 68.400 EUR financijski je zanimljiva za dalmatinsku regiju, ali predmet su ruševine i pašnjak bez adresne oznake s nejasnim potencijalom za legalizaciju ili novu gradnju.",
+  "flags": [
+    "zidina (ruševine) - bez iskoristive građevine",
+    "pojata - stara agrarna struktura bez stambene namjene",
+    "pašnjak + neplodno - bez dokumentirane građevinske dozvole",
+    "bez anagrafske oznake - pristup i komunalna infrastruktura upitni"
+  ],
+  "input_hash": "d45c92ad93c1",
+  "scored_at": "2026-04-20T14:02:01.836207"
+}

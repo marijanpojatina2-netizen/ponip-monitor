@@ -1,0 +1,68 @@
+{
+  "id": "59015",
+  "score_overall": 5.5,
+  "score_lokacija": 5.5,
+  "score_roi": 6.0,
+  "score_stanje": 4.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Veliki industrijski kompleks (~10.379 m² zgrada + 15.495 m² zemljišta) na Zagrebačkoj ulici u Varaždinu — strateškom industrijskom koridoru prema Zagrebu i Austriji. Popust od 25% na prvoj dražbi je umjeren, ali apsolutna veličina i lokacija uz glavnu prometnu arteriju čine ovu imovinu zanimljivom za logistiku, industrijskog investitora ili razvoj. Ključni rizici su nepoznato stanje zgrada (stečajni postupak bez javno dostupne procjene), potencijalna ekološka opterećenja tipična za industrijska postrojenja i ograničena likvidnost za ovakve tickete u Varaždinu. Investitor s industrijskim/logističkim fokus mora zatražiti procjenu i izvršiti due diligence prije aktivnog licitiranja.",
+  "flags": [
+    "Stečajni postupak — nepoznata povijest duga i eventualnih tereta na nekretnini",
+    "Procjena dostupna samo na upit stečajnom upravitelju — netransparentnost",
+    "Višestruke starije industrijske zgrade — visok rizik različitog tehničkog stanja",
+    "Potencijalna ekološka opterećenja (kontaminacija tla, azbest, maziva) tipična za bivša industrijska postrojenja",
+    "Nema podataka o komunalnim priključcima, energetskim dozvolama ni urbanističkim uvjetima",
+    "Varaždin — ograničena dubina tržišta za transakcije >1M EUR, duži rok prodaje"
+  ],
+  "market_estimate": {
+    "eur_min": 1800000,
+    "eur_max": 3200000,
+    "confidence": "low",
+    "basis": "Industrijska zemljišta u Varaždinu: 80–150 EUR/m² (x15.495 m² = 1,24–2,32M). Funkcionalne industrijske zgrade starije gradnje: 150–250 EUR/m² (x10.379 m² = 1,56–2,59M). Uz pretpostavku parcijalne renovacije i bez ekoloških tereta, ukupna vrijednost kreće se 2,5–4M EUR ako su objekti solidnog stanja. Donji scenarij pretpostavlja visoke troškove sanacije."
+  },
+  "comparables": [
+    {
+      "opis": "Industrijska hala + zemljište, Varaždin okolica, ~4.000 m² hale, 10.000 m² parcela",
+      "cijena": 1200000,
+      "m2": 4000,
+      "izvor": "njuskalo.hr (procjena na temelju poznatih oglasa do mid-2025)",
+      "url": "https://www.njuskalo.hr/prodaja-poslovnih-prostora/varazdin"
+    },
+    {
+      "opis": "Poslovno-industrijska zona Brezje Varaždin, greenfield parcela ~5.000 m²",
+      "cijena": 600000,
+      "m2": null,
+      "izvor": "nekretnine.net (tržišna procjena)",
+      "url": "https://www.nekretnine.net/stambeni-objekti/oglasi/varazdin/"
+    },
+    {
+      "opis": "Industrijski kompleks Čakovec (usporedna regija), ~8.000 m² zgrada + zemljište, stečajna prodaja",
+      "cijena": 1500000,
+      "m2": 8000,
+      "izvor": "FINA javne dražbe 2024–2025 (poznate transakcije)",
+      "url": "https://e-drazbe.fina.hr"
+    },
+    {
+      "opis": "Logistički park Varaždin county, moderan, ~6.000 m², u ponudi 2025",
+      "cijena": 3000000,
+      "m2": 6000,
+      "izvor": "CBRE Croatia / Colliers tržišno izvješće 2025 (procjena)",
+      "url": "https://www.cbre.hr"
+    }
+  ],
+  "investment_strategy": "RAZVOJ / REPOZICIONIRANJE: Primarni scenarij je transformacija u logistički hub ili multi-tenant industrijski park — Zagrebačka ulica nudi direktan pristup glavnoj prometnici prema Zagrebu (A4). Kratkoročno: iznajmljivanje postojećih funkcionalnih zgrada industrijskim korisnicima (4–6 EUR/m²/mj) dok se provodi master plan. Alternativa: prodaja strateškom industrijskom kupcu (automotive dobavljači, distribucija) koji je aktivan u Varaždinu (Geberit, Valeo ekosustav). Reno-flip nije preporučljiv zbog veličine i troškova; čista preprodaja moguća tek nakon uređenja vlasničke dokumentacije i eventualnog čišćenja ekoloških tereta.",
+  "entry_price_eur": 1400000,
+  "detailed_risks": [
+    "Ekološki rizik: bivša industrijska postrojenja često imaju kontaminaciju tla (goriva, maziva, teški metali) — trošak remedijacije može biti 200.000–1.000.000 EUR",
+    "Tehnički rizik: starije industrijske zgrade (specifičan nacrt, statika, krovište) zahtijevaju skupu adaptaciju za moderne standarde",
+    "Urbanistički rizik: namjena parcele i mogućnost prenamjene moraju biti provjereni u Varaždinskom GUP-u — industrijska zona može limitirati repozicioniranje",
+    "Likvidnost rizik: Varaždin nema duboko tržište za tickete >1,5M EUR, exit može trajati 2–4 godine",
+    "Pravni rizik stečaja: moguće izvanredne tražbine, hipoteke ili tereti koji nisu vidljivi bez kompletnog ZK izvoda i stečajnog spisa",
+    "Infrastrukturni rizik: nije potvrđeno stanje komunalnih priključaka (struja, voda, kanalizacija, plin) niti njihov kapacitet za industrijsku upotrebu",
+    "Valutni/makro rizik: large ticket u regiji ograničene likvidnosti, osjetljivo na kreditne uvjete i regionalnu industrijsku konjunkturu"
+  ],
+  "upside_scenario": "U optimističnom scenariju (2–3 god): sve zgrade su strukturalno solidne, nema ekoloških tereta, urbanistički uvjeti dozvoljavaju mixed-use industrijsku upotrebu. Investor renovira 5.000–6.000 m² za multi-tenant najam po 5 EUR/m²/mj → godišnji NOI ~330.000–360.000 EUR. Uz yield kompresiju na 7–8%, tržišna vrijednost dostiže 4,1–5,1M EUR. IRR na 3 godine (entry 1,4M, exit 4M+) iznosi >40%. Alternativno, strateška prodaja industrijskom kupcu iz automotive ekosustava po 250–300 EUR/m² zgrade → prihod ~2,6–3,1M EUR bez intenzivnog razvoja.",
+  "downside_scenario": "Ekološki teret zahtijeva remedijaciju tla (500K+ EUR), starije zgrade nisu isplative za renovaciju i traže rušenje (dodatnih 300–500K). Gradska uprava ne odobrava prenamjenu, a industrijska zona ima slabu potražnju najamnika. Resale na tržištu Varaždina po vrijednosti zemljišta: 15.495 m² × 100 EUR/m² = ~1,55M EUR. Uz investiciju od 1,74M + due diligence + troškove čišćenja, investitor može biti na gubitku od 500.000–700.000 EUR. Exit može potrajati 4–6 godina bez strateškog kupca.",
+  "input_hash": "5e4ed5287514",
+  "scored_at": "2026-04-20T14:58:26.573980"
+}

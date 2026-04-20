@@ -1,0 +1,16 @@
+{
+  "id": "57365",
+  "score_overall": 6.5,
+  "score_lokacija": 6.5,
+  "score_roi": 7.0,
+  "score_stanje": 5.5,
+  "recommendation": "bid",
+  "reasoning": "Faktički 100% suvlasnički udio (1384085+561424=1945509/1945509) na 86m2 u Kaštel Novom s 40% popustom na drugoj dražbi — priobalna lokacija uz Split s realnim turističkim i rezidencijalnim potencijalom. Omjer ulazne cijene i lokacije opravdava aktivnu ponudu.",
+  "flags": [
+    "stanje objekta nespecificirano",
+    "dvije suvlasničke čestice (kompleksnost uknjižbe)",
+    "infrastruktura Kaštela varijabilna"
+  ],
+  "input_hash": "e3cc2c96ad91",
+  "scored_at": "2026-04-20T12:39:45.868141"
+}

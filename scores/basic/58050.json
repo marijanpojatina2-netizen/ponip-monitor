@@ -1,0 +1,16 @@
+{
+  "id": "58050",
+  "score_overall": 4.5,
+  "score_lokacija": 3.0,
+  "score_roi": 7.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "40% popust na drugoj dražbi za kuću s 476 m2 dvorišta u Vinkovcima financijski je atraktivan, ali Slavonija bilježi depopulaciju i slabu tržišnu likvidnost što ozbiljno ograničava izlaznu strategiju i procijenjeni ROI.",
+  "flags": [
+    "Slavonija – depopulacija i niska likvidnost tržišta",
+    "Vinkovci – ograničena potražnja za kupnju i najam",
+    "izlazna strategija otežana – dugo vrijeme do prodaje"
+  ],
+  "input_hash": "77100b773be6",
+  "scored_at": "2026-04-20T13:34:18.173180"
+}

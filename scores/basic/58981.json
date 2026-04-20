@@ -1,0 +1,16 @@
+{
+  "id": "58981",
+  "score_overall": 5.5,
+  "score_lokacija": 5.5,
+  "score_roi": 5.5,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Samobor je turistički atraktivan gradić blizu Zagreba s realnom potražnjom; kuća 118m2 s velikom okućnicom 415m2 na prvoj dražbi s 20% popustom je pristojna ali ne spektakularna prilike.",
+  "flags": [
+    "prva dražba - nema popust bonus",
+    "nema podataka o stanju kuće i instalacijama",
+    "Samobor - ograničena investicijska likvidnost vs Zagreb"
+  ],
+  "input_hash": "7e7ec6e243ac",
+  "scored_at": "2026-04-20T12:43:12.965933"
+}

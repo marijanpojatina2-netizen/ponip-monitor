@@ -1,0 +1,14 @@
+{
+  "id": "58807",
+  "score_overall": 6.0,
+  "score_lokacija": 7.0,
+  "score_roi": 6.0,
+  "score_stanje": 5.5,
+  "recommendation": "bid",
+  "reasoning": "Split sa 20% popusta na prvoj dražbi, 65m2 uz lođu – cijena oko 2.740 EUR/m2 je tržišno prihvatljiva za Split s obzirom na najamni i preprodajni potencijal. Suvlasnički omjer 'neodređen' vrijedi provjeriti ali nije bloker za etažno vlasništvo.",
+  "flags": [
+    "suvlasnički dio s neodređenim omjerom – pravna provjera preporučena"
+  ],
+  "input_hash": "7519b01c58ba",
+  "scored_at": "2026-04-20T13:04:30.150075"
+}

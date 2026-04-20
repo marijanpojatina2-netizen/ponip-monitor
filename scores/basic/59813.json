@@ -1,0 +1,17 @@
+{
+  "id": "59813",
+  "score_overall": 4.5,
+  "score_lokacija": 6.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Pašnjak uz more u Senju ima atraktivnu kvarnersku mikrolokaciju s pogledom prema zapadu, ali nagib terena, odsutnost infrastrukture i neizvjesna gradnja čine ovaj slučaj špekulativnim; prva dražba s 20% popustom nije agresivna cijena.",
+  "flags": [
+    "pašnjak - bez dokazane građevinske dozvole",
+    "neizgrađeno i neograđeno na nagibu prema moru",
+    "Senj - turistički potencijal osjetno niži od Opatije/Crikvenice/Hvara",
+    "prva dražba - cijena blizu pune procjene"
+  ],
+  "input_hash": "84f8546bab69",
+  "scored_at": "2026-04-20T14:02:01.836042"
+}

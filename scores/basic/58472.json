@@ -1,0 +1,16 @@
+{
+  "id": "58472",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Karlovec Ludbreški je malo ruralno naselje kraj Ludbrega s izrazito niskom likvidnošću tržišta nekretnina. Gospodarska zgrada od 863 m² na 8000 m² dvorišta teško je utrživa bez jasne poslovne vizije za taj kraj.",
+  "flags": [
+    "ruralna lokacija, depopulacijsko područje",
+    "gospodarska zgrada – ograničen krug kupaca",
+    "vrlo niska likvidnost regije"
+  ],
+  "input_hash": "23e51fc6c677",
+  "scored_at": "2026-04-20T13:26:18.791174"
+}

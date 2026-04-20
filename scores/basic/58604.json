@@ -1,0 +1,16 @@
+{
+  "id": "58604",
+  "score_overall": 3.5,
+  "score_lokacija": 3.5,
+  "score_roi": 4.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Čista Velika je ruralna lokacija s ograničenom likvidnošću, a objekt je nekadašnji pogon pekare koji zahtijeva skupu prenamjenu i adaptaciju. 20% popust na prvoj dražbi nije dovoljan za kompenzaciju lokacijskog i stambenog rizika.",
+  "flags": [
+    "komercijalni prostor (bivša pekara) – potrebna prenamjena",
+    "ruralna lokacija – slaba likvidnost",
+    "tavansko potkrovlje bez definiranog stambenog statusa"
+  ],
+  "input_hash": "2a7a0fed6ed4",
+  "scored_at": "2026-04-20T13:04:30.149968"
+}

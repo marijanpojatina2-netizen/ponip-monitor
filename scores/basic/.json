@@ -1,17 +1,17 @@
 {
   "id": "",
-  "score_overall": 2.0,
-  "score_lokacija": 5.0,
-  "score_roi": 1.5,
-  "score_stanje": 3.0,
-  "recommendation": "pass",
-  "reasoning": "Pazin (Istra) je dobra makrolokacija, ali predmet je ekstremno specijalizirano postrojenje za proizvodnju generatora velike snage - globalno nišni tržišni segment bez relevantnosti za standardnog investitora u nekretnine.",
+  "score_overall": 5.0,
+  "score_lokacija": 7.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Identično s Nekretninom 3 (isti zk.ul., ista k.č.br., iste vrijednosti) - vjerojatno duplikat unosa ili drugi suvlasnički udio iste čestice. Sve napomene i ocjene iz Nekretnine 3 se primjenjuju.",
   "flags": [
-    "pokretnina - nema dugoročnog ROI",
-    "visoko specijalizirana industrijska oprema (generatori)",
-    "tehnička arhiva bez jasne tržišne vrijednosti",
-    "bez jamčevine - netransparentni uvjeti"
+    "DUPLIKAT - identično s ID 59761 (isti zk.ul. 1525, k.č.br. 3419/4, iste vrijednosti)",
+    "suvlasnički dio 240/480 - provjeri je li isti ili drugi dio",
+    "livada bez objekta",
+    "nejasna građevinska namjena"
   ],
-  "input_hash": "481325e47a36",
-  "scored_at": "2026-04-20T08:24:10.136716"
+  "input_hash": "4e600316afaf",
+  "scored_at": "2026-04-20T14:21:59.237989"
 }

@@ -1,0 +1,16 @@
+{
+  "id": "57045",
+  "score_overall": 3.5,
+  "score_lokacija": 3.0,
+  "score_roi": 5.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Golema šuma u dalmatinskom zaleđu (Benkovac) bez turističke vrijednosti i s minimalnim tržištem; 50% popust i druga dražba zvuče primamljivo, ali niska likvidnost i ograničena namjena šumskog zemljišta čine izlaznu strategiju gotovo nepostojećom.",
+  "flags": [
+    "šuma - ograničena namjena i prenamjena",
+    "dalmatinsko zaleđe bez turističke ili razvojne potražnje",
+    "niska likvidnost - nema realnog tržišta kupaca"
+  ],
+  "input_hash": "4aecb33703b4",
+  "scored_at": "2026-04-20T13:13:21.835846"
+}

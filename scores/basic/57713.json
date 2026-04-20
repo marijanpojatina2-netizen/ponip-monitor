@@ -1,0 +1,15 @@
+{
+  "id": "57713",
+  "score_overall": 6.5,
+  "score_lokacija": 6.5,
+  "score_roi": 7.5,
+  "score_stanje": 5.0,
+  "recommendation": "bid",
+  "reasoning": "Četverosobni stan na Ilici 153 s 40% popustom na drugoj dražbi realan je investicijski kandidat za Zagreb, no nekonzistentna notacija (5. etaža / I kat lijevo) zahtijeva hitnu provjeru u ZK-u.",
+  "flags": [
+    "nekonzistentna etaža/kat notacija (5. etaža vs. I kat - mogući podaci o drugom objektu)",
+    "suvlasnički udio u zk.ul. 4231"
+  ],
+  "input_hash": "dbd5214da857",
+  "scored_at": "2026-04-20T12:52:48.738946"
+}

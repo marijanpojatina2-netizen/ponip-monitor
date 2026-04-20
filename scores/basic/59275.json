@@ -1,0 +1,15 @@
+{
+  "id": "59275",
+  "score_overall": 6.0,
+  "score_lokacija": 7.0,
+  "score_roi": 6.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Poslovni prostor na Dubrovačkoj ulici u Splitu ima dobru lokacijsku osnovu, ali 'nisko prizemlje' s podrumom koji čini 63% korisne površine (61 od 96 m2) bitno ograničava komercijalnu upotrebljivost i postizive najamnine; vrijedi pratiti kasniju dražbu s nižom cijenom.",
+  "flags": [
+    "dominantna podrum komponenta (63% površine)",
+    "nisko prizemlje - ograničena vidljivost i pristupačnost"
+  ],
+  "input_hash": "70d3aaea2455",
+  "scored_at": "2026-04-20T13:02:52.786991"
+}

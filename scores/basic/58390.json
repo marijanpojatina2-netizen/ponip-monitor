@@ -1,0 +1,15 @@
+{
+  "id": "58390",
+  "score_overall": 6.5,
+  "score_lokacija": 8.0,
+  "score_roi": 6.0,
+  "score_stanje": 5.5,
+  "recommendation": "bid",
+  "reasoning": "Novalja (Zrće) je jedna od najlikvidnijih turističkih destinacija u Hrvatskoj s visokim prinosima kratkoročnog najma; stan 48m2 s parkingom za 127k EUR je blizu tržišne vrijednosti, ali visoka likvidnost zone i turistički prinos opravdavaju licitaciju. Prinos od najma može biti 8-12% godišnje.",
+  "flags": [
+    "suvlasnički udio 13140/100000 - standardno za etažno ali treba provjeriti zk stanje",
+    "prva dražba - moguć izostanak popusta u licitaciji"
+  ],
+  "input_hash": "d7d8eec59cdc",
+  "scored_at": "2026-04-20T13:30:38.689825"
+}

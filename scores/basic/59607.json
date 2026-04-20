@@ -1,0 +1,15 @@
+{
+  "id": "59607",
+  "score_overall": 6.5,
+  "score_lokacija": 7.0,
+  "score_roi": 6.5,
+  "score_stanje": 5.5,
+  "recommendation": "bid",
+  "reasoning": "Stan 160,65 m2 u Zadru po startnoj cijeni ~1.836 EUR/m2 je ispod tržišne vrijednosti (Zadar centar 2.500-3.200 EUR/m2); dobra likvidnost i turistička potražnja čine ovo realnim kandidatom.",
+  "flags": [
+    "isti zk.ul. 12458 kao nekretnina ID 59609 - dva stana iste zgrade na dražbi istovremeno (ispitati razlog)",
+    "stanje stana nepoznato - potreban uvid"
+  ],
+  "input_hash": "78a3526f8ea9",
+  "scored_at": "2026-04-20T12:41:35.306796"
+}

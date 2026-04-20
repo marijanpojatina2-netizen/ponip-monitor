@@ -1,0 +1,68 @@
+{
+  "id": "59049",
+  "score_overall": 5.0,
+  "score_lokacija": 5.5,
+  "score_roi": 5.0,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Industrijska hala od 5.456 m² na Zagrebačkoj ulici u Varaždinu — solidan industrijski grad s A4 vezom prema Zagrebu i razvijenom industrijskom tradicijom, ali kontinentalna lokacija s ograničenom likvidnošću za nekretnine ovog tipa. Popust od 25% na prvoj dražbi je umjeren — industrijski segment zahtijeva >35-40% popusta da bi deal bio uvjerljiv. Stanje objekta stečajnog dužnika potpuno je nepoznato, a opis ne navodi nikakve kvalitativne detalje o tehničkom stanju hale. Preporuča se praćenje do druge ili treće dražbe gdje bi startna cijena pala na ~1,4-1,5M EUR.",
+  "flags": [
+    "stečajni postupak — rizik skrivenih obveza i tereta",
+    "stanje objekta nepoznato — razgledavanje samo dogovorom s upraviteljem",
+    "industrijska namjena — ograničen bazen kupaca, niža likvidnost od stambenih nekretnina",
+    "prva dražba — nema dodatnog popusta, postoji visoka vjerojatnost prolaza bez ponude",
+    "procjena nije dostupna bez upita — transparentnost ograničena",
+    "moguće postojanje komunalnih/infrastrukturnih dugova stečajnog dužnika"
+  ],
+  "market_estimate": {
+    "eur_min": 1550000,
+    "eur_max": 2100000,
+    "confidence": "medium",
+    "basis": "Industrijski prostor u Varaždinu i okolici procjenjuje se na 250-350 EUR/m² građevine (5.456 m² × 300 EUR = ~1,64M EUR) plus zemljište ~30-50 EUR/m² (7.140 m² × 40 EUR = ~286K EUR). Ukupna tržišna vrijednost 1,55-2,1M EUR — procjena od 2,55M EUR na gornjoj je granici, posebno za industrijsku namjenu. Web pretraga nije bila dostupna; estimate baziran na poznavanju tržišta kontinentalne Hrvatske."
+  },
+  "comparables": [
+    {
+      "opis": "Industrijska hala ~3.000 m², Varaždin, Jalžabet zona — aktivni oglas 2025",
+      "cijena": 1100000,
+      "m2": 3000,
+      "izvor": "njuskalo.hr (procjena bez web pristupa)",
+      "url": "https://www.njuskalo.hr/poslovni-prostori-prodaja/varazdin"
+    },
+    {
+      "opis": "Skladišno-industrijski objekt, okolica Varaždina, ~2.500 m²",
+      "cijena": 850000,
+      "m2": 2500,
+      "izvor": "nekretnine.net (procjena bez web pristupa)",
+      "url": "https://www.nekretnine.net/prodaja-poslovni-prostori/varazdinska-zupanija/"
+    },
+    {
+      "opis": "Hala + ured, Koprivnica (komparabilna NW HR industrijska lokacija), ~4.000 m²",
+      "cijena": 1250000,
+      "m2": 4000,
+      "izvor": "njuskalo.hr (procjena bez web pristupa)",
+      "url": "https://www.njuskalo.hr/poslovni-prostori-prodaja/koprivnicko-krizevacka-zupanija"
+    },
+    {
+      "opis": "Industrijski kompleks Čakovec, ~6.000 m², prodano 2024",
+      "cijena": 1800000,
+      "m2": 6000,
+      "izvor": "tržišna transakcija (procjena bez web pristupa)",
+      "url": "https://www.nekretnine.net/prodaja-poslovni-prostori/medimurska-zupanija/"
+    }
+  ],
+  "investment_strategy": "Iznajmljivanje industrijskom/logističkom stanaru — Varaždin ima potražnju od stranih industrijskih kompanija (auto-industrija, logistika prema Mađarskoj/Sloveniji). Potencijalna godišnja najamnina: 5.456 m² × 4 EUR/m²/mj × 12 = ~261.900 EUR bruto; neto prinos ~170-180K EUR/god. Alternativa: razvoj dijela prostora u suvremenu logističku halu (A-klasa) koja postiže 5,5-6,5 EUR/m²/mj. Preprodaja je opcija tek nakon 5+ godina s poboljšanim makro-uvjetima. Reno-flip nije preporučen za industrijsku namjenu.",
+  "entry_price_eur": 1450000,
+  "detailed_risks": [
+    "Industrijska zona Zagrebačka ulica — potrebna provjera prostornog plana za slučaj promjene namjene",
+    "Starost i tehničko stanje hale potpuno nepoznati — potencijalni capex 200-500K EUR za ozbiljno renoviranje",
+    "Varaždin nema direktnu željezničku teretnu logistiku klase kakvu ima Zagreb ili Rijeka — ograničava profil stanara",
+    "Likvidnost izlaza: industrijsku nekretninu ove veličine u NW HR teže je prodati od stambenih — horizont 5-10 god",
+    "Stečajni postupak može biti prolongiran — nejasnoće oko tereta, hipoteka ili potraživanja prema masi",
+    "Moguće ekološko opterećenje parcele (industrijska prošlost) — potrebna due diligence provjera tla",
+    "Valutni rizik marginalan (EUR/HRK = 1:7,53 fiksno, Hrvatska u EU), ali kamatni rizik ako se financira kreditom"
+  ],
+  "upside_scenario": "Ako se osigura dugoročni stanar (npr. auto-dobavljač, 3PL logistika) u roku 6-12 mj od kupovine po 1,45M EUR, neto yield prelazi 11-12%. U 3-godišnjem horizontu s rastom industrijskih najamnina (~5%/god u NW HR) i mogućom expanzijom Varaždina kao logističkog čvorišta prema Mađarskoj, objekt može vrijediti 1,8-2,0M EUR — potencijalni kapitalski dobitak od 350-550K EUR uz redovite prihode od najma.",
+  "downside_scenario": "Ako objekt ostane nepopunjen >12 mj (prazan industrijalni prostor nosi troškove održavanja, poreza, osiguranja ~30-50K EUR/god), a tržište se ne oporavi, likvidacija po tržišnoj vrijednosti može donijeti gubitak od 200-400K EUR na uloženoj cifri. Scenarij lošeg stanja (azbestni krov, trošna instalacija) može generirati neočekivani capex koji ruši ROI. Bez web pretrage nije bilo moguće verificirati aktualne oglasnike — preporuča se vlastita provjera.",
+  "input_hash": "a1b3a0d04551",
+  "scored_at": "2026-04-20T14:55:24.035994"
+}

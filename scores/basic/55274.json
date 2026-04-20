@@ -1,0 +1,18 @@
+{
+  "id": "55274",
+  "score_overall": 1.5,
+  "score_lokacija": 2.0,
+  "score_roi": 1.5,
+  "score_stanje": 1.5,
+  "recommendation": "pass",
+  "reasoning": "Suvlasnički udjeli u kolničkim površinama (Oraščić cesta) industrijske zone Đuro Đaković nemaju nikakav razvojni potencijal – vlasnik ceste ne može je ni ograditi ni naplatiti. Četvrta dražba potvrđuje da tržište taj predmet potpuno odbija.",
+  "flags": [
+    "vlasništvo javnih prometnica – bez razvoja",
+    "58+ suvlasnika (višestruki udjeli)",
+    "industrijska zona u stečaju – Đuro Đaković",
+    "4. dražba – tržišno odbačeno tri puta",
+    "Slavonija – niska likvidnost"
+  ],
+  "input_hash": "fe1f76f7135a",
+  "scored_at": "2026-04-20T13:57:59.098861"
+}

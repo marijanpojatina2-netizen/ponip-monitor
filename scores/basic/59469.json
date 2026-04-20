@@ -1,0 +1,17 @@
+{
+  "id": "59469",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Pivnica kod Virovitice - farma muznih krava s livadom u depopulacijskom slavonskom selu s minimalnom tržišnom likvidnošću i specifičnom agrarnom namjenom koja zahtijeva specijalizirano operativno znanje i stalne troškove. 20% popust na prvoj dražbi ne kompenzira izazove lokacije i namjene za investitora bez agrarnog backgrounda.",
+  "flags": [
+    "depopulacijsko područje - Virovitičko-podravska županija",
+    "specifična agrarna namjena - farma muznih krava",
+    "niska tržišna likvidnost i ograničen krug kupaca",
+    "operativno zahtjevno upravljanje bez agrarnog znanja"
+  ],
+  "input_hash": "5dcd6d7933d8",
+  "scored_at": "2026-04-20T13:11:08.601794"
+}

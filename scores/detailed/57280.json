@@ -1,0 +1,70 @@
+{
+  "id": "57280",
+  "score_overall": 3.5,
+  "score_lokacija": 5.0,
+  "score_roi": 3.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Predmet se sastoji pretežno od poljoprivrednog zemljišta (~1,7 ha) uz stambeno-gospodarsku zgradu u k.o. Lužan (ZK Sesvete, rubna zona Zagreba). Procijenjena vrijednost od 2,57M EUR (~152 EUR/m²) isključivo je opravdana uz potvrđenu građevinsku namjenu prema GUP-u, no opis ne navodi nikakvu takvu potvrdu — uključivanje močvarnih čestica (čkbr. 891) direktno upućuje na ekološka ograničenja koja blokiraju razvoj. Popust od 25% na prvoj dražbi nije atraktivan za ovako neizvjesnu imovinu s visokom apsolutnom cijenom od 1,93M EUR i jamčevinom od 257k EUR. Preporučujem praćenje do 3./4. dražbe uz prethodnu provjeru prostorno-planskih dokumenata.",
+  "flags": [
+    "Stečajni predmet — složena dokumentacija, mogući registrirani tereti po pojedinim česticama koji ne prestaju prodajom",
+    "Parcele u 4 odvojena zk.ul. — svaki uložak može imati vlastite hipoteke ili stvarna prava, nužna detaljna ZK provjera",
+    "Močvara upisana kao namjena (čkbr. 891 i dio 890/4) — potencijalna zaštita NATURA 2000 ili Zone posebnog zaštićenog krajobraza, zabrana građenja",
+    "Neobična kombinacija nadležnih sudova: stečaj u Varaždinu, ZK u Sesvetama — treba provjeriti jesu li sve čestice bez tereta i sporova",
+    "Opis završava s '...' — indikacija da postoje dodatne čestice koje nisu prikazane u javnom opisu dražbe",
+    "Razgledavanje isključivo 'po prethodnom dogovoru' — ograničen pristup, potencijalni problemi s posjedom ili stanarima",
+    "Nema podataka o komunalnoj infrastrukturi (priključci vode, struje, pristupnih cesta za sve parcele)"
+  ],
+  "market_estimate": {
+    "eur_min": 300000,
+    "eur_max": 2000000,
+    "confidence": "low",
+    "basis": "Raspon je iznimno širok zbog ključne nepoznanice glede namjene. Ako su čestice u obuhvatu građevinskog područja GUP-a ili DPU-a, vrijednost iznosi 80–150 EUR/m² za ~17.000 m² = 1,36–2,55M EUR (uz razvijenost infrastrukture). Ako je isključivo OPG/P1 zoniranje, tržišna vrijednost pada na 10–25 EUR/m² = 170k–425k EUR. Procjena od 2,57M EUR upućuje da je procjenitelj uzeo razvojni potencijal, ali bez UPU-a/DPU-a to ostaje špekulacija. Web pretraga nije bila dostupna; procjena bazirana na iskustvenim podacima tržišta Zagreb-okolica 2024–2026."
+  },
+  "comparables": [
+    {
+      "opis": "Građevinsko zemljište Sesvete-Lužan zona, komunalno opremljeno, ~1500 m²",
+      "cijena": 120000,
+      "m2": 1500,
+      "izvor": "tržišna procjena (80 EUR/m²)",
+      "url": "https://www.nekretnine.net/pretraga/prodaja/zemljista/zagreb/sesvete/"
+    },
+    {
+      "opis": "Poljoprivredno imanje s kućom i gospodarskim zgradama, wider Zagreb okolica, ~1 ha",
+      "cijena": 320000,
+      "m2": 10000,
+      "izvor": "tržišna procjena njuskalo.hr",
+      "url": "https://www.njuskalo.hr/prodaja-zemljista/zagreb-okolica"
+    },
+    {
+      "opis": "Stara gospodarska zgrada + oranica, Varaždin-Zagreb koridor, ~8000 m²",
+      "cijena": 180000,
+      "m2": 8000,
+      "izvor": "tržišna procjena",
+      "url": "https://www.nekretnine.net/pretraga/prodaja/kuce/varazdinska-zupanija/"
+    },
+    {
+      "opis": "Razvojna parcela uz autocestu A4 (Zagreb–Varaždin koridor), ~5000 m²",
+      "cijena": 400000,
+      "m2": 5000,
+      "izvor": "tržišna procjena (80 EUR/m²)",
+      "url": "https://www.crozilla.com/prodaja/zemljiste/zagreb-okolica.html"
+    }
+  ],
+  "investment_strategy": "Razvoj/prenamjena — jedini scenarij koji opravdava procijenjenu vrijednost jest da su čestice unutar obuhvata DPU-a ili UPU-a s građevinskom namjenom (stambena, poslovna ili mješovita), što bi otvorilo parcelaciju ~17.000 m² i prodaju manjih građevinskih parcela po 80–150 EUR/m². Alternativno: agro-turizam ili OPG sa smještajnim kapacitetima, ali to ne opravdava startnu cijenu od 1,93M EUR. Za razmatranje isključivo na 3./4. dražbi uz prethodni uvid u prostorne planove Sesveta.",
+  "entry_price_eur": 750000,
+  "detailed_risks": [
+    "Zoniranje nepoznato — ključni rizik br. 1; bez potvrde građevinskog statusa iz GUP-a/DPU-a procijenjena vrijednost 2,57M EUR nema utemeljenja",
+    "Močvarne čestice mogu biti u ekološkoj mreži Natura 2000 ili pod zaštitom Zakona o vodama — zabrana izgradnje, nulta tržišna vrijednost",
+    "4 odvojena ZK uloška — moguće hipoteke po pojedinačnim česticama koje se ne gase stečajnom prodajom; potrebna detaljna ZK povijest",
+    "Jamčevina 257.340 EUR blokira kapital tjednima/mjesecima bez alternativnog prinosa",
+    "Opis parcela završava s '...' — postoje nepoznate dodatne čestice, moguće s dodatnim teretima ili lošijim karakteristikama",
+    "Tržišna nelikvidnost za predmete >1M EUR u ne-turističkim zonama — exit strategija otežana, realizacija 2–5 godina",
+    "Stečajna masa može imati korisnike/zakupce koji ometaju preuzimanje faktičnog posjeda bez sudskog procesa",
+    "Infrastrukturna neopremljenost: voda, struja, nerazvrstane ceste za ruralne čestice — dodatni trošak priključenja"
+  ],
+  "upside_scenario": "Potvrđeno građevinsko zemljište u GUP-u Sesveta s komunalnim priključcima: investitor stječe na 3./4. dražbi za ~800k EUR, parcelira 17.000 m² u parcele od 500–800 m², prodaje po 100–130 EUR/m² = ukupni prihod 1,7–2,2M EUR, profit 900k–1,4M EUR (2–3 god, ROI 110–175%). Kuća moguće renovirati kao sjedište projekta ili prodati zasebno za 200–300k EUR.",
+  "downside_scenario": "Sve čestice u zoni P1/P2 (zaštitno/ekološko poljoprivredno) ili mokro stanište bez mogućnosti prenamjene. Investitor kupuje na prvoj dražbi za 1,93M EUR, ne može dobiti lokacijsku dozvolu, kuća zahtijeva >150k EUR obnove, pristupni put sporan. Prodaja u gubitku 1,2–1,5M EUR u horizon od 5+ godina uz pravne i operativne troškove.",
+  "input_hash": "e07c9bd1a46a",
+  "scored_at": "2026-04-20T14:53:50.495953"
+}

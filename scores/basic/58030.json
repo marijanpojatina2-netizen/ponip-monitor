@@ -1,0 +1,12 @@
+{
+  "id": "58030",
+  "score_overall": 7.0,
+  "score_lokacija": 6.5,
+  "score_roi": 7.5,
+  "score_stanje": 6.0,
+  "recommendation": "bid",
+  "reasoning": "Samobor je tražena rezidenijska lokacija blizu Zagreba, a 40% popust na drugoj dražbi daje solidan ulazni ROI; stan 79 m2 + 48 m2 pomoćnog prostora za ~79.5k EUR je konkurentno i bez vidljivih crvenih zastava.",
+  "flags": [],
+  "input_hash": "86f243d6594d",
+  "scored_at": "2026-04-20T13:51:38.838748"
+}

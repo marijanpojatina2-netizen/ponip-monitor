@@ -1,0 +1,15 @@
+{
+  "id": "59617",
+  "score_overall": 5.5,
+  "score_lokacija": 5.5,
+  "score_roi": 5.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Vrapče je solidna prometno dobro povezana lokacija zapadnog Zagreba, ali 20% popust na prvoj dražbi je na donjoj granici prihvatljivosti; stan od 57m2 na 6. katu je standardan format bez posebnih prednosti.",
+  "flags": [
+    "prva dražba - minimalni popust",
+    "Vrapče - periferija Zagreba, ne centar"
+  ],
+  "input_hash": "27c6ceb4f30d",
+  "scored_at": "2026-04-20T13:40:48.386816"
+}

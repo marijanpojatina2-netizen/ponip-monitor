@@ -1,0 +1,16 @@
+{
+  "id": "59159",
+  "score_overall": 4.0,
+  "score_lokacija": 4.5,
+  "score_roi": 4.0,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Suterenski poslovni prostor 291 m2 u industrijskoj periferiji Rijeke s minimalnim popustom 20% na prvoj dražbi i samo 486/1000 suvlasničkim udjelom; nepotpuno vlasništvo i loša likvidnost eliminiraju investicijski case.",
+  "flags": [
+    "486/1000 suvlasnički udio – kupac ne stječe puno vlasništvo",
+    "suterenska lokacija poslovnog prostora – slaba tržišna likvidnost",
+    "periferija Rijeke (Marinići/Bezjaki) – ograničena potražnja"
+  ],
+  "input_hash": "e02d699352d8",
+  "scored_at": "2026-04-20T13:09:07.447321"
+}

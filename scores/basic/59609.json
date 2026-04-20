@@ -1,0 +1,15 @@
+{
+  "id": "59609",
+  "score_overall": 6.5,
+  "score_lokacija": 7.0,
+  "score_roi": 6.5,
+  "score_stanje": 5.5,
+  "recommendation": "bid",
+  "reasoning": "Stan 159,50 m2 na 2. katu u Zadru po ~1.837 EUR/m2 startna - identičan case kao N4, dobra arbitražna prilika u traženom Zadar tržištu s jasnim potencijalom za kratkoročni najam.",
+  "flags": [
+    "isti zk.ul. 12458 kao nekretnina ID 59607 - dvije jedinice iste zgrade na dražbi (ispitati stanje zgrade i HOA)",
+    "stanje stana nepoznato - potreban uvid"
+  ],
+  "input_hash": "274717e86256",
+  "scored_at": "2026-04-20T12:41:35.306964"
+}

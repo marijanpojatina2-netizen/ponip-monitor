@@ -1,0 +1,17 @@
+{
+  "id": "57855",
+  "score_overall": 5.5,
+  "score_lokacija": 6.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Sesvete (Zagreb) - neizgrađena livada 1088 m² s 40% popustom na drugoj dražbi ima razvojni potencijal u rastućem predgrađu; međutim suvlasnički udio 4/8 i neizgrađenost značajno kompliciraju investicijsku tezu.",
+  "flags": [
+    "suvlasnički dio 4/8 - kupuje se samo polovina",
+    "livada bez objekta - development risk",
+    "Pakračka ulica - obvezno provjeriti prostorni plan (namjena GUP-a)",
+    "suglasnost suvlasnika neophodna za razvoj"
+  ],
+  "input_hash": "666f0f82ecd1",
+  "scored_at": "2026-04-20T13:21:03.131905"
+}

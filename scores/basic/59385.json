@@ -1,0 +1,16 @@
+{
+  "id": "59385",
+  "score_overall": 5.0,
+  "score_lokacija": 4.5,
+  "score_roi": 6.0,
+  "score_stanje": 4.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Dvije zgrade ukupno 867m2 + industrijsko dvorište 578m2 uz 25% popust - omjer površine i cijene (~208 EUR/m2 poslovnog prostora) je potencijalno izniman ako je lokacija k.o. Šarampov prikladna za poslovnu/industrijsku upotrebu. Potrebna hitna provjera namjene prostora, komunalne infrastrukture i tržišne potražnje za poslovnim prostorom.",
+  "flags": [
+    "krčevine - potrebna provjera legalizacije",
+    "industrijska namjena - specifičan kupac profil",
+    "nepoznata mikrolokacija k.o. Šarampov"
+  ],
+  "input_hash": "5539d413c3d2",
+  "scored_at": "2026-04-20T13:01:00.585210"
+}

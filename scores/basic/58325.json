@@ -1,0 +1,16 @@
+{
+  "id": "58325",
+  "score_overall": 4.0,
+  "score_lokacija": 3.5,
+  "score_roi": 4.0,
+  "score_stanje": 5.5,
+  "recommendation": "pass",
+  "reasoning": "Stan 78 m2 u Metkoviću s 20% popustom formalno izgleda pristojno, ali grad bilježi negativni demografski trend i izrazito nisku likvidnost tržišta nekretnina bez turističke komponente; za investitora bez lokalne potrebe realna izlazna strategija ne postoji.",
+  "flags": [
+    "Metković - depopulacijski trend",
+    "niska tržišna likvidnost, otežana preprodaja",
+    "bez turističkog ili razvojnog potencijala"
+  ],
+  "input_hash": "ff1eddadb602",
+  "scored_at": "2026-04-20T14:13:54.326565"
+}

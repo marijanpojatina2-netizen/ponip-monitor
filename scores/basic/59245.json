@@ -1,0 +1,16 @@
+{
+  "id": "59245",
+  "score_overall": 4.0,
+  "score_lokacija": 4.5,
+  "score_roi": 4.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Opis eksplicitno navodi 1/17 suvlasničkog udjela što sugerira moguće djelomično vlasništvo nad prostorom, a ne samo standardni udio u zemljištu - to je značajan pravni rizik koji treba razjasniti. Slavonski Brod ima ograničeno tržište poslovnih prostora, a bez jasnoće o vlasničkoj strukturi predmet nije investicijski atraktivan.",
+  "flags": [
+    "potencijalno samo 1/17 suvlasničkog udjela (nejasna vlasnička struktura - obavezna provjera ZK)",
+    "poslovni prostor na I. katu (slabija vidljivost i protok)",
+    "slabo tržište poslovnih prostora u Slavoniji"
+  ],
+  "input_hash": "7fb2c40073d3",
+  "scored_at": "2026-04-20T14:04:36.438049"
+}

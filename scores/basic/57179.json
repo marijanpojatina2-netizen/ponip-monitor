@@ -1,0 +1,16 @@
+{
+  "id": "57179",
+  "score_overall": 5.0,
+  "score_lokacija": 5.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "40% popust i druga dražba su privlačni faktori, a građevinska čestica od 2100m2 uz rubnik naselja ima razvojni potencijal; kritičan problem je potpuni izostanak direktnog pristupa parceli što pravno i financijski može biti nerješivo ili skupo.",
+  "flags": [
+    "pristup parceli isključivo preko tuđih parcela - nema direktnog pristupa",
+    "kč.br. 1176/1 katastrarski vodi kao pašnjak",
+    "unutarnja Istra - nije obalna lokacija"
+  ],
+  "input_hash": "074b6cbce8ba",
+  "scored_at": "2026-04-20T13:40:48.387044"
+}

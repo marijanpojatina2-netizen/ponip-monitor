@@ -1,0 +1,16 @@
+{
+  "id": "58324",
+  "score_overall": 7.5,
+  "score_lokacija": 8.5,
+  "score_roi": 8.5,
+  "score_stanje": 5.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Kuća 99.33 m2 s dvorištem 298 m2 u Supetru na Braču na drugoj dražbi s 40% popustom od procjene predstavlja izniman investicijski slučaj u jednoj od najtraženijih jadranskih destinacija blizu Splita; suvlasnički udio 1/3 je ključni rizik koji zahtijeva hitnu pravnu i terensku analizu.",
+  "flags": [
+    "suvlasnički udio 1/3 - obvezna suglasnost suvlasnika za sve odluke",
+    "potrebna provjera stanuje li netko u objektu",
+    "izlazna strategija otežana bez otkupa preostalih 2/3"
+  ],
+  "input_hash": "9d56b25631c5",
+  "scored_at": "2026-04-20T14:09:55.677106"
+}

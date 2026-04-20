@@ -1,0 +1,16 @@
+{
+  "id": "57189",
+  "score_overall": 3.0,
+  "score_lokacija": 2.0,
+  "score_roi": 5.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Donja Kupčina je ruralno depopulacijsko područje bez turističkog ni poslovnog potencijala unatoč 50% popustu na drugoj dražbi; zapušteni gospodarski objekti iz 1950-ih traže enormnu investiciju bez jasnog izlaza i likvidnog kupca.",
+  "flags": [
+    "zapušteni gospodarski objekti iz 1950-60-ih",
+    "ruralno depopulacijsko područje",
+    "neuseljivo / loše tehničko stanje"
+  ],
+  "input_hash": "e67ce6b3880f",
+  "scored_at": "2026-04-20T13:22:37.998199"
+}

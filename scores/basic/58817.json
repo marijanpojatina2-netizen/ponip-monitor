@@ -1,0 +1,16 @@
+{
+  "id": "58817",
+  "score_overall": 5.5,
+  "score_lokacija": 6.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Zagreb, potkrovni dvoetažni stan 56m2 s 20% popustom na prvoj dražbi - lokacija OK ali efektivna cijena ~3.450 EUR/m2 nije atraktivna za prvu dražbu. Kompleksna vlasnička struktura (suvlasništvo 10,39/100 + etažno vlasništvo) zahtijeva detaljnu provjeru ZK izvadka.",
+  "flags": [
+    "kompleksna vlasnička struktura (suvlasništvo + etažno)",
+    "prva dražba - manji popust",
+    "mala površina 56m2 uz visoku apsolutnu cijenu"
+  ],
+  "input_hash": "a71e1b61731d",
+  "scored_at": "2026-04-20T13:01:00.584798"
+}

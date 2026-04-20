@@ -1,0 +1,15 @@
+{
+  "id": "57311",
+  "score_overall": 5.5,
+  "score_lokacija": 3.5,
+  "score_roi": 7.5,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Druga dražba s 40% popustom daje dobar cjenovni entry, ali k.o. Josipovac (ruralna periferija Osijeka) ima slabu likvidnost i ograničen najamni/turistički potencijal što degradira dugoročni ROI.",
+  "flags": [
+    "Josipovac – ruralna periferija Osijeka, slabija likvidnost",
+    "Osijek – jedno od slabijih regionalnih tržišta"
+  ],
+  "input_hash": "4aa1a5f5676d",
+  "scored_at": "2026-04-20T13:47:48.601747"
+}

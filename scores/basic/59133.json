@@ -1,0 +1,16 @@
+{
+  "id": "59133",
+  "score_overall": 3.5,
+  "score_lokacija": 3.0,
+  "score_roi": 3.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Vratno Gornje je ruralno depopulacijsko područje s izrazito limitiranom tržišnom likvidnošću; 20% popust na prvoj dražbi ne kompenzira slabu potražnju i ograničene izlazne strategije za seosko domaćinstvo s gospodarskim zgradama.",
+  "flags": [
+    "ruralna lokacija - depopulacija",
+    "seosko domaćinstvo s gospodarskim zgradama - uska tržišna niša",
+    "livada kao dio čestice smanjuje korisnu površinu"
+  ],
+  "input_hash": "da28994ea2df",
+  "scored_at": "2026-04-20T13:19:00.304914"
+}

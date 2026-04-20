@@ -1,0 +1,15 @@
+{
+  "id": "58575",
+  "score_overall": 4.5,
+  "score_lokacija": 4.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Šenkovec je prigradsko naselje Čakovca s anstandardnom potražnjom za obiteljskim kućama; kuća s garažom i dvorištem standardna je ponuda za tu regiju. 20% popust na prvoj dražbi ne nudi dovoljnu marginu za špekulativnu investiciju, ali može biti solidan owner-occupier case.",
+  "flags": [
+    "nepoznato stanje objekta",
+    "192 čhv – arhajska mjerna jedinica, površina nejasna bez konverzije"
+  ],
+  "input_hash": "1517716dcddd",
+  "scored_at": "2026-04-20T13:26:18.791995"
+}

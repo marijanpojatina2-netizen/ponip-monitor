@@ -1,0 +1,16 @@
+{
+  "id": "59167",
+  "score_overall": 5.5,
+  "score_lokacija": 5.5,
+  "score_roi": 5.0,
+  "score_stanje": 6.0,
+  "recommendation": "watch",
+  "reasoning": "Markuševec je periferija Zagreba s umjerenom potražnjom, ali 88 m2 višeetažnog stana s garažom, vrtom i parkingom daje dobru ukupnu kvadraturu uz 20% popust; suvlasnički udio zahtijeva provjeru suvlasničkih odnosa.",
+  "flags": [
+    "27/100 suvlasnički udio – rizik suvlasničkih odnosa",
+    "Markuševec – niža likvidnost od centra i sjeverozapada Zagreba",
+    "višeetažni stan (prizemlje + potkrovlje) – moguće strukturne specifičnosti"
+  ],
+  "input_hash": "6bb942f92feb",
+  "scored_at": "2026-04-20T13:34:18.172660"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "50804",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Isključivo poljoprivredno zemljište (voćnjaci i oranice) u ruralnoj depopulacijskoj Slavoniji bez ikakvog objekta; 25% popust na prvoj dražbi ne kompenzira iznimno nisku likvidnost i slabu investicijsku perspektivu regije.",
+  "flags": [
+    "ruralna depopulacijska Slavonija",
+    "samo poljoprivredno zemljište - bez objekta",
+    "niska likvidnost agrikulturnog tržišta"
+  ],
+  "input_hash": "b57db0e68bc7",
+  "scored_at": "2026-04-20T12:50:46.291878"
+}

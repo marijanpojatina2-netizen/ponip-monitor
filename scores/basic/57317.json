@@ -1,0 +1,15 @@
+{
+  "id": "57317",
+  "score_overall": 5.5,
+  "score_lokacija": 3.5,
+  "score_roi": 7.0,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "40% popust na 2. dražbi u Josipovcu dobar je financijski ulaz, no Josipovac je malo naselje s niskom likvidnošću i ograničenim najamnim tržištem. Pratiti ako cijena ostane ista ili padne na trećoj dražbi.",
+  "flags": [
+    "Josipovac – selo, niska likvidnost (ne Osijek centar)",
+    "ograničen najamni prinos u ruralnoj sredini"
+  ],
+  "input_hash": "f15153f88e14",
+  "scored_at": "2026-04-20T13:57:59.098975"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "58616",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 3.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Ruralno imanje u Haganaju (Vrbovec okolica) s tek 20% popustom na prvoj dražbi nudi slab investicijski case – depopulacijska zona s niskom likvidnošću i minimalnim turističkim potencijalom. Cijena od 74.400 EUR za ruralno imanje nepoznatog stanja u slaboj regiji ne opravdava aktivni ulazak.",
+  "flags": [
+    "ruralno depopulacijsko područje – niska likvidnost",
+    "samo 20% popust na prvoj dražbi",
+    "nepoznato stanje kuće i zgrada",
+    "miješani sadržaj (kuća + oranica + vinograd + livada) – kompleksno upravljanje"
+  ],
+  "input_hash": "c18282dd3b9f",
+  "scored_at": "2026-04-20T14:20:40.102048"
+}

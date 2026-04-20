@@ -1,0 +1,16 @@
+{
+  "id": "59660",
+  "score_overall": 5.5,
+  "score_lokacija": 8.5,
+  "score_roi": 5.0,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Orebić/Pelješac je premium turistička destinacija s odličnim dugoročnim potencijalom, ali nezavršena kuća uz samo 20% popusta na prvoj dražbi znači da stvarni ulagački trošak (cijena + dovršetak) znatno premašuje početnu cijenu.",
+  "flags": [
+    "nezavršena kuća - nepoznati troškovi i rokovi dovršetka",
+    "20% popust na prvoj dražbi ne pokriva rizik nedovršenosti",
+    "čekati sljedeću dražbu ili detaljno procijeniti troškove dovršetka"
+  ],
+  "input_hash": "6d85fccb2867",
+  "scored_at": "2026-04-20T12:50:46.292463"
+}

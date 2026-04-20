@@ -1,0 +1,17 @@
+{
+  "id": "59231",
+  "score_overall": 3.5,
+  "score_lokacija": 3.0,
+  "score_roi": 5.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Vojzovica/Veleškovec kraj Osijeka - mješovita nekretnina (kuća + skladište + ceste) uz prugu u ruralnom okruženju; 25% popust na prvoj dražbi nije dovoljan za kompenzaciju lokacijskih i strukturnih rizika.",
+  "flags": [
+    "kuća i skladište uz prugu - buka i deprecijacija",
+    "ceste i putevi u sastavu nekretnine - komunalni rizik",
+    "ruralna lokacija slabije likvidnosti",
+    "mixed-use nejasne namjene"
+  ],
+  "input_hash": "ecb8d532a7c7",
+  "scored_at": "2026-04-20T13:21:03.131784"
+}

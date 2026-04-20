@@ -1,0 +1,16 @@
+{
+  "id": "58510",
+  "score_overall": 4.0,
+  "score_lokacija": 3.5,
+  "score_roi": 4.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Krasica je ruralno selo s niskom likvidnošću tržišta nekretnina i bez turističkog potencijala; iako dvije etažne jedinice (~175m2) za 127k EUR izgledaju povoljno, exit strategija je nejasna i zona ne privlači kapitalne investitore.",
+  "flags": [
+    "Krasica - izrazito niska tržišna likvidnost",
+    "poslovni prostor bez poznatih najamnih prihoda",
+    "miješana namjena (poslovni + stambeni) komplicira prodaju"
+  ],
+  "input_hash": "c3c0f2de0f31",
+  "scored_at": "2026-04-20T13:30:38.689941"
+}

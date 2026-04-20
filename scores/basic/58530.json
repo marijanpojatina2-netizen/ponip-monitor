@@ -1,0 +1,16 @@
+{
+  "id": "58530",
+  "score_overall": 3.0,
+  "score_lokacija": 3.5,
+  "score_roi": 3.0,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Ruralno Zagorje (k.o. Strmec/Vižovlje kraj Zaboka) s oranicama i pašnjacima bez ikakve zgrade nudi isključivo zemljišnu vrijednost s minimalnim razvojnim potencijalom; suvlasništvo 1/2 svaki budući razvoj ili prodaju čini dodatno kompliciranim i dugotrajnim.",
+  "flags": [
+    "suvlasništvo 1/2 - ograničeno raspolaganje",
+    "samo zemlja bez zgrade",
+    "ruralno Zagorje - niska tržišna likvidnost"
+  ],
+  "input_hash": "1e393bbecd69",
+  "scored_at": "2026-04-20T14:11:34.788184"
+}

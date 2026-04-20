@@ -1,0 +1,17 @@
+{
+  "id": "59721",
+  "score_overall": 5.0,
+  "score_lokacija": 6.5,
+  "score_roi": 4.0,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Kuća na Pagu je lokacijski interesantna, ali suvlasništvo po ½ je kritičan problem - bez suglasnosti suvlasnika nema slobodne prodaje ni najma, što drastično smanjuje likvidnost i ROI.",
+  "flags": [
+    "SUVLASNIŠTVO 1/2 - bez pune kontrole nad nekretninom",
+    "bez suglasnosti drugog suvlasnika nema prodaje ni najma",
+    "Murvica - sezonska lokacija s ograničenim offseason tržištem",
+    "provjera tko je drugi suvlasnik i je li suradnja moguća"
+  ],
+  "input_hash": "049fb4c4fdb6",
+  "scored_at": "2026-04-20T12:41:35.306891"
+}

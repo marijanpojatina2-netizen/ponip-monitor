@@ -1,0 +1,15 @@
+{
+  "id": "59101",
+  "score_overall": 3.5,
+  "score_lokacija": 5.0,
+  "score_roi": 3.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Polovina voćnjaka (~282 m2) u Šestinama bez ikakvog objekta i uz samo 20% popust na prvoj dražbi ne tvori investicijski slučaj; suvlasništvo dodatno otežava svako buduće raspolaganje.",
+  "flags": [
+    "suvlasničko pravo 1/2 - ograničeno samostalno raspolaganje",
+    "bez izgrađenog objekta - samo voćnjak"
+  ],
+  "input_hash": "9cdfbb134b07",
+  "scored_at": "2026-04-20T14:15:52.853796"
+}
