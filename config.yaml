@@ -12,11 +12,11 @@ scoring_enabled: true
 
 # Max broj basic scoringa per run (batched po 15, pa 100 = ~7 claude poziva)
 # Max plan daje cca 200 poziva po 5h — 100/dan je daleko ispod limita
-max_basic_per_run: 100
+max_basic_per_run: 500
 
 # Max broj detailed scoringa per run (jedan-po-jedan, s web search, sporo)
 # Jedan detailed = ~2 min. 10/dan = 20 min
-max_detailed_per_run: 10
+max_detailed_per_run: 40
 
 # Veličina batch-a za basic scoring
 batch_size_basic: 8
