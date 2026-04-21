@@ -21,7 +21,7 @@ import requests
 import yaml
 from dotenv import load_dotenv
 
-from scorer import score_items, DETAILED_THRESHOLD_EUR
+from scorer import score_items, DETAILED_THRESHOLD_EUR, load_cached
 from emailer import send_email
 
 # ============================================================================
@@ -446,6 +446,24 @@ def build_email_html(new_items: list[dict], urgent_items: list[dict], meta: dict
 </html>"""
 
 
+def _write_dashboard(records: list[dict], cutoff_days: int) -> None:
+    new_records = [r for r in records if r["nova"]]
+    urgent_records = [r for r in records if r["urgent"]]
+    meta = {
+        "generated_at": datetime.now().isoformat(),
+        "today": datetime.now().strftime("%Y-%m-%d"),
+        "total_active": len(records),
+        "new_count": len(new_records),
+        "urgent_count": len(urgent_records),
+        "alert_days": cutoff_days,
+        "scored_count": sum(1 for r in records if r.get("score")),
+        "detailed_count": sum(1 for r in records if r.get("detailed")),
+    }
+    html = build_dashboard(records, meta)
+    DASHBOARD_OUT.write_text(html, encoding="utf-8")
+    log.info(f"Dashboard: {DASHBOARD_OUT} ({DASHBOARD_OUT.stat().st_size / 1024:.0f} KB)")
+
+
 # ============================================================================
 # MAIN
 # ============================================================================
@@ -493,6 +511,14 @@ def main():
         log.warning(f"Preskačem {skipped_no_id} record-a bez ID-a (FINA CSV nema 'ID nadmetanja')")
         records = [r for r in records if r["id"]]
 
+    # PRE-SCORING: napuni iz cache-a pa napiši dashboard odmah (safety-net
+    # za slučaj da scoring padne na timeoutu — makar imamo svježi dashboard
+    # s današnjim recordima i postojećim cached scoreovima).
+    for r in records:
+        r["score"] = load_cached(r["id"], detailed=False)
+        r["detailed"] = load_cached(r["id"], detailed=True)
+    _write_dashboard(records, cutoff_days)
+
     # AI SCORING
     if cfg.get("scoring_enabled", True):
         log.info("Pokrećem AI scoring...")
@@ -504,13 +530,16 @@ def main():
                 batch_size=cfg.get("batch_size_basic", 15),
             )
             for r in records:
-                r["score"] = basic_scores.get(r["id"])
-                r["detailed"] = detailed_scores.get(r["id"])
+                r["score"] = basic_scores.get(r["id"]) or r["score"]
+                r["detailed"] = detailed_scores.get(r["id"]) or r["detailed"]
             log.info(f"Scored: {len(basic_scores)} basic, {len(detailed_scores)} detailed")
         except Exception as e:
             log.exception(f"Scoring failed: {e} — continuing without scores")
     else:
         log.info("Scoring disabled u configu")
+
+    # Finalni dashboard (sa svježim scoreovima iz ove iteracije)
+    _write_dashboard(records, cutoff_days)
 
     new_records = [r for r in records if r["nova"]]
     urgent_records = [r for r in records if r["urgent"]]
@@ -532,11 +561,6 @@ def main():
         "scored_count": sum(1 for r in records if r["score"]),
         "detailed_count": sum(1 for r in records if r["detailed"]),
     }
-
-    # Dashboard
-    dashboard_html = build_dashboard(records, meta)
-    DASHBOARD_OUT.write_text(dashboard_html, encoding="utf-8")
-    log.info(f"Dashboard: {DASHBOARD_OUT} ({DASHBOARD_OUT.stat().st_size / 1024:.0f} KB)")
 
     # Email arhiva
     public_url = os.environ.get("PONIP_PUBLIC_URL")

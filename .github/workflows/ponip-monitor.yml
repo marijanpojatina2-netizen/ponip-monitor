@@ -156,6 +156,8 @@ jobs:
           else
             STATS=$(git diff --staged --numstat | awk '{added+=$1; deleted+=$2; files++} END {printf "%d files, +%d -%d", files, added, deleted}')
             git commit -m "chore: daily run $(date -u +%Y-%m-%d) (${STATS})"
+            # Rebase ako je netko pushao u međuvremenu (izbjegava "fetch first" reject)
+            git pull --rebase origin main
             git push
             echo "✓ State committed & pushed"
           fi
