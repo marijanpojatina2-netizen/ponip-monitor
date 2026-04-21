@@ -1,0 +1,16 @@
+{
+  "id": "55483",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Isključivo oranica u Pitomači (Virovitičko-podravska) bez ikakvog objekta - nema temelja za stambenu ili turističku investiciju. Slavonija s depopulacijom i samo 20% popustom na prvoj dražbi čini ovo nevrijednim razmatranja.",
+  "flags": [
+    "samo poljoprivredno zemljište bez objekta",
+    "Slavonija - depopulacijsko područje",
+    "nema generatora prihoda"
+  ],
+  "input_hash": "65e0aeac0de5",
+  "scored_at": "2026-04-21T13:34:55.353215"
+}

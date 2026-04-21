@@ -1,0 +1,16 @@
+{
+  "id": "58148",
+  "score_overall": 4.0,
+  "score_lokacija": 2.5,
+  "score_roi": 6.0,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Kuća 359 m2 s 40% popustom na drugoj dražbi daje financijski privlačnu točku ulaza (~12.7k EUR), ali lokacija u Gradištu (Županja područje) s izrazitom depopulacijom drastično ograničava exit strategije i prihodni potencijal. Zanimljivo samo za lokalne kupce ili spekulativni land-banking.",
+  "flags": [
+    "izrazito depopulacijsko područje - Županja",
+    "slaba tržišna likvidnost i teška preprodaja",
+    "stanje objekta nije opisano"
+  ],
+  "input_hash": "804b578ffac9",
+  "scored_at": "2026-04-21T13:34:55.353329"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "59092",
+  "score_overall": 4.0,
+  "score_lokacija": 4.5,
+  "score_roi": 4.0,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Sesvetski Kraljevec je atraktivna periferija Zagreba s rastućim tržištem nekretnina, ali suvlasništvo od 3/6 (50%) na šumsko/livadnom zemljištu bez objekta komplicira upravljanje i exit; vrijedi pratiti za dugoročno zemljišno ulaganje ako se suvlasnički odnosi mogu riješiti.",
+  "flags": [
+    "suvlasništvo 3/6 (50%)",
+    "samo zemljište bez objekta",
+    "potrebno rješavanje suvlasničkih odnosa za optimalnu exit"
+  ],
+  "input_hash": "12e8e5abe60f",
+  "scored_at": "2026-04-21T13:36:27.163730"
+}

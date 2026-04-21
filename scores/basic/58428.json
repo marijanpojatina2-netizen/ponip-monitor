@@ -1,0 +1,16 @@
+{
+  "id": "58428",
+  "score_overall": 2.5,
+  "score_lokacija": 3.5,
+  "score_roi": 2.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Neizgrađena livada u 1/2 suvlasništva u Zaboku - minimalni popust od 20% na prvoj dražbi uz suvlasnički udio drastično limitira upotrebljivost i svaki izlaz iz investicije. Niska likvidnost neizgrađenog zemljišta u manjoj zagorskoj sredini bez jasnog razvojnog potencijala ne opravdava angažman.",
+  "flags": [
+    "1/2 suvlasnički udio",
+    "samo neizgrađena livada - bez objekta",
+    "niska likvidnost - neizgrađeno"
+  ],
+  "input_hash": "b5fbe6e9cbce",
+  "scored_at": "2026-04-21T13:22:13.381051"
+}

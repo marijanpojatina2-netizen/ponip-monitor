@@ -1,0 +1,16 @@
+{
+  "id": "59555",
+  "score_overall": 3.5,
+  "score_lokacija": 3.5,
+  "score_roi": 3.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Sveti Križ Začretje je solidna Zagorje lokacija, ali sama livada od 1396 m2 bez ikakvog objekta uz 20% popusta na prvoj dražbi nema investicijskog smisla bez jasne strategije parcelacije ili gradnje.",
+  "flags": [
+    "samo livada bez objekta",
+    "nema izravnog prihoda",
+    "niska likvidnost agrarnog zemljišta"
+  ],
+  "input_hash": "c213ba2788e9",
+  "scored_at": "2026-04-21T13:36:27.163629"
+}

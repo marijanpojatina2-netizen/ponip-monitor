@@ -1,0 +1,16 @@
+{
+  "id": "59403",
+  "score_overall": 5.5,
+  "score_lokacija": 7.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Šuma od 5430 m² u k.o. Sv. Ivan blizu Poreča - iznimna istranska lokacija s dugoročnim potencijalom aprecijacije, no stroge restrikcije šumskog zemljišta (zabrana gradnje, šumskogospodarski plan) ograničavaju razvoj i likvidnost.",
+  "flags": [
+    "šuma - zabrana gradnje po Zakonu o šumama",
+    "potrebna provjera kategorije zaštite i šumskogospodarskog plana",
+    "20% popust s prvom dražbom - likvidnost šumskog zemljišta niska čak i u Istri"
+  ],
+  "input_hash": "f8a3d8ece2b7",
+  "scored_at": "2026-04-21T13:31:48.524377"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "59011",
+  "score_overall": 4.0,
+  "score_lokacija": 5.5,
+  "score_roi": 3.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Industrijska nekretnina (3 objekta, ukupno ~599 m² građevine) na Zagrebačkoj ulici u Varaždinu — solidan grad ali bez turističkog multipliera. Procijenjena vrijednost 1.000.000 EUR izgleda naduvena za stare industrijske zgrade ovog gabarita; tržišna vrijednost procjenjuje se na 480–680k EUR, što znači da početna cijena od 750k EUR ne daje realnu maržu sigurnosti na prvoj dražbi. Likvidnost industrijskog segmenta u Varaždinu je ograničena, a izlaz iz pozicije u horizont 2-3 god je neizvjestan. Potencijal postoji jedino kroz prenamjenu (GUP uvjet) ili strpljivo čekanje druge/treće dražbe.",
+  "flags": [
+    "stečajni postupak — nepoznata opterećenja, hipoteke, komunalni dugovi",
+    "stanje objekata nepoznato — procjena dostupna samo na pisani upit, red flag za skrivene troškove",
+    "tri zasebne industrijske zgrade različitih površina — moguć neujednačen konstruktivni status",
+    "prva dražba — nema 'distressed pricing' bonusa, cijena blizu procjene",
+    "industrijska namjena — uzak krug kupaca, otežan exit"
+  ],
+  "market_estimate": {
+    "eur_min": 480000,
+    "eur_max": 680000,
+    "confidence": "low",
+    "basis": "Bez pristupa portalu — procjena temeljena na industrijskom tržištu sjeverozapadne Hrvatske: industrijska/poslovna parcela 1.476 m² u Varaždinu ~120–200 EUR/m² (177k–295k EUR) + 599 m² starih industrijskih objekata ~500–600 EUR/m² (300k–360k EUR). Dodatni uplift mogući samo ako GUP zona dopušta komercijalnu ili mješovitu gradnju na Zagrebačkoj ulici."
+  },
+  "comparables": [
+    {
+      "opis": "Poslovni/industrijski objekt ~600 m², Varaždin okolica — tipičan raspon na tržištu (procjena bez live portala)",
+      "cijena": 360000,
+      "m2": 600,
+      "izvor": "procjena-bez-portala",
+      "url": "N/A — web pretraga nije bila dostupna u ovoj sesiji"
+    }
+  ],
+  "investment_strategy": "Primarno: redevelopment — ako GUP Varaždin dozvoljava prenamjenu parcele na Zagrebačkoj ulici u komercijalnu ili mješovitu stambeno-poslovnu, vrijednost skače na 1,2–1,8M EUR (izgradnja 2–3 kata). Sekundarno: industrijski/skladišni najam po 6–8 EUR/m²/mj za ~500 m² neto = 36–48k EUR godišnje, prinos ~5–6% na entry od 700k — marginalno. Preporučena strategija je čekanje 2. dražbe (~600k) + due diligence GUP-a prije bilokakve ponude.",
+  "entry_price_eur": 560000,
+  "detailed_risks": [
+    "Procijenjena vrijednost 1.000.000 EUR potencijalno je inflirana od strane stečajnog procjenitelja — neovisna procjena obavezna",
+    "Nepoznato stanje krovišta, instalacija, temelja starih industrijskih zgrada — sanacijski troškovi 50–150k EUR realni",
+    "Rizik kontaminacije tla (industrijska upotreba) — trošak remedijacije može biti 30–100k EUR+",
+    "GUP Varaždin može ograničiti prenamjenu na isključivo industrijsku upotrebu, eliminirajući razvojni potencijal",
+    "Ograničen bazen kupaca pri izlasku iz pozicije — industrijsko tržište Varaždina je plitko",
+    "Moguće prometne servitute ili infrastrukturni tereti na parceli uz Zagrebačku ulicu",
+    "Komunalni doprinosi pri eventualnoj novogradnji na parceli mogu biti značajni"
+  ],
+  "upside_scenario": "Ako GUP dozvoljava komercijalnu izgradnju: kupnja na 2. dražbi za ~600k EUR, ishođenje lokacijske dozvole za poslovnu zgradu 1.200–1.500 m² BRP, prodaja developeru ili izgradnja i prodaja po 1.500–1.800 EUR/m² = 1,8–2,7M EUR bruto vrijednosti u roku 3–4 god, s maržom 800k–1,5M EUR prije troškova gradnje (~800k–1,1M EUR). Neto IRR ~20–30% uz optimalne uvjete.",
+  "downside_scenario": "Kupnja po 750k EUR, otkrivanje loše konstrukcije i kontaminacije tla (+100–150k EUR sanacija), GUP zabranjuje prenamjenu — ostaje industrijska nekretnina s prinosom 40–48k EUR/god (prinos ~5,5% na ukupni trošak od ~870k EUR). Aprecijacija minimalna; exit po sličnoj ili nižoj cijeni u roku 5 god uz uski krug kupaca.",
+  "input_hash": "7563ed7541d1",
+  "scored_at": "2026-04-21T13:41:37.778127"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "59137",
+  "score_overall": 3.5,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Poslovni prostor od svega 23 m² u Slavonskom Brodu nosi izuzetno slabu likvidnost i minimalnu tražnju; 25% popust ne kompenzira strukturno slabo tržište poslovnih prostora u toj regiji.",
+  "flags": [
+    "Slavonski Brod - slabo tržište poslovnih prostora",
+    "suvlasnički udio 1/80 u zgradi - komplicirano upravljanje i izlaz"
+  ],
+  "input_hash": "1403ecf1416a",
+  "scored_at": "2026-04-21T13:31:48.523615"
+}

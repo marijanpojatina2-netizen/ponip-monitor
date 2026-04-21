@@ -1,0 +1,16 @@
+{
+  "id": "57883",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Više agro parcela (~34 000 m2) u Preslatincima kraj Đakova bez ijedne građevine, s popustom od samo 20% na prvoj dražbi – kombinacija duboke Slavonije i čisto poljoprivrednog zemljišta bez objekta daje izrazito slab investicijski case. Likvidnost agro zemljišta u ovoj regiji je minimalna, a prinos od najma simboličan.",
+  "flags": [
+    "samo agro zemlja bez ijednog objekta",
+    "duboka Slavonija – depopulacija, niska likvidnost",
+    "20% popust na prvoj dražbi – nema margine za profit"
+  ],
+  "input_hash": "443c0367ddb1",
+  "scored_at": "2026-04-21T13:27:24.775619"
+}

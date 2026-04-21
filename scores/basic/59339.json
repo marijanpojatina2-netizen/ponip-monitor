@@ -1,0 +1,16 @@
+{
+  "id": "59339",
+  "score_overall": 3.5,
+  "score_lokacija": 3.5,
+  "score_roi": 3.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica od 3801m2 u Ljubešćici kod Varaždina ima blizinu regionalnog centra kao jedinu prednost, no bez objekata i s 20% popustom na prvoj dražbi nema dovoljnog investicijskog pokretača. Tržišna vrijednost malih oranica u toj zoni ograničena je i exit je spor.",
+  "flags": [
+    "isključivo oranica bez objekata",
+    "mala površina za agrarnu investiciju",
+    "prva dražba – minimalalan popust"
+  ],
+  "input_hash": "0b65be9b94cc",
+  "scored_at": "2026-04-21T13:33:04.470357"
+}

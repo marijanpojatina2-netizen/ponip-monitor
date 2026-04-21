@@ -1,0 +1,16 @@
+{
+  "id": "59145",
+  "score_overall": 2.5,
+  "score_lokacija": 3.0,
+  "score_roi": 2.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica od 572 m² kod Kloštar Ivanića bez ikakvog građevinskog potencijala i zanemarive investicijske vrijednosti; ruralno područje s niskom likvidnošću i gotovo nultim prinosom.",
+  "flags": [
+    "samo oranica - nema građevinskog potencijala",
+    "ruralna lokacija bez tražnje",
+    "mala površina limitira čak i agrikulturni prihod"
+  ],
+  "input_hash": "fbd3bdb21a6d",
+  "scored_at": "2026-04-21T13:31:48.523950"
+}

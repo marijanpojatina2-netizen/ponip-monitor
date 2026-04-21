@@ -1,0 +1,16 @@
+{
+  "id": "59475",
+  "score_overall": 2.5,
+  "score_lokacija": 3.5,
+  "score_roi": 2.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Poljoprivredno zemljište (livada/njiva) uz Jastrebarsko s tek 20% popusta na prvoj dražbi i kupujete samo 1/2 dijela – suvlasnička situacija s drugim vlasnikom dramatično komplicira svaku buduću prodaju ili razvoj. Bez jasnog izlaza iz investicije.",
+  "flags": [
+    "suvlasnički 1/2 dijela – blokirajuće suvlasništvo",
+    "livada/njiva bez građevinskog potencijala",
+    "samo 20% popusta na prvoj dražbi"
+  ],
+  "input_hash": "370a7017757d",
+  "scored_at": "2026-04-21T13:38:32.225963"
+}

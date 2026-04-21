@@ -1,0 +1,16 @@
+{
+  "id": "59559",
+  "score_overall": 3.0,
+  "score_lokacija": 3.5,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Livada 1338m2 u Svetom Križu Začretju (ruralno Zagorje) na 1. dražbi s minimalnih 20% popusta nema vidljiv prihodni potencijal – niti najam niti razvoj nije realan bez značajnih dodatnih troškova. Bez objekata i bez turističke atraktivnosti, nema investicijskog case-a.",
+  "flags": [
+    "isključivo livada – nula prihoda bez razvoja",
+    "1. dražba – minimalni popust 20%",
+    "nema razvojnog niti turističkog potencijala"
+  ],
+  "input_hash": "4236a0d6ac17",
+  "scored_at": "2026-04-21T13:20:23.522889"
+}

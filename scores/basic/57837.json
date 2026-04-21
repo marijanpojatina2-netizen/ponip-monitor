@@ -1,0 +1,16 @@
+{
+  "id": "57837",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Ruralno područje Ivanca, 40% popusta ne kompenzira to što je gotovo polovica parcele bara/močvara s minimalnim razvojnim potencijalom. Izrazito slaba likvidnost za poljoprivredno-blatišno zemljište u Varaždinskoj županiji.",
+  "flags": [
+    "oranica + močvara – ograničena upotrebljivost",
+    "nema građevinskog potencijala",
+    "slaba likvidnost regije"
+  ],
+  "input_hash": "b152c028fc1f",
+  "scored_at": "2026-04-21T13:38:32.225366"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "57803",
+  "score_overall": 4.5,
+  "score_lokacija": 3.5,
+  "score_roi": 5.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća 345m2 uz 40% popust i drugu dražbu pruža solidnu cijenu po m2 (~56 EUR/m2), ali Kotoriba je ruralno Međimurje s niskom likvidnošću i ograničenim turističkim/rentabilnim potencijalom. Vrijedi pratiti ako je objekt u prihvatljivom stanju.",
+  "flags": [
+    "ruralna lokacija s niskom likvidnošću",
+    "nema podataka o stanju objekta"
+  ],
+  "input_hash": "41f3765f3d33",
+  "scored_at": "2026-04-21T13:25:52.928254"
+}

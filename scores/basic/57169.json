@@ -1,0 +1,16 @@
+{
+  "id": "57169",
+  "score_overall": 6.0,
+  "score_lokacija": 7.0,
+  "score_roi": 7.0,
+  "score_stanje": 4.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Cca 6.700 m2 u k.o. Gočan (Istra, Pula municipij) po početnoj ~3 EUR/m2 na drugoj dražbi s 40% popustom - iznimno atraktivna ulazna cijena za istarsko zemljište. Hitno provjeriti PPUO/PRO zoniranje jer o njemu ovisi razlika između spekulativne i transformativne investicije.",
+  "flags": [
+    "šuma + livada - ograničena gradnja po OPZ/PPUO",
+    "visoko raslinje uz međe - trošak čišćenja",
+    "inland Istra - nije obalno ali solidna potražnja za zemljištem"
+  ],
+  "input_hash": "76ab5c2503a0",
+  "scored_at": "2026-04-21T13:24:13.577744"
+}

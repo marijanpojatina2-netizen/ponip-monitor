@@ -1,0 +1,15 @@
+{
+  "id": "57952",
+  "score_overall": 5.5,
+  "score_lokacija": 6.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Voćnjak 1236 m2 u k.o. Sesvete (periferija Zagreba) s 40% popustom na drugoj dražbi nudi razumnu osnovu za špekulaciju na razvoj, no bez ikakvog objekta sve ovisi o mogućnosti dobivanja građevinske dozvole. Provjeri namjenu u prostornom planu – ako je gradivo, ovo postaje ozbiljan kandidat.",
+  "flags": [
+    "samo voćnjak – nema građevine",
+    "izvještaj o namjeni parcele obavezan (PRO)"
+  ],
+  "input_hash": "86f52b9e194b",
+  "scored_at": "2026-04-21T13:27:24.775139"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "59471",
+  "score_overall": 4.0,
+  "score_lokacija": 3.0,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Mješovito zemljište s dijelom građevinske čestice (Ovčara, Suhopolje) otvara spekulativni potencijal ako je građevinski dio reguliran i priključiv; treba verificirati UPU/GUP Suhopolja jer je to ključni faktor vrijednosti. Virovitica i okolica su slaba investicijska zona, ali građevinska komponenta zaslužuje provjeru.",
+  "flags": [
+    "nejasna podjela agrar/građevinsko – potrebna provjera UPU-a",
+    "slaba regija – virovitica",
+    "niska likvidnost"
+  ],
+  "input_hash": "3862715b5e8a",
+  "scored_at": "2026-04-21T13:33:04.470139"
+}

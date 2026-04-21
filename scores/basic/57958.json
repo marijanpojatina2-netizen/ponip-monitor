@@ -1,0 +1,16 @@
+{
+  "id": "57958",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Parcela s izgrađenim dijelom 90 m2 i dvorištem 771 m2 u Lekeniku - 40% popust na drugoj dražbi ne kompenzira činjenicu da je Sisak-Moslavina jedna od najslabije likvidnih regija u Hrvatskoj s kontinuiranom depopulacijom. Opis ne otkriva što je konkretno izgrađeno na 90 m2, što je dodatan nepoznanik.",
+  "flags": [
+    "nejasan opis izgrađenog objekta - samo 90 m2 bez detalja",
+    "Sisak-Moslavina depopulacijska zona",
+    "izuzetno niska tržišna likvidnost"
+  ],
+  "input_hash": "bb311d1c6c1a",
+  "scored_at": "2026-04-21T13:22:13.381646"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "59169",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Isključivo oranica bez ikakvog objekta u ruralnoj depopulacijskoj zoni oko Čazme, bez prihodno-investicijskog potencijala. 20% popust na prvoj dražbi nije dovoljan za kompenzaciju loše likvidnosti i jednodimenzionalne poljoprivredne namjene.",
+  "flags": [
+    "samo poljoprivredno zemljište (oranica) - nema objekta",
+    "depopulacijska zona Bjelovar-Bilogora",
+    "nema građevinskog potencijala"
+  ],
+  "input_hash": "88e221443e85",
+  "scored_at": "2026-04-21T13:29:52.264700"
+}

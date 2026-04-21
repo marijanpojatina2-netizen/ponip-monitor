@@ -1,0 +1,16 @@
+{
+  "id": "58468",
+  "score_overall": 3.0,
+  "score_lokacija": 4.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Poslovni prostor u podrumu od 26.87 m2 namjene 'trgovina' u Krapinskim Toplicama kombinira sve nepovoljne karakteristike: podrumska etaža, mala površina, ograničena prenamjena i skromna turistička destinacija. Popust od 20% na prvoj dražbi ne opravdava strukturne nedostatke ove vrste imovine.",
+  "flags": [
+    "poslovni prostor u podrumu",
+    "namjena trgovina - ograničena prenamjena",
+    "26.87 m2 - nelikvidna veličina za poslovni prostor"
+  ],
+  "input_hash": "c96507bbd2bf",
+  "scored_at": "2026-04-21T13:22:13.381748"
+}

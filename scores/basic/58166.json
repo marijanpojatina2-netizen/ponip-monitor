@@ -1,0 +1,15 @@
+{
+  "id": "58166",
+  "score_overall": 5.5,
+  "score_lokacija": 5.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Kuća 50 m2 s dvorištem 884 m2 i pomoćnom zgradom u Selnici (Međimurje) uz 40% popust na drugoj dražbi nudi solidan land-to-price omjer za regiju s dobrom prometnom povezanošću prema Sloveniji i Austriji. Ograničavajući faktori su veličina kuće i ruralna mikrolokacija koja smanjuje potencijal kratkoročnog najma.",
+  "flags": [
+    "mala kuća 50 m2 – limitiran prihod od najma",
+    "selo Selnica – ograničena likvidnost preprodaje"
+  ],
+  "input_hash": "d3dc27cd63b0",
+  "scored_at": "2026-04-21T13:27:24.775734"
+}

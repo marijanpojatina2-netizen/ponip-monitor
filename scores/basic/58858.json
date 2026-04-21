@@ -1,0 +1,16 @@
+{
+  "id": "58858",
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 5.0,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Impresivnih 12.123 m2 kuće, dvorišta i oranice za startnih 20.175 EUR u stečaju daje cijenu od svega ~1,66 EUR/m2 što je izuzetno nisko čak i za Slavoniju i otvara opciju agrikulturnog zakupa ili dugoročnog spekulativnog držanja; međutim slavonska ruralna likvidnost i stečajni kontekst zahtijevaju provjeru tereta i hipoteka prije ulaska.",
+  "flags": [
+    "stečajni dužnik - obavezno provjeriti teret i hipoteke",
+    "Slavonija ruralna - niska likvidnost i tržišna dubina",
+    "k.o. Oljasi - provjeriti infrastrukturu, pristup i namjenu zemljišta"
+  ],
+  "input_hash": "50427c2104ec",
+  "scored_at": "2026-04-21T13:29:52.265609"
+}

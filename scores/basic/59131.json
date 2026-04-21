@@ -1,0 +1,16 @@
+{
+  "id": "59131",
+  "score_overall": 4.0,
+  "score_lokacija": 4.5,
+  "score_roi": 4.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Koprivnica je manji grad s ograničenom investicijskom likvidnošću, a predmet je samo dvorišna parcela bez ikakve građevine što drastično sužava primjenu. Popust od 20% na prvoj dražbi ne kompenzira odsustvo objekta i slabiju tržišnu potražnju.",
+  "flags": [
+    "samo dvorište bez ikakve građevine",
+    "ograničena primjena parcele – potrebna dozvola za gradnju",
+    "slabija likvidnost tržišta Koprivnice"
+  ],
+  "input_hash": "53158266d5a2",
+  "scored_at": "2026-04-21T13:27:24.774914"
+}

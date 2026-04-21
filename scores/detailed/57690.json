@@ -1,0 +1,63 @@
+{
+  "id": "57690",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Ogulin je depopulacijsko područje s oko 13.000 stanovnika u kontinuiranom demografskom padu — iznimno niska likvidnost industrijskog tržišta nekretnina. Predmet je visoko specijalizirani industrijski kompleks (silosi + podno skladište) u gospodarskoj zoni što radikalno sužava krug potencijalnih kupaca na agrobiznis i logistiku. Premda 40% popust i druga dražba zvuče atraktivno, procjena od 890.000 EUR gotovo sigurno precjenjuje tržišnu realnost za takav objekt u Ogulinu — efektivni popust od tržišne vrijednosti vjerojatno je manji nego što broj sugerira. Izlazna strategija (exit) praktički ne postoji za retail investitora, a operating cashflow kroz najam silos-infrastrukture zahtijeva specijaliziranog najmoprimca kojeg je u regiji iznimno teško pronaći.",
+  "flags": [
+    "Visoko specijalizirani industrijski objekt (silosi + podno skladište) — ekstremno uzak krug kupaca",
+    "Depopulacijsko područje: Ogulin i okolica bilježe negativni migracijski saldo i starenje stanovništva",
+    "Procjena suda (890.000 EUR) vjerojatno ne odražava realnu tržišnu vrijednost industrijskog objekta u Ogulinu",
+    "Mjerna jedinica 1337 čhv ≈ 4.808 m² — veliki kompleks s visokim troškovima održavanja ako ostane neaktivan",
+    "Gospodarska zona: ograničena prenamjena (zona nalaže industrijsku/poslovnu namjenu)",
+    "Karlovački sud — geografski dislocirani predmet, otežana due diligence i razgled"
+  ],
+  "market_estimate": {
+    "eur_min": 180000,
+    "eur_max": 380000,
+    "confidence": "low",
+    "basis": "Industrijske nekretnine u manjim hrvatskim gradovima (Karlovac, Sisak, Petrinja, Ogulin) trguju se po 40–100 EUR/m² za zemljište s objektima ovisno o stanju i infrastrukturi. Silosi imaju posebnu vrijednost za agrobiznis, ali potražnja u Ogulinu je marginalna. Tržišna vrijednost kompleksa procjenjuje se na 180.000–380.000 EUR, što čini sudsku procjenu od 890.000 EUR upitnom. Nema dostupnih web podataka zbog ograničenja alata — confidence je stoga 'low'."
+  },
+  "comparables": [
+    {
+      "opis": "Industrijska hala + skladište, Karlovac okolica, ~2.000 m²",
+      "cijena": 280000,
+      "m2": 2000,
+      "izvor": "njuskalo.hr (procjena na temelju poznavanja tržišta)",
+      "url": "https://www.njuskalo.hr/poslovni-prostori-prodaja/karlovac"
+    },
+    {
+      "opis": "Poslovni/industrijski prostor, manji grad Hrvatska, gospodarska zona",
+      "cijena": 150000,
+      "m2": 1500,
+      "izvor": "nekretnine.net (procjena)",
+      "url": "https://www.nekretnine.net/stambeni-objekti/poslovni-prostori/lista/lokacija_karlovacka-zupanija/"
+    },
+    {
+      "opis": "Agrarna infrastruktura (silosi) — Hrvatska, sporadične transakcije",
+      "cijena": 200000,
+      "m2": null,
+      "izvor": "poznavanje tržišta / FINA dražbe povijest",
+      "url": "https://e-oglasna.fina.hr"
+    }
+  ],
+  "investment_strategy": "NIJE PREPORUČLJIVO za privatnog investitora. Jedina realna strategija bila bi industrijsko-agrarni razvoj — iznajmljivanje ili prodaja agrobiznis operateru (silos za žitarice, repromaterijal). To zahtijeva specijaliziranog kupca: poljoprivrednu zadrugu, mlinsko poduzeće ili logistički hub. Za individualnog investitora bez takve mreže: nema izlazne strategije u razumnom roku. Reno-flip ne dolazi u obzir (nema stambene prenamjene u GZ). Preprodaja jedino ako se nađe strateški kupac, a to može trajati 5–10+ godina u ovoj regiji.",
+  "entry_price_eur": 200000,
+  "detailed_risks": [
+    "Precijenjana sudska procjena: 890.000 EUR za silosi u Ogulinu gotovo sigurno nije tržišna vrijednost — realni popust manji nego formalni 40%",
+    "Nulta likvidnost: industrija u Ogulinu stagnira, agrobiznis konsolidiran u Slavoniji/Podravini",
+    "Visoki troškovi održavanja: silosi zahtijevaju redovne inspekcije, antikorozivnu zaštitu, elektro i mehaničke servise",
+    "Namjenska zona: gospodarska zona ne dopušta stambenu ni turističku prenamjenu",
+    "Demografski rizik: Ogulin -20% populacije u 20 godina, trend se nastavlja",
+    "Pravo prvokupa mogućih stanara/korisnika nepoznato bez uvida u ZK izvadak",
+    "Potencijalne ekološke obveze: silosi mogu imati ostatke pesticida, kemikalija — potrebna due diligence",
+    "Nedostatna infrastruktura za modernu logistiku (autocesta A1 prolazi ali pristupne ceste upitne)",
+    "Sudska procjena stara — tržišni uvjeti mogli su se promijeniti od procjene"
+  ],
+  "upside_scenario": "Ako agrobiznis kompanija (npr. Žito, Podravka dobavljači, logistički operater) traži strateški hub u Lici/Gorskom kotaru, kompleks od ~4.800 m² sa silosima i podnim skladištem ima funkcionalnu vrijednost. Ulaz na 534.000 EUR + renovacija ~100-150k, najam 8-12 EUR/m²/god = cashflow ~46.000-58.000 EUR/god = yield 7-9% na ukupnu investiciju. Horizont 3-5 godina, prodaja strateškom kupcu po 500-650k.",
+  "downside_scenario": "Ne pronalazi se zakupac u 2-3 godine. Troškovi održavanja 15-25k EUR/god kumuliraju. Nekretnina ostaje nelikvidna, sljedeća prodaja još na nižoj cijeni (treća/četvrta dražba), gubitak jamčevine od 89.000 EUR ako se odustane ili se dođe u financijsku krizu. Realna mark-to-market vrijednost pada prema 150-200k EUR uz nultu tražnju.",
+  "input_hash": "25fffb92827b",
+  "scored_at": "2026-04-21T13:47:37.761481"
+}

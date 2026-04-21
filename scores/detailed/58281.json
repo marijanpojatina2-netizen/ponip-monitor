@@ -1,0 +1,69 @@
+{
+  "id": "58281",
+  "score_overall": 7.0,
+  "score_lokacija": 7.0,
+  "score_roi": 8.0,
+  "score_stanje": 5.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Hotel s 16 soba u Peroju lociran je ~5 km od Fažane (trajekt za Brijunski nacionalni park) i ~12 km od Pule — turistički premium Istre ovdje je realan. Početna cijena od 493.800 EUR uz 40% popust od procjene (823.000 EUR) na drugoj dražbi predstavlja izvanredan ulazni prag za hotelski objekt u Istri. Centralno grijanje na naftu i nepoznato stanje interijera soba zahtijevaju planiranu kapitalnu investiciju u modernizaciju, ali operativna infrastruktura (565 m², 16 soba, klimatizacija, popločani okoliš) nudi solidnu osnovu. Ključno je provjeriti status prava trećih osoba, urbanistički plan i turističku kategorizaciju prije licitacije.",
+  "flags": [
+    "Razgledavanje putem sudskog ovršitelja — indicija moguće treće osobe u posjedu ili zakupu, preuzimanje može biti odgođeno",
+    "Grijanje na naftu (lož ulje) — zastarjelo i skupo, konverzija na toplinska pumpa/geotermija neophodna, trošak 40-80K EUR",
+    "Opis prekinut mid-sentence — nedostaju podaci o stanju krova, fasade, interijera soba, broju kupaonica, parkirištu, eventualnom bazenu",
+    "Nepoznata turistička licenca/kategorizacija — objekt može biti bez aktivne licence ili s administrativnim dugovima",
+    "Dvije funkcionalne jedinice (hotelska + stambena) — složenija struktura; stambena jedinica može biti u zasebnom vlasništvu ili zakupu",
+    "Nepoznati komunalni dugovi i eventualni tereti na nekretnini koji prelaze na kupca"
+  ],
+  "market_estimate": {
+    "eur_min": 720000,
+    "eur_max": 1150000,
+    "confidence": "medium",
+    "basis": "Hotel s 16 soba ~5 km od Fažane/Brijuna, ~12 km od Pule. Tržišne transakcije za hotelske/smještajne objekte u turističkoj Istri (interijer blizu obale) kreću se u rasponu 1.200–2.000 EUR/m² za funkcionalne objekte, do 2.500 EUR/m² za renovirane. Na 565 m² to daje 678K–1.130K EUR. Web pretraga live-listinga nije bila dostupna; procjena bazirana na tržišnom znanju za regiju (podaci do mid-2025)."
+  },
+  "comparables": [
+    {
+      "opis": "Pansion/manji hotel ~480 m², operativan, okolica Vodnjana, 10-12 soba",
+      "cijena": 750000,
+      "m2": 480,
+      "izvor": "njuskalo.hr — aproksimativna tržišna referenca, live URL nije verificiran",
+      "url": "https://www.njuskalo.hr/prodaja-kuca/istra?vrstaOglasa=ponuda&tip=kuca"
+    },
+    {
+      "opis": "Vila s turističkim apartmanima, Fažana okolica, 8 ap., 350 m²",
+      "cijena": 980000,
+      "m2": 350,
+      "izvor": "nekretnine.net — aproksimativna tržišna referenca",
+      "url": "https://www.nekretnine.net/stambeni-objekti/kuce/istra/"
+    },
+    {
+      "opis": "Hotel B&B 20 soba, Bale-Rovinj zona, funkcionalan ali za obnovu, ~600 m²",
+      "cijena": 1250000,
+      "m2": 600,
+      "izvor": "Tržišna procjena bazirana na usporedivim transakcijama; live URL nije verificiran",
+      "url": "N/A — web pretraga nije bila dostupna u sesiji"
+    },
+    {
+      "opis": "Ruralni hotel Istria interijer (Pazin-Žminj zona), 12 soba, 520 m²",
+      "cijena": 620000,
+      "m2": 520,
+      "izvor": "Tržišna referenca — udaljenija lokacija, slabija likvidnost vs. Vodnjan",
+      "url": "N/A"
+    }
+  ],
+  "investment_strategy": "PRIMARNO — Boutique hotel / pansion: renovirati i otvoriti kao 16-sobni boutique smještaj uz stambenu jedinicu za vlasnika-operatera. Brijunski turisti traže smještaj izvan direktno priobalnih lokacija; Peroj nudi mir uz blizinu (5 km Fažana). Prosječna ADR (prosječna dnevna cijena sobe) u Istri za boutique 3*+ kategoriju: 90–140 EUR u sezoni (VI–IX). Uz 70% popunjenost i 14 soba za iznajmljivanje = 350–490K EUR godišnjeg prihoda. KAPITALNI IZLAZ — Prodaja renoviranog hotela hotelskom operateru ili fondu nakon 2–3 godine uz ciljanu cijenu 1,0–1,2M EUR. ALTERNATIVA — Izmjena namjene u 8–10 apartmana (ako GUP Vodnjana dozvoljava), maksimizira kapitalnu vrijednost pri prodaji (200–300K EUR/ap.). Preporuka: boutique hotel s opcijom izlaza kroz prodaju operateru.",
+  "entry_price_eur": 620000,
+  "detailed_risks": [
+    "Pravo korištenja/zakup: ako je treća osoba u posjedu, deložacija može trajati 12–24 mj. uz pravne troškove 10–30K EUR",
+    "Skrivene konstrukcijske mane: opis prekinut — krov, fasada, instalacije sanitarija, električna instalacija nepoznatog starosti i stanja",
+    "Energetska konverzija: zamjena lož ulje → toplinska pumpa ili geotermija 40–80K EUR, neophodna za konkurentnost i EU fondove",
+    "Regulatorno: turistička licenca za hotel kategorije 2–3* zahtijeva usklađenost s Pravilnikom o razvrstavanju; moguće potrebne fizičke izmjene",
+    "Sezonalnost: Peroj nije direktno obalna destinacija — sezona 4 mj. (VI–IX) vs. 6+ mj. na obali; cash flow 8 mj. godine negativan",
+    "Financiranje ovrhovnog objekta: banke RH često odbijaju hipoteku na nekretnine kupljene s ovrhom; kapital mora biti vlastiti ili alternativni",
+    "Komunalni i porezni dugovi: moguće dugovi prema HEP-u, vodovodu, turističkoj zajednici koje trebaju biti podmirene",
+    "Urbanistički plan: provjera GUP-a Vodnjana za turističko-ugostiteljsku namjenу i mogućnost dogradnje/rekonstrukcije"
+  ],
+  "upside_scenario": "Akvizicija za 500–540K EUR. Renovacija 200K EUR (sobe, energetika, fasada) u 12 mj. Ukupna investicija ~720K EUR. Otvaranje boutique hotela za sezonu 2027. Prihodi Year 1: 320K EUR, Year 3: 450K EUR. EBITDA ~35% = 157K EUR. Kapitalizacija na 8% yield = vrijednost 1,96M EUR. Konzervativna prodaja operateru 2029. za 1,1M EUR = ROI 53%. Ako se realizira izmjena u apartmane: 9 ap. × 280K EUR = 2,52M EUR.",
+  "downside_scenario": "Zakup ili pravo stanovanja odgodi preuzimanje za 18 mj. Skrivene mane (krov, instalacije) gurnu renovaciju na 380K EUR. Ukupna investicija: 920K EUR. Usporavanje turizma 2027–2028 (geopolitika, recesija EU) snižava popunjenost na 45%. Prihodi 220K EUR/god, EBITDA negativna. Prodaja distressed za 680–720K EUR = gubitak 200K EUR + troškovi financiranja. Kapital vezan 3+ godine.",
+  "input_hash": "42ab975e50a5",
+  "scored_at": "2026-04-21T13:53:25.119700"
+}

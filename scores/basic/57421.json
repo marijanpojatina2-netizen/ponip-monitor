@@ -1,0 +1,16 @@
+{
+  "id": "57421",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 5.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Popust od 50% zvuči atraktivno, ali Budanica je ruralno selo kod Bjelovara s minimalnom potražnjom, a suvlasnički udio 2/4 stečajnog dužnika donosi pravne kompleksnosti koje mogu neutralizirati svaku financijsku prednost. Stečajni postupak (Trgovački sud) i suvlasnička struktura čine ovaj predmet prerizičnim bez dubinskog pravnog due diligence.",
+  "flags": [
+    "suvlasnički udio 2/4 – otežana individualna dispozicija",
+    "stečajni dužnik – Trgovački sud (pravni rizici)",
+    "ruralna depopulacijska lokacija Bjelovar okolica"
+  ],
+  "input_hash": "9b6c41f085c7",
+  "scored_at": "2026-04-21T13:27:24.775347"
+}

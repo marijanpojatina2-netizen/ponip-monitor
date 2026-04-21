@@ -1,0 +1,16 @@
+{
+  "id": "58888",
+  "score_overall": 3.5,
+  "score_lokacija": 3.0,
+  "score_roi": 4.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Kombinacija kuće i vinograda (kletišta) u Repušnici kraj Kutine nudi neku agrikulturnu vrijednost i rustikalnu estetiku, ali Sisak-Moslavačka županija pati od depopulacije, potresnog nasljeđa i industrijske monokulturee (Petrokemija). 20% popust na prvoj dražbi nije dovoljan za kompenzaciju.",
+  "flags": [
+    "Sisak-Moslavina - potresno nasljeđe (Petrinja 2020)",
+    "industrijska zona Kutina - negativan imidž regije",
+    "niska likvidnost i negativan demografski trend"
+  ],
+  "input_hash": "3d0662efd670",
+  "scored_at": "2026-04-21T13:29:52.265349"
+}

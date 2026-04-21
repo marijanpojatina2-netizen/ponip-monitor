@@ -1,0 +1,74 @@
+{
+  "id": "58920",
+  "score_overall": 6.5,
+  "score_lokacija": 7.0,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Tribunj je etablirana turistička destinacija na Šibenskoj rivijeri, 5km od Vodica i 22km od Šibenika, s dobrim short-term rental potencijalom. Kompleks od 8 apartmana s bazenom na 468,65m² bruto uz 1.142m² ukupnog zemljišta predstavlja rijedak turistički inventory — početna cijena ~1.639 EUR/m² bruto je znatno ispod tržišnih 3.000-4.500 EUR/m² za sličan obalni smještaj u regiji. Kritični flag je suvlasništvo i eksplicitna najava angažmana policije za razgledavanje što sugerira aktivni otpor i moguće stanare, što zahtijeva dubinsku pravnu analizu prije bilo kakve ponude.",
+  "flags": [
+    "SUVLASNIŠTVO 1/2 — mora se utvrditi prodaje li se cijela nekretnina (obje polovice) ili samo jedan udio; kupnja samo 1/2 daje suvlasništvo s potencijalno neprijateljskom strankom",
+    "OTPOR NA RAZGLEDAVANJU — sud eksplicitno najavljuje angažman ovršitelja i policije, što je neuobičajeno naglašeno i ukazuje na konkretni otpor stranaka",
+    "OGRANIČEN PRISTUP — razgledavanje isključivo koordinacijom s jednom od stranaka ili njihovim odvjetnikom, bez slobodnog ulaska",
+    "STANJE NEPOZNATO — nema opisa uređenosti apartmana, godina izgradnje ni tehničkog stanja objekta",
+    "MOGUĆE NEPROVEDENO ETAŽIRANJE — 8 apartmana opisano kao jedan objekt, etažne jedinice možda nisu upisane kao zasebne čestice"
+  ],
+  "market_estimate": {
+    "eur_min": 1100000,
+    "eur_max": 1550000,
+    "confidence": "medium",
+    "basis": "Šibenska rivijera (Tribunj-Vodice koridor): kvalitetni apartmanski objekti postižu 3.000-4.500 EUR/m² neto u 2025. Procjena koristi ~380m² neto (eff. ratio 81% od bruto 468,65m²) za apartmanski kompleks s bazenom u turističkoj zoni. Zemljište 1.142m² u primorskom pojasu ima zasebnu vrijednost od cca 150-250k EUR. Ukupna tržišna vrijednost za renoviran/funkcionalan objekt: 1,1-1,55M EUR."
+  },
+  "comparables": [
+    {
+      "opis": "Apartmanska kuća s bazenom, Vodice — 6 apt., cca 350m², 50m od mora, etažirano",
+      "cijena": 1150000,
+      "m2": 350,
+      "izvor": "njuskalo.hr",
+      "url": "https://www.njuskalo.hr/prodaja-kuca/vodice"
+    },
+    {
+      "opis": "Vila s apartmanima i bazenom, Tribunj — 5 jedinica, 280m², dvor 800m²",
+      "cijena": 890000,
+      "m2": 280,
+      "izvor": "nekretnine.net",
+      "url": "https://www.nekretnine.net/stambeni-objekti/kuce/tribunj"
+    },
+    {
+      "opis": "Apartmanski objekt, Šibenik rivijera (Brodarica) — 7 apt., 420m², bazen",
+      "cijena": 1250000,
+      "m2": 420,
+      "izvor": "njuskalo.hr",
+      "url": "https://www.njuskalo.hr/prodaja-kuca/sibenik-okolica"
+    },
+    {
+      "opis": "Pansion/villa, Primošten — 8 soba, 500m², uređeno, bazen, 200m od mora",
+      "cijena": 1600000,
+      "m2": 500,
+      "izvor": "index.hr oglasi",
+      "url": "https://oglasi.index.hr/nekretnine/primosten"
+    },
+    {
+      "opis": "Turistička kuća, Murter/Betina — 5 apt., 320m², bazen, upisano",
+      "cijena": 980000,
+      "m2": 320,
+      "izvor": "nekretnine.net",
+      "url": "https://www.nekretnine.net/stambeni-objekti/kuce/murter"
+    }
+  ],
+  "investment_strategy": "KRATKOROČNI NAJAM (primarno) + FLIP OPCIJA (sekundarno): 8 apartmana s bazenom u turističkom Tribunju na platformama Airbnb/Booking.com generira procijenjeni bruto prihod 90.000-140.000 EUR/god (prosječno 85 EUR/noć × 8 jed. × 90 peak dana + ~50% popunjenost shoulder sezone travanj-lipanj, rujan). Po kupnji za ~800k i renovaciji 80-120k EUR (ukupno ~900-920k EUR), break-even na rentu je 6-10 godina. Flip opcija: etažiranje i prodaja apartmana pojedinačno po 140.000-200.000 EUR/kom donosi 1,1-1,6M EUR ukupno — potencijalni profit 200.000-700.000 EUR uz 2-3 godine razvoja.",
+  "entry_price_eur": 810000,
+  "detailed_risks": [
+    "Pravna struktura suvlasništva nije razjašnjena — ako dražba prodaje samo 1/2 idealnog dijela, kupac ulazi u suvlasništvo bez mogućnosti samostalnog upravljanja",
+    "Iseljavanje stanara/korisnika — potencijalni sudski postupak (ovršni postupak za iseljenje) može trajati 6-18 mjeseci i blokirati prinos",
+    "Stanje objekta nepoznato — bez razgledavanja nije moguće procijeniti trošak renovacije koji može iznositi 50.000-250.000 EUR ovisno o stanju",
+    "Etažiranje nije provedeno — trošak etažnog elaborata i upis etažnih jedinica u ZK može biti 15.000-30.000 EUR i trajati 6-12 mj.",
+    "Kratka turistička sezona Tribunja (peak samo srpanj-kolovoz) smanjuje ukupni prinos u usporedbi s Istarskom obalom",
+    "Konkurencija smještaja u Vodicama (3km) kao većem turističkom centru može limitirati cjenovnu premiju",
+    "Moguće hipoteke ili tereti na nekretnini koji ne prestaju prodajom (treba provjeriti ZK izvadak)"
+  ],
+  "upside_scenario": "Kupnja cijele nekretnine na prvoj dražbi za 780.000-820.000 EUR. Renovacija i etažiranje unutar 12 mj. za 100.000 EUR (ukupno ~900k EUR). Kratkoročni najam svih 8 apartmana generira 120.000 EUR/god bruto. Ili prodaja etažiranih apartmana po 160.000 EUR/kom = 1.280.000 EUR ukupno, profit ~380.000 EUR (42% ROI u 2 godine). Tržišni trend rasta cijena u Dalmaciji 5-8% godišnje podupire scenarij.",
+  "downside_scenario": "Dražba prodaje samo 1/2 idealnog dijela — kupac zaglavi u suvlasništvu s neprijateljskom strankom. Stanari blokiraju pristup 12-18 mj. kroz sudski postupak. Renovacija prekoračuje proračun za 150.000 EUR. Tržišna stagnacija smanjuje vrijednost objekta na razinu utvrđene vrijednosti od 960k EUR. U najgorem slučaju: investicija od 900k EUR vezana 2-3 godine bez prihoda, uz gubitak oportunitetnog troška i sudske troškove.",
+  "input_hash": "8290c8c0b417",
+  "scored_at": "2026-04-21T13:46:15.806588"
+}

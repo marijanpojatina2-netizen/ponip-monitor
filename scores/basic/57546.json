@@ -1,0 +1,15 @@
+{
+  "id": "57546",
+  "score_overall": 6.5,
+  "score_lokacija": 8.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Vrt 236m2 u Kukljici na otoku Ugljanu (10 min trajektom od Zadra) uz 40% popust i drugu dražbu izvanredna je turistička lokacija – u sezoni kvadratura na otoku ima premijum vrijednost. Ključno je hitno provjeriti GUP i može li se graditi vikendica/kuća za iznajmljivanje.",
+  "flags": [
+    "samo parcela bez objekta – investicija ovisi o mogućnosti gradnje",
+    "potrebna provjera GUP-a Kukljica i komunalne infrastrukture"
+  ],
+  "input_hash": "0ebbd625eead",
+  "scored_at": "2026-04-21T13:25:52.928935"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "57928",
+  "score_overall": 5.0,
+  "score_lokacija": 4.5,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Dvije livade ukupno ~10.800 m2 u Poljani Čičkoj (Velika Gorica) za 8.389 EUR nude spekulativan land-banking potencijal zbog blizine Zagreba i aerodroma, ali strogo agrikolni status bez građevinskog zoninga čini povrat dugoročno neizvjesnim; stečajni postupak nosi dodatni dokumentacijski rizik.",
+  "flags": [
+    "stečajni dužnik - rizik dokumentacije iz stečajne mase",
+    "isključivo poljoprivredno zemljište (livada) - nije građevinsko",
+    "bez mogućnosti trenutnog prihoda",
+    "nezagrantiran rezoning potencijal"
+  ],
+  "input_hash": "fb8a03f37c31",
+  "scored_at": "2026-04-21T13:39:50.406830"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "58406",
+  "score_overall": 5.5,
+  "score_lokacija": 6.0,
+  "score_roi": 7.0,
+  "score_stanje": 3.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Kuća 193 m2 procijenjena na svega ~200 EUR/m2 u blizini Splita je neuobičajeno jeftina i zahtijeva hitnu terensku inspekciju - ako je sanabilna, potencijal je znatan s obzirom na splitsko tržište i blizinu grada; vlasništvo ovršenika za cijelo (bez suvlasničkih komplikacija) je pozitivno, ali niska procjena gotovo sigurno signalizira ozbiljne građevinske ili pravne probleme.",
+  "flags": [
+    "Neuobičajeno niska procjena ~200 EUR/m2 - vjerojatno ruševno ili ozbiljni defekti",
+    "Potrebna hitna fizička inspekcija stanja objekta",
+    "Žedno - selo, ne Split grad (cca 8-10 km od centra)",
+    "Provjera zk tereta i eventualnih stanara"
+  ],
+  "input_hash": "3be8c602586c",
+  "scored_at": "2026-04-21T13:18:27.283832"
+}

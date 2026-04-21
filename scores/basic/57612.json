@@ -1,0 +1,16 @@
+{
+  "id": "57612",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Ludvinci kod Vukovara – depopulacijska zona istočne Slavonije s najslabijom likvidnošću nekretnina u RH; 40% popust ne pokriva rizik dugoročnog nemogućeg izlaska iz investicije. Cijena procjene od 17.9k EUR za kuću u toj regiji sugerira lošije stanje objekta.",
+  "flags": [
+    "depopulacijska zona Vukovara",
+    "slaba likvidnost Slavonije",
+    "stanje objekta nejasno pri ovoj razini cijene"
+  ],
+  "input_hash": "0f18497d57ca",
+  "scored_at": "2026-04-21T13:38:32.225620"
+}

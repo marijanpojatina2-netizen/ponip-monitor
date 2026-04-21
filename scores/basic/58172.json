@@ -1,0 +1,16 @@
+{
+  "id": "58172",
+  "score_overall": 4.5,
+  "score_lokacija": 6.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Rijeka/Sušak lokacija je dobra, ali prodaje se samo 1/2 suvlasničkog udjela dvorišta i pomoćne zgrade - bez suglasnosti drugog suvlasnika nema korisnog raspolaganja. Popust 40% na drugoj dražbi zvuči atraktivno ali suvlasništvo je strukturalni bloker.",
+  "flags": [
+    "suvlasnički udio 1/2 - raspolaganje blokira drugi suvlasnik",
+    "pomoćna zgrada - ograničena samostalna upotrebljivost",
+    "potrebna suglasnost suvlasnika za sve zahvate i prodaju"
+  ],
+  "input_hash": "46bb2a7e0b7d",
+  "scored_at": "2026-04-21T13:24:13.577848"
+}

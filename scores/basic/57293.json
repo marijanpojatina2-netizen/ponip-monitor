@@ -1,0 +1,16 @@
+{
+  "id": "57293",
+  "score_overall": 5.0,
+  "score_lokacija": 2.5,
+  "score_roi": 7.0,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Druga dražba s 40% popustom na kuću s dvorištem i 5340m2 oranice u Niži kod Našica daje jedini stvarni ROI argument u ovom setu; ukupna površina od 6126m2 uz kuću za renoviranje može biti zanimljiva za agro-rezidencijalni projekt ili dugoročno držanje. Slaba slavonska lokacija s depopulacijom je ozbiljan limitator likvidnosti i exit strategije.",
+  "flags": [
+    "depopulacijsko područje – Slavonija",
+    "stanje kuće nepoznato – vjerojatno zahtijeva značajno renoviranje",
+    "niska tržišna likvidnost regije Našice"
+  ],
+  "input_hash": "cfb374d97fd4",
+  "scored_at": "2026-04-21T13:33:04.470708"
+}

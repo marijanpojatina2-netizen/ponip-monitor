@@ -1,0 +1,16 @@
+{
+  "id": "57875",
+  "score_overall": 5.0,
+  "score_lokacija": 5.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Svinišće je malo zaleđe-selo u općini Omiš (Splitsko-dalmatinska županija) – nije obala, ali je Dalmacija s određenom turističkom atraktivnošću Cetinskog kanjona; 40% popust u toj regiji je privlačan za studio od 34m2. Opis je odsječen pa stanje potkrovlja i suhi zidovi zahtijevaju fizički pregled prije licitacije.",
+  "flags": [
+    "opis nepotpun – odsječen",
+    "potkrovlje – potencijalni problemi s krovištem/vlažnošću",
+    "mala površina 34m2 ograničava najamni potencijal"
+  ],
+  "input_hash": "21a2ca215be0",
+  "scored_at": "2026-04-21T13:38:32.225855"
+}

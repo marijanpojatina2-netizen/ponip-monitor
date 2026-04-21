@@ -1,0 +1,17 @@
+{
+  "id": "59779",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Kupuje se samo 1/3 suvlasničkog dijela ovršenika dok ovrhovoditelj zadržava 2/3, uz lokaciju Gunje koja je poznata po katastrofalnim poplavama 2014.; kombinacija prisilnog suvlasništva s kreditorom, poplavnog rizika i slabe likvidnosti čini ovo nezanimljivim.",
+  "flags": [
+    "kupuje se samo 1/3 udjela ovršenika",
+    "ovrhovoditelj ostaje suvlasnik s 2/3 dijela",
+    "poplavno rizično područje (Gunja 2014.)",
+    "niska likvidnost istočne Slavonije"
+  ],
+  "input_hash": "c396d7c90d9d",
+  "scored_at": "2026-04-21T13:36:27.163519"
+}

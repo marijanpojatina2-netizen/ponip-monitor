@@ -1,0 +1,16 @@
+{
+  "id": "58038",
+  "score_overall": 4.5,
+  "score_lokacija": 3.5,
+  "score_roi": 6.0,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Kuća sa dvorištem u Vrhovini (Slavonski Brod periferija) s 40% popustom na drugoj dražbi (~12k EUR ulaz) daje pristupačnu točku za kratkoročni flip ili najam, ali Slavonski Brod kao regionalni centar ima ograničenu potražnju. Vrijedi pratiti ali ne ulaziti bez inspekcije stanja.",
+  "flags": [
+    "stanje objekta nije opisano",
+    "Slavonija - ograničena likvidnost",
+    "periferijska lokacija unutar već slabijeg tržišta"
+  ],
+  "input_hash": "841f0d98d983",
+  "scored_at": "2026-04-21T13:34:55.353688"
+}

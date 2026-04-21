@@ -1,0 +1,16 @@
+{
+  "id": "57842",
+  "score_overall": 3.5,
+  "score_lokacija": 4.5,
+  "score_roi": 3.0,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Koprivnica kao regionalni centar pruža bolju likvidnost od ostatka Podravine, no vlasništvo od samo 1/2 dijela je kritičan strukturalni problem – bez suglasnosti ili otkupa drugog suvlasnika nema slobodnog raspolaganja nekretninom. 20% popust ne kompenzira suvlasnički rizik i moguće blokiranje transakcije.",
+  "flags": [
+    "vlasništvo samo 1/2 dijela – suvlasnički rizik",
+    "bez suglasnosti drugog suvlasnika nema slobodnog raspolaganja",
+    "moguće blokiranje prodaje ili renovacije"
+  ],
+  "input_hash": "aaf49756777f",
+  "scored_at": "2026-04-21T13:33:04.470610"
+}

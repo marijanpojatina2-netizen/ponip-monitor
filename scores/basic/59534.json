@@ -1,0 +1,16 @@
+{
+  "id": "59534",
+  "score_overall": 2.0,
+  "score_lokacija": 1.5,
+  "score_roi": 2.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Negoslavci kod Vukovara - jedna od najzahvaćenijih ratnih zona 1991., s izrazitom depopulacijom i gotovo nepostojećom tražnjom; 20% popust na prvoj dražbi ne kompenzira fundamentalno loš investicijski case u regiji s negativnim demografskim trendom i minimalnom likvidnošću.",
+  "flags": [
+    "Negoslavci - izrazita depopulacijska zona",
+    "ratno nasljeđe - minimalna tržišna tražnja",
+    "loša demografija i infrastruktura - negativan dugoročni trend"
+  ],
+  "input_hash": "b748a64f14a0",
+  "scored_at": "2026-04-21T13:29:52.265247"
+}

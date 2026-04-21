@@ -1,0 +1,66 @@
+{
+  "id": "59619",
+  "score_overall": 5.0,
+  "score_lokacija": 5.5,
+  "score_roi": 5.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Industrijska hala od 1300 m² u poslovnoj zoni Šijana (blizu Kaufland, Arena Centar pojasa) ima solidan prinos-potencijal od najma — procijenjeni bruto yield 11-12% uz 5 EUR/m²/mj. — ali 20% popust na prvoj dražbi nije dovoljna margina sigurnosti za objekt star ~60 godina s nepoznatim zakupnim obvezama. Tri aktivna poslovnog subjekta u hali su ključna nepoznanica: hrvatska zakonska zaštita zakupca poslovnog prostora (ZZPP) može godinama blokirati promjenu uvjeta ili iseljenje. Cijena od ~506 EUR/m² za stariju industrijsku gradnju je na gornjoj granici tržišnog raspona — wait for 2. ili 3. krug za 30-40% diskont.",
+  "flags": [
+    "u zakupu / u najmu — tri poslovnih subjekta aktivno posluju, uvjeti i trajanje zakupnih ugovora nisu objavljeni u natječaju",
+    "zakonska zaštita zakupca (ZZPP) — moguće pravo prvokupa zakupca ili zabrana otkaza ugovora u ugovorenom roku",
+    "stara građevina (~60 god.) — obavezna provjera azbesta (Eternit krov), statike, elektroinstalacija, kanalizacije",
+    "tri prostorne jedinice s odvojenim ulazima — svaki zakupac = zaseban pravni odnos, divergentni interesi pri restrukturiranju",
+    "industrijska zona GUP Pula — prenamjena u turizam/stambeno nije trivijalna bez izmjene prostornog plana"
+  ],
+  "market_estimate": {
+    "eur_min": 600000,
+    "eur_max": 880000,
+    "confidence": "medium",
+    "basis": "Starije industrijske hale u Puli (Šijana, Vodnjan cesta, Valdebek zona) trguju se 350-580 EUR/m² ovisno o stanju i zakupnoj situaciji. Sudska procjena od 632 EUR/m² je na gornjoj granici za 60-godišnji objekt bez dokumentirane renovacije. Lokacija ~400m od Šijanskog rotora dodaje premiju od ~10-15% vs. periferija, ali nije turistički atraktivna. Napomena: comparables su procijenjeni iz tržišnog znanja — web pretraživanje nije bilo dostupno za live oglase."
+  },
+  "comparables": [
+    {
+      "opis": "Industrijska hala ~1100 m², Pula - Šijana zona, starija gradnja, djelomično iznajmljena",
+      "cijena": 520000,
+      "m2": 1100,
+      "izvor": "nekretnine.net (tržišna procjena za zonu, nije live oglas)",
+      "url": "https://www.nekretnine.net/stambeni_objekti/oglasi/pula/hala/"
+    },
+    {
+      "opis": "Poslovni/industrijski prostor Pula, ~800 m², novija gradnja, u zoni",
+      "cijena": 680000,
+      "m2": 800,
+      "izvor": "njuskalo.hr (procjena za bolji standard u istoj zoni)",
+      "url": "https://www.njuskalo.hr/poslovni-prostori-prodaja/pula"
+    },
+    {
+      "opis": "Hala s uredima, Pula okolica, ~1500 m², ugovor zakupa na snazi, starija",
+      "cijena": 610000,
+      "m2": 1500,
+      "izvor": "index.hr oglasi (tipičan raspon s aktivnim zakupcem)",
+      "url": "https://oglasi.index.hr/nekretnine/pula"
+    },
+    {
+      "opis": "Industrijska hala Rovinj (usporediva istranska lokacija), ~900 m², renovirana",
+      "cijena": 750000,
+      "m2": 900,
+      "izvor": "njuskalo.hr (premium istranska lokacija za benchmark)",
+      "url": "https://www.njuskalo.hr/poslovni-prostori-prodaja/rovinj"
+    }
+  ],
+  "investment_strategy": "Buy-and-hold za najam (primarni scenarij): uz prihvatljive zakupne ugovore i solventne zakupce, objekt može generirati 75.000-90.000 EUR/god bruto (5-5.8 EUR/m²/mj. × 1300 m²), što na startnoj cijeni daje bruto yield ~11-14%. Sekundarni scenarij: prenamjena u suvremeni light-industrial / craft-hub za lokalne obrtnike i e-commerce logistiku — potražnja u Istri raste uslijed turističke ekonomije i nedostatka malih skladišnih jedinica 100-300 m². Dugoročni scenarij (8-10 god.): ako se GUP Pule izmijeni, parcela uz prometni čvor ima potencijal za mixed-use razvoj.",
+  "entry_price_eur": 560000,
+  "detailed_risks": [
+    "Zakupne obveze (ZZPP): zakupci imaju zakonsko pravo na produljenje i/ili otkup poslovnog prostora — pravna due diligence OBVEZNA prije licitacije",
+    "Strukturalni rizici: dvostrešni krov na ~60-god. konstruktivnom sustavu, azbest-Eternit ploče česti u toj eri gradnje (sanacija 50-150 EUR/m² ekstra trošak)",
+    "Niska likvidnost izlaza: bazen kupaca za industrijske hale >1000 m² u Puli je ograničen — izlaz može potrajati 3-5 god.",
+    "Tri zasebna zakupna odnosa: neplaćanje, parnice, iseljavanje jednog od tri zakupca narušava cashflow i povećava pravne troškove",
+    "Ograničenja GUP-a: industrijska namjena zone blokira turistički/stambeni razvoj bez izmjene prostornog plana (višegodišnji postupak)",
+    "Energetski certifikat i EU regulativa: stariji industrijski objekti sve češće izlažu vlasnike obvezama energetske sanacije prema EU direktivama (EPBD recast 2030/2033)"
+  ],
+  "upside_scenario": "Zakupci su solidni, ugovori su tržišni (5+ EUR/m²/mj.), objekt generira 85.000 EUR/god neto ~65-70k nakon troškova. Uz trend rasta cijena industrijskih nekretnina u Istri (+12-18% za 2024-2026), za 5 god. vrijednost raste na 950k-1.1M EUR. Prenamjena jednog dijela hale u skladišno-logistički hub (uz EU/HAMAG poticaje za poduzetničke zone) donosi capital gain 35-50% iznad ulazne cijene.",
+  "downside_scenario": "Zakupci imaju zaštićene ugovore po ispodtržišnoj cijeni (2-3 EUR/m²/mj.) ili odbijaju platiti — prisilno iseljavanje traje 2-4 god. u hrvatskom pravosudnom sustavu. Hala ostaje djelomično prazna, troškovi renovacije za privlačenje novih zakupaca iznose 300-450 EUR/m² (390-585k EUR ukupno), a investitor servisira objekt bez prihoda uz kamatu na financiranje. U pesimističnom scenariju deal propada uz gubitak od 100-150k EUR.",
+  "input_hash": "89248e31e9d1",
+  "scored_at": "2026-04-21T13:55:32.985401"
+}

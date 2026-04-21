@@ -1,0 +1,16 @@
+{
+  "id": "58612",
+  "score_overall": 2.5,
+  "score_lokacija": 1.5,
+  "score_roi": 3.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Starin je ruralno slavonsko selo u virovitičko-podravskoj županiji s izraženom depopulacijom - 20% popust na prvoj dražbi jedva kompenzira strukturne rizike slabog tržišta. Miješano zemljište i kuća nepoznatog stanja bez jasne exit strategije.",
+  "flags": [
+    "ruralno depopulacijsko područje - Slavonija",
+    "neujednačeni ZK upisi (dva zk.ul. i BZP referenca - provjeri čistoću vlasništva)",
+    "slaba tržišna likvidnost Slatina zona"
+  ],
+  "input_hash": "c5dcfcada12f",
+  "scored_at": "2026-04-21T13:24:13.578239"
+}

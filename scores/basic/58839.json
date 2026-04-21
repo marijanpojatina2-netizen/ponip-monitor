@@ -1,0 +1,16 @@
+{
+  "id": "58839",
+  "score_overall": 2.5,
+  "score_lokacija": 1.5,
+  "score_roi": 4.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Lipovac je ruralno slavonsko selo uz srpsku granicu s izraženom depopulacijom i minimalnom tržišnom likvidnošću. Popust 20% na prvoj dražbi ne kompenzira strukturnu slabost lokacije.",
+  "flags": [
+    "ruralno depopulacijsko područje",
+    "Slavonija - slaba tržišna likvidnost",
+    "granično područje uz Srbiju"
+  ],
+  "input_hash": "bd0b1269415a",
+  "scored_at": "2026-04-21T13:24:13.577383"
+}

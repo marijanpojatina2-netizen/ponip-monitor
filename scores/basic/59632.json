@@ -1,0 +1,15 @@
+{
+  "id": "59632",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 3.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Kuća s dvorištem u Petrijevcima, malenom slavonskom selu s izraženom depopulacijom i gotovo nepostojećim tržištem nekretnina; 20% popust ne kompenzira strukturne demografske probleme regije.",
+  "flags": [
+    "depopulacijsko područje - Petrijevci blizu Osijeka",
+    "ekstremno niska likvidnost, nema tržišne tražnje"
+  ],
+  "input_hash": "8e2d6e24467b",
+  "scored_at": "2026-04-21T13:31:48.524068"
+}

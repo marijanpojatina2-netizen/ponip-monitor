@@ -1,0 +1,16 @@
+{
+  "id": "59640",
+  "score_overall": 3.5,
+  "score_lokacija": 3.5,
+  "score_roi": 3.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica od ~1977m2 u Humu na Sutli blizu slovenske granice – zanimljiva micro-lokacija ali premala površina za ikakvu skalabilnu investiciju; 20% popust na prvoj dražbi i agricultorno zoniranje ne otvaraju realnu exit strategiju. Granična pozicija ne generira premium bez turističkog ili komercijalnog sadržaja.",
+  "flags": [
+    "premala površina za agrarnu investiciju",
+    "samo oranica bez građevinskog potencijala",
+    "niska likvidnost pograničnog ruralnog tržišta"
+  ],
+  "input_hash": "ea9797f0ef61",
+  "scored_at": "2026-04-21T13:33:04.470495"
+}

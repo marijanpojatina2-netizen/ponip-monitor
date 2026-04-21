@@ -1,0 +1,17 @@
+{
+  "id": "57399",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 3.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Suvlasnički udio ½ u oranici u Virovitici znači da nikada nema punu kontrolu nad parcelom, a agrarno tlo bez objekata u Slavoniji ima minimalnu investicijsku vrijednost unatoč 50% popustu. Stečajno porijeklo može donijeti dodatne pravne komplikacije.",
+  "flags": [
+    "suvlasnički dio ½ – nema pune kontrole",
+    "isključivo agrarna zemlja bez objekata",
+    "stečajni dužnik – potencijalne pravne komplikacije",
+    "Virovitica – niska likvidnost"
+  ],
+  "input_hash": "0901ff4a6d15",
+  "scored_at": "2026-04-21T13:20:23.522790"
+}

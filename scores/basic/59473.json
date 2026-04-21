@@ -1,0 +1,16 @@
+{
+  "id": "59473",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 4.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Suhopolje/Virovitica je slaba Slavonska lokacija s niskom likvidnošću nekretnina; livada bez objekta uz samo 20% popusta na prvoj dražbi ne nudi dovoljno atraktivan ulaz za investitora.",
+  "flags": [
+    "samo livada bez objekta",
+    "ruralno/depopulacijsko područje",
+    "slaba likvidnost Slavonije"
+  ],
+  "input_hash": "c544a76d669d",
+  "scored_at": "2026-04-21T13:36:27.162930"
+}

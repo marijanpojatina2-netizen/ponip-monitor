@@ -1,0 +1,16 @@
+{
+  "id": "59259",
+  "score_overall": 5.0,
+  "score_lokacija": 5.5,
+  "score_roi": 5.0,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Jednosoban stan 35 m2 u Trakošćanu (dvorac, zagorska turistička destinacija) ima određen turistički najamni potencijal, ali 20% popust na prvoj dražbi i nejasni 'suvlasnički dio s neodređenim omjerom' unose pravnu nesigurnost. Zahtijeva provjeru ZK statusa prije licitacije.",
+  "flags": [
+    "suvlasnički dio s neodređenim omjerom - pravna nesigurnost",
+    "vlasnik je d.o.o. (MINI MAJOR D.O.O.) - moguća komplikacija",
+    "mali stan 35 m2 - ograničen prihodni potencijal"
+  ],
+  "input_hash": "e3dea33bbc59",
+  "scored_at": "2026-04-21T13:34:55.353790"
+}

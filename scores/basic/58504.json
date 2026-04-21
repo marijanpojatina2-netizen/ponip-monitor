@@ -1,0 +1,16 @@
+{
+  "id": "58504",
+  "score_overall": 4.0,
+  "score_lokacija": 5.0,
+  "score_roi": 4.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Minijaturni poslovni prostor 20.85m2 u Krapinskim Toplicama ima ograničenu likvidnost i nišnu kupovinu; 20% popust na prvoj dražbi ne kompenzira veličinu i etažnu složenost. Suvlasnički udio dodatno komplicira izlaznu strategiju.",
+  "flags": [
+    "suvlasnički udio 240/10000",
+    "vrlo mala površina 20.85m2",
+    "poslovni prostor – nišna likvidnost"
+  ],
+  "input_hash": "a2fd8aa03f58",
+  "scored_at": "2026-04-21T13:33:04.469695"
+}

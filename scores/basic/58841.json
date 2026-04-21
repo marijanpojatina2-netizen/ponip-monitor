@@ -1,0 +1,16 @@
+{
+  "id": "58841",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 3.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Pridvorje je ruralno slavonsko selo s izraženom depopulacijom i minimalnom tržišnom potražnjom; dvije kuće i tri zgrade na takvoj lokaciji gotovo sigurno su u lošem stanju i zahtijevaju značajna ulaganja. Popust 20% na prvoj dražbi ne pokriva ni troškove sanacije ni rizik neizlaznosti.",
+  "flags": [
+    "ruralna depopulacijska lokacija – Slavonija, selo",
+    "staro imanje (dvije kuće + tri zgrade) – vjerojatno loše stanje",
+    "niska likvidnost: teška preprodaja"
+  ],
+  "input_hash": "de4e57596014",
+  "scored_at": "2026-04-21T13:27:24.775031"
+}

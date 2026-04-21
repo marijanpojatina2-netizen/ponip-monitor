@@ -1,0 +1,16 @@
+{
+  "id": "58024",
+  "score_overall": 4.5,
+  "score_lokacija": 4.0,
+  "score_roi": 6.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Paket od 9 čestica u Lipovcu (Zagorje) uključuje malu kuću 62 m2 i zgradu 93 m2 s 40% popustom na drugoj dražbi, što donosi određenu supstancu za cijenu; međutim, ruralnost lokacije i fragmentiranost parcela znatno ograničavaju izlazne strategije. Vrijedi pratiti ako postoji konkretna namjena (agroturizam, vikendica).",
+  "flags": [
+    "9 razbacanih čestica – kompleksno upravljanje",
+    "mala stara kuća 62 m2 – vjerojatno zahtijeva potpunu obnovu",
+    "ruralna Zagorje lokacija – ograničena likvidnost preprodaje"
+  ],
+  "input_hash": "2b3e720616e3",
+  "scored_at": "2026-04-21T13:27:24.775244"
+}

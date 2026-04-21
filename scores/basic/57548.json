@@ -1,0 +1,16 @@
+{
+  "id": "57548",
+  "score_overall": 6.5,
+  "score_lokacija": 8.5,
+  "score_roi": 6.0,
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Kukljica na otoku Ugljanu (zadarsko područje) – izvrsna turistička lokacija s trajektnom vezom na Zadar; 134m2 vrta po početnoj cijeni 10.560 EUR za otok je potencijalno izvanredno jeftino. Ključni rizik je namjena 'vrt' koja može blokirati gradnju – hitno provjeriti UPU/PPU i mogućnost prenamjene ili pripajanja susjednoj građevinskoj parceli.",
+  "flags": [
+    "vrt – potrebna provjera građevinskih prava (UPU/PPU)",
+    "mala parcela 134m2 – ispod minimalnih GP za samostalnu gradnju",
+    "bez objekta – samo zemljište"
+  ],
+  "input_hash": "9f63ed0f3779",
+  "scored_at": "2026-04-21T13:38:32.226176"
+}

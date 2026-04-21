@@ -1,0 +1,16 @@
+{
+  "id": "59121",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica 3,9 ha u depopulacijskoj zoni Gornjeg Daruvara bez ikakvog objekta uz svega 20% popusta i prvu dražbu ne nudi investicijsku priču – ni za razvoj ni za prihod od najma. Slabija Slavonija s ograničenom potražnjom za oranicama ove veličine.",
+  "flags": [
+    "samo oranica – nema objekta",
+    "depopulacijska zona, niska likvidnost",
+    "prva dražba, minimalni popust"
+  ],
+  "input_hash": "c0ea90655e7c",
+  "scored_at": "2026-04-21T13:25:52.928725"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "57027",
+  "score_overall": 4.5,
+  "score_lokacija": 6.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Drežnik Grad blizu Plitvičkih jezera je turistički perspektivna lokacija, a 40% popust na drugoj dražbi zvuči primamljivo - no predmet je SAMO 1/4 suvlasničkog udjela što ozbiljno ograničava korištenje, najam i preprodaju. Zahtijeva dogovor tri ostala suvlasnika za svaku značajnu odluku.",
+  "flags": [
+    "SUVLASNIČKI UDIO 1/4 - kritičan flag",
+    "nemoguće slobodno koristiti bez suglasnosti ostalih suvlasnika",
+    "otežana exit strategija - tko kupuje 1/4?",
+    "stanje objekta nije opisano"
+  ],
+  "input_hash": "021cc7b35300",
+  "scored_at": "2026-04-21T13:34:55.353435"
+}

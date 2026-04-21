@@ -1,0 +1,16 @@
+{
+  "id": "58374",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Negoslavci su ruralno slavonsko selo u poslijeratnoj okolici Vukovara s ekstremno niskom likvidnošću i demografskim padom – realni izlazni scenarij praktički ne postoji. 40% popust i 2. dražba ne mijenjaju investicijsku logiku u regiji bez potražnje.",
+  "flags": [
+    "poslijeratno područje Vukovara – demografski i ekonomski pad",
+    "ruralna depopulacijska zona",
+    "gotovo nulta tržišna likvidnost"
+  ],
+  "input_hash": "496ed38111bf",
+  "scored_at": "2026-04-21T13:20:23.522690"
+}

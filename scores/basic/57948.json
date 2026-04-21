@@ -1,0 +1,16 @@
+{
+  "id": "57948",
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 5.0,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Darda/Baranja je jedno od najdepopuliranijih područja u Hrvatskoj s ekstremno niskom likvidnošću - 40% popust i druga dražba to i potvrđuju. Kuća 60 m2 s gospodarskim zgradama ne nudi realan izlaz iz investicije.",
+  "flags": [
+    "depopulacijsko područje Baranje",
+    "Beli Manastir zona - slaba likvidnost i potražnja",
+    "mali stambeni objekt 60m2 + gospodarska zgrada"
+  ],
+  "input_hash": "4a7b77e73f88",
+  "scored_at": "2026-04-21T13:24:13.577948"
+}

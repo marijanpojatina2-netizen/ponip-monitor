@@ -1,0 +1,16 @@
+{
+  "id": "59365",
+  "score_overall": 3.0,
+  "score_lokacija": 2.0,
+  "score_roi": 4.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Rušani kod Virovitice su tipična depopulacijska Slavonija; kuća s dvorištem i oranica za 14.720 EUR zvuče jeftino, ali realna prodajnost u toj regiji čini ROI upitan bez jasne exit strategije.",
+  "flags": [
+    "depopulacijsko ruralno područje",
+    "Virovitica - slaba tržišna likvidnost",
+    "nema podataka o stanju objekta"
+  ],
+  "input_hash": "2325d00731c4",
+  "scored_at": "2026-04-21T13:36:27.163828"
+}

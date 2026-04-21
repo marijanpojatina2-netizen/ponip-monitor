@@ -1,0 +1,16 @@
+{
+  "id": "59662",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Kuća s dvorištem u slavonskom selu Gaboš (depopulacijsko područje, okolica Đakova) bez realne potražnje za najam ili preprodaju; čak i uz pretpostavku solidnog stanja objekta, slavonsko ruralno tržište gotovo da nema likvidnosti i exit strategija praktički ne postoji.",
+  "flags": [
+    "Depopulacijsko ruralno područje Slavonije",
+    "Minimalna tržišna likvidnost - dugo na tržištu",
+    "Niska potražnja za najam u selu"
+  ],
+  "input_hash": "904ce5f8e797",
+  "scored_at": "2026-04-21T13:18:27.283624"
+}

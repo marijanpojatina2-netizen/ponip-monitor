@@ -1,0 +1,62 @@
+{
+  "id": "59045",
+  "score_overall": 5.5,
+  "score_lokacija": 5.5,
+  "score_roi": 6.0,
+  "score_stanje": 4.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Industrijski kompleks na Zagrebačkoj ulici u Varaždinu s 7.931 m² zemljišta i ~3.701 m² bruto izgrađenog prostora u 13 zasebnih zgrada nudi izniman yield potencijal za industrijsko iznajmljivanje — teoretski gross prinos od 18-25% na startnoj cijeni ako su zgrade funkcionalne. Popust od 25% na prvoj dražbi je umjeren i ne daje 'automatski' entry margin; no kompleksnost objekta (više starih hala u stečaju) opravdava duboku due diligence analizu stanja konstrukcija, komunalnih dugova i ekologije tla prije licitiranja. Varaždin ima zdravu industrijsku bazu i solidnu prometnu vezu prema Zagrebu (autocesta A4), što podupire potražnju za industrijskim prostorima. Procjena stečajnog upravitelja dostupna na upit — to je PRIORITETNI korak.",
+  "flags": [
+    "Stečajni postupak — moguće neplaćene komunalne obveze, HEP, voda, plin prema gradu/županiji",
+    "Procjena dostupna samo na upit — nema javnih podataka o stanju zgrada; netransparentnost je crvena zastavica",
+    "13 zasebnih industrijskih zgrada — fragmentiranost otežava pronalazak jednog cjelovitog zakupca",
+    "Industrijska lokacija — ekološki rizik kontaminacije tla (motori, kemikalije, maziva) zahtijeva analizu",
+    "Starije industrijske zgrade u stečaju — krovovi, instalacije, vodovod vjerojatno bez održavanja godinama",
+    "Namjena: industrijska zona GUP-a — prenamjena u stambenu ili komercijalnu namjenu vjerojatno nije moguća bez skupih izmjena plana"
+  ],
+  "market_estimate": {
+    "eur_min": 700000,
+    "eur_max": 1050000,
+    "confidence": "medium",
+    "basis": "Industrijska zemlja u Varaždinu: 40–65 EUR/m² (7.931 m² = 317K–516K EUR). Stare industrijske hale u sjevernoj Hrvatskoj: 80–200 EUR/m² ovisno o stanju (3.701 m² = 296K–740K EUR). Zbroj: 613K–1.256M EUR — procijenjena vrijednost od 980K EUR konzistentna s gornjim kvartilom za kompleks u dobrom stanju. Za objekte koji zahtijevaju rekonstrukciju, realna tržišna vrijednost bliže 650K–800K EUR. Napomena: web pretraživanje nije bilo dostupno; procjena bazirana na poznavanju tržišta do kolovoza 2025."
+  },
+  "comparables": [
+    {
+      "opis": "Industrijska hala ~1.800 m² + dvorište, Varaždin okolica — slična industrijsko-stečajna imovina",
+      "cijena": 420000,
+      "m2": 1800,
+      "izvor": "njuskalo.hr (tržišna procjena bez aktivne pretrage)",
+      "url": "https://www.njuskalo.hr/poslovni-prostori-prodaja/varazdin"
+    },
+    {
+      "opis": "Poslovno-industrijski kompleks ~3.000 m², sjeverna Hrvatska (Koprivnica/Čakovec zona)",
+      "cijena": 650000,
+      "m2": 3000,
+      "izvor": "nekretnine.net (tržišna procjena bez aktivne pretrage)",
+      "url": "https://www.nekretnine.net/prodaja/poslovni-prostori/varazdin"
+    },
+    {
+      "opis": "Stečajna prodaja industrijskog kompleksa, Varaždinska županija — FINA dražba 2024/2025",
+      "cijena": 580000,
+      "m2": 2500,
+      "izvor": "fina.hr/javne-drazbe (procjena iz sličnih postupaka)",
+      "url": "https://www.fina.hr/javne-drazbe"
+    }
+  ],
+  "investment_strategy": "PRIMARNO: Industrijski yield play — kupiti i iznajmiti cjelokupni kompleks jednom industrijskom/logističkom korisniku (idealno proizvođaču koji treba više zasebnih hala za različite procese) ili podijeliti na 2-3 manje zakupca. Potencijalni prihod: 3.701 m² × 3–5 EUR/m²/mj. = 133.000–222.000 EUR bruto/god. Na ulaznoj cijeni 735K EUR, gross yield = 18–30% (izniman za industrijsku imovinu, ali realniji neto prinos 10–18% nakon troškova). SEKUNDARNO: Ako GUP dozvoljava, parcela 7.931 m² na Zagrebačkoj ulici ima razvојni potencijal — rušenje zastarjelih hala i gradnja modernih skladišnih/distributivnih prostora (build-to-suit) koji postižu 400–600 EUR/m² na tržištu.",
+  "entry_price_eur": 690000,
+  "detailed_risks": [
+    "Ekološka kontaminacija tla — industrijska zona s nepoznatom poviješću poslovanja stečajnog dužnika; sanacija može koštati 50K–500K EUR",
+    "Stanje krovnih konstrukcija — 13 zgrada, starije gradnje, bez aktivnog održavanja u stečajnom postupku; procjena 100K–350K EUR za kompletnu sanaciju krovova",
+    "Komunalni dugovi stečajnog dužnika — provjera prema HEP-u, Varkomu, plinskom operatoru; u stečaju ne moraju biti podmireni iz prihoda od prodaje",
+    "Urbanistička namjena — bez potvrde GUP-a Varaždina o zoniranju nema garancije za prenamjenu ili dogradnju",
+    "Likvidnost izlaza — industrijsku imovinu u Varaždinu teže prodati od Zagreba; horizont izlaza 3–7 godina",
+    "Fragmentiranost 13 zasebnih zgrada — nema jednog korisnog zakupca koji tipično treba ovakvu strukturu; moguće dulje prazno stanje",
+    "Procjena stečajnog upravitelja na upit — asimetrija informacija na štetu kupca; bez procjene ne bi trebalo licitirati",
+    "Pristup i infrastruktura — Zagrebačka ulica sugerira dobru prometnu vezu, ali nepoznato stanje internih prometnica, priključaka, ograde"
+  ],
+  "upside_scenario": "Kompleks u funkcionalnom stanju (krovovi OK, instalacije uredne) kupljen na 700K EUR. Zakup jednom industrijskom korisniku (npr. manji proizvođač, regionalni distributer) na 7 god. po 4 EUR/m²/mj. = 177.648 EUR/god. bruto. Neto prinos ~12–15% godišnje. Za 3 godine, uz aprecijaciju industrijskog tržišta sjeverne Hrvatske od 5–8%/god., tržišna vrijednost raste na 900K–1.1M EUR. Ukupni povrat (najam + aprecijacija) u 3 god.: 180K (najam neto) + 200K–400K (kapitalni dobitak) = 380K–580K EUR na ulaz od 700K + 98K jamčevine.",
+  "downside_scenario": "Zgrade zahtijevaju temeljitu rekonstrukciju (krovovi, instalacije, temelje) — investicija 250K–450K EUR. Ekološka kontaminacija tla zahtijeva sanaciju 100K–300K EUR. Ukupna investicija: 1.05M–1.45M EUR. Bez zakupca 18–24 mj., prihodi nula. Nakon toga, prinos od 2–3 EUR/m²/mj. daje 88K–133K EUR bruto/god. = 6–10% neto yield na ukupnu investiciju — jedva opravdava kompleksnost. U najgorem slučaju (nema zakupca, potrebna prenamjena): prisiljeni prodati za 650K–750K EUR uz realizirani gubitak 300K–700K EUR.",
+  "input_hash": "50189f439964",
+  "scored_at": "2026-04-21T13:43:57.458306"
+}

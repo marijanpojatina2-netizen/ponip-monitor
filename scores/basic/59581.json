@@ -1,0 +1,17 @@
+{
+  "id": "59581",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica od 12.875 m2 u Trpinji kod Vukovara je isključivo poljoprivredno zemljište bez objekta u jednom od najdepresivnijih područja Hrvatske. Samo 20% popust na prvoj dražbi uz izrazito slabu likvidnost i demografski trend čini ovo neprihvatljivim za investitora.",
+  "flags": [
+    "samo oranica bez objekta",
+    "Vukovar-Trpinja - izrazito depopulacijsko područje",
+    "nema generatora prihoda",
+    "slaba tržišna likvidnost"
+  ],
+  "input_hash": "f30cc08e8e9e",
+  "scored_at": "2026-04-21T13:34:55.353586"
+}

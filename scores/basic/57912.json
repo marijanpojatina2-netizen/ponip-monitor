@@ -1,0 +1,17 @@
+{
+  "id": "57912",
+  "score_overall": 5.5,
+  "score_lokacija": 5.0,
+  "score_roi": 7.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "8.556 m2 livade u Poljani Čičkoj (Velika Gorica) za 8.300 EUR (~0,97 EUR/m2) blizu Zagreba i međunarodnog aerodroma Franjo Tuđman predstavlja najzanimljiviju nekretninu u ovom setu - minimalan ulaz s opcionalnim dugoročnim rezoningom; rizik je vremenski neodređen horizont realizacije i agrikolni status bez garancije promjene namjene.",
+  "flags": [
+    "stečajni dužnik - rizik dokumentacije",
+    "isključivo poljoprivredno zemljište (livada) - nije građevinsko",
+    "dugoročan i neizvjestan horizont realizacije",
+    "bez tekućeg prihoda"
+  ],
+  "input_hash": "d4dc4ddfab37",
+  "scored_at": "2026-04-21T13:39:50.407059"
+}

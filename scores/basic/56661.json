@@ -1,0 +1,16 @@
+{
+  "id": "56661",
+  "score_overall": 7.5,
+  "score_lokacija": 6.5,
+  "score_roi": 9.0,
+  "score_stanje": 6.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Parkirno mjesto u Klari (Novi Zagreb) na TREĆOJ dražbi s 75% popusta – početnih 4.250 EUR za Zagreb parking daje potencijalni bruto prinos od 25-30% (najam ~100 EUR/mj), što je izvanredna brojka. Obavezno istražiti razlog neuspjeha prve dvije dražbe, provjera svih tereta i eventualnih zaostataka kroz Trgovački sud.",
+  "flags": [
+    "treća dražba – zašto nitko nije licitirao?",
+    "Trgovački sud – stečajni postupak tvrtke",
+    "potrebna provjera tereta, komunalnih zaostataka i prava trećih"
+  ],
+  "input_hash": "e704c27c8be6",
+  "scored_at": "2026-04-21T13:38:32.226371"
+}

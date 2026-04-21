@@ -1,0 +1,17 @@
+{
+  "id": "59223",
+  "score_overall": 3.5,
+  "score_lokacija": 4.0,
+  "score_roi": 3.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Fragmentirane čestice mješovitog agrarnog i neplodnog zemljišta u karlovačkom zaleđu bez objekata i bez turističkog potencijala; raspršenost po više zasebnih zk.ul. dodatno komplicira uknjižbu i upravljanje, a 20% popust nije dovoljan argument za regiju slabe likvidnosti.",
+  "flags": [
+    "Neplodno zemljište 874 m2 - bez upotrebne vrijednosti",
+    "Tri zasebna zk.ul. - kompleksnija pravna i financijska transakcija",
+    "Bez objekata - nula prihoda od najma",
+    "Karlovačko zaleđe - ograničeno tržište"
+  ],
+  "input_hash": "8a4ed316a9b4",
+  "scored_at": "2026-04-21T13:18:27.283507"
+}

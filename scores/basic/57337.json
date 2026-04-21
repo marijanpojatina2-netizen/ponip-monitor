@@ -1,0 +1,16 @@
+{
+  "id": "57337",
+  "score_overall": 3.5,
+  "score_lokacija": 4.5,
+  "score_roi": 4.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Kč.br. 1072/4 označena je kao VODNO DOBRO što je državna/javna imovina i predstavlja ozbiljan pravni rizik – dio nekretnine de facto nije u slobodnom vlasništvu. 40% popust i 2. dražba ne kompenziraju pravnu nesigurnost.",
+  "flags": [
+    "VODNO DOBRO na kč.br. 1072/4 – državna imovina, pravni rizik",
+    "Okunšćak/Dugo Selo – slabija periferija",
+    "moguće ograničenje korištenja dijela dvorišta"
+  ],
+  "input_hash": "a6572d979e3e",
+  "scored_at": "2026-04-21T13:20:23.522432"
+}

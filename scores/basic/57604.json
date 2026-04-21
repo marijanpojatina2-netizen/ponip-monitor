@@ -1,0 +1,15 @@
+{
+  "id": "57604",
+  "score_overall": 5.5,
+  "score_lokacija": 5.5,
+  "score_roi": 6.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Poslovni prostor 67m2 u Karlovcu po ~276 EUR/m2 (uz 40% popust i drugu dražbu) privlačna je ulazna cijena za poslovni najam, no specijalizirana pekarska oprema i namjena traže trošak adaptacije za bilo koju drugu djelatnost. Prihodi od najma ograničeni veličinom tržišta.",
+  "flags": [
+    "specijalizirana namjena (pekara/pekarnica) – zahtijeva adaptaciju za drugu namjenu",
+    "Karlovac – ograničena potražnja za poslovnim prostorima"
+  ],
+  "input_hash": "af84bb0c7ac3",
+  "scored_at": "2026-04-21T13:25:52.928835"
+}

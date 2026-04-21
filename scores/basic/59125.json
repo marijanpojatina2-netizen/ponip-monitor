@@ -1,0 +1,15 @@
+{
+  "id": "59125",
+  "score_overall": 2.5,
+  "score_lokacija": 3.0,
+  "score_roi": 2.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Suvlasnički udio 2/6 praktički je dealbreaker – preostala 4/6 u tuđem vlasništvu blokira slobodno raspolaganje, najam ili prodaju bez suglasnosti. Prva dražba s tek 20% popustom u ruralnom Slanju ne opravdava ulazak.",
+  "flags": [
+    "suvlasnički udio samo 2/6 - blokada raspolaganja bez suglasnosti ostalih suvlasnika",
+    "ruralna lokacija s niskom tržišnom likvidnošću"
+  ],
+  "input_hash": "d19903e07738",
+  "scored_at": "2026-04-21T13:25:52.928505"
+}

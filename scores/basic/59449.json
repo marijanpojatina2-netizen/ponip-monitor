@@ -1,0 +1,16 @@
+{
+  "id": "59449",
+  "score_overall": 2.0,
+  "score_lokacija": 3.0,
+  "score_roi": 2.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Dvije parcele upisane u naravi kao 'ulica' i 'park' unutar industrijske zone Đuro Đaković - postoji ozbiljan rizik da se radi o javnoj infrastrukturi koja nema mogućnost privatne komercijalne eksploatacije ni gradnje.",
+  "flags": [
+    "parcele u naravi ULICA i PARK - mogući javni put ili zelena površina",
+    "upitna mogućnost korištenja i gradnje - obavezna provjera GUP-a",
+    "Gospodarska zona bez jasnog investicijskog izlaza"
+  ],
+  "input_hash": "38b128a84dc5",
+  "scored_at": "2026-04-21T13:31:48.524271"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "57442",
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Turanovac je ruralno depopulacijsko selo u bjelovarskoj okolici s izuzetno niskom tržišnom likvidnošću, bez realnog izlaznog scenarija za investitora. 50% popust i 2. dražba su jedini pozitivi, ali u ovoj regiji nema tko kupiti ni iznajmiti.",
+  "flags": [
+    "ruralno/depopulacijska zona Bilogore",
+    "agrarna zemlja niske likvidnosti",
+    "nejasno stanje kuće-dvora"
+  ],
+  "input_hash": "dec7c20beb6e",
+  "scored_at": "2026-04-21T13:20:23.521996"
+}

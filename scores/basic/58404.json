@@ -1,0 +1,16 @@
+{
+  "id": "58404",
+  "score_overall": 3.0,
+  "score_lokacija": 4.5,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Pašnjak 1102 m2 u splitskom zaleđu (k.o. Žedno, Klis zona) bez realnog građevinskog potencijala uz samo 20% popusta na prvoj dražbi - omjer rizika i prinosa nepovoljan. Split sud ne znači Split obala.",
+  "flags": [
+    "pašnjak - poljoprivredno zoniranje, gradnja upitna",
+    "Split zaleđe nije obala - značajna razlika u vrijednosti",
+    "20% popust na prvoj dražbi - nedovoljan za ovaj tip"
+  ],
+  "input_hash": "9534b2a11e49",
+  "scored_at": "2026-04-21T13:24:13.577630"
+}

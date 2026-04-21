@@ -1,0 +1,16 @@
+{
+  "id": "59149",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Marinci kraj Vinkovaca - duboka slavonska rurala s jakom depopulacijom i praktički nepostojećim izlaznim tržištem; oranica dominira površinom i ne generira realan prihod.",
+  "flags": [
+    "jaka depopulacija - Marinci/Vinkovci zaleđe",
+    "oranica čini 80% površine bez prihoda potencijala",
+    "Slavonija - jedna od najniže likvidnih regija u HR"
+  ],
+  "input_hash": "b8bd06d020eb",
+  "scored_at": "2026-04-21T13:31:48.524170"
+}

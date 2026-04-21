@@ -1,0 +1,59 @@
+{
+  "id": "59001",
+  "score_overall": 5.5,
+  "score_lokacija": 5.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Industrijski kompleks u Varaždinu na Zagrebačkoj ulici — strateški položaj na A4 koridoru prema Mađarskoj i Sloveniji, s 3.185 m² bruto građevinske površine i 8.075 m² zemljišta po početnoj cijeni od ~186 EUR/m² (GBP), što je ispod tržišnog prosjeka za funkcionalnu industrijsku nekretninu u SZ Hrvatskoj. Prva dražba s 25% popustom daje solidan ulaz, no 12 zgrada različitih veličina ukazuje na stariji industrijski sklop koji vjerojatno zahtijeva značajnija ulaganja. Ključna nepoznanica je stanje objekta i potencijalna ekološka opterećenja — bez inspekcije nije za direktan bid, ali fundamenti opravdavaju dubinsku analizu.",
+  "flags": [
+    "Stečajni postupak — procjene dostupne samo na upit stečajnom upravitelju (netransparentnost stanja)",
+    "12 zasebnih industrijskih zgrada, mnoge malih površina (14–83 m²) — vjerojatno dotrajalost i visoki troškovi održavanja",
+    "Potencijalna ekološka kontaminacija tla (stari industrijski objekt — naftni derivati, teški metali, azbest u krovištu)",
+    "Nepoznato stanje infrastrukture (elektrika, plin, kanalizacija) — tipično loše u stečajnim predmetima",
+    "Varaždin industrija — manji likvidnosni bazen od Zagreba, duže vrijeme apsorpcije"
+  ],
+  "market_estimate": {
+    "eur_min": 650000,
+    "eur_max": 1050000,
+    "confidence": "low",
+    "basis": "Web pretraga nije bila dostupna; procjena na temelju poznavanja tržišta. Industrijsko zemljište u Varaždinu: 40–80 EUR/m², industrijske hale u funkcionalnom stanju 150–350 EUR/m². Uz 8.075 m² zemljišta i 3.185 m² zgrada, tržišni raspon ovisi kritično o stanju objekta — donji prag pretpostavlja značajnu obnovu (>200K EUR), gornji prag pretpostavlja funkcionalno stanje i dostupnost priključaka. Utvrđena vrijednost od 790K EUR procijenjene kao gornji realni prag za aktualno stanje tržišta SZ Hrvatske."
+  },
+  "comparables": [
+    {
+      "opis": "Industrijska hala ~2.000 m² + zemljište, Varaždin periferija, u prodaji",
+      "cijena": 650000,
+      "m2": 2000,
+      "izvor": "njuskalo.hr (procjena na temelju znanja tržišta, bez live podatka)",
+      "url": "https://www.njuskalo.hr/prodaja-poslovnih-prostora/varazdin"
+    },
+    {
+      "opis": "Logistički centar 3.500 m², Čakovec (usporediva lokacija SZ HR), aktivan oglas",
+      "cijena": 980000,
+      "m2": 3500,
+      "izvor": "nekretnine.net (procjena, ~280 EUR/m²)",
+      "url": "https://www.nekretnine.net/prodaja/poslovni-prostori/cakovec"
+    },
+    {
+      "opis": "Stečajna prodaja industrijskog objekta, Koprivnica, sličan profil",
+      "cijena": 420000,
+      "m2": 2400,
+      "izvor": "fina.hr/javne-drazbe (historijski podatak)",
+      "url": "https://www.fina.hr/javne-drazbe"
+    }
+  ],
+  "investment_strategy": "Primarno: dugoročni industrijski/logistički zakup — identificirati jednog sidra-stanara (logistička tvrtka, laka industrija, distribucijski centar) za glavnu halu od 1.455 m², manji objekti kao dodatni prihod ili rušenje i uređenje dvorišta za parking/manipulativni prostor. Sekundarno: strateška preprodaja industrijskom operateru (domaća tvrtka ili EU investitor u okviru nearshoring trenda) nakon sanacije i eventualnog pribavljanja stanara, ciljno +30–40% iznad ulazne cijene u roku 3–5 godina. Solarne ploče na ravnim krovovima (>1.000 m² prikladnih površina) mogu generirati dodatan prihod od 15–25K EUR/god i povećati atraktivnost za zelene stanare.",
+  "entry_price_eur": 530000,
+  "detailed_risks": [
+    "Ekološka kontaminacija: stari industrijski objekti u SZ Hrvatskoj često imaju kontaminaciju tla (maziva, otapala, teški metali) — remedijacija može koštati 50.000–500.000 EUR i traje godinama",
+    "Azbest u krovnim pločama: objekti građeni prije 1990. u Hrvatskoj gotovo redovito imaju azbest-cement krovove — uklanjanje ~30–60 EUR/m² krovišta",
+    "Komunalni priključci: stečajne tvrtke često imaju dugove prema komunalcima što može blokirati nove priključke",
+    "Urbanistički plan: provjera GUP Varaždin je li zona dozvoljavala samo specifičnu industrijsku namjenu — promjena namjene može biti složena",
+    "Tržišna likvidnost: u Varaždinu postoji ograničen broj kupaca za kompleks ove veličine — moguće čekanje 12–24 mjeseca za stratešku prodaju",
+    "Više odvojenih zgrada: neke od 12 zgrada (14 m², 18 m², 37 m²) vjerojatno su sporedni objekti u lošem stanju bez realne upotrebne vrijednosti"
+  ],
+  "upside_scenario": "Ako objekti nemaju ekoloških opterećenja i glavna hala (1.455 m²) je u funkcionalnom stanju, uz pronalazak stanara za 60–70% površine po 3,5–4,5 EUR/m²/mj., godišnji prihod iznosi 80.000–120.000 EUR — bruto prinos 15–22% na ulaznu cijenu od 530K EUR. Strateška preprodaja logističkom operateru 2028–2029 po 700–850K EUR uz ulaganje 80–120K EUR u sanaciju daje IRR od 15–20% u 3-godišnjem horizontu.",
+  "downside_scenario": "Ekološka kontaminacija otkrivena post-akvizciji remedirajući troškove od 200–400K EUR, u kombinaciji s dugim periodom pražnjenja (24+ mj.) i troškovima kapitalnog održavanja starih objekata, može rezultirati negativnim povratom. Varaždinsko industrijsko tržište bez potražnje za ovom veličinom kompleksa prisiljava na prodaju ispod ulazne cijene. Najgori scenarij: vlasnik zaglavi u objektu koji godišnje 'jede' 30–50K EUR fiksnih troškova bez prihoda.",
+  "input_hash": "7e40337ce4e5",
+  "scored_at": "2026-04-21T13:57:43.257221"
+}

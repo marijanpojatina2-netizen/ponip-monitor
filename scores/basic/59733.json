@@ -1,0 +1,16 @@
+{
+  "id": "59733",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 3.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Ruralna unutrašnjost Dalmacije (Koritna, Sinj područje) s pretežno oraničnim zemljištem i neopisanom kućom - slaba lokacija bez turističkog ni urbanog potencijala. Svega 20% popust na prvoj dražbi ne opravdava ulaz u depopulacijsko područje.",
+  "flags": [
+    "ruralno depopulacijsko područje",
+    "pretežno oranica bez opisanog stanja kuće",
+    "slaba tržišna likvidnost"
+  ],
+  "input_hash": "e44b76c07424",
+  "scored_at": "2026-04-21T13:34:55.352877"
+}

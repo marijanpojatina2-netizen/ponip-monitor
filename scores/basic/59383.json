@@ -1,0 +1,16 @@
+{
+  "id": "59383",
+  "score_overall": 5.5,
+  "score_lokacija": 8.0,
+  "score_roi": 5.0,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Odlična lokacija u istarskom priobalju blizu Poreča, ali isključivo poljoprivredno zemljište (oranica/vinograd) bez ikakvog objekta što drastično ograničava kratkoročni ROI; potencijal za dugoročnu aprecijaciju i agroturizam postoji, ali zahtijeva ozbiljnu provjeru prostornog plana i mogućnosti gradnje.",
+  "flags": [
+    "Poljoprivredno zemljište bez objekata - nema prihoda od najma",
+    "Potrebna provjera UPU/DPU za mogućnost izgradnje",
+    "20% popust na prvoj dražbi - nema sigurnosne margine"
+  ],
+  "input_hash": "eeaf384468f6",
+  "scored_at": "2026-04-21T13:18:27.282920"
+}

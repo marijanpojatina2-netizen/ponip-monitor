@@ -1,0 +1,16 @@
+{
+  "id": "59412",
+  "score_overall": 5.5,
+  "score_lokacija": 7.5,
+  "score_roi": 5.0,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Istra tlo blizu Poreča ima dugoročni potencijal čak i kao agro parcela, ali 1/3 suvlasničkog dijela drastično komplicira svaku dalju dispoziciju ili razvoj. Popust od 20% na prvoj dražbi ne opravdava aktivno licitiranje bez prethodne provjere suvlasničke strukture.",
+  "flags": [
+    "1/3 suvlasničkog dijela – otežana prodaja i razvoj",
+    "samo poljoprivredno zemljište bez građevine (bonaša/vinograd)",
+    "nema mogućnosti izgradnje bez prenamjene"
+  ],
+  "input_hash": "2292b1b30e9d",
+  "scored_at": "2026-04-21T13:27:24.774688"
+}

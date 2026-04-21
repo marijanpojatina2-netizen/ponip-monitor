@@ -1,0 +1,15 @@
+{
+  "id": "58104",
+  "score_overall": 5.0,
+  "score_lokacija": 6.5,
+  "score_roi": 5.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Parcela 908m2 u zagrebačkoj četvrti Stenjevec za ~19k EUR zvuči atraktivno, ali katastarska oznaka 'voćnjak' sugerira poljoprivrednu namjenu što značajno ograničava gradnju. Vrijednost ovisi isključivo o provjeri GUP-a i mogućnosti prenamjene.",
+  "flags": [
+    "samo parcela bez objekta",
+    "katastarsko označenje 'voćnjak' – potrebna provjera GUP-a i mogućnosti građenja"
+  ],
+  "input_hash": "d765029098a5",
+  "scored_at": "2026-04-21T13:25:52.928621"
+}

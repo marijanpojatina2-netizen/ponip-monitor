@@ -1,0 +1,17 @@
+{
+  "id": "59271",
+  "score_overall": 2.5,
+  "score_lokacija": 3.5,
+  "score_roi": 3.0,
+  "score_stanje": 1.5,
+  "recommendation": "pass",
+  "reasoning": "Kamenjar (neplodno kameno tlo) u dalmatinskom ruralnom zaleđu bez ikakvog objekta ili infrastrukture uz suvlasnički udio 1/2 čini ovaj predmet gotovo beskorisnim za investicijsku svrhu; ruralna lokacija bez likvidnosti i kamenjar kao vrsta zemljišta ne ostavljaju prostora za realnu exit strategiju.",
+  "flags": [
+    "Kamenjar - neplodno, gotovo neutilizabilno tlo",
+    "Suvlasništvo 1/2 - nužan dogovor s drugim suvlasnikom za bilo što",
+    "Ruralno zaleđe Splita - minimalna likvidnost",
+    "Bez ikakve mogućnosti neposrednog prihoda"
+  ],
+  "input_hash": "4689634aadc9",
+  "scored_at": "2026-04-21T13:18:27.283290"
+}

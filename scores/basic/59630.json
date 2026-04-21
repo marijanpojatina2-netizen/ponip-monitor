@@ -1,0 +1,16 @@
+{
+  "id": "59630",
+  "score_overall": 6.0,
+  "score_lokacija": 7.0,
+  "score_roi": 5.5,
+  "score_stanje": 8.0,
+  "recommendation": "watch",
+  "reasoning": "Parkirno mjesto u Trnju (Zagreb) ima stabilan najamni potencijal (~120-150 EUR/mj), ali samo 20% popust na 1. dražbi ostavlja malo sigurnosne margine. Vrijedi pratiti ako cijena padne na 2. dražbi.",
+  "flags": [
+    "samo parkirno mjesto – ograničena likvidnost vs. stan",
+    "1. dražba – bez dodatnog popusta",
+    "etaža -2 smanjuje atraktivnost"
+  ],
+  "input_hash": "fa6a4310b850",
+  "scored_at": "2026-04-21T13:20:23.522208"
+}

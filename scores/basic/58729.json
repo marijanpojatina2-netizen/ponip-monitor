@@ -1,0 +1,12 @@
+{
+  "id": "58729",
+  "score_overall": 5.0,
+  "score_lokacija": 6.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Identičan stan u istoj zgradi kao ID 58689, razlika je 1. umjesto 2. kata - isti zaključci o solidnoj varaždinskoj lokaciji i nedovoljnom popustu za ulaz na prvoj dražbi. Pratiti zajedno s ID 58689, ući aktivno ako koji od njih dođe na drugu dražbu.",
+  "flags": [],
+  "input_hash": "a9bd688b0610",
+  "scored_at": "2026-04-21T13:22:13.381531"
+}

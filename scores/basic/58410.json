@@ -1,0 +1,16 @@
+{
+  "id": "58410",
+  "score_overall": 4.0,
+  "score_lokacija": 4.5,
+  "score_roi": 3.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Manja kuća (97 m2) u selu kod Varaždina s neuobičajenom pravnom strukturom gdje su i ovrhovoditeljica i ovršenica suvlasnici - ovo znači da se vjerojatno prodaje samo dio nekretnine ili postoji rizik naknadnih sporova; 20% popust ne kompenzira pravnu neizvjesnost i slabu investicijsku perspektivu regije.",
+  "flags": [
+    "Suvlasništvo ovrhovoditeljice i ovršenice - neuobičajen i rizičan pravni položaj",
+    "Nejasno što točno ulazi u prodaju i koji udio",
+    "Varaždinsko selo - ograničeni investicijski potencijal"
+  ],
+  "input_hash": "3f16bcb7389f",
+  "scored_at": "2026-04-21T13:18:27.283726"
+}

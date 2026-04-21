@@ -1,0 +1,16 @@
+{
+  "id": "58532",
+  "score_overall": 3.0,
+  "score_lokacija": 4.0,
+  "score_roi": 3.0,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Zagorje lokacija je prihvatljiva ali suvlasništvo 1/2 s dva ovršenika na pašnjaku bez ikakvog objekta čini situaciju pravno kompleksnom; nizak popust i samo pašnjak isključuju investicijski interes.",
+  "flags": [
+    "suvlasništvo 1/2 (dva ovršenika)",
+    "samo pašnjak bez objekta",
+    "pravna kompleksnost suvlasničkih odnosa"
+  ],
+  "input_hash": "20a53ebc0cd5",
+  "scored_at": "2026-04-21T13:36:27.163372"
+}

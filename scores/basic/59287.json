@@ -1,0 +1,16 @@
+{
+  "id": "59287",
+  "score_overall": 5.5,
+  "score_lokacija": 6.0,
+  "score_roi": 6.0,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Identičan stan (E-23, 3. kat) u istom stečajnom postupku i po istoj cijeni kao E-14 - vrijede iste napomene; viši kat može biti prednost ili mana ovisno o liftu. Razmotri kombiniranu strategiju za oba stana ako portfeljni pristup ima smisla.",
+  "flags": [
+    "stečajni postupak - isti objekt kao E-14 (ID 59279)",
+    "viši kat - provjeri prisutnost lifta u zgradi",
+    "višestruki stanovi u stečaju - provjeri uknjižbu na razini zgrade"
+  ],
+  "input_hash": "35203b5c4d4b",
+  "scored_at": "2026-04-21T13:24:13.578143"
+}

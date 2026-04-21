@@ -1,0 +1,16 @@
+{
+  "id": "59453",
+  "score_overall": 2.5,
+  "score_lokacija": 3.0,
+  "score_roi": 2.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Gospodarska zgrada u selu Pribislavec pokraj Čakovca s izrazito fragmentiranim suvlasničkim udjelom 50/162 (~31%) – praktički nemoguće donijeti odluke o objektu bez suglasnosti više suvlasnika. Samo 20% popusta na prvoj dražbi za ruralni objekt bez stambene namjene.",
+  "flags": [
+    "50/162 suvlasnički udio – praktički neupravljivo suvlasništvo",
+    "gospodarska zgrada – nema stambenog karaktera",
+    "samo 20% popusta na prvoj dražbi"
+  ],
+  "input_hash": "3768ba9784df",
+  "scored_at": "2026-04-21T13:38:32.226076"
+}

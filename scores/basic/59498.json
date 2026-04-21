@@ -1,0 +1,15 @@
+{
+  "id": "59498",
+  "score_overall": 4.5,
+  "score_lokacija": 4.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Bedenica kod Sv. Ivana Zeline je ruralno ali prihvatljivo blizu Zagreba - kuća s vinogradom ima određeni potencijal za vikendicu ili najam. Ipak, samo 20% popust na prvoj dražbi i nepoznato stanje objekta ne opravdavaju aktivnu licitaciju.",
+  "flags": [
+    "stanje objekta nije opisano",
+    "ruralno, slabija likvidnost unatoč blizini Zagreba"
+  ],
+  "input_hash": "8adc2e5f8be7",
+  "scored_at": "2026-04-21T13:34:55.353100"
+}

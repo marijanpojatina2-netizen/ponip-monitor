@@ -1,0 +1,16 @@
+{
+  "id": "59743",
+  "score_overall": 4.5,
+  "score_lokacija": 5.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Suvlasnički udio 8590/20450 znači da se kupuje udio u zgradi, a ne autonomna nekretnina – upravljanje, prodaja i renovacija zahtijevaju suglasnost suvlasnika. Samo 20% popust na 1. dražbi u Varaždinu (Optujska ulica – periferija) ne opravdava ulazak.",
+  "flags": [
+    "suvlasnički dio 8590/20450 – nije puno vlasništvo",
+    "1. dražba – minimalan popust",
+    "starija kuća s više gospodarskih objekata – nejasno stanje"
+  ],
+  "input_hash": "d116cdfdf1b2",
+  "scored_at": "2026-04-21T13:20:23.522587"
+}

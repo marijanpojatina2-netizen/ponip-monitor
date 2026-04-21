@@ -1,0 +1,16 @@
+{
+  "id": "59591",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 4.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Bapska kod Vukovara je duboka Slavonija s minimalnim investicijskim potencijalom; 20% popust na prvoj dražbi nije dovoljan za kompenzaciju niske likvidnosti i depopulacijskog trenda regije.",
+  "flags": [
+    "duboka ruralna Slavonija",
+    "depopulacijsko područje",
+    "niska tržišna likvidnost Vukovar regije"
+  ],
+  "input_hash": "60f425b8bc7a",
+  "scored_at": "2026-04-21T13:36:27.163269"
+}

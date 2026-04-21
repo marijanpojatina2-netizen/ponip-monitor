@@ -1,0 +1,16 @@
+{
+  "id": "57425",
+  "score_overall": 4.0,
+  "score_lokacija": 2.5,
+  "score_roi": 6.0,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Izvrsni popust od 50% na drugoj dražbi za kuću s dvorištem 751 m2 zvuči primamljivo, no 1/2 suvlasnički udio stečajnog dužnika u ruralnoj Budanici kraj Bjelovara znači ozbiljna pravna ograničenja i gotovo nikakvu likvidnost u depopulacijskoj zoni. Cijena atraktivna, exit strategija neizvjesna.",
+  "flags": [
+    "1/2 suvlasnički udio stečajnog dužnika",
+    "ruralna depopulacijska zona - Bilogora",
+    "niska tržišna likvidnost - bez aktivnog kupca za ostatak suvlasništva"
+  ],
+  "input_hash": "e5dc4204ac45",
+  "scored_at": "2026-04-21T13:22:13.381268"
+}

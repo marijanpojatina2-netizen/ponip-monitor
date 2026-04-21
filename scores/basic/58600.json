@@ -1,0 +1,16 @@
+{
+  "id": "58600",
+  "score_overall": 6.0,
+  "score_lokacija": 7.0,
+  "score_roi": 5.5,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Studio 21.76 m2 u turističkoj Crikvenici nudi solidni potencijal kratkoročnog najma (Airbnb) uz pristojnu lokaciju na Kvarneru, ali prizemlje i izrazito mala površina limitiraju cijenu i atraktivnost; 20% popust na prvoj dražbi nije dovoljno uvjerljiv za agresivniji ulog.",
+  "flags": [
+    "Prizemlje - manja atraktivnost za turistički najam",
+    "Samo 21.76 m2 - ograničen raspon kupaca pri preprodaji",
+    "Suvlasnički udio 22/439 - provjera etažnog i HOA obaveza"
+  ],
+  "input_hash": "7819d84a05fb",
+  "scored_at": "2026-04-21T13:18:27.283173"
+}

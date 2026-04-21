@@ -1,0 +1,16 @@
+{
+  "id": "59704",
+  "score_overall": 6.5,
+  "score_lokacija": 8.5,
+  "score_roi": 5.5,
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Terasa maslinika na otoku Iž u Zadarskom arhipelagu - iznimna lokacija u premium jadranskoj turističkoj zoni gdje otočno zemljište rijetko gubi vrijednost; ključno je hitno istražiti PPUO Iž i mogućnost prenamjene ili gradnje pomoćnog objekta jer 301 m2 maslinika samo po sebi daje ograničen direktni ROI, ali potencijal aprecijacije kapitala je visok.",
+  "flags": [
+    "isključivo OPG/maslinik - trenutno nije građevinsko zemljište",
+    "mala površina 301 m2 - ograničava razvojne opcije",
+    "otočna logistika (trajekt Zadar-Iž) - otežano upravljanje"
+  ],
+  "input_hash": "4cdaecc65aff",
+  "scored_at": "2026-04-21T13:29:52.265492"
+}

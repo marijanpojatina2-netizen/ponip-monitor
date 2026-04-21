@@ -1,0 +1,16 @@
+{
+  "id": "57371",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 5.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Ruralna Slavonija (Gornje Bazje/Virovitica) s depopulacijom i gotovo nultom tržišnom likvidnošću eliminira investicijski potencijal unatoč graničnom 40% popustu; suvlasništvo 1/2 dijela kritično otežava svaku izlaznu strategiju jer bez suglasnosti suvlasnika nema slobodne prodaje.",
+  "flags": [
+    "suvlasništvo 1/2 dijela - ograničena raspolagačka prava",
+    "ruralno/depopulacijsko područje (Slavonija - Virovitica)",
+    "mješavina kuće i oranica bez podataka o stanju objekta"
+  ],
+  "input_hash": "6318eea83831",
+  "scored_at": "2026-04-21T13:39:50.406608"
+}

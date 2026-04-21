@@ -1,0 +1,16 @@
+{
+  "id": "59331",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 3.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Ruralno slavonsko selo Ciglenik kod Oriovca – izrazito depopulacijsko područje s minimalnom tržišnom likvidnošću; 20% popust na prvoj dražbi nije dovoljan za prihvatljiv exit. Starijoj kući u selu potrebno je renoviranje, a potražnja je gotovo nepostojeća.",
+  "flags": [
+    "depopulacijsko područje",
+    "niska tržišna likvidnost Slavonije",
+    "nepoznato stanje objekta"
+  ],
+  "input_hash": "811a4ba2ff8a",
+  "scored_at": "2026-04-21T13:33:04.469913"
+}

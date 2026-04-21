@@ -1,0 +1,16 @@
+{
+  "id": "57263",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Molvice kod Pitomače jedno su od najslabijih investicijskih mikrolokacija u Hrvatskoj - depopulacijsko selo Virovitičko-podravske županije bez ikakve perspektive rasta vrijednosti ili turističkog potencijala; 50% popust ne kompenzira praktički nepostojeću tržišnu likvidnost.",
+  "flags": [
+    "izrazito ruralno/depopulacijsko područje (Molvice, Pitomača)",
+    "minimalna do nulta tržišna likvidnost",
+    "nepoznato stanje objekta - vjerojatno zahtijeva rekonstrukciju"
+  ],
+  "input_hash": "026a16252833",
+  "scored_at": "2026-04-21T13:39:50.406947"
+}

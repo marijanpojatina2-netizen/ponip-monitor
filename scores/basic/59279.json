@@ -1,0 +1,15 @@
+{
+  "id": "59279",
+  "score_overall": 5.5,
+  "score_lokacija": 6.0,
+  "score_roi": 6.0,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "2-sobni stan 42,4 m2 u Varaždinu za ~24.300 EUR (≈573 EUR/m2) u stečajnom postupku ispod je tržišnih vrijednosti; Varaždin ima solidnu najamnu potražnju i rastuće tržište. Potrebna provjera tereta iz stečajne mase i fizičkog stanja stana.",
+  "flags": [
+    "stečajni postupak - provjeri sva uknjižena tereta",
+    "više stanova iz iste zgrade u stečaju - provjeri zajednička tereta zgrade"
+  ],
+  "input_hash": "12daf639dc31",
+  "scored_at": "2026-04-21T13:24:13.578045"
+}

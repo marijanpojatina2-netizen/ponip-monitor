@@ -1,0 +1,16 @@
+{
+  "id": "57950",
+  "score_overall": 5.0,
+  "score_lokacija": 5.5,
+  "score_roi": 6.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Voćnjak 858m2 u Sesvetama (Zagreb) nudi spekulativni potencijal prenamjene u građevinsku parcelu uz 40% popust i 2. dražbu, no bez potvrđene namjene zemljišta nema garantiranog prihoda. Svakako provjeriti PRO/GIS i mogućnost ishođenja lokacijske dozvole.",
+  "flags": [
+    "samo golo zemljište – nema objekata",
+    "agrarna namjena – prenamjena neizvjesna",
+    "mali plot 858m2 ograničava razvoj"
+  ],
+  "input_hash": "c86cc66b75db",
+  "scored_at": "2026-04-21T13:20:23.522323"
+}

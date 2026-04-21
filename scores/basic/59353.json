@@ -1,0 +1,15 @@
+{
+  "id": "59353",
+  "score_overall": 3.0,
+  "score_lokacija": 3.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Kuća od svega 54m2 s vinogradom u ruralnom Bosiljevo (Karlovačka županija) uz prvu dražbu i 20% popust ne pruža dovoljno investicijskog potencijala ni za najam ni za preprodaju. Minimalna kvadratura objekta u kombinaciji s ruralnom lokacijom čini exit strategiju nejasnom.",
+  "flags": [
+    "kuća samo 54 m2 – ograničena upotrebljivost i tržišna privlačnost",
+    "ruralna lokacija s niskom likvidnošću"
+  ],
+  "input_hash": "7f3417f0ae58",
+  "scored_at": "2026-04-21T13:25:52.929037"
+}

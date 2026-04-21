@@ -1,0 +1,15 @@
+{
+  "id": "58167",
+  "score_overall": 4.5,
+  "score_lokacija": 4.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća s dvorištem i oratnicom ukupno 1168m2 u Oborovu (Dugo Selo, ~25km od Zagreba) za ~24k EUR ima logiku kao suburbansko imanje ili agroturizam, no 20% popust u prvoj dražbi nije dovoljan da opravda aktivno licitiranje. Prati za eventualnu treću dražbu s boljim uvjetima.",
+  "flags": [
+    "ruralni karakter – 'u selu', ograničena potražnja za dugoročnim najem",
+    "nema podataka o stanju objekta"
+  ],
+  "input_hash": "adc25bbfc052",
+  "scored_at": "2026-04-21T13:25:52.929136"
+}

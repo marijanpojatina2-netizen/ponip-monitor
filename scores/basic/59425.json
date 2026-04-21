@@ -1,0 +1,16 @@
+{
+  "id": "59425",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Čisto poljoprivredno zemljište 31.180 m2 (pšeničište i voćnjak) u Trenkovu kraj Požege - nominalno jeftino (~0.88 EUR/m2) ali bez ikakvog objekta, građevinske namjene ili infrastrukture u depopulacijskoj zoni Slavonije s minimalnom potražnjom za agrarnim česticama. 20% popust na prvoj dražbi ne mijenja fundamentalno slab investicijski case.",
+  "flags": [
+    "čisto poljoprivredno zemljište - nema objekta",
+    "depopulacijska zona Požeške kotline",
+    "bez građevinske namjene - ograničene mogućnosti razvoja"
+  ],
+  "input_hash": "8d900a75dc3f",
+  "scored_at": "2026-04-21T13:22:13.381952"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "59767",
+  "score_overall": 3.0,
+  "score_lokacija": 2.0,
+  "score_roi": 3.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Gotovo 5 hektara oranice u Moslavini Podravskoj zanimljivo je po apsolutnoj površini, no lokacija je u agrarnoj periferiji bez ikakve turističke ili razvojne perspektive; prinos od poljoprivrednog zakupa neće generirati prihvatljiv ROI. Samo zemljištem bez objekata ne zaobilazi se strukturalni problem regije.",
+  "flags": [
+    "isključivo poljoprivredno zemljište",
+    "depopulacijska ruralna lokacija",
+    "nema objekata – nema najamnog prihoda"
+  ],
+  "input_hash": "9b207513eab9",
+  "scored_at": "2026-04-21T13:33:04.470024"
+}

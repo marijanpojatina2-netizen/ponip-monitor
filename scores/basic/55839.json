@@ -1,0 +1,15 @@
+{
+  "id": "55839",
+  "score_overall": 3.5,
+  "score_lokacija": 3.0,
+  "score_roi": 4.0,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Kuća s dvorištem 1304 m2 u Hlebinama kraj Koprivnice u 1/1 vlasništvu - pozitivno je puno vlasništvo i veća parcela, ali izrazito ruralna lokacija s niskom potražnjom nadvladava te prednosti. Popust od 20% na prvoj dražbi premalen je za kompenzaciju geografskog ograničenja i nejasnog stanja objekta.",
+  "flags": [
+    "ruralna lokacija - Hlebine, manje od 500 stanovnika",
+    "niska tržišna likvidnost - ruralna Podravina"
+  ],
+  "input_hash": "03ff73248478",
+  "scored_at": "2026-04-21T13:22:13.381853"
+}

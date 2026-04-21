@@ -1,0 +1,16 @@
+{
+  "id": "58526",
+  "score_overall": 3.0,
+  "score_lokacija": 3.5,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Pašnjak od 1302 m² kod Zaboka bez građevinskog potencijala i s nejasnom suvlasničkom strukturom između dva ovršenika; Zagorje rurala bez turističkog ili razvojnog potencijala ove veličine parcele.",
+  "flags": [
+    "pašnjak - agrikulturna namjena, bez razvoja",
+    "nejasno prodaje li se ukupni udio ili samo 1/2 od svakog ovršenika",
+    "Zagorje ruralnog karaktera - niska likvidnost"
+  ],
+  "input_hash": "f0a75944bd75",
+  "scored_at": "2026-04-21T13:31:48.524516"
+}

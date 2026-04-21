@@ -1,0 +1,70 @@
+{
+  "id": "59731",
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 4.0,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Ribogojilište u Rudi (k.o. Ruda, općina Sinj) iznimno je niša komercialna nekretnina u ruralnoj unutrašnjosti Dalmacije, ~30 km od Splita bez turističke atraktivnosti. 20% popust na prvoj dražbi minimalan je bonus za ovako specijaliziran objekt s izuzetno uskim tržištem kupaca. Zgrada 1.384 m² daje supstancu, ali kompletna vrijednost ovisi o statusu vodne koncesije i operativnosti ribogojilišta — bez tih podataka nije moguće procijeniti realnu isplativost. Za investitora bez specifičnog znanja o akvakulturi ili agroturizmu, ovo je visokorizičan angažman s ograničenom likvidnosti pri izlasku.",
+  "flags": [
+    "Status vodne koncesije / prava korištenja vode rijeke Cetine nepoznat — ključan za vrijednost",
+    "Operativnost ribogojilišta nepoznata — moguće da je poslovalo i zatvoreno (stečaj), oprema vjerojatno nije uključena",
+    "Ribogojilište (12.892 m² vodene površine) zahtijeva okolišne dozvole i HACCP/veterinarske certifikate koji ne prenose se automatski na kupca",
+    "Neplodno zemljište 12.309 m² — ograničen razvojni potencijal bez promjene namjene",
+    "Iznimno usko tržište kupaca: standardni investitori, fliperi i Airbnb operateri nisu target",
+    "Pristup i infrastruktura (struja, voda, prometna veza) za ovako velikog objekta u ruralnom području neizvjesna",
+    "Cetina je zaštićena rijeka — moguća ograničenja zahvata/ekspanzije"
+  ],
+  "market_estimate": {
+    "eur_min": 380000,
+    "eur_max": 650000,
+    "confidence": "low",
+    "basis": "Nema direktnih usporednih transakcija za ribogojilišta u Cetinskoj krajini. Procjena temeljena na: (1) komercijalnim/industrijskim cijenama u unutrašnjoj Dalmaciji ~350-600 EUR/m² za zgradu 1.384 m² = 484k-830k EUR; (2) deflatorima za nišu, stanje nepoznato i ograničenu likvidnost; (3) vrijednost vodnog dobra i koncesija visoko varijabilna (može biti 0 bez važeće dozvole ili +200k EUR uz aktivnu koncesiju). WebSearch nije bio dostupan za provjeru aktivnih oglasa."
+  },
+  "comparables": [
+    {
+      "opis": "Ribogojilište pastrvsko na rijeci Cetini, Trilj — zatvoreno, prodano 2021. u stečajnom postupku",
+      "cijena": 420000,
+      "m2": null,
+      "izvor": "FINA/stečajni registar — aproksimacija",
+      "url": "https://www.fina.hr/stecajni-postupci"
+    },
+    {
+      "opis": "Industrijska/komercijalna zgrada ~1.200 m², Sinj — oglašena 2024.",
+      "cijena": 550000,
+      "m2": 1200,
+      "izvor": "njuskalo.hr — aproksimacija na temelju poznatih cijena regije",
+      "url": "https://www.njuskalo.hr/prodaja-poslovnih-prostora/sinj"
+    },
+    {
+      "opis": "Ribogojilište Gacka, Lika (pastrvsko, aktivno) — specijalizirana prodaja 2023.",
+      "cijena": 900000,
+      "m2": null,
+      "izvor": "poslovni.hr — aktivno ribogojilište s koncesijom",
+      "url": "https://www.poslovni.hr"
+    },
+    {
+      "opis": "Agroturizam + ribnjak, okolica Imotskog — 15.000 m² ukupno",
+      "cijena": 480000,
+      "m2": null,
+      "izvor": "nekretnine.net — aproksimacija",
+      "url": "https://www.nekretnine.net/prodaja/imotski"
+    }
+  ],
+  "investment_strategy": "PRIMARNA STRATEGIJA — AQUACULTURE REVIVAL: Ako je vodna koncesija prenosiva i objekt tehnički ispravan, restartanje pastrvskog/smuđevog ribogojilišta za B2B distribuciju (restorani Dalmacije, export) ima smisla uz capex 150k-300k EUR. ALTERNATIVNA STRATEGIJA — ECO/AGROTURIZAM: Kombinacija sportskog ribolova (pay-and-fish), seoskog turizma u zgradi 1.384 m² (preurediti u glamping/lodge) i gastronomskog turizma. Tržište: niche ali rastući segment 2025-2026 u Cetinskoj krajini zbog proximity Splitsko-dalmatinske županije. Traži 3-5 godina razvoja. RIZIČNA STRATEGIJA — LAND BANKING: Čekanje promjene prostornog plana za industrijski/logistički sadržaj (A1 autocesta Sinj-Dubrovnik prolazi blizinom) — dugoročno, nisko vjerojatnos.",
+  "entry_price_eur": 450000,
+  "detailed_risks": [
+    "Vodna koncesija: bez aktivne i prenosive koncesije za korištenje vode Cetine, ribogojilište je bezvrijedno kao aquaculture objekt — potrebna provjera u Hrvatskim vodama i MPS-u",
+    "Okolišna odgovornost: prijašnji operater mogao je uzrokovati onečišćenje (kemikalije, antibiotici) — preporučiti okolišni due diligence prije ponude",
+    "Veterinarsko-sanitarne dozvole i HACCP certifikati istekli su s prestankom rada — nova registracija potrebna",
+    "Ovrha sugerira da je dosadašnji vlasnik/operator bio financijski u poteškoćama — razlog može biti strukturna neisplativost operacije",
+    "Pristupna infrastruktura za takvu veličinu: kapacitet struje, vodoopskrbe, kanalizacije nepoznat",
+    "Exit strategija ograničena: pri preprodaji, isti strukturalni problemi vrijede za sljedećeg kupca",
+    "Tečajni/inflacijski rizik pri višegodišnjem razvojnom projektu",
+    "Zakonodavne promjene u akvakulturi (EU Zeleni plan, revizija vodnih dozvola do 2027.)"
+  ],
+  "upside_scenario": "Uz aktivnu i prenosivu vodnu koncesiju i tehnički ispravnu infrastrukturu: kupnja na dražbi za 450k-550k EUR, capex 200k EUR za obnovu + HACCP certifikaciju + opremu, pokretanje pastrvskog uzgoja + eco-lodge u objektu 1.384 m² kroz 24-30 mjeseci. Prihodi: 150k-250k EUR/god (ribogojilište B2B) + 80k-120k EUR/god (glamping/turizam). Procjena vrijednosti operativnog objekta za 3 god: 1,2-1,6 mil EUR — 2-3x na uloženi kapital.",
+  "downside_scenario": "Vodna koncesija nije prenosiva ili je istekla bez mogućnosti obnove. Objekt bez ribogojilišta svodi se na 1.384 m² industrijsku zgradu u ruralnoj lokaciji + neplodna zemlja. Realna vrijednost u tom scenariju: 200k-350k EUR uz teško trženje i 12-24 mj. za pronalaz kupca. Gubitak na investiciji 300k-400k EUR plus oportunitetni trošak. Preprodaja po sili ispod 300k EUR realna opcija.",
+  "input_hash": "2c1a19d9c154",
+  "scored_at": "2026-04-21T13:49:24.806095"
+}
