@@ -488,6 +488,10 @@ def main():
     cutoff_days = cfg.get("alert_jamcevina_dana", 7)
     cutoff = datetime.now() + timedelta(days=cutoff_days)
     records = [to_record(row, new_ids, cutoff) for _, row in active.iterrows()]
+    skipped_no_id = sum(1 for r in records if not r["id"])
+    if skipped_no_id:
+        log.warning(f"Preskačem {skipped_no_id} record-a bez ID-a (FINA CSV nema 'ID nadmetanja')")
+        records = [r for r in records if r["id"]]
 
     # AI SCORING
     if cfg.get("scoring_enabled", True):
