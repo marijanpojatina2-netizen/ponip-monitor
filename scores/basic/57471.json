@@ -1,0 +1,17 @@
+{
+  "id": "57471",
+  "score_overall": 4.5,
+  "score_lokacija": 5.5,
+  "score_roi": 5.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Gornjodravska obala je relativno dobar naslov u Osijeku, a popust od 40% s 2. dražbom je atraktivan na papiru, ali suvlasništvo 1/2 dijela i mikro-veličina od 28.84 m2 dramatično kompliciraju svaku strategiju - od iznajmljivanja do preprodaje. Vrijedi pratiti jedino ako postoji jasna strategija otkupa drugog 1/2 dijela ili sporazuma sa suvlasnikom.",
+  "flags": [
+    "suvlasništvo 1/2 dijela",
+    "mikro stan 28.84 m2 - ograničena ciljna skupina",
+    "potkrovlje - potencijalni problemi s izolacijom",
+    "upravljanje i prodaja zahtijevaju suglasnost suvlasnika"
+  ],
+  "input_hash": "3d9ee90ec85c",
+  "scored_at": "2026-04-21T11:12:13.324900"
+}

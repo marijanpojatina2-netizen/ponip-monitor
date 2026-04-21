@@ -1,0 +1,15 @@
+{
+  "id": "57123",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Ruralna nekretnina u selu Giletinci – voćnjak s kućom i dvorištem u depopulacijskoj zoni bez mjerljivog tržišnog potencijala. Unatoč 40% popustu na drugoj dražbi, lokacija ne pruža likvidnost ni realne izlazne opcije.",
+  "flags": [
+    "Ruralno selo, depopulacijska zona",
+    "Stara seoska kuća nepoznatog stanja, visoki troškovi obnove"
+  ],
+  "input_hash": "a8bd036f248b",
+  "scored_at": "2026-04-21T11:09:43.618858"
+}

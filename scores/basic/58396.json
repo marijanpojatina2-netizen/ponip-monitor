@@ -1,0 +1,16 @@
+{
+  "id": "58396",
+  "score_overall": 2.5,
+  "score_lokacija": 4.5,
+  "score_roi": 2.0,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Šuma 2150m2 u splitskom zaleđu (Žedno) nema realnog investicijskog potencijala za stambenu ili turističku namjenu; zakonska zaštita šuma onemogućava gradnju, a popust od 20% na prvoj dražbi ne opravdava kupnju.",
+  "flags": [
+    "namjena: šuma - zakonska zaštita, nemoguća gradnja",
+    "nema izlaza na more",
+    "niska likvidnost ovakvog zemljišta"
+  ],
+  "input_hash": "38476311a7ec",
+  "scored_at": "2026-04-21T10:52:49.921650"
+}

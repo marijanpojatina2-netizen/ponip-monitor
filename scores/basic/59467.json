@@ -1,0 +1,15 @@
+{
+  "id": "59467",
+  "score_overall": 3.5,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Kutina je manji industrijski grad u Sisačko-moslavačkoj županiji bez turističkog potencijala i s ograničenim najamnim tržištem. Popust od 20% na prvoj dražbi ne čini investicijski case uvjerljivim.",
+  "flags": [
+    "niska likvidnost tržišta",
+    "ograničen najamni potencijal"
+  ],
+  "input_hash": "3ed6bde7547c",
+  "scored_at": "2026-04-21T11:10:59.584379"
+}

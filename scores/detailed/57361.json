@@ -1,0 +1,61 @@
+{
+  "id": "57361",
+  "score_overall": 4.5,
+  "score_lokacija": 3.5,
+  "score_roi": 5.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Poslovni kompleks u Prelogu (Međimurje) atraktivan je na papiru zbog 40%-tnog popusta i druge dražbe, no procjenjena vrijednost od 1,23 M EUR na kompleks u malom gradu od ~7.000 stanovnika vjerojatno odražava going-concern vrijednost aktivnog poslovanja, a ne samu tržišnu vrijednost nekretnine — realna tržišna vrijednost procjenjuje se na 650.000–800.000 EUR, što znači da početna cijena od 738.000 EUR nije toliko duboki popust kakav se čini. Etažno vlasništvo (468/1000) bez informacija o preostalih 532/1000 je ključni due-diligence rizik, a razgledavanje samo uz sudskog ovršitelja ukazuje na aktivno korištenje. Za logističkog/industrijskog operatera s poznavanjem regije ovo može biti 'bid', ali za financijskog investitora bez strateškog korisnika upitna likvidnost izlaza drži ga na 'watch'.",
+  "flags": [
+    "Opis prekinut — nepoznate obveze na preostalih 532/1000 etažnog vlasništva; tko su suvlasnici i blokadni rizik",
+    "Razgledavanje isključivo uz sudskog ovršitelja po dogovoru sa sutkinjom — vjerojatno aktivno korištenje objekta ili zakup koji može preživjeti prodaju",
+    "Procjena 1,23 M EUR vjerojatno going-concern (restoran + poslovanje u pogonu) — gola nekretninska vrijednost niža",
+    "Druga dražba bez poznatog razloga odbijanja na prvoj — mogući skriveni terete ili pravni problemi",
+    "Visoki fiksni troškovi: restoran, hale, uredi, 922 m²+ korisnog prostora — bez stanara 4.000–7.000 EUR/mj",
+    "Poslovni objekt s restoranom i kuhinjom — potrebne sanitarne dozvole, vatrogasna zaštita, moguće zastarjele instalacije"
+  ],
+  "market_estimate": {
+    "eur_min": 650000,
+    "eur_max": 820000,
+    "confidence": "low",
+    "basis": "Procjena temeljena na znanju o tržištu bez live oglasa (web pretraga nije bila dostupna). Poslovni/industrijski prostori u Varaždinskoj/Međimurskoj županiji 2024–2026: 350–600 EUR/m² ovisno o stanju i lokaciji. 922 m² × 470 EUR/m² ≈ 433.000 EUR za prostor; zemljište 5072 m² industrijsko/poslovno u Prelogu ≈ 30–50 EUR/m² = 152.000–254.000 EUR. Ukupno: 585.000–687.000 EUR plus premija za gotovu infrastrukturu (hala, uredi, restoran) = 650.000–820.000 EUR. Početna cijena 738.000 je unutar ovog raspona, što znači da diskont nije dramatičan unatoč 40% od procjene."
+  },
+  "comparables": [
+    {
+      "opis": "Poslovni objekt s halama i uredima, ~900 m², industrijska zona Čakovec — procjena temeljena na znanju, nije live oglas",
+      "cijena": 680000,
+      "m2": 900,
+      "izvor": "njuskalo.hr (nije verificirano u realnom vremenu — web pretraga nije bila dostupna)",
+      "url": "https://www.njuskalo.hr/poslovni-prostori/cakovec"
+    },
+    {
+      "opis": "Industrijska hala s dvorištem ~1000 m² + 4000 m² parcela, Varaždin okolica",
+      "cijena": 750000,
+      "m2": 1000,
+      "izvor": "nekretnine.net (procjena iz znanja, nije live oglas)",
+      "url": "https://www.nekretnine.net/stambeni-objekti/poslovni-prostori/varazdin"
+    },
+    {
+      "opis": "Manji poslovni kompleks restoran + skladišta, Međimurje regija ~600 m²",
+      "cijena": 420000,
+      "m2": 600,
+      "izvor": "njuskalo.hr (procjena iz znanja)",
+      "url": "https://www.njuskalo.hr/poslovni-prostori/medimurje"
+    }
+  ],
+  "investment_strategy": "Logistika ili industrijski najam s opcionom preprodajom strateškom kupcu. Međimurje je logistički koridor — autocesta A4 Zagreb–Goričan (granični prijelaz s Mađarskom), blizina slovenskog tržišta. Kompleks s 922 m² višenamjenskog prostora (hala, skladišta, uredi, restoran) + 5.000 m² dvorišta pogodan je za manjeg logističkog operatera, prerađivački pogon ili cross-border distributera. NIJE preporuka za flip ili turistički razvoj. Strategija: ući ispod 720.000 EUR (po mogućnosti), provesti opsežni due-diligence o etažnom vlasništvu i zauzetosti, naći industrijskog stanara ili kupca unutar 12–24 mj.",
+  "entry_price_eur": 720000,
+  "detailed_risks": [
+    "Etažno vlasništvo 468/1000 — suvlasnici preostalih 532/1000 nepoznati; mogu blokirati prodaju, upotrebu ili investicije u zajedničke dijelove objekta",
+    "Going-concern procjena: sud je procijenio 1,23 M EUR kada je kompleks vjerojatno bio u aktivnom poslovanju; samo nekretninska vrijednost je niža i početna cijena 738.000 nije duboki diskont",
+    "Zakup koji preživljava prodaju: 'razgledavanje uz sudskog ovršitelja' — postoji rizik stanara s dugim ugovorom ili zaštićenim statusom",
+    "Mala likvidnost: Prelog ~7.000 st., izlaz iz investicije traje 18–36+ mj; baza kupaca za ovaj tip objekta je uska",
+    "Nepotpun opis ovrhe: mogući skriveni tereti, komunalni dugovi, neriješena dokumentacija na preostatak etažnih cjelina",
+    "Prostorni plan: namjena parcele mora biti kompatibilna s planiranom upotrebom (logistika, prerada) — promjena namjene dugotrajna",
+    "Infrastruktura restorana i kuhinje: ventilacija, sanitarni priključci, vatrogasna zaštita — moguće skupo za adaptaciju na drugu namjenu"
+  ],
+  "upside_scenario": "Objekt slobodan, etažno vlasništvo uredno, stan dozvola u skladu s logistikom/industrijom: ulaz na 710.000–738.000 EUR, iznajmljivanje industrijskom/logističkom korisniku na 8–12 EUR/m²/mj za 922 m² = 7.400–11.000 EUR/mj (prinos 12–18% godišnje na uloženo). Alternativno, Međimurje privlači EU fondove i strane investicije (automobilska industrija, elektronika) — prodaja novom korisniku u roku 24 mj za 900.000–1.050.000 EUR = profit 160.000–310.000 EUR.",
+  "downside_scenario": "Suvlasnici blokiraju upotrebu, zakup preživljava prodaju ili objekt zahtijeva skupo renoviranje: investitor je zarobljem s nelikvidnom komercijalnom imovinom u malom gradu, fiksni troškovi 50.000–80.000 EUR/god, a izlaz moguć jedino s diskontom od 15–25% na kupovnu cijenu — gubitak 110.000–185.000 EUR u realnom scenariju.",
+  "input_hash": "5f7aff8a7fe6",
+  "scored_at": "2026-04-21T11:30:56.390175"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "58036",
+  "score_overall": 3.5,
+  "score_lokacija": 2.0,
+  "score_roi": 5.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Duboševica u Baranji jedan je od najslabijih lokacijskih profila u Hrvatskoj - izrazita depopulacija, nulti turistički potencijal i minimalna potražnja za stambenim nekretninama. 40% popust na drugoj dražbi jest solidan, ali ne može kompenzirati gotovo nepostojeće izlazne opcije.",
+  "flags": [
+    "Baranja - izrazita depopulacijska zona",
+    "oranica 856m2 uz objekt - agrarno zoniranje",
+    "minimalna tržišna likvidnost - nema izlazne strategije"
+  ],
+  "input_hash": "9facd41ea94d",
+  "scored_at": "2026-04-21T10:54:40.922753"
+}

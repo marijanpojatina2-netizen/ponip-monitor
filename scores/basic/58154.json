@@ -1,0 +1,17 @@
+{
+  "id": "58154",
+  "score_overall": 5.5,
+  "score_lokacija": 6.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Jablanac je malo priobalno mjesto na Kvarneru s ograničenom likvidnošću, ali 40% popust na drugoj dražbi i priobalna lokacija čine ovo zanimljivim za dugoročno držanje ili sezonski najam. Fragmentirani suvlasnički udjeli (1/3 i 1/6) su ozbiljan pravni rizik koji može blokirati prodaju ili renovaciju.",
+  "flags": [
+    "suvlasnički udio 1/3 i 1/6 – nepoznati suvlasnici",
+    "multiple katastarske čestice i ZK uloška",
+    "starije zgrade, stanje nepoznato",
+    "Jablanac – ograničena likvidnost tržišta"
+  ],
+  "input_hash": "39ecda48a96d",
+  "scored_at": "2026-04-21T10:56:10.272427"
+}

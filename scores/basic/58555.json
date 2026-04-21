@@ -1,0 +1,16 @@
+{
+  "id": "58555",
+  "score_overall": 2.0,
+  "score_lokacija": 1.5,
+  "score_roi": 2.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Lovinac u Lici je među najproblematičnijim lokacijama u Hrvatskoj - izrazita depopulacija, traumatizirana regija, minimalna tržišna aktivnost, a 25% popust ni izbliza ne kompenzira rizik iluzorne exit strategije. Čak i besplatno bi zahtijevalo oprez.",
+  "flags": [
+    "Lika - ekstremna depopulacija",
+    "minimalna tržišna likvidnost",
+    "potencijalna ratna šteta na objektima"
+  ],
+  "input_hash": "75b792289804",
+  "scored_at": "2026-04-21T10:49:31.445074"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "59419",
+  "score_overall": 3.5,
+  "score_lokacija": 3.0,
+  "score_roi": 3.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Kuća s dvorištem i oranicom u Jakšiću kraj Požege pripada jednom od depopulacijskih područja Slavonije gdje je potražnja za nekretninama minimalna. 20% popust na prvoj dražbi nije dovoljan za tržište s ovako slabim fundamentima.",
+  "flags": [
+    "Požeško-slavonska županija – depopulacijsko područje",
+    "Jakšić – ruralna okolica Požege, slaba potražnja",
+    "opis nedostatan – stanje objekta nepoznato"
+  ],
+  "input_hash": "167a40a78f06",
+  "scored_at": "2026-04-21T11:04:57.505442"
+}

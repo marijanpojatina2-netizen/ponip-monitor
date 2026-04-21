@@ -1,0 +1,16 @@
+{
+  "id": "59369",
+  "score_overall": 4.0,
+  "score_lokacija": 4.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Industrijsko dvorište u Ivanić Gradu (Šarampov) nema jasne potražnje za privatnog investitora – predmet Trgovačkog suda upućuje na stečaj što može znači skrivene obveze, a industrijska namjena ograničava konverziju. Popust od 25% ne opravdava ekspoziciju.",
+  "flags": [
+    "Trgovački sud – vjerojatno stečajni predmet, moguće skrivene obveze",
+    "industrijsko dvorište – ograničena namjena za privatne investitore",
+    "Ivanić Grad – slabija likvidnost tržišta"
+  ],
+  "input_hash": "eb1a9eddc307",
+  "scored_at": "2026-04-21T10:56:10.272527"
+}

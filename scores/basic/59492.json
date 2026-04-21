@@ -1,0 +1,14 @@
+{
+  "id": "59492",
+  "score_overall": 5.0,
+  "score_lokacija": 5.0,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Karlovac je solidan srednji grad s pristojnom likvidnošću, ali stan na tavanu od 58m2 nosi specifične rizike (krovište, izolacija, kose površine) koji umanjuju atraktivnost. 20% popusta na prvoj dražbi nije dovoljan poticaj za aktivno licitiranje bez fizičkog pregleda.",
+  "flags": [
+    "tavan/potkrovlje — potencijalni problemi s krovištem i toplinskom izolacijom"
+  ],
+  "input_hash": "f9e328db4aca",
+  "scored_at": "2026-04-21T11:02:50.933717"
+}

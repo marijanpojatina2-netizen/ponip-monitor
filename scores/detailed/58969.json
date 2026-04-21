@@ -1,0 +1,62 @@
+{
+  "id": "58969",
+  "score_overall": 4.5,
+  "score_lokacija": 8.5,
+  "score_roi": 3.0,
+  "score_stanje": 2.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Otok Vis spada u premium turističku destinaciju Dalmacije s rastuće traženom pozicijom za visoko-budžetni turizam. Međutim, oba katastarska čestice nose status zaštitne šume (Zakon o šumama, čl. 11), što praktično isključuje konvencionalnu gradnju — procijenjenih ~50.522 m² je zaštitna šuma, a samo kat.čest. 7322/1 ima i T1 turističku namjenu prema PPUG-u. Ta pravna dvostrukost (zaštitna šuma + T1) je ključna nepoznanica: bez elaborata o šumama, mišljenja urbanista i MINGOR suglasnosti nemoguće je znati hoće li ikakva gradnja biti izvediva. Početna cijena od 1.224.880 EUR uz samo 20% popusta na prvoj dražbi ne ostavlja dovoljno sigurnosne margine za visoko-rizičan razvoj.",
+  "flags": [
+    "ZAŠTITNA ŠUMA — gradnja strogo ograničena ili nemoguća po Zakonu o šumama",
+    "Pravna ambivalencija: T1 namjena i zaštitna šuma na istoj čestici — potrebna suglasnost Ministarstva i šumarska studija",
+    "~60.000 m² bez ikakve infrastrukture (komunalna priključenja, pristupni put nepoznat)",
+    "Prva dražba — samo 20% popusta, nema dražbovnog bonusa",
+    "Neobradeno visokoraslinje — potencijalni troškovi čišćenja terena 100.000–200.000 EUR",
+    "Procjenjena vrijednost potencijalno precjenjena za zemljište s ograničenom gradivnošću",
+    "Neizgrađeno — nula prihoda u holdingu"
+  ],
+  "market_estimate": {
+    "eur_min": 350000,
+    "eur_max": 2800000,
+    "confidence": "low",
+    "basis": "Raspršenost je iznimno velika zbog nepoznate razine gradivnosti. Ako je zaštitna šuma apsolutna prepreka: šumsko/neizgrađeno zemljište na dalmatinskim otocima postiže 5–15 EUR/m² = 300k–900k EUR. Ako T1 namjena ipak dopušta eko-resort, glamping ili sportsko-rekreacijski sadržaj uz izmjenu šumsko-gospodarske osnove: turistički parceli na Visu dostižu 30–80 EUR/m² = 1,8M–4,8M EUR. Web pretraga komparabilnih transakcija nije bila dostupna — procjena temeljena na poznatim tržišnim rasponima."
+  },
+  "comparables": [
+    {
+      "opis": "Građevinsko zemljište T1 namjene, otok Vis okolica, ~5.000 m²",
+      "cijena": 350000,
+      "m2": 5000,
+      "izvor": "njuskalo.hr (tržišno znanje, nije live pretraga)",
+      "url": "https://www.njuskalo.hr/zemljista/otok-vis"
+    },
+    {
+      "opis": "Šumsko/maslinik zemljište bez gradivnosti, dalmatinski otoci, ~10.000 m²",
+      "cijena": 80000,
+      "m2": 10000,
+      "izvor": "nekretnine.net (tržišno znanje, nije live pretraga)",
+      "url": "https://www.nekretnine.net/stambeni-objekti/zemljiste/pretraga/lokacija_otok-vis"
+    },
+    {
+      "opis": "Turistički projekt na Hvaru (T1+T2, ~20.000 m², s gradivnošću)",
+      "cijena": 1800000,
+      "m2": 20000,
+      "izvor": "index.hr oglasi (analogija, nije direct komp)",
+      "url": "https://oglasi.index.hr/nekretnine/hvar"
+    }
+  ],
+  "investment_strategy": "RAZVOJ (uvjetno): Jedini smisleni scenarij je razvoj niskog ekološkog footprinta — glamping resort, eko-bungalovi do 0,2 BKI uz posebnu šumarsku dozvolu, ili sportsko-rekreacijska zona (staze, viewpoint, zip-line) koja ne zahtijeva iskrčivanje. Investitor mora angažirati šumarskog eksperta i urbanista koji poznaje vis-PPUG PRIJE dražbe. Kratkoročna preprodaja ili reno-flip nisu relevantni za prazno šumsko zemljište; prihod od najma = nula dok nema objekta.",
+  "entry_price_eur": 700000,
+  "detailed_risks": [
+    "Zaštitna šuma kategorija I–III: svaka sječa ili gradnja zahtijeva elaborat i suglasnost Hrvatskih šuma + MINGOR — proces može trajati 3–7 godina bez garancije uspjeha",
+    "T1 namjena bez UPU-a (urbanistički plan uređenja): bez donesenog UPU-a gradnja je nemoguća bez izmjene PPUG-a, što je politički i vremenski rizik",
+    "Vis-PPUG može biti restriktivan: Vis je 'zeleni otok' s jakim lokalnim otporom prema velikom turizmu",
+    "Komunalna infrastruktura: voda, struja, pristupni put na 60.522 m² parceli — investicija 500k–1M EUR samo za priključenja",
+    "Jamčevina 153.110 EUR ostaje ako se ne uplati u roku — likvidnosni rizik",
+    "Exit rizik: ovakvo zemljište je izrazito nelikvidno, mali krug kupaca",
+    "Procjena od strane suda potencijalno ne reflektira stvarna ograničenja šumskog zakona"
+  ],
+  "upside_scenario": "U roku 24–36 mj. investitor ishoduje izmjenu šumsko-gospodarske osnove i dobiva uvjete za eko-resort na dijelu kat.čest. 7322/1 (T1 zona). Na Visu se gradi 20–30 glamping jedinica premium razreda (200–400 EUR/noć), potencijal revenuea 1,5–3M EUR/god. Zemljište uz dozvole i projekt dostiže tržišnu vrijednost 3–5M EUR; flip projekta donosi IRR 25–40% ako je entry cijena ispod 700k EUR.",
+  "downside_scenario": "Zaštitna šuma ostaje apsolutna prepreka gradnji, UPU se ne donosi, Grad Vis odbija svaku inicijativu izmjene plana. Zemljište ostaje šuma s visokoraslinjern, nema prihoda, nema kupca. Realna tržišna vrijednost pada na 300k–500k EUR (čisto šumsko zemljište). Pri kupnji po početnoj cijeni 1.224.880 EUR gubitak je 700k–900k EUR plus troškovi due diligence, poreza i holdinga.",
+  "input_hash": "52a8dcbe256d",
+  "scored_at": "2026-04-21T11:19:51.578524"
+}

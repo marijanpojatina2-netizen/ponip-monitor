@@ -1,0 +1,15 @@
+{
+  "id": "58809",
+  "score_overall": 5.5,
+  "score_lokacija": 5.5,
+  "score_roi": 5.0,
+  "score_stanje": 6.0,
+  "recommendation": "watch",
+  "reasoning": "76 m² trosoban stan u Varaždinu na 3. katu je funkcionalna nekretnina za dugoročni najam – Varaždin ima stabilno sveučilišno i poslovno tržište najma. Ipak, 20% popust na prvoj dražbi nije dovoljno uvjerljiv; pričekati drugu/treću dražbu za bolji ROI ulaz.",
+  "flags": [
+    "prva dražba – pričekati eventualno sniženje",
+    "Varaždin – ograničen kapitalni rast vs. primorje"
+  ],
+  "input_hash": "43fc51b0cc37",
+  "scored_at": "2026-04-21T10:56:10.272819"
+}

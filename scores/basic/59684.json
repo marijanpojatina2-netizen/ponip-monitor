@@ -1,0 +1,15 @@
+{
+  "id": "59684",
+  "score_overall": 3.5,
+  "score_lokacija": 3.0,
+  "score_roi": 3.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Valpovo/Biovac je tipična slavonska lokacija s izrazito niskom potražnjom i tržišnom likvidnošću; svega 20% popust na prvoj dražbi ne opravdava investicijski ulaz u ovu regiju.",
+  "flags": [
+    "Slavonija - slaba likvidnost tržišta",
+    "prva dražba, bez diskonta"
+  ],
+  "input_hash": "c9214204f85e",
+  "scored_at": "2026-04-21T10:52:49.921216"
+}

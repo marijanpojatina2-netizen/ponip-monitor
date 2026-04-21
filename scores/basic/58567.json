@@ -1,0 +1,15 @@
+{
+  "id": "58567",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Goričan je ruralno granično područje s Mađarskom s izrazito slabom likvidnošću nekretnina i depopulacijskim trendom; unatoč solidnoj ukupnoj površini od 846m2 s gospodarskom zgradom, tržišna potražnja gotovo ne postoji. Popust od 20% ne kompenzira lokacijski rizik.",
+  "flags": [
+    "ruralna lokacija - Goričan, granično područje s Mađarskom",
+    "izrazito slaba tržišna likvidnost"
+  ],
+  "input_hash": "d115ea3cd9a7",
+  "scored_at": "2026-04-21T10:51:10.836187"
+}

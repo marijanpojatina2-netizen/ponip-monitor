@@ -1,0 +1,16 @@
+{
+  "id": "58606",
+  "score_overall": 6.5,
+  "score_lokacija": 7.5,
+  "score_roi": 6.5,
+  "score_stanje": 5.5,
+  "recommendation": "bid",
+  "reasoning": "Stan 33,55m2 u Crikvenici na Kvarnerskoj obali s tržišnom vrijednošću sličnih stanova 2.000-3.200 EUR/m2 - ulaz od ~1.536 EUR/m2 daje realnu arbitražu i solidan potencijal kratkoročnog turističkog najma. Obalna likvidnost je visoka što smanjuje izlazni rizik.",
+  "flags": [
+    "mali stan (33,55m2) - ograničeni kapacitet za grupni najam",
+    "nepoznato stanje interijera - bez opisa renovacije",
+    "provjera posjedovnog stanja (u korištenju?)"
+  ],
+  "input_hash": "a349ceacf79a",
+  "scored_at": "2026-04-21T10:54:40.923072"
+}

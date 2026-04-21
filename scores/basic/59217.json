@@ -1,0 +1,16 @@
+{
+  "id": "59217",
+  "score_overall": 4.0,
+  "score_lokacija": 4.0,
+  "score_roi": 4.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Mala kuća od 50 m2 s okućnicom u Biškupcu kod Sv. Ivana Zeline nudi relativnu blizinu Zagreba (~35 km) ali premalo kvadrata i premalu potražnju za ovaj cjenovni razred. 20% popust na prvoj dražbi bez poznavanja stanja objekta ne opravdava angažman.",
+  "flags": [
+    "mala korisna površina (50 m2) – ograničena tržišna atraktivnost",
+    "Biškupec/Zelina – periferija, slabija likvidnost",
+    "opis skroman – stanje kuće nepoznato"
+  ],
+  "input_hash": "fc96fbdcd8c6",
+  "scored_at": "2026-04-21T11:04:57.505950"
+}

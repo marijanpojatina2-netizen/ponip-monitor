@@ -1,0 +1,16 @@
+{
+  "id": "58624",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Kuća s dvorištem i voćnjakom u Velikom Zdencima spada u duboku ruralnu BJ županiju s izraženom depopulacijom i minimalnom tržišnom likvidnošću; 20% popust na prvoj dražbi i suvlasništvo 1/2 ne kompenziraju nikakav realni izlaz iz investicije.",
+  "flags": [
+    "suvlasništvo 1/2",
+    "depopulacijsko ruralno područje - BJ županija",
+    "nelikvidno tržište bez realnih kupaca"
+  ],
+  "input_hash": "b5b39e8de1be",
+  "scored_at": "2026-04-21T11:01:04.852003"
+}

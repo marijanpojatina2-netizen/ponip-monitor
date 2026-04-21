@@ -1,0 +1,16 @@
+{
+  "id": "57533",
+  "score_overall": 7.0,
+  "score_lokacija": 8.5,
+  "score_roi": 7.0,
+  "score_stanje": 3.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Vrt od 310 m² u Kukljici na otoku Ugljanu – iznimna lokacija u zadarskom arhipelagu s 40% popustom na drugoj dražbi, svega ~88 EUR/m² za otočno zemljište. Ključna je hitna provjera prostornog plana i mogućnosti gradnje jer bez građevinske dozvole parcela ima ograničen investicijski potencijal.",
+  "flags": [
+    "Samo zemljište – nema objekta (vrt 310 m²)",
+    "Moguća stroga ograničenja gradnje na otoku",
+    "Potrebna provjera namjene parcele u prostornom planu"
+  ],
+  "input_hash": "b837307de1eb",
+  "scored_at": "2026-04-21T11:09:43.618751"
+}

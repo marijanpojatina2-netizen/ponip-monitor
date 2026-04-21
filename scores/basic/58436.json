@@ -1,0 +1,15 @@
+{
+  "id": "58436",
+  "score_overall": 3.5,
+  "score_lokacija": 4.0,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Suvlasnički udio od ½ livade bez ikakve zgrade u Zaboku uz samo 20% popusta na prvoj dražbi ne nudi investicijsku logiku - poljoprivredno zemljište bez mogućnosti izgradnje u Zagorju ima minimalnu razvojnu perspektivu i otežano raspolaganje.",
+  "flags": [
+    "suvlasnički udio ½ - otežana raspolaganja i razvoj",
+    "nema zgrade - isključivo livada bez jasne razvojne namjene"
+  ],
+  "input_hash": "842d10f5bf92",
+  "scored_at": "2026-04-21T11:07:16.430028"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "59605",
+  "score_overall": 5.0,
+  "score_lokacija": 7.0,
+  "score_roi": 4.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Zagreb Trešnjevka je tražena zona, ali ~23 m² je rubno mali za najam i smanjuje kupovni bazen kod preprodaje; 50k EUR za prizemni mikro-stan na prvoj dražbi je skupo bez poznatog stanja. Vrijedi pratiti za slučaj da ode na treću dražbu s daljnjim sniženjima.",
+  "flags": [
+    "prizemlje – manje traženo",
+    "samo ~23 m² neto površine stana",
+    "kompleksna vlasnička struktura (111/1000 + etažno)"
+  ],
+  "input_hash": "fc8b37d8d173",
+  "scored_at": "2026-04-21T10:56:10.272324"
+}

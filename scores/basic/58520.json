@@ -1,0 +1,16 @@
+{
+  "id": "58520",
+  "score_overall": 3.0,
+  "score_lokacija": 3.0,
+  "score_roi": 3.0,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Poljoprivredno zemljište (pašnjak + oranica) u ruralnom Zagorju bez ikakvog objekta i s prodajom samo 1/2 suvlasničkog dijela; svega 20% popust na prvoj dražbi ne opravdava ulaganje u nelikvidnu agro parcelu bez razvojnog potencijala.",
+  "flags": [
+    "suvlasništvo 1/2",
+    "bez objekta - samo agro zemljište",
+    "nelikvidno ruralno područje"
+  ],
+  "input_hash": "bbcded676bbc",
+  "scored_at": "2026-04-21T11:01:04.851692"
+}

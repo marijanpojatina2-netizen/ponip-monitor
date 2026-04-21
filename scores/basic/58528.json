@@ -1,0 +1,16 @@
+{
+  "id": "58528",
+  "score_overall": 3.0,
+  "score_lokacija": 3.5,
+  "score_roi": 3.0,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Pašnjak s dvorištem bez ikakvog objekta u k.o. Strmec kod Zaboka nema investicijsku priču — pašnjak je najslabija kategorija zemljišta za povrat, a tržište Krapinsko-zagorske županije je tanko bez turističke komponente. 20% popust ne stvara vrijednost.",
+  "flags": [
+    "pašnjak – najslabija kategorija zemljišta za investicijski ROI",
+    "nema objekta – nulti prihod, čista špekulacija na prenamjenu",
+    "Zabok okolica – slabija likvidnost"
+  ],
+  "input_hash": "53cf69916c4e",
+  "scored_at": "2026-04-21T11:04:57.505645"
+}

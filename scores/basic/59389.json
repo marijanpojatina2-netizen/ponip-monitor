@@ -1,0 +1,16 @@
+{
+  "id": "59389",
+  "score_overall": 3.0,
+  "score_lokacija": 5.0,
+  "score_roi": 3.0,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Šuma od 1.3 ha bez ikakve infrastrukture u k.o. Sv. Ivan nema jasnog kratkoročnog ROI – promjena namjene je dugotrajna i neizvjesna, a 20% popust na prvoj dražbi ne kompenzira illikvidnost ove klase imovine. Istra lokacija ne pomaže kada je predmet šuma bez građevinskog potencijala.",
+  "flags": [
+    "šumsko zemljište – ograničena namjena i gradnja",
+    "nema građevina ni infrastrukture",
+    "moguća zaštita šuma/ograničenja sječe"
+  ],
+  "input_hash": "4fd9c591d9e1",
+  "scored_at": "2026-04-21T10:56:10.272213"
+}

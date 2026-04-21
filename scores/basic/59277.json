@@ -1,0 +1,17 @@
+{
+  "id": "59277",
+  "score_overall": 6.5,
+  "score_lokacija": 7.5,
+  "score_roi": 5.5,
+  "score_stanje": 5.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Komarna uz Neretvanski kanal i trajektnu vezu s Pelješcem iznimno je atraktivna turistička mikrolokacija blizu Dubrovnika s realnim Airbnb potencijalom stana od 62m2, no prodaja samo 1/2 etažnog vlasništva stvara pravnu složenost koja zahtijeva duboku provjeru tko drži drugu polovinu i mogućnost dogovora.",
+  "flags": [
+    "1/2 suvlasničkog dijela etažnog vlasništva - dvostruka suvlasnička struktura",
+    "identificirati drugog suvlasnika (1/2) i namjere",
+    "provjeriti teretnike i prava na nekretnini",
+    "Metković - sud udaljen od lokacije"
+  ],
+  "input_hash": "d7d416b83f20",
+  "scored_at": "2026-04-21T10:52:49.921843"
+}

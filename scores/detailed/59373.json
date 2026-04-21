@@ -1,0 +1,60 @@
+{
+  "id": "59373",
+  "score_overall": 5.5,
+  "score_lokacija": 6.5,
+  "score_roi": 5.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Industrijska hala 1.753 m² + dvorište 1.389 m² u k.o. Šarampov (Zagreb) — lokacija potencijalno interesantna jer se k.o. Šarampov nalazi u zoni bliže središtu Zagreba, što industrijskim objektima daje konverzijski potencijal. Popust 25% na prvoj dražbi je prihvatljiv ali ne spektakularan; nedostatak opisa stanja i namjene objekta značajno povećava rizik. Stečajni postupak (Trgovački sud Zagreb) bez detaljnih podataka o teretima i trenutnoj namjeni čini obaveznim terenski obilazak i pravnu due diligence prije bilo kakve odluke.",
+  "flags": [
+    "Stečajni postupak — nekretnina dolazi iz stečajne mase, potrebna provjera svih tereta iz zk.ul.",
+    "Nema opisa stanja objekta — 'industrijska zgrada' bez info o starosti, infrastrukturi, krovištu",
+    "Prva dražba — nema dodatnog popusta koji dolazi s 3./4. dražbom",
+    "Razgledavanje isključivo uz dogovor — može ukazivati na popunjenost/zakup ili složene logistike pristupa",
+    "k.o. Šarampov — bez potvrde GUP zoniranja nije jasno je li dopuštena konverzija u stambeno/poslovnu namjenu",
+    "Industrijska namjena — moguća ekološka opterećenja (tlo, podzemne vode) koja traže ispitivanje"
+  ],
+  "market_estimate": {
+    "eur_min": 700000,
+    "eur_max": 1300000,
+    "confidence": "low",
+    "basis": "Zagreb industrijske hale starije gradnje: 350–600 EUR/m² ovisno o lokaciji i stanju. Na 1.753 m² to daje raspon 613k–1.05M EUR samo za halu; dvorište 1.389 m² dodaje 100–250k EUR ovisno o GUP-u. Bez web pretrage živih oglasa i bez potvrde mikrolokacije raspon je širok. Utvrđena vrijednost od 1.001.000 EUR na prvoj dražbi sugerira da je sudski vještak procijenio nešto iznad tržišnog minimuma."
+  },
+  "comparables": [
+    {
+      "opis": "Industrijska hala Zagreb, ~1.500 m², Žitnjak industrijska zona",
+      "cijena": 850000,
+      "m2": 1500,
+      "izvor": "njuskalo.hr (procjena iz znanja)",
+      "url": "https://www.njuskalo.hr/prodaja-poslovnih-prostora/industrijske-hale"
+    },
+    {
+      "opis": "Poslovno-skladišni prostor Zagreb periferna zona, ~2.000 m²",
+      "cijena": 960000,
+      "m2": 2000,
+      "izvor": "nekretnine.net (procjena iz znanja)",
+      "url": "https://www.nekretnine.net/pretraga/poslovni-prostori/prodaja"
+    },
+    {
+      "opis": "Industrijska zgrada bliže centru Zagreba, starija gradnja ~1.600 m²",
+      "cijena": 1100000,
+      "m2": 1600,
+      "izvor": "Procjena na temelju tržišnih podataka — web pretraga nije bila dostupna",
+      "url": "N/A"
+    }
+  ],
+  "investment_strategy": "KONVERZIJA / RAZVOJ: Primarni potencijal leži u promjeni namjene — ako GUP k.o. Šarampov dopušta stambenu ili mješovitu namjenu, rušenje/pregradnja 1.753 m² + dvorište 1.389 m² u blizini središta Zagreba moglo bi generirati 15–25+ stanova ili poslovnih jedinica. Sekundarno: iznajmljivanje u industrijskoj/logističkoj namjeni (5–8 EUR/m²/mj za halu = 105k–168k EUR/god bruto prihod = yield 14–22% na ulaznu cijenu). Reno-flip realan samo ako je objekt solidne statike i nije onečišćen.",
+  "entry_price_eur": 700000,
+  "detailed_risks": [
+    "GUP zoniranje — bez provjere Prostornog plana Grada Zagreba ne zna se dopušta li konverzija; industrijska zona može ograničiti buduće korištenje",
+    "Ekološki rizik — industrijska dvorišta često imaju onečišćenje tla (maziva, goriva, teški metali); sanacija može biti izrazito skupa",
+    "Skriveni tereti — zk.ul. 1026 k.o. Šarampov može imati hipoteke, stvarne služnosti, zabilježbe koje ne prestaju automatski prodajom",
+    "Nepoznato stanje konstrukcije — starost hale nepoznata; azbestni krov, vlaga, oštećena infrastruktura česta su kod starijih industrijskih objekata",
+    "Zakupac ili korisnik — razgledavanje 'uz dogovor' može nagovijestiti prisutnost korisnika čija prava treba razriješiti",
+    "Likvidnost pri izlasku — industrijske nekretnine u Zagrebu imaju uži krug kupaca od stambenih; izlaz može trajati 12–36 mj"
+  ],
+  "upside_scenario": "Ako k.o. Šarampov ima GUP koji dozvoljava mješovitu ili stambenu izgradnju, a objekt je relativno čist od tereta i ekoloških problema, kupnja za 750k–800k EUR + konverzija/rušenje i gradnja mogla bi rezultirati GDV-om (gross development value) od 3–5M EUR kroz 3–5 godina, s ROI-em 3–4x na uloženi kapital. Čak i bez konverzije, iznajmljivanje hale u logistiku/skladištenje uz Zagreb daje bruto yield 10–15%.",
+  "downside_scenario": "Ekološko onečišćenje tla zahtijeva sanaciju (200k–500k EUR), GUP ograničava na industrijsku namjenu, tržišna cijena pri izlasku ispod utvrđene vrijednosti, + tereti koji nisu potpuno ugašeni → moguć kapitalni gubitak 20–40% na uloženu cijenu. Likvidnost industrijskih objekata u recesijskom scenariju jako pada.",
+  "input_hash": "f9c5fc58d73e",
+  "scored_at": "2026-04-21T11:34:18.812790"
+}

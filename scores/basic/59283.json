@@ -1,0 +1,15 @@
+{
+  "id": "59283",
+  "score_overall": 6.5,
+  "score_lokacija": 6.5,
+  "score_roi": 7.0,
+  "score_stanje": 6.0,
+  "recommendation": "bid",
+  "reasoning": "Varaždin je drugi po važnosti kontinentalni grad u Hrvatskoj s razvijenim tržištem najma i dobrom ekonomskom bazom, a 3-sobni stan od 53m2 po startnoj cijeni ~31k EUR je izrazito povoljno u odnosu na tržišne vrijednosti od 1.200-1.500 EUR/m2. Sudska procjena je konzervativna, popust 25% realan, a stečajna prodaja često podrazumijeva čišće vlasničko stanje nego izvršni postupci nad fizičkim osobama.",
+  "flags": [
+    "stečajni dužnik - provjeriti eventualne terete na nekretnini",
+    "upisati u ZK prije dražbe"
+  ],
+  "input_hash": "df044961f82e",
+  "scored_at": "2026-04-21T11:10:59.584889"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "59439",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Virovitica je slaba slavonska lokacija s depopulacijskim trendom i minimalnom likvidnošću nekretnina; popust od 20% na prvoj dražbi ne kompenzira strukturne slabosti tržišta. Četvoro ovršenika s jednakim udjelima sugerira potencijalno komplicirane vlasničke odnose.",
+  "flags": [
+    "četvoro suvlasnika na ravne dijelove - kompleksno vlasništvo",
+    "depopulacijsko područje - slaba likvidnost"
+  ],
+  "input_hash": "0be82040e805",
+  "scored_at": "2026-04-21T10:51:10.835554"
+}

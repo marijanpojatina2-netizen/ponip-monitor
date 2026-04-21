@@ -1,0 +1,16 @@
+{
+  "id": "59183",
+  "score_overall": 5.0,
+  "score_lokacija": 6.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Zagreb-Granešina je solidna lokacija s tržišnom potražnjom, ali prodaja samo 4/6 suvlasničkog dijela stvara pravnu složenost i rizik blokade raspolaganja od strane preostalih 2/6 suvlasnika; popust od 20% na prvoj dražbi ne kompenzira taj rizik.",
+  "flags": [
+    "suvlasnički 4/6 - preostala 2/6 mogu blokirati prodaju/prenamjenu",
+    "nedefinirano stanje objekta",
+    "potrebna analiza stanja sa preostalim suvlasnicima"
+  ],
+  "input_hash": "6cb6e52afedc",
+  "scored_at": "2026-04-21T10:52:49.921451"
+}

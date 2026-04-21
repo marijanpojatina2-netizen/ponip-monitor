@@ -1,0 +1,16 @@
+{
+  "id": "58402",
+  "score_overall": 3.5,
+  "score_lokacija": 5.5,
+  "score_roi": 4.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Čisto zemljište (pašnjak) bez ikakvog objekta — nema rentabilnosti bez izgradnje, a prenamjena pašnjaka u građevinsko zemljište je neizvjesna i dugotrajna procedura. Blizina Splita privlačna je jedino ako postoji jasan put do građevinske dozvole, što iz opisa nije vidljivo.",
+  "flags": [
+    "samo pašnjak bez objekta",
+    "nepoznata mogućnost prenamjene zona",
+    "ograničenja gradnje na poljoprivrednom zemljištu"
+  ],
+  "input_hash": "19a6b41fd18a",
+  "scored_at": "2026-04-21T11:02:50.933607"
+}

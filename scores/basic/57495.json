@@ -1,0 +1,16 @@
+{
+  "id": "57495",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 4.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "40% popust i druga dražba zvuče privlačno, ali kupiš samo 9/16 suvlasničkog dijela dok ovrhovoditelj zadržava 7/16 - upravljanje nekretninom s nedobrovoljnim suvlasnikom u ruralnom Skakavcu je investicijski dead end. Ruralna lokacija bez turističkog ili urbanog potencijala.",
+  "flags": [
+    "suvlasništvo - kupuješ samo 9/16 dijela",
+    "ovrhovoditelj zadržava 7/16 - prisilni suvlasnik",
+    "ruralno bez likvidnosti"
+  ],
+  "input_hash": "230d226ec344",
+  "scored_at": "2026-04-21T10:49:31.444754"
+}

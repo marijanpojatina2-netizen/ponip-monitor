@@ -1,0 +1,17 @@
+{
+  "id": "59713",
+  "score_overall": 4.0,
+  "score_lokacija": 7.0,
+  "score_roi": 3.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Izvrsna lokacija (poslovna zgrada na otoku Pagu) ali izrazito kompleksno manjinsko suvlasništvo (99/202 i 239/672 dijela) bez kontrolnog udjela praktički onemogućuje samostalno korištenje, iznajmljivanje ili daljnju prodaju.",
+  "flags": [
+    "kompleksno manjinsko suvlasništvo - 99/202 i 239/672 dijela",
+    "nemogućnost samostalnog upravljanja imovinom",
+    "sve odluke zahtijevaju suglasnost ostalih suvlasnika",
+    "visok pravni rizik"
+  ],
+  "input_hash": "402228cb438e",
+  "scored_at": "2026-04-21T10:58:21.564966"
+}

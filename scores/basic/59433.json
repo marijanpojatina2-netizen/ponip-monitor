@@ -1,0 +1,16 @@
+{
+  "id": "59433",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 3.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Ruralna Slavonija, selo Ladimirevci kraj Valpova - depopulacijska zona s minimalnom tržišnom likvidnošću i bez turističkog ili rentnog potencijala. Svega 20% popusta na prvoj dražbi daleko je nedovoljno da kompenzira strukturalni lokacijski rizik.",
+  "flags": [
+    "depopulacijska zona - istočna Slavonija",
+    "gospodarska zgrada uz kuću - ograničena prenamjena",
+    "niska tržišna likvidnost"
+  ],
+  "input_hash": "4362d4d31d66",
+  "scored_at": "2026-04-21T10:54:40.922552"
+}

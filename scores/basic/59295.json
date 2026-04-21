@@ -1,0 +1,16 @@
+{
+  "id": "59295",
+  "score_overall": 5.5,
+  "score_lokacija": 6.0,
+  "score_roi": 5.5,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Trosobni stan 93,1m2 s terasom 19,5m2 u potkrovlju Varaždina solidna je osnova u gradu s tržišnom dubinom, no 25% popust na prvoj dražbi bez uvida u stanje interijera i krova ne opravdava aktivnu ponudu. Potkrovlje donosi specifičan rizik ugodnosti boravka ljeti.",
+  "flags": [
+    "potkrovlje - potencijalni toplinski komfor problemi ljeti",
+    "nepoznato stanje interijera, krova i izolacije",
+    "provjera pričuve i troškova upravljanja zgradom"
+  ],
+  "input_hash": "a5ca90fbcf37",
+  "scored_at": "2026-04-21T10:54:40.923217"
+}

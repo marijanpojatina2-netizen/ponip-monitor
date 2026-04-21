@@ -1,0 +1,16 @@
+{
+  "id": "58446",
+  "score_overall": 5.5,
+  "score_lokacija": 8.5,
+  "score_roi": 4.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Mali Lošinj je premium turistička destinacija s izvrsnim lokacijskim potencijalom, ali predmet je svega 5/12 kuće od 25m2 što efektivno znači ~10m2 suvlasničkog udjela koji se ne može samostalno koristiti niti iznajmljivati bez suglasnosti preostalih suvlasnika. Vrijednost leži isključivo u spekulativnom otkupu ostatka vlasništva što nosi visok pravni i financijski rizik.",
+  "flags": [
+    "samo 5/12 suvlasničkog udjela na kući od svega 25m2 - efektivno ~10m2",
+    "neupotrebljivo bez suglasnosti ostatka suvlasnika",
+    "visok trošak i rizik preuzimanja punog vlasništva"
+  ],
+  "input_hash": "a028bc7e98a3",
+  "scored_at": "2026-04-21T10:51:10.835780"
+}

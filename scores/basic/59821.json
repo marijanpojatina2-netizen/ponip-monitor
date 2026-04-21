@@ -1,0 +1,17 @@
+{
+  "id": "59821",
+  "score_overall": 3.5,
+  "score_lokacija": 5.5,
+  "score_roi": 4.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Pašnjak u nagibu prema moru u Senju zvuči atraktivno, ali bez građevinske dozvole i promjene namjene (pašnjak → građevinsko) ovo je špekulativna kupnja uz 20% popust koji ne kompenzira rizik. Senj nema razinu turističke potražnje koja bi opravdala razvoj.",
+  "flags": [
+    "pašnjak – potrebna promjena namjene za gradnju",
+    "teren u nagibu – skuplja i zahtjevnija gradnja",
+    "neizgrađeno i neograđeno",
+    "Senj – ograničena turistička potražnja"
+  ],
+  "input_hash": "2ef4dacb2c70",
+  "scored_at": "2026-04-21T10:56:10.272723"
+}

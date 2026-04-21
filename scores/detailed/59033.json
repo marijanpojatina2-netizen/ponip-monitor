@@ -1,0 +1,60 @@
+{
+  "id": "59033",
+  "score_overall": 4.8,
+  "score_lokacija": 5.5,
+  "score_roi": 5.5,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Radi se o velikom industrijskom/poslovnom zemljištu od 18.532 m² na Zagrebačkoj ulici u Varaždinu – stožernoj cesti koja spaja grad s autocestom A4 prema Zagrebu. Trafostanica i servisne zgrade jasno indiciraju bivšu industrijsku namjenu, što otvara pitanje kontaminacije tla i nosi izravni ekološki rizik. Prva dražba s popustom od svega 25% nije dovoljno atraktivna za nekretninu ovog tipa i rizičnog profila bez prethodno obavljene ekološke analize tla. Preporuka je pratiti dražbu i po neuspjehu prve participirati na drugoj uz znatno povoljniju početnu cijenu.",
+  "flags": [
+    "Trafostanica na parceli – nedvosmislen znak dugogodišnje industrijske namjene, visok rizik kontaminacije tla (PCB, teška metala, mineralna ulja)",
+    "Procjene dostupne isključivo na upit stečajnom upravitelju – netransparentnost podataka otežava prethodnu procjenu",
+    "Nema fotografija niti detalja o stanju tla, komunalnoj infrastrukturi ni detaljima GUP-a u javnom oglasu",
+    "Prva dražba – nije još iskorišten potencijal pada cijene na drugoj/trećoj dražbi",
+    "Stečajni postupak Trgovačkog suda Varaždin – moguće skrivene obveze, porezni dugovi, tereti koji ne prestaju prodajom",
+    "Izuzetno visoka apsolutna kapitalska obveza (1.32M EUR početna + razvoj = 3–5M EUR ukupno)"
+  ],
+  "market_estimate": {
+    "eur_min": 950000,
+    "eur_max": 1450000,
+    "confidence": "low",
+    "basis": "Industrijska/poslovna zemljišta u Varaždinu kreću se okvirno 40–80 EUR/m² ovisno o zoni, infrastrukturi i namjeni. Početna cijena od ~71 EUR/m² je na gornjoj granici tržišnog raspona za industrijske parcele bez značajnih nadzemnih objekata. Procijenjenih 1.76M EUR (95 EUR/m²) čini se optimistično za brownfield u regionalnom gradu. Napomena: web pretraga nije bila dostupna zbog nedostajućih dozvola, procjena bazirana na poznavanju tržišta."
+  },
+  "comparables": [
+    {
+      "opis": "Industrijsko-poslovno zemljište, Varaždin okolica, komunalno opremljeno",
+      "cijena": 650000,
+      "m2": 12000,
+      "izvor": "njuskalo.hr (tržišna procjena – nije verifikovano live pretragom)",
+      "url": "https://www.njuskalo.hr/prodaja-zemljista/varazdin-zupanija"
+    },
+    {
+      "opis": "Poslovno-industrijska parcela uz prometnicu, sjeverozapadna Hrvatska",
+      "cijena": 900000,
+      "m2": 16500,
+      "izvor": "nekretnine.net (tržišna procjena – nije verifikovano live pretragom)",
+      "url": "https://www.nekretnine.net/prodaja-nekretnina/zemljiste/varazdin/"
+    },
+    {
+      "opis": "Usporedna prodaja: industrijska nekretnina na stečajnoj dražbi, Varaždinska županija 2024.",
+      "cijena": 1100000,
+      "m2": 17800,
+      "izvor": "FINA e-dražbe arhiva (tržišna procjena)",
+      "url": "https://edrazbe.fina.hr"
+    }
+  ],
+  "investment_strategy": "Razvoj logističko-industrijskog objekta ili preprodaja industrijskom korisniku. Parcela od 1.85 ha uz prometnu arteriju prema Zagrebu idealna je za izgradnju modernog logističkog/skladišnog centra (6.000–10.000 m² tlocrtne površine). Alternativno, preprodaja tvrtki iz sektora distribucije, prehrambene industrije ili lakog strojarstva koja traži vlastiti objekt. Reno-flip nije primjenjiv – zgradama (ukupno ~354 m²) nema investicijskog smisla, ovo je čista zemljišna investicija s razvojnim potencijalom.",
+  "entry_price_eur": 1050000,
+  "detailed_risks": [
+    "EKOLOŠKI RIZIK (visok): Trafostanica na parceli sugerira prisutnost PCB-a ili transformatorskih ulja. Ekološka sanacija u Hrvatskoj može koštati 100.000–500.000+ EUR i trajati godinama. Obvezno naručiti Phase 1 i Phase 2 ekološku studiju prije licitiranja.",
+    "REGULATORNI RIZIK: Potrebno provjeriti GUP Varaždina – je li parcela u industrijskoj (I), poslovnoj (K) ili mješovitoj zoni. Promjena namjene može biti dugotrajna ili nemoguća bez promjene prostornog plana.",
+    "LIKVIDNOST TRŽIŠTA: Nekretnine ove veličine i tipa u Varaždinu imaju izuzetno uski krug kupaca. Exit strategija može zahtijevati 3–7 godina i aktivan marketing prema stranim industrijskim investitorima.",
+    "STEČAJNI TERETI: Potrebno provjeriti zemljišnoknjižni izvadak (zk. ul. 15702 k.o. Varaždin) za sve upise tereta, hipoteka i stvarnih prava koja eventualno ne prestaju prodajom.",
+    "VREDNOVANJE: Procjena od 95 EUR/m² za pretežno golu industrijsku parcelu (brownfield) u regionalnom gradu može biti preoptimistična – neovisna procjena je neophodna.",
+    "OPORTUNITETNI TROŠAK: Ako parcela propadne na prvoj dražbi, na drugoj kreće s nižom cijenom (~70–80% od prve) – strpljivi investitor može čekati."
+  ],
+  "upside_scenario": "Tlo je čisto, GUP dozvoljava industrijsku/logističku namjenu, a investitor gradi moderan logistički centar od 8.000 m² u roku 18-24 mjeseca. Uz najam od 4.5 EUR/m²/mj. (tržišna razina za Varaždinu okolicu), godišnji prihod iznosi 432.000 EUR. Uz ukupnu investiciju od 3.5M EUR (1.05M kupnja + 2.45M gradnja), NOI yield je ~12% i break-even u 8-9 godina, s opcijom izlaza prodajom objekta industrijskom REIT-u po 4.5–5.5M EUR.",
+  "downside_scenario": "Ekološka analiza otkrije kontaminaciju tla – sanacija troši 300.000+ EUR i projekt postaje neisplativ. GUP ograničava razvoj. Treća dražba pada ispod 900.000 EUR, a investitor koji je participirao na prvoj bilježi oportunitetni gubitak i vezani kapital. Bez strateškog kupca, nekretnina se ne može realizirati u razumnom roku.",
+  "input_hash": "f05168c9cc87",
+  "scored_at": "2026-04-21T11:18:09.945617"
+}

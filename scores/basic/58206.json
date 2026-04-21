@@ -1,0 +1,16 @@
+{
+  "id": "58206",
+  "score_overall": 6.0,
+  "score_lokacija": 5.5,
+  "score_roi": 7.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Istra uvijek nosi premiju čak i u unutrašnjosti, a 40% popust na drugoj dražbi je solidna ulazna pozicija za agroturizam ili ruralni najam. Makadamska prometnica i neizvjesno stanje objekata zahtijevaju obilazak terena prije odluke.",
+  "flags": [
+    "makadamska prometnica – upitna dostupnost",
+    "unutrašnjost Istre, ne obala",
+    "stanje zgrada nepoznato iz opisa"
+  ],
+  "input_hash": "4bb124cfbaca",
+  "scored_at": "2026-04-21T10:56:10.271854"
+}

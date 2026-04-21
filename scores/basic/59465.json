@@ -1,0 +1,16 @@
+{
+  "id": "59465",
+  "score_overall": 3.0,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Ruralna Slavonija (Jarmina, 7km od Vinkovaca) s jakom depopulacijom i minimalnom tržišnom likvidnošću eliminira investicijsku logiku; 20% popust na prvoj dražbi ne kompenzira lokacijski i exit-rizik.",
+  "flags": [
+    "depopulacijsko područje - Vukovar-Srijem",
+    "niska likvidnost - Slavonija",
+    "pretežito oranica - ograničena rezidencijalna vrijednost"
+  ],
+  "input_hash": "c1aee5da1b48",
+  "scored_at": "2026-04-21T10:58:21.564419"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "59151",
+  "score_overall": 3.0,
+  "score_lokacija": 3.5,
+  "score_roi": 3.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Livada, vinograd i gospodarska zgrada u ruralnom Varaždinskom kraju (Vinogradi Ludbreški) bez rezidencijalne namjene i jasnog investicijskog potencijala; 20% popust na prvoj dražbi nedostatan za pretežito poljoprivrednu nekretninu.",
+  "flags": [
+    "pretežito poljoprivredno zemljište",
+    "gospodarska zgrada - ne rezidencijalna namjena",
+    "niska tržišna likvidnost"
+  ],
+  "input_hash": "bbedce2d76c2",
+  "scored_at": "2026-04-21T10:58:21.565200"
+}

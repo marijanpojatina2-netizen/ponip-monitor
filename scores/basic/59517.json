@@ -1,0 +1,16 @@
+{
+  "id": "59517",
+  "score_overall": 2.5,
+  "score_lokacija": 3.0,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Suvlasništvo od 5/12 dijela je fatalni red flag jer kupujete manjinski udio bez kontrole nad nekretninom, a prodaja/najam zahtijeva suglasnost ostalih suvlasnika koji drže 7/12. Kombinirano s niskim popustom od 20%, prvom dražbom i ograničenim tržištem Vukovara, nema realnog investicijskog slučaja.",
+  "flags": [
+    "suvlasništvo 5/12 dijela - manjinski udio bez kontrole",
+    "prodaja i najam zahtijevaju suglasnost ostalih suvlasnika",
+    "Vukovar - ograničena likvidnost tržišta nekretnina"
+  ],
+  "input_hash": "d3b882bf62f8",
+  "scored_at": "2026-04-21T11:12:13.324796"
+}

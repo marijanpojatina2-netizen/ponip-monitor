@@ -1,0 +1,47 @@
+{
+  "id": "59652",
+  "score_overall": 3.0,
+  "score_lokacija": 4.0,
+  "score_roi": 3.0,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Industrijska nekretnina u industrijskoj zoni Mala Švarča (Karlovac) s apsolutnom početnom cijenom od 1.072.500 EUR koja značajno premašuje procijenjenu tržišnu vrijednost sličnih objekata u regiji (200-400 EUR/m²). Suvlasnički udio 477/1000 fundamentalna je strukturna komplikacija koja blokira samostalno upravljanje, renovaciju i izlaznu strategiju bez suglasnosti drugog suvlasnika. Sudska procjena od 1,43M EUR za stari industrijski objekt u Karlovcu čini se upitnom kvalitete. Uski krug potencijalnih kupaca i ograničena likvidnost industrijskog segmenta u sekundarnom gradu čine ovaj deal investicijski neatraktivnim na aktualnoj cijeni.",
+  "flags": [
+    "KRITIČNO: Suvlasnički udio 477/1000 — nepoznat identitet i motivi drugog suvlasnika (523/1000), svaka odluka o upravljanju/prodaji/rekonstrukciji zahtijeva njegovu suglasnost",
+    "Trafo soba unutar objekta — stariji transformatori mogu sadržavati PCB (poliklorirani bifenili), ekološka sanacija 50.000–200.000 EUR+",
+    "Industrijska namjena (k.č. 1490) — zoniranje vjerojatno ograničeno na industrijsku/poslovnu namjenu, bez mogućnosti stambene konverzije",
+    "Stečajni postupak — moguće neizmirene komunalne obveze, hipoteke ili tužbe vezane uz poslovnu aktivnost dužnika",
+    "Prva dražba bez bonusa za kasniji redni broj — tržište nije verificiralo cijenu kroz prethodne neuspjele pokušaje",
+    "Opis navodi kompresorsku stanicu i elektroradionicu — moguće onečišćenje tla mineralnim uljima"
+  ],
+  "market_estimate": {
+    "eur_min": 380000,
+    "eur_max": 650000,
+    "confidence": "low",
+    "basis": "Industrijsko-poslovni prostor u Karlovcu (izvan premium lokacija) trguje se na 200–380 EUR/m² za starije objekte. Neto površina 1.679,86 m² × 225–385 EUR = 378.000–647.000 EUR. Sudska procjena 1.430.000 EUR (850 EUR/m²) sugerira ili nadprocjenu ili uključivanje specijalizirane opreme u vrijednost. Web pretraga komparabla nije bila dostupna — procjena konzervativna."
+  },
+  "comparables": [
+    {
+      "opis": "Usporediva: industrijska hala ~1.500 m², Karlovac okolica — tržišna procjena iz iskustva",
+      "cijena": 480000,
+      "m2": 1500,
+      "izvor": "stručna procjena (bez web pretrage)",
+      "url": "N/A — web pretraga nije bila dostupna"
+    }
+  ],
+  "investment_strategy": "Jedina realistična strategija je industrijski/logistički najam: Karlovac ima pozicijsku prednost uz čvor A1 autoceste (Zagreb–Split), što privlači logistiku, distribuciju i laku industriju. Godišnji prihod od najma 1.679 m² industrijskog prostora po 3–5 EUR/m²/mj iznosi 60.000–100.000 EUR. Na entry cijeni od 500k EUR to bi dalo yield 12–20% — ali entry cijena je problem. Na aktualnoj početnoj cijeni (1.072.500 EUR) yield pada na 5,6–9,3%, što nije dovoljno za kompenzaciju rizika suvlasništva, moguće sanacije i ograničene likvidnosti.",
+  "entry_price_eur": 480000,
+  "detailed_risks": [
+    "Suvlasnička blokada: 477/1000 udio znači da bez suglasnosti drugog suvlasnika (523/1000) nema rekonstrukcije, promjene namjene ni lakše prodaje — ovaj rizik sam po sebi može biti deal-breaker",
+    "Ekološka odgovornost: trafo-soba + elektroradionica + kompresor + skladišta ulja = klasičan profil industrijske lokacije s onečišćenjem tla; sanacija može premašiti investicijsku vrijednost",
+    "Procijenjena vrijednost vs. tržišna: razlika između sudske procjene (1.430.000 EUR) i procijenjene tržišne vrijednosti (~500k EUR) ukazuje na specifičan metodološki pristup procjenitelja koji investitor mora razumjeti",
+    "Likvidnost izlaza: industrijski objekti u Karlovcu imaju ograničen krug kupaca — izlazni horizont 3–7 godina uz neizvjesnost",
+    "Energetska neučinkovitost: troetažna industrijska zgrada stare gradnje = visoki troškovi grijanja, hlađenja i održavanja koji idu na teret zakupca ili vlasnika",
+    "Stečajna masa: nepoznate skrivene obveze vezane uz stečajnog dužnika (dugovi prema dobavljačima komunalnih usluga, porezi, osiguranja)",
+    "Kapital zarobljen u jamčevini: 143.000 EUR blokirano do okončanja postupka"
+  ],
+  "upside_scenario": "Ako se riješi suvlasnička struktura (otkup preostalog udjela po razumnoj cijeni) i ne postoji ekološko onečišćenje, objekt uz A1 kod Karlovca može privući logističkog ili industrijskog zakupca (npr. automotive dobavljač, distribucijski centar). Na entry cijeni 480k EUR i ukupnoj investiciji do 600k EUR (renovacija + otkup udjela), prihod od najma 80–100k EUR/god = yield 13–17%, s potencijalom preprodaje na 800k–1M EUR u roku 4–6 godina.",
+  "downside_scenario": "Nekretnina ostaje neprodana ili nezakupljena 18–36 mj zbog visoke cijene i suvlasničke blokade. Otkriveno ekološko onečišćenje tla (PCB, mineralna ulja) generira sanacijske troškove 100–300k EUR. Drugi suvlasnik pokreće spor oko zajedničkih dijelova. Ukupni gubitak: 143.000 EUR zamrznute jamčevine + transakcijski troškovi + oportunitetni trošak kapitala.",
+  "input_hash": "555b4a4e6aa8",
+  "scored_at": "2026-04-21T11:23:59.625788"
+}

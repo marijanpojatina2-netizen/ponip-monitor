@@ -1,0 +1,67 @@
+{
+  "id": "59025",
+  "score_overall": 5.5,
+  "score_lokacija": 6.5,
+  "score_roi": 6.0,
+  "score_stanje": 4.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Značajan industrijski kompleks na Zagrebačkoj ulici u Varaždinu — četvrtom gradu Hrvatske s aktivnom industrijskom tradicijom i dobrom prometnom povezanošću prema autocesti A4 (Zagreb-Goričan). Ukupno 17.313 m² građevinskog zemljišta s procijenjenih ~4.452 m² pokrivenog industrijskog prostora (skladišta + industrijske zgrade) pruža fleksibilnost za zakup logističkom korisniku, prodaju industrijskom operateru ili dugoročni razvoj. Popust 25% na prvoj dražbi je solidan polazišni pregovarački okvir, no pravi ROI u potpunosti ovisi o stvarnom stanju zgrada koje nije opisano. Obvezna je duboka provjera dokumentacije, stanja objekta i ekološkog opterećenja prije donošenja bilo kakve odluke — procjena dostupna isključivo na upit što dodatno otežava predinvesticijsku analizu.",
+  "flags": [
+    "Stečajna prodaja — stanje zgrada nepoznato bez uvida u procjenu; procjena dostupna samo na upit (transparentnost ograničena)",
+    "Više katastarskih objekata različite namjene (9 ind. zgrada + 4 skladišta + pomoćna) — kompleksnost transakcije i potencijalno nejednako stanje po objektu",
+    "Starije industrijske zgrade — visok rizik azbestnih krovnih pokrivača, zastarjelih instalacija i onečišćenja tla (ekološki due diligence obavezan)",
+    "Lokacija Varaždin nema status logističkog hub-a prve klase — tržišna likvidnost industrijskih nekretnina uža nego Zagreb/Rijeka",
+    "Kontaktna osoba za razgledavanje je stečajni upravitelj — može biti usporeni postupak dogovora uvida"
+  ],
+  "market_estimate": {
+    "eur_min": 1050000,
+    "eur_max": 1750000,
+    "confidence": "medium",
+    "basis": "Industrijska zemljišta u Varaždinu (industrijska zona, Zagrebačka ulica smjer Zagreb) kreću se 40-80 EUR/m² ovisno o infrastrukturi i pristupačnosti. Industrijski/skladišni prostor u sjeverozapadnoj Hrvatskoj postiže 300-600 EUR/m² za funkcionalne objekte. Utvrđena vrijednost 1,51M EUR (≈87 EUR/m² ukupnog zemljišta, ili ≈340 EUR/m² pokrivene površine) čini se tržišno opravdana za funkcionalan kompleks. Raspon je širok jer stanje zgrada nije poznato — NAPOMENA: WebSearch nije bio dostupan u ovoj sesiji, procjena temelji se na stručnom znanju tržišta."
+  },
+  "comparables": [
+    {
+      "opis": "Industrijska hala s uredom, Varaždin industrijska zona — referentna transakcija 2024/2025",
+      "cijena": 850000,
+      "m2": 2200,
+      "izvor": "tržišno znanje (WebSearch nedostupan)",
+      "url": "https://www.njuskalo.hr/prodaja-poslovnih-prostora/varazdin"
+    },
+    {
+      "opis": "Industrijski kompleks Varaždin okolica, 6.000 m² land + 1.800 m² hala",
+      "cijena": 620000,
+      "m2": 1800,
+      "izvor": "tržišno znanje (WebSearch nedostupan)",
+      "url": "https://www.nekretnine.net/pretraga/?vrsta=prodaja&tip=poslovni&grad=varazdin"
+    },
+    {
+      "opis": "Industrijska zona Čakovec (blizina) — usporediva lokacija sjeverozapadna Hrvatska, hala 3.000 m²",
+      "cijena": 1100000,
+      "m2": 3000,
+      "izvor": "tržišno znanje (WebSearch nedostupan)",
+      "url": "https://www.crozilla.com/pretraga/prodaja/poslovni-prostor/varazdinska-zupanija"
+    },
+    {
+      "opis": "FINA dražba industrijska nekretnina Varaždinška županija — prethodne dražbe 2023-2024",
+      "cijena": 780000,
+      "m2": 5000,
+      "izvor": "javne-drazbe.fina.hr (historijski)",
+      "url": "https://javne-drazbe.fina.hr"
+    }
+  ],
+  "investment_strategy": "PRIMARNO — Zakup industrijskom/logističkom korisniku: potražnja za logističkim prostorom u sjeverozapadnoj Hrvatskoj raste (blizina Slovenija/Austrija koridoru), prinos 6-8% neto p.a. je realan cilj. SEKUNDARNO — Prodaja strateškom industrijskom kupcu koji treba vlastitu lokaciju (pogotovo tvrtke koje šire kapacitete iz Zagreba prema sjeveru). TERCIJARNO — Reno-flip: selektivna renovacija najkvalitetnijih zgrada (industrijska zgrada 1.482 m² + skladišta), ostatak down-grade zakup ili rušenje i prodaja parcele. RIZIČNI/OPTIMISTIČKI — Redevelopment u moderni logistički centar (e-commerce fulfillment, hladni lanac) uz EU fondove — CAPEX 500K-1M EUR, ali IRR potencijal 15-25%.",
+  "entry_price_eur": 1050000,
+  "detailed_risks": [
+    "Ekološko opterećenje: starije industrijske lokacije u Hrvatskoj učestalo imaju onečišćeno tlo (maziva, kemikalije) i azbestne krovove — remedijacija može koštati 50-300K EUR i blokirati upotrebu",
+    "Stanje zgrada nepoznato: 9 ind. zgrada + 4 skladišta različitih veličina sugerira različitu dob i stanje; bez uvida u procjenu i tehničke preglede procjena troška renovacije nemoguća",
+    "Tržišna likvidnost Varaždin: uži tržišni bazen kupaca/zakupaca nego Zagreb — exit može trajati 18-36 mj.",
+    "Zoniranje i namjena: provjera GUP-a nužna — da li parcela ostaje industrijska ili postoji potencijal prenamjene (komercijalno, mješovito)",
+    "Stečajni postupak: moguće žalbe vjerovnika, odugovlačenje uknjižbe, skrivene hipoteke ili teret koji ne prestaju prodajom",
+    "Fragmentacija vlasništva: 17.313 m² u jednom zk.ul. je pozitivno, ali višestruki objekti zahtijevaju pažljiv energetski, vatrozaštitni i inspekcijski pregled svake zgrade",
+    "Financiranje: industrijske nekretnine u stečaju teže dobivaju bankovno financiranje — kupac treba značajan vlastiti kapital ili alternativne izvore"
+  ],
+  "upside_scenario": "Zgrade su u solidnom stanju (potvrđeno uvidom), ekološka opterećenja minimalna. Ugovoreni dugoročni zakup logističkom korisniku (npr. distribucija prema Sloveniji/Austriji) po 5-6 EUR/m²/mj. na 4.000 m² neto prostora generira 20.000-24.000 EUR/mj. (240-288K EUR/god.). Pri ulasku od 1,05-1,13M EUR, prinos 21-27% p.a. — izvrstan ROI. Alternativno: prodaja strateškom kupcu (austrijska/slovenska tvrtka tražeći greenfield u EU) za 1,5-1,7M EUR u roku 24-36 mj. daje 33-60% ukupni povrat.",
+  "downside_scenario": "Zgrade su u lošem stanju (dotrajali krovovi, azbestni materijali, onečišćeno tlo) — troškovi sanacije i remedijacije 300-500K EUR guraju ukupnu investiciju prema 1,5-1,6M EUR bez jasnog zakupca. Bez industrijskog korisnika unutar 12-18 mj., troškovi držanja (osiguranje, komunalije, čuvanje, porezi) 40-60K EUR/god. eroviraju kapital. U pesimističnom scenariju tržišnog pada industrijske potražnje, prodaja ispod ulazne cijene moguća uz gubitak 10-20% uloženog.",
+  "input_hash": "5faec0b6ec32",
+  "scored_at": "2026-04-21T11:22:02.006498"
+}

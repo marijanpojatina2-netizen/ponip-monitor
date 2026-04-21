@@ -1,0 +1,56 @@
+{
+  "id": "56543",
+  "score_overall": 4.0,
+  "score_lokacija": 3.0,
+  "score_roi": 6.0,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Kompleks motel + benzinska crpka + kuća + poljoprivredno zemljište u k.o. Selna i Trnjani, vjerojatno u zaleđu Rijeke (Gorski kotar / Primorsko-goranska županija), u stečajnom postupku. Popust od 75% na trećoj dražbi iznimno je agresivan i upućuje na višegodišnji neuspjeh prodaje — što samo po sebi nosi snažnu negativnu selekciju. Benzinska crpka kao sastavni dio predstavlja ozbiljan ekološki rizik (podzemni tankovi, zagađenje tla), a trošak remedijacije može lako premašiti cijenu kupnje. Motel je u stečaju, vjerojatno neaktivan godinama, što znači visoke troškove obnove i relicenciranja. Lokacija u ruralnoj unutrašnjosti uz stari magistralni pravac, bez jakog turističkog potencijala, drastično ograničava likvidnost pri izlasku iz investicije.",
+  "flags": [
+    "Benzinska crpka — visok rizik kontaminacije tla i podzemnih voda (podzemni UST tankovi); remedijacija može koštati 150.000–500.000 EUR",
+    "Stečajni postupak — poslovni neuspjeh, imovina dugo neaktivna",
+    "Treća dražba bez kupaca — tržišni signal odbijanja",
+    "Dvije odvojene katastarske općine (Trnjani + Selna) — kompleksna vlasnička i pravna struktura",
+    "Ruralna lokacija Gorski kotar / zaleđe Rijeke — izuzetno niska likvidnost komercijalnih nekretnina",
+    "Motel — potrebna relicencija, eventualno nova klasifikacija objekta (HTZ), visoki troškovi renovacije",
+    "Nepoznat broj gostinjskih soba, m² GBP motela — procjena vrijednosti bez tog podatka nesigurna",
+    "Jamčevina 131.600 EUR = ~40% početne cijene — visok cash-lock na ulazu"
+  ],
+  "market_estimate": {
+    "eur_min": 380000,
+    "eur_max": 650000,
+    "confidence": "low",
+    "basis": "Bez web pretrage — procjena temeljena na poznavanju tržišta. Moteli u ruralnom zaleđu Rijeke/Gorski kotar 250–500 EUR/m² GBP (ovisno o stanju), benzinska crpka negativna ili neutralna vrijednost zbog ekološkog rizika, pol'jopr. zemljište 2–8 EUR/m². Sudska procjena od 1.316.000 EUR vjerojatno je rađena na tržišnom vrhuncu ili bez ponderiranja ekoloških i likvidnosnih rizika. Realna tržišna vrijednost uz sve rizike moguće je 29–49% od sudske procjene."
+  },
+  "comparables": [
+    {
+      "opis": "Motel s benzinskom postajom uz magistralu u unutrašnjosti Hrvatske — analogni slučaj (opća referenca, nije identičan objekt)",
+      "cijena": 450000,
+      "m2": null,
+      "izvor": "procjena analiticara",
+      "url": "N/A — web pretraga nije dostupna u ovoj sesiji"
+    },
+    {
+      "opis": "Komercijalna nekretnina (ugostiteljski objekt) Gorski kotar regija — stečajne i slobodne prodaje tipično 200–400 EUR/m² GBP",
+      "cijena": 300000,
+      "m2": null,
+      "izvor": "procjena analiticara",
+      "url": "N/A"
+    }
+  ],
+  "investment_strategy": "RAZVOJ / KONVERZIJA uz prethodni due diligence: (1) Benzinska crpka — prioritetno naručiti Phase I/Phase II ekološki elaborat PRIJE ikakve ponude; ako je teren čist, crpka se može reaktivirati ili zemljište repurposati. (2) Motel — konverzija u ruralni turizam / wellness retreat ili glamping baza za Gorski kotar planinski turizam (nije obala, ali nišni potencijal postoji). (3) Kuća u Trnjanima — prodaja ili iznajmljivanje lokalno. (4) Pol'jopr. zemlja — dugoročni holding ili agroturizam. Strategija je izrazito rizična bez provjere ekološkog statusa crpke — to je go/no-go uvjet.",
+  "entry_price_eur": 329000,
+  "detailed_risks": [
+    "Ekološka kontaminacija tla od benzinske crpke (UST) — potencijalni trošak 150.000–500.000 EUR za sanaciju; moguća i zabrana korištenja parcele",
+    "Motel bez poznatih m² GBP, broja soba i građevinske dokumentacije — stvarna vrijednost nepoznata",
+    "Dugogodišnje nekorištenje objekata — instalacije, krov, statika vjerojatno zahtijevaju investiciju 300.000–600.000 EUR za dovođenje u standard",
+    "Niska likvidnost regije — exit strategija jako ograničena, prodaja može potrajati 3–7 godina",
+    "Rizik skrivenih tereta i prava trećih osoba (stečajni kompleksi često imaju neupisane hipoteke, komunalne obveze, itd.)",
+    "Relicenciranje motela i benzinske postaje — regulatorna složenost (HTZ, HAKOM, ekološke dozvole, vatrogasna inspekcija)",
+    "Depopulacija Gorskog kotara — strukturni demografski rizik za bilo koji poslovni model temeljen na lokalnoj potražnji"
+  ],
+  "upside_scenario": "Phase II ekološki elaborat pokaže čisto tlo. Motel ima 20+ soba u solidnoj konstrukciji. Investitor ulaže 500.000 EUR u renovaciju → planinski boutique hotel + aktivna benzinska crpka uz prometnu magistralu. Za 3 godine: vrijednost kompleksa 1.200.000–1.500.000 EUR; ROI ~100% na ukupnu investiciju (~830.000 EUR). Gorski kotar doživljava rast outdoor turizma (biciklizam, skijanje, pješačenje).",
+  "downside_scenario": "Ekološka kontaminacija zahtijeva sanaciju 400.000 EUR + zabrana gradnje na benzinskoj parceli. Motel u lošem građevinskom stanju (vlaga, statika) traži dodatnih 500.000 EUR. Ukupna investicija 1.230.000 EUR uz tešku prodaju u regiji — investitor zaglavi u 5+ godišnjem projektu bez jasnog exita; realna gubitaška pozicija od 300.000–500.000 EUR.",
+  "input_hash": "a3d08f4cd0a8",
+  "scored_at": "2026-04-21T11:28:03.219565"
+}

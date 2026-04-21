@@ -1,0 +1,16 @@
+{
+  "id": "59551",
+  "score_overall": 2.5,
+  "score_lokacija": 3.0,
+  "score_roi": 2.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Livada 2011 m2 u Sv. Križu Začretju bez ikakvog objekta s procjenom ~26 EUR/m2 za agro površinu u Zagorju - predimenzionirana vrijednost i nikakav razvojni potencijal na nelikvidnom tržištu bez smisla za investitora.",
+  "flags": [
+    "samo livada bez objekta",
+    "prevelika sudska procjena za agro zemljište u Zagorju",
+    "bez razvojnog potencijala"
+  ],
+  "input_hash": "cfe9d9f9f217",
+  "scored_at": "2026-04-21T11:01:04.852350"
+}

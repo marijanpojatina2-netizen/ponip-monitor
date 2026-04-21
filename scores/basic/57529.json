@@ -1,0 +1,16 @@
+{
+  "id": "57529",
+  "score_overall": 5.5,
+  "score_lokacija": 7.5,
+  "score_roi": 5.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Otok Ugljan (Kukljica) nudi izvrsnu turističku lokaciju blizu Zadra s 40% popustom na drugoj dražbi, ali svega 150 m2 oranice bez ikakvog objekta uz upitan GZ status u prostornom planu čini ovaj bid visoko spekulativnim bez prethodne provjere.",
+  "flags": [
+    "oranica - nije građevinsko zemljište",
+    "samo 150 m2 - provjera mogućnosti gradnje u prostornom planu Zadra",
+    "bez ikakvih izgrađenih objekata"
+  ],
+  "input_hash": "bba279cb6847",
+  "scored_at": "2026-04-21T11:01:04.852138"
+}

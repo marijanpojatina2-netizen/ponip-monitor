@@ -1,0 +1,14 @@
+{
+  "id": "59502",
+  "score_overall": 4.5,
+  "score_lokacija": 4.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Stan 60 m2 u Karlovcu s 20% popustom na prvoj dražbi - prizemlje umanjuje atraktivnost za najam, a tržišna likvidnost Karlovca je ograničena u usporedbi s većim centrima. ROI case slab bez daljnjeg pada cijene.",
+  "flags": [
+    "prizemlje - manja atraktivnost za najam/prodaju"
+  ],
+  "input_hash": "cce7bdafc834",
+  "scored_at": "2026-04-21T10:49:31.444516"
+}

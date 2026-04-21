@@ -1,0 +1,15 @@
+{
+  "id": "59157",
+  "score_overall": 5.0,
+  "score_lokacija": 5.0,
+  "score_roi": 5.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Kupinečki Kraljevac je rubna zagrebačka prigradska lokacija s pristojnom likvidnošću zahvaljujući blizini metropole; kuća 72m2 s velikom okućnicom od ~1200m2 nudi potencijal za dogradnju ili podjelu parcele. Nedostaju podaci o stanju kuće i infrastrukturi (voda, kanalizacija) koji su ključni za konačnu odluku.",
+  "flags": [
+    "nepoznato stanje infrastrukture (voda, odvodnja)",
+    "rubna lokacija — Zagrebačka županija, nije grad Zagreb"
+  ],
+  "input_hash": "c8ed4941e6d8",
+  "scored_at": "2026-04-21T11:02:50.934400"
+}

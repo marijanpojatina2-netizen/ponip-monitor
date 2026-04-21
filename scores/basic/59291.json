@@ -1,0 +1,14 @@
+{
+  "id": "59291",
+  "score_overall": 5.5,
+  "score_lokacija": 5.5,
+  "score_roi": 5.5,
+  "score_stanje": 6.5,
+  "recommendation": "watch",
+  "reasoning": "Varaždin je stabilan regionalni centar s pristojnom likvidnošću, a 3-sobni stan od 102m2 s terasom od 21m2 u potkrovlju ima realan potencijal za dugoročni najam; 25% popust iz stečajne mase je prihvatljiv. Nije turistička destinacija pa je ROI ograničen na najamni prinos bez kratkoročnog iznajmljivanja.",
+  "flags": [
+    "stečajna masa - Trgovački sud Varaždin"
+  ],
+  "input_hash": "8a46bb1126f6",
+  "scored_at": "2026-04-21T10:51:10.836036"
+}

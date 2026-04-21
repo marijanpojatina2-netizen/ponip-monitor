@@ -1,0 +1,16 @@
+{
+  "id": "58304",
+  "score_overall": 6.0,
+  "score_lokacija": 4.5,
+  "score_roi": 8.5,
+  "score_stanje": 4.5,
+  "recommendation": "deep_dive",
+  "reasoning": "50% popust na drugoj dražbi u stečajnom postupku za kuću s dvorištem kraj Ivanić Grada (~35km od Zagreba) izniman je ulazni omjer koji otvara realnu margin of safety čak i uz renovaciju. Stečajni kontekst nosi pravne rizike tereta i izlučnih prava koje hitno treba verificirati kod odvjetnika.",
+  "flags": [
+    "stečajni dužnik - obavezna pravna provjera razlučnih/izlučnih prava i tereta",
+    "nepoznato stanje objekta",
+    "oranica uz imanje - provjera namjene i mogućnosti izgradnje"
+  ],
+  "input_hash": "300dbed5d202",
+  "scored_at": "2026-04-21T10:54:40.922970"
+}

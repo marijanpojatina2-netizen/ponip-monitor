@@ -1,0 +1,16 @@
+{
+  "id": "57339",
+  "score_overall": 3.5,
+  "score_lokacija": 4.0,
+  "score_roi": 4.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Kuća u Orehovici kraj Čakovca – kupac preuzima samo 113/200 dijela nekretnine jer ovrhovoditelj zadržava 87/200 suvlasničkog udjela, što dramatično komplicira svako raspolaganje imovinom. Suvlasnička situacija s ovrhovoditeljem čini nekretninu praktično neatraktivnom bez prethodnog pisanog dogovora o razvrgnuću.",
+  "flags": [
+    "Prodaje se samo 113/200 suvlasničkog udjela ovršenika",
+    "Ovrhovoditelj zadržava 87/200 – kupac postaje suvlasnik s njim",
+    "Otežano raspolaganje i prodaja bez suglasnosti suvlasnika"
+  ],
+  "input_hash": "a43207c88e74",
+  "scored_at": "2026-04-21T11:09:43.618960"
+}

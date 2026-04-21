@@ -1,0 +1,16 @@
+{
+  "id": "59719",
+  "score_overall": 5.5,
+  "score_lokacija": 7.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Pag ima turistički potencijal ali 20% popust na prvoj dražbi je slab ulaz – realno je očekivati sniženje u idućim rundama. Nedostajući 1/32 suvlasnički udio može biti zanemariv, ali treba provjeriti tko je drugi suvlasnik.",
+  "flags": [
+    "suvlasnički udio 31/32 – postoji 1/32 nepoznatog suvlasnika",
+    "prva dražba – pričekati sniženje",
+    "stanje kuće nepoznato"
+  ],
+  "input_hash": "2b6c1cc4d559",
+  "scored_at": "2026-04-21T10:56:10.272053"
+}

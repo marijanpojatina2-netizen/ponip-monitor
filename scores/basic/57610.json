@@ -1,0 +1,16 @@
+{
+  "id": "57610",
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 5.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Hrastelnica je depopulacijsko ruralno područje Sisačke županije s niskom likvidnošću tržišta nekretnina; 40% popust i druga dražba (+0.5 ROI) jedine su prednosti, no nedovoljne za kompenzaciju loše lokacije.",
+  "flags": [
+    "ruralno/depopulacijska zona",
+    "Sisačka županija - niska likvidnost",
+    "nedefinirano stanje objekta"
+  ],
+  "input_hash": "342754824dcc",
+  "scored_at": "2026-04-21T10:52:49.920969"
+}

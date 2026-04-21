@@ -1,0 +1,17 @@
+{
+  "id": "59634",
+  "score_overall": 4.0,
+  "score_lokacija": 6.0,
+  "score_roi": 4.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Ilica 506 je zapadni rub Zagreba (Vrapče) s ograničenom atraktivnošću, a 33m2 je podstandard za iznajmljivanje. Kritični problem je kupnja samo 1/2 suvlasničkog dijela stana što bez suglasnosti drugog suvlasnika onemogućuje najam, prodaju i svako raspolaganje nekretninom.",
+  "flags": [
+    "suvlasnički udio 1/2 - blokiran bez suglasnosti drugog vlasnika",
+    "neodređeni omjer suvlasništva",
+    "31m2 netto korisne površine - podstandard",
+    "zapadna periferija Zagreba"
+  ],
+  "input_hash": "b1645128125d",
+  "scored_at": "2026-04-21T11:10:59.584485"
+}

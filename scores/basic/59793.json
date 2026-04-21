@@ -1,0 +1,16 @@
+{
+  "id": "59793",
+  "score_overall": 4.5,
+  "score_lokacija": 4.5,
+  "score_roi": 5.0,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Stubička Slatina u zagorskom termalnom pojasu (~40km od Zagreba) nudi umjerenu potražnju za vikend nekretninama i blizinu Stubičkih Toplica kao katalizator. 25% popust na prvoj dražbi prihvatljiv je, ali bez detalja o stanju objekta i s ograničenom tržišnom dubinom nema osnove za aktivnu ponudu.",
+  "flags": [
+    "nepoznato stanje objekta iz opisa",
+    "manje tržište s ograničenom likvidnošću",
+    "nema podataka o infrastrukturi/priključcima"
+  ],
+  "input_hash": "b295cb439793",
+  "scored_at": "2026-04-21T10:54:40.922866"
+}

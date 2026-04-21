@@ -1,0 +1,16 @@
+{
+  "id": "59658",
+  "score_overall": 3.5,
+  "score_lokacija": 4.0,
+  "score_roi": 4.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Strmec kraj Zaboka je ruralni Zagorje bez turističke atraktivnosti, svega 50km od Zagreba ali bez primarne prometne veze koja bi ga činila atraktivnim za dnevne migrante. Prodaja udjela 4 suvlasnika kompleksira eventualni predfazni due diligence i potencijalnu posudbenu strukturu.",
+  "flags": [
+    "4 ovršenika - kompleksnost vlasničke strukture",
+    "ruralna lokacija bez rasta vrijednosti",
+    "ograničen najamni potencijal"
+  ],
+  "input_hash": "c5062694cb93",
+  "scored_at": "2026-04-21T11:10:59.584692"
+}

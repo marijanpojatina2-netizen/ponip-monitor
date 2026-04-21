@@ -1,0 +1,15 @@
+{
+  "id": "59437",
+  "score_overall": 5.0,
+  "score_lokacija": 7.5,
+  "score_roi": 4.0,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Pula je tražena turistička lokacija ali predmet je isključivo podrumsko spremište od 25m2 s ograničenom namjenom i likvidnošću; ozbiljan pravni rizik jer za cijelu zgradu nije izdana uporabna dozvola što blokira legalizaciju i preprodaju. Popust od svega 20% na prvoj dražbi nije atraktivan za ovakvu vrstu predmeta.",
+  "flags": [
+    "nema uporabne dozvole za cijelu zgradu",
+    "samo podrumsko spremište 25m2 - ograničena namjena i likvidnost"
+  ],
+  "input_hash": "4204add9935e",
+  "scored_at": "2026-04-21T10:51:10.835344"
+}

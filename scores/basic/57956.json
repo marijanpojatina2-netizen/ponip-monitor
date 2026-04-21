@@ -1,0 +1,15 @@
+{
+  "id": "57956",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Virje kraj Đurđevca je tipično depopulacijsko područje slavonske Podravine s minimalnom tržišnom likvidnošću - 40% popust i druga dražba ne kompenziraju fundamentalnu nemogućnost izlaska iz investicije po razumnoj cijeni. Pass bez iznimke.",
+  "flags": [
+    "depopulacijsko područje - izlaz iz investicije upitan",
+    "slabo tržište Koprivničko-križevačke županije"
+  ],
+  "input_hash": "af86c92463a3",
+  "scored_at": "2026-04-21T10:49:31.444863"
+}

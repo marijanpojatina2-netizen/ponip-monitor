@@ -1,0 +1,15 @@
+{
+  "id": "58012",
+  "score_overall": 7.0,
+  "score_lokacija": 7.5,
+  "score_roi": 8.5,
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Stan od 78,60 m2 (3 sobe + lođa) u Splitu na ul. A. Stepinca za početnih 29.160 EUR na drugoj dražbi izuzetno je atraktivan — cijenom po m2 ispod tržišne i s ogromnim najamnim potencijalom u turističkoj metropoli. Pravni detalj 'neodređenog omjera' i kompleks više adresa zahtijevaju urgentnu provjeru z.k. stanja i eventualnih tereta.",
+  "flags": [
+    "'suvlasnički dio s neodređenim omjerom' u z.k. – potencijalni pravni rizik, provjeriti u z.k.",
+    "blokovska zgrada (adrese 37–53) – provjeriti stanje zajedničkih dijelova i UO zgrade"
+  ],
+  "input_hash": "41a46258bd79",
+  "scored_at": "2026-04-21T11:04:57.505746"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "59227",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Gospić/Lika je jedno od najizrazitijih depopulacijskih područja Hrvatske s minimalnom tržišnom likvidnošću i gotovo nikakvom turističkom atraktivnošću; izlaz iz investicije bio bi iznimno otežan. 20% popusta na prvoj dražbi daleko je ispod kompenzacije za strukturni rizik regije.",
+  "flags": [
+    "depopulacijsko područje (Lika)",
+    "izuzetno niska tržišna likvidnost",
+    "otežan izlaz iz investicije"
+  ],
+  "input_hash": "bce340d46469",
+  "scored_at": "2026-04-21T11:02:50.933819"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "59447",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Vukovar je depopulacijsko i ratom obilježeno područje s ekstremno niskom likvidnošću nekretnina i gotovo nepostojećim investicijskim tržištem. Svega 20% popusta na prvoj dražbi ne kompenzira strukturne slabosti lokacije.",
+  "flags": [
+    "depopulacijska zona",
+    "niska likvidnost regije",
+    "Slavonija - ograničen investicijski interes"
+  ],
+  "input_hash": "ca9e8348cc2c",
+  "scored_at": "2026-04-21T11:10:59.584179"
+}

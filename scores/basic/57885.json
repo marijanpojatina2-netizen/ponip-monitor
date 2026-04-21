@@ -1,0 +1,16 @@
+{
+  "id": "57885",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Preslatinci su ruralno naselje u đakovačkom kraju bez turizma, bez rasta populacije i s minimalnim tržištem nekretnina. 20% popusta na prvoj dražbi uz lokaciju kategorije 'duboka Slavonija' ne pruža realan investicijski potencijal.",
+  "flags": [
+    "ekstremno ruralna Slavonija",
+    "depopulacijska zona",
+    "nulta likvidnost sekundarnog tržišta"
+  ],
+  "input_hash": "aa7cdd19eb6a",
+  "scored_at": "2026-04-21T11:10:59.584986"
+}

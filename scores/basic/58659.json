@@ -1,0 +1,16 @@
+{
+  "id": "58659",
+  "score_overall": 3.0,
+  "score_lokacija": 6.5,
+  "score_roi": 2.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Predmet prodaje je isključivo podrumsko SPREMIŠTE od ~29m2, a ne stan — procjenjena vrijednost od 51.000 EUR za garažno-skladišni prostor drastično premašuje realnu tržišnu vrijednost takvog prostora čak i u dobrom dijelu Zagreba. Bez mogućnosti konverzije u stambeni prostor, ROI potencijal je minimalan.",
+  "flags": [
+    "NIJE STAN — samo podrumsko spremište (E-82)",
+    "ne može se koristiti kao stambeni prostor",
+    "procijenjena vrijednost 51.000 EUR nerazmjerna za spremište"
+  ],
+  "input_hash": "3582a9206f24",
+  "scored_at": "2026-04-21T11:02:50.934169"
+}

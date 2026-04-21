@@ -1,0 +1,15 @@
+{
+  "id": "58091",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Stan od 96 m² u Slavonskom Brodu – funkcionalan prostor ali izrazita depopulacijska zona s niskom likvidnošću i slabom potražnjom. Početna cijena od ~383 EUR/m² preskupa za slavonsko tržište, minimalna šansa za kapitalnu aprecijaciju.",
+  "flags": [
+    "Slavonski Brod – depopulacijska zona, slab tržišni potencijal",
+    "20% popust na prvoj dražbi nedovoljan za nelikvidnu lokaciju"
+  ],
+  "input_hash": "b2f46d635fc5",
+  "scored_at": "2026-04-21T11:09:43.618526"
+}

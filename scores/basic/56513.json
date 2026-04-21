@@ -1,0 +1,16 @@
+{
+  "id": "56513",
+  "score_overall": 6.0,
+  "score_lokacija": 6.5,
+  "score_roi": 7.5,
+  "score_stanje": 3.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Pašnjak 242m2 u urbanoj četvrti Rijeke-Zamet s čak 75% popusta na trećoj dražbi izuzetno je jeftin za tu lokaciju, ali ključno je hitno provjeriti GUP/UPU namjenu parcele jer je razlika između gradivnog i poljoprivrednog zemljišta odlučujuća za cijelu investicijsku tezu.",
+  "flags": [
+    "namjena: pašnjak - obavezna provjera GUP/UPU",
+    "treća dražba bez kupca - istražiti razlog (vlasništvo, teret, pristup?)",
+    "bez infrastrukture/objekta"
+  ],
+  "input_hash": "68f2471b6a6d",
+  "scored_at": "2026-04-21T10:52:49.921550"
+}

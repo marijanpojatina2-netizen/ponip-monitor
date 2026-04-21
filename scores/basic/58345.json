@@ -1,0 +1,15 @@
+{
+  "id": "58345",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Treštanovci su ruralno slavonsko selo u blizini Požege s izrazitim depopulacijskim trendom i praktički nultom potražnjom za nekretninama; likvidnost je toliko niska da bi i eventualni flip bio izuzetno riskantan. Velika okućnica od 2002m2 jedina je pozitivna stavka, ali bez kupaca nema ni realizacije vrijednosti.",
+  "flags": [
+    "duboka ruralna Slavonija — depopulacija i nulta likvidnost",
+    "gotovo nemoguć izlaz iz investicije"
+  ],
+  "input_hash": "de8ac5f31376",
+  "scored_at": "2026-04-21T11:02:50.934301"
+}

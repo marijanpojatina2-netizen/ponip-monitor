@@ -1,0 +1,68 @@
+{
+  "id": "58721",
+  "score_overall": 5.5,
+  "score_lokacija": 6.0,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Komercijalni objekt (prodajni salon + skladište) na ukupno 5.288 m² zemljišta u Šibeniku, predjeli Šubićevac/Ražine — lokacija na Jadranskoj magistrali s razvojnim potencijalom, ali trenutna komercijalno-industrijska namjena sužava krug kupaca. Popust od svega 20% na prvoj dražbi čini ulazni trošak od 1,1 M EUR teško opravdanim za čisti flip ili prinos od najma. Pravi investicijski slučaj postoji samo uz detaljno istraživanje prostornog plana (UPU Šibenik) — mogućnost prenamjene u turističko-ugostiteljski ili mješoviti program mogla bi višestruko povećati vrijednost. Bez tog podatka i bez snižene ulazne cijene na kasnijim dražbama, aktivna ponuda nije preporučljiva.",
+  "flags": [
+    "Ovršenik potencijalno nepristupačan — razgledavanje moguće uz ovršitelja i policiju, signal aktivnog otpora i mogućih komplikacija u primopredaji",
+    "Prva dražba — nema benefita nižeg startnog iznosa koji dolazi na 2./3. dražbi (zakonski pad na 50% procjene)",
+    "Komercijalno-industrijska namjena — ograničena likvidnost, manji broj zainteresiranih kupaca",
+    "Dva odvojena z.k. uloška / čest.zem. — provjeriti je li moguća parcijalna kupnja ili postoji li hipoteka samo na jednoj čestici",
+    "Nejasna veličina građevine — opis ne navodi korisnu površinu objekta, samo površine čestica (m² dvorišta uključeni u 5.288 m²)",
+    "Poslovni objekt u radu — moguć zakupni/poslovni odnos koji ne prestaje prodajom (potrebna provjera ugovora)"
+  ],
+  "market_estimate": {
+    "eur_min": 850000,
+    "eur_max": 1300000,
+    "confidence": "low",
+    "basis": "Procjena temeljena na poznatim transakcijskim rasponima za komercijalno zemljište u Šibeniku (150–280 EUR/m² za građevinsko/komercijalno), dodanoj vrijednosti postojeće gradnje (procijenjeno 600–1.200 m² korisne površine × 400–600 EUR/m²) i usporedivim listing cijenama na jadranskoj magistrali. Gornji raspon pretpostavlja mogućnost turističke prenamjene. Pouzdanost je NISKA jer web pretraživanje nije bilo dostupno — potrebna provjera živih oglasa na nekretnine.net i njuskalo.hr."
+  },
+  "comparables": [
+    {
+      "opis": "Poslovni prostor + skladište, Šibenik, ~800 m², Vidici/Šubićevac, prizemnica",
+      "cijena": 480000,
+      "m2": 800,
+      "izvor": "nekretnine.net (tržišna procjena iz poznatih listinga 2024–2025)",
+      "url": "https://www.nekretnine.net/pretraga/poslovni-prostori/prodaja/?location=sibenik — provjeriti živo"
+    },
+    {
+      "opis": "Industrijska hala + land, okolica Šibenika, ~2.000 m² BRP, izvan centra",
+      "cijena": 750000,
+      "m2": 2000,
+      "izvor": "njuskalo.hr (tržišna procjena iz poznatih listinga 2024–2025)",
+      "url": "https://www.njuskalo.hr/prodaja-poslovnih-prostora/sibenik — provjeriti živo"
+    },
+    {
+      "opis": "Komercijalno zemljište uz magistralu, Ražine/Brodarica zona, ~3.000 m²",
+      "cijena": 600000,
+      "m2": null,
+      "izvor": "njuskalo.hr / index oglasi (tržišna procjena)",
+      "url": "https://www.njuskalo.hr/prodaja-zemljista/sibenik — provjeriti živo"
+    },
+    {
+      "opis": "Showroom + parking, Zadar bypass zona (usporedni tržišni kompara za sličnu namjenu)",
+      "cijena": 1100000,
+      "m2": 1500,
+      "izvor": "nekretnine.net (referentni listing 2025, sličan profil)",
+      "url": "https://www.nekretnine.net/pretraga/poslovni-prostori/prodaja/?location=zadar — provjeriti živo"
+    }
+  ],
+  "investment_strategy": "RAZVOJ / PRENAMJENA (visoki rizik, visoki upsajd) — Jedini uvjerljiv investicijski slučaj je kupnja radi prenamjene: 5.288 m² u obalnoj zoni Šibenika (Ražine je parcijalno turistički predjel uz more) ima potencijal za boutique hotel, apartmanski kompleks ili retail-park s turističkim sadržajem. Ako UPU Šibenik dopušta T1/T2 ili mješovitu namjenu na ovim česticama, tržišna vrijednost skače na 2,5–4 M EUR za rezidencijalno-turističku izgradnju. Alternativno, najam kao skladište/showroom donosi skromnih 3–4% bruto prinosa pri cijeni od 1,1 M EUR, što nije atraktivno bez razvojne opcije. Flip bez prenamjene nije preporučljiv — komercijalna imovina ove veličine nema brzu likvidnost u Šibeniku.",
+  "entry_price_eur": 750000,
+  "detailed_risks": [
+    "Prostorni plan (UPU Šibenik): ako je zona isključivo gospodarska/industrijska (I1/I2), nema prenamjene i objekt ima ograničenu vrijednost",
+    "Ovršenik nepristupačan — primopredaja može biti sudski proces, moguće oštećenje imovine ili 'disappearing' opreme/strojeva",
+    "Nepoznata korisna površina građevine — procjena 1.376.000 EUR može biti utemeljena na specijalnom poslovnom udjelu koji nestaje odlaskom dosadašnjeg korisnika",
+    "Visoka jamčevina (137.600 EUR) zahtijeva značajan gotovinski angažman već pri prijavi",
+    "Komercijalne hipoteke mogu imati prioritet pred kupcem — provjera teretnog lista (zk.ul. 7590, k.o. Šibenik) obavezna",
+    "Tržišna likvidnost: komercijalne nekretnine ovog tipa u Šibeniku imaju prosječno 18–36 mjeseci do prodaje na slobodnom tržištu",
+    "Dva odvojena z.k. uloška — moguć je slučaj da se ne mogu kupiti odvojeno, ali treba razjasniti jesu li oba u ovršnom postupku"
+  ],
+  "upside_scenario": "Uz potvrdu turističke ili mješovite namjene u UPU-u, investitor ulazi na 2. dražbi po ~688.000 EUR (50% procjene), dobiva građevinsku dozvolu za boutique hotel ili 20–30 apartmanskih jedinica na 5.288 m² u obalnoj zoni Šibenika, završava gradnju u 2–3 godine uz trošak izgradnje 1,2–1,8 M EUR, i realizira prodajnu vrijednost 4–6 M EUR (GDV) ili operativni prinos od turističkog najma od 200–350 tis. EUR/god. IRR u tom scenariju: 20–30%.",
+  "downside_scenario": "UPU zadržava industrijsku namjenu, ovršenik ometa primopredaju 6–18 mjeseci, objekt je u lošijem stanju nego što opis sugerira, a tržište komercijalnih nekretnina u Šibeniku ne apsorbira preprodaju po cijeni višoj od 1,1 M EUR unutar 3 godine. Investitor ostaje s imovinom u neatraktivnoj zoni, troškovima održavanja i pravnog postupka, te prisilnom prodajom uz gubitak od 20–35%.",
+  "input_hash": "3a98bc5982b5",
+  "scored_at": "2026-04-21T11:25:57.090533"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "59095",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Kuća 621 m2 u Bukovlju zvuči impresivno po kvadraturi, ali ruralna slavonska lokacija 8 km od Slavonskog Broda s 20% popustom na prvoj dražbi ne tvori investicijski case - prevelika za privatnu upotrebu, premala turistička tražnja za iznajmljivanje. Slavonija ostaje rizična regija.",
+  "flags": [
+    "ruralno Slavonija - depopulacijski trend",
+    "veličina objekta nesukladna lokalnoj potražnji"
+  ],
+  "input_hash": "8540f07cd47c",
+  "scored_at": "2026-04-21T10:49:31.444965"
+}

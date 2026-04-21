@@ -1,0 +1,16 @@
+{
+  "id": "59197",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 3.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Gospodarska cjelina u selu Prugovac kraj Đurđevca - ruralna Podravina s dominantno poljoprivrednim zemljištem (oranice, livade, voćnjak) i gospodarskim zgradama bez jasnog rentnog ili turističkog potencijala. 20% popust na prvoj dražbi ne ostavlja nikakvu investicijsku logiku.",
+  "flags": [
+    "ruralna Podravina - depopulacijska zona",
+    "dominantno poljoprivredno zemljište (oranice, livade)",
+    "gospodarske zgrade bez prenamjenskog potencijala"
+  ],
+  "input_hash": "2db36a393b20",
+  "scored_at": "2026-04-21T10:54:40.923320"
+}

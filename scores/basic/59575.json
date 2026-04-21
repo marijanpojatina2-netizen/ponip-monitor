@@ -1,0 +1,15 @@
+{
+  "id": "59575",
+  "score_overall": 5.5,
+  "score_lokacija": 6.5,
+  "score_roi": 5.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Zagreb lokacija (Horvaćanska) je pozitivna, ali stan od samo 21 m2 drastično sužava kupački bazen i tržišnu likvidnost; cijena po m2 (~2750 EUR) je ok za Zagreb, ali mikro stanovi teže prodaju. Opis s 'neodređenim omjerom' zaslužuje pravnu provjeru.",
+  "flags": [
+    "mikro stan 21 m2 - ograničena likvidnost",
+    "neodređen omjer dijela nekretnine - moguća pravna nejasnoća"
+  ],
+  "input_hash": "c43d40524d0d",
+  "scored_at": "2026-04-21T10:49:31.444638"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "59357",
+  "score_overall": 3.5,
+  "score_lokacija": 3.5,
+  "score_roi": 4.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Ruralna kuća s gospodarskim objektom u okolici Ivanca nudi pristupačnu cijenu ali bez turističkog ili komercijalnog potencijala - 20% popusta na prvoj dražbi uz nepoznato stanje vjerojatno starije gradnje i šumu koja zahtijeva posebne dozvole ne gradi dovoljan investicijski slučaj.",
+  "flags": [
+    "ruralna lokacija bez turizma i poslovne infrastrukture",
+    "stanje objekta nepoznato - starija gradnja, nedefinirani troškovi sanacije",
+    "šuma 565m2 - poseban pravni režim upravljanja"
+  ],
+  "input_hash": "4ec055f43683",
+  "scored_at": "2026-04-21T11:07:16.430169"
+}

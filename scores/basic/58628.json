@@ -1,0 +1,16 @@
+{
+  "id": "58628",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Depopulacijsko ruralno područje Bjelovarsko-bilogorske županije bez turističkog ili investicijskog potencijala, s minimalnom potražnjom na sekundarnom tržištu. Nizak popust od 20%, prva dražba i tri gospodarske zgrade (koje gotovo nemaju tržišnu vrijednost) čine ovu nekretninu neprivlačnom za svakog investitora.",
+  "flags": [
+    "depopulacijsko ruralno područje",
+    "3 gospodarske zgrade bez realne vrijednosti",
+    "seosko imanje bez razvojnog potencijala"
+  ],
+  "input_hash": "10b6b5e8d489",
+  "scored_at": "2026-04-21T11:12:13.324686"
+}

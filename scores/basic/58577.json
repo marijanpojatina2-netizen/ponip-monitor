@@ -1,0 +1,15 @@
+{
+  "id": "58577",
+  "score_overall": 3.5,
+  "score_lokacija": 3.5,
+  "score_roi": 3.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Kuća s dvorištem (~3.233 m2) u ruralnom Zagorju blizu Pregradi uz samo 20% popust na prvoj dražbi - slaba potražnja u regiji i nepoznato stanje objekta ne opravdavaju ulaz bez dodatnih informacija.",
+  "flags": [
+    "ruralna lokacija - ograničena potražnja",
+    "stanje objekta nepoznato iz opisa"
+  ],
+  "input_hash": "c06e58bedfaa",
+  "scored_at": "2026-04-21T10:58:21.565301"
+}

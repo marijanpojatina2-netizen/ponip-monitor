@@ -1,0 +1,16 @@
+{
+  "id": "58506",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Baranja je depopulacijska regija s minimalnom tržišnom potražnjom, a skupni predmet prodaje od heterogenih čestica (šuma, oranice, voćnjak, zgrade) s višestrukim suvlasnicima čini upravljanje i eventualnu prodaju izuzetno kompleksnim uz zanemarivi potencijal povrata.",
+  "flags": [
+    "suvlasništvo I i II ovrhovoditelja i ovršenika - kompleksna vlasnička struktura",
+    "skupni predmet prodaje - heterogene čestice različitih namjena",
+    "depopulacijska Baranja - minimalna tržišna likvidnost"
+  ],
+  "input_hash": "00311b486de2",
+  "scored_at": "2026-04-21T11:07:16.429636"
+}

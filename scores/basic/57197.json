@@ -1,0 +1,16 @@
+{
+  "id": "57197",
+  "score_overall": 3.5,
+  "score_lokacija": 2.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "40% popust na drugoj dražbi je financijski atraktivan, no Ilova je selo s minimalnom populacijom i praktički nultim sekundarnim tržištem nekretnina. Stambena zgrada od samo 74m2 uz pomoćne objekte i veliku parcelu čini ovo isključivo agrarnim ulaganjem bez jasnog izlaznog scenarija.",
+  "flags": [
+    "ekstremno ruralna lokacija",
+    "nulta tržišna likvidnost",
+    "agrarni karakter - ograničen investicijski potencijal"
+  ],
+  "input_hash": "68eb76bab186",
+  "scored_at": "2026-04-21T11:10:59.584589"
+}

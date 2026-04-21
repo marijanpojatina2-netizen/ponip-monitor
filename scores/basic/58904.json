@@ -1,0 +1,16 @@
+{
+  "id": "58904",
+  "score_overall": 4.5,
+  "score_lokacija": 4.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Komercijalni lokal 36m2 u zgradi tržnice Zabok s 25% popustom nudi skroman prihodni potencijal iznajmljivanja, no ovisnost o aktivnosti tržnice i ograničena fleksibilnost namjene reduciraju investicijsku atraktivnost.",
+  "flags": [
+    "komercijalni prostor - ograničena namjena (mesnica)",
+    "suvlasnički dio zgrade tržnice - zajednički troškovi",
+    "provjeriti aktivnost/popunjenost tržnice"
+  ],
+  "input_hash": "d678424fa3ec",
+  "scored_at": "2026-04-21T10:52:49.921345"
+}

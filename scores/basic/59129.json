@@ -1,0 +1,17 @@
+{
+  "id": "59129",
+  "score_overall": 1.5,
+  "score_lokacija": 2.0,
+  "score_roi": 1.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Kupujete samo 1/6 suvlasničkog udjela u livadi i šumi u ruralnom Međimurju bez ikakvog objekta — to je praktički nelikvidna imovina bez jasnog izlaznog scenarija. 20% popust ne kompenzira suvlasnički rizik i agrikulturnu namjenu bez građevinskog potencijala.",
+  "flags": [
+    "suvlasništvo – prodaje se samo 1/6 ovršenice",
+    "agrikulturno zemljište (livada/šuma) bez objekata",
+    "ruralno Međimurje – slaba likvidnost",
+    "suvlasnik ovrhovoditeljica drži 5/6 – otežano raspolaganje"
+  ],
+  "input_hash": "d0bd5eec58d3",
+  "scored_at": "2026-04-21T11:04:57.505136"
+}

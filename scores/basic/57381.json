@@ -1,0 +1,15 @@
+{
+  "id": "57381",
+  "score_overall": 4.0,
+  "score_lokacija": 3.0,
+  "score_roi": 5.0,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Čak i uz 40% popusta i drugu dražbu, Dalj u Slavoniji nema tržišni potencijal za ostvarivanje investicijskog povrata - regija s niskom likvidnošću i bez turističke ili poslovne dinamike, a opis ne daje nikakve podatke o stvarnom stanju objekta.",
+  "flags": [
+    "Slavonija blizu Vukovara - niska tržišna likvidnost i potražnja",
+    "nedostatak opisa stanja objekta - nepoznati troškovi renovacije"
+  ],
+  "input_hash": "1292386285b2",
+  "scored_at": "2026-04-21T11:07:16.429837"
+}

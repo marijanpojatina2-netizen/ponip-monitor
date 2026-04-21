@@ -1,0 +1,14 @@
+{
+  "id": "58376",
+  "score_overall": 4.5,
+  "score_lokacija": 5.5,
+  "score_roi": 4.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Zagreb daje solidnu likvidnost ali Granešina je periferija i kupuje se samo 1/2 suvlasničkog udjela što praktički onemogućuje samostalno korištenje ili iznajmljivanje bez suglasnosti drugog suvlasnika. Bez podataka o stanju nekretnine i samo 20% popusta na prvoj dražbi, omjer rizika i prinosa nije povoljan.",
+  "flags": [
+    "samo 1/2 suvlasničkog udjela - neupotrebljivo bez suglasnosti drugog suvlasnika"
+  ],
+  "input_hash": "a6d868267845",
+  "scored_at": "2026-04-21T10:51:10.835671"
+}

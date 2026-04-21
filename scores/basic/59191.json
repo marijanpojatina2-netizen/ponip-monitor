@@ -1,0 +1,16 @@
+{
+  "id": "59191",
+  "score_overall": 4.0,
+  "score_lokacija": 4.5,
+  "score_roi": 4.0,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Zagrebačka županija (Rakovec, ~40km od Zagreba) nudi znatno bolju likvidnost od Slavonije, no 20% popust na prvoj dražbi i suvlasništvo dvaju ovršenika donose procesnu neizvjesnost; pratiti nastavak postupka.",
+  "flags": [
+    "dva ovršenika - vlasništvo 1/2 svaki (moguće komplikacije)",
+    "periferna lokacija - slabiji najamni prinos",
+    "stanje objekta nepoznato"
+  ],
+  "input_hash": "a0f3d0dcc6d7",
+  "scored_at": "2026-04-21T10:58:21.564756"
+}

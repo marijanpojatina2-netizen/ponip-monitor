@@ -1,0 +1,16 @@
+{
+  "id": "58408",
+  "score_overall": 4.5,
+  "score_lokacija": 5.0,
+  "score_roi": 5.0,
+  "score_stanje": 2.5,
+  "recommendation": "watch",
+  "reasoning": "Čestica 1.608 m2 u k.o. Žedno (okolica Splita/Kaštela) ima lokacijski potencijal jedino ako GUP/UPU dopušta gradnju — bez toga je oranica s 20% popustom i bez objekta slab deal. Vrijedi provjeriti prostorno-plansku dokumentaciju prije bilo kakvog angažmana.",
+  "flags": [
+    "samo zemljište bez objekta – nikakav prihod do eventualne gradnje",
+    "oranica + neplodno – potrebno provjeriti GUP/UPU za građevinski potencijal",
+    "Žedno – periferija, ne turistička zona"
+  ],
+  "input_hash": "0fa7511ba610",
+  "scored_at": "2026-04-21T11:04:57.505546"
+}

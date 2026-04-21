@@ -1,0 +1,16 @@
+{
+  "id": "58585",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica u Slavoniji bez zgrade s kompliciranim suvlasničkim udjelom 49/95 koji drastično otežava svaku buduću transakciju ili razvoj, uz samo 20% popusta na prvoj dražbi i minimalnu tržišnu likvidnost regije nema realnog investicijskog case-a.",
+  "flags": [
+    "suvlasnički udio 49/95 - složeno vlasništvo, otežana likvidacija",
+    "bez zgrade - isključivo poljoprivredno zemljište",
+    "niska tržišna potražnja u Županjskoj regiji"
+  ],
+  "input_hash": "3c65e37df430",
+  "scored_at": "2026-04-21T11:07:16.429527"
+}

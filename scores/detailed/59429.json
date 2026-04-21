@@ -1,0 +1,66 @@
+{
+  "id": "59429",
+  "score_overall": 6.0,
+  "score_lokacija": 6.5,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Poslovna zgrada od 1572 m² s dvorištem od 1236 m² u Varaždinu – regionalnom gospodarskom centru sjeverne Hrvatske s razvijenom poslovnom i industrijskom infrastrukturom. Popust od 25% na prvoj dražbi je umjeren, ali apsolutna veličina objekta i potencijalni prihodi od najma čine deal zanimljivim za dublju analizu. Cijena od ~496 EUR/m² (neto građevina) na prvoj dražbi je konkurentna za poslovni prostor u Varaždinu. Ključna nepoznanica ostaje tehničko stanje objekta i eventualni tereti iz stečajnog postupka.",
+  "flags": [
+    "Stečajni postupak – obvezna provjera svih tereta, hipoteka i poreznih dugova u ZK izvadku",
+    "Nema opisa tehničkog stanja – nužan stručni pregled s ovlaštenim procjeniteljem",
+    "Prva dražba – potencijal za povoljniju cijenu na 2./3. dražbi (moguće čekanje)",
+    "Poslovni objekt nepoznate namjene/starosti – potrebna provjera dozvola i zoniranja",
+    "Visoka jamčevina (104.000 EUR) vezuje kapital za trajanje procesa"
+  ],
+  "market_estimate": {
+    "eur_min": 700000,
+    "eur_max": 1050000,
+    "confidence": "medium",
+    "basis": "Poslovni prostori u Varaždinu trguju se u rasponu 400–700 EUR/m² ovisno o stanju i lokaciji; 1572 m² × 450–650 EUR = 707–1022 K EUR. Komercijalno zemljište 1236 m² @ 80–120 EUR/m² dodaje 99–148 K EUR. Procjena bez uvida u tlocrt, starost i tehničko stanje – web pretraga nije bila dostupna, procjena temeljena na bazi znanja."
+  },
+  "comparables": [
+    {
+      "opis": "Poslovna zgrada, Varaždin, industrijska zona, ~800 m², funkcionalna",
+      "cijena": 520000,
+      "m2": 800,
+      "izvor": "njuskalo.hr (procjena iz baze znanja – live pretraga nije bila dostupna)",
+      "url": "https://www.njuskalo.hr/prodaja-poslovnih-prostora/varazdin"
+    },
+    {
+      "opis": "Skladišno-poslovni objekt, okolica Varaždina, ~1200 m², opremljen",
+      "cijena": 660000,
+      "m2": 1200,
+      "izvor": "nekretnine.net (procjena iz baze znanja)",
+      "url": "https://www.nekretnine.net/stambeni-objekti/prodaja/varazdin"
+    },
+    {
+      "opis": "Poslovni prostor, Varaždin grad, ~600 m², uređen uredski standard",
+      "cijena": 400000,
+      "m2": 600,
+      "izvor": "njuskalo.hr (procjena iz baze znanja)",
+      "url": "https://www.njuskalo.hr/prodaja-poslovnih-prostora/varazdin"
+    },
+    {
+      "opis": "Hala s uredima, Varaždinska županija, ~2000 m², starija gradnja",
+      "cijena": 850000,
+      "m2": 2000,
+      "izvor": "hgk.hr / poslovni oglasnik (procjena iz baze znanja)",
+      "url": "https://www.hgk.hr/nekretnine"
+    }
+  ],
+  "investment_strategy": "Iznajmljivanje / razvoj: Primarni scenarij je dugoročni najam cijelog objekta industrijskom, logističkom ili distribucijskom korisniku (4–7 EUR/m²/mj = 75–132 K EUR/god; bruto yield 10–17% pri ulasku 780 K EUR). Sekundarni scenarij: parcelizacija na manje poslovne jedinice za višestruke najmoprimce ili konverzija dijela u coworking/flex-office. Ako je objekt dotrajalog stanja, reno-flip prema modernom light-industrial standardu za preprodaju za 2–3 godine. Varaždin ima aktivan poduzetnički ekosustav, blizinu Slovenije i potencijal EU fondova za poslovne zone.",
+  "entry_price_eur": 750000,
+  "detailed_risks": [
+    "Stečajni tereti – hipoteke, stvarna prava trećih i porezni dugovi koji ne prestaju prodajom; bez čistog ZK izvadka ne ulaziti",
+    "Nepoznato tehničko stanje – industrijske/poslovne zgrade starije od 20 god. mogu zahtijevati 200–500 EUR/m² renovacije (ukupno 314–786 K EUR)",
+    "Nulti cash-flow – prazna zgrada znači 0 prihoda 6–18 mj. za pronalazak najmoprimca",
+    "Ograničena dubina tržišta – Varaždin poslovni segment sporije absorbira od Zagreba; likvidnost pri izlasku je niža",
+    "Mogući spor s bivšim vlasnikom/upravom stečajne mase – prolongacija procesa",
+    "Zoniranje i namjena – nužno provjeriti GUP i dozvole za planiranu poslovnu aktivnost"
+  ],
+  "upside_scenario": "Zgrada je u solidnom stanju (prethodni korisnik koristio za ured/laku industriju), brzo se pronalazi dugoročni najmoprimac (logistika, distribucija) po 5–6 EUR/m²/mj → 94–113 K EUR godišnje pri ulasku od 780 K EUR = 12–14.5% bruto prinos. Do 2028. godine, s rastom varaždinskog klastera i EU infrastrukturnim investicijama, tržišna vrijednost raste na 1.1–1.2 M EUR – kapitalni dobitak 30–40% uz solidni tekući prinos.",
+  "downside_scenario": "Zgrada zahtijeva temeljitu rekonstrukciju (>500 EUR/m² = 786 K EUR troškova) uz teškoće pronalaska najmoprimca u Varaždinu – ukupna investicija prelazi 1.5 M EUR dok tržište ne podupire tu cijenu. Stečajni terete produljuju preuzimanje 1–2 god., kapital vezan bez povrata. Preprodaja moguća samo uz gubitak od 20–30%; yield scenarij ne funkcionira bez solventnog najmoprimca.",
+  "input_hash": "51020f476033",
+  "scored_at": "2026-04-21T11:32:50.871656"
+}

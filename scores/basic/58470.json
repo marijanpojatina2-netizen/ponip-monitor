@@ -1,0 +1,16 @@
+{
+  "id": "58470",
+  "score_overall": 3.5,
+  "score_lokacija": 4.5,
+  "score_roi": 3.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Podzemni poslovni prostor u Krapinskim Toplicama s namjenom mjenjačnice i sportske kladionice nema razumnog investicijskog potencijala zbog nulte vidljivosti u podrumu i gotovo nemoguće promjene namjene, dok 20% popusta na prvoj dražbi ne kompenzira te strukturne nedostatke.",
+  "flags": [
+    "poslovni prostor u podrumu - nulta vidljivost i slab pristup",
+    "specifična namjena mjenjačnica/kladionica - zakonski i praktični otpor promjeni namjene",
+    "etažno vlasništvo 433/10000 - malen udio u kompleksu"
+  ],
+  "input_hash": "313084953c3d",
+  "scored_at": "2026-04-21T11:07:16.429737"
+}

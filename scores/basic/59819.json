@@ -1,0 +1,17 @@
+{
+  "id": "59819",
+  "score_overall": 4.5,
+  "score_lokacija": 5.5,
+  "score_roi": 5.0,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Pašnjak 976m2 u Senju s pogledom prema moru nosi intrigantan obalni kontekst, ali pašnjačko zoniranje čini pravo građenja upitnim - bez pozitivnog DPU/GUP mišljenja ovo je samo neizgrađena livada. 20% popust na prvoj dražbi daleko je nedovoljan za neizgrađeno zemljište s neriješenom građevinskom namjenom.",
+  "flags": [
+    "pašnjak - pravo građenja nepoznato, obavezna provjera GUP/DPU i UPU",
+    "neizgrađeno i neograđeno zemljište u nagibu",
+    "Senj - izloženost Buri (ograničenje za izgradnju i korištenje)",
+    "bez komunalne infrastrukture na parceli"
+  ],
+  "input_hash": "ebd8996e06e9",
+  "scored_at": "2026-04-21T10:54:40.923421"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "57766",
+  "score_overall": 4.5,
+  "score_lokacija": 4.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća s garažom i gospodarskim zgradama blizu Čakovca s 40% popustom na drugoj dražbi zvuči zanimljivo, ali prodaja '4. i 5. suvlasničkog dijela' ukazuje na složenu višesuvlasničku strukturu koja otežava upravljanje i likvidaciju investicije.",
+  "flags": [
+    "kompleksno suvlasništvo - 4. i 5. suvlasnički dio bez uvida u broj ostalih suvlasnika",
+    "provjera tereta i ostalih suvlasnika u ZK"
+  ],
+  "input_hash": "635dd0db9da5",
+  "scored_at": "2026-04-21T11:01:04.851893"
+}

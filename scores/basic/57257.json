@@ -1,0 +1,16 @@
+{
+  "id": "57257",
+  "score_overall": 3.0,
+  "score_lokacija": 2.0,
+  "score_roi": 3.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Kuća 100 m2 s 2560 m2 imanja u Zoljanu (okolica Našica) solidno je fizičko imanje, ali suvlasništvo 1/2 i izrazito nelikvidna ruralna Slavonija poništavaju i 40% popust na drugoj dražbi - nema realnog kupca ili najmoprimca.",
+  "flags": [
+    "suvlasništvo 1/2",
+    "depopulacijska Slavonija - okolica Našica",
+    "nelikvidno tržište bez realnog izlaza"
+  ],
+  "input_hash": "ee9340909785",
+  "scored_at": "2026-04-21T11:01:04.852544"
+}

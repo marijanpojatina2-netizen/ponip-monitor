@@ -1,0 +1,16 @@
+{
+  "id": "58852",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 4.0,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Sveti Đurađ je manje naselje u valpovačkom kraju s depopulacijskim trendom i gotovo nepostojećim sekundarnim tržištem nekretnina. 20% popusta na prvoj dražbi uz lokacijski rizik ne opravdava angažman kapitala.",
+  "flags": [
+    "depopulacijsko ruralno područje",
+    "ekstremno niska tržišna likvidnost",
+    "Osječka periferija bez infrastrukture rasta"
+  ],
+  "input_hash": "125991fee995",
+  "scored_at": "2026-04-21T11:10:59.584790"
+}

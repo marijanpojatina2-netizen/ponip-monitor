@@ -1,0 +1,16 @@
+{
+  "id": "59457",
+  "score_overall": 2.5,
+  "score_lokacija": 3.0,
+  "score_roi": 2.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Isključivo poljoprivredno i livadno zemljište bez ikakvog stambenog objekta kraj Bjelovara s 20% popustom - nema generatora prihoda, opis je odrezan pa suvlasnički udio nepoznat, a potok kroz parcele sugerira moguću poplavnu zonu. Nema investicijskog potencijala.",
+  "flags": [
+    "samo poljoprivredno zemljište - nema stambenog objekta",
+    "suvlasnički udio nepoznat (opis odrezan)",
+    "potok kroz parcele - moguća poplavna zona"
+  ],
+  "input_hash": "5cf0eb098258",
+  "scored_at": "2026-04-21T10:49:31.445228"
+}

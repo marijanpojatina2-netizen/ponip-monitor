@@ -1,0 +1,16 @@
+{
+  "id": "59321",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Ruralno selo Vratišinec u Međimurju s minimalnom potražnjom i slabom likvidnošću nekretnina; kupuje se tek 1/2 suvlasničkog udjela što dodatno otežava svako korištenje ili preprodaju. Vinograd od 497m2 je plus ali ne mijenja fundamentalno slabu investicijsku sliku.",
+  "flags": [
+    "samo 1/2 suvlasničkog udjela",
+    "ruralna lokacija - Vratišinec, slaba likvidnost",
+    "neupotrebljivo bez suglasnosti drugog suvlasnika"
+  ],
+  "input_hash": "a4e532452526",
+  "scored_at": "2026-04-21T10:51:10.836295"
+}

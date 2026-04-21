@@ -1,0 +1,16 @@
+{
+  "id": "59253",
+  "score_overall": 4.0,
+  "score_lokacija": 4.5,
+  "score_roi": 3.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Belica/Čakovec je relativno solidna međimurska lokacija, ali prodaja samo 1/2 idealnog suvlasničkog dijela kuće s okućnicom praktično onemogućava samostalno raspolaganje imovinom bez suglasnosti drugog suvlasnika; 20% popust na prvoj dražbi ne kompenzira tu blokadu.",
+  "flags": [
+    "suvlasnički 1/2 - svaka odluka zahtijeva suglasnost drugog suvlasnika",
+    "složena struktura čestica (2 kč.br.)",
+    "oranica kao dio nekretnine - ograničena primjena"
+  ],
+  "input_hash": "b3aaef6c081e",
+  "scored_at": "2026-04-21T10:52:49.921746"
+}

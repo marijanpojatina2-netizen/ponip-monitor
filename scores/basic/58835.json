@@ -1,0 +1,15 @@
+{
+  "id": "58835",
+  "score_overall": 6.5,
+  "score_lokacija": 7.5,
+  "score_roi": 7.0,
+  "score_stanje": 5.0,
+  "recommendation": "bid",
+  "reasoning": "Crikvenica je etablirana turistička destinacija Kvarnera s jakom potražnjom za kratkoročnim najmom; stan od ~27m2 po startnoj cijeni ~41.500 EUR realistično je ispod tržišne vrijednosti za tu lokaciju. Mala površina je ograničavajuća za trajno stanovanje, ali idealna za Airbnb/turistički najam uz solidnu godišnju popunjenost.",
+  "flags": [
+    "mala površina (26,98m2) — ograničenja za trajno stanovanje",
+    "bez podataka o trenutnom stanju/renoviranosti"
+  ],
+  "input_hash": "34f1385941e3",
+  "scored_at": "2026-04-21T11:02:50.934023"
+}

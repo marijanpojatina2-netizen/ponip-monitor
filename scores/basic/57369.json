@@ -1,0 +1,15 @@
+{
+  "id": "57369",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Kuća i dvorište od 898 m² u Plaškom – duboka depopulacijska zona u karlovačkom zaleđu bez funkcionalnog tržišta nekretnina. Popust od 40% na drugoj dražbi ne može nadomjestiti praktičnu nelikvidnost i negativne demografske trendove lokacije.",
+  "flags": [
+    "Plaški – zona depopulacije, gotovo nema tržišta nekretnina",
+    "Nepoznato stanje kuće, visoki potencijalni troškovi obnove"
+  ],
+  "input_hash": "4453da8808f3",
+  "scored_at": "2026-04-21T11:09:43.619307"
+}

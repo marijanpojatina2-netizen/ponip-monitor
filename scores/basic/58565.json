@@ -1,0 +1,15 @@
+{
+  "id": "58565",
+  "score_overall": 6.5,
+  "score_lokacija": 7.5,
+  "score_roi": 6.0,
+  "score_stanje": 5.0,
+  "recommendation": "bid",
+  "reasoning": "Garsonijera od 23,25 m² u Crikvenici na Kvarnerskoj obali – turistička lokacija s realnim potencijalom kratkoročnog najma, početna cijena ~1.537 EUR/m² na donjem rubu tržišnog raspona. Prva dražba i 20% popust opravdavaju aktivno sudjelovanje, obvezna provjera stvarnog stanja i etažnog lista.",
+  "flags": [
+    "Vrlo mali prostor – 23,25 m², ograničena fleksibilnost namjene",
+    "Prva dražba – nema prostora za agresivno sniženje cijene"
+  ],
+  "input_hash": "8f881020e282",
+  "scored_at": "2026-04-21T11:09:43.619204"
+}

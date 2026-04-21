@@ -1,0 +1,15 @@
+{
+  "id": "57981",
+  "score_overall": 5.0,
+  "score_lokacija": 4.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Dobar popust od 40% i 2. dražba nude solidni ROI potencijal, no ruralna lokacija Zagorske Sela s niskom likvidnošću tržišta ograničava dugoročnu vrijednost i exit strategiju. Kuća 320 m2 za ~24.5k EUR je jeftino, ali bez detaljnih informacija o stanju objekta rizik je neprihvatljivo visok za aktivnu licitaciju.",
+  "flags": [
+    "ruralno područje slabije likvidnosti",
+    "nema podataka o stanju objekta"
+  ],
+  "input_hash": "1f935827e3ad",
+  "scored_at": "2026-04-21T11:12:13.324492"
+}

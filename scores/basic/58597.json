@@ -1,0 +1,15 @@
+{
+  "id": "58597",
+  "score_overall": 6.0,
+  "score_lokacija": 7.5,
+  "score_roi": 6.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Studio 29 m2 u Crikvenici (Kvarner) ima realan turistički najamni potencijal, no prizemlje i skroman 20% popust na prvoj dražbi daju tanku maržu - vrijedi pratiti do eventualne druge dražbe za bolji entry.",
+  "flags": [
+    "prizemlje - manji turistički apel i sigurnosni rizik",
+    "29 m2 ograničava kapacitet prihoda od najma"
+  ],
+  "input_hash": "35425099721e",
+  "scored_at": "2026-04-21T11:01:04.852448"
+}

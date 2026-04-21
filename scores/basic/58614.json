@@ -1,0 +1,16 @@
+{
+  "id": "58614",
+  "score_overall": 5.5,
+  "score_lokacija": 7.0,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Kvarnerska rivijera (Novi Vinodolski) je tražena turistička zona koja daje lokaciji dugoročni potencijal, no tržnički lokal od svega 22m2 na prvoj dražbi s minimalnim popustom od 20% ograničava fleksibilnost namjene i realni ROI za privatnog investitora.",
+  "flags": [
+    "tržnički lokal - strukturalno ograničena mogućnost promjene namjene",
+    "mali prostor 22m2 + 1.7m2 skladišta - uski raspon primjena",
+    "neodređeni omjer suvlasničkog dijela - pravna nejasnoća"
+  ],
+  "input_hash": "3da348775076",
+  "scored_at": "2026-04-21T11:07:16.429931"
+}
