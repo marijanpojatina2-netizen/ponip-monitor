@@ -1,0 +1,15 @@
+{
+  "id": "58723",
+  "score_overall": 5.0,
+  "score_lokacija": 6.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Poslovni prostor 57.69m2 u Vrapču (Zagreb) ima solidnu lokaciju ali perifernu potražnju, a 20% popust na prvoj dražbi nije dovoljno atraktivan za poslovni prostor u zoni sporije likvidnosti. Bez detalja o stanju i trenutnoj zauzetosti teško je projicirati prinos.",
+  "flags": [
+    "poslovni prostor - specifična i uža potražnja",
+    "Vrapče periferija - sporija likvidnost komercijalnog"
+  ],
+  "input_hash": "2cedfb7075a2",
+  "scored_at": "2026-04-21T09:33:48.625405"
+}

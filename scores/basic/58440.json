@@ -1,0 +1,16 @@
+{
+  "id": "58440",
+  "score_overall": 3.0,
+  "score_lokacija": 4.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Samo 1/2 idealnog dijela oranice u Zaboku čini svaku upotrebu i preprodaju strukturalno kompliciranom; 20% popust na prvoj dražbi nije dovoljan za kompenzaciju suvlasničkog rizika i niske likvidnosti.",
+  "flags": [
+    "samo 1/2 dijela - suvlasništvo",
+    "oranica bez poznate građevinske namjene",
+    "potrebna suglasnost suvlasnika za svaki zahvat"
+  ],
+  "input_hash": "927732532e9a",
+  "scored_at": "2026-04-21T09:38:18.364370"
+}

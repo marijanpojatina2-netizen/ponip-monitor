@@ -1,0 +1,16 @@
+{
+  "id": "59267",
+  "score_overall": 2.5,
+  "score_lokacija": 3.5,
+  "score_roi": 3.0,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Mala oranica 1357m2 u Ivancu bez jasne razvojne namjene, vlasnik je d.o.o. što indicira korporativni stečaj s potencijalno kompleksnijim teretima; 20% popust na prvoj dražbi ne kompenzira slabe perspektive.",
+  "flags": [
+    "vlasnik pravna osoba (d.o.o.) - stečajni kontekst",
+    "oranica bez poznate građevinske namjene",
+    "niska kvadratura za komercijalnu agro-upotrebu"
+  ],
+  "input_hash": "15aa4fd95231",
+  "scored_at": "2026-04-21T09:38:18.365136"
+}

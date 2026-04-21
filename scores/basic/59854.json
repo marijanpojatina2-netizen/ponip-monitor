@@ -1,0 +1,17 @@
+{
+  "id": "59854",
+  "score_overall": 6.5,
+  "score_lokacija": 6.5,
+  "score_roi": 6.0,
+  "score_stanje": 4.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Potencijalno iznimno vrijedno razvojno zemljište — 26.000m2 na Radničkoj cesti u Zagrebu s procjenom 7M EUR, ali pašnjak klasifikacija i nužnost prenamjene su ključni upitnici; isključivo za kapitalno snažne investitore zbog jamčevine od 703k EUR.",
+  "flags": [
+    "pašnjak klasifikacija — potrebna prenamjena za gradnju",
+    "iznimno visoka jamčevina (703.590 EUR)",
+    "prva dražba, samo 25% popusta",
+    "razvojna neizvjesnost bez provjere UPU/GUP zoniranja"
+  ],
+  "input_hash": "02b11dd81f90",
+  "scored_at": "2026-04-21T07:48:22.605802"
+}

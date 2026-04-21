@@ -1,0 +1,17 @@
+{
+  "id": "58890",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 2.0,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Suvlasnički udio 1/12 (5. suvlasnički dio) u ruralnoj Podravskoj Moslavini bez suglasnosti ostalih 11 suvlasnika nema nikakvu praktičnu investicijsku vrijednost - ne možeš koristiti, iznajmiti ni prodati bez komplikacija. Samo 20% popust na 1. dražbi u depopulacijskoj Slavoniji ne nudi kompenzaciju za ovu razinu rizika.",
+  "flags": [
+    "suvlasnički udio 1/12 - bez kontrole imovine",
+    "potrebna suglasnost svih suvlasnika za bilo kakvu radnju",
+    "ruralno depopulacijsko područje - nulta likvidnost",
+    "1. dražba s minimalnim popustom"
+  ],
+  "input_hash": "f942ba714274",
+  "scored_at": "2026-04-21T07:57:39.593972"
+}

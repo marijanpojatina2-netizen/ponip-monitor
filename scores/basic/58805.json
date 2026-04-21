@@ -1,0 +1,15 @@
+{
+  "id": "58805",
+  "score_overall": 4.0,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Kuća 60 m2 s parcelom 566 m2 u Golom Vrhu (k.o. Jazbina-Lug, okolica Samobora) je ruralna lokacija s depopulacijskim trendom koja ne opravdava ulaganje ~63k EUR na prvoj dražbi s 20% popustom; likvidnost tržišta je niska a razvojna perspektiva ograničena.",
+  "flags": [
+    "ruralna lokacija Goli Vrh - depopulacijsko i slabo likvidno područje",
+    "mali objekt 60 m2 - ograničen prihodni potencijal"
+  ],
+  "input_hash": "994a61563864",
+  "scored_at": "2026-04-21T09:40:06.498284"
+}

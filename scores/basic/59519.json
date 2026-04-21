@@ -1,0 +1,16 @@
+{
+  "id": "59519",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Županja je jedno od najdepopulacijskijih gradova u RH s minimalnom tražnjom nekretnina; kuća s dvorištem 767m2 može biti solidna supstanca, ali tržišna likvidnost gotovo ne postoji niti uz 20% popust na prvoj dražbi.",
+  "flags": [
+    "depopulacijska zona - Županja/istočna Slavonija",
+    "minimalna tržišna likvidnost",
+    "nepoznato stanje objekta"
+  ],
+  "input_hash": "c81cf52bb7b9",
+  "scored_at": "2026-04-21T09:38:18.364547"
+}

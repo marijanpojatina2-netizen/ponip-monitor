@@ -1,0 +1,16 @@
+{
+  "id": "54128",
+  "score_overall": 3.5,
+  "score_lokacija": 5.0,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Suvlasnički udio 1/5 na 25 izrazito fragmentiranih čestica (pašnjaci, šume, oranice, vinogradi) oko Zadra čini upravljanje i izlaz iz vlasništva gotovo nemogućim. 20% popust na prvoj dražbi ne kompenzira strukturalnu kompleksnost i miniaturni efektivni udio na svakoj čestici.",
+  "flags": [
+    "suvlasnički udio 1/5 - izlaz iz vlasništva gotovo nemoguć",
+    "25 fragmentiranih čestica različitih namjena (šuma, pašnjak, oranica)",
+    "pretežito negraditeljsko, ruralno zemljište"
+  ],
+  "input_hash": "42c3a2a783c0",
+  "scored_at": "2026-04-21T09:42:34.051824"
+}

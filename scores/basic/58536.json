@@ -1,0 +1,15 @@
+{
+  "id": "58536",
+  "score_overall": 4.0,
+  "score_lokacija": 4.5,
+  "score_roi": 4.0,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Varaždin II oranica malog formata bez razvojnog potencijala i s popustom koji ne nadmašuje transakcijske troškove i rizik nelikvidnosti. Jedino opravdanje bi bio bundle s susjednim česticama, ali bez tog konteksta — ne prolazi.",
+  "flags": [
+    "Samo poljoprivredno zemljište",
+    "Mali popust (20%), prva dražba"
+  ],
+  "input_hash": "de73accae9d6",
+  "scored_at": "2026-04-21T07:55:31.075340"
+}

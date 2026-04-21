@@ -1,0 +1,15 @@
+{
+  "id": "58601",
+  "score_overall": 6.5,
+  "score_lokacija": 7.0,
+  "score_roi": 6.5,
+  "score_stanje": 5.5,
+  "recommendation": "bid",
+  "reasoning": "Stan 50 m2 u Crikvenici s 20% popustom na prvoj dražbi - kvarnerska turistička obala s dobrim potencijalom kratkoročnog najma (Airbnb sezona). Prizemlje i manji kvadrati donekle umanjuju vrijednost, ali Crikvenica ima stabilnu ljetnu potražnju i dobru prometnu povezanost.",
+  "flags": [
+    "prizemlje - manji potencijal za turistički najam",
+    "50 m2 - ograničen kapacitet za veće grupe"
+  ],
+  "input_hash": "0ddf464fd834",
+  "scored_at": "2026-04-21T09:30:25.416897"
+}

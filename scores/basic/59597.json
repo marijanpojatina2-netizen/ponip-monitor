@@ -1,0 +1,16 @@
+{
+  "id": "59597",
+  "score_overall": 6.5,
+  "score_lokacija": 7.5,
+  "score_roi": 5.5,
+  "score_stanje": 6.0,
+  "recommendation": "watch",
+  "reasoning": "Rogoznica je atraktivna turistička obalna lokacija s bazenom i dvorištem 317m2, ali predmet je samo dio nekretnine (soba i kupatilo) što drastično ograničava samostalnu upotrebljivost; popust od 20% na prvoj dražbi nije dovoljan za agresivniji ulaz.",
+  "flags": [
+    "dio nekretnine - samo soba i kupatilo kao stambeni dio",
+    "ograničena samostalna upotrebljivost bez ostatka kuće",
+    "suvlasnički odnos nerazjašnjen"
+  ],
+  "input_hash": "ad5d07265daa",
+  "scored_at": "2026-04-21T09:32:07.669991"
+}

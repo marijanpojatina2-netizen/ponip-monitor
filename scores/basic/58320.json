@@ -1,0 +1,16 @@
+{
+  "id": "58320",
+  "score_overall": 5.0,
+  "score_lokacija": 6.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Lokacija Vrapče Novo u Zagrebu i 40% popust na drugoj dražbi bili bi solidni, ali prodaja samo 1/2 suvlasničkog dijela stana od 57.74m2 praktički eliminira mogućnost samostalnog korištenja, najma ili preprodaje bez suglasnosti i suradnje drugog suvlasnika. Bez dogovora s drugim suvlasnikom ova nekretnina je investicijska zamka.",
+  "flags": [
+    "prodaje se samo 1/2 suvlasničkog dijela - ne cijeli stan",
+    "bez suglasnosti suvlasnika nema korištenja ni najma",
+    "visoka pravna kompleksnost - blokada izlazne strategije"
+  ],
+  "input_hash": "1df7928c9a01",
+  "scored_at": "2026-04-21T09:33:48.625990"
+}

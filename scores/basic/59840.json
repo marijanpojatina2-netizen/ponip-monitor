@@ -1,0 +1,16 @@
+{
+  "id": "59840",
+  "score_overall": 4.5,
+  "score_lokacija": 5.0,
+  "score_roi": 5.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Mala parcela oranice 239 m2 uz I. Kozari put u Zagrebu sama po sebi ograničenog investicijskog potencijala; ista katastarska grupe (zk.ul. 25211) kao i kuća na k.č. 7079/15 sugerira sinergijsku vrijednost ako se kupuje zajedno s Nekretninom 2 radi proširenja dvorišta. Bez te kombinacije i bez GUP provjere, nema jasnog investicijskog slučaja.",
+  "flags": [
+    "oranica status - provjera namjene",
+    "mala parcela - teška za samostalni razvoj",
+    "potencijalna sinergija s k.č. 7079/15 (ID 59836)"
+  ],
+  "input_hash": "04ba049417e6",
+  "scored_at": "2026-04-21T07:50:50.787414"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "59909",
+  "score_overall": 5.5,
+  "score_lokacija": 5.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Stan u periferiji Zagreba (Stenjevec/Samoborska cesta) s minimalnim 20% popustom na prvoj dražbi nudi osrednji ROI bez posebnih investicijskih prednosti; likvidnost za najam postoji ali nije atraktivna u usporedbi s centralnim zonama. Nedostatak detalja o stanju stana zahtijeva fizički uvid.",
+  "flags": [],
+  "input_hash": "381a8988e0ea",
+  "scored_at": "2026-04-21T07:50:50.786670"
+}

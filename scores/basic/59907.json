@@ -1,0 +1,16 @@
+{
+  "id": "59907",
+  "score_overall": 3.5,
+  "score_lokacija": 4.5,
+  "score_roi": 3.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Osijek prizemni stan s 20% popustom na prvoj dražbi ima ograničen investicijski potencijal; nejasno je prodaju li se sve suvlasničke čestice zajedno ili samo udjeli ovršenika što bitno utječe na ulaznu cijenu i operabilnost.",
+  "flags": [
+    "nejasna struktura prodaje - suvlasništvo 4 osobe (ovrhovoditelj + 3 ovršenika)",
+    "prizemlje - niža tržišna atraktivnost i vrijednost",
+    "Osijek/Slavonija - ograničena likvidnost stambenog tržišta"
+  ],
+  "input_hash": "01546fcff1f5",
+  "scored_at": "2026-04-21T07:54:05.150702"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "59747",
+  "score_overall": 3.5,
+  "score_lokacija": 3.0,
+  "score_roi": 3.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Ruralna lokacija u selu Sračinec kod Varaždina s ograničenom tržišnom likvidnošću i negativnim demografskim trendovima cijele regije; 20% popust na prvoj dražbi nije dovoljna premija za investicijsku kupnju na ovom tržištu. Prikladna isključivo za osobnu upotrebu ili specifičnog kupca s agrarnim interesima.",
+  "flags": [
+    "ruralna lokacija - ograničena likvidnost i manji bazen kupaca",
+    "depopulacijsko područje",
+    "1967 m2 oranice - ograničen agriculturni prinos"
+  ],
+  "input_hash": "2dbec57839d1",
+  "scored_at": "2026-04-21T07:50:50.787313"
+}

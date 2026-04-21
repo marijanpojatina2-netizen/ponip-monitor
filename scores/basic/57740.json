@@ -1,0 +1,16 @@
+{
+  "id": "57740",
+  "score_overall": 6.0,
+  "score_lokacija": 6.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Istarsko oraničko zemljište blizu Poreča s 40% popustom na drugoj dražbi — solidan entry point za agro/agroturizam strategiju ili dugoročno držanje dok se zona razvija. Bez građevinskog potencijala bez promjene namjene, što ostaje ključni nepoznat.",
+  "flags": [
+    "Poljoprivredno zemljište — ograničenja namjene",
+    "Potrebna provjera UPU-a i mogućnosti prenamjene",
+    "Nema infrastrukture ni objekta"
+  ],
+  "input_hash": "db4dfd7a601b",
+  "scored_at": "2026-04-21T07:55:31.074680"
+}

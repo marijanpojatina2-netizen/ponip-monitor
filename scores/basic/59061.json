@@ -1,0 +1,17 @@
+{
+  "id": "59061",
+  "score_overall": 3.0,
+  "score_lokacija": 3.0,
+  "score_roi": 3.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Ruralna lokacija Hrgovljani kod Bjelovara u depopulacijskoj zoni, oranica 4718m2 + stambena 91m2 + gospodarske zgrade, sve u suvlasništvu 1/2 - kombinacija slabe lokacije, niskog popusta (20%, prva dražba) i suvlasničke problematike čini ovo neinteresantnim za investicijsku analizu. Gospodarske zgrade imaju ograničenu preuporabu.",
+  "flags": [
+    "suvlasništvo ½ dijela - koordinacija s drugim suvlasnikom",
+    "ruralna depopulacijska zona - slaba likvidnost",
+    "gospodarske zgrade - ograničena preuporaba",
+    "prva dražba s minimalnim popustom"
+  ],
+  "input_hash": "70c04cec4642",
+  "scored_at": "2026-04-21T09:33:48.626107"
+}

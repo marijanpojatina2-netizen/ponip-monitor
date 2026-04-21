@@ -1,0 +1,16 @@
+{
+  "id": "55028",
+  "score_overall": 5.0,
+  "score_lokacija": 5.5,
+  "score_roi": 7.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Četvrta dražba s početnom cijenom 1 EUR i 100% popustom na procjenu iznimno je atraktivna cijenovna točka, no 97m2 oranice u urbanoj zoni Varaždina nosi neizvjesnost oko gradivnosti i mogućnosti prenamjene. Varaždin je stabilan grad s likvidnim tržištem, ali parcela je premala za samostalan razvoj bez susjednih čestica.",
+  "flags": [
+    "oranica u urbanoj zoni - nejasna gradivnost bez uvida u GUP",
+    "mali parcela 97m2 - samostalna iskoristivost ograničena",
+    "4. dražba - istražiti razlog višestrukog prolaska"
+  ],
+  "input_hash": "deea63b88478",
+  "scored_at": "2026-04-21T07:57:39.593750"
+}

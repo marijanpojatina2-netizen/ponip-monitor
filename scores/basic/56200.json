@@ -1,0 +1,15 @@
+{
+  "id": "56200",
+  "score_overall": 4.5,
+  "score_lokacija": 5.0,
+  "score_roi": 5.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Zemljište 1743 m2 u k.o. Crno blizu Zadra ima lokacijsku prednost zalezalnog pojasa ali ne i obalnog premijuma; 20% popust na prvoj dražbi je minimalni prag uz otegotni 1/2 suvlasnički udio koji efektivno smanjuje ROI i komplicira raspolaganje.",
+  "flags": [
+    "1/2 suvlasnički dio - otežana prodaja i raspolaganje",
+    "samo zemljište bez objekta - OPEX bez prihoda do gradnje"
+  ],
+  "input_hash": "34c6c7abf3e8",
+  "scored_at": "2026-04-21T09:40:06.497034"
+}

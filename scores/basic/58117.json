@@ -1,0 +1,16 @@
+{
+  "id": "58117",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 2.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Isti profil kao ID 58119 — Vinkovci, suvlasništvo 1/5 na slabijoj slavonskoj lokaciji s malim popustom i niskim apsolutnim iznosom koji ne kompenzira pravnu kompleksnost. Izbjegavati.",
+  "flags": [
+    "Suvlasništvo 1/5 — kupuje se samo udio",
+    "Vinkovci/Slavonija — depopulacija i slaba likvidnost",
+    "Pravna kompleksnost suvlasništva bez jasnog izlaza"
+  ],
+  "input_hash": "61fe39a9c8f7",
+  "scored_at": "2026-04-21T07:55:31.075237"
+}

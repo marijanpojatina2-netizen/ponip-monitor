@@ -1,0 +1,16 @@
+{
+  "id": "57116",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 4.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica 8.521m2 u ruralnoj Slavoniji (Črnec Rugivački) s depopulacijom i minimalnom tržišnom likvidnošću — čak ni 75% popusta na trećoj dražbi ne čini ovo atraktivnim za investitora orijentiranog na povrat kapitalnog ulaganja.",
+  "flags": [
+    "Slavonija — depopulacijsko područje, slaba likvidnost",
+    "isključivo poljoprivredno zemljište bez razvojnog potencijala",
+    "treća dražba — dugotrajni neuspjeh prodaje signalizira strukturni problem"
+  ],
+  "input_hash": "a33a96ab377d",
+  "scored_at": "2026-04-21T07:48:22.606363"
+}

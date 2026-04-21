@@ -1,0 +1,16 @@
+{
+  "id": "55024",
+  "score_overall": 5.5,
+  "score_lokacija": 5.5,
+  "score_roi": 7.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Dravska ulica u Varaždinu je potencijalno atraktivnija lokacija uz riječni koridor, a 81m2 s dvorištem i 24m2 zemljišta pod zgradama na 4. dražbi za 1 EUR opravdava kratki due diligence. Stanje i namjena su nepoznanice, ali ulazna cijena gotovo eliminira kapitalnu ekspoziciju.",
+  "flags": [
+    "mali parcela 81m2 - provjeri pristup i mogućnost konsolidacije",
+    "provjeri status zgrade na 'zemljištu pod zgradama'",
+    "4. dražba - provjeri razlog prolaska i moguće terete"
+  ],
+  "input_hash": "587fb9aaa27e",
+  "scored_at": "2026-04-21T07:57:39.594299"
+}

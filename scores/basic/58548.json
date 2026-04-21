@@ -1,0 +1,16 @@
+{
+  "id": "58548",
+  "score_overall": 3.5,
+  "score_lokacija": 4.5,
+  "score_roi": 3.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica bez objekta u varaždinskoj okolici - tek 20% popust na prvoj dražbi bez ikakve potvrde prenamjenskog potencijala. Niska likvidnost, dugi investicijski horizont i neizvjestan ishod čine ovu parcelu neinteresantnom za tipičnog investitora.",
+  "flags": [
+    "poljoprivredno zemljište bez objekta",
+    "nema potvrde o mogućnosti prenamjene",
+    "prva dražba - slaba pregovaračka pozicija"
+  ],
+  "input_hash": "6610bbc700cd",
+  "scored_at": "2026-04-21T07:59:11.401350"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "59489",
+  "score_overall": 6.0,
+  "score_lokacija": 6.5,
+  "score_roi": 8.0,
+  "score_stanje": 3.0,
+  "recommendation": "deep_dive",
+  "reasoning": "50% popust na drugoj dražbi uz 3987m2 uz Jezero Rakitje na rubu Zagreba je iznimno atraktivna kombinacija za potencijalnu razvoj ili dugoročni land banking, a vrijednost od ~10.66 EUR/m2 sugerira da postoji ili pravna teškoća ili neprepoznati potencijal. Kritično je hitno provjeriti namjenu u GUP-u/UPU-u i eventualne vodopravne/ekološke zaštite uz jezero.",
+  "flags": [
+    "oranica - provjeri namjenu (GUP/UPU Lučko)",
+    "moguća ograničenja gradnje uz vodnu površinu jezera",
+    "nekonzistentnost čestica u opisu (kč.br. 4434 vs kč.br. 296) - provjeri izvadak"
+  ],
+  "input_hash": "39ca0e3e30a7",
+  "scored_at": "2026-04-21T09:33:48.625704"
+}

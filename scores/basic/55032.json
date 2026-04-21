@@ -1,0 +1,16 @@
+{
+  "id": "55032",
+  "score_overall": 5.5,
+  "score_lokacija": 5.5,
+  "score_roi": 8.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Najzanimljivija od varaždinskih stečajnih parcela - 90m2 s dvorištem i 23m2 zemljišta pod zgradama u Šibenskoj ulici sugerira postojeću ili nekadašnju strukturu, što otvara mogućnost konsolidacije s okolnim česticama. Početna cijena 1 EUR na 4. dražbi praktički eliminira financijski rizik ulaska.",
+  "flags": [
+    "mali parcela 90m2 - provjeri fizičko stanje strukture na 'zemljištu pod zgradama'",
+    "zgrada može biti u vlasništvu treće strane - provjeri zk izvadak",
+    "potrebna provjera GUP namjene i pristupa"
+  ],
+  "input_hash": "b72164e4efd8",
+  "scored_at": "2026-04-21T07:57:39.594089"
+}

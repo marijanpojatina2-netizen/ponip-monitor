@@ -1,0 +1,17 @@
+{
+  "id": "56851",
+  "score_overall": 6.5,
+  "score_lokacija": 7.5,
+  "score_roi": 7.5,
+  "score_stanje": 3.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Tri parcele pašnjaka u Vodicama (popularno dalmatinsko turističko odredište) na trećoj dražbi s 75% popustom — ulazna cijena 54k EUR za ~2.440m2 blizu mora nudi izvanredan potencijal ako UPU zoniranje dopušta razvoj.",
+  "flags": [
+    "pašnjak klasifikacija — neophodna provjera UPU/DPU zoniranja",
+    "3 odvojene katastarske čestice u 3 zk ulošca — kompleksnost objedinjavanja",
+    "treća dražba — istražiti razloge dvaju neuspjelih pokušaja",
+    "moguća opterećenja ili nedefinirani pristup parcelama"
+  ],
+  "input_hash": "c9ff15992535",
+  "scored_at": "2026-04-21T07:48:22.606504"
+}

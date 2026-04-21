@@ -1,0 +1,16 @@
+{
+  "id": "55040",
+  "score_overall": 5.0,
+  "score_lokacija": 5.5,
+  "score_roi": 7.5,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "83m2 mješovite parcele (nerazvrstano poljoprivredno + zemlja pod zgradama) u Zadarskoj ulici Varaždina nudi potencijal ako postoji zgrada koja se može aktivirati, ali 'nerazvrstano poljoprivredno zemljište' u urbanom kontekstu signal je za dodatnu provjeru namjene u GUP-u. Četvrta dražba i simbolična cijena opravdavaju minimalno istraživanje.",
+  "flags": [
+    "nerazvrstano poljoprivredno zemljište - ograničena namjena bez prenamjene",
+    "'zemlja pod zgradama' - provjeri vlasničku strukturu zgrade",
+    "mali parcela 83m2"
+  ],
+  "input_hash": "a698787a2eda",
+  "scored_at": "2026-04-21T07:57:39.594196"
+}

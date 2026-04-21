@@ -1,0 +1,16 @@
+{
+  "id": "59611",
+  "score_overall": 3.0,
+  "score_lokacija": 6.5,
+  "score_roi": 2.0,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica 91 m2 na Rabu je najslabiji predmet od tri Rab parcele - lokacija otoka ne kompenzira minimalnu površinu oranice bez ikakvog razvojnog potencijala uz svega 20% ulaznog popusta na prvoj dražbi.",
+  "flags": [
+    "oranica - nije građevno zemljište",
+    "91 m2 apsolutni minimum - bez razvojnog potencijala",
+    "isti zk.ul. 1633 kao 59613 - parcele su susjedne ali zajedno i dalje premale"
+  ],
+  "input_hash": "73c12589b342",
+  "scored_at": "2026-04-21T07:54:05.151447"
+}

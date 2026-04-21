@@ -1,0 +1,16 @@
+{
+  "id": "57738",
+  "score_overall": 6.0,
+  "score_lokacija": 6.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Gotovo identična čestica susjedna ID 57740 u istoj k.o. Kaštelir-Labinci — logičan bundle s prvom nekretninom za zaokruživanje veće parcele u Istri. Isti rizici prenamjene, ali sinergija s ID 57740 podiže ukupni investicijski slučaj.",
+  "flags": [
+    "Poljoprivredno zemljište — ograničenja namjene",
+    "Vrijednost ovisi o mogućnosti bundle-a s ID 57740",
+    "Nema infrastrukture ni objekta"
+  ],
+  "input_hash": "d87592c2848b",
+  "scored_at": "2026-04-21T07:55:31.074898"
+}

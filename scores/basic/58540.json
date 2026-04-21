@@ -1,0 +1,16 @@
+{
+  "id": "58540",
+  "score_overall": 3.0,
+  "score_lokacija": 4.5,
+  "score_roi": 3.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "1876m2 oranice Vuščak u k.o. Varaždin II s procjenom 1580 EUR (0.84 EUR/m2) isti je pattern kao ID 58546 - isključivo poljoprivredna namjena, minimalni popust na prvoj dražbi, bez investicijskog potencijala za nekretninski investor. Eventualno zanimljivo kao dopuna portfelju obližnjih parcela.",
+  "flags": [
+    "čista oranica - stroga poljoprivredna namjena",
+    "1. dražba, 20% popust - nedovoljno za kompenzaciju nelikvidnosti",
+    "nizak EUR/m2 indikator ograničene lokacije"
+  ],
+  "input_hash": "9a91679a08b6",
+  "scored_at": "2026-04-21T07:57:39.594557"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "59815",
+  "score_overall": 4.5,
+  "score_lokacija": 5.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Senj ima turistički potencijal na Kvarneru, ali ovo je neizgrađeni pašnjak u nagibu s tek 20% popusta na prvoj dražbi – agrarna namjena zemljišta vjerovatno blokira gradnju bez skupog prenamjenskog postupka. Vrijednost ovisi isključivo o mogućnosti ishođenja građevinske dozvole.",
+  "flags": [
+    "pašnjak - agrarno zoniranje, građevinska prava neizvjesna",
+    "neizgrađeno i neograđeno - bez ikakve infrastrukture",
+    "nagib terena prema moru - kompliciranija gradnja i pristup"
+  ],
+  "input_hash": "f646c7204a52",
+  "scored_at": "2026-04-21T09:28:34.200703"
+}

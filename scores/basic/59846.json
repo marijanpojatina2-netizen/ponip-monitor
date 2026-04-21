@@ -1,0 +1,16 @@
+{
+  "id": "59846",
+  "score_overall": 2.5,
+  "score_lokacija": 4.5,
+  "score_roi": 1.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Katastarsko obilježje 'PUT' označava prometnicu - pravno i praktički nemoguće za uobičajenu investicijsku izgradnju ili prihod; vrijednost postoji jedino ako je kupnja neophodna za osiguranje pristupa susjednoj razvojnoj parceli (k.č. 7073/11). Samostalna investicija bez jasne razvojne strategije nema smisla.",
+  "flags": [
+    "PUT (prometnica) - nije gradivo",
+    "zakonske komplikacije pri bilo kakvoj prenamjeni",
+    "vrijednost jedino u sinergiji s parcelom k.č. 7073/11 (ID 59848)"
+  ],
+  "input_hash": "ef057d2ee894",
+  "scored_at": "2026-04-21T07:50:50.787548"
+}

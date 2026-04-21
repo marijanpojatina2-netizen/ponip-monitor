@@ -1,0 +1,15 @@
+{
+  "id": "58900",
+  "score_overall": 4.5,
+  "score_lokacija": 4.0,
+  "score_roi": 5.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Stečajna nekretnina 400 m² (kuća + zgrada + dvorište) u Donjoj Pačetini s 25% popusta na prvoj dražbi nudi solidniji popust, ali Zagorje regija ima ograničenu likvidnost i bez podataka o stanju objekta rizik renovacije je neprocijenjen. Vrijedi pogledati, ali samo ako je cijena znatno ispod tržišne za taj mikrolokalitet.",
+  "flags": [
+    "stečaj - stanje objekta nepoznato, moguće zapuštenje",
+    "ruralno Zagorje ~45 km od Zagreba - ograničena potražnja za preprodaju"
+  ],
+  "input_hash": "8bf14e9e82ca",
+  "scored_at": "2026-04-21T09:28:34.202021"
+}

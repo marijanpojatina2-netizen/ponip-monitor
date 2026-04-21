@@ -1,0 +1,16 @@
+{
+  "id": "59500",
+  "score_overall": 7.5,
+  "score_lokacija": 8.5,
+  "score_roi": 7.5,
+  "score_stanje": 5.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Kuća 74 m2 s dvorištem 267 m2 na Velom Lošinju - premium otočna turistička destinacija s visokim potencijalom kratkoročnog najma i 20% popustom na prvoj dražbi. Vlastita kuća s dvorištem na cijenjenom otoku rijedak je nalaz u ovom cjenovnom rangu i zaslužuje hitnu terenska inspekciju.",
+  "flags": [
+    "stanje kuće nepoznato - obvezna fizička inspekcija prije licitacije",
+    "otočna logistika - skuplja renovacija (transport materijala, majstori)",
+    "Kaciol 37 - provjeriti pristupačnost i parking"
+  ],
+  "input_hash": "8906067f1c07",
+  "scored_at": "2026-04-21T09:30:25.417053"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "59801",
+  "score_overall": 2.5,
+  "score_lokacija": 4.0,
+  "score_roi": 2.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Kupovina 1/8 suvlasničkog dijela kuće u Sračincu je praktički beskorisna bez suradnje preostalih 7/8 vlasnika; bez kontrole nad nekretninom i bez mogućnosti samostalnog korištenja nema investicijskog case-a bez obzira na lokaciju.",
+  "flags": [
+    "samo 1/8 suvlasničkog dijela - neoperabilno bez ostalih suvlasnika",
+    "bez kontrole i bez prava samostalnog korištenja",
+    "nema realne exit strategije osim prodaje istom suvlasniku"
+  ],
+  "input_hash": "cabab4ea3b66",
+  "scored_at": "2026-04-21T07:54:05.151033"
+}

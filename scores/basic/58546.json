@@ -1,0 +1,16 @@
+{
+  "id": "58546",
+  "score_overall": 3.5,
+  "score_lokacija": 4.5,
+  "score_roi": 4.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "2547m2 oranice u k.o. Varaždin II procijenjeno na svega 2150 EUR (0.84 EUR/m2) jasno govori da je ovo čisto poljoprivredno zemljište bez realnih izgleda za prenamjenu u kratkom roku. Uz samo 20% popusta na prvoj dražbi, risk-reward omjer ne opravdava investiciju.",
+  "flags": [
+    "čista oranica - bez građevinskog potencijala bez promjene namjene u GUP-u",
+    "1. dražba s minimalnim popustom 20%",
+    "0.84 EUR/m2 - indikator nekvalitetne lokacije ili ograničene namjene"
+  ],
+  "input_hash": "a5ffc2f787e8",
+  "scored_at": "2026-04-21T07:57:39.594399"
+}

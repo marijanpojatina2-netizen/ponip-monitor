@@ -1,0 +1,17 @@
+{
+  "id": "58119",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 2.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Slavonija (Vinkovci) — depopulacijsko i niskopotražno područje s minimalnim prometom nekretninama; suvlasništvo 1/5 čini ulaz pravno kompliciranim i otežava svaku buduću prodaju ili razvoj. Samo 20% popust na prvoj dražbi ne opravdava exposure.",
+  "flags": [
+    "Suvlasništvo 1/5 — kupuje se samo udio, ostali suvlasnici nepoznati",
+    "Vinkovci/Slavonija — depopulacija i slaba likvidnost",
+    "Prva dražba — nema daljnjeg cjenovnog pritiska",
+    "Prodaja udjela u budućnosti ekstremno otežana"
+  ],
+  "input_hash": "0a583c6b27e9",
+  "scored_at": "2026-04-21T07:55:31.075011"
+}

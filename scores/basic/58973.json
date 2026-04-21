@@ -1,0 +1,17 @@
+{
+  "id": "58973",
+  "score_overall": 5.5,
+  "score_lokacija": 7.5,
+  "score_roi": 5.0,
+  "score_stanje": 6.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Jedini predmet u skupini s realnim turističkim rentnim potencijalom - stambeni objekt s bazenom i maslinjakom u Vodicama je iznimno atraktivan asset, ali 7/40 suvlasništva zahtijeva detaljnu pravnu analizu mogućnosti upravljanja i postoji li konkretan put do konsolidacije vlasništva.",
+  "flags": [
+    "7/40 suvlasništva (17.5%) - ograničeno upravljanje i pravo raspolaganja",
+    "neke parcele izvan građevinskog područja - ograničenja korištenja",
+    "višestruke k.č. s različitim suvlasničkim kvotama - kompleksna pravna struktura",
+    "stalna služba Knin umjesto Šibenik - logistika i dostupnost spisa"
+  ],
+  "input_hash": "2b1ebea3e64f",
+  "scored_at": "2026-04-21T07:54:05.151600"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "56014",
+  "score_overall": 8.5,
+  "score_lokacija": 9.0,
+  "score_roi": 9.5,
+  "score_stanje": 6.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Rovinj je premium turistička destinacija s visokom likvidnošću, a popust od 75% na trećoj dražbi znači ulaz na 20.752 EUR za 116 m2 garažnog/skladišnog prostora - parking u Rovinju je deficitaran i dobro se monetizira. Potrebna dubinska pravna provjera zbog parcijalnog suvlasništva 4/8 i razloga tri neuspjele dražbe.",
+  "flags": [
+    "suvlasnički dio 4/8 - potrebna suglasnost ili otkup drugog udjela",
+    "garažna mjesta/spremišta - nije stambeno niti direktno najmodavno",
+    "treća dražba - ispitati razlog ranijih neuspjeha"
+  ],
+  "input_hash": "efdcbbcd77d9",
+  "scored_at": "2026-04-21T09:36:35.394564"
+}

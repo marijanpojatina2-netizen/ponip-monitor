@@ -1,0 +1,16 @@
+{
+  "id": "58052",
+  "score_overall": 4.0,
+  "score_lokacija": 3.5,
+  "score_roi": 5.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Popust od 40% na drugoj dražbi je jedina privlačna stavka, no Peklenica je malo ruralno naselje u Međimurju s ograničenom likvidnošću i slabim razvojnim potencijalom. Kuća od 67m2 na selu s tri suvlasnika u 1/3 udjela nosi pravnu i praktičnu kompleksnost koja nadmašuje potencijalnu korist.",
+  "flags": [
+    "suvlasništvo 1/3 - tri ovršenika (koordinacija/otkup)",
+    "ruralna lokacija - slaba likvidnost",
+    "kuća u selu - vjerojatno zahtijeva renoviranje"
+  ],
+  "input_hash": "d4b87bce818a",
+  "scored_at": "2026-04-21T09:33:48.625589"
+}

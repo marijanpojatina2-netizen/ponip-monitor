@@ -1,0 +1,16 @@
+{
+  "id": "59173",
+  "score_overall": 5.0,
+  "score_lokacija": 5.5,
+  "score_roi": 5.0,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Metković je dalmatinski tranzitni grad bez snažnog turističkog pozicioniranja, a 20% popust na prvoj dražbi je minimum uz kompleks koji sadrži tri odvojene strukture čije stanje nije pojediněčno opisano. Ukupna tlocrtna masa (265m2) na parceli nosi razvојни potencijal, ali zahtijeva teren provjeru svakog objekta.",
+  "flags": [
+    "prva dražba - samo 20% popust, bez dražbenog bonusa",
+    "više objekata na parceli - nejasno individualno stanje svake strukture",
+    "Metković - slabija turistička potražnja naspram obalne Dalmacije"
+  ],
+  "input_hash": "c9be9288fc57",
+  "scored_at": "2026-04-21T09:45:43.059020"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "59817",
+  "score_overall": 5.5,
+  "score_lokacija": 5.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Dvosobni stan 58.93m2 u Gornjem Stenjevcu, Zagreb — solidan stambeni standard s potencijalom za dugoročni najam, ali 20% popusta na prvoj dražbi u manje traženoj zapadnoj periferiji ostavlja skromnu sigurnosnu maržu.",
+  "flags": [
+    "Gornji Stenjevec — periferija, slabija potražnja od centra/istoka Zagreba",
+    "prva dražba, samo 20% popusta",
+    "provjera stanja stana i eventualnih komunalnih dugova"
+  ],
+  "input_hash": "6efc163a78a9",
+  "scored_at": "2026-04-21T07:48:22.606745"
+}

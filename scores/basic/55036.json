@@ -1,0 +1,18 @@
+{
+  "id": "55036",
+  "score_overall": 3.0,
+  "score_lokacija": 5.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Četvrta dražba s početnom cijenom 1 EUR zvuči atraktivno ali nazvana 'DJEČJE IGRALIŠTE' — gotovo sigurno ima komunalnu/javnu namjenu u GUP-u što onemogućava prenamjenu i razvoj; 103 m² suviše malo za ikakav samostalan projekt. Tržište je četiri puta reklo ne.",
+  "flags": [
+    "DJEČJE IGRALIŠTE — komunalna/javna namjena, prenamjena praktički nemoguća",
+    "103 m² — premala parcela za razvoj",
+    "Stečajni postupak — dodatna pravna kompleksnost",
+    "Četiri neuspješne dražbe — jak signal tržišta",
+    "Visoka jamčevina (401 EUR) relativno na početnu cijenu (1 EUR)"
+  ],
+  "input_hash": "27a2dd09c45f",
+  "scored_at": "2026-04-21T07:55:31.075448"
+}

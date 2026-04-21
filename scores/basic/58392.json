@@ -1,0 +1,16 @@
+{
+  "id": "58392",
+  "score_overall": 2.5,
+  "score_lokacija": 5.5,
+  "score_roi": 2.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Predmet prodaje su parking mjesto P5 (3.21 m2) i spremište SP5 (3.24 m2) kao etažna vlasništva u Sesvetama - ukupno ~6.5 m2 za početnu cijenu 62.400 EUR, što je ~9.600 EUR/m2 za sekundarni sadržaj na periferiji Zagreba. Investicijski slučaj ne postoji.",
+  "flags": [
+    "predmet je parking (3.21 m2) + spremište (3.24 m2) = ~6.5 m2 ukupno",
+    "cijena ~9.600 EUR/m2 za parking/skladište u Sesvetama - nesrazmjerna",
+    "1/2 etažnog vlasništva za svaki od udjela - fragmentirano"
+  ],
+  "input_hash": "7bbbb8b4af93",
+  "scored_at": "2026-04-21T09:42:34.052296"
+}

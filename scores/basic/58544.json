@@ -1,0 +1,16 @@
+{
+  "id": "58544",
+  "score_overall": 3.0,
+  "score_lokacija": 4.5,
+  "score_roi": 3.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "1724m2 oranice Čez Vuščak u neposrednoj blizini ID 58540 s praktički identičnim karakteristikama (0.84 EUR/m2, 1. dražba, 20% popust) - vrijedi isti zaključak. Jedini scenarij gdje ovo ima smisla je ako investitor već posjeduje susjedne parcele i traži konsolidaciju.",
+  "flags": [
+    "čista oranica - bez razvojnog potencijala",
+    "1. dražba, minimalni popust",
+    "nizak EUR/m2 sugerira perifernu lokaciju bez razvoja"
+  ],
+  "input_hash": "7c7c74b6c8af",
+  "scored_at": "2026-04-21T07:57:39.594675"
+}

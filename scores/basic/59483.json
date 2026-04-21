@@ -1,0 +1,15 @@
+{
+  "id": "59483",
+  "score_overall": 5.0,
+  "score_lokacija": 5.5,
+  "score_roi": 5.5,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Stan 58 m2 u Sesvetama (Zagreb istok) ima prihvatljivu lokaciju i 20% popust, ali upis u knjigu položenih ugovora umjesto ZK registra nosi stvarnopravni rizik i potencijalno otežan prepis vlasništva; suvlasnička struktura s ovrhovoditeljem na 1/3 dodaje nejasnoću.",
+  "flags": [
+    "knjiga položenih ugovora - nije ZK upis, moguće komplikacije prijenosa vlasništva",
+    "ovrhovoditelj suvlasnik 1/3 - netipična struktura"
+  ],
+  "input_hash": "edd3364374e3",
+  "scored_at": "2026-04-21T09:40:06.497254"
+}

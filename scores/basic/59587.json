@@ -1,0 +1,15 @@
+{
+  "id": "59587",
+  "score_overall": 4.5,
+  "score_lokacija": 4.5,
+  "score_roi": 5.0,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Stojna kuća 170 m2 u Dicmo-Kraj (zaleđe Splita, ~25 km od obale) nudi solidnu kvadraturu s 20% popustom, ali 'suvlasnički dio s neodređenim omjerom' je ozbiljna pravna neizvjesnost koja može blokirati promet nekretninom; bez razrješenja omjera prodaja ili rekonstrukcija je upitna.",
+  "flags": [
+    "suvlasnički dio s neodređenim omjerom - ozbiljna pravna neizvjesnost, moguća blokada prometa",
+    "etažno vlasništvo E-2 - potrebna provjera etažnog elaborata i suvlasničkih odnosa"
+  ],
+  "input_hash": "723731c62f8e",
+  "scored_at": "2026-04-21T09:40:06.498430"
+}

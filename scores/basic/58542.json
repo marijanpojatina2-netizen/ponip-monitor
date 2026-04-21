@@ -1,0 +1,16 @@
+{
+  "id": "58542",
+  "score_overall": 3.5,
+  "score_lokacija": 4.5,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Manja oranica identičnog profila kao 58548 - 20% popust na prvoj dražbi, bez objekta i bez jasne teze. Manja površina dodatno limitira opcije (development, agro-zakup) i smanjuje pregovaračku moć.",
+  "flags": [
+    "poljoprivredno zemljište bez objekta",
+    "mala parcela - limitirane investicijske opcije",
+    "prva dražba"
+  ],
+  "input_hash": "e676a020ce2b",
+  "scored_at": "2026-04-21T07:59:11.401612"
+}

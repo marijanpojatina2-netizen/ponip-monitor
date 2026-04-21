@@ -1,0 +1,16 @@
+{
+  "id": "57944",
+  "score_overall": 4.0,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
+  "score_stanje": 2.5,
+  "recommendation": "watch",
+  "reasoning": "Druga dražba s 40% popustom je financijski atraktivna, ali nedovršena vikend kuća u ruralnoj Plešivičkoj Reci ima ograničen exit i slabu likvidnost tržišta. Troškovi dovršetka gradnje su nepoznati i mogu lako pojesti papirni popust.",
+  "flags": [
+    "nedovršena gradnja - nepoznati troškovi dovršetka",
+    "ruralno područje - ograničena likvidnost",
+    "vikend zona - sezonska i uska tražnja"
+  ],
+  "input_hash": "42162a19c6b9",
+  "scored_at": "2026-04-21T09:45:43.058605"
+}

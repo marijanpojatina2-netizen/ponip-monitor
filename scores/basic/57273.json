@@ -1,0 +1,17 @@
+{
+  "id": "57273",
+  "score_overall": 4.5,
+  "score_lokacija": 3.0,
+  "score_roi": 5.5,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Popust od 50% na drugoj dražbi je iznimno atraktivan parametar, ali Slavonski Brod ima strukturno slabu potražnju za poslovnim prostorima i suvlasništvo dodatno komplicira upravljanje i izlaz; vrijedi pratiti ako cijena padne ili postoji konkretni zakupac.",
+  "flags": [
+    "suvlasništvo - otežano raspolaganje i odlučivanje",
+    "Slavonski Brod - slaba likvidnost poslovnih prostora",
+    "poslovni prostor u stambenom bloku - ograničena namjena",
+    "potrebno provjeriti postoji li aktivni zakupac"
+  ],
+  "input_hash": "0f363cff4853",
+  "scored_at": "2026-04-21T09:32:07.671271"
+}

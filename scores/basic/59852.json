@@ -1,0 +1,15 @@
+{
+  "id": "59852",
+  "score_overall": 6.5,
+  "score_lokacija": 7.0,
+  "score_roi": 7.0,
+  "score_stanje": 4.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Parcela 430 m2 uz Radničku cestu - primarne poslovne osi Zagreba - s 25% popustom može imati iznimnu razvojnu vrijednost; ako GUP dopušta poslovnu ili mješovitu gradnju, cijena od 204 EUR/m2 drastično je ispod tržišnog potencijala. Obvezna hitna provjera GUP namjene i koeficijenta izgradivosti.",
+  "flags": [
+    "oranica - kritična provjera GUP namjene (K1/K2/mješovita?)",
+    "bez izgrađenog objekta - čisto razvojno/spekulativna investicija"
+  ],
+  "input_hash": "f908f3c03eea",
+  "scored_at": "2026-04-21T07:50:50.787212"
+}

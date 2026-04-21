@@ -1,0 +1,16 @@
+{
+  "id": "59613",
+  "score_overall": 3.5,
+  "score_lokacija": 7.0,
+  "score_roi": 2.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Identičan profil rizika kao 59838 - pašnjak 135 m2 na Rabu s minimalnim popustom; jedina spekulativna strategija bila bi konsolidacija s 59838 i 59611 ali i tada bez realnog razvojnog potencijala u kratkom roku.",
+  "flags": [
+    "pašnjak - nije građevno zemljište",
+    "susjedna čestica česticama 59611 u istom zk.ul. 1633 - moguća konsolidacija ali i dalje premalo",
+    "20% popust na prvoj dražbi nedovoljan za ovakav tip imovine"
+  ],
+  "input_hash": "74b9ff6cff26",
+  "scored_at": "2026-04-21T07:54:05.151346"
+}

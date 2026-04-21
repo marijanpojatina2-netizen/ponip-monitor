@@ -1,0 +1,16 @@
+{
+  "id": "58121",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Oranica 2.77 ha u cijelosti vlasništva ovršenika u okolici Vinkovaca je transakcijski jednostavna, ali lokacija u depopulacijskoj Slavoniji uz cijenu ~1.2 EUR/m2 bez značajnog popusta na prvoj dražbi čini je investicijski neatraktivnom.",
+  "flags": [
+    "Slavonija depopulacijska zona - negativni demografski trend",
+    "cijena blizu tržišne vrijednosti slavonske oranice bez ulazne premije",
+    "niska likvidnost i ograničeni exit kanali za oranicu u regiji"
+  ],
+  "input_hash": "4abd74c46354",
+  "scored_at": "2026-04-21T07:54:05.151705"
+}

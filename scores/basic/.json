@@ -1,17 +1,17 @@
 {
   "id": "",
-  "score_overall": 5.0,
-  "score_lokacija": 7.0,
+  "score_overall": 5.5,
+  "score_lokacija": 7.5,
   "score_roi": 4.5,
-  "score_stanje": 3.5,
+  "score_stanje": 5.5,
   "recommendation": "watch",
-  "reasoning": "Identično s Nekretninom 3 (isti zk.ul., ista k.č.br., iste vrijednosti) - vjerojatno duplikat unosa ili drugi suvlasnički udio iste čestice. Sve napomene i ocjene iz Nekretnine 3 se primjenjuju.",
+  "reasoning": "Poslovni prostor 27.58m2 u prizemlju Starog Grada Omiša (predio Punta) ima izvrsnu turističku mikrolokaciju za ugostiteljstvo ili retail uz snažnu ljetnu sezonu, no 10% jamčevina sugerira prodaju bez discounta a veličina prostora usko ograničava poslovne modele. Stečajni postupak Trg. suda zahtijeva pravnu provjeru eventualnih tereta.",
   "flags": [
-    "DUPLIKAT - identično s ID 59761 (isti zk.ul. 1525, k.č.br. 3419/4, iste vrijednosti)",
-    "suvlasnički dio 240/480 - provjeri je li isti ili drugi dio",
-    "livada bez objekta",
-    "nejasna građevinska namjena"
+    "nepoznata početna cijena i faza dražbe",
+    "vrsta 'imovina' - stečajni postupak, moguće nenamirene obveze",
+    "svega 27.58m2 - uski tržišni segment, ograničena fleksibilnost namjene",
+    "nema ID"
   ],
-  "input_hash": "4e600316afaf",
-  "scored_at": "2026-04-20T14:21:59.237989"
+  "input_hash": "92792871a188",
+  "scored_at": "2026-04-21T09:45:43.060610"
 }

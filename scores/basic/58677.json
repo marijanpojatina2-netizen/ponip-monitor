@@ -1,0 +1,16 @@
+{
+  "id": "58677",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Oranica kod Vinkovaca (Slavonija) s udjelom 1111/10000 - čak i uz ukupnu površinu od 54 ha, suvlasnički udio čini isplatu i izlaz iz zajedničkog vlasništva složenim, a depopulacijska zona Vinkovci nudi minimalnu likvidnost. Nema turističkog ni razvojnog potencijala.",
+  "flags": [
+    "suvlasništvo 1111/10000 - izlaz iz zajedničkog vlasništva složen",
+    "isključivo oranica bez ikakve građevinske vrijednosti",
+    "depopulacijska zona Vinkovci/istočna Slavonija"
+  ],
+  "input_hash": "af2d1e4a9e62",
+  "scored_at": "2026-04-21T09:42:34.052420"
+}

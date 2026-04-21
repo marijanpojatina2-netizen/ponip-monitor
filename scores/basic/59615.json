@@ -1,0 +1,17 @@
+{
+  "id": "59615",
+  "score_overall": 6.5,
+  "score_lokacija": 8.0,
+  "score_roi": 5.5,
+  "score_stanje": 6.0,
+  "recommendation": "watch",
+  "reasoning": "Potkrovni stan s 3 spavaće sobe, balkonom i solarijumom na otoku Rabu izvrsna je baza za turistički najam, ali neodređeni suvlasnički omjer u zemljišnim knjigama i svega 20% popusta na prvoj dražbi zahtijevaju pravnu provjeru prije ulaska.",
+  "flags": [
+    "suvlasništvo s neopredjeljenim omjerom u zk — pravna nesigurnost",
+    "4 suvlasnika — potencijalni konflikt pri upravljanju i budućoj prodaji",
+    "prva dražba, samo 20% popusta",
+    "etažni elaborat i suglasnost suvlasnika za eventualne zahvate"
+  ],
+  "input_hash": "58c7eed87b64",
+  "scored_at": "2026-04-21T07:48:22.606626"
+}

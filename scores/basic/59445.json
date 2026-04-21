@@ -1,0 +1,15 @@
+{
+  "id": "59445",
+  "score_overall": 5.0,
+  "score_lokacija": 7.0,
+  "score_roi": 5.5,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Mali stan u Puli s 20% popustom nudi turistički potencijal u atraktivnoj istarskoj destinaciji, ali izostanak uporabne dozvole za zgradu je ozbiljan pravni rizik koji može blokirati registraciju za kratkoročni najam i preprodaju. Ne ulaziti bez potpune pravne due diligence o statusu legalizacije.",
+  "flags": [
+    "nema uporabne dozvole za zgradu - potencijalni problem legalizacije i najma",
+    "prizemlje s nenatkrivenom terasom - mogući problemi vlage"
+  ],
+  "input_hash": "05ef85f83eb3",
+  "scored_at": "2026-04-21T09:26:36.586826"
+}

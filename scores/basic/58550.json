@@ -1,0 +1,15 @@
+{
+  "id": "58550",
+  "score_overall": 3.5,
+  "score_lokacija": 4.5,
+  "score_roi": 3.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Najmanja parcela u skupini varaždinskih oranica (3.519 m²) s 20% popustom na prvoj dražbi — apsolutne cifre su preniske da bi generirale smislen ROI čak i u optimalnom scenariju. Nema razloga za ulaz bez strateškog konteksta susjednih čestica.",
+  "flags": [
+    "Malo zemljište (3.519 m²) — ograničen potencijal skaliranja",
+    "Mali popust (20%), prva dražba — postoji prostor za daljnji pad"
+  ],
+  "input_hash": "227be78a6382",
+  "scored_at": "2026-04-21T07:55:31.075606"
+}

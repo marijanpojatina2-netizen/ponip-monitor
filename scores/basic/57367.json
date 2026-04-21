@@ -1,0 +1,17 @@
+{
+  "id": "57367",
+  "score_overall": 3.5,
+  "score_lokacija": 5.0,
+  "score_roi": 4.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Suvlasnički udio od svega ~9.85% u oranici u predgrađu Trogira (predio Plano) nema praktičnu vrijednost za investitora jer bez suglasnosti suvlasnika nije moguće graditi niti prodati po tržišnoj cijeni; popust i druga dražba ne kompenziraju strukturnu problematiku.",
+  "flags": [
+    "suvlasnički udio 500/5075 (~9.85%) - manji manjinski udio",
+    "oranica - neizgrađeno, potrebna građevinska dozvola",
+    "otežano raspolaganje bez suglasnosti suvlasnika",
+    "predio Plano - periferija, ne centar Trogira"
+  ],
+  "input_hash": "9367f27a7d5e",
+  "scored_at": "2026-04-21T09:32:07.670206"
+}

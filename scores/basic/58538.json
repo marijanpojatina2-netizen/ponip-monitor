@@ -1,0 +1,15 @@
+{
+  "id": "58538",
+  "score_overall": 4.0,
+  "score_lokacija": 4.5,
+  "score_roi": 4.0,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Varaždin II oranica bez posebnih karakteristika — funkcionalna lokacija no isključivo poljoprivredna namjena bez jasnog razvojnog vektora. Popust od 20% na prvoj dražbi ne nudi dovoljnu marginu za investicijski interes.",
+  "flags": [
+    "Samo poljoprivredno zemljište",
+    "Mali popust (20%), prva dražba — dno cijene nije dostignuto"
+  ],
+  "input_hash": "8ef5930f0076",
+  "scored_at": "2026-04-21T07:55:31.075131"
+}
