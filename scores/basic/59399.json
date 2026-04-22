@@ -1,0 +1,16 @@
+{
+  "id": "59399",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica u k.o. Marinci kraj Vukovara u duboko depopulacijskoj regiji s minimalnom potražnjom; 20% popust na prvoj dražbi apsolutno ne opravdava izloženost ovom tržištu.",
+  "flags": [
+    "depopulacijska regija Vukovar-Srijem",
+    "izrazito niska likvidnost tržišta",
+    "teška ekonomska perspektiva područja"
+  ],
+  "input_hash": "9eeeca663349",
+  "scored_at": "2026-04-22T07:47:56.162210"
+}

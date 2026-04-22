@@ -1,0 +1,15 @@
+{
+  "id": "59765",
+  "score_overall": 5.5,
+  "score_lokacija": 6.0,
+  "score_roi": 5.0,
+  "score_stanje": 6.0,
+  "recommendation": "watch",
+  "reasoning": "Garažno mjesto 20.40 m² u Varaždinu za ~9.200 EUR nudi prihvatljiv prinos od najma (50-70 EUR/mj, što je 6-9% bruto), ali ograničen kapitalni rast i mala apsolutna vrijednost ga čine sekundarnom investicijom. Varaždin ima solidnu potražnju za garažama, ali nije prioritetna investicijska destinacija za ozbiljan portfolio.",
+  "flags": [
+    "Garažno mjesto - nizak kapitalni rast",
+    "Ograničen ukupni investicijski potencijal za portfolio"
+  ],
+  "input_hash": "df870a1c5690",
+  "scored_at": "2026-04-22T07:38:29.945559"
+}

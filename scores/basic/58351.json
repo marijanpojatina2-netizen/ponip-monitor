@@ -1,0 +1,15 @@
+{
+  "id": "58351",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica u Treštanovcima kraj Požege – depopulacijska slavonska ruralna lokacija s minimalnom likvidnošću i samo 20% popustom na prvoj dražbi. Nema razvojnog potencijala za investicijsku svrhu.",
+  "flags": [
+    "čisto poljoprivredno zemljište bez objekata",
+    "niska likvidnost u slavonskoj ruralnoj zoni"
+  ],
+  "input_hash": "63f60ffc6ced",
+  "scored_at": "2026-04-22T07:49:01.529787"
+}

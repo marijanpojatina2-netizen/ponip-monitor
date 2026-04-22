@@ -1,0 +1,17 @@
+{
+  "id": "59080",
+  "score_overall": 3.0,
+  "score_lokacija": 3.0,
+  "score_roi": 3.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Šuma i pašnjak ukupno ~23.400 m2 u k.o. Živaja nemaju realni investicijski potencijal - sječa je zakonski strogo regulirana, prenamjena nije moguća, a tržište za ovakve čestice je gotovo nepostojeće. Popust od 25% ne kompenzira strukturalna ograničenja predmeta.",
+  "flags": [
+    "šuma - sječa zakonski regulirana (Zakon o šumama)",
+    "pašnjak - ograničena namjena",
+    "nema mogućnosti razvoja",
+    "izuzetno slaba tržišna likvidnost"
+  ],
+  "input_hash": "4d1affa6a8e8",
+  "scored_at": "2026-04-22T07:41:06.701313"
+}

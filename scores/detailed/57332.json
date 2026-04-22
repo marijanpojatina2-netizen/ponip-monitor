@@ -1,0 +1,56 @@
+{
+  "id": "57332",
+  "score_overall": 2.5,
+  "score_lokacija": 1.5,
+  "score_roi": 3.0,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Radi se o bivšem željezničkom kolodvoru u Štikadi kraj Gračaca — jednom od najdepopuliranijih područja Hrvatske (Lika, unutrašnjost). Namjenski građeni kolodvorski objekt s 2100 m² ukupne površine zahtijeva promjenu namjene, dozvole i masivnu rekonstrukciju. Iako je formalni popust 50%, apsolutna ulazna cijena od 334.980 EUR za ovakvu lokaciju i tip objekta i dalje je iznimno visoka u odnosu na realnu tržišnu potražnju. Likvidnost na izlazu gotovo ne postoji — kupci za industrijske/institucijske objekte u Štikadi praktički ne postoje na otvorenom tržištu.",
+  "flags": [
+    "Namjenski objekt — kolodvor zahtijeva promjenu namjene i građevinsku dozvolu za svaku drugu upotrebu",
+    "Ekstremno depopulacijsko područje — Gračac/Štikada, Ličko-senjska županija",
+    "Procjenjena vrijednost (669.960 EUR) vjerojatno ne odražava realnu tržišnu vrijednost za ovu mikrolokaciju",
+    "Nepoznato tehničko stanje — bez podataka o godini gradnje, instalacijama, konstruktivnom stanju",
+    "Niska likvidnost tržišta — teško naći kupca ili zakupca pri izlazu",
+    "Moguće aktivne željezničke infrastrukturne servituti ili ograničenja HŽ-a",
+    "Razgledavanje samo uz dogovor — ograničena transparentnost stanja"
+  ],
+  "market_estimate": {
+    "eur_min": 80000,
+    "eur_max": 220000,
+    "confidence": "low",
+    "basis": "Procjena temeljena na analognim institucijskim/industrijskim objektima u ruralnoj Hrvatskoj (Lika, Slavonija). Objekti slične veličine u depopulacijskim zonama rijetko prelaze 50-100 EUR/m² ukupne vrijednosti. Procijenjena vrijednost od 670K EUR po svemu sudeći reflektira troškovni pristup (zamjenska vrijednost gradnje) a ne tržišni, što je tipično za nelikvidna dobra u stečajima. Web pretraga komparabilnih oglasa nije bila dostupna — confidence je stoga 'low'."
+  },
+  "comparables": [
+    {
+      "opis": "Stara školska zgrada/institucijski objekt ruralna Lika — analogija za institucijske nekretnine u depopulacijskim zonama",
+      "cijena": 50000,
+      "m2": null,
+      "izvor": "analogija tržište",
+      "url": "https://www.njuskalo.hr/prodaja-kuca/licko-senjska-zupanija"
+    },
+    {
+      "opis": "Poslovni/industrijski prostor Gračac okolica — tržišni ekvivalent za komercijalnu nekretninu u regiji",
+      "cijena": 120000,
+      "m2": null,
+      "izvor": "procjena — web pretraga nije bila dostupna",
+      "url": "https://www.njuskalo.hr/nekretnine/gracac"
+    }
+  ],
+  "investment_strategy": "Jedina imaginabilna strategija je razvoj ruralnog turizma ili hostel/boutique konverzija uz play na blizinu NP Paklenica (~35 km) i NP Plitvička jezera (~80 km). Međutim, ovo zahtijeva: (1) promjenu namjene, (2) min. 500.000-800.000 EUR u rekonstrukciju za standard koji može generirati prihod, (3) sve uz ekstreman poslovni rizik u regiji bez turističke infrastrukture. Nije realan scenarij za standardnog investitora — eventualno za entuzijasta s posebnom vizijom i dubokim džepovima.",
+  "entry_price_eur": 120000,
+  "detailed_risks": [
+    "Procjenjena vrijednost po svemu sudeći precjenjena — realna tržišna vrijednost vjerojatno 3-5x niža od procjene",
+    "HŽ infrastruktura d.o.o. može imati prava prolaza, servitute ili preče pravo kupnje",
+    "Promjena namjene iz 'kolodvor' u stambenu/turističku namjenu — dugotrajan i neizvjestan postupak",
+    "Nema komunalne infrastrukture adekvatne za veći projekt (struja, voda, odvodnja, internet — sve upitno)",
+    "Depopulacijski trend Ličko-senjske županije ubrzava — nema organskog tržišnog rasta",
+    "Visoka jamčevina (66.996 EUR) koja se gubi pri odustajanju",
+    "Bez jasnih podataka o stanju krova, temelja, instalacija — zbog starosti vjerojatno katastrofalno",
+    "Nema usporednih transakcija u regiji — praktički nemoguće procijeniti exit multiplikator"
+  ],
+  "upside_scenario": "U iznimno optimističnom scenariju: investitor s vizijom i 1-1,5M EUR ukupnog ulaganja prenamijeni kompleks u boutique 'railway heritage' hotel/hostel s 20-30 kreveta, cilja na outdoor/planinski turizam (Velebit, Paklenica). Prihodi od 150-200K EUR godišnje kroz 3-5 godina — povrat investicije tek nakon 7-10 godina uz nisku pouzdanost projekcija.",
+  "downside_scenario": "Kupac uplati 334.980 EUR + troškove transakcije, utroši 200-400K na rekonstrukciju, ne uspije pronaći kupca ili zakupca u razumnom roku. Objekt ostaje prazan i propada, tržišna vrijednost pada daljnje, gubitak cijele investicije realan. Nema 'floor' vrijednosti za ovaj tip imovine u ovoj lokaciji.",
+  "input_hash": "27f5121745d7",
+  "scored_at": "2026-04-22T08:01:09.441548"
+}

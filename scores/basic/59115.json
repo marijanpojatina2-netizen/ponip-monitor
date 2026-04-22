@@ -1,0 +1,16 @@
+{
+  "id": "59115",
+  "score_overall": 2.5,
+  "score_lokacija": 4.0,
+  "score_roi": 2.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Šumsko zemljište u zagrebačkoj županiji pod strogim zakonskim ograničenjima eksploatacije i praktički nultom mogućnošću izgradnje; 20% popust ne kompenzira nelikvidnost ove klase imovine.",
+  "flags": [
+    "šuma - zabrana gradnje po Zakonu o šumama",
+    "ograničeno tržište kupaca",
+    "strogi propisi o šumskom zemljištu"
+  ],
+  "input_hash": "5e3224896e97",
+  "scored_at": "2026-04-22T07:47:56.162026"
+}

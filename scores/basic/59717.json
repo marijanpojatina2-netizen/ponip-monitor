@@ -1,0 +1,15 @@
+{
+  "id": "59717",
+  "score_overall": 6.0,
+  "score_lokacija": 7.5,
+  "score_roi": 6.0,
+  "score_stanje": 4.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Oranica u k.o. Pag (otok Pag) iznimno je atraktivna lokacija za eventualni turistički razvoj uz relativno nisku cijenu; ključno je hitno provjeriti GUP/PPU Grada Paga i mogućnost prenamjene iz poljoprivrednog u građevinsko.",
+  "flags": [
+    "oranica - prenamjena nije garantirana, provjera GUP-a obavezna",
+    "pristup parceli i infrastruktura nije potvrđen"
+  ],
+  "input_hash": "ae221ba6585d",
+  "scored_at": "2026-04-22T07:47:56.162292"
+}

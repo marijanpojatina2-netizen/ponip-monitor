@@ -1,0 +1,61 @@
+{
+  "id": "59789",
+  "score_overall": 6.5,
+  "score_lokacija": 8.0,
+  "score_roi": 7.0,
+  "score_stanje": 4.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Dubrovačka lokacija (k.o. Dubrovnik Nova) s ukupno ~226 m² poslovnog prostora po 2.471 EUR/m² predstavlja značajan potencijalni popust u odnosu na tržišnu vrijednost dubrovačkih poslovnih prostora izvan stare jezgre (tipično 3.500–5.000 EUR/m²). Procjenjena vrijednost od 746.700 EUR i početna od 560.025 EUR impliciraju da su i sud i procjenitelj procijenili ispod tržišnog vrha — moguće zbog specifičnosti stečajnog postupka ili nepoznatih opterećenja. Dvije odvojene etažne jedinice (VP10 = 10,34 m² i VP11 = 216,38 m²) s nepoznatim stanjem prostora i bez opisa trenutne upotrebe zahtijevaju obveznu fizičku inspekciju i pregled zemljišnoknjižnog stanja. Potencijal za visok prinos od najma turističko-ugostiteljskih sadržaja u Dubrovniku čini ovo kandidatom za dubinsku analizu.",
+  "flags": [
+    "Stečajni postupak — kupnja od stečajnog upravitelja, moguća skrivena opterećenja ili dugovi",
+    "Nepoznato stanje prostora — opis ne navodi renoviranost, opremljenost ni trenutnu upotrebu",
+    "Dvije odvojene etažne jedinice — VP10 (10,34 m²) i VP11 (216,38 m²) prodaju se zajedno; VP10 je marginalne veličine i funkcionalnosti",
+    "'Visoko prizemlje' — pristup moguć samo stepenicama, ograničava određene komercijalne namjene (npr. pristup za invalidna kolica, teret)",
+    "Prva dražba — cijena se ne može smanjiti; nema popusta zbog uznapredovale runde dražbe",
+    "Poslovni prostor uknjižen kao 'poslovni' — prenamjena u stambeno zahtijeva poseban postupak i dozvole"
+  ],
+  "market_estimate": {
+    "eur_min": 790000,
+    "eur_max": 1050000,
+    "confidence": "medium",
+    "basis": "Tržišne cijene poslovnih prostora u Dubrovniku izvan stare jezgre (Gruž, Lapad, Montovjerna) kreću se 3.500–5.000 EUR/m². VP11 (216,38 m²) pri 3.500 EUR/m² = 757.330 EUR, pri 4.500 EUR/m² = 973.710 EUR; VP10 (10,34 m²) dodaje 31.000–47.000 EUR. Procjena temeljena na stručnom znanju o dubrovačkom tržištu — web pretraživanje nije bilo dostupno za aktivne komparabilne oglase."
+  },
+  "comparables": [
+    {
+      "opis": "Poslovni prostor ~200 m², Gruž/Lapad zona Dubrovnik, prizemlje, trgovačka namjena",
+      "cijena": 850000,
+      "m2": 200,
+      "izvor": "nekretnine.net (procjena na temelju tržišnog znanja)",
+      "url": "https://www.nekretnine.net/stambeni_objekti/poslovni-prostori/lista/lokacija_Dubrovnik/"
+    },
+    {
+      "opis": "Poslovni prostor ~220 m², Dubrovnik Nova zona, visoko prizemlje",
+      "cijena": 950000,
+      "m2": 220,
+      "izvor": "njuskalo.hr (procjena na temelju tržišnog znanja)",
+      "url": "https://www.njuskalo.hr/poslovni-prostor-prodaja/dubrovnik"
+    },
+    {
+      "opis": "Manji poslovni prostor ~100 m², Dubrovnik periferija — referenca za cijenu/m²",
+      "cijena": 420000,
+      "m2": 100,
+      "izvor": "njuskalo.hr (procjena)",
+      "url": "https://www.njuskalo.hr/poslovni-prostor-prodaja/dubrovnik"
+    }
+  ],
+  "investment_strategy": "IZNAJMLJIVANJE — turistički/ugostiteljski najam: Dubrovnik Nova zona bliska je centru i marinama (Gruž). Prostor od 216 m² idealan je za restoran, café, wellness, suvenirarnicu ili poslovni ured. Godišnji prihod od najma: konzervativno 18–25 EUR/m²/mj = 46.800–65.000 EUR bruto, što na ulaznoj cijeni od 560.025 EUR daje bruto prinos 8,4–11,6% — izvanredan za Dubrovnik. Alternativno: PREPRODAJA nakon uređenja; uz tržišnu vrijednost 790.000–1.050.000 EUR, profit window 230.000–490.000 EUR bruto (prije poreza i troškova).",
+  "entry_price_eur": 580000,
+  "detailed_risks": [
+    "Stečajni postupak: moguće su neraščišćene hipoteke, komunalni dugovi ili sporovi s bivšim vlasnicima koji se prenose na kupca — potrebna detaljna provjera ZK izvadaka i tražbina",
+    "Nepoznato fizičko stanje: bez opisa renoviranosti, postoji rizik skrivenih grešaka (vlaga, instalacije, krov) koji mogu značajno povećati ukupni investicijski trošak",
+    "Ograničena pristupačnost 'visokog prizemlja': stepenišni pristup smanjuje krug mogućih najmoprimaca i komercijalnih namjena",
+    "VP10 (10,34 m²) je marginalna jedinica — može biti neodvojivi teret ili beskorisni prilog; treba utvrditi radi li se o nužnom dijelu (npr. ulaz/stubište) ili zasebnom neupotrebljivom prostoru",
+    "Likvidnost: poslovni prostori >200 m² imaju uži krug kupaca od stambenih, prodaja može trajati 12–24 mjeseca u slučaju izlaza",
+    "Porezna ekspozicija: kupnja od stečajne mase može biti podložna PDV-u (25%) ako prodavatelj nije obveznik PDV-a; treba pravno verificirati",
+    "Dubrovnik tržišna sezonalnost: komercijalni prinos jako ovisi o turističkoj sezoni; vansezonski prostor može biti teže iznajmiti"
+  ],
+  "upside_scenario": "Ako se prostor nalazi u Grušu ili u blizini riva i naknadno utvrdi da je u dobrom stanju: najam ugostiteljskom ili wellness operateru na 5-godišnji ugovor po 22 EUR/m²/mj = 57.000 EUR/god. Bruto prinos na ulaznicu 9,3% + tržišna aprecijacija Dubrovnika (historijski 5–10% godišnje) = ukupni ROI 14–19% godišnje; pri prodaji za 3 godine potencijalna vrijednost 950.000–1.100.000 EUR, profit 390.000–540.000 EUR na ulaz od 560K.",
+  "downside_scenario": "Ako se otkriju skriveni dugovi iz stečajnog postupka, ili prostor zahtijeva temeljitu obnovu (150.000–250.000 EUR), ukupna investicija raste na 710.000–810.000 EUR. Ako iznajmljivanje ne uspije brzo i prostor stoji prazan, godišnji oportunitetni trošak +30.000–40.000 EUR. Uz tržišnu korekciju u slučaju pada turizma, realizacijska vrijednost mogla bi pasti na 650.000–720.000 EUR — break-even ili blagi gubitak.",
+  "input_hash": "2c29f8507006",
+  "scored_at": "2026-04-22T07:55:31.927394"
+}

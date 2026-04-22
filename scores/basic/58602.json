@@ -1,0 +1,15 @@
+{
+  "id": "58602",
+  "score_overall": 3.5,
+  "score_lokacija": 4.0,
+  "score_roi": 4.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Velik kompleks livada, oranica i šume (~14.800 m² ukupno) u k.o. Poljana blizu Vrbovca u punom vlasništvu 1/1 – dobra priprema na papiru, ali ruralna destinacija Vrbovečke periferije bez jasnog razvojnog vektora. Dvadeset postotni popust na prvoj dražbi ne opravdava angažman.",
+  "flags": [
+    "isključivo poljoprivredno/šumsko zemljište bez zgrada",
+    "raspršene parcele različitih kultur – kompleksno upravljanje"
+  ],
+  "input_hash": "7b74c01efb13",
+  "scored_at": "2026-04-22T07:42:18.606197"
+}

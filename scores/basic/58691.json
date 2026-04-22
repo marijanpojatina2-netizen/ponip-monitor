@@ -1,0 +1,17 @@
+{
+  "id": "58691",
+  "score_overall": 2.0,
+  "score_lokacija": 1.5,
+  "score_roi": 2.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Sitna oranica od 511 m2 u selu Sedlarica kraj Virovitice s minimalnim popustom od 20% na prvoj dražbi; depopulacijska slavonska mikrolokacija bez realne exit strategije čini ovo bezvrijednim za investitora.",
+  "flags": [
+    "depopulacijska zona",
+    "izuzetno mala površina za oranicu",
+    "niska likvidnost",
+    "prva dražba - cijena blizu procjene"
+  ],
+  "input_hash": "7ff58d0b16b2",
+  "scored_at": "2026-04-22T07:34:34.713644"
+}

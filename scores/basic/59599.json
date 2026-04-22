@@ -1,0 +1,16 @@
+{
+  "id": "59599",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Oranica i livada u k.o. Turnašica kraj Virovitice – srce slavonskog depopulacijskog pojasa s minimalnom investicijskom potražnjom. Samo 20% popusta na prvoj dražbi uz negativne demografske trendove čini ovaj predmet neinteresantnim.",
+  "flags": [
+    "depopulacijska regija (Virovitičko-podravska županija)",
+    "isključivo poljoprivredna namjena",
+    "niska likvidnost i ograničen izlaz"
+  ],
+  "input_hash": "ef6926dd8c79",
+  "scored_at": "2026-04-22T07:42:18.606111"
+}

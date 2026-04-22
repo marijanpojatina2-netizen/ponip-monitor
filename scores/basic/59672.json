@@ -1,0 +1,16 @@
+{
+  "id": "59672",
+  "score_overall": 3.5,
+  "score_lokacija": 4.5,
+  "score_roi": 4.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica i vrt od 2282m² u Starom Čiču kraj Velike Gorice pri 12,15K EUR nudi niske ulazne troškove, ali bez objekta i bez jasne razvojne namjene u stečajnoj masi ROI ostaje nejasan; blizina ZG-a daje određenu opcijsku vrijednost za budući rast zemljišnih cijena.",
+  "flags": [
+    "bez objekta - samo zemljište",
+    "stečajna masa (Trgovački sud)",
+    "nepovoljna namjena - vrt i oranica"
+  ],
+  "input_hash": "02e16b259630",
+  "scored_at": "2026-04-22T07:31:15.506068"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "57924",
+  "score_overall": 4.0,
+  "score_lokacija": 4.0,
+  "score_roi": 5.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica i pašnjak ~5.720 m² u Poljani Čičkoj (blizu Velika Gorica) za 5.310 EUR uz 50% popust je jeftino po m², ali isključivo poljoprivredna namjena bez infrastrukture i bez razvojne perspektive ograničava svaki ROI na simboličan zakup. Blizina Velike Gorice pruža marginalnu prednost nad dubokom Slavonijom, ali ne dovoljnu za konkretnu investicijsku akciju.",
+  "flags": [
+    "Oranica + pašnjak - isključivo polj. namjena",
+    "Nema komunalne infrastrukture",
+    "Stečajna masa - moguće skrivene obveze"
+  ],
+  "input_hash": "153f1498f4cc",
+  "scored_at": "2026-04-22T07:38:29.946087"
+}

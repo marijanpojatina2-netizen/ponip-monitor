@@ -1,0 +1,16 @@
+{
+  "id": "58400",
+  "score_overall": 3.5,
+  "score_lokacija": 5.5,
+  "score_roi": 3.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Splitska lokacija (k.o. Žedno) zvuči atraktivno, ali pašnjak od svega 397m² s 20% popusta na prvoj dražbi nudi minimalan prostor za bilo kakvu izgradnju ili razvoj. Omjer cijene i potencijala nije opravdan - u Splitu se investicija ne može amortizirati na pašnjaku ove veličine bez promjene namjene.",
+  "flags": [
+    "pašnjak - negrađevinska kategorija",
+    "vrlo mali teren (397m²)",
+    "prva dražba - minimalan popust od 20%"
+  ],
+  "input_hash": "75da653bebf5",
+  "scored_at": "2026-04-22T07:36:04.536294"
+}

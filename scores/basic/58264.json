@@ -1,0 +1,16 @@
+{
+  "id": "58264",
+  "score_overall": 4.0,
+  "score_lokacija": 4.5,
+  "score_roi": 5.5,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Oranica u k.o. Pretetinec (Čakovec područje) s 40% popustom na drugoj dražbi pruža razumnu cijenu, ali mala parcela (~1430 m2) i agrarni status bez razvojnih izgleda ograničavaju privlačnost.",
+  "flags": [
+    "mala parcela - 398 čhv (~1430 m2)",
+    "poljoprivredno zemljište",
+    "ne-turistička regija"
+  ],
+  "input_hash": "b616decbf50d",
+  "scored_at": "2026-04-22T07:46:08.808174"
+}

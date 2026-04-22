@@ -1,0 +1,16 @@
+{
+  "id": "59127",
+  "score_overall": 2.5,
+  "score_lokacija": 1.5,
+  "score_roi": 3.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Kuća s dvorištem u Mikleušu u suvlasničkom dijelu 4/9 uz samo 20% popust na prvoj dražbi - kombinacija ruralne depopulacijske lokacije, nedovoljnog popusta i manjinskog suvlasništva čini ovo investicijski neprihvatljivim. Bez autonomne kontrole nad nekretninom i bez potražnje u toj regiji, kapital je praktički zamrznut.",
+  "flags": [
+    "Suvlasništvo 4/9 - manjinski udio, bez autonomne kontrole",
+    "Mikleuš - ruralna Slavonija, depopulacija",
+    "20% popust nedovoljan za kompenzaciju rizika i nelikvidnosti"
+  ],
+  "input_hash": "1e9df2aa15c2",
+  "scored_at": "2026-04-22T07:38:29.945995"
+}

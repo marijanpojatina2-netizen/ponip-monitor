@@ -1,0 +1,15 @@
+{
+  "id": "59303",
+  "score_overall": 5.5,
+  "score_lokacija": 5.5,
+  "score_roi": 5.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Garažno mjesto u Varaždinu – solidna lokacija s realnom potražnjom, ali suvlasnički udio u kompleksu s 255 dijelova otežava likvidaciju i upravljanje. Popust od 25% na prvoj dražbi nije atraktivan za ovakav tip predmeta.",
+  "flags": [
+    "suvlasnički udio 1610/255570 – ekstremno razvodnjeno etažno vlasništvo",
+    "provjeri postoji li stanarine ili zakupci u zgradi"
+  ],
+  "input_hash": "8d2b83ad5bb1",
+  "scored_at": "2026-04-22T07:49:01.529521"
+}

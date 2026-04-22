@@ -1,0 +1,17 @@
+{
+  "id": "59219",
+  "score_overall": 3.5,
+  "score_lokacija": 3.5,
+  "score_roi": 3.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Fragmentirani vinograd raspršen u 11+ čestica kroz više zk. uložaka u k.o. Slapno (Karlovačka županija) donosi operativnu kompleksnost koja nadilazi potencijalne koristi uz svega 20% popusta na prvoj dražbi. Vinogradarski potencijal postoji ali zahtijeva ozbiljna ulaganja u sanaciju i obradu, a tržišta za premium vino iz Karlovačke županije su ograničena.",
+  "flags": [
+    "visoka fragmentiranost - 11+ čestica u više zk. uložaka",
+    "prva dražba - minimalan popust",
+    "karlovačka županija - niska likvidnost nekretnina",
+    "vinogradi zahtijevaju kontinuiranu obradu ili propadaju"
+  ],
+  "input_hash": "ce237d1df3e6",
+  "scored_at": "2026-04-22T07:36:04.536659"
+}

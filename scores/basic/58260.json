@@ -1,0 +1,16 @@
+{
+  "id": "58260",
+  "score_overall": 4.5,
+  "score_lokacija": 4.5,
+  "score_roi": 6.0,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Solidna cijena zahvaljujući 40% popustu na drugoj dražbi, ali livada u Nedelišću bez građevnog potencijala ostaje nišni agrarni ulog u regiji bez turističke potražnje.",
+  "flags": [
+    "livada/senokoša - ograničena namjena",
+    "ne-turistička regija",
+    "nema objekta"
+  ],
+  "input_hash": "820fe204bb07",
+  "scored_at": "2026-04-22T07:46:08.807927"
+}

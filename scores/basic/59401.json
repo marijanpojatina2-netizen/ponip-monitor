@@ -1,0 +1,16 @@
+{
+  "id": "59401",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Slavonska oranica u depopulacijskom pojasu pokraj Vukovara s tek 20% popustom na prvoj dražbi nema investicijsku logiku - niska likvidnost i gotovo nulti razvojni potencijal.",
+  "flags": [
+    "depopulacijska zona - Vukovar regija",
+    "niska tržišna likvidnost",
+    "20% popust na prvoj dražbi - nedovoljno za ulaz"
+  ],
+  "input_hash": "239f7ffea180",
+  "scored_at": "2026-04-22T07:46:08.807591"
+}

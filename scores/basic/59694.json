@@ -1,0 +1,16 @@
+{
+  "id": "59694",
+  "score_overall": 6.0,
+  "score_lokacija": 8.0,
+  "score_roi": 5.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Mali Iž je pravi jadranski otok u zadarskom arhipelagu s odličnom turističkom tražnjom, no vrt od 120m² bez objekta i samo 20% popusta na prvoj dražbi sužava prostor za profitabilni ulaz - vrijedi pratiti hoće li dražba propasti i pasti na manji iznos.",
+  "flags": [
+    "nema građevinskog objekta - samo vrt 120m²",
+    "visoka cijena po m² za neizgrađenu parcelu na otoku",
+    "prva dražba - preporučiti čekanje na drugu/treću"
+  ],
+  "input_hash": "394d1735fdec",
+  "scored_at": "2026-04-22T07:50:29.093320"
+}

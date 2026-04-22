@@ -1,0 +1,16 @@
+{
+  "id": "57920",
+  "score_overall": 5.5,
+  "score_lokacija": 5.5,
+  "score_roi": 7.5,
+  "score_stanje": 4.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Izniman 50% popust na drugoj dražbi za oranicu u Zagrebačkoj županiji (Drnek/Velika Gorica zona) čini ovaj slučaj najatraktivnijim u setu - GUP provjera i potencijal prenamjene vrijede detaljne analize.",
+  "flags": [
+    "stečajna masa - moguće pravne komplikacije",
+    "agrarno zemljište - obavezna provjera GUP/DPU",
+    "površina u zastarjelim jedinicama jutro/čhv - provjeri točnu m2 vrijednost (~7500 m2)"
+  ],
+  "input_hash": "5f89d81a80bb",
+  "scored_at": "2026-04-22T07:46:08.808094"
+}

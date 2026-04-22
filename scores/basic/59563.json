@@ -1,0 +1,15 @@
+{
+  "id": "59563",
+  "score_overall": 3.5,
+  "score_lokacija": 3.0,
+  "score_roi": 3.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Kuća s dvorištem u Velikom Trojstvu (ruralni Bjelovar) – samo 1/2 suvlasništva čini predmet praktično neupotrebljivim bez suglasnosti suvlasnika, što drastično umanjuje vrijednost. 20% popust ne nagrađuje taj rizik.",
+  "flags": [
+    "suvlasništvo 1/2 – ovrhovoditelj drži drugu polovicu, upravljanje nemoguće bez dogovora",
+    "stanje kuće nepoznato, vjerojatno dotrajalost"
+  ],
+  "input_hash": "8ad69c145930",
+  "scored_at": "2026-04-22T07:49:01.530090"
+}

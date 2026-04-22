@@ -1,0 +1,16 @@
+{
+  "id": "58258",
+  "score_overall": 4.5,
+  "score_lokacija": 4.5,
+  "score_roi": 6.0,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Gotovo identična situacija kao parcela #58260 - 40% popust i druga dražba pozitivni, iste slabosti regije i namjene, no kombinacija dviju srodnih parcela može biti zanimljiva za agrarnog investitora.",
+  "flags": [
+    "livada/senokoša - ograničena namjena",
+    "ne-turistička regija",
+    "srodna parcela #58260 dostupna simultano"
+  ],
+  "input_hash": "384180cef811",
+  "scored_at": "2026-04-22T07:46:08.808012"
+}

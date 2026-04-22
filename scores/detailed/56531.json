@@ -1,0 +1,61 @@
+{
+  "id": "56531",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Industrijska zona Bjeliš u Slavonskom Brodu spada u najslabije likvidne segmente hrvatskog tržišta — depopulacijsko područje bez turističkog ni investicijskog impulsa. Nominalni popust od 75% je varljiv: prodaje se samo 298/1000 suvlasničkog udjela (etažna jedinica E-2), što proporcionalno stavlja ulaznu cijenu od 165.500 EUR blizu realne tržišne vrijednosti tog udjela, a ne stvarnih 25% ukupne procijenjene vrijednosti. Treća dražba bez ijednog ponuditelja je jasan tržišni signal. Kombinacija specifičnog industrijskog namjena (mlin + skladište), lošeg demografskog trenda i blokirajuće suvlasničke strukture čini exit strategiju gotovo neizvedivom.",
+  "flags": [
+    "298/1000 suvlasnički udio — kupac ne može samostalno raspolagati nekretninom",
+    "Etažno vlasništvo E-2 s nepoznatim ostalim suvlasnicima — svaka odluka zahtijeva suglasnost 702/1000",
+    "Treća dražba bez ponuditelja — tržišni signal nulte potražnje",
+    "Specifičan tip objekta (mlin) — iznimno uzak krug potencijalnih kupaca ili zakupaca",
+    "Industrijska zona — mogući ekološki teret, onečišćenje tla, troškovi sanacije",
+    "Procjenjena vrijednost 662.000 EUR za objekte u SB-u čini se precijenjenom prema aktualnom tržištu"
+  ],
+  "market_estimate": {
+    "eur_min": 90000,
+    "eur_max": 260000,
+    "confidence": "low",
+    "basis": "Industrijske/poslovne nekretnine u Slavonskom Brodu trguju se iznimno rijetko. Okvirne cijene industrijskog prostora u regiji kreću se 50–130 EUR/m² za funkcionalne objekte. Za 298/1000 udjela u kompleksu 4490 m² (proporcionalni ekvivalent ~1338 m²), realna tržišna vrijednost je 90k–260k EUR — bez premije za suvlasnički udio koji tipično nosi diskont od 20–40% u odnosu na puno vlasništvo. Web pretraga comparabla nije bila dostupna."
+  },
+  "comparables": [
+    {
+      "opis": "Poslovni prostor/skladište Slavonski Brod, industrijska zona, ~800 m²",
+      "cijena": 120000,
+      "m2": 800,
+      "izvor": "tržišna procjena (knowledge base)",
+      "url": "N/A — web pretraga nije bila odobrena"
+    },
+    {
+      "opis": "Industrijski hala Slavonski Brod okolica, 1500–2000 m², starija gradnja",
+      "cijena": 180000,
+      "m2": 1700,
+      "izvor": "tržišna procjena (knowledge base)",
+      "url": "N/A — web pretraga nije bila odobrena"
+    },
+    {
+      "opis": "Industrijski kompleks Slavonija (Vinkovci/Vukovar), 3000+ m²",
+      "cijena": 250000,
+      "m2": 3200,
+      "izvor": "tržišna procjena (knowledge base)",
+      "url": "N/A — web pretraga nije bila odobrena"
+    }
+  ],
+  "investment_strategy": "Nema jasne standardne strategije. Jedini potencijalno atraktivan scenario: sporazumni otkup preostalih 702/1000 udjela od ostalih suvlasnika (po niskoj stečajnoj cijeni) radi konsolidacije punog vlasništva + prodaja ili zakup operatera logistike/skladišta. Bez konsolidacije vlasništva — nijedan od klasičnih modela (reno-flip, iznajmljivanje, razvoj) nije operativan. Suvlasnički udio industrijskog objekta u Slavoniji nema likvidnog kupca.",
+  "entry_price_eur": 165500,
+  "detailed_risks": [
+    "Suvlasnička blokada: 702/1000 preostalih udjela može blokirati prodaju, renovaciju, promjenu namjene i iseljenje",
+    "Exit nelikvidnost: realno ne postoji sekundarno tržište za 29.8% udjela u industrijskom objektu u SB-u",
+    "Nepoznato fizičko stanje: mlin i skladište starija gradnja, visoki potencijalni troškovi obnove (100–300 EUR/m²)",
+    "Ekološki teret: industrijska zona, mogući ostaci onečišćenja tla ili azbestnih materijala",
+    "Demografski negativni trend: Slavonski Brod gubi 1–2% stanovništva godišnje — padajuća potražnja za svim tipovima prostora",
+    "Pravna složenost: stečajni postupak, porez na promet, odvjetnički troškovi, dugi rokovi",
+    "Precijenjeno polazište: 662.000 EUR procijenjene vrijednosti za ovakav objekt u SB-u je vjerojatno metodološki naduvano što kompromitira i 'popust'"
+  ],
+  "upside_scenario": "Ako aktivni industrijski korisnik (logistički operater, regionalni distributer) već koristi prostor i ima interes za dugoročni zakup ili otkup, i ako se u roku od 6 mjeseci uspije dogovoriti otkup preostalih udjela po simboličnoj cijeni od ostalih vlasnika u stečaju — konsolidacija na 300–350k EUR ukupnog ulaganja + prodaja operativnog kompleksa za 450–550k EUR u roku 3 god. Potencijalni povrat 30–50%, ali scenarij zahtijeva izuzetno povoljne okolnosti.",
+  "downside_scenario": "Nekretnina ostaje u portfelju 3–5 godina bez mogućnosti korištenja ili prodaje zbog suvlasničkih blokada i nulte potražnje. Troškovi poreza, odvjetnika, održavanja i kamate na kapital akumuliraju se na 20–40k EUR. Exit jedino po cijeni nižoj od ulazne cijene ili u paketu s ostalim suvlasnicima. Oportunitetni trošak kapitala od 165.500 EUR kroz 4 godine (uz alternativni prinos od 5% god.) iznosi ~35k EUR. Ukupni neto gubitak scenarija: 50–80k EUR.",
+  "input_hash": "a394666c2adc",
+  "scored_at": "2026-04-22T08:03:31.330203"
+}

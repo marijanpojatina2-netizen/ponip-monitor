@@ -1,0 +1,16 @@
+{
+  "id": "57389",
+  "score_overall": 3.5,
+  "score_lokacija": 4.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Ruralna lokacija u k.o. Helena (Zelinska zagora) s mješovitim zemljištem i 40% popustom na drugoj dražbi može biti marginalno zanimljiva, ali suvlasnički udio od samo 1226/4115 (~30%) bez jasnih mehanizama konsolidacije vlasništva čini ovu nekretninu investicijski nepraktičnom. Bez punog vlasništva ne može se ni prodati ni izgraditi.",
+  "flags": [
+    "suvlasnički udio 1226/4115 (~30%) - nepotpuno vlasništvo",
+    "ruralno područje niske likvidnosti",
+    "miješana poljoprivredna namjena - nema građevinskog potencijala"
+  ],
+  "input_hash": "bc043d48b36a",
+  "scored_at": "2026-04-22T07:36:04.536379"
+}

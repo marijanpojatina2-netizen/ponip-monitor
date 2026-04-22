@@ -1,0 +1,16 @@
+{
+  "id": "58630",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica 12.164 m2 u Prugovcu kraj Đurđevca – slabija podravska lokacija od k.o. Gorica Nova, bez ikakvih razvojnih pokretača u zoni. Standardni 20% popust na prvoj dražbi bez kompenzacijskih faktora.",
+  "flags": [
+    "ruralno Podravlje – Đurđevac zona",
+    "niska likvidnost",
+    "bez razvojnog potencijala"
+  ],
+  "input_hash": "a03df096747d",
+  "scored_at": "2026-04-22T07:44:23.870489"
+}

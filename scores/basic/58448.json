@@ -1,0 +1,15 @@
+{
+  "id": "58448",
+  "score_overall": 3.0,
+  "score_lokacija": 4.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Identičan predmet susjednoj čkbr. 4414/1 (ID 58442) – ista površina, ista vrijednost, isti sud; zajedno tvore 2.906 m² livade u Zaboku što može biti osnova za kasniju prenamjenu, ali bez aktivnog istraživanja prostornog plana nema osnove za licitaciju. Preporučuje se pass dok se ne utvrdi potencijal za prenamjenu.",
+  "flags": [
+    "isključivo livada – nema građevinskog objekta",
+    "vrijedi razmotriti samo uz istovremenu kupnju ID 58442 i provjeru prostornog plana"
+  ],
+  "input_hash": "1f8679e219f7",
+  "scored_at": "2026-04-22T07:42:18.606360"
+}

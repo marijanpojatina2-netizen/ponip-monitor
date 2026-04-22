@@ -1,0 +1,16 @@
+{
+  "id": "59692",
+  "score_overall": 5.0,
+  "score_lokacija": 7.5,
+  "score_roi": 5.0,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Otočka lokacija Mali Iž u zadarskom arhipelagu nosi turističku premiju, ali 187 m2 pašnjaka s vjerojatno strogim ograničenjima gradnje na otoku čini praktičnu upotrebu minimalnom. Spekulativna vrijednost postoji samo ako je zoniranje fleksibilno – nužno provjeriti UPU i mogućnost legalizacije.",
+  "flags": [
+    "samo 187 m2 – mikroparcela",
+    "pašnjak – ograničenja gradnje na otoku",
+    "otočka dostupnost i sezonalnost"
+  ],
+  "input_hash": "e85f94404b3c",
+  "scored_at": "2026-04-22T07:44:23.870127"
+}

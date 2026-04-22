@@ -1,0 +1,17 @@
+{
+  "id": "56463",
+  "score_overall": 5.5,
+  "score_lokacija": 6.5,
+  "score_roi": 8.5,
+  "score_stanje": 2.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Izniman popust od 75% na trećoj dražbi za zemljište u k.o. Bale (Istra) otvara spekulativni potencijal koji zaslužuje duboku analizu - čak i negrađevinsko zemljište u Istri s vremenom dobiva na vrijednosti ili je podložno prenamjeni. Kritični bloker je 'nema pristupa javnoj površini' (landlocked), što treba hitno provjeriti kroz uvid u katastar i susjedne čestice.",
+  "flags": [
+    "negrađevinska zemljišta - zabranjena gradnja",
+    "nema pristupa javnoj površini (landlocked) - ozbiljan pravni problem",
+    "bez komunalne infrastrukture",
+    "nepravilnog oblika - otežana prenamjena"
+  ],
+  "input_hash": "852e255d259d",
+  "scored_at": "2026-04-22T07:36:04.536118"
+}

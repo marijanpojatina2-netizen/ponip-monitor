@@ -1,0 +1,16 @@
+{
+  "id": "57395",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 4.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Suvlasnički udio od ½ oranice u Virovitici uz 50% popust na drugoj dražbi zvuči atraktivno, ali prodaja bez suglasnosti drugog suvlasnika nije moguća pa je exit strategija blokirana. Virovitica je duboko depopulacijsko područje bez tržišne potražnje za ovakvim česticama.",
+  "flags": [
+    "Suvlasništvo ½ - prodaja bez suglasnosti suvlasnika nije moguća",
+    "Virovitica - depopulacija i niska likvidnost",
+    "Stečajna masa - mogući skriveni tereti"
+  ],
+  "input_hash": "9c414d063fb4",
+  "scored_at": "2026-04-22T07:38:29.945794"
+}

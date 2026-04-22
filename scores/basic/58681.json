@@ -1,0 +1,17 @@
+{
+  "id": "58681",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 4.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica u ruralnoj Podravini kod Koprivnice s minimalnim 20% popustom na prvoj dražbi; depopulacijska zona s niskom potražnjom za zemljištem čini ovaj predmet investicijski neatraktivnim bez jasnog exit scenarija.",
+  "flags": [
+    "ruralna depopulacijska zona Podravina",
+    "čisto poljoprivredno zemljište bez objekata",
+    "prva dražba - mali popust",
+    "ograničene mogućnosti preunamjene"
+  ],
+  "input_hash": "7043a32351b8",
+  "scored_at": "2026-04-22T07:51:18.653205"
+}

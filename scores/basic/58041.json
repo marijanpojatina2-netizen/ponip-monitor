@@ -1,0 +1,16 @@
+{
+  "id": "58041",
+  "score_overall": 3.0,
+  "score_lokacija": 3.5,
+  "score_roi": 3.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Suvlasnički udjeli (2/6 i 1/3) na poljoprivrednom zemljištu u ruralnoj okolici Velike Gorice s tek 20% popusta na prvoj dražbi ne nude atraktivan investicijski ulaz. Bez građevinskog potencijala i s frakcijskim vlasništvom, izlaz iz investicije bio bi izuzetno težak.",
+  "flags": [
+    "suvlasništvo - udio 2/6 i 1/3 bez punog vlasništva",
+    "čisto poljoprivredno zemljište - nema građevinskog potencijala",
+    "ruralna lokacija - niska likvidnost"
+  ],
+  "input_hash": "00b138e0e63a",
+  "scored_at": "2026-04-22T07:36:04.535771"
+}

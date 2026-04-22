@@ -1,0 +1,16 @@
+{
+  "id": "58438",
+  "score_overall": 3.0,
+  "score_lokacija": 4.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Livada 2.690 m2 u Zaboku u suvlasničkom udjelu 1/2 – Zagorje nije loša lokacija, ali suvlasništvo bez suglasnosti drugog vlasnika blokira svaki razvoj ili preprodaju. Bez prethodnog dogovora s kosuvlasnikom ovo je nelikvidna imovina.",
+  "flags": [
+    "suvlasništvo 1/2 – blokira razvoj i prodaju",
+    "livada bez građevinskog potencijala",
+    "nužna suglasnost kosuvlasnika"
+  ],
+  "input_hash": "beccf21eb599",
+  "scored_at": "2026-04-22T07:44:23.870569"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "59165",
+  "score_overall": 2.5,
+  "score_lokacija": 6.0,
+  "score_roi": 2.0,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Blizina Rijeke (Marinići/Blažići) je jedina pozitivna strana, ali predmet čini 6 mikročestica ukupno svega ~166 m2 bez ikakvog objekta - parcele su praktički neupotrebljive kao samostalna investicija i netržive neovisno o lokaciji. Jedini racionalni kupac bio bi direktni susjed za komasaciju.",
+  "flags": [
+    "izuzetno sitne fragmentirane parcele (~166 m2 ukupno u 6 čestica)",
+    "bez zgrade i infrastrukture",
+    "praktički netrživo kao samostalna investicija"
+  ],
+  "input_hash": "5223bf2d91bd",
+  "scored_at": "2026-04-22T07:41:06.701400"
+}

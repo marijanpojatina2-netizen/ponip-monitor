@@ -1,0 +1,16 @@
+{
+  "id": "59844",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Voćnjak od 1.5 ha u Čemincu (Baranja) nudi jedino agrarnu upotrebu u izrazito depopulacijskoj pograničnoj zoni, dok 20% popust na prvoj dražbi ne opravdava ni minimalni investicijski angažman.",
+  "flags": [
+    "depopulacijska zona Baranje",
+    "granično područje s Mađarskom - ograničena potražnja",
+    "samo prva dražba - minimalni popust"
+  ],
+  "input_hash": "bda505b43d87",
+  "scored_at": "2026-04-22T07:50:29.093065"
+}

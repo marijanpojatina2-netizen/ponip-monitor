@@ -1,0 +1,16 @@
+{
+  "id": "59397",
+  "score_overall": 6.0,
+  "score_lokacija": 7.5,
+  "score_roi": 5.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Oranica blizu Poreča u Istri za ~4.27 EUR/m² je znatno ispod tržišnih cijena građevinskog zemljišta u toj turističkoj regiji, no samo 20% popust na prvoj dražbi je skroman za ulazak. Potencijal za špekulaciju prenamjenom postoji, ali zakonska ograničenja kupnje i gradnje na poljoprivrednom zemljištu su ozbiljna prepreka.",
+  "flags": [
+    "Oranica - zakonska ograničenja prenamjene",
+    "Kupnja polj. zemljišta uvjetovana statusom poljoprivrednika",
+    "Bez komunalne infrastrukture"
+  ],
+  "input_hash": "92dbdbdf7546",
+  "scored_at": "2026-04-22T07:38:29.945216"
+}

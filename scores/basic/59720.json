@@ -1,0 +1,16 @@
+{
+  "id": "59720",
+  "score_overall": 5.0,
+  "score_lokacija": 7.0,
+  "score_roi": 5.0,
+  "score_stanje": 2.5,
+  "recommendation": "watch",
+  "reasoning": "Lokacija na šetnici Vladimira Nazora u Pagu je atraktivna turistička zona (~76 EUR/m² za dvorište je potencijalno podcijenjeno), no predmet je isključivo dvorišna čestica bez zgrade što drastično ograničava samostalnu upotrebljivost. Vrijedi pratiti i istražiti je li dvorište funkcionalno vezano uz susjednu zgradu čest.zgr. 699/3.",
+  "flags": [
+    "suvlasnički udio – nije navedena veličina udjela",
+    "samo dvorište, bez zgrade",
+    "ograničena autonomna upotrebljivost bez kontrole nad zgradom"
+  ],
+  "input_hash": "85e4bd1b8f2d",
+  "scored_at": "2026-04-22T07:42:18.605797"
+}

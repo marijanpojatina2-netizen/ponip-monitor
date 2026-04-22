@@ -1,0 +1,16 @@
+{
+  "id": "56927",
+  "score_overall": 6.5,
+  "score_lokacija": 7.5,
+  "score_roi": 7.5,
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Pašnjak na Murteru/Tisnom uz 75% popust na trećoj stečajnoj dražbi - i samo zemljište u toj turističkoj zoni ima supstancijalni potencijal; suvlasništvo 1/2 i potrebna promjena namjene su prepreke koje treba razriješiti pravnom analizom.",
+  "flags": [
+    "suvlasništvo 1/2 (dva dijela po 1/4 - mora se utvrditi tko je drugi suvlasnik)",
+    "pašnjak - potrebna promjena namjene za gradnju ili korištenje",
+    "stečajni postupak - složenost i vremenski okvir"
+  ],
+  "input_hash": "e4452a1f9a25",
+  "scored_at": "2026-04-22T07:33:03.376270"
+}

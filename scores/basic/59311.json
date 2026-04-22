@@ -1,0 +1,16 @@
+{
+  "id": "59311",
+  "score_overall": 2.5,
+  "score_lokacija": 3.5,
+  "score_roi": 2.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Voćnjak u ruralnoj k.o. Martinuševec blizu Čakovca bez građevinskog potencijala; samo 1/2 suvlasničkog dijela drastično ograničava mogućnosti raspolaganja. Minimalni popust od 20% na prvoj dražbi ne kompenzira slab investicijski slučaj.",
+  "flags": [
+    "suvlasnički udio 1/2 – potrebna suglasnost suvlasnika",
+    "isključivo poljoprivredna namjena (voćnjak)",
+    "niska likvidnost regije"
+  ],
+  "input_hash": "a182aba5ee0f",
+  "scored_at": "2026-04-22T07:42:18.605426"
+}

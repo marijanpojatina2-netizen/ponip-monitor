@@ -1,0 +1,59 @@
+{
+  "id": "59525",
+  "score_overall": 4.5,
+  "score_lokacija": 5.5,
+  "score_roi": 4.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Radi se o livadi (k.č. 3623/1, oznaka 'livada') od 740 m² u Velikoj Gorici — Zagreb suburb ~17 km od centra, neposredno uz međunarodnu zračnu luku. Procijenjena cijena od 845 EUR/m² visoka je za ovu regiju čak i za građevinska zemljišta, a katastarska oznaka 'livada' nameće kritičan due diligence rizik vezano uz GUP/UPU namjenu. Prva dražba s popustom od tek 20% ne nudi dovoljno sigurnosnog jastuka s obzirom na neizvjesnost namjene. Potencijal postoji isključivo u scenariju potvrđene građevinske ili poslovne/komercijalne namjene uz dobre komunalne priključke — u suprotnom je realna tržišna vrijednost višestruko niža od procjene.",
+  "flags": [
+    "Katastarska oznaka 'livada' — nekretnina nije formalno evidentirano građevinsko zemljište; neophodna provjera GUP/UPU namjene Grada Velika Gorica",
+    "Prva dražba — najmanji mogući popust (20%), nema kumulativnih sniženja",
+    "Visoka procijenjena vrijednost (845 EUR/m²) — nadmašuje tipične tržišne vrijednosti građevinskog zemljišta u Velikoj Gorici",
+    "Razgledavanje samo uz sudskog ovršitelja — ograničen pristup i informacije o infrastrukturi parcele",
+    "Nema podataka o komunalnom opremanju parcele (struja, voda, kanalizacija, pristupna cesta)"
+  ],
+  "market_estimate": {
+    "eur_min": 185000,
+    "eur_max": 420000,
+    "confidence": "low",
+    "basis": "Usporedna analiza temeljena na poznavanju tržišta (web pretraga nije bila dostupna). Građevinsko zemljište u Velikoj Gorici kreće se 250–500 EUR/m² ovisno o zoni i opremljenosti; poljoprivredno/livada iznosi 20–80 EUR/m². Procjena 845 EUR/m² opravdana je samo za premium komercijalnu lokaciju u centru s potvrđenom namjenom. Minimalni scenarij: 250 EUR/m² × 740 m² = 185.000 EUR; maksimalni: 570 EUR/m² = ~420.000 EUR. Sudska procjena od 626.000 EUR implicira komercijalnu/mješovitu namjenu — bez uvida u GUP to je nemoguće potvrditi."
+  },
+  "comparables": [
+    {
+      "opis": "Građevinsko zemljište Velika Gorica, stambena zona, ~800 m², komunalno opremljeno",
+      "cijena": 280000,
+      "m2": 800,
+      "izvor": "njuskalo.hr (procjena iz baze znanja, nije live pretraga)",
+      "url": "https://www.njuskalo.hr/prodaja-zemljista/velika-gorica"
+    },
+    {
+      "opis": "Zemljište Turopolje/Velika Gorica okolica, cca 1000 m², bez izravnog priključka",
+      "cijena": 95000,
+      "m2": 1000,
+      "izvor": "nekretnine.net (procjena iz baze znanja)",
+      "url": "https://www.nekretnine.net/pretraga/zemljista/velika-gorica"
+    },
+    {
+      "opis": "Poslovna zona Velika Gorica (uz ZAG airport koridore), manji teren",
+      "cijena": 380000,
+      "m2": 600,
+      "izvor": "index.hr oglasi / baza znanja",
+      "url": "https://oglasi.index.hr/nekretnine/prodaja/zemljista"
+    }
+  ],
+  "investment_strategy": "Razvoj/izgradnja — UVJETNO. Jedina logična strategija za ovu parcelu je razvojna: izgradnja stambenog objekta (Velika Gorica ima potražnju zbog blizine Zagreba) ili manji poslovni/uredski objekt (blizina aerodroma). Preprodaja 'u paketu' potencijalnom developeru moguća je ako se potvrdi GUP namjena. Flip ili iznajmljivanje golih livada u ovoj cjenovnoj klasi nema smisla. Ključni preduvjet: pribaviti izvod iz GUP-a Grada Velika Gorica i uvjeriti se da parcela ima oznaku 'građevinsko' (M, K, I zona) prije bilo kakvog ulaska.",
+  "entry_price_eur": 320000,
+  "detailed_risks": [
+    "Zoning rizik #1: Ako je parcela u GUP-u označena kao zelena površina, park ili zaštitni pojas (blizina aerodroma — ICAO zone!), vrijednost pada ispod 100.000 EUR",
+    "Aerodromski koridori: Parcele u blizini ZAG mogu imati ograničenja visine gradnje (PANS-OPS zaštitne zone) što drastično reducira razvojni potencijal",
+    "Komunalna neopremljenost: 'Livada' bez poznatih priključaka = značajan trošak komunalnog doprinosa i infrastrukture (može biti 80–150 EUR/m² gradivne površine)",
+    "Likvidnost: Velika Gorica nije visoko likvidno tržište za parcele >500.000 EUR — izlazna strategija može biti spora (12–36 mjeseci)",
+    "Tržišna korekcija: Hrvatska tržišta nekretnina u 2025–2026 pokazuju usporavanje rasta; špekulativno zemljište bez dozvole najpodložnije je korekciji",
+    "Pravni rizik: Bez uvida u kompletni ZK uložak, terete, stvarna prava i eventualne zabilježbe — oprez na skrivena prava"
+  ],
+  "upside_scenario": "GUP potvrđuje mješovitu stambeno-poslovnu namjenu, nema aerodromskih ograničenja, parcela je komunalno opremljiva uz razuman trošak. Developer gradi 5–6 stanova (cca 300–360 m² NKP), prodaje ih po 2.500–3.000 EUR/m² (Velika Gorica novi stan 2025), ostvaruje prihod 750.000–1.080.000 EUR uz ukupne troškove (kupnja + gradnja + takse) od ~600.000–750.000 EUR. Neto dobit developera: 150.000–330.000 EUR u roku 3 god. Parcela kupljena na dražbi za 320.000 EUR preprodaje se developeru za 400.000–450.000 EUR čim se pribavi lokacijska dozvola.",
+  "downside_scenario": "GUP namjena je rekreacijska/zelena ili je parcela u aerodromskoj zaštitnoj zoni — tada je tržišna vrijednost 50.000–120.000 EUR. Uplatiti 500.800 EUR (početna cijena) u tom scenariju znači kapitalni gubitak od 75–90%. Čak i ako se parcela proda kao poljoprivredno zemljište, realizacija bi potrajala godinama uz minimalne cijene. Jam čevina od 62.600 EUR izgubljena je u slučaju odustajanja nakon licitacije.",
+  "input_hash": "aa064be6f0da",
+  "scored_at": "2026-04-22T08:07:12.800171"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "57203",
+  "score_overall": 4.0,
+  "score_lokacija": 4.0,
+  "score_roi": 5.0,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Druga dražba s 40%-tnim popustom (≈5.850 EUR za 1.021 m² šume u Zagrebačkoj županiji) jedini je pozitivni signal; šumsko zemljište bez građevinskih mogućnosti i ruralna lokacija kod Jastrebarskog znatno smanjuju investicijsku atraktivnost. Vrijedi pratiti ako postoji specifična namjena (lov, rekreacija, špekulativna prenamjena).",
+  "flags": [
+    "šumsko zemljište – ograničena prenamjena prema ZŠ",
+    "ruralna lokacija, niža likvidnost izvan zone Velike Gorice"
+  ],
+  "input_hash": "13fadd6804d2",
+  "scored_at": "2026-04-22T07:42:18.605901"
+}

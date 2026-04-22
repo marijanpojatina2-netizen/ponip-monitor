@@ -1,0 +1,15 @@
+{
+  "id": "58355",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 2.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Velika oranica (14476 m²) u k.o. Treštanovci blizu Požege u ekonomski problematičnoj Slavoniji bez razvojne perspektive; ni veličina parcele ne opravdava investiciju u ovoj regiji.",
+  "flags": [
+    "depopulacijska Slavonija - Požeška kotlina",
+    "izrazito niska likvidnost i potražnja"
+  ],
+  "input_hash": "f0f0f3da1850",
+  "scored_at": "2026-04-22T07:47:56.162372"
+}

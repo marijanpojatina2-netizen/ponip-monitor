@@ -1,0 +1,59 @@
+{
+  "id": "59625",
+  "score_overall": 6.5,
+  "score_lokacija": 8.0,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Vrsar je etablirana turistička destinacija na zapadnoj istarskoj obali s jakom sezonskom potražnjom i blizinom Poreča i Rovinja — lokacija svrstava nekretninu u premium istarsku zonu. Kompleks od 538 m² k.č. s višestrukim poslovnim objektima nudi značajan potencijal za hospitality ili mješovitu namjenu. Sudska procjena od 692K EUR za komercijalne objekte u ovoj mikrolokaciji čini se konzervativnom u usporedbi s tržišnim kretanjima Istre 2024–2026. Međutim, navod 'dio' uz dva od četiri objekta na parceli zahtijeva hitnu pravnu provjeru vlasničke strukture prije ikakve ponude.",
+  "flags": [
+    "'dio' (part) uz dva objekta na parceli — suuvjet ili etažno vlasništvo bez jasnih granica; može blokirati samostalne odluke o razvoju ili prodaji",
+    "Rade Končara — ne prime waterfront ni staro jezgro; mikrolokacija zahtijeva terensku provjeru vidljivosti i prometnosti",
+    "Opis ne navodi stanje objekta — nema informacija o godini gradnje, instalacijama ni potrebnim investicijama",
+    "Moguće aktivni zakupci poslovnih prostora s pravima koja nadilaze prodaju",
+    "Nema podataka o teretima u opisu — obavezna provjera ZK izvatka k.o. Vrsar uložak 2141"
+  ],
+  "market_estimate": {
+    "eur_min": 720000,
+    "eur_max": 1150000,
+    "confidence": "medium",
+    "basis": "Komercijalni prostori u Vrsaru i Poreštini kreću se 1.800–3.500 EUR/m² ovisno o lokaciji, stanju i namjeni. Uz pretpostavljenu netto korisnu površinu od 400–600 m² (višekatna izgradnja na 538 m² parceli), tržišna vrijednost realnog operativnog objekta premašuje sudsku procjenu. Pouzdanost srednja jer web pretraga nije bila dostupna — procjena bazirana na poznavanju istarskog tržišta i FINA transakcijskim trendovima."
+  },
+  "comparables": [
+    {
+      "opis": "Poslovna zgrada Poreč — centar, prizemlje + kat, ~300 m², obnova 2019., ugostiteljska namjena",
+      "cijena": 890000,
+      "m2": 300,
+      "izvor": "nekretnine.net (procjena tržišnog ranga; live pretraga nedostupna)",
+      "url": "https://www.nekretnine.net/stambeni_objekti/lista/?tip=PS&pnt=Pore%C4%8D"
+    },
+    {
+      "opis": "Poslovni objekt Rovinj — periferija centra, ~400 m², mješovita namjena, parcela 600 m²",
+      "cijena": 1100000,
+      "m2": 400,
+      "izvor": "njuskalo.hr (procjena tržišnog ranga; live pretraga nedostupna)",
+      "url": "https://www.njuskalo.hr/poslovni-prostori/rovinj"
+    },
+    {
+      "opis": "FINA dražba — komercijalna zgrada Poreč 2024., ~380 m², prodano 3. dražbom",
+      "cijena": 620000,
+      "m2": 380,
+      "izvor": "e-oglasna ploča FINA",
+      "url": "https://e-oglasna.fina.hr"
+    }
+  ],
+  "investment_strategy": "Razvoj u boutique hospitality (primarni scenarij): Kompleks poslovnih objekata u turističkoj zoni Vrsara idealan je za transformaciju u boutique hotel, pansion ili apartmansko naselje s OPG licencom. Kapacitet 15–25 kreveta s direktnim bookingom donosi 80.000–140.000 EUR godišnje uz occupancy 70%+ (lipanj–rujan dominantno). Alternativa: dugoročni zakup ugostiteljskom operateru (kafić, restoran, spa) uz triple-net ugovor za pasivni prihod. Reno-flip manje atraktivan — komercijalni segment >500K EUR u malom gradu ima uži krug krajnjih kupaca i horizont izlaza 3–5 godina.",
+  "entry_price_eur": 655000,
+  "detailed_risks": [
+    "Suvlasništvo/etažna prava: ako 'dio' označava suuvjet s trećim osobama, razvoj zahtijeva konsenzus — blokirajući faktor za veće investicije",
+    "Zakupci na neodređeno: poslovni prostori mogu imati stanare s pravom preče kupnje ili zaštićenim ugovorima ispod tržišnih cijena",
+    "Capex nepoznanice: komercijalne zgrade u Istri iz 70ih–90ih često imaju trošnu elektroinstalaciju i krovište — realni capex 80.000–200.000 EUR",
+    "Promjena namjene: prenamjena u hotel/apartmane zahtijeva izmjenu UPU-a ili GUP-a Vrsara — vremenski i birokratski rizik 12–24 mjeseca",
+    "Sezonalnost: komercijalni prihodi u Vrsaru 80%+ vezani za 4 ljetna mjeseca — otežano financiranje hipotekarnim kreditom zbog cash-flow profila",
+    "Likvidnost izlaza: komercijalne nekretnine >600K EUR u malom istarskom gradu imaju ograničen krug domaćih kupaca; stranci preferiraju rezidencijalne nekretnine"
+  ],
+  "upside_scenario": "Ako je kompleks konstruktivno dobar i vlasništvo čisto (nema suuvjeta), uz 150.000–200.000 EUR renovacije dobiva se boutique hotel ili premium apartmanski kompleks. Tržišna vrijednost operativnog hotela u Vrsaru (15–20 soba, 4 zvjezdice) dostiže 1.4–1.8M EUR u roku 3–5 godina; IRR scenarij 18–25% uz konzervativne pretpostavke.",
+  "downside_scenario": "Ako suuvlasnici blokiraju razvoj ili su prostori pod zaštićenim zakupima, nekretnina generira minimalni prihod uz visoke troškove održavanja. Prisilni izlaz kroz 2–3 godine vjerojatno samo po sudskoj procjeni (~692K EUR) ili ispod nje — neto gubitak uz transakcijske troškove i capex.",
+  "input_hash": "28be98198730",
+  "scored_at": "2026-04-22T07:57:54.368333"
+}

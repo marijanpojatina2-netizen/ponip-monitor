@@ -1,0 +1,15 @@
+{
+  "id": "58679",
+  "score_overall": 3.0,
+  "score_lokacija": 3.0,
+  "score_roi": 3.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Dva oranična parcela (ukupno ~12.300 m²) u k.o. Gorica Nova kraj Koprivnice u punom vlasništvu 1/1 – solidan ukupni teren, ali strogo poljoprivredna zona s niskom likvidnošću i bez razvojnog potencijala. Popust od 20% na prvoj dražbi nedovoljan za kompenzaciju slabe tržišne potražnje.",
+  "flags": [
+    "isključivo oranica – ograničena prenamjena",
+    "niska likvidnost Koprivničko-križevačke županije"
+  ],
+  "input_hash": "018235a1e7dd",
+  "scored_at": "2026-04-22T07:42:18.605655"
+}

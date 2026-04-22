@@ -1,0 +1,16 @@
+{
+  "id": "59585",
+  "score_overall": 2.0,
+  "score_lokacija": 1.5,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica u Trpinji kod Vukovara kombinira najgore moguće: depopulacijsku i poslijeratnu zonu, minimalnih 20% popusta na prvoj dražbi, bez objekta i bez ikakve perspektive rasta vrijednosti u kratkoročnom ili srednjoročnom horizontu.",
+  "flags": [
+    "depopulacijska zona - Vukovarsko-srijemska županija",
+    "poslijeratno područje - potencijalni neriješeni imovinskopravni odnosi",
+    "minimalni popust - prva dražba bez prostora za pregovore"
+  ],
+  "input_hash": "adc0d5868387",
+  "scored_at": "2026-04-22T07:50:29.092970"
+}

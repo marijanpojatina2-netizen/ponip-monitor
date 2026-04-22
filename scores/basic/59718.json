@@ -1,0 +1,15 @@
+{
+  "id": "59718",
+  "score_overall": 4.5,
+  "score_lokacija": 6.0,
+  "score_roi": 4.0,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Pag otočna lokacija ima dugoročni potencijal reklasifikacije i blizinu turizma, ali prvi krug dražbe s tek 20% popustom na agrarnoj parceli bez ikakve infrastrukture ozbiljno ograničava realni ROI.",
+  "flags": [
+    "poljoprivredno zemljište - ograničena gradnja bez prenamjene",
+    "prva dražba - minimalni popust 20%"
+  ],
+  "input_hash": "13be80d67b5c",
+  "scored_at": "2026-04-22T07:46:08.807369"
+}

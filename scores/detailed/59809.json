@@ -1,0 +1,63 @@
+{
+  "id": "59809",
+  "score_overall": 3.5,
+  "score_lokacija": 5.5,
+  "score_roi": 3.0,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Radi se o suvlasničkim udjelima na poljoprivrednom zemljištu (oranica) u k.o. Stenjevec Jug — kombinacija koja drastično ograničava investicijski potencijal. Suvlasnički udjeli su izrazito mali (119/729 ≈ 16,3% i 20/709 ≈ 2,8%), što znači da kupac ne može samostalno raspolagati, graditi ni prodavati nekretninu bez suglasnosti ostalih suvlasnika. Početna cijena od 1,79M EUR na prvoj dražbi, bez gradevinskog statusa i bez pune vlasničke kontrole, čini matematiku gotovo nemogućom za standardnog investitora. Jedini scenarij koji ima smisla je strateški kupac koji već drži ili može koordinirati ostale suvlasničke udjele u okviru šire assemblage strategije.",
+  "flags": [
+    "KRITIČNO: suvlasništvo — udjeli 119/729 i 20/709 onemogućuju samostalno raspolaganje imovinom",
+    "Sve čestice evidentirane kao 'ORANICA' (poljoprivredno zemljište) — potrebna promijena namjene za razvoj",
+    "Opis opisan samo djelomično — nepoznate dodatne čestice pod zk.ul. 98 i dalje; moguće skrivene obveze ili uvjeti",
+    "Stečajni postupak (ne ovršni) — upraviteljica Vanda Kovačević Gelenčer; kompleksnija pravna procedura od standard FINA ovrhe",
+    "Prva dražba — nema bonusa od dodatne snižene cijene",
+    "Jamčevina 239.291 EUR — visoki trošak angažiranog kapitala i za watch fazu",
+    "Bez uvida u GUP namjenu — ako ostaje 'poljoprivredno', procjena od 2,39M EUR je teško opravdiva"
+  ],
+  "market_estimate": {
+    "eur_min": 600000,
+    "eur_max": 1400000,
+    "confidence": "low",
+    "basis": "Bez web pretrage; procjena temeljena na poznavanju tržišta. Stenjevec Jug — rubni zapadni Zagreb, blizina Jankomira; građevinsko zemljište s punim vlasništvom: 100–350 EUR/m² za zonu R2/M. Vidljivi efektivni udjeli (≈312 m² iz prvih 5 čestica) daju apsurdnu cijenu po m² od >5.700 EUR, što znači da opis mora sadržavati znatno više čestica s većim udjelima. Uz suvlasnički diskont 40–60% od pune vrijednosti i neizvjesnost GUP statusa, tržišna vrijednost je konzervativno 600K–1,4M EUR."
+  },
+  "comparables": [
+    {
+      "opis": "Građevinsko zemljište Stenjevec/Kustošija, 1000 m², puno vlasništvo, stambena namjena",
+      "cijena": 200000,
+      "m2": 1000,
+      "izvor": "njuskalo.hr (procjena temeljem poznavanja tržišta — web nedostupan)",
+      "url": "https://www.njuskalo.hr/zemljista/zagreb-stenjevec"
+    },
+    {
+      "opis": "Poljoprivredno/razvoj. zemljište Zagreb zapad, 5000 m², puna vlasništvo, periferija",
+      "cijena": 500000,
+      "m2": 5000,
+      "izvor": "nekretnine.net (procjena — web nedostupan)",
+      "url": "https://www.nekretnine.net/Zagreb/Stenjevec"
+    },
+    {
+      "opis": "Suvlasnički udio na građ. parceli Zagreb, tipični diskont vs. puno vlasništvo 40-60%",
+      "cijena": null,
+      "m2": null,
+      "izvor": "tržišna praksa HR — nema direktnih usporedivih oglasa za ovu vrstu",
+      "url": null
+    }
+  ],
+  "investment_strategy": "ASSEMBLAGE/STRATEŠKO ČEKANJE — jedina realno profitabilna strategija je kupnja suvlasničkih udjela kao dio koordinirane assemblage operacije gdje se kupuje dovoljno udjela (>50% ili idealno 100%) da se omogući samostalna kontrola. Alternativno: resell suvlasničkog udjela specijaliziranom developeru koji već ima ostale udjele. Samostalna gradnja, iznajmljivanje ni preprodaja nisu mogući bez suglasnosti ostalih suvlasnika. Reno-flip ne dolazi u obzir — nema objekta, samo oranica.",
+  "entry_price_eur": 900000,
+  "detailed_risks": [
+    "Suvlasništvo — bez suglasnosti ostalih suvlasnika nema upisa hipoteke, prodaje ni gradnje (čl. 37-42 Zakona o vlasništvu)",
+    "Sudska dioba suvlasništva (tužba za diobu) traje 3-7 godina i skuplja je od očekivane dobiti",
+    "GUP namjena nepoznata — ako je OPZ (zaštićeno polj. tlo), nije moguća promjena namjene ni uz volju suvlasnika",
+    "Opis predmeta je nepotpun (skraćen) — nepoznate dodatne čestice, moguće terete, zabilježbe ili prava trećih",
+    "Stečajni postupak: kupoprodaja ovisna o pravomoćnosti rješenja i prioritetu namirenja razlučnih vjerovnika",
+    "Visok uloženi kapital (min. 1,79M EUR) uz potpuno blokiran cash flow dok se ne razriješi suvlasništvo",
+    "Likvidnost predmeta iznimno niska — tržište za suvlasničke udjele na oranicama je gotovo nepostojeće",
+    "Inflacija troškova: dugi pravni procesi znače godišnje troškove čuvanja investicije bez prihoda"
+  ],
+  "upside_scenario": "Ako kupac već drži ili može dogovoriti kupnju preostalih suvlasničkih udjela (ili postoji sporazum s ostalim suvlasnicima), a GUP dopušta gradnju u zonama Savska opatovina (moguća stambena/mješovita namjena uz Savu) — u roku 3-5 godina kombinacijom konsolidacije vlasništva i ishođenja dozvola parcela može vrijediti 3-5M EUR kao razvijeno građevinsko zemljište blizu Jankomira i Sava centra.",
+  "downside_scenario": "Kupac ostaje s manjinskim suvlasničkim udjelima na oranicama bez suglasnosti ostalih suvlasnika. Sudska dioba traje 5+ godina, troškovi akomodacije 50-100K EUR/god. GUP može ostati OPZ (polj. namjena), gdje je prodaja po ikakvoj razumnoj cijeni nemoguća. Izlaz jedino po cijeni ispod vrijednosti uloženog — gubitak 500K-1M EUR realan.",
+  "input_hash": "f0a47f0521dc",
+  "scored_at": "2026-04-22T07:53:36.993107"
+}

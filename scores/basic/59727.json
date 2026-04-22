@@ -1,0 +1,16 @@
+{
+  "id": "59727",
+  "score_overall": 3.5,
+  "score_lokacija": 3.5,
+  "score_roi": 4.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Garaža od 11.15m² u Blatu Novom (Karlovac) je funkcionalna ali investicijski trivijalna - suvlasnički udio 8/10000 etažnog objekta donosi pravnu kompleksnost koja ne opravdava angažman za neturističku lokaciju.",
+  "flags": [
+    "garaža svega 11.15m² - zanemariv prihodni potencijal",
+    "suvlasnički udio 8/10000 - kompleksna etažna vlasničkopravna situacija",
+    "neturistička lokacija bez rasta vrijednosti"
+  ],
+  "input_hash": "ecda30986e10",
+  "scored_at": "2026-04-22T07:50:29.093409"
+}

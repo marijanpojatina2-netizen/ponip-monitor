@@ -1,0 +1,15 @@
+{
+  "id": "58498",
+  "score_overall": 2.5,
+  "score_lokacija": 3.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Poljoprivredno i močvarno zemljište (zvirala) u ruralnoj okolici Jastrebarskog bez razvojnog potencijala; 20% popust na prvoj dražbi premalo je za ovu klasu imovine s minimalnom likvidnošću.",
+  "flags": [
+    "zvirala - močvarno/izvorišno zemljište, ograničena izgradnja",
+    "niska likvidnost tržišta Jastrebarsko"
+  ],
+  "input_hash": "1f4d39165397",
+  "scored_at": "2026-04-22T07:47:56.161528"
+}

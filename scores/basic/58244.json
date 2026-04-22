@@ -1,0 +1,16 @@
+{
+  "id": "58244",
+  "score_overall": 4.0,
+  "score_lokacija": 4.5,
+  "score_roi": 5.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Međimurje je razvijenija regija s dobrim popustom od 40% na drugoj dražbi, ali livada od 1153m² bez objekta u Nedelišću nema jasnog investicijskog case-a osim špekulativne nadogradnje parcele.",
+  "flags": [
+    "samo livada bez ikakve građevine",
+    "senokoša - ograničenja promjene namjene zemljišta",
+    "mala površina za agrarnu isplativost"
+  ],
+  "input_hash": "06e0034a8993",
+  "scored_at": "2026-04-22T07:50:29.093152"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "57405",
+  "score_overall": 3.0,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "50% popust na drugoj dražbi zvuči privlačno, ali suvlasnički udio od samo ½ nad čitavim kompleksom (kuća-dvor, oranica, livada) u ruralnom Rezovcu blizu Bjelovara čini upravljanje i izlaz iz pozicije izuzetno kompliciranim. Bez suglasnosti suvlasnika ne možeš ništa poduzeti.",
+  "flags": [
+    "suvlasnički udio 1/2",
+    "stečajni postupak - drugi suvlasnik neizvjestan",
+    "ruralno bez likvidnosti"
+  ],
+  "input_hash": "b600ccfbe48f",
+  "scored_at": "2026-04-22T07:34:34.713779"
+}

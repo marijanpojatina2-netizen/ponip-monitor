@@ -1,0 +1,17 @@
+{
+  "id": "59809",
+  "score_overall": 3.5,
+  "score_lokacija": 6.0,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Suvlasnički udjeli 119/729 (~16%) i 20/709 (~3%) u oranicama Stenjevec čine izlaznu strategiju gotovo nemogućom bez prisilne diobe; startna cijena 1,79M EUR za fragmentirano agrarno suvlasništvo na periferiji Zagreba nema smisla za privatnog investitora.",
+  "flags": [
+    "mali suvlasnički udjeli (119/729 i 20/709)",
+    "isključivo poljoprivredno zemljište bez objekta",
+    "složena suvlasnička struktura - prisilna dioba neizvjesna",
+    "visoka jamčevina 239K EUR"
+  ],
+  "input_hash": "f0a47f0521dc",
+  "scored_at": "2026-04-22T07:31:15.505210"
+}

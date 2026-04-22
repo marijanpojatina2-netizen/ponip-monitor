@@ -1,0 +1,16 @@
+{
+  "id": "59949",
+  "score_overall": 4.0,
+  "score_lokacija": 5.0,
+  "score_roi": 3.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Stan od 40,74m² u potkrovlju u Osijeku uz samo 20% popusta u prvoj dražbi nije atraktivan sam po sebi, ali ključni problem je suvlasništvo ovrhovoditelja i ovršenika - na dražbi se prodaje samo 1/2 dijela, čime kupac ulazi u prisilno suvlasništvo.",
+  "flags": [
+    "prodaje se samo 1/2 dijela stana",
+    "potkrovlje - moguća termička ograničenja",
+    "suvlasništvo s bivšim ovrhovoditeljem nakon kupnje"
+  ],
+  "input_hash": "e181dfb1d41c",
+  "scored_at": "2026-04-22T07:31:15.505650"
+}

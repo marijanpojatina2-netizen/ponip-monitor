@@ -1,0 +1,17 @@
+{
+  "id": "58569",
+  "score_overall": 2.5,
+  "score_lokacija": 3.5,
+  "score_roi": 3.0,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Opis eksplicitno navodi 'zapuštena kuća' i 'ruševni dvorišni objekti' u selu Botinovec kraj Koprivnice - renovacijski trošak na ruralnoj lokaciji bez turističkog potencijala u potpunosti eliminira maržu od 20% popusta.",
+  "flags": [
+    "zapuštena kuća - eksplicitno navedeno",
+    "ruševni dvorišni objekti",
+    "ruralna lokacija bez turističkog/razvojnog potencijala",
+    "niska likvidnost tržišta"
+  ],
+  "input_hash": "8651188815f2",
+  "scored_at": "2026-04-22T07:31:15.505970"
+}

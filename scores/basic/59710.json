@@ -1,0 +1,16 @@
+{
+  "id": "59710",
+  "score_overall": 3.0,
+  "score_lokacija": 3.0,
+  "score_roi": 2.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Kupnja ½ suvlasničkog udjela stana u Donjem Miholjcu znači da ne možeš samostalno upravljati, iznajmljivati ni prodavati bez suglasnosti drugog suvlasnika; kombinacija suvlasništva i slavonske lokacije s 20% popustom ne pruža investicijsku logiku.",
+  "flags": [
+    "suvlasnički udio 1/2 stana",
+    "nema kontrolu nad nekretninom",
+    "niska likvidnost Donjeg Miholjca"
+  ],
+  "input_hash": "4dfb4d25ca35",
+  "scored_at": "2026-04-22T07:34:34.713971"
+}

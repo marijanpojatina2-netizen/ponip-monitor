@@ -1,0 +1,16 @@
+{
+  "id": "57600",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "40% popust i druga dražba djelomično kompenziraju izrazito slabu lokaciju (Đakovo, istočna Slavonija) i minimalni poslovni prostor od svega 13m² koji je praktički nearendljiv. Ključni problem je 'suvlasnički dio s neodređenim omjerom' koji pravno blokira svaku ozbiljniju dispoziciju nekretninom.",
+  "flags": [
+    "suvlasnički dio s neodređenim omjerom - pravna neodređenost vlasništva",
+    "izrazito mali poslovni prostor (13m²)",
+    "Slavonija - kritično niska likvidnost i pad cijena"
+  ],
+  "input_hash": "40e96114e6f6",
+  "scored_at": "2026-04-22T07:36:04.536006"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "58669",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Ruralna Slavonija (Kućanci) s pretežno poljoprivrednim zemljištem bez jasne stambene ili komercijalne perspektive; 20% popust na prvoj dražbi ne kompenzira slabu likvidnost tržišta.",
+  "flags": [
+    "ruralno/depopulacijsko područje",
+    "pretežno oranica i voćnjak - bez prihoda",
+    "nejasna struktura objekta - samo 50m2 pod zgradom"
+  ],
+  "input_hash": "2188fe9b5ef7",
+  "scored_at": "2026-04-22T07:33:03.375765"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "58155",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Plaški je demografski teška zona u unutrašnjosti s minimalnom potražnjom za nekretninama; čak ni 20 000 m2 oranice za 10 200 EUR nema smisla bez jasne agrarno-poslovne pozadine jer kapitalna aprecijacija ovdje praktički ne postoji.",
+  "flags": [
+    "depopulacijska zona (Lika/Karlovačka)",
+    "ekstremno niska likvidnost",
+    "bez komunalne infrastrukture"
+  ],
+  "input_hash": "429212744c6e",
+  "scored_at": "2026-04-22T07:34:34.713883"
+}

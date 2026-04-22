@@ -1,0 +1,16 @@
+{
+  "id": "57932",
+  "score_overall": 4.5,
+  "score_lokacija": 3.5,
+  "score_roi": 6.0,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "50% popust na drugoj dražbi za livadu i oranicu u Poljani Čičkoj (Karlovačka županija pri Velikoj Gorici) daje pristojnu financijsku matematiku, ali isključivo za špekulaciju agro-prometnom prenamjenom ili dugotrajno čekanje urbanizacije. Vrijednost prati razvoj logistike i prigradske zone Zagreba - prati, ali ne ulazi aktivno bez jasnog plana prenamjene.",
+  "flags": [
+    "čisto poljoprivredno zemljište (oranica i livada)",
+    "stečajni dužnik - moguće dodatne pravne komplikacije",
+    "nema građevinskog potencijala bez promjene prostornog plana"
+  ],
+  "input_hash": "41507dfecf03",
+  "scored_at": "2026-04-22T07:36:04.536210"
+}

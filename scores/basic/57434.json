@@ -1,0 +1,16 @@
+{
+  "id": "57434",
+  "score_overall": 3.0,
+  "score_lokacija": 2.0,
+  "score_roi": 5.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Osam čestica različitih kultura (voćnjak, vinograd, šuma, livade) u Budanici kod Bjelovara – 50% popust je nominalno visok, ali suvlasnički udio 1/2 i isključivo ruralno/agrarni karakter bez objekata u depopulacijskom kraju ne grade investicijski case.",
+  "flags": [
+    "suvlasnički udio 1/2 na svih 8 čestica",
+    "kompleksna vlasnička struktura – 8 odvojenih katastarskih čestica",
+    "pretežno šuma i livade – ograničen razvojni potencijal"
+  ],
+  "input_hash": "a0c85700386b",
+  "scored_at": "2026-04-22T07:49:01.530340"
+}

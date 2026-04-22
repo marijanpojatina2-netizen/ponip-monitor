@@ -1,0 +1,14 @@
+{
+  "id": "59962",
+  "score_overall": 7.0,
+  "score_lokacija": 7.0,
+  "score_roi": 8.0,
+  "score_stanje": 5.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Jordanovac je kvalitetna zagrebačka lokacija uz Maksimir; kombinacija 40% popusta i druge dražbe s vlasništvom 1/1 i startnom cijenom od 203K EUR čini ovo jednim od rijetkih atraktivnih slučajeva u ovoj seriji.",
+  "flags": [
+    "stanje interijera nepoznato iz opisa - obavezna fizička provjera"
+  ],
+  "input_hash": "8848c76e9e20",
+  "scored_at": "2026-04-22T07:31:15.505447"
+}

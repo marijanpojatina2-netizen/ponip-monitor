@@ -1,0 +1,62 @@
+{
+  "id": "59135",
+  "score_overall": 4.5,
+  "score_lokacija": 4.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Poslovna zgrada na Obrtničkoj ulici u Koprivnici je veći investicijski zahvat (540.800 EUR) u kontinentalnom gradu srednje veličine s plitkim tržištem poslovnih nekretnina. Popust od 20% na prvoj dražbi nije privlačan — pravi diskont nastaje tek na trećoj ili četvrtoj dražbi (40%+). Pozitivna strana su velika čestica (5.000 m²) i 1.211 m² poslovnog prostora što daje opcionalnost za industrijsko/skladišno korištenje, ali broj potencijalnih kupaca i zakupaca je ograničen. Utvrđena vrijednost od 676.000 EUR vjerojatno je iznad realne tržišne vrijednosti za ovu lokaciju i tip objekta.",
+  "flags": [
+    "Prva dražba — samo 20% popusta, nema kumulativnog diskonta",
+    "Poslovna nekretnina u manjem kontinentalnom gradu — niska likvidnost pri izlasku",
+    "Visok prag ulaska: 67.600 EUR jamčevina + ostatak do 540.800 EUR",
+    "Obrtnička ulica — industrijska/obrtnička zona, ograničen spektar kupaca i zakupaca",
+    "Stanje objekta nije opisano — nepoznati troškovi renoviranja/adaptacije",
+    "Nema podataka o godini izgradnje, energetskom certifikatu ni komunalnim priključcima",
+    "Web pretraga usporedivih oglasa nije bila dostupna — tržišna procjena temeljena na poznavanju regionalnog tržišta"
+  ],
+  "market_estimate": {
+    "eur_min": 400000,
+    "eur_max": 560000,
+    "confidence": "low",
+    "basis": "Poslovni prostori u Koprivnici tipično se prodaju po 300-500 EUR/m² (1.211 m² × 420 EUR ≈ 509.000 EUR). Čestica 3.789 m² dvorišta u komercijalnoj zoni vrijedi okvirno 20-35 EUR/m² (≈ 76.000-133.000 EUR). Ukupno: realna tržišna vrijednost 450.000-580.000 EUR. Utvrđena vrijednost 676.000 EUR čini se optimistična za lokalno tržište — moguće je da procjena reflektira zamjensku/troškovnu vrijednost, a ne tržišnu."
+  },
+  "comparables": [
+    {
+      "opis": "Poslovna hala/skladište Koprivnica, ~900 m², vlastita čestica",
+      "cijena": 420000,
+      "m2": 900,
+      "izvor": "tržišna procjena (web pretraga nedostupna)",
+      "url": "https://www.njuskalo.hr/prodaja-poslovnih-prostora/koprivnica"
+    },
+    {
+      "opis": "Poslovni objekt Varaždin industrijska zona, ~1.100 m²",
+      "cijena": 460000,
+      "m2": 1100,
+      "izvor": "tržišna procjena (komparabilna regija)",
+      "url": "https://www.nekretnine.net/prodaja/poslovni-prostor/varazdin"
+    },
+    {
+      "opis": "Poslovni prostor Čakovec, ~1.000 m², s parkiralištem",
+      "cijena": 390000,
+      "m2": 1000,
+      "izvor": "tržišna procjena (komparabilna regija)",
+      "url": "https://www.njuskalo.hr/prodaja-poslovnih-prostora/cakovec"
+    }
+  ],
+  "investment_strategy": "Iznajmljivanje poslovnog/skladišnog prostora: najrealističnija strategija je dugoročni najam lokalnim tvrtkama (dobavljači Podravke, logistika, distributeri, obrtnici). Procijenjeni prihod od najma: 2.500-4.000 EUR/mj, što daje gross yield 5,5-8,9% na početnu cijenu — prihvatljivo samo uz agresivniji ulazni popust. Alternativa je razvoj parcele ako GUP Koprivnica dopušta dogradnju. Reno-flip treba izbjegavati zbog plitkog tržišta krajnjih kupaca u ovom segmentu.",
+  "entry_price_eur": 440000,
+  "detailed_risks": [
+    "Tržišna precjenjenost: utvrđena vrijednost 676.000 EUR vjerojatno premašuje stvarnu tržišnu vrijednost za 15-25%",
+    "Likvidnost pri izlasku: ograničen broj kupaca sposobnih za transakciju >400.000 EUR u Koprivnici",
+    "Stanje objekta nepoznato: starija poslovna zgrada može zahtijevati 50.000-150.000 EUR adaptacije",
+    "Prazna nekretnina: troškovi čuvanja, komunalija i poreza bez prihoda 15.000-25.000 EUR/god",
+    "GUP ograničenja: prenamjena ili dogradnja može biti blokirana prostornim planom",
+    "Moguće ekološko opterećenje: industrijska/obrtnička zona — treba provjeriti tlo i postoji li industrijsko zagađenje",
+    "Duljina izlaza: u slučaju prodaje, realnih 18-36 mjeseci do zatvaranja transakcije"
+  ],
+  "upside_scenario": "Ako se u roku 6 mjeseci potpiše ugovor o dugoročnom zakupu s pouzdanim zakupcem (npr. logistička tvrtka, veći obrtnik, distributer) po 3.500 EUR/mj, gross yield iznosi ~9,5% na ulaznu cijenu 440.000 EUR i investicija se vraća za ~10,5 godina. Alternativno, Koprivnica privlači novog industrijskog investitora ili logistički hub (blizina mađarske granice i autoceste), što podigne potražnju i vrijednost objekta za 20-30% u roku 3-5 godina.",
+  "downside_scenario": "Objekt stoji prazan 12-24 mjeseca bez zakupca. Troškovi čuvanja i komunalnih usluga gutaju 20.000+ EUR. Na trećoj dražbi sličnih objekata u regiji postiže se 40-50% popust od procjene, što implicira tržišnu vrijednost od 338.000-406.000 EUR — potencijalni gubitak 15-25% na ukupnoj investiciji plus oportunitetni trošak vezanog kapitala.",
+  "input_hash": "abb1087be924",
+  "scored_at": "2026-04-22T07:59:36.594904"
+}

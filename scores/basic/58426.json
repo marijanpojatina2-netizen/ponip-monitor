@@ -1,0 +1,16 @@
+{
+  "id": "58426",
+  "score_overall": 2.5,
+  "score_lokacija": 4.0,
+  "score_roi": 2.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Voćnjak od 432m² u Zaboku bez ikakvog objekta i samo 1/2 dijela vlasništva ne predstavlja investicijsku prigodu ni pri kakvom scenariju; tržišna likvidnost za ovakav predmet je gotovo nulta.",
+  "flags": [
+    "samo 1/2 dijela",
+    "bez objekta - čisto agrarno zemljište",
+    "432m² voćnjak - minimalna razvojna iskoristivost"
+  ],
+  "input_hash": "9a62e40e6a26",
+  "scored_at": "2026-04-22T07:31:15.505875"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "59247",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Mala kuća 57m2 s ruševinom u ruralnoj Slavoniji (Vinkovci okolica) zahtijeva ulaganje u renovaciju u regiji bez perspektive kapitalnog rasta; 20% popust na prvoj dražbi ne opravdava ulazak.",
+  "flags": [
+    "ruralna Slavonija - depopulacija i niska likvidnost",
+    "ruševina u sklopu kompleksa",
+    "stambena površina svega 57m2 - ograničen profil kupca/stanara"
+  ],
+  "input_hash": "d3fc3ad13463",
+  "scored_at": "2026-04-22T07:33:03.376520"
+}

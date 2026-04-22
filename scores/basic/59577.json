@@ -1,0 +1,17 @@
+{
+  "id": "59577",
+  "score_overall": 2.0,
+  "score_lokacija": 1.5,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica od 7275m² u k.o. Trpinja (Vukovar) spada u jednu od najrizičnijih investicijskih lokacija u Hrvatskoj - ratom zahvaćeno područje s dubokom depopulacijom i gotovo nepostojećim tržištem nekretnina. 20% popust na prvoj dražbi ne kompenzira gotovo nikakvu likvidnost i dugoročno negativne demografske trendove.",
+  "flags": [
+    "depopulacijska zona - Vukovarsko-srijemska županija",
+    "ratom zahvaćeno područje - psihološka barijera kupaca",
+    "niska do nikakva tržišna likvidnost",
+    "oranica - bez građevinskog potencijala"
+  ],
+  "input_hash": "55734fa1b99f",
+  "scored_at": "2026-04-22T07:36:04.536573"
+}

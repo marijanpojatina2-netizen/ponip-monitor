@@ -1,0 +1,16 @@
+{
+  "id": "59179",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Gospodarska zgrada od 61 m2 u Moslavini Podravskoj s 25% popustom na prvoj dražbi nema jasnog investicijskog scenarija - nije za najam, nije za turizam, niska do nikakva likvidnost ruralne Podravine.",
+  "flags": [
+    "gospodarska zgrada - ograničena namjena",
+    "ruralno bez turističkog potencijala",
+    "niska likvidnost"
+  ],
+  "input_hash": "c8c9dbae21fe",
+  "scored_at": "2026-04-22T07:34:34.714051"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "59347",
+  "score_overall": 3.0,
+  "score_lokacija": 4.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Mala oranica (1306 m2) u varaždinskoj okolici s minimalnim 20% popustom na prvoj dražbi ne nudi dovoljno marže ni razvojnog potencijala za ozbiljno investicijsko razmatranje.",
+  "flags": [
+    "mala parcela - 1306 m2",
+    "20% popust na prvoj dražbi",
+    "čisto agrarno - nema objekta"
+  ],
+  "input_hash": "108a29743799",
+  "scored_at": "2026-04-22T07:46:08.807693"
+}

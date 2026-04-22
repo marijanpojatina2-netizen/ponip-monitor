@@ -1,0 +1,15 @@
+{
+  "id": "57624",
+  "score_overall": 3.0,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Popust od 40% i druga dražba su relativno dobri parametri, ali Bebrina kod Slavonskog Broda je duboko ruralna lokacija s depopulacijom i minimalnom tržišnom aktivnošću. Složena suvlasnička struktura (1/8 + 7/8 dva ovršenika) u postupku zahtijeva provjeru je li postupak jedinstven i prodaju li se oba udjela zajedno.",
+  "flags": [
+    "ruralna Slavonija - slaba likvidnost",
+    "složena suvlasnička struktura (I ovršenik 1/8 + II ovršenik 7/8) - provjeriti jedinstvenost postupka"
+  ],
+  "input_hash": "bee62f6eedd7",
+  "scored_at": "2026-04-22T07:41:06.701482"
+}

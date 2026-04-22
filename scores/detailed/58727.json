@@ -1,0 +1,68 @@
+{
+  "id": "58727",
+  "score_overall": 5.0,
+  "score_lokacija": 6.0,
+  "score_roi": 5.0,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Vrapče je solidan zapadnozagrebački stambeni kvart s dobrom prometnom povezanošću i uređenom infrastrukturom, ali nije premium lokacija. Početna cijena od ~1.961 EUR/m² smješta se na donjoj granici tržišnog raspona za Zagreb zapad, no uz svega 20% popusta na prvoj dražbi nema dovoljnog ROI jastuka za sigurnu investiciju. Opis ne otkriva nikakav podatak o stanju objekta (godina gradnje, renoviranost, instalacije) što nameće obvezni fizički pregled. Sva tri suvlasnička udjela (4/8+3/8+1/8=8/8) prodaju se zajedno, što je pozitivno jer kupac stječe neopterećenu cjelinu — pod uvjetom da nema izvanknjižnih tereta.",
+  "flags": [
+    "Tri odvojena suvlasnička udjela (4/8, 3/8, 1/8) — vjerojatno više ovršenika; potrebna provjera je li ovrha pokrenuta nad svima istovremeno",
+    "Opis potpuno izostavlja stanje objekta, godinu gradnje i instalacije — fizičko stanje nepoznato",
+    "Razgledavanje na adresi Dragutina Golika 33 ≠ adresa objekta (Sv. Nikole Tavelića 24) — isključivo administrativna napomena, ali ukazuje na kompleksnu koordinaciju",
+    "Prva dražba — minimalni popust 20%, nema bonus-a za strpljive investitore",
+    "265 m² ukupne površine uključuje i dvorište — netto stambena površina može biti znatno manja od 265 m²",
+    "Visoka apsolutna ulazna cijena (519K+ EUR) sužava krug potencijalnih kupaca i otežava exit"
+  ],
+  "market_estimate": {
+    "eur_min": 560000,
+    "eur_max": 720000,
+    "confidence": "medium",
+    "basis": "Tržišne cijene kuća u zapadnom Zagrebu (Vrapče, Stenjevec, Podsused zona) kreću se 2.100–2.700 EUR/m² za standardno stanje, 2.500–3.200 EUR/m² za renovirano. Procjenjena vrijednost suda (649.616 EUR = 2.452 EUR/m²) konzistentna je s gornjim tržišnim rasponom za Vrapče. Web pretraga comparablesa nije bila dostupna u ovoj sesiji — procjena temeljena na tržišnom znanju za period 2024-2026."
+  },
+  "comparables": [
+    {
+      "opis": "Kuća ~200 m² stambene površine, Vrapče/Gornje Vrapče, standardno stanje, okućnica",
+      "cijena": 480000,
+      "m2": 200,
+      "izvor": "njuskalo.hr (procjena na temelju tržišnog znanja, web pretraga nije bila dostupna)",
+      "url": "https://www.njuskalo.hr/prodaja-kuca/zagreb-vrapce"
+    },
+    {
+      "opis": "Kuća ~260 m² ukupne površine, Stenjevec (susjedna k.o.), parcela 500 m², za renoviranje",
+      "cijena": 420000,
+      "m2": 260,
+      "izvor": "nekretnine.net (procjena, web pretraga nije bila dostupna)",
+      "url": "https://www.nekretnine.net/stambeni-objekti/kuce/grad-zagreb/vrapce"
+    },
+    {
+      "opis": "Samostojeća kuća ~280 m², Zagreb zapad, solidno stanje, garaža",
+      "cijena": 620000,
+      "m2": 280,
+      "izvor": "nekretnine.net (procjena, web pretraga nije bila dostupna)",
+      "url": "https://www.nekretnine.net/stambeni-objekti/kuce/grad-zagreb"
+    },
+    {
+      "opis": "FINA dražba — usporediva kuća Zagreb zapad, 2. dražba, ~200 m²",
+      "cijena": 390000,
+      "m2": 200,
+      "izvor": "javnadrazba.fina.hr (arhiv, procjena)",
+      "url": "https://javnadrazba.fina.hr"
+    }
+  ],
+  "investment_strategy": "Reno-flip ili dugoročni najam: Ako fizički pregled pokaže solidno stanje (funkcionalne instalacije, bez strukturnih problema), nekretnina je pogodna za obiteljski dugoročni najam (1.800–2.500 EUR/mj) uz prinos 4–5% bruto. Za reno-flip scenarij potreban je ulaz ispod 470K EUR (moguće tek na 2./3. dražbi) i ulaganje 60–120K EUR u renovaciju, ciljana prodajna cijena 650–730K EUR u periodu 18–30 mj. Kratkoročni turistički najam za kuću ove veličine u Vrapčeu nije perspektivan — kvart je isključivo rezidencijalan bez turističke tražnje.",
+  "entry_price_eur": 460000,
+  "detailed_risks": [
+    "Nepoznato fizičko stanje — bez podatka o godini gradnje, instalacijama, krovu; ovrha sugerira da vlasnici nisu ulagali u održavanje",
+    "Stvarna stambena površina može biti znatno ispod 265 m² jer 'dvorište i stambena zgrada' zajedno čine tu površinu",
+    "Visoka apsolutna vrijednost (>500K) = duži exit, uži bazen kupaca pri preprodaji",
+    "Potrebna detaljna provjera ZK uloška 3292 k.o. Vrapče novo — hipoteke, zabilježbe, izvanknjižni tereti",
+    "Tri ovršenika s različitim udjelima = potencijalna kompleksnost ovršnog postupka ako jedan osporava",
+    "Tržišna korekcija u przypadku rasta kamata ili pada potražnje mogla bi erodirati procijenjenu vrijednost za 10–15%",
+    "Ulazna jamčevina 64.962 EUR blokirana za trajanja postupka — oportunitetni trošak"
+  ],
+  "upside_scenario": "Ako je objekt u solidnom do dobrom stanju (što fizički pregled treba potvrditi), a kupac uspije ući na 2. dražbi (~440–460K EUR), uz minimalne zahvate i prodaju u roku 24 mj po tržišnoj cijeni 650–700K EUR ostvaruje profit 190–260K EUR (40–55% prinos). Alternativno, dugoročni najam od 2.000 EUR/mj uz kamatni prinos 4.5% na investiciju od 460K+ opravdava buy-and-hold strategiju na 5+ godina, posebno uz inflacijski rast najamnina.",
+  "downside_scenario": "Ako objekt zahtijeva temeljitu obnovu (100–150K EUR), tržišna vrijednost stagnira ili pada za 10%, a prodaja traje 18+ mj, investitor ulazi u negativan ROI. Pri kupnji po početnoj cijeni (519K) + 130K renovacija = 649K ulaganja nasuprot tržišnom maximumu od ~720K — marža od svega 70K (~11%) ne opravdava rizik za nekretninu ovog profila. Najgori scenarij: procesne komplikacije (prigovor ovršenika) usporavaju uknjižbu 12–24 mj uz zamrznuti kapital.",
+  "input_hash": "188f793784ab",
+  "scored_at": "2026-04-22T08:05:42.787082"
+}

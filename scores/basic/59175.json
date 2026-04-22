@@ -1,0 +1,15 @@
+{
+  "id": "59175",
+  "score_overall": 2.5,
+  "score_lokacija": 1.5,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica u k.o. Mikleuš (Virovitičko-podravska) – jedno od slabijih područja po demografiji i potražnji za zemljištem. 25% popust ne kompenzira strukturni nedostatak lokacije.",
+  "flags": [
+    "depopulacijsko područje",
+    "stara mjerna jedinica (jutro/čhv) – provjeri točnu površinu u ha"
+  ],
+  "input_hash": "cca8ff839c7c",
+  "scored_at": "2026-04-22T07:49:01.529901"
+}

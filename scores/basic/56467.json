@@ -1,0 +1,16 @@
+{
+  "id": "56467",
+  "score_overall": 5.0,
+  "score_lokacija": 7.0,
+  "score_roi": 6.0,
+  "score_stanje": 1.5,
+  "recommendation": "watch",
+  "reasoning": "Iznimna lokacija u Istri nedaleko Rovinja i 75% popust na trećoj dražbi su privlačni, ali pašnjak bez ikakvog pristupa javnoj cesti čini nekretninu praktički neupotrebljivom dok se pravno ne uredi služnost prolaza. Vrijedi provjeriti može li susjed prodati pravo prolaza ili postoji mogućnost promjene namjene, ali bez toga je ovo skupi negrađevinski land-lock.",
+  "flags": [
+    "nema pristup na javnu površinu",
+    "negrađevinsko zemljište",
+    "nije komunalno opremljeno"
+  ],
+  "input_hash": "1ef9efebf0f4",
+  "scored_at": "2026-04-22T07:34:34.713218"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "57550",
+  "score_overall": 6.5,
+  "score_lokacija": 7.5,
+  "score_roi": 7.5,
+  "score_stanje": 4.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Vrt od 179 m2 u Kukljici na otoku Ugljanu – iznimna turistička mikrolokacija s 40% popustom na drugoj dražbi čini ovo najozbiljnijim kandidatom u skupini. Ključno je provjeriti UPU Kukljica i je li parcela gradiva jer bez toga je samo atraktivan komad otočne prirode.",
+  "flags": [
+    "samo vrt bez objekta – gradivost po GUP/UPU odlučujuća za ROI",
+    "provjeri postoje li tereti, služnosti ili pravo prvokupa općine na otočnom zemljištu"
+  ],
+  "input_hash": "6dda28e0698b",
+  "scored_at": "2026-04-22T07:49:01.530175"
+}

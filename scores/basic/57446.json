@@ -1,0 +1,16 @@
+{
+  "id": "57446",
+  "score_overall": 4.0,
+  "score_lokacija": 2.5,
+  "score_roi": 6.0,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "flags": [
+    "suvlasnički udio 1/2 – otežava preprodaju i korištenje",
+    "kuća u selu vjerojatno bez adaptacije neuseljivа",
+    "ruralna lokacija Turanovac – minimalna likvidnost"
+  ],
+  "reasoning": "Kuća s dvorištem u Turanovcu uz 50% popust na drugoj dražbi daje matematički atraktivan ROI, ali suvlasnički udio i duboka ruralna lokacija kraj Bjelovara čine izlaznu strategiju gotovo nemogućom. Korisno jedino ako je vlasnik suvlasničkog dijela spreman prodati zajedno.",
+  "input_hash": "320f4714be47",
+  "scored_at": "2026-04-22T07:49:01.530256"
+}

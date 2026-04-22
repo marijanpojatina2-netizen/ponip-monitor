@@ -1,0 +1,15 @@
+{
+  "id": "59237",
+  "score_overall": 4.0,
+  "score_lokacija": 5.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Livada u Šašinovcu (Sesvete/Dugo Selo) – periferija Zagreba daje razvojni potencijal, ali 20% popust na prvoj dražbi za čisto livadno zemljište nije dovoljno atraktivno. Vrijedi pratiti ako padne na nižim dražbama.",
+  "flags": [
+    "samo livada bez objekata – provjeri UPU i zoniranje",
+    "nema infrastrukture priključaka"
+  ],
+  "input_hash": "be4800ff23aa",
+  "scored_at": "2026-04-22T07:49:01.529995"
+}

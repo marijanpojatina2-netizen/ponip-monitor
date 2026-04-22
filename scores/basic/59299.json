@@ -1,0 +1,15 @@
+{
+  "id": "59299",
+  "score_overall": 6.0,
+  "score_lokacija": 5.5,
+  "score_roi": 6.0,
+  "score_stanje": 7.0,
+  "recommendation": "watch",
+  "reasoning": "Garažno mjesto 19,7 m2 s etažnim vlasništvom u Varaždinu nudi stabilan prinos od najma, minimalno održavanje i likvidniju prodaju od agrarnog zemljišta. Popust 25% na prvoj dražbi i gradska lokacija čine ovo najpraktičnijim predmetom u grupi, ali mala jedinica ograničava ukupni prinos.",
+  "flags": [
+    "mala površina 19,7 m2 – ograničen apsolutni prinos",
+    "stečajni dužnik – provjeri terha"
+  ],
+  "input_hash": "8ea4362ada16",
+  "scored_at": "2026-04-22T07:44:23.870406"
+}

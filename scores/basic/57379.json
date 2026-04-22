@@ -1,0 +1,15 @@
+{
+  "id": "57379",
+  "score_overall": 3.5,
+  "score_lokacija": 3.0,
+  "score_roi": 5.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Popust od 40% i druga dražba daju određenu ROI osnovu, ali k.o. Zelčin je ruralna lokacija bez jasne turističke ili urbane privlačnosti i tržišna potražnja je minimalna. Bez ikakvih detalja o stanju zgrade nemoguće je procijeniti stvarne troškove ulaska i izlazne vrijednosti.",
+  "flags": [
+    "ruralna lokacija - slaba tržišna likvidnost",
+    "nema detalja o stanju zgrade"
+  ],
+  "input_hash": "dc4aca35c964",
+  "scored_at": "2026-04-22T07:41:06.700935"
+}

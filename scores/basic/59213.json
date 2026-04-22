@@ -1,0 +1,16 @@
+{
+  "id": "59213",
+  "score_overall": 4.0,
+  "score_lokacija": 5.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Oranica 8228 m2 u k.o. Šašinovec (administrativno područje Sesveta/Dugog Sela) ima potencijal zbog blizine Zagreba - vrijedi provjeriti GUP zonaciju jer bi građevinska namjena dramatično promijenila sliku. Popust i uvjeti dražbe nisu izvanredni, ali lokacija opravdava praćenje.",
+  "flags": [
+    "samo oranica - nema zgrade",
+    "nepoznata zonska namjena - ključno provjeriti GUP",
+    "mali popust uz prvu dražbu"
+  ],
+  "input_hash": "1a2424dd6ab6",
+  "scored_at": "2026-04-22T07:41:06.701133"
+}

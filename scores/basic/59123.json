@@ -1,0 +1,16 @@
+{
+  "id": "59123",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Oranice u Gornjem Daruvaru s minimalnih 20% popusta na prvoj dražbi ne nude smisleni investicijski potencijal; niska likvidnost Bjelovarsko-bilogorske regije i visoka apsolutna cijena za poljoprivredno zemljište čine ovo neatraktivnim.",
+  "flags": [
+    "niska likvidnost regije",
+    "poljoprivredno zemljište bez razvoja",
+    "prva dražba - cijena blizu procjene"
+  ],
+  "input_hash": "1fc214840645",
+  "scored_at": "2026-04-22T07:34:34.713449"
+}

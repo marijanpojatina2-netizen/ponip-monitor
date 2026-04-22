@@ -1,0 +1,14 @@
+{
+  "id": "58228",
+  "score_overall": 4.5,
+  "score_lokacija": 5.0,
+  "score_roi": 5.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Livada kod Nedelišća (Međimurje) privlačna je zbog 40% popusta na drugoj dražbi, ali čisto poljoprivredno zemljište ima ograničenu likvidnost čak i u boljoj međimurskoj regiji.",
+  "flags": [
+    "poljoprivredno zemljište - provjera mogućnosti prenamjene u GUP-u"
+  ],
+  "input_hash": "b2d0a9c2d560",
+  "scored_at": "2026-04-22T07:47:56.162124"
+}

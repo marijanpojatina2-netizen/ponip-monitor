@@ -1,0 +1,16 @@
+{
+  "id": "58382",
+  "score_overall": 6.5,
+  "score_lokacija": 6.5,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Imovina u k.o. Martinac (Istra, nadležnost Pazin) s katastarskom oznakom 'kuća i dvorište' sugerira postojanje stambenog objekta za ~5600 EUR što bi za istarsko tržište bio izniman ulaz; obavezna terenska provjera fizičkog stanja objekta.",
+  "flags": [
+    "nejasno fizičko stanje - moguća ruševina ili samo katastarska oznaka bez objekta",
+    "livade uz kuću - provjera građevinskih uvjeta",
+    "inland Istra - ne obalna zona"
+  ],
+  "input_hash": "af543f0be575",
+  "scored_at": "2026-04-22T07:47:56.162450"
+}

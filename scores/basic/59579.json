@@ -1,0 +1,16 @@
+{
+  "id": "59579",
+  "score_overall": 2.0,
+  "score_lokacija": 1.5,
+  "score_roi": 2.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Čista oranica u k.o. Trpinja kraj Vukovara - jedna od najslabijih investicijskih lokacija u Hrvatskoj; 20% popust ne znači ništa bez izlazne strategije u ratom pogođenoj depopulacijskoj regiji.",
+  "flags": [
+    "blizina Vukovara - ratno i depopulacijsko područje",
+    "samo oranica - nulti prihodovni potencijal",
+    "iznimno niska likvidnost tržišta"
+  ],
+  "input_hash": "60383f0664dc",
+  "scored_at": "2026-04-22T07:33:03.376074"
+}

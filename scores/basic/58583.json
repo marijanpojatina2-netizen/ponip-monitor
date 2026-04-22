@@ -1,0 +1,16 @@
+{
+  "id": "58583",
+  "score_overall": 2.0,
+  "score_lokacija": 1.5,
+  "score_roi": 2.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Suvlasništvo 1/2 oranica u Županji - loša kombinacija slabe lokacije, suvlasničke komplikacije i nultog prihodovnog potencijala; bez jasne izlazne strategije u depopulacijskoj Slavoniji.",
+  "flags": [
+    "suvlasništvo 1/2 - koordinacija s drugim suvlasnikom",
+    "oranica - nema prihoda",
+    "Županja - depopulacijska zona, Vukovarsko-srijemska"
+  ],
+  "input_hash": "dc37280009cf",
+  "scored_at": "2026-04-22T07:33:03.376598"
+}

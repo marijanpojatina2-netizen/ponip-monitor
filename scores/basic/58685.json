@@ -1,0 +1,16 @@
+{
+  "id": "58685",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 3.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica 11.620 m2 u k.o. Gorica Nova kraj Koprivnice – tipično podravsko ruralno zemljište bez katalitičkih faktora za rast vrijednosti. Minimalni popust od 20% na prvoj dražbi ne opravdava angažman uz slabu regionalnu likvidnost.",
+  "flags": [
+    "ruralno Podravlje",
+    "čisto poljoprivredno zemljište",
+    "niska likvidnost"
+  ],
+  "input_hash": "e77d88f1ac2f",
+  "scored_at": "2026-04-22T07:44:23.870230"
+}

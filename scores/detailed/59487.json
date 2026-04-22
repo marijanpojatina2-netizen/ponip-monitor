@@ -1,0 +1,61 @@
+{
+  "id": "59487",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 2.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Nekretnina se nalazi u Petrinji — depopulacijskom području i epicentru razornog potresa od 29. prosinca 2020. (M6.4), što su fundamentalni strukturni negativi. Kritična zapreka je suvlasnički udio od samo 1/2: kupac ne dobiva punu kontrolu nad nekretninom, a bez suglasnosti drugog suvlasnika svako raspolaganje, renovacija ili najam postaje pravna blokada. Početna cijena od 483.176 EUR za polovicu zgrade 1350 m² u Petrinji je znatno iznad realnih tržišnih vrijednosti ove regije, čak i uz 20%-tni popust od sudske procjene. Za ovaj iznos u RH dostupne su likvidnije nekretnine višeg prinosa.",
+  "flags": [
+    "KRITIČNO: suvlasništvo 1/2 — prodaje se isključivo polovina, drugi suvlasnik zadržava pravo suvlasništva i pravo prvokupa",
+    "Petrinja — epicentar potresa M6.4 (29.12.2020.): stanje zgrade 1350 m² nije opisano, potresne štete nepoznate",
+    "Depopulacijska zona: Sisačko-moslavačka županija bilježi kontinuirani pad stanovništva i jedan od najnižih volumena transakcija u RH",
+    "Sudska procjena vjerojatno nadcijenjena: 603.970 EUR za 1/2 udjela u Petrinji znatno premašuje tržišne komparatore",
+    "Nema opisa stanja objekta za zgradu od 1350 m² — bez razgledanja i tehničkog pregleda nemoguće procijeniti stvarni trošak sanacije",
+    "Mješovita struktura čestica (zgrada + oranice + livade + put) komplicira uknjižbu i potencijalnu diobu"
+  ],
+  "market_estimate": {
+    "eur_min": 260000,
+    "eur_max": 370000,
+    "confidence": "low",
+    "basis": "Post-potresno tržište Petrinje: stambene nekretnine 350–550 EUR/m², poslovni/komercijalni prostori 250–450 EUR/m². Za zgradu 1350 m² na pola (675 m² ekvivalent) uz post-potresni diskont i suvlasnički rizik — realna tržišna vrijednost 1/2 dijela procjenjuje se na 260.000–370.000 EUR. Web pretraživanje nije bilo dostupno; procjena je konzervativna i temeljena na stručnom poznavanju tržišta."
+  },
+  "comparables": [
+    {
+      "opis": "Stambena kuća Petrinja, veća površina, prodaja post-potres",
+      "cijena": 85000,
+      "m2": 200,
+      "izvor": "njuskalo.hr (poznat tržišni raspon)",
+      "url": "https://www.njuskalo.hr/prodaja-kuca/sisacko-moslavacka-zupanija"
+    },
+    {
+      "opis": "Poslovni prostor Sisak centar (usporediva regija), ~300 m²",
+      "cijena": 150000,
+      "m2": 300,
+      "izvor": "nekretnine.net (poznat tržišni raspon)",
+      "url": "https://www.nekretnine.net/stambeni-objekti/poslovni-prostori/prodaja/sisak/"
+    },
+    {
+      "opis": "Veća zgrada / hala Sisak-okolica, industrijska namjena",
+      "cijena": 280000,
+      "m2": 800,
+      "izvor": "tržišna procjena (web nedostupan)",
+      "url": "https://www.njuskalo.hr/prodaja-poslovnih-prostora/sisacko-moslavacka-zupanija"
+    }
+  ],
+  "investment_strategy": "Nema preporučene strategije pri ovoj strukturi i cijenovnom nivou. Teorijski: otkup 1/2 udjela, pa pokušaj dogovora s drugim suvlasnikom za zajedničku prodaju ili razvoj — ali to je višegodišnji pravni proces s neizvjesnim ishodom. Komercijalni najam 1350 m² u Petrinji teško je ostvariv iznad 3–5 EUR/m²/mj, što daje bruto prinos <4% na uloženi kapital. Reno-flip nije atraktivan zbog slabog izlaznog tržišta.",
+  "entry_price_eur": 230000,
+  "detailed_risks": [
+    "Suvlasnički udio 1/2: pravna blokada bez suglasnosti suvlasnika za sve veće odluke o nekretnini (renovacija, najam, prodaja, hipoteka)",
+    "Pravo prvokupa suvlasnika: drugi suvlasnik može preuzeti po dražbenoj cijeni — investitor može izgubiti nekretninu čak i ako 'pobijedi' na dražbi",
+    "Potresne štete: Petrinja je bila u epicentru M6.4 — za zgradu 1350 m² bez elaborata o stanju postoji realan rizik skrivenih konstruktivnih oštećenja",
+    "Tržišna nelikvidnost: SMŽ ima <200 transakcija godišnje — exit strategija može trajati 3–7 godina",
+    "Sudska procjena 603.970 EUR za 1/2 zgrade u Petrinji upitna — moguće da je rađena po predratnim/predpotresnim metodologijama",
+    "Agrikulturno zemljište (oranice, livade, put) minimalne investicijske vrijednosti, ali generira obveze i poreze",
+    "Nejasna namjena zgrade: 'ostala zemljišta / zgrada' — nije stambena ni jasno komercijalna, može imati regulatorne prepreke za promjenu namjene"
+  ],
+  "upside_scenario": "Ako zgrada nema konstruktivnih oštećenja od potresa, ako se u roku 12 mjeseci postigne dogovor s drugim suvlasnikom za zajednički otkup ili prodaju, i ako EU fondovi za obnovu SMŽ (IPA/Cohesion) pokrenu investicijski ciklus u regiji — moguće je postići prodaju cijele nekretnine za 600.000–750.000 EUR u horizontu 4–6 godina. ROI uz entry od 230.000 EUR: ~30–60% kumulativno, ali vremenski i pravno iznimno zahtjevno.",
+  "downside_scenario": "Drugi suvlasnik odbija suradnju ili aktivira pravo prvokupa. Zgrada zahtijeva 150.000–300.000 EUR konstruktivne sanacije. Nema kupaca za 1/2 udio na tržištu. Neto gubitak 150.000–250.000 EUR uz troškove održavanja, poreza i pravnih postupaka u periodu 3–5 godina. Mogući ishod: prisilna dioba sudskim putem — skupo i sporo.",
+  "input_hash": "533529213506",
+  "scored_at": "2026-04-22T08:09:17.252005"
+}

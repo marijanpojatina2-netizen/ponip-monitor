@@ -1,0 +1,15 @@
+{
+  "id": "58442",
+  "score_overall": 3.0,
+  "score_lokacija": 4.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Livada od 1.453 m² u k.o. Zabok – Zagorje ima relativno bolju prometnu povezanost nego Slavonija, ali gola livada bez ikakve infrastrukture uz 20% popusta na prvoj dražbi nudi slab ROI. Samostalno beznačajan predmet, interes raste jedino uz kupnju susjedne čkbr. 4414/2 (ID 58448).",
+  "flags": [
+    "isključivo livada – nema građevinskog objekta",
+    "interesantno samo u kombinaciji s ID 58448"
+  ],
+  "input_hash": "9c9881fdb053",
+  "scored_at": "2026-04-22T07:42:18.606279"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "57833",
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 5.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Popust od 40% na drugoj dražbi jedini je argument, ali lokacija u dubokoj ruralnoj zoni kod Ivanca (Varaždin County) ima izuzetno nisku potražnju i likvidnost za poljoprivredno zemljište; broj potencijalnih kupaca zanemariv.",
+  "flags": [
+    "duboka ruralna zona - depopulacijski trend",
+    "oranica i livada bez razvojnog potencijala",
+    "nema objekata",
+    "slabo tržište Ivanca"
+  ],
+  "input_hash": "8238fa661f3e",
+  "scored_at": "2026-04-22T07:51:18.653009"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "59084",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 4.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Pašnjak 10.477 m2 u k.o. Živaja (Sisačko-moslavačka) – ruralna depopulacijska lokacija s minimalnom potražnjom za pašnjacima i gotovo nultom likvidnošću. Popust 25% ne kompenzira odsutnost izlazne strategije za čisto agrarno zemljište.",
+  "flags": [
+    "poljoprivredno zemljište bez razvojnog potencijala",
+    "depopulacijsko područje",
+    "niska likvidnost"
+  ],
+  "input_hash": "2afdb8e8a702",
+  "scored_at": "2026-04-22T07:44:23.869889"
+}

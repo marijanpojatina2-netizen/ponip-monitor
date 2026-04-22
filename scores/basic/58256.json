@@ -1,0 +1,15 @@
+{
+  "id": "58256",
+  "score_overall": 5.5,
+  "score_lokacija": 4.5,
+  "score_roi": 7.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Druga dražba s 40% popustom u Nedelišću – industrijsko-prigradskoj zoni uz Čakovec – daje najjači ROI signal u cijelom setu, a Međimurje je jedna od razvijenijih kontinentalnih županija. Livada/senokoše 1.596 m2 bez građevinskog potencijala po sadašnjem zoniranju – isplativost ovisi o mogućnosti prenamjene, što zahtijeva provjeru DPU/UPU za tu katastarsku česticu.",
+  "flags": [
+    "senokoše – provjeri zoniranje i mogućnost prenamjene",
+    "II. dražba – istražiti razlog neuspjele prve"
+  ],
+  "input_hash": "3f5ab5f4fc39",
+  "scored_at": "2026-04-22T07:44:23.870655"
+}

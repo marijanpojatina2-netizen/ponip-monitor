@@ -1,0 +1,15 @@
+{
+  "id": "58589",
+  "score_overall": 5.5,
+  "score_lokacija": 6.5,
+  "score_roi": 5.0,
+  "score_stanje": 6.0,
+  "recommendation": "watch",
+  "reasoning": "Garažno mjesto 6.2m2 u Vrapču (Zagreb) s 25% popustom - lokacija je dobra, ali dimenzija je kritično mala za standardni automobil što drastično sužava bazen zakupaca i kupaca.",
+  "flags": [
+    "garaža 6.2m2 - mikrodimenzija, jedva za mali auto ili motocikl",
+    "suvlasništvo 53/10000 u stambenoj zgradi - zanemariv udio"
+  ],
+  "input_hash": "f4e1df8acc86",
+  "scored_at": "2026-04-22T07:33:03.376441"
+}

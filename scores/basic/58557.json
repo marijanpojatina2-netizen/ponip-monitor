@@ -1,0 +1,15 @@
+{
+  "id": "58557",
+  "score_overall": 2.0,
+  "score_lokacija": 1.5,
+  "score_roi": 2.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "38 hektara livada i pašnjaka u Ličkom Cerju kraj Gospića - cijena od 0.29 EUR/m2 samo potvrđuje tržišnu realnost: Lika je jedna od najtežih za realizaciju investicija u Hrvatskoj.",
+  "flags": [
+    "Lika - depopulacija i praktično nefunkcionalno tržište nekretnina",
+    "38.000 m2 čistog pašnjaka - bez ikakve infrastrukture ili prihoda"
+  ],
+  "input_hash": "a1713e473a13",
+  "scored_at": "2026-04-22T07:33:03.376359"
+}

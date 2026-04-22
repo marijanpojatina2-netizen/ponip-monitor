@@ -1,0 +1,17 @@
+{
+  "id": "59113",
+  "score_overall": 3.5,
+  "score_lokacija": 3.5,
+  "score_roi": 4.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica u ruralnom dijelu istočno od Zagreba (k.o. Šašinovec) s tek 20% popustom na prvoj dražbi nudi slab investicijski case; kao čisto poljoprivredno zemljište bez objekata ima ograničenu likvidnost i potencijal preunamjene.",
+  "flags": [
+    "poljoprivredno zemljište - ograničena preunamjena",
+    "niska likvidnost ruralne periferije",
+    "prva dražba - minimalni popust",
+    "bez objekata"
+  ],
+  "input_hash": "0584f91c16ea",
+  "scored_at": "2026-04-22T07:51:18.652777"
+}

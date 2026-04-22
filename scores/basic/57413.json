@@ -1,0 +1,16 @@
+{
+  "id": "57413",
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 5.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Popust od 50% i druga dražba su privlačni na papiru, ali prodaje se samo suvlasnički udio ½ dok drugi suvlasnik nije u postupku - što znači ulazak u prisilno suvlasništvo s nepoznatom osobom i blokirano raspolaganje bez sudske diobe. Ruralna Slavonija (Suhopolje) s minimalnom tržišnom likvidnošću čini exit strategiju nerealizabilnom.",
+  "flags": [
+    "suvlasnički dio ½ - drugi suvlasnik nije u postupku",
+    "prisilno suvlasništvo - blokirano raspolaganje",
+    "ruralna Slavonija - slaba likvidnost"
+  ],
+  "input_hash": "e0e51906a0ab",
+  "scored_at": "2026-04-22T07:41:06.700683"
+}

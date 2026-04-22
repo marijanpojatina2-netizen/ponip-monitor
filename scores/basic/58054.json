@@ -1,0 +1,15 @@
+{
+  "id": "58054",
+  "score_overall": 4.5,
+  "score_lokacija": 5.5,
+  "score_roi": 5.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Blizina Samobora i 40% popust na drugoj dražbi su solidan temelj, ali nelegalizirana kuća od svega 29m2 nosi pravni rizik koji bez uvida u izvedivost legalizacije čini ovaj ulog špekulativnim. Ako legalizacija prođe, break-even je realan.",
+  "flags": [
+    "kuća nije legalizirana",
+    "29m2 - marginalna veličina za legalizaciju"
+  ],
+  "input_hash": "63dd92506980",
+  "scored_at": "2026-04-22T07:34:34.713553"
+}

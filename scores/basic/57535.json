@@ -1,0 +1,16 @@
+{
+  "id": "57535",
+  "score_overall": 6.0,
+  "score_lokacija": 7.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Kukljica na otoku Ugljan je turistički atraktivna lokacija s dobrim popustom (40%) i drugom dražbom, no vrt od svega 40m² bez ikakve građevine drastično ograničava investicijski potencijal i mogućnosti unovčavanja.",
+  "flags": [
+    "nema građevinskog objekta - samo vrt 40m²",
+    "ograničena mogućnost gradnje na vrtu",
+    "niska likvidnost bez objekta"
+  ],
+  "input_hash": "40f76b6e9c11",
+  "scored_at": "2026-04-22T07:50:29.092594"
+}

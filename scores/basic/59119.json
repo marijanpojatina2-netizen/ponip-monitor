@@ -1,0 +1,16 @@
+{
+  "id": "59119",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica 11.516 m2 u Ivanovom Polju kraj Daruvara – jedna od demografski najdepresivnijih zona u ovom setu, slavonsko zaleđe s trajnim padom broja stanovnika i potražnje. Nema investicijskog slučaja za neagrarnog investitora.",
+  "flags": [
+    "depopulacijska zona Slavonije",
+    "Ivanovo Polje – ruralni mikrolokalitet",
+    "nejasna izlazna strategija"
+  ],
+  "input_hash": "6fffc583ed0d",
+  "scored_at": "2026-04-22T07:44:23.870321"
+}

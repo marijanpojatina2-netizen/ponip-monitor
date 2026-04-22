@@ -1,0 +1,16 @@
+{
+  "id": "58854",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica u slavonskom selu k.o. Oljasi s 25% popustom na prvoj dražbi nema realne investicijske vrijednosti zbog kronično nelikvidnog tržišta i depopulacijske regije. Izlazna strategija praktički ne postoji jer potražnja za kupnjom poljoprivrednog zemljišta u toj zoni gotovo da nema.",
+  "flags": [
+    "Slavonija - depopulacijsko područje",
+    "Ekstremno niska likvidnost",
+    "Stečajna masa - moguće skrivene obveze"
+  ],
+  "input_hash": "1327f1ce6581",
+  "scored_at": "2026-04-22T07:38:29.945453"
+}

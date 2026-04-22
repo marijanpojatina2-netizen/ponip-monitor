@@ -1,0 +1,16 @@
+{
+  "id": "59333",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 3.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Kuća u Cigleniku kod Oriovca je tipično slavonsko depopulacijsko selište s iznimno slabom potražnjom i likvidnošću na tržištu. Popust od 20% uz prvu dražbu daleko je ispod praga koji bi opravdao ulazak u ovu regiju.",
+  "flags": [
+    "depopulacijsko ruralno područje (Brodsko-posavska)",
+    "slaba likvidnost slavonskog tržišta",
+    "nema detalja o stanju kuće"
+  ],
+  "input_hash": "41c2e29ad9a5",
+  "scored_at": "2026-04-22T07:41:06.701230"
+}

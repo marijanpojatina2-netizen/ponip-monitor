@@ -1,0 +1,16 @@
+{
+  "id": "57904",
+  "score_overall": 4.5,
+  "score_lokacija": 4.5,
+  "score_roi": 5.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Mješovito poljoprivredno zemljište ~4.852 m² u k.o. Bukevje (blizina Velika Gorica / Zagreb county) za svega 5.570 EUR uz 50% popust na drugoj dražbi nudi nisku ulaznu točku s marginalnom geografskom prednosti. Isključivo poljoprivredna namjena bez infrastrukture ograničava kratkoročni ROI, a prenamjena u blizini Zagreba je neizvjesna ali ne i nemoguća.",
+  "flags": [
+    "Isključivo poljoprivredna namjena",
+    "Bez komunalne infrastrukture",
+    "Prenamjena neizvjesna - potrebna provjera UPU"
+  ],
+  "input_hash": "c9294eb614ea",
+  "scored_at": "2026-04-22T07:38:29.945903"
+}

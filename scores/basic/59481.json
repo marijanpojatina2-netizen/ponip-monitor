@@ -1,0 +1,16 @@
+{
+  "id": "59481",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Suvlasništvo 1/2 trafostanice i radionice u Petrinji - specifična komercijalna namjena u potresom pogođenoj i depopulacijskoj regiji ozbiljno sužava raspon kupaca i izlaznih opcija; 20% popust nedostatan za preuzeti rizik.",
+  "flags": [
+    "suvlasništvo 1/2 - koordinacija s drugim suvlasnikom neophodna",
+    "trafostanica - ograničena i specifična namjena",
+    "Petrinja - potres 2020, depopulacija, Sisačko-moslavačka"
+  ],
+  "input_hash": "c5edbdec83bf",
+  "scored_at": "2026-04-22T07:33:03.376177"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "59307",
+  "score_overall": 5.0,
+  "score_lokacija": 6.0,
+  "score_roi": 5.0,
+  "score_stanje": 6.0,
+  "recommendation": "watch",
+  "reasoning": "Garažno mjesto u Varaždinu solidan je likvidni asset u dobrom gradu, ali 16 m² s 25% popustom daje skroman apsolutni ROI i ograničen kapital upside bez potencijala najma.",
+  "flags": [
+    "mala površina 16.40 m² - ograničen upside",
+    "suvlasnički udio u zgradi - ograničenja upravljanja"
+  ],
+  "input_hash": "5a6756bf7ea1",
+  "scored_at": "2026-04-22T07:47:56.161782"
+}

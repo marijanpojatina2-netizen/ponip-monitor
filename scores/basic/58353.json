@@ -1,0 +1,16 @@
+{
+  "id": "58353",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica od 1.2 ha u Treštanovicama kod Požege bez objekta, na prvoj dražbi s minimalnih 20% popusta u ruralnoj slavonskoj zoni s niskom likvidnošću - nema temelja za investicijsku priču.",
+  "flags": [
+    "ruralna Slavonija - niska potražnja",
+    "samo prva dražba - bez dodatnog popusta",
+    "oranica bez objekta, nema razvoja"
+  ],
+  "input_hash": "e55bc52956cd",
+  "scored_at": "2026-04-22T07:50:29.093238"
+}

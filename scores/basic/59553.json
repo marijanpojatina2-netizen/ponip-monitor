@@ -1,0 +1,16 @@
+{
+  "id": "59553",
+  "score_overall": 3.0,
+  "score_lokacija": 4.5,
+  "score_roi": 3.0,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Zagorska lokacija (Sveti Križ Začretje, blizu Zaboka) je prihvatljiva ali predmet je samo livada 777 m2 bez ikakvog objekta što drastično sužava investicijski case. Minimalni popust od 20% uz prvu dražbu i ograničenu namjenu čini ovu nekretninu investicijski neatraktivnom.",
+  "flags": [
+    "samo livada - bez zgrade",
+    "ograničena i nefleksibilna namjena",
+    "mali popust uz prvu dražbu"
+  ],
+  "input_hash": "bc524197420e",
+  "scored_at": "2026-04-22T07:41:06.701039"
+}

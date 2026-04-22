@@ -1,0 +1,16 @@
+{
+  "id": "58188",
+  "score_overall": 5.0,
+  "score_lokacija": 5.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Istarsko zemljište blizu Pazina s 40% popustom na drugoj dražbi koristi od istarskog tržišnog premijuma i relativno dobre likvidnosti regije, no šumoviti teren i unutrašnja Istra bez pristupa moru značajno ograničavaju razvojni potencijal.",
+  "flags": [
+    "drvna masa / nisko raslinje - moguća šumska ograničenja",
+    "inland Istra bez morske ekspozicije",
+    "potrebna provjera prostornog plana i namjene"
+  ],
+  "input_hash": "342e96bb2481",
+  "scored_at": "2026-04-22T07:51:18.653113"
+}
