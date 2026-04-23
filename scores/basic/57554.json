@@ -1,0 +1,16 @@
+{
+  "id": "57554",
+  "score_overall": 5.5,
+  "score_lokacija": 7.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Kukljica na otoku Ugljanu je turistička zona s dobrim potencijalom blizu Zadra, a 40% popust na drugoj dražbi je solidan; međutim, vrt od samo 90m2 bez jasne građevinske namjene ozbiljno ograničava upotrebljivost i exit strategiju.",
+  "flags": [
+    "mala parcela 90m2",
+    "nejasna mogućnost izgradnje",
+    "vrt bez objekta"
+  ],
+  "input_hash": "4b6acea69479",
+  "scored_at": "2026-04-23T08:03:33.707164"
+}

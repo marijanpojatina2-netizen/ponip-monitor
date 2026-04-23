@@ -1,0 +1,16 @@
+{
+  "id": "59391",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica u k.o. Marinci kod Vukovara s nazivom parcele 'ZA ŠUMOM' sugerira izoliranu lokaciju bez pristupa; 20% popust na prvoj dražbi nedovoljan za kompenzaciju geolokacijskog i likvidnosnog rizika.",
+  "flags": [
+    "Vukovarsko područje - poslijeratni kontekst",
+    "ZA ŠUMOM - potencijalno otegotan pristup",
+    "minimalna tržišna vrijednost preprodaje"
+  ],
+  "input_hash": "bb11349ae3ec",
+  "scored_at": "2026-04-23T07:58:23.139186"
+}

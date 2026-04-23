@@ -1,0 +1,16 @@
+{
+  "id": "58667",
+  "score_overall": 2.5,
+  "score_lokacija": 3.0,
+  "score_roi": 2.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Identična lokacija kao 58663 s dodatnim otežavanjem - suvlasnički udio 1/2 koji onemogućava samostalno raspolaganje nekretninom. Svaka buduća prodaja ili upotreba zahtijeva suglasnost suvlasnika.",
+  "flags": [
+    "suvlasnički udio 1/2 - ograničena upravljačka moć",
+    "niska likvidnost regije",
+    "potrebna suglasnost suvlasnika za prodaju"
+  ],
+  "input_hash": "7df07cefdbe0",
+  "scored_at": "2026-04-23T08:04:52.248136"
+}

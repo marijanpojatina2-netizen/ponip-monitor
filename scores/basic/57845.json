@@ -1,0 +1,16 @@
+{
+  "id": "57845",
+  "score_overall": 4.5,
+  "score_lokacija": 4,
+  "score_roi": 6,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Varaždinska regija kao industrijska i ekonomski aktivna zona ima bolji kontekst od Slavonije, a 40% popust na drugoj dražbi za voćnjak u Druškovcu (Ivanec) je solidan ulazni parametar. Međutim, čisto agrarni karakter parcele bez turističkog potencijala ograničava kratkoročni i srednjoročni ROI - logičnije čekati treću dražbu.",
+  "flags": [
+    "voćnjak - agrarno zoniranje",
+    "ograničeni turistički i razvojni potencijal - Ivanec okolica",
+    "veće tržišne šanse na trećoj dražbi"
+  ],
+  "input_hash": "7cbcef65112a",
+  "scored_at": "2026-04-23T08:07:09.984978"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "57890",
+  "score_overall": 4.5,
+  "score_lokacija": 5.0,
+  "score_roi": 6.0,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Livada + oranica ukupno 3363m2 u k.o. Bukevje (ZK odjel Velika Gorica, Zagrebačka županija) za 1870 EUR - 50% popust na 2. dražbi uz blizinu Zagreba čini ovo najatraktivnijim predmetom u skupu s realnim potencijalom dugoročne aprecijacije. Preporučuje se provjera zoninga, GUP-a i mogućnosti prenamjene prije aktivnog interesa.",
+  "flags": [
+    "stečajna masa - provjeri ograničenja",
+    "poljoprivredno zemljište - obvezna provjera zoning/GUP prenamjena",
+    "nema neposrednih prihoda - isključivo dugoročna špekulativna kupnja"
+  ],
+  "input_hash": "c04d10c3a610",
+  "scored_at": "2026-04-23T08:00:04.047099"
+}

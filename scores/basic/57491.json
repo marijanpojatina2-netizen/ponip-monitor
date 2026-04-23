@@ -1,0 +1,16 @@
+{
+  "id": "57491",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 3.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "40% popust i druga dražba zvuče privlačno, ali kupuje se samo 9/16 suvlasničkog dijela dok ovrhovoditelj zadržava 7/16 - praktična iskoristivost poljoprivrednog zemljišta u ruralnom Karlovcu blokirana je suvlasničkim odnosom.",
+  "flags": [
+    "suvlasništvo - kupuje se 9/16, ovrhovoditelj drži 7/16",
+    "prava suposjednika ne prestaju prodajom",
+    "ruralno - nema građevinskog potencijala"
+  ],
+  "input_hash": "5d2ac1102709",
+  "scored_at": "2026-04-23T07:58:23.138733"
+}

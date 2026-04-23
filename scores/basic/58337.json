@@ -1,0 +1,16 @@
+{
+  "id": "58337",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 2.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Šuma 2400 m2 u okolici Požege bez mogućnosti izgradnje i s minimalnom komercijalnom vrijednošću; 20% popust na prvoj dražbi daleko ispod praga zanimljivosti za ovaj tip imovine u ruralnoj Slavoniji.",
+  "flags": [
+    "šuma - zakonska zabrana izgradnje",
+    "ruralna Slavonija - slaba likvidnost",
+    "minimalna komercijalna iskoristivost"
+  ],
+  "input_hash": "4d17c629e673",
+  "scored_at": "2026-04-23T07:58:23.138988"
+}

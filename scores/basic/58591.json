@@ -1,0 +1,16 @@
+{
+  "id": "58591",
+  "score_overall": 3.0,
+  "score_lokacija": 6.5,
+  "score_roi": 3.0,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Iako se radi o zagrebačkoj adresi, stvarni predmet prodaje je etažna prostorija E-18 u podrumu svega 2,20 m2 (pohrana/ostava) uz suvlasnički udio 19/10000 - praktički bez ikakve komercijalne iskoristivosti. Zagreb lokacija ne može kompenzirati tako minimalnu korisnu površinu.",
+  "flags": [
+    "stvarni predmet je 2,20 m2 podrumska prostorija (ostava/pohrana)",
+    "suvlasnički udio 19/10000 - izrazito mali",
+    "nema stambene ni poslovne iskoristivosti"
+  ],
+  "input_hash": "28a173c64896",
+  "scored_at": "2026-04-23T07:52:25.334396"
+}

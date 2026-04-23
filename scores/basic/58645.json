@@ -1,0 +1,16 @@
+{
+  "id": "58645",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica u Podravini (Prugovac/Đurđevac) u depopulacijskom području bez razvojne perspektive; 20% popust na prvoj dražbi i tip imovine ne opravdavaju ulazak.",
+  "flags": [
+    "depopulacijsko područje Podravine",
+    "isključivo poljoprivredna namjena",
+    "minimalna tržišna likvidnost"
+  ],
+  "input_hash": "4a8b98002c09",
+  "scored_at": "2026-04-23T07:58:23.138521"
+}

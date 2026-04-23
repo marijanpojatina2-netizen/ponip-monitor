@@ -1,0 +1,16 @@
+{
+  "id": "58430",
+  "score_overall": 3.0,
+  "score_lokacija": 5.0,
+  "score_roi": 2.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Livada 1155m2 u Zaboku s vlasničkim udjelom 1/2 - kombinacija parcijalnog vlasništva, prve dražbe i svega 20% popusta eliminira investicijsku logiku unatoč solidnoj lokaciji blizu Zagreba. Bez suvlasničke suglasnosti nema slobodne disposicije.",
+  "flags": [
+    "suvlasnički udio 1/2 - ograničava svaku aktivnost bez suglasnosti",
+    "1. dražba, samo 20% popust",
+    "livada bez potvrđene građevinske namjene"
+  ],
+  "input_hash": "30265015922d",
+  "scored_at": "2026-04-23T08:00:04.046898"
+}

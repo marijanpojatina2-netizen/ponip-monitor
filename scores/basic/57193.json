@@ -1,0 +1,16 @@
+{
+  "id": "57193",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 4.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Molve kod Đurđevca je duboko ruralno i depopulacijsko područje Podravine s minimalnom likvidnošću tržišta; premda 40% popust na drugoj dražbi djelomično kompenzira, livade od 6114m2 u ovoj regiji imaju zanemariv investicijski potencijal.",
+  "flags": [
+    "depopulacijsko područje",
+    "niska likvidnost tržišta",
+    "isključivo poljoprivredna namjena"
+  ],
+  "input_hash": "421f58137124",
+  "scored_at": "2026-04-23T08:03:33.707376"
+}

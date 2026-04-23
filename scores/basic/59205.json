@@ -1,0 +1,15 @@
+{
+  "id": "59205",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 2.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Vinograd u ruralnoj Podravini (Prugovac kod Đurđevca) s minimalnim prometom nekretninama i slabom potražnjom, popust od svega 20% na prvoj dražbi ne opravdava rizik ulaska. Nema turističkog ni razvojnog potencijala.",
+  "flags": [
+    "ruralno depopulacijsko područje - iznimno niska likvidnost",
+    "isključivo poljoprivredno zemljište bez perspektive razvoja"
+  ],
+  "input_hash": "47aea53d8e84",
+  "scored_at": "2026-04-23T08:01:52.554485"
+}

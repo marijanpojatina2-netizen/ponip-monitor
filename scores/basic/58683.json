@@ -1,0 +1,16 @@
+{
+  "id": "58683",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica u Koprivničko-križevačkoj županiji, ruralno tržište s ograničenom potražnjom i niskim prinosima. Prva dražba i standardnih 20% popusta čine ovu parcelu investicijski nezanimljivom.",
+  "flags": [
+    "isključivo poljoprivredno zemljište",
+    "ruralna lokacija – ograničena likvidnost",
+    "nema razvojnog potencijala"
+  ],
+  "input_hash": "5dacad03a5ca",
+  "scored_at": "2026-04-23T07:53:29.104255"
+}

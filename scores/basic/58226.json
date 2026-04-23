@@ -1,0 +1,15 @@
+{
+  "id": "58226",
+  "score_overall": 4.5,
+  "score_lokacija": 4.5,
+  "score_roi": 5.5,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Livada u Nedelišću kod Čakovca s 40% popustom na drugoj dražbi u ekonomski razvijenijoj Međimurskoj županiji - popust je atraktivan ali namjena je isključivo senokoša bez jasnog prihoda. Vrijedi pratiti ako postoji mogućnost promjene namjene u prostornom planu.",
+  "flags": [
+    "isključivo livada/senokoša - trenutno ograničena namjena",
+    "provjera prostornog plana za eventualnu promjenu namjene"
+  ],
+  "input_hash": "ace6e190c451",
+  "scored_at": "2026-04-23T08:01:52.554961"
+}

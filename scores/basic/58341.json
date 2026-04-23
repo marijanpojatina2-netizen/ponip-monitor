@@ -1,0 +1,16 @@
+{
+  "id": "58341",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Šuma u Požeško-slavonskoj županiji, jednom od najdepopuliranijih područja Hrvatske – minimalna potražnja i praktički nema sekundarnog tržišta za ovakvu imovinu. Šumsko zemljište bez ikakvih objekata uz svega 20% popusta nema investicijskog smisla.",
+  "flags": [
+    "šumsko zemljište – jako ograničena namjena",
+    "depopulacijsko područje Požeštine",
+    "nema tržišne likvidnosti"
+  ],
+  "input_hash": "5206a3b30b38",
+  "scored_at": "2026-04-23T07:53:29.104141"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "57221",
+  "score_overall": 3.5,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Livada u Križu Gornjem kod Bjelovara s 40% popustom na drugoj dražbi - popust je dobar ali ruralno bjelovarsko tržište nema dovoljno potražnje za agrikulturnim zemljištem. Zastarjele austro-ugarske mjerne jedinice otežavaju procjenu točne površine.",
+  "flags": [
+    "ruralno bjelovarsko područje slabe likvidnosti",
+    "površina izražena u zastarjelim austro-ugarskim mjerama (jutro/čhv) - potrebna konverzija i provjera"
+  ],
+  "input_hash": "c9af8c5e70b5",
+  "scored_at": "2026-04-23T08:01:52.555062"
+}

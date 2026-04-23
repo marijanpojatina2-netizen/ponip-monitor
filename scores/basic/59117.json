@@ -1,0 +1,16 @@
+{
+  "id": "59117",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 2.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Suvlasništvo 1/5 čini ovu nekretninu praktički neupotrebljivom bez suglasnosti ostalih suvlasnika, a lokacija u ruralnoj Slavoniji dodatno otežava izlaz. Popust od 20% na prvoj dražbi nikako ne kompenzira strukturalni rizik suvlasništva.",
+  "flags": [
+    "suvlasništvo 1/5 – bez suglasnosti ostalih suvlasnika nije upotrebljivo",
+    "ruralna Slavonija – niska likvidnost",
+    "potencijalni sukob suvlasnika"
+  ],
+  "input_hash": "8d256c274dc6",
+  "scored_at": "2026-04-23T07:53:29.103917"
+}

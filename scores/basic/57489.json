@@ -1,0 +1,17 @@
+{
+  "id": "57489",
+  "score_overall": 5.0,
+  "score_lokacija": 7.0,
+  "score_roi": 5.5,
+  "score_stanje": 2.5,
+  "recommendation": "watch",
+  "reasoning": "Građevinsko zemljište u Istri (k.o. Buzet) s 40% popustom i istarskom lokacijom ima fundamentalnu privlačnost, no kritični bloker je odsutnost pristupa na javni put što faktički onemogućuje ishođenje građevinske dozvole. Vrijednost stoji isključivo uz uvjet riješavanja pristupa kroz regularizaciju neuknjiženog puta koji graniči s parcelom.",
+  "flags": [
+    "bez pristupa na javni put - kritično za gradnju i dozvolu",
+    "komunalno neopremljeno",
+    "graniči s neuknjiženim putom - neizvjesna i dugotrajna regularizacija",
+    "II. kategorija građevinskog zemljišta - ograničenja"
+  ],
+  "input_hash": "53c64b062084",
+  "scored_at": "2026-04-23T07:52:25.334957"
+}

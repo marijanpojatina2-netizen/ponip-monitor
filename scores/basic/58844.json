@@ -1,0 +1,16 @@
+{
+  "id": "58844",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Jedina nekretnina u grupi s objektom (kuća 96m2 + gospodarska zgrada + dvorište), ali procjena od svega 2578 EUR jasno signalizira ruševno ili neuseljivo stanje u depopulacijskom slavonskom selu kod Valpova. Nizak popust (20%, prva dražba) uz izuzetno lošu lokacijsku perspektivu ne opravdava troškove sanacije.",
+  "flags": [
+    "izuzetno niska procjena za kuću - gotovo sigurno ruševno/neuseljivo stanje",
+    "ruralno slavonsko selo (Bocanjevci) - nema tržišta kupaca/najmodavaca",
+    "gospodarska zgrada bez jasne namjene"
+  ],
+  "input_hash": "2cb7336c9e8d",
+  "scored_at": "2026-04-23T08:07:57.060421"
+}

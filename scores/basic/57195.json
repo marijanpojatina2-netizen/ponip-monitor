@@ -1,0 +1,17 @@
+{
+  "id": "57195",
+  "score_overall": 3,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 3,
+  "recommendation": "pass",
+  "reasoning": "Suvlasništvo 7/12 na dvjema oranicama u Dežanovcu kod Daruvara spaja pravnu složenost parcijalnog vlasništva s jednim od geografski slabijih tržišta u zemlji. Čak i uz 40% popust na drugoj dražbi, kombinacija ruralne depopulacijske Slavonije i idealnih uvjeta za exit je gotovo nepostojeća.",
+  "flags": [
+    "suvlasništvo 7/12 - ograničena raspolaganja i složena uknjižba",
+    "depopulacijsko područje - Daruvar/Dežanovac",
+    "ruralna Slavonija - niska tržišna likvidnost",
+    "dvije odvojene čestice - složenija uknjižba i prodaja"
+  ],
+  "input_hash": "9c1570e4a13e",
+  "scored_at": "2026-04-23T08:07:09.985084"
+}

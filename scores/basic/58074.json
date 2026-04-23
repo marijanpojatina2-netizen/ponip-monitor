@@ -1,0 +1,16 @@
+{
+  "id": "58074",
+  "score_overall": 3.5,
+  "score_lokacija": 4.0,
+  "score_roi": 4.0,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Relativno bolja regija (Međimurje, blizu Čakovca) s 40% popustom na drugoj dražbi - jedini kandidat u grupi s nekom investicijskom logikom zbog ekonomski aktivnijeg sjevera. Međutim, suvlasništvo ½ dijela je ozbiljan strukturalni problem koji praktički blokira slobodno raspolaganje nekretninom.",
+  "flags": [
+    "suvlasništvo ½ dijela - otežano raspolaganje i prodaja",
+    "potrebna suglasnost suvlasnika za svaku dispoziciju",
+    "oranica/livada bez građevinskog potencijala"
+  ],
+  "input_hash": "60c7addd7418",
+  "scored_at": "2026-04-23T08:07:57.060313"
+}

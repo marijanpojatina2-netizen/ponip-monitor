@@ -1,0 +1,15 @@
+{
+  "id": "59211",
+  "score_overall": 3.5,
+  "score_lokacija": 4.5,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Šumsko zemljište bez građevinske namjene u periferiji Zagreba (Šašinovec), mali popust od 20% na prvoj dražbi bez realnog razvojnog potencijala. Likvidnost ove kategorije zemljišta je minimalna i izlazna strategija nije jasna.",
+  "flags": [
+    "šumsko zemljište - ograničena/zabranjena gradnja",
+    "mala parcela bez komunalne infrastrukture"
+  ],
+  "input_hash": "3a7c1c93447c",
+  "scored_at": "2026-04-23T08:01:52.554270"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "59393",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Vukovar i okolica su jedno od najslabijih tržišta u RH po likvidnosti i vrijednosnom trendu; oranica uz samo 20% popusta na prvoj dražbi nema investicijskog smisla.",
+  "flags": [
+    "depopulacijska zona – Slavonija/Vukovar",
+    "niska tržišna likvidnost regije",
+    "oznaka 'ZA ŠUMOM' – provjeriti eventualnu šumsku služnost ili ograničenja"
+  ],
+  "input_hash": "48c8cc27875f",
+  "scored_at": "2026-04-23T07:55:25.971922"
+}

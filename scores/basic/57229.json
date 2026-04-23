@@ -1,0 +1,16 @@
+{
+  "id": "57229",
+  "score_overall": 3.5,
+  "score_lokacija": 2.0,
+  "score_roi": 5.0,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Jedina nekretnina s kućom i dvorištem (695m2) plus 3571m2 oranice za 1915 EUR - 50% popust na 2. dražbi je financijski zanimljiv, ali ruralna Viroviticko-podravska županija (Četekovac/Slatina) s teškom depopulacijom drastično ograničava exit strategiju i dugoročnu vrijednost.",
+  "flags": [
+    "depopulacijska zona Slatina - izrazito niska likvidnost",
+    "stanje kuće nepoznato iz opisa - vjerojatno zahtijeva renovaciju",
+    "bez realnog turističkog ni stambenog potražnje"
+  ],
+  "input_hash": "c43d9439daac",
+  "scored_at": "2026-04-23T08:00:04.046759"
+}

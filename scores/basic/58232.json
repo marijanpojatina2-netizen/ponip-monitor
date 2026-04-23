@@ -1,0 +1,16 @@
+{
+  "id": "58232",
+  "score_overall": 3.5,
+  "score_lokacija": 3.5,
+  "score_roi": 3.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Livada od svega 383 m2 u ruralnom Međimurju bez ikakvog građevinskog ili turističkog potencijala. Iako 40% popust zvuči privlačno, apsolutna vrijednost i upotrebna vrijednost su minimalni za investitora.",
+  "flags": [
+    "poljoprivredno zemljište bez građevinskog potencijala",
+    "premala površina (383 m2)",
+    "ruralno depopulacijsko područje"
+  ],
+  "input_hash": "b31d6c09ba0a",
+  "scored_at": "2026-04-23T07:56:55.278444"
+}

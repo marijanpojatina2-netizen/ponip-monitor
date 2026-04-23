@@ -1,0 +1,16 @@
+{
+  "id": "59407",
+  "score_overall": 5.5,
+  "score_lokacija": 7.5,
+  "score_roi": 5.0,
+  "score_stanje": 3.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Pašnjak u k.o. Sv. Ivan kod Poreča, Istra - iznimno atraktivna lokacija u srcu turističke Istre gdje i agrikulturno zemljište ima snažan aprecijacijski potencijal i mogućnosti agroturizma ili reklasifikacije; cijena od 2752 EUR za istarski pašnjak blizu Poreča je iznimno niska. Obavezna provjera prostornog plana, zoninga i suvlasničke situacije.",
+  "flags": [
+    "samo 1/2 suvlasničkog dijela - ključni rizik za izlaz",
+    "pašnjak - provjera zoninga i prostornog plana obavezna prije bid-a",
+    "bez vidljive infrastrukture na parceli"
+  ],
+  "input_hash": "db51d693cd99",
+  "scored_at": "2026-04-23T08:01:52.555162"
+}

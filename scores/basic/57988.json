@@ -1,0 +1,16 @@
+{
+  "id": "57988",
+  "score_overall": 3.5,
+  "score_lokacija": 4,
+  "score_roi": 5,
+  "score_stanje": 3,
+  "recommendation": "pass",
+  "reasoning": "Šuma u k.o. Samoborec (vrbovečka jurisdikcija) ima 40% popust na drugoj dražbi i prihvatljivu blizinu Zagreba, ali šumsko zemljište u ovoj regiji nosi stroge zakonske restrikcije i minimalnu tržišnu likvidnost. Bez jasne opcije prenamjene ili specifičnog industrijskog interesa, investicijska logika ne stoji.",
+  "flags": [
+    "šumsko zemljište - zakonske restrikcije korištenja i prometa",
+    "ruralna lokacija - Vrbovec okolica",
+    "niska likvidnost šumskih parcela na kontinentu"
+  ],
+  "input_hash": "7eeb9ce65001",
+  "scored_at": "2026-04-23T08:07:09.984715"
+}

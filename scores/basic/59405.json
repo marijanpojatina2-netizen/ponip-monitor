@@ -1,0 +1,17 @@
+{
+  "id": "59405",
+  "score_overall": 2.0,
+  "score_lokacija": 1.5,
+  "score_roi": 1.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Kritičan crveni alarm: prodaje se samo 2/16 dijela oranice i pašnjaka u pograničnoj Kostajnici - granično s BiH, jako depopulacijsko područje, suvlasništvo s 14/16 u tuđim rukama čini imovinu praktički bezvrijednom za investitora.",
+  "flags": [
+    "KRITIČNO: suvlasništvo 2/16 - ekstremno ograničena raspolaganja",
+    "depopulacijsko granično područje (BiH)",
+    "Kostajnica - jedno od najslabijih tržišta u HR",
+    "višestruki nepoznati suvlasnici"
+  ],
+  "input_hash": "510458dd0e84",
+  "scored_at": "2026-04-23T07:58:23.138881"
+}

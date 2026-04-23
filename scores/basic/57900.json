@@ -1,0 +1,16 @@
+{
+  "id": "57900",
+  "score_overall": 4.5,
+  "score_lokacija": 4.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Druga dražba s 50% popudom na zemljištu svega ~15 km od Zagreba (Turopolje, blizina Velike Gorice i aerodroma) daje ovoj parceli daleko bolji potencijal od ostalih u skupini. Bez objekata i s agrarnom namjenom, ali blizina Zagreba i stečajni kontekst zahtijevaju provjeru ZK stanja i eventualnih opterećenja prije ozbiljnijeg interesa.",
+  "flags": [
+    "stečajni dužnik – provjeri moguća opterećenja i hipoteke",
+    "agrarno zemljište – provjeri prostorni plan za mogućnost prenamjene",
+    "bez izgrađenih objekata"
+  ],
+  "input_hash": "a01574e749b0",
+  "scored_at": "2026-04-23T07:53:29.104357"
+}

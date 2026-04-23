@@ -1,0 +1,16 @@
+{
+  "id": "58514",
+  "score_overall": 2.5,
+  "score_lokacija": 3.0,
+  "score_roi": 2.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Suvlasništvo 1/2 na malom pašnjaku kod Zaboka je klasična blokada – bez suglasnosti drugog suvlasnika nema ni razvoja ni preprodaje; samo 20% popust na prvoj dražbi ne opravdava rizik.",
+  "flags": [
+    "suvlasništvo 1/2 – blokada razvoja i prodaje",
+    "mali pašnjak 388m2 bez građevinskog potencijala",
+    "ruralno Zagorje – slaba likvidnost"
+  ],
+  "input_hash": "8d6e94b35e3d",
+  "scored_at": "2026-04-23T07:55:25.971809"
+}

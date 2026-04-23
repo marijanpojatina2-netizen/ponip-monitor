@@ -1,0 +1,17 @@
+{
+  "id": "57881",
+  "score_overall": 2.5,
+  "score_lokacija": 2,
+  "score_roi": 3,
+  "score_stanje": 3,
+  "recommendation": "pass",
+  "reasoning": "Šuma u depopulacijskom slavonskom zaleđu Đakova bez ikakvog turističkog ili razvojnog potencijala; minimalni popust od 20% na prvoj dražbi ne opravdava ulazak u tržište s izrazito niskom likvidnošću. Šumsko zemljište podliježe strogim zakonskim ograničenjima korištenja što dodatno eliminira exit strategije.",
+  "flags": [
+    "šumsko zemljište - stroge zakonske restrikcije korištenja",
+    "depopulacijsko područje - Đakovo/Slavonija",
+    "niska tržišna likvidnost",
+    "prva dražba - minimalni popust"
+  ],
+  "input_hash": "507999528a56",
+  "scored_at": "2026-04-23T08:07:09.984314"
+}

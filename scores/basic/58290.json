@@ -1,0 +1,16 @@
+{
+  "id": "58290",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Suvlasnički udio 1/4 oranice u Oroliku kraj Vinkovaca - parcijalno vlasništvo praktički onemogućava slobodnu disposiciju i prodaju bez suglasnosti suvlasnika. Depopulacijska zona istočne Slavonije uz 1/4 udjela čini ovo gotovo neutrživim.",
+  "flags": [
+    "suvlasnički udio 1/4 - drastično ograničava upotrebljivost i prodaju",
+    "depopulacijska zona Vinkovci",
+    "oranica bez ikakvog razvojnog potencijala"
+  ],
+  "input_hash": "a38ae88e5a9a",
+  "scored_at": "2026-04-23T08:00:04.046445"
+}

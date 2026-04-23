@@ -1,0 +1,17 @@
+{
+  "id": "57652",
+  "score_overall": 3.5,
+  "score_lokacija": 3.0,
+  "score_roi": 4.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Ford flatbed iz 2010. (16 godina) s 50% popustom — privlačan postotak, ali pokretnina stare generacije nepoznatog tehničkog stanja bez mogućnosti pregleda jamči visok rizik skrivenih kvarova. ROI nekretnine daleko nadmašuje ROI starih radnih vozila za dugoročnog investitora.",
+  "flags": [
+    "pokretnina - ne nekretnina",
+    "16 godina staro vozilo (2010.)",
+    "nepoznato tehničko stanje",
+    "visok rizik skrivenih kvarova"
+  ],
+  "input_hash": "0ec53824d44f",
+  "scored_at": "2026-04-23T07:56:55.279024"
+}

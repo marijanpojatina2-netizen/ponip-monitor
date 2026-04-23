@@ -1,0 +1,16 @@
+{
+  "id": "58518",
+  "score_overall": 2.5,
+  "score_lokacija": 3.5,
+  "score_roi": 3.0,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Mala oranica 446 m2 s tek 20% popusta na prvoj dražbi u Zagorju nema smisleni investicijski potencijal, a suvlasničko vlasništvo (1/2) dodatno komplicira izlaznu strategiju. Likvidnost ovakvih parcela u zoni Zaboka je minimalna.",
+  "flags": [
+    "suvlasništvo 1/2 - kupuje se samo udio",
+    "20% popust - 1. dražba nekonkurentno",
+    "oranica 446 m2 - premala i neisplativa"
+  ],
+  "input_hash": "70412bac326a",
+  "scored_at": "2026-04-23T07:52:25.334281"
+}

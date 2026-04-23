@@ -1,0 +1,16 @@
+{
+  "id": "59103",
+  "score_overall": 3.5,
+  "score_lokacija": 5.0,
+  "score_roi": 3.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Šašinovec/Dugo Selo nudi blizinu Zagreba ali je to oranica na prvoj dražbi s minimalnim popustom od 20%, što pruža slabu investicijsku maržu; exit strategija ograničena jer se radi o čistoj poljoprivrednoj namjeni bez građevinskog potencijala.",
+  "flags": [
+    "prva dražba - visoka ulazna cijena",
+    "isključivo poljoprivredna namjena",
+    "bez vidljivog građevinskog potencijala"
+  ],
+  "input_hash": "dee0d20cbd64",
+  "scored_at": "2026-04-23T08:03:33.707487"
+}

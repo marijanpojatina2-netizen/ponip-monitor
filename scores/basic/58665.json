@@ -1,0 +1,15 @@
+{
+  "id": "58665",
+  "score_overall": 3.5,
+  "score_lokacija": 4.0,
+  "score_roi": 3.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica u Totovcu kod Čakovca je funkcionalno poljoprivredno zemljište u solidnoj međimurskoj regiji, ali 20% popust na prvoj dražbi ne pruža dovoljno investicijskog prostora za nekretninarskog investitora - vrijednost jedino za lokalnog farmera.",
+  "flags": [
+    "prva dražba - minimalni popust",
+    "isključivo poljoprivredna namjena"
+  ],
+  "input_hash": "5b605f8272e1",
+  "scored_at": "2026-04-23T08:03:33.708042"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "57936",
+  "score_overall": 5.0,
+  "score_lokacija": 6.5,
+  "score_roi": 7.0,
+  "score_stanje": 2.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Novigrad (Cittanova) je tražena istarska obalna lokacija s dobrim turističkim fundamentalima — 40% popust na procijenjenu vrijednost od 503.000 EUR i druga dražba čine ovu nekretninu financijski zanimljivom na površini. Međutim, stanje je kritično: djelomično urušen salonit krov (azbest), zgrada nepristupačna u cijelosti zbog drača, puna otpada i mehanizacije. Ključni nepoznanik je namjena prema UPU Novigrad-Cittanova — ako 3.120 m² dopušta turističku ili stambenu izgradnju, vrijednost parcele opravdava ulaganje, ali troškovi sanacije azbestnog krova i zbrinjavanje sadržaja procjenjuju se na 80.000–150.000 EUR samo za pripremu terena. Obvezna je provjera prostornog plana, geomehanika i potencijalne kontaminacije tla prije ozbiljnog interesa.",
+  "flags": [
+    "AZBEST (salonit pokrov) — zakonski regulirano i skupo uklanjanje u RH, 20–50 EUR/m² ploče",
+    "Zgrada nije slobodna od stvari — mehanizacija, građevinski materijal, raznovrsni otpad",
+    "Djelomično urušen krov — strukturna nestabilnost, skrivene konstruktivne štete",
+    "Nepristupačan dio objekta zbog gustog raslinja i drača",
+    "Adresa 'Sv. Servol bb' sugerira rubnu/perifernu lokaciju izvan jezgre Novigrada",
+    "Nepoznata namjena prema UPU — ključno za ocjenu razvojnog potencijala",
+    "Moguća kontaminacija tla od dugotrajnog odlaganja otpada i mehanizacije"
+  ],
+  "market_estimate": {
+    "eur_min": 290000,
+    "eur_max": 500000,
+    "confidence": "low",
+    "basis": "Tržišno znanje bez live web podataka: građevinsko/turistički zonificirano zemljište u Novigradu kreće se 120–220 EUR/m² (3.120 m² = 374.000–686.400 EUR u čistoj zemljišnoj vrijednosti), ali negativna vrijednost zgrade (azbest + rušenje + zbrinjavanje otpada = -80.000 do -150.000 EUR) i neizvjesnost zoniranja snižavaju raspon. Ako je zona isključivo gospodarska/industrijska, tržišna vrijednost pada na 150–250 EUR/m² tj. 468.000–780.000 EUR — ali u tom scenariju konverzija je otežana."
+  },
+  "comparables": [
+    {
+      "opis": "Građevinsko zemljište u Novigradu, cca 800–1200 m², za izgradnju",
+      "cijena": 180000,
+      "m2": 1000,
+      "izvor": "tržišna procjena — nekretnine.net pretraga nije bila dostupna",
+      "url": "https://www.nekretnine.net/pretrazivanje/prodaja/nekretnine/novigrad-istra/"
+    },
+    {
+      "opis": "Usporedivo: stara gospodarska zgrada s parcelom u okolici Poreča (sličan profil)",
+      "cijena": 320000,
+      "m2": 2500,
+      "izvor": "tržišna procjena — njuskalo.hr nije pretraživano",
+      "url": "https://www.njuskalo.hr/prodaja-stanova/novigrad"
+    },
+    {
+      "opis": "Industrijska/poslovna zona Novigrad — aktivni oglasi nisu dohvaćeni",
+      "cijena": null,
+      "m2": null,
+      "izvor": "NAPOMENA: web pretraživanje nije odobreno u sesiji — comparables su procjene",
+      "url": "https://www.njuskalo.hr/poslovni-prostori/istra"
+    }
+  ],
+  "investment_strategy": "RAZVOJ (demolition + new build): Optimalna strategija je uklanjanje azbesta i rušenje stare zgrade, potom izgradnja turističkog apartmanskog objekta ili boutique resorta ako UPU to dozvoljava — Novigrad bilježi stabilan rast turističke potražnje, marina je ekspandirala, a potražnja za smještajnim kapacitetima je visoka. Uz 3.120 m² u općini Novigrad, bruto razvojna vrijednost gotovog turističkog projekta procjenjuje se na 1,5–3,0M EUR (horizon 3–5 godina). Sekundarno: ako zoniranje ostaje gospodarsko, moguće je korištenje kao logistički/skladišni objekt ili agriturizam, s nižim ROI. Reno-flip nije preporučen zbog troškova sanacije koji eliminiraju kratkoročnu maržu.",
+  "entry_price_eur": 310000,
+  "detailed_risks": [
+    "Azbest (salonit): legalno zbrinjavanje u RH zahtijeva ovlaštenu tvrtku, procjena 30.000–80.000 EUR za cijeli krov uz dokumentaciju za HAOP",
+    "Zbrinjavanje sadržaja (mehanizacija, otpad, pločice, palete): 20.000–50.000 EUR",
+    "Prostorni plan (UPU Novigrad): ako je 'gospodarska zona' ili 'zaštitna zelena zona', turistička ili stambena prenamjena zahtijeva izmjenu plana (višegodišnji administrativni proces, neizvjestan ishod)",
+    "Lokacija Sv. Servol bb može biti izvan granica urbaniziranog područja i GUP-a Novigrada",
+    "Skrivene strukturne štete zbog urušavanja — potrebna geomehanička analiza i statički pregled temelja",
+    "Moguća ekološka kontaminacija tla od dugotrajnog deponiranja otpada — trošak remedijacije nepredvidiv",
+    "Tržišna likvidnost: nekretnine ovog tipa (bivše gospodarske zgrade) sporije se prodaju, dulje vezanje kapitala"
+  ],
+  "upside_scenario": "UPU dozvoljava turističku gradnju: kupnja po početnoj cijeni 301.800 EUR + sanacija azbestnog krova i zbrinjavanje (100.000 EUR) + rušenje i nova izgradnja boutique apartmanskog kompleksa 1.000–1.500 m² BTP (750.000–1.000.000 EUR investicija) = ukupno uloženo ~1,15–1,40M EUR. Gotovi objekt u Novigradu (marina, stara gradska jezgra) vrijedi 2,0–3,0M EUR na tržištu 2028–2029. ROI 40–100% na 4–5 godina.",
+  "downside_scenario": "Prostorni plan isključuje prenamjenu i obvezuje na gospodarsku namjenu. Troškovi sanacije azbestnog krova i zbrinjavanje sadržaja iznose 100.000–150.000 EUR bez mogućnosti valorizacije investicije. Parcela se teško prodaje s negativnom građevinom, kapital vezan godinama uz administrativne procedure izmjene UPU-a. Gubici do 150.000 EUR od ulazne cijene.",
+  "input_hash": "6c3ecabd9c39",
+  "scored_at": "2026-04-23T08:15:16.152411"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "57990",
+  "score_overall": 3.5,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Šuma Mokrice kod Vrbovca nudi 40% popust na drugoj dražbi što poboljšava ulaznu cijenu, no ruralna lokacija bez turističkog ili razvojnog potencijala i šumska namjena ne nude realan exit.",
+  "flags": [
+    "šuma – ograničenja izgradnje",
+    "ruralno – niska tržišna likvidnost",
+    "stara mjerna jedinica čhv – provjeriti točnu površinu u m2"
+  ],
+  "input_hash": "9df151dfe33e",
+  "scored_at": "2026-04-23T07:55:25.972333"
+}

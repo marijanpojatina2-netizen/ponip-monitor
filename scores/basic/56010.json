@@ -1,0 +1,17 @@
+{
+  "id": "56010",
+  "score_overall": 4.0,
+  "score_lokacija": 9.0,
+  "score_roi": 3.5,
+  "score_stanje": 2.0,
+  "recommendation": "watch",
+  "reasoning": "Rovinj je premium A-lokacija s 75% popustom na trećoj dražbi - zvuči idealno, ali predmet je staza (prolaz) od 35 m² u udjelu 2/5, bez ikakve samostalne upotrebne ili razvojne vrijednosti. Jedini smislen scenarij je ako kupac već posjeduje ili planira kupiti susjednu stambenu zgradu kojoj ova staza služi.",
+  "flags": [
+    "staza uz stambenu zgradu - nema samostalne tržišne vrijednosti",
+    "2/5 suvlasnički udio",
+    "korisno isključivo u kombinaciji s vlasništvom susjedne nekretnine",
+    "prava prolaza treće strane moguća"
+  ],
+  "input_hash": "93fb65316122",
+  "scored_at": "2026-04-23T08:04:52.248553"
+}

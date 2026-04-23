@@ -1,0 +1,17 @@
+{
+  "id": "59670",
+  "score_overall": 2.5,
+  "score_lokacija": 3.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Novaki Ozaljski je slabo tržište u karlovačkom zaleđu, a situacija je dodatno zakomplicirana suvlasničkim udjelima na više katastarski odvojenih parcela različite namjene; pravna kompleksnost i niska likvidnost čine ovaj paket neatraktivnim bez obzira na nisku cijenu.",
+  "flags": [
+    "suvlasnički dijelovi na više parcela (3/4 i 3/8 udjeli)",
+    "kompleksna vlasnička i pravna struktura",
+    "ruralno karlovačko zaleđe",
+    "otežana samostalna prodaja suvlasničkih udjela"
+  ],
+  "input_hash": "2bec174431d0",
+  "scored_at": "2026-04-23T08:03:33.707693"
+}

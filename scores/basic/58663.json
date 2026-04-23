@@ -1,0 +1,15 @@
+{
+  "id": "58663",
+  "score_overall": 3.0,
+  "score_lokacija": 3.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Oranica u ruralnom Međimurju bez urbanizacijskog ili turističkog potencijala; prva dražba s minimalnim popustom od 20% ne opravdava ulaganje. Tržišna likvidnost poljoprivrednog zemljišta u k.o. Totovec iznimno niska.",
+  "flags": [
+    "isključivo poljoprivredna namjena - nema građevinskog potencijala",
+    "niska likvidnost regije"
+  ],
+  "input_hash": "9e6c88ba21c7",
+  "scored_at": "2026-04-23T08:04:52.246905"
+}

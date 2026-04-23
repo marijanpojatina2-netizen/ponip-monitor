@@ -1,0 +1,16 @@
+{
+  "id": "59411",
+  "score_overall": 1.5,
+  "score_lokacija": 2.0,
+  "score_roi": 2.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica u selu kod Požege - kombinacija najslabijih parametara: minimalni popust od samo 20% na prvoj dražbi, ruralna Požeština s negativnim demografskim trendovima i nulta investicijska atraktivnost čistog oraničnog zemljišta. Najslabiji kandidat u grupi.",
+  "flags": [
+    "ruralna Požeština - depopulacija i ekonomska stagnacija",
+    "minimalni popust 20% - prva dražba bez bonusa",
+    "isključivo oranica u selu - nema razvojnog potencijala"
+  ],
+  "input_hash": "32976e2854fd",
+  "scored_at": "2026-04-23T08:07:57.060203"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "59823",
+  "score_overall": 5.0,
+  "score_lokacija": 4.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Kuća 122m2 u Novom Marofu s dvorištem - funkcionalna nekretnina ali u manjem gradu slabije likvidnosti. Suvlasništvo 1/2 nije nužno problem ako su oba ovršenika u istom postupku, no 20% popust na prvoj dražbi Varaždin regije je granični slučaj.",
+  "flags": [
+    "suvlasništvo 1/2 ponaosob - oba ovršenika",
+    "manji grad - ograničena likvidnost pri izlazu"
+  ],
+  "input_hash": "e9444d4df280",
+  "scored_at": "2026-04-23T07:49:30.334983"
+}

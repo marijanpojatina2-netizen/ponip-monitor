@@ -1,0 +1,17 @@
+{
+  "id": "59715",
+  "score_overall": 5.5,
+  "score_lokacija": 7,
+  "score_roi": 5,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Lokacija na otoku Pagu (k.o. Pag, Sv. Mihovil) automatski podiže stratešku vrijednost - paškom tržištu nekretnina vlada snažna potražnja i rast cijena; međutim iznimno niska procjena od ~5,6 EUR/m² jasno signalizira čisto agrarno zoniranje bez građevinskog potencijala. Prioritetna akcija je provjera UPU i DPU Grada Paga - ako postoji ikakav hint na prenamjenu parcele, prelazi direktno u deep_dive.",
+  "flags": [
+    "oranica - verificirati zoniranje u UPU/DPU Paga prije svake odluke",
+    "niska procjena upućuje na čisto agrarni status bez građevinskog prava",
+    "mali parcel 478 m2 - ograničen samostalni razvojni potencijal",
+    "prva dražba - 20% popust, slab ulazni uvjet"
+  ],
+  "input_hash": "1761a4b37143",
+  "scored_at": "2026-04-23T08:07:09.985192"
+}

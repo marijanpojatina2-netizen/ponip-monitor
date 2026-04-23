@@ -1,0 +1,16 @@
+{
+  "id": "59829",
+  "score_overall": 3.5,
+  "score_lokacija": 3.5,
+  "score_roi": 4.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Bisag je malo selo u Varaždinskoj županiji – dvorišne čestice ukupno 572m2 mogu imati rezidencijalni potencijal ako su u građevinskoj zoni, ali to treba verificirati u UPU-u. Bez te provjere investicijski slučaj je slab.",
+  "flags": [
+    "nepoznat status građevinske zone",
+    "fragmentirane čestice (4 zasebne k.č.)",
+    "ruralno mikrolokalno tržište"
+  ],
+  "input_hash": "273a25bb0474",
+  "scored_at": "2026-04-23T07:50:48.963873"
+}

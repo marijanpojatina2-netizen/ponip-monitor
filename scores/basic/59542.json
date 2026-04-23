@@ -1,0 +1,16 @@
+{
+  "id": "59542",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Velika oranica blizu Valpova i Osijeka, no isključivo poljoprivredna namjena i 20% popusta na prvoj dražbi ne stvaraju dovoljan investicijski margin. Slavonska agrarna zemlja bez objekata ima slabu likvidnost na tržištu nekretnina.",
+  "flags": [
+    "isključivo poljoprivredno zemljište",
+    "20% popust na prvoj dražbi – nedovoljno",
+    "niska investicijska likvidnost"
+  ],
+  "input_hash": "d46ba35b1391",
+  "scored_at": "2026-04-23T07:53:29.104033"
+}

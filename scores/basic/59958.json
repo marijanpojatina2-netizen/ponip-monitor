@@ -1,0 +1,16 @@
+{
+  "id": "59958",
+  "score_overall": 4.0,
+  "score_lokacija": 3.0,
+  "score_roi": 4.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Kuća s okućnicom u Slavonskom Brodu - depopulacijska regija s minimalnom potražnjom na tržištu nekretnina. 20% popust na prvoj dražbi ne kompenzira fundamentalnu slabost lokacije i suvlasničku strukturu.",
+  "flags": [
+    "suvlasništvo 1/2 - dva ovršenika",
+    "depopulacijsko područje Slavonije",
+    "izlazna strategija nejasna"
+  ],
+  "input_hash": "38c39e661971",
+  "scored_at": "2026-04-23T07:49:30.335089"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "59249",
+  "score_overall": 4,
+  "score_lokacija": 4.5,
+  "score_roi": 4,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Livada u Šašinovcu (Dugo Selo, ~20 km od Zagreba) ima pozicijsku prednost u rastućoj zagrebačkoj suburbiji s dugoročnim potencijalom prenamjene, ali 20% popust na prvoj dražbi uz agrarni status ne opravdava aktivnu ponudu danas. Vrijedi pratiti ako nekretnina dođe na treću dražbu s većim popustom ili se potvrdi mogućnost prenamjene u prostornom planu.",
+  "flags": [
+    "livada - agrarno zoniranje, nepoznat građevinski status",
+    "potrebna provjera mogućnosti prenamjene u GUP/PPUO",
+    "prva dražba - slab popust"
+  ],
+  "input_hash": "bdaac858529c",
+  "scored_at": "2026-04-23T08:07:09.984865"
+}

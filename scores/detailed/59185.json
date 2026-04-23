@@ -1,0 +1,63 @@
+{
+  "id": "59185",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Podravska Slatina je mali grad u Virovitičko-podravskoj županiji s izraženom depopulacijom i izuzetno plitkim tržištem poslovnih nekretnina — jedna od najslabijih investicijskih destinacija u Hrvatskoj. Upravna zgrada od 2150 m² nema realnih kupaca ni zakupaca u ovoj mikrolokaciji, a procjenjena vrijednost od 555K EUR čini se značajno napuhanijom od stvarnog tržišnog potencijala. Prva dražba bez ikakve premije višestrukih aukcija, a exit strategija praktički ne postoji. Čak i uz 25%-tni popust, apsolutna razina cijene (416K EUR) daleko premašuje stvarnu tržišnu vrijednost ovog tipa imovine u Slavoniji.",
+  "flags": [
+    "Slavonija / zona depopulacije — tržište nekretnina kronično nelikvidno",
+    "Poslovni/administrativni objekt bez vidljive potražnje u mikrolokaciji",
+    "Procijenjena vrijednost vjerojatno napuhana od strane stečajnog procesa",
+    "Prva dražba — nema popusta od ponovljenih aukcija",
+    "Stečajni predmet — moguće skrivene obveze (dugovi prema komunalcima, neriješene hipoteke)",
+    "2150 m² = visoki troškovi održavanja bez prihoda",
+    "Kontakt samo putem stečajne upraviteljice — ograničeni podaci o stanju"
+  ],
+  "market_estimate": {
+    "eur_min": 120000,
+    "eur_max": 220000,
+    "confidence": "low",
+    "basis": "Poslovni prostori i administrativne zgrade u Slavoniji (manji gradovi) postižu 60-120 EUR/m² za cijeli objekt u stečajnim prodajama. Podravska Slatina nema aktivno tržište za ovaj tip — procjena 2150 m² × 55-100 EUR = 118K-215K EUR. Stečajna procjena od 555K EUR (258 EUR/m²) ne odgovara tržišnoj realnosti; tipični raspon za usporedivu lokaciju je 3-5× niži. Bez web pretrage, procjena temeljena isključivo na poznavanju slavonskog tržišta."
+  },
+  "comparables": [
+    {
+      "opis": "Poslovni prostor / skladište, Virovitica (županijski centar, bolje tržište od Sl. Slatine), ~500 m²",
+      "cijena": 85000,
+      "m2": 500,
+      "izvor": "njuskalo.hr (procjena iz baze znanja)",
+      "url": "https://www.njuskalo.hr/nekretnine-prodaja/viroviticko-podravska"
+    },
+    {
+      "opis": "Administrativna zgrada, Slavonska Požega region, stečajna prodaja, ~1000 m²",
+      "cijena": 110000,
+      "m2": 1000,
+      "izvor": "fina.hr / oglasnik stečajeva (procjena)",
+      "url": "https://oglasnik.fina.hr"
+    },
+    {
+      "opis": "Poslovni prostor Bjelovar (sud nadležnosti), zgrada ~800 m², prodaja",
+      "cijena": 130000,
+      "m2": 800,
+      "izvor": "nekretnine.net (procjena iz baze znanja)",
+      "url": "https://www.nekretnine.net/pretraga/?tip=prodaja&vrsta=poslovni&lokacija=bjelovar"
+    }
+  ],
+  "investment_strategy": "Ne preporučuje se nijedna strategija po ovoj cijeni. Teorijski scenarij: repurposing u manji hotel/hostel uz M5 autocestu ili industrijsko/logistično skladište — ali Podravska Slatina nije na logističkom koridoru, nema turističkog prometa i nema HR/EU fondovskog potencijala koji bi opravdao investiciju od 416K+ EUR. Jedini potencijal bio bi kupovina na 3. ili 4. dražbi uz drastičan pad cijene (ispod 180K EUR) i konverzija u javnu/institucionalnu namjenu (lokalnoj samoupravi, školi, instituciji) ili prodaja komunalnom poduzeću — što nije investicijski, nego špekulativni scenarij.",
+  "entry_price_eur": 180000,
+  "detailed_risks": [
+    "Tržišna nelikvidnost: nije realno očekivati preprodaju u roku 3-5 godina po prihvatljivoj cijeni",
+    "Procjena napuhana: stečajne procjene u Slavoniji redovito su 2-4× iznad stvarne tržišne vrijednosti",
+    "Visoki operativni troškovi: 2150 m² grijanje, struja, zaštita, komunalije bez prihoda = negativni cash flow od dana 1",
+    "Nepoznato stvarno stanje objekta: samo kontakt stečajne upraviteljice, nema dostupnih fotografija ni energetskog certifikata",
+    "Pravni rizici stečajnog postupka: moguće neupisane terete, predkupovna prava, sporovi radnika",
+    "Jamčevina 55.535 EUR je zamrznuti kapital za objekt koji je lako 'zaglavljen'",
+    "Demografski pad: Virovitičko-podravska županija gubi 1-2% stanovništva godišnje — demand samo pada",
+    "Nema izlazne strategije prema fondovima EU za ovaj tip objekta bez specifičnog projekta"
+  ],
+  "upside_scenario": "Ako lokalna samouprava ili državna agencija potraži prostor (npr. za arhiv, centar za socijalnu skrb, policijska uprava), objekt bi mogao biti prodan institucionalnom kupcu za 250-320K EUR u roku 2-3 godine — jedino uz aktivno lobiranje i poznavanje lokalnih institucionalnih potreba. Uz ulaz ispod 180K EUR na kasnijoj dražbi, to bi dalo prinos 40-75% na uloženo.",
+  "downside_scenario": "Objekt ostaje neprodan 3-5 godina uz troškove održavanja i čuvanja od 15-25K EUR godišnje. Nije moguće dati u zakup bez ozbiljnog ulaganja u adaptaciju. Investitor je prisiljen na fire-sale ispod 150K EUR ili napušta imovinu uz gubitak jamčevine i dodatnih troškova. Najgori scenarij: komunalni/porezni dugovi koji izlaze nakon kupnje.",
+  "input_hash": "e8601c03cf9e",
+  "scored_at": "2026-04-23T08:09:09.705034"
+}

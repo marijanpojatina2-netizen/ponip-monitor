@@ -1,0 +1,15 @@
+{
+  "id": "59111",
+  "score_overall": 3.5,
+  "score_lokacija": 4.5,
+  "score_roi": 3.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica od 3575 m2 u k.o. Šašinovec (Dugo Selo) na periferiji Zagreba, ali samo 20% popust na prvoj dražbi bez prostora za pregovore. Bez objekta i bez jasnog investicijskog scenarija za trenutnu cijenu.",
+  "flags": [
+    "prva dražba, minimalan popust (20%)",
+    "čisto poljoprivredno zemljište bez objekta"
+  ],
+  "input_hash": "b5e022c5195a",
+  "scored_at": "2026-04-23T07:56:55.278802"
+}

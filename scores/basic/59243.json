@@ -1,0 +1,15 @@
+{
+  "id": "59243",
+  "score_overall": 3.5,
+  "score_lokacija": 3.5,
+  "score_roi": 3.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica 3870m2 na periferiji Dugog Sela bez perspektive razvoja i bez izlazne strategije za investitora; samo 20% popust na prvoj dražbi ne kompenzira isključivo poljoprivrednu namjenu i slabiju likvidnost.",
+  "flags": [
+    "samo oranica – nema građevinskog potencijala",
+    "periferija Dugog Sela – niska tržišna likvidnost"
+  ],
+  "input_hash": "b18c6e1b6988",
+  "scored_at": "2026-04-23T07:55:25.971446"
+}

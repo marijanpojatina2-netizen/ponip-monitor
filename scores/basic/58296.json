@@ -1,0 +1,16 @@
+{
+  "id": "58296",
+  "score_overall": 3.5,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Vikend kuća u Zagorju s 40% popustom ima određenu vrijednost, ali kupnja samo 1/3 suvlasničkog dijela je praktički blokirajuća - bez suglasnosti ostalih suvlasnika nema gradnje, rekonstrukcije ni prodaje po tržišnoj cijeni. Zagorje ima ograničenu likvidnost za vikendice.",
+  "flags": [
+    "1/3 dijela - suvlasništvo",
+    "bez suglasnosti suvlasnika nema gradnje ni rekonstrukcije",
+    "vikend kuća - nepoznato stvarno stanje objekta"
+  ],
+  "input_hash": "cee2ca0d996d",
+  "scored_at": "2026-04-23T07:52:25.334502"
+}

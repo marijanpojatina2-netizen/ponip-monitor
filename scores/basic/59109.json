@@ -1,0 +1,16 @@
+{
+  "id": "59109",
+  "score_overall": 3.5,
+  "score_lokacija": 4.5,
+  "score_roi": 4.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Oranica blizu Zagreba (Šašinovec/Dugo Selo) ima geografsku poziciju kao prednost, ali tek 20% popusta na prvoj dražbi ostavlja premalo marže sigurnosti za dugoročni razvoj. Bez jasnog rezoninga potencijala ili planirane infrastrukture u neposrednoj blizini ostaje obično poljoprivredno zemljište s niskom likvidnošću.",
+  "flags": [
+    "20% popust - 1. dražba, nekonkurentno",
+    "oranica - nepoznat urbanistički status i namjena",
+    "likvidnost agrara u Šašinovcu niska"
+  ],
+  "input_hash": "dca7792e554d",
+  "scored_at": "2026-04-23T07:52:25.334853"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "58180",
+  "score_overall": 4.5,
+  "score_lokacija": 5.5,
+  "score_roi": 5.0,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Direktno povezano s ID 58182 — isto ZK uložak 1032, ista k.o. Salež, Istra, čine jedinstvenu cjelinu od 4266 m2 šumskog/zapuštenog zemljišta po kombiniranoj početnoj cijeni ispod 5400 EUR. Istra daje geolokacijsku premiju, ali bez promjene namjene nema kratkoročnog ROI-a.",
+  "flags": [
+    "šuma i nisko raslinje - bez objekta",
+    "smisao samo u kombinaciji s kč. 1875/3 (ID 58182)",
+    "promjena namjene nije izvjesna"
+  ],
+  "input_hash": "652eaeecd08c",
+  "scored_at": "2026-04-23T07:56:55.279223"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "58641",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica blizu Đurđevca u Podravini, ruralno područje s ograničenim investicijskim potencijalom. Prva dražba i samo 20% popusta čine ponudu neinteresantnom za ozbiljnog investitora.",
+  "flags": [
+    "isključivo poljoprivredno zemljište",
+    "niska likvidnost Podravine",
+    "nema infrastrukture ni objekata"
+  ],
+  "input_hash": "d91a2e05ff36",
+  "scored_at": "2026-04-23T07:53:29.103708"
+}

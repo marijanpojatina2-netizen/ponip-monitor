@@ -1,0 +1,16 @@
+{
+  "id": "59911",
+  "score_overall": 5.0,
+  "score_lokacija": 6.0,
+  "score_roi": 5.5,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Četiri livadne parcele ukupno 752m2 u k.o. Grad Zagreb po ~185 EUR/m2 - konzistentno s ostatkom zone 7793. Isti investicijski profil kao ID 59919 ali bez cjenovne premije, što ga čini relativno prihvatljivijim ako GUP potvrdi građevinsku namjenu.",
+  "flags": [
+    "četiri odvojene k.č. - provjeri mogućnost konsolidacije",
+    "livada - agrarno ograničenje",
+    "bez infrastrukture"
+  ],
+  "input_hash": "fd745fdbfbcb",
+  "scored_at": "2026-04-23T07:49:30.334706"
+}

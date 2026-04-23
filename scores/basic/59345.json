@@ -1,0 +1,16 @@
+{
+  "id": "59345",
+  "score_overall": 3.0,
+  "score_lokacija": 3.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Mala oranica (~730 m2) u ruralnoj k.o. Ljubešćica, Varaždinska županija, s minimalnim 20% popustom na prvoj dražbi. Nema niti jednog pozitivnog investicijskog katalizatora koji bi opravdao aktivno praćenje.",
+  "flags": [
+    "ruralno područje bez turističkog potencijala",
+    "samo 20% popust, prva dražba",
+    "premala površina za ozbiljan investicijski scenarij"
+  ],
+  "input_hash": "86fb2935aa57",
+  "scored_at": "2026-04-23T07:56:55.279124"
+}

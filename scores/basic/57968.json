@@ -1,0 +1,16 @@
+{
+  "id": "57968",
+  "score_overall": 2.5,
+  "score_lokacija": 3.5,
+  "score_roi": 3.0,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Drugi put na dražbi, 40% popust zvuči primamljivo, ali 2/12 suvlasnički udio na gmajni (zajednička pašnjak/put) s uključenim putem površine 188 m² čini predmet praktički neupravljivim. Minimalna prava odlučivanja uz 10 ostalih suvlasnika.",
+  "flags": [
+    "2/12 suvlasnički udio - minimalna upravljačka moć",
+    "put (cesta) 188 m² unutar predmeta - opterećenje javnim pristupom",
+    "Gmajna - zajednička namjena otežava individualnu eksploataciju"
+  ],
+  "input_hash": "2f8820a26f56",
+  "scored_at": "2026-04-23T08:04:52.248748"
+}

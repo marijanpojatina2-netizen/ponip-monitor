@@ -1,0 +1,16 @@
+{
+  "id": "59955",
+  "score_overall": 3.0,
+  "score_lokacija": 3.0,
+  "score_roi": 3.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica 944m2 u Slavonskom Brodu - plot prevelik za gradsko dvorište, a premalen za pravu agro eksploataciju, što ga čini praktički neupotrebljivim za investitora. Suvlasništvo i depopulacijska regija dovršavaju negativan profil.",
+  "flags": [
+    "suvlasništvo 1/2",
+    "oranica bez građevine - minimalna upotrebna vrijednost",
+    "depopulacijsko područje"
+  ],
+  "input_hash": "f5493107c8f5",
+  "scored_at": "2026-04-23T07:49:30.335295"
+}

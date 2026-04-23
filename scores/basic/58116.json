@@ -1,0 +1,15 @@
+{
+  "id": "58116",
+  "score_overall": 5.5,
+  "score_lokacija": 4.0,
+  "score_roi": 7.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Jedini stan u skupini - dvosoban 43,5 m2 u Vinkovcima s 40% popustom na drugoj dražbi nudi realnu najamnu stopu; tržište Vinkovaca je sporo ali stabilno za manji ulazni kapital.",
+  "flags": [
+    "Vinkovci - sporo tržište prodaje",
+    "suvlasnički udio zgrade 583/10000 (standardno za etažno vlasništvo)"
+  ],
+  "input_hash": "f2e71054eaef",
+  "scored_at": "2026-04-23T07:58:23.138630"
+}

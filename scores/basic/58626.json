@@ -1,0 +1,16 @@
+{
+  "id": "58626",
+  "score_overall": 4.5,
+  "score_lokacija": 5.5,
+  "score_roi": 4.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Šuma od 7135 m² u k.o. Demerje unutar ZGB agglomeracije - lokacija je zanimljiva za dugoročno land-banking, no šumsko zemljište nosi stroge zabrane gradnje i promjene namjene. Vrijedi pratiti u slučaju promjene prostornog plana ili potrebe za susjednom parcelom.",
+  "flags": [
+    "šumsko zemljište - zabrana gradnje i promjene namjene",
+    "visoki troškovi legalizacije eventualne prenamjene",
+    "niska kratkoročna likvidnost"
+  ],
+  "input_hash": "f2f53a172a41",
+  "scored_at": "2026-04-23T08:04:52.248253"
+}

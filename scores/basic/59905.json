@@ -1,0 +1,16 @@
+{
+  "id": "59905",
+  "score_overall": 3.0,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Ista katastarska općina kao ID 59903, isti rizici – ruralna Slavonija s minimalnom potražnjom za poljoprivrednim zemljištem od strane vanjskih investitora. 4503m2 oranice uz 20% popust ne gradi investicijski slučaj.",
+  "flags": [
+    "depopulacijsko područje",
+    "niska tržišna likvidnost",
+    "moguće iste stranke u ovršnom postupku kao 59903"
+  ],
+  "input_hash": "acc183baee1e",
+  "scored_at": "2026-04-23T07:50:48.963719"
+}

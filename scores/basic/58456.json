@@ -1,0 +1,16 @@
+{
+  "id": "58456",
+  "score_overall": 3.0,
+  "score_lokacija": 4.0,
+  "score_roi": 2.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Samo 1/4 suvlasničkog dijela obiteljske kuće u selu Polčec kod Varaždina - suvlasnička struktura je ključni dealbreaker jer bez suglasnosti preostalih suvlasnika nema slobodnog raspolaganja nekretninom. Popust od 20% na prvoj dražbi nikako ne kompenzira suvlasničke i pravne komplikacije.",
+  "flags": [
+    "samo 1/4 suvlasničkog dijela - drastično otežana disposicija",
+    "mogući suvlasnici koji žive u nekretnini",
+    "potrebna suglasnost ili prisilna dioba za realizaciju izlaza"
+  ],
+  "input_hash": "e14f054d0413",
+  "scored_at": "2026-04-23T08:01:52.554703"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "59686",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica u ruralnom Bjelovarskom kraju, izrazito niska likvidnost i depopulacijsko područje. Svega 20% popusta na prvoj dražbi ne kompenzira slabu lokaciju i ograničenu upotrebljivost poljoprivrednog zemljišta.",
+  "flags": [
+    "depopulacijsko područje",
+    "isključivo poljoprivredno zemljište – nema objekata",
+    "niska likvidnost regije"
+  ],
+  "input_hash": "4ae1ccc82b73",
+  "scored_at": "2026-04-23T07:53:29.103491"
+}

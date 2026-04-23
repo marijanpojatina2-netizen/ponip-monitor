@@ -1,0 +1,58 @@
+{
+  "id": "58386",
+  "score_overall": 7.0,
+  "score_lokacija": 9.0,
+  "score_roi": 6.0,
+  "score_stanje": 4.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Nova Ves 53/1 je premium A-lokacija u srcu Gornjeg grada, 5-10 min pješice od Bana Jelačića, tik uz Kaptol i Dolac — rijetko se pojavljuju nekretnine na dražbi u ovoj zoni. Popust od samo 20% (prva dražba) nije dramatičan, ali procijenjena vrijednost od 537k EUR za objekt s 89 m2 ukupne građevine na 357 m2 parcele čini se konzervativnom — samo zemljište u ovoj mikrolokaciji vrijedi 400-600k EUR. Kućica od 61 m2 s pomoćnim zgradama i dvorištem od 268 m2 nosi izniman razvojni potencijal (proširenje, adaptacija, premium kratkoročni najam), ali regulatorna ograničenja Gornjeg grada (zona zaštite UNESCO) moraju se detaljno istražiti prije ulaska.",
+  "flags": [
+    "Gornji grad — zona konzervatorske zaštite, stroge regulacije za izgradnju/nadogradnju (GUP Zagreb, konzervatorski uvjeti)",
+    "Prva dražba — popust samo 20%, bez dodatnog bonusa za kasniju dražbu",
+    "Opis ne specificira komunalni priključak ni stanje infrastrukture (stariji objekt, moguće trošne instalacije)",
+    "Javno dostupne informacije ne potvrđuju prisutnost stanara, no treba provjeriti ZK izvadak na teretu"
+  ],
+  "market_estimate": {
+    "eur_min": 620000,
+    "eur_max": 950000,
+    "confidence": "medium",
+    "basis": "Gornji Grad / Nova Ves spada u najskuplje adrese u Zagrebu. Renovirane kuće u ovoj zoni postižu 6.000-9.000 EUR/m2 građ. površine; samo parcela od 357 m2 u Gornjem gradu tržišno vrijedi 450-800 EUR/m2 što je 160.000-285.000 EUR samo za zemljište. Minimum od 620k bazira se na trenutačnom stanju bez razvoja; max od 950k pretpostavlja uspješnu adaptaciju/nadogradnju uz konzervatorska odobrenja. Web pretraga nije bila dostupna — preporučuje se verifikacija na nekretnine.net / njuskalo.hr."
+  },
+  "comparables": [
+    {
+      "opis": "Kuća Gornji grad, ~100 m2, renovirana, vrt",
+      "cijena": 750000,
+      "m2": 100,
+      "izvor": "nekretnine.net (procjena segmenta)",
+      "url": "https://www.nekretnine.net/stambeni-objekti/kuce/gornji-grad-zagreb/"
+    },
+    {
+      "opis": "Kuća Kaptol zona, starija gradnja ~80 m2, za renovaciju",
+      "cijena": 480000,
+      "m2": 80,
+      "izvor": "njuskalo.hr (procjena segmenta)",
+      "url": "https://www.njuskalo.hr/prodaja-kuca/zagreb-gornji-grad"
+    },
+    {
+      "opis": "Zemljište Gornji grad / Šalata ~300 m2 (rijetko na tržištu)",
+      "cijena": 550000,
+      "m2": null,
+      "izvor": "njuskalo.hr (procjena segmenta)",
+      "url": "https://www.njuskalo.hr/prodaja-zemljista/zagreb-gornji-grad"
+    }
+  ],
+  "investment_strategy": "RAZVOJ + PREMIUM NAJAM: Parcela od 357 m2 s dvorištem 268 m2 u Gornjem gradu je iznimno rijedak resurs. Primarna strategija je konzultacija arhitekta i konzervatorskog odjela odmah po preuzimanju — ako je dozvoljeno proširenje (makar 100-150 m2 dodatne GBA), ukupna vrijednost skače na 800k-1.1M EUR. Sekundarna opcija: adaptacija postojeće kuće u premium short-term rental (Airbnb/booking) — lokacija garantira 80%+ popunjenost po 150-250 EUR/noć (procjena), ROI od najma 4-6% godišnje. Reno-flip opcija je isplativa tek uz konzervatorska odobrenja. Čisto preprodajni flip bez ulaganja nije atraktivan zbog skromnog ulaznog popusta.",
+  "entry_price_eur": 430000,
+  "detailed_risks": [
+    "Konzervatorska ograničenja Gornjeg grada (UNESCO zona zaštite) mogu blokirati proširenje ili povećanje etaža — ključni rizik koji određuje puni potencijal",
+    "Stara gradska jezgra — moguće skrivene mane konstrukcije (temelji, krov, vlaga) na objektima koji nisu renovirani; potreban građevinski pregled",
+    "Visoka apsolutna cijena (429k+ EUR) zahtijeva ozbiljan kapital i snažan financijski plan za renovaciju",
+    "Parkirni prostor: Nova Ves nema javnih parkinga — otežava dugoročni najam obiteljima s automobilima",
+    "Likvidnost: premium objekti u Gornjem gradu prodaju se sporo (uski krug kupaca), izlazna strategija može trajati 12-24 mjeseca",
+    "Provjera ZK tereta, služnosti i eventualnih hipoteka obavezna prije licitiranja"
+  ],
+  "upside_scenario": "U 2-3 godine: dobivena konzervatorska dozvola za proširenje na 180-200 m2 GBA, renovacija do premium standarda (200-250k EUR ulaganja), prodaja ili iznajmljivanje na razini 9.000 EUR/m2 = ukupna vrijednost 1.6-1.8M EUR. Neto dobit 700k-900k EUR uz ukupnu investiciju od ~680k EUR — IRR iznad 40%.",
+  "downside_scenario": "Konzervatori blokiraju svaki zahvat osim rekonstrukcije u gabaritu; 61 m2 + 28 m2 pomoćnih = 89 m2 max. Renovacija do minimalnog standarda košta 80-120k EUR, tržišna vrijednost 650-750k EUR. Na cijeni ulaza od 430k + 100k renovacija = 530k → profit 120-220k EUR (22-42% na kapital). Spori izlaz — Zagreb luksuzni segment tanko tržište.",
+  "input_hash": "51b9e6504f3a",
+  "scored_at": "2026-04-23T08:10:30.357645"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "58874",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica u k.o. Oljasi blizu Osijeka — srce slavonske depopulacijske zone s niskom likvidnošću nekretnina i ograničenim investicijskim horizontom. Stečajni predmet s 25% popusta na prvoj dražbi ne kompenzira strukturne slabosti regije.",
+  "flags": [
+    "slavonska depopulacijska zona",
+    "niska tržišna likvidnost",
+    "stečajni predmet - moguće dodatne pravne komplikacije"
+  ],
+  "input_hash": "5a9ad2ddaeb6",
+  "scored_at": "2026-04-23T07:56:55.278918"
+}

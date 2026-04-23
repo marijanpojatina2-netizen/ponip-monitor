@@ -1,0 +1,16 @@
+{
+  "id": "58870",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Oranica 5274m2 u k.o. Oljasi (Osijek) s nazivom 'Tursko Groblje' koji može indicirati kulturno-povijesna ili vjerska ograničenja na prenamjenu. Prva dražba s tek 25% popustom u dubokoj ruralnoj Slavoniji - nema investicijskog slučaja.",
+  "flags": [
+    "naziv 'Tursko Groblje' - moguća kulturno-povijesna ili vjerska ograničenja",
+    "1. dražba - bez bonusa na cijenu",
+    "depopulacijska ruralna Slavonija"
+  ],
+  "input_hash": "70fa9a14ab56",
+  "scored_at": "2026-04-23T08:00:04.046335"
+}

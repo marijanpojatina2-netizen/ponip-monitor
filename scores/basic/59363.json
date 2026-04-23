@@ -1,0 +1,17 @@
+{
+  "id": "59363",
+  "score_overall": 2,
+  "score_lokacija": 2,
+  "score_roi": 2.5,
+  "score_stanje": 3,
+  "recommendation": "pass",
+  "reasoning": "Oranica u virovitičkoj okolici (Rušani) kombinira jednu od najslabijih lokacija u kontinentalnoj Hrvatskoj s minimalnim popustom od 20% na prvoj dražbi. Depopulacija i kronično niska potražnja u Virovitičko-podravskoj županiji čine ovu investiciju bez realne exit strategije.",
+  "flags": [
+    "depopulacijsko područje - Virovitica/Slavonija",
+    "niska tržišna likvidnost",
+    "oranica bez razvojnog potencijala",
+    "prva dražba - bez bonusa"
+  ],
+  "input_hash": "7f2ac45d4177",
+  "scored_at": "2026-04-23T08:07:09.984611"
+}

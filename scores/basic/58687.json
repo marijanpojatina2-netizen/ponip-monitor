@@ -1,0 +1,16 @@
+{
+  "id": "58687",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Gorica Nova u Koprivničko-križevačkoj županiji – ruralno, ali Podravina ima nešto bolju agrarnu ekonomiku od Slavonije. 7039m2 oranice uz 20% popust ipak ne gradi uvjerljiv slučaj bez specifičnog agrarnog kupca.",
+  "flags": [
+    "ruralno područje",
+    "niska likvidnost",
+    "interes ograničen na lokalne poljoprivrednike"
+  ],
+  "input_hash": "6683f77987a5",
+  "scored_at": "2026-04-23T07:50:48.964184"
+}

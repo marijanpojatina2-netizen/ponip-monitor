@@ -1,0 +1,16 @@
+{
+  "id": "59171",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Šuma u Čazmanskom kraju, Bjelovarsko-bilogorska županija – jedno od slabijih investicijskih područja kontinentalne Hrvatske. Šumsko zemljište bez ikakvih objekata uz 20% popusta na prvoj dražbi nema realan investicijski potencijal.",
+  "flags": [
+    "šumsko zemljište – jako ograničena namjena i likvidnost",
+    "depopulacijsko područje",
+    "20% popust nedovoljan za kompenzaciju rizika"
+  ],
+  "input_hash": "f08015ccf00d",
+  "scored_at": "2026-04-23T07:53:29.104459"
+}

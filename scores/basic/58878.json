@@ -1,0 +1,16 @@
+{
+  "id": "58878",
+  "score_overall": 2.0,
+  "score_lokacija": 1.5,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Dvije oranice u ruralnoj Slavoniji (Donji Emovci, blizu Đakova) bez ikakve građevine - depopulacijsko područje s minimalnom likvidnošću zemljišta. Popust od 25% na prvoj dražbi ne kompenzira strukturalni problem regije i neatraktivnost čistog poljoprivrednog zemljišta kao investicijskog instrumenta.",
+  "flags": [
+    "ruralna Slavonija - visoka depopulacija i emigracija",
+    "isključivo poljoprivredno zemljište - niska likvidnost",
+    "stečajni postupak - moguće skrivene tražbine"
+  ],
+  "input_hash": "0fa29d740e71",
+  "scored_at": "2026-04-23T08:07:57.059931"
+}

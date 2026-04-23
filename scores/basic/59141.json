@@ -1,0 +1,16 @@
+{
+  "id": "59141",
+  "score_overall": 3.0,
+  "score_lokacija": 3.0,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Livada u ruralnom Zagorju (Gubaševo/Zabok) bez građevinskog potencijala i slabom likvidnošću tržišta; 25% popust na prvoj dražbi nije dovoljan za kompenzaciju slabog investicijskog profila.",
+  "flags": [
+    "ruralno područje - slaba likvidnost",
+    "livada - ograničena prenamjena",
+    "nema građevinskog potencijala"
+  ],
+  "input_hash": "ebef30c48de1",
+  "scored_at": "2026-04-23T07:58:23.138316"
+}

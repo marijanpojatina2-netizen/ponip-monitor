@@ -1,0 +1,16 @@
+{
+  "id": "59696",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 2.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Samo 1/2 suvlasničkog dijela sitne oranice od 843 m2 u Ivankovu kod Vinkovaca - dvostruki negativni faktori: suvlasništvo i depopulacijska istočna Slavonija bez turističkih ni razvojnih perspektiva. Najslabiji kandidat u skupini.",
+  "flags": [
+    "samo 1/2 suvlasničkog dijela",
+    "depopulacijska Slavonija - iznimno niska likvidnost",
+    "sitno agrikulturno zemljište bez razvojnog potencijala"
+  ],
+  "input_hash": "ea35a98b4a2a",
+  "scored_at": "2026-04-23T08:01:52.554848"
+}

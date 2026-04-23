@@ -1,0 +1,16 @@
+{
+  "id": "59583",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica u k.o. Trpinja (Vukovarsko područje) s tek 20% popustom na prvoj dražbi - poslijeratna regija s jednim od najnižih cijena i najsporijim prometom nekretnina u Hrvatskoj, bez razvojnog potencijala.",
+  "flags": [
+    "Vukovarsko-srijemska županija - poslijeratni kontekst",
+    "slaba tržišna likvidnost",
+    "isključivo poljoprivredna namjena"
+  ],
+  "input_hash": "6a39c4af1fec",
+  "scored_at": "2026-04-23T07:58:23.139090"
+}

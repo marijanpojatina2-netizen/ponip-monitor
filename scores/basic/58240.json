@@ -1,0 +1,15 @@
+{
+  "id": "58240",
+  "score_overall": 3.5,
+  "score_lokacija": 3.5,
+  "score_roi": 5.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Livada u Nedelišću uz 40% popust i drugu dražbu donosi bolji ulaz, ali Međimurje nudi nisku likvidnost za takve parcele i nema realnog exit scenarija osim preprodaje lokalnom poljoprivredniku.",
+  "flags": [
+    "isključivo livada – bez izgradnje",
+    "niska likvidnost za agrarno zemljište u regiji"
+  ],
+  "input_hash": "067aefbf00f0",
+  "scored_at": "2026-04-23T07:55:25.971663"
+}

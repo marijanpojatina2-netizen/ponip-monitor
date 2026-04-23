@@ -1,0 +1,16 @@
+{
+  "id": "59901",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 4.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica 4,685 ha u Moslavini Podravskoj za ~6.400 EUR/ha je tržišno cijenjena za agrarno zemljište Slavonije, ali nema investicijskog potencijala izvan primarne poljoprivrede. Likvidnost praktički ne postoji.",
+  "flags": [
+    "čisto ruralno - Moslavina Podravska",
+    "isključivo agro investicija bez razvojnog potencijala",
+    "minimalna tržišna likvidnost"
+  ],
+  "input_hash": "0102b3fc214e",
+  "scored_at": "2026-04-23T07:49:30.335190"
+}

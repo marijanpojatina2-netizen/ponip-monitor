@@ -1,0 +1,16 @@
+{
+  "id": "59903",
+  "score_overall": 3.0,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Moslavina Podravska je depopulacijsko ruralno područje s vrlo niskom likvidnošću tržišta – čak ni 20% popust ne čini oranicu od 6676m2 atraktivnom za investitora orijentiranog na prinos. Izlazna strategija gotovo ne postoji.",
+  "flags": [
+    "depopulacijsko područje",
+    "niska tržišna likvidnost",
+    "samo kupac iz okoline ima realan interes"
+  ],
+  "input_hash": "847671e4a127",
+  "scored_at": "2026-04-23T07:50:48.963595"
+}

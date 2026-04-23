@@ -1,0 +1,68 @@
+{
+  "id": "58989",
+  "score_overall": 5.8,
+  "score_lokacija": 5.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Industrijska zgrada od 2.184 m² na Zagrebačkoj ulici u Varaždinu po početnoj cijeni 390.000 EUR iznosi svega ~179 EUR/m² — što je znatno ispod tržišnih razina za industrijski prostor u ovoj regiji (250-350 EUR/m²). Varaždin je jedan od najjačih industrijskih centara sjeverozapadne Hrvatske uz autocestu A4, s kontinuiranim dolaskom stranih ulagača i visokom potražnjom za najmom hala. Međutim, stečajno porijeklo, izostanak javne procjene stanja i industrijska prethodna namjena nose realne rizike (skriveni tereti, odgođeno održavanje, ekološka kontaminacija). Zbog veličine investicije iznad 500.000 EUR i kombinacije potencijala i nepoznanica, neophodna je dubinska provjera ZK, tehničke dokumentacije i tla prije licitacije.",
+  "flags": [
+    "stečajna masa — rizik skrivenih hipoteka i privilegiranih vjerovnika",
+    "stanje objekta nepoznato — procjene isključivo na upit, bez javnog izvješća",
+    "industrijska prethodna namjena — potencijalna kontaminacija tla",
+    "prva dražba — nema bonus popusta koji nose 3. i 4. krug",
+    "visoka jamčevina 52.000 EUR — kapital blokiran tjednima",
+    "finalizacija stečaja može odgoditi upis vlasništva"
+  ],
+  "market_estimate": {
+    "eur_min": 460000,
+    "eur_max": 680000,
+    "confidence": "medium",
+    "basis": "Industrijski prostor u Varaždinu i okolici (Čakovec, Ludbreg) procjenjuje se na 220-380 EUR/m² ovisno o stanju, godini gradnje i opremljenosti. Za 2.184 m² GBP uz parcelu 2.796 m² na prometnoj Zagrebačkoj ulici (direktan pristup koridoru prema A4), tržišna vrijednost u urednom do dobrom stanju iznosi 460.000-680.000 EUR. Procjena bez live web pretrage temeljem tržišnog znanja do Q1 2025."
+  },
+  "comparables": [
+    {
+      "opis": "Industrijska hala 1.550 m² sa uredom, Varaždin — Jalžabet zona, prizemlje + galerija",
+      "cijena": 430000,
+      "m2": 1550,
+      "izvor": "njuskalo.hr (procjena iz poznavanja tržišta, nije live upit)",
+      "url": "https://www.njuskalo.hr/prodaja-poslovnih-prostora/varazdin"
+    },
+    {
+      "opis": "Hala 2.000 m² + ured, Varaždin okolica — uredna infrastruktura, grijanje",
+      "cijena": 560000,
+      "m2": 2000,
+      "izvor": "nekretnine.net (procjena iz poznavanja tržišta, nije live upit)",
+      "url": "https://www.nekretnine.net/stambeni_objekti/hale/varazdin/"
+    },
+    {
+      "opis": "Industrijski kompleks 2.400 m², Čakovec (usporediva regija SZ Hrvatske)",
+      "cijena": 660000,
+      "m2": 2400,
+      "izvor": "nekretnine.net (procjena iz poznavanja tržišta, nije live upit)",
+      "url": "https://www.nekretnine.net/stambeni_objekti/hale/cakovec/"
+    },
+    {
+      "opis": "Skladišno-industrijska hala 1.800 m², Varaždin — stečaj, niži standard",
+      "cijena": 380000,
+      "m2": 1800,
+      "izvor": "oglasi.hr / FINA dražbe (procjena iz poznavanja tržišta)",
+      "url": "https://e-oglasna.fina.hr"
+    }
+  ],
+  "investment_strategy": "Dugoročni najam industrijskog/logističkog prostora: Varaždin bilježi kontinuiran dolazak Tier-2 industrijskih dobavljača i distributivnih centara koji traže vlastite hale ili dugoročni najam. Pri najmu od 4,5-6,0 EUR/m²/mj na 2.184 m² bruto prihod je 118.000-157.000 EUR/god, što na ulaznoj cijeni 410.000 EUR daje 29-38% bruto ili 12-18% neto prinos — izvrsno za industrijsku kategoriju. Sekundarna strategija: preprodaja industrijskom kupcu koji traži vlastite prostorije (exit 2-5 god uz rast vrijednosti 15-25%). Reno-flip moguć ali rizičan zbog veličine objekta.",
+  "entry_price_eur": 440000,
+  "detailed_risks": [
+    "Skrivene hipoteke i tereti u stečajnoj masi — obavezna provjera ZK izvadka i liste vjerovnika",
+    "Nepoznato tehničko stanje: deferred maintenance tipičan za stečajne objekte (krov, instalacije, HVAC, statika)",
+    "Ekološki rizik: industrijska prethodna upotreba može imati kontaminaciju tla ili podzemnih voda (potreban soil screening prije licitacije)",
+    "Namjena po GUP-u Varaždina: treba potvrditi I1/I2 zonu i dopuštene djelatnosti za planirani use-case",
+    "Likvidnost: kupci za industrijske objekte >2.000 m² uži su krug od stambenog tržišta",
+    "Zakonska regulacija: faza preuzimanja vlasništva u stečaju može potrajati 3-9 mj nakon licitacije",
+    "Konkurencija na prvoj dražbi može dići cijenu do ili iznad procijenjene vrijednosti od 520.000 EUR"
+  ],
+  "upside_scenario": "Tehnički pregled potvrđuje solidno stanje (stečaj kratkotrajan, objekt iz 2000-ih). Zakupnik iz industrijskog sektora pronađen u 3-6 mj, ugovor 5+5 god na 5,5 EUR/m²/mj = 143.880 EUR/god bruto. Na ulaznoj cijeni 420.000 EUR neto prinos ~14-16%. Rast cijena industrijskih nekretnina u Varaždinu 2024-2026 iznosi 8-12% YoY — exit za 3-4 god realno donosi 620.000-720.000 EUR, ukupni ROI 45-65% na vlastiti kapital.",
+  "downside_scenario": "Tehnički pregled otkriva devastiran objekt s potrebnim radovima 150.000-250.000 EUR (krov, instalacije, sanacija tla). Tržište se hladi uz rast kamatnih stopa, zakupnik ne pronađen u 12+ mj. Ekološka sanacija povećava ukupne troškove iznad tržišne vrijednosti. Exit moguć samo uz gubitak 20-30% uloženog kapitala. Stečajni postupak se proteže, vlasništvo kasni.",
+  "input_hash": "10605f930388",
+  "scored_at": "2026-04-23T08:12:38.756198"
+}

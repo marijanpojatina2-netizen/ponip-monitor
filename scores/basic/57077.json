@@ -1,0 +1,16 @@
+{
+  "id": "57077",
+  "score_overall": 4.5,
+  "score_lokacija": 4.5,
+  "score_roi": 5.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Dva posjeda u Koprivnici ukupno 1255 m2 s 40% popustom i čistim vlasništvom 1/1 čine relativno preglednu akviziciju; urbana lokacija s adresom na ulici Zvirišće daje opcionalnost za razvoj u regionalnom centru. Koprivnica ima umjerenu ali stabilnu likvidnost, vrijednost stoji uz provjeru urbanističkog statusa i komunalija.",
+  "flags": [
+    "vinograd - specifična namjena, potencijalna ograničenja",
+    "komunalna opremljenost nepoznata",
+    "kčbr. 9597/2 oznaka 'ulica' - provjeriti stvarni status parcele"
+  ],
+  "input_hash": "a1e933438269",
+  "scored_at": "2026-04-23T07:52:25.334718"
+}

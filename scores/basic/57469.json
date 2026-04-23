@@ -1,0 +1,16 @@
+{
+  "id": "57469",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica u Slavonskom Brodu s 40% popustom zvuči primamljivo, ali suvlasničko vlasništvo (2/4) ozbiljno otežava svaku daljnju dispoziciju bez suglasnosti suvlasnika. Slavonija ima izrazito nisku likvidnost za poljoprivredno zemljište bez objekta.",
+  "flags": [
+    "suvlasništvo 2/4 - kupuje se samo udio",
+    "Slavonija - niska tržišna likvidnost",
+    "oranica bez objekta"
+  ],
+  "input_hash": "f63fa34fe86e",
+  "scored_at": "2026-04-23T07:52:25.334071"
+}

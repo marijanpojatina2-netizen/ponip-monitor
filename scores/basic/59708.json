@@ -1,0 +1,16 @@
+{
+  "id": "59708",
+  "score_overall": 5.5,
+  "score_lokacija": 7.5,
+  "score_roi": 5.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Vinograd na otoku Malom Ižu u Zadarskom arhipelagu je premijum dalmatinska lokacija s potencijalom vinogradarskog/turističkog razvoja, ali 519m2 bez objekta i samo 20% popust na prvoj dražbi čine ulazak preuranjenim.",
+  "flags": [
+    "samo poljoprivredno/vinogradarsko zemljište – bez objekta",
+    "otoška logistika – provjeriti pristup i troškove",
+    "provjeriti UPU i mogućnost gradnje ili promjene namjene"
+  ],
+  "input_hash": "b2af2cb6ed23",
+  "scored_at": "2026-04-23T07:55:25.972030"
+}

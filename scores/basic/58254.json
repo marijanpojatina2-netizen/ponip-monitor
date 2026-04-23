@@ -1,0 +1,15 @@
+{
+  "id": "58254",
+  "score_overall": 3.0,
+  "score_lokacija": 3.5,
+  "score_roi": 4.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Livada 717m2 u Nedelišću kraj Čakovca - neatraktivna periferija bez turističkog ni razvijenog stambenog potencijala, čisto poljoprivredno zemljište bez perspektive prenamjene. 40% popust i 2. dražba jedine su pozitivne stavke, no niska likvidnost Međimurja i premala vrijednost ne opravdavaju angažman.",
+  "flags": [
+    "samo poljoprivredno zemljište bez građevinskog potencijala",
+    "niska tržišna likvidnost periferije Čakovca"
+  ],
+  "input_hash": "5d08e0ffcd95",
+  "scored_at": "2026-04-23T08:00:04.046132"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "57825",
+  "score_overall": 5.0,
+  "score_lokacija": 3.5,
+  "score_roi": 6.0,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Jedini predmet u ovom setu s fizičkom stambenom konstrukcijom (kuća + dvorište 378 m²) uz oranicu, druga dražba s popustom 40% - jedino ovdje postoji realna supstanca za stanovanje ili iznajmljivanje. Ruralna lokacija u blizini Ivanca ograničava gornju cijenu, a stanje kuće nije opisano pa je rizik renovacije nepoznat.",
+  "flags": [
+    "stanje kuće nespecificirano u opisu - potreban fizički pregled",
+    "ruralna mikrolokacija Druškovec - ograničen najamni tržišni potencijal"
+  ],
+  "input_hash": "0bf21c4b8193",
+  "scored_at": "2026-04-23T08:04:52.248453"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "58661",
+  "score_overall": 3.0,
+  "score_lokacija": 3.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Gotovo identično predmetu 58663 - oranica u Totovecu 1/1, prva dražba, 20% popust. Čisto vlasništvo jedina pozitivna strana, no investicijski case ne postoji bez planova za preradu/obradu zemljišta.",
+  "flags": [
+    "isključivo poljoprivredna namjena",
+    "niska likvidnost regije"
+  ],
+  "input_hash": "9ff456b59ef4",
+  "scored_at": "2026-04-23T08:04:52.248353"
+}

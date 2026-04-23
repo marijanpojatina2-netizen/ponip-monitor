@@ -1,0 +1,16 @@
+{
+  "id": "58450",
+  "score_overall": 3.5,
+  "score_lokacija": 5.0,
+  "score_roi": 3.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica 586m2 u Zaboku (Krapinsko-Zagorje, ~40km od Zagreba) - solidna lokacija ali samo 20% popusta na prvoj dražbi čini cijenu skupom za čisto poljoprivredno zemljište bez potvrđene građevinske namjene. Premalo za ikakav razvoj, preskupo za spekulativnu kupnju.",
+  "flags": [
+    "1. dražba - bez cjenovnog bonusa",
+    "samo 586m2 oranice - premalo za razvoj",
+    "20% popust nedovoljan za entry"
+  ],
+  "input_hash": "ee2cebb3107f",
+  "scored_at": "2026-04-23T08:00:04.046661"
+}

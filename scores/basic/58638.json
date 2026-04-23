@@ -1,0 +1,17 @@
+{
+  "id": "58638",
+  "score_overall": 1.5,
+  "score_lokacija": 3.0,
+  "score_roi": 1.5,
+  "score_stanje": 1.0,
+  "recommendation": "pass",
+  "reasoning": "Parcela opisana kao 'deponija' od 10002m2 nosi ekološke i zakonske rizike koji mogu višestruko premašiti nominalnu vrijednost; ni 50% popust ne opravdava potencijalnu ekološku sanaciju i regulatorne obveze vezane uz odlagalište otpada.",
+  "flags": [
+    "DEPONIJA - odlagalište otpada",
+    "visok rizik ekološke kontaminacije tla i podzemnih voda",
+    "potencijalne zakonske obveze sanacije na teret kupca",
+    "nepoznati remedijacijski troškovi mogu biti višestruko veći od kupovne cijene"
+  ],
+  "input_hash": "09613c1b3f8c",
+  "scored_at": "2026-04-23T08:03:33.707832"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "58182",
+  "score_overall": 4.5,
+  "score_lokacija": 5.5,
+  "score_roi": 5.0,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Šumsko/neobradivo zemljište u Istri (k.o. Salež) s 40% popustom i istarskim premium brandingom, ali bez objekta i bez jasne namjene. Čini cjelinu s kč. 1875/1 (ID 58180) — zajedno 4266 m2 istarskog zemljišta ispod 5400 EUR ukupno, što može biti interesantno za dugoročno špekulativno ulaganje.",
+  "flags": [
+    "šuma i nisko raslinje - bez objekta",
+    "nije građevinsko zemljište",
+    "smisao samo u kombinaciji s kč. 1875/1"
+  ],
+  "input_hash": "6253599a8789",
+  "scored_at": "2026-04-23T07:56:55.278656"
+}

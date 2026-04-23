@@ -1,0 +1,16 @@
+{
+  "id": "59915",
+  "score_overall": 4.0,
+  "score_lokacija": 5.5,
+  "score_roi": 4.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Svega 47m2 u k.o. Grad Zagreb - 'uređeno zemljište' klasifikacija sugerira komunalnu opremljenost, ali veličina eliminira gotovo svaki razvojni scenarij osim eventualno garažnog mjesta ili malog parkirnog prostora. Zagreb lokacija ne spašava fundamentalnu neupotrebljivost parcele.",
+  "flags": [
+    "samo 47 m2 - gotovo nezgradivo",
+    "garažno/parking jedina realna opcija",
+    "k.č. 7793/399 klasificirana oranica uz 'uređeno zemljište'"
+  ],
+  "input_hash": "83a536f0f981",
+  "scored_at": "2026-04-23T07:49:30.335413"
+}

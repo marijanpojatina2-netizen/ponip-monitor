@@ -1,0 +1,16 @@
+{
+  "id": "59409",
+  "score_overall": 4.5,
+  "score_lokacija": 6.5,
+  "score_roi": 4.0,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Šuma 1942m2 u k.o. Sv. Ivan blizu Poreča koristi atraktivnost Istre, ali suvlasništvo 1/2 i šumska namjena bez jasnog razvojnog puta blokiraju investicijski case uz svega 20% popusta na prvoj dražbi.",
+  "flags": [
+    "suvlasništvo 1/2 – rizik blokiranja",
+    "šuma – stroga zakonska ograničenja izgradnje",
+    "prva dražba bez bonusa na popust"
+  ],
+  "input_hash": "06fb311e257f",
+  "scored_at": "2026-04-23T07:55:25.972232"
+}

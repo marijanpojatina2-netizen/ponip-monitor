@@ -1,0 +1,16 @@
+{
+  "id": "58862",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica s voćnjakom 1670m2 u k.o. Oljasi - identična situacija kao ID 58870 iz iste katastarske općine, vjerojatno isti stečajni predmet, ista 1. dražba i 25% popust. Ruralna Slavonija s niskom likvidnošću ne opravdava aktivnost.",
+  "flags": [
+    "1. dražba Slavonija - bez bonusa",
+    "ista k.o. Oljasi kao ID 58870 - vjerojatno isti stečajni postupak",
+    "ruralna depopulacijska zona Osijek okolica"
+  ],
+  "input_hash": "3f0d0713430d",
+  "scored_at": "2026-04-23T08:00:04.046999"
+}

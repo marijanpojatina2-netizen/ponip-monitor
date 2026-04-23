@@ -1,0 +1,17 @@
+{
+  "id": "59700",
+  "score_overall": 4.5,
+  "score_lokacija": 6.5,
+  "score_roi": 4.0,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Mali Iž je otok blizu Zadra što lokaciji daje turistički šmek, ali pašnjak od samo 347m2 na prvoj dražbi s 20% popustom nije atraktivan - vrijedi pratiti do eventualne treće dražbe s bitno višim popustom.",
+  "flags": [
+    "prva dražba - pričekati",
+    "pašnjak - otežana promjena namjene",
+    "mali izolirani otok s ograničenom pristupačnošću",
+    "mala parcela"
+  ],
+  "input_hash": "be9ec4aa6845",
+  "scored_at": "2026-04-23T08:03:33.707592"
+}

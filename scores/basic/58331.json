@@ -1,0 +1,16 @@
+{
+  "id": "58331",
+  "score_overall": 3.0,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Treštanovci su ruralno područje blizu Požege – jedna od najslabijih regija po likvidnosti nekretnina u Hrvatskoj. 9484m2 oranice uz 20% popust nema exit strategiju osim lokalnog farmera.",
+  "flags": [
+    "slabija Slavonija / Požeška kotlina",
+    "depopulacija",
+    "nema investitora s izlaskom"
+  ],
+  "input_hash": "9bec2beb759f",
+  "scored_at": "2026-04-23T07:50:48.963981"
+}

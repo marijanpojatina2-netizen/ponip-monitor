@@ -1,0 +1,17 @@
+{
+  "id": "58848",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 2.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Uz sve rizike Slavonije, ovo je još i suvlasnički udio što drastično smanjuje vrijednost i likvidnost – ostali suvlasnici imaju pravo prvokupa i mogu blokirati raspolaganje. Dvostruki red flag: loša regija + komplicirano vlasništvo.",
+  "flags": [
+    "suvlasništvo – pravo prvokupa ostalih suvlasnika",
+    "nejasna formulacija udjela (6. suvlasnički dio u 2/4)",
+    "Slavonija niska likvidnost",
+    "otežana preprodaja"
+  ],
+  "input_hash": "5d6e6ca47ccf",
+  "scored_at": "2026-04-23T07:50:48.964085"
+}

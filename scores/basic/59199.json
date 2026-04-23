@@ -1,0 +1,15 @@
+{
+  "id": "59199",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 2.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Livada od 5463 m2 u istoj ruralnoj k.o. Prugovac kod Đurđevca - premda prividno jeftina (~0.54 EUR/m2), nema kupaca za agrikulturno zemljište u depopulacijskoj Podravini. Popust od 20% na prvoj dražbi nedovoljan za kompenzaciju rizika.",
+  "flags": [
+    "ruralno depopulacijsko područje",
+    "isključivo livada bez razvojnog potencijala"
+  ],
+  "input_hash": "b496e17140d6",
+  "scored_at": "2026-04-23T08:01:52.554598"
+}

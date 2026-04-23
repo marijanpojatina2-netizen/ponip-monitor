@@ -1,0 +1,16 @@
+{
+  "id": "59919",
+  "score_overall": 5.5,
+  "score_lokacija": 6.0,
+  "score_roi": 6.0,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Livada 740m2 unutar k.o. Grad Zagreb ima potencijal ako GUP dozvoljava prenamjenu, ali klasifikacija kao livada znači agrarno ograničenje bez provjere urbanističkih planova. Cijena od ~277 EUR/m2 viša je od susjednih parcela iste zone, što zaslužuje provjeru razlike u namjeni.",
+  "flags": [
+    "livada - provjeri GUP zonu prije licitacije",
+    "bez građevine - nema izravnog prihoda",
+    "nepoznata komunalna opremljenost"
+  ],
+  "input_hash": "4e3bd8605259",
+  "scored_at": "2026-04-23T07:49:30.334484"
+}

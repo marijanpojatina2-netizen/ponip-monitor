@@ -1,0 +1,16 @@
+{
+  "id": "57853",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 4.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Livada 4266 m2 u Ivancu ima 40% popusta i potpuno vlasništvo 1/1 što su plus, ali Varaždinska periferija nema perspektivu promjene namjene niti razvoja te vrste zemljišta. Bez objekta i razvojnog potencijala nemoguće je generirati ikakav smisleni ROI.",
+  "flags": [
+    "livada - bez objekta",
+    "ruralno područje Ivanec - depopulacijski trend",
+    "niska tržišna likvidnost za travnjake"
+  ],
+  "input_hash": "5dfda60a33e1",
+  "scored_at": "2026-04-23T07:52:25.334614"
+}

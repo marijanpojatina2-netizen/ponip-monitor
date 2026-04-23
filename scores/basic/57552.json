@@ -1,0 +1,16 @@
+{
+  "id": "57552",
+  "score_overall": 6.5,
+  "score_lokacija": 8.0,
+  "score_roi": 7.5,
+  "score_stanje": 5.0,
+  "recommendation": "bid",
+  "reasoning": "Vrt 120m2 u Kukljici na otoku Ugljanu (trajekt Zadar–Ugljan) je turistički aktivna dalmatinska lokacija s 40% popustom na drugoj dražbi i izuzetno niskom ulaznom cijenom od ~2760 EUR; potencijal za gradnju, pripajanje ili flip.",
+  "flags": [
+    "mala parcela 120m2 – provjeriti UPU i je li gradivo ili pripatak postojećoj nekretnini",
+    "klasifikacija 'vrt' – moguća namjenska ograničenja",
+    "otoška logistika – provjera pristupa i infrastrukture"
+  ],
+  "input_hash": "b9c474501407",
+  "scored_at": "2026-04-23T07:55:25.972430"
+}

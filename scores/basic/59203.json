@@ -1,0 +1,16 @@
+{
+  "id": "59203",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 2.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Prugovac kod Đurđevca – ruralna Podravina s ograničenom potražnjom; parcela uključuje kanal koji smanjuje efektivnu obradivu površinu i može nositi zakonska ograničenja korištenja. Najslabiji profil u ovom setu.",
+  "flags": [
+    "kanal u sastavu parcele (moguća zakonska ograničenja)",
+    "smanjena efektivna površina",
+    "ruralno depopulacijsko mikropodručje"
+  ],
+  "input_hash": "9801a85f49ca",
+  "scored_at": "2026-04-23T07:50:48.964284"
+}
