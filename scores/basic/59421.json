@@ -1,0 +1,16 @@
+{
+  "id": "59421",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Voćnjak od 358m² u Brodskom Vinogorju (Slavonski Brod) spada u depopulacijsko slavonsko područje s vrlo niskom potražnjom i lošom likvidnošću. Minimalni popust od 20% na prvoj dražbi ne kompenzira slabu lokaciju ni ograničenu upotrebnu vrijednost.",
+  "flags": [
+    "Depopulacijsko područje – Slavonija",
+    "Mikroplot 358m²",
+    "Niska tržišna likvidnost"
+  ],
+  "input_hash": "c2b21402c022",
+  "scored_at": "2026-04-24T08:10:26.959961"
+}

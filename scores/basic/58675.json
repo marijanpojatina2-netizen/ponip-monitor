@@ -1,0 +1,16 @@
+{
+  "id": "58675",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 3.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Šuma u ruralnoj Podravini (Koprivnički Ivanec) s minimalnim popustom od 20% i bez razvojnog potencijala; tržišna likvidnost za ovakve parcele je iznimno niska. Nema turističke niti rezidencionalne vrijednosti.",
+  "flags": [
+    "šuma – ograničena i regulirana namjena",
+    "ruralna depopulacijska zona",
+    "niska tržišna likvidnost"
+  ],
+  "input_hash": "70b2bbe0abd5",
+  "scored_at": "2026-04-24T08:19:46.224733"
+}

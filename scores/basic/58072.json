@@ -1,0 +1,16 @@
+{
+  "id": "58072",
+  "score_overall": 3.5,
+  "score_lokacija": 3.5,
+  "score_roi": 3.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica kod Čakovca s 40% popustom i 2. dražbom je ok na papiru, ali prodaje se samo 1/2 suvlasničkog udjela a co-owner je sam ovrhovoditelj što unosi pravnu i upravljačku kompleksnost koja nadmašuje potencijal.",
+  "flags": [
+    "suvlasništvo 1/2 s ovrhovoditeljicom - konfliktna struktura vlasništva",
+    "sitne čestice s višestrukim brojevima",
+    "ruralno Međimurje - niska likvidnost"
+  ],
+  "input_hash": "f6c7c07da950",
+  "scored_at": "2026-04-24T08:13:52.952426"
+}

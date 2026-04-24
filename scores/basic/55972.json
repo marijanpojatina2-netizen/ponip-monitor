@@ -1,0 +1,16 @@
+{
+  "id": "55972",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 2.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Pašnjak/livada u Virovitici, jednoj od demografski najslabijih regija u Hrvatskoj, bez perspektive rasta vrijednosti. 20% popust na prvoj dražbi ne kompenzira strukturnu slabost tržišta.",
+  "flags": [
+    "depopulacijska zona - Virovitica",
+    "nulta turistička relevantnost",
+    "slaba dugoročna likvidnost"
+  ],
+  "input_hash": "d42ea67ad566",
+  "scored_at": "2026-04-24T08:16:27.651192"
+}

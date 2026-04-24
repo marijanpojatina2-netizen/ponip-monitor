@@ -1,0 +1,15 @@
+{
+  "id": "58028",
+  "score_overall": 4.0,
+  "score_lokacija": 3.5,
+  "score_roi": 5.0,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Oranica u Veleškovcu (Zagorje/Zlatar) s 40% popusta na drugoj dražbi ulazi u prihvatljivi cjenovni rang za špekulativnu kupnju, uz puno vlasništvo 1/1 bez suvlasničkih komplikacija. Ruralna lokacija bez turističke atraktivnosti ograničava ROI, ali niska apsolutna cijena (~1260 EUR) smanjuje rizik gubitka kapitala.",
+  "flags": [
+    "Ruralna lokacija bez turističke atraktivnosti",
+    "Ograničena dugoročna likvidnost – Zagorje unutrašnjost"
+  ],
+  "input_hash": "6886512ab3db",
+  "scored_at": "2026-04-24T08:10:26.960387"
+}

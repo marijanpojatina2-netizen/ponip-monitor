@@ -1,0 +1,16 @@
+{
+  "id": "59773",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 3.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Oranica ~5.8 ha u okolici Valpova (istočna Slavonija) po tržišnoj cijeni slavonskog agrarnog zemljišta bez jasnog investicijskog potencijala osim za aktivnog OPG-a. Svega 20% popusta na prvoj dražbi i slaba lokacija isključuju ga iz investicijskog portfelja.",
+  "flags": [
+    "isključivo poljoprivredna namjena bez prenamjene",
+    "niska tržišna likvidnost – depopulacijsko područje",
+    "prva dražba – bez ROI bonusa"
+  ],
+  "input_hash": "5851f177e871",
+  "scored_at": "2026-04-24T08:04:31.657321"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "58412",
+  "score_overall": 2.5,
+  "score_lokacija": 5.0,
+  "score_roi": 2.0,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Suvlasnički udio 16/864 šume čini efektivnu površinu svega ~38 m2 od 2045 m2 ukupno, što je praktički nelikvidno i nemoguće za samostalno raspolaganje. Šuma bez mogućnosti gradnje uz zanemarivi udio nema smislenu exit strategiju bez suglasnosti 863 suvlasnika.",
+  "flags": [
+    "suvlasnički udio 16/864 – gotovo neraspoloživo",
+    "šuma – nema građevinskog potencijala",
+    "nemoguće samostalno raspolaganje"
+  ],
+  "input_hash": "c594c6f6022b",
+  "scored_at": "2026-04-24T08:12:02.507983"
+}

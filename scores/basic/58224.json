@@ -1,0 +1,16 @@
+{
+  "id": "58224",
+  "score_overall": 3.5,
+  "score_lokacija": 3.5,
+  "score_roi": 4.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Pašnjak/senokoša u Nedelišću s 40% popustom i čistim 1/1 vlasništvom su pozitivni faktori, ali poljoprivredno zemljište bez izgradnje u slabo likvidnom Međimurju nema realnu investicijsku priču.",
+  "flags": [
+    "senokoša/pašnjak - nema građevinskog potencijala",
+    "niska tržišna likvidnost za ovu vrstu u Međimurju",
+    "druga dražba bez značajnog interesa kupaca"
+  ],
+  "input_hash": "3ef225ce794d",
+  "scored_at": "2026-04-24T08:20:40.300513"
+}

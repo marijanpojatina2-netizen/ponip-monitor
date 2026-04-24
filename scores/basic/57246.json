@@ -1,0 +1,16 @@
+{
+  "id": "57246",
+  "score_overall": 3.0,
+  "score_lokacija": 2.0,
+  "score_roi": 4.0,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Iako treća dražba donosi 75% popust, suvlasnički udio 2/8 na oranici u ruralnoj Slavoniji nema realnog investicijskog smisla - nema objekta ni razvojnog potencijala koji bi opravdao kompleksnost suvlasničkih odnosa.",
+  "flags": [
+    "suvlasnički udio 2/8 - ograničeno raspolaganje",
+    "ruralni Detkovac - depopulacijska zona",
+    "samo oranica - bez razvojnog potencijala"
+  ],
+  "input_hash": "35d709ea4bce",
+  "scored_at": "2026-04-24T08:07:33.972964"
+}

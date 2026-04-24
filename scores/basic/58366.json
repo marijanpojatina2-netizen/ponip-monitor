@@ -1,0 +1,15 @@
+{
+  "id": "58366",
+  "score_overall": 7.0,
+  "score_lokacija": 7.0,
+  "score_roi": 7.5,
+  "score_stanje": 6.0,
+  "recommendation": "bid",
+  "reasoning": "Šestine su prestižna rezidencionalna zona Zagreba s pouzdanom potražnjom, a paket od četverosobnog stana (111m²) i dvosobnog stana (54m²) s garažom za početnih 222.000 EUR uz 40% popust nudi dobre uvjete za dual-prihod od najma ili preprodaju. Relativno malo crvenih zastava čini ovo jednim od čišćih slučajeva u skupini - provjera fizičkog stanja stanova pred licitaciju je dovoljna.",
+  "flags": [
+    "provjera stanja stanova i eventualnih stanara nužna prije licitacije",
+    "šestinski teren - nagib može otežati intervencije na objektu"
+  ],
+  "input_hash": "34a23287b840",
+  "scored_at": "2026-04-24T08:01:43.965602"
+}

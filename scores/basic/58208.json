@@ -1,0 +1,16 @@
+{
+  "id": "58208",
+  "score_overall": 3.5,
+  "score_lokacija": 5.5,
+  "score_roi": 3.0,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Unatoč 40% popustu i drugoj dražbi u Istri, građevinsko zemljište II. kategorije eksplicitno ne dozvoljava gradnju zbog premale površine (72 m2), što eliminira sav ROI potencijal. Vrijednost jedino za vlasnika susjedne čestice.",
+  "flags": [
+    "nemogućnost gradnje - II. kategorija, 72m2",
+    "makadamska pristupna prometnica",
+    "specijalizirana prodaja - samo susjed ima interes"
+  ],
+  "input_hash": "1d41c165c246",
+  "scored_at": "2026-04-24T08:16:27.650842"
+}

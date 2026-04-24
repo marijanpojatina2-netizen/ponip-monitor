@@ -1,0 +1,16 @@
+{
+  "id": "59423",
+  "score_overall": 3.5,
+  "score_lokacija": 3.5,
+  "score_roi": 4.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Čestica 'kućište + oranica' (6834 m2) u k.o. Kostreši Šaški (Sisak) ima zanimljivu oznaku kućišta koja implicira potencijalno građevinsko zemljište, ali Sisačko-moslavačka županija ostaje nelikvidno tržište s ograničenim razvojnim potencijalom.",
+  "flags": [
+    "kućište – moguće ruševine ili zapuštena parcela",
+    "niska likvidnost sisačke regije",
+    "potrebna provjera namjene u prostornom planu"
+  ],
+  "input_hash": "0dfafdeb52b4",
+  "scored_at": "2026-04-24T08:15:06.582015"
+}

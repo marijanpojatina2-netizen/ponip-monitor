@@ -1,0 +1,16 @@
+{
+  "id": "58653",
+  "score_overall": 3.0,
+  "score_lokacija": 5.0,
+  "score_roi": 3.0,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Bistransko Podgorje blizu Zaprešića ima geografsku prednost blizine Zagreba, ali 1/6 suvlasnički udio oranice i livade od ukupno 933m2 s 20% popustom na prvoj dražbi nema investicijskog smisla.",
+  "flags": [
+    "1/6 suvlasnički udio",
+    "samo oranica/livada bez zgrade",
+    "prva dražba - minimalni popust"
+  ],
+  "input_hash": "953d2035a1ea",
+  "scored_at": "2026-04-24T08:08:52.395177"
+}

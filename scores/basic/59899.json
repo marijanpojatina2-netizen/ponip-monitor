@@ -1,0 +1,17 @@
+{
+  "id": "59899",
+  "score_overall": 2.5,
+  "score_lokacija": 4.0,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Prodaje se samo 9/16 suvlasničkog udjela što praktično znači zajednički ulaz s nepoznatim suvlasnicima - bez njihove suglasnosti nema razvoja, prodaje ni refinanciranja. Apsolutni show-stopper koji nadmašuje svaku drugu analizu čak i uz povoljnu cijenu.",
+  "flags": [
+    "KRITIČNO: suvlasništvo 9/16 - ostali suvlasnici nepoznati",
+    "nemoguć razvoj bez suglasnosti svih suvlasnika",
+    "izrazito otežana preprodaja i financiranje",
+    "prva dražba"
+  ],
+  "input_hash": "70bcabda7c2b",
+  "scored_at": "2026-04-24T08:05:49.853293"
+}

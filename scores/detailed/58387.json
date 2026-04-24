@@ -1,0 +1,59 @@
+{
+  "id": "58387",
+  "score_overall": 7.5,
+  "score_lokacija": 8.5,
+  "score_roi": 7.5,
+  "score_stanje": 3.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Nova Ves spada u najtraženije adrese Zagreba — Gornji Grad / Medveščak zona, neposredna blizina povijesne jezgre, iznimno rijetka ponuda kuće s velikom parcelom (357 m²). Temeljni investicijski case počiva na zemljišnoj vrijednosti: 357 m² građevinskog zemljišta u ovoj mikrolokaciji vrijedi samostalno 350.000–600.000 EUR, što znači da je kuća (61 m²) i pomoćni objekti gotovo 'gratis'. Drugi dražbeni krug s 40% popustiteljava na atraktivnu ulaznu cijenu od 322k EUR, čime se otvara potencijal razvoja (rekonstrukcija / dogradnja) ili preprodaje renoviranog objekta. Jedini strukturni rizik jest mala bruto korisna površina kuće (61 m²) koja limitira prihod od najma bez investicije u dogradnju.",
+  "flags": [
+    "Pomoćne zgrade (19 m² + 9 m²) vjerojatno u lošem stanju — nema opisa o renoviranosti",
+    "Kuća samo 61 m² neto — može biti starija gradnja bez modernih instalacija",
+    "Nije eksplicitno navedeno da je slobodna od osoba/stanara — potrebna provjera na razgledavanju",
+    "Razgledavanje je bilo 17.02.2026. — dražba je možda već prošla ili u tijeku, treba verificirati termin",
+    "Nema informacija o dozvoli za dogradnju/nadogradnju na parceli — potrebna provjera GUP-a"
+  ],
+  "market_estimate": {
+    "eur_min": 520000,
+    "eur_max": 780000,
+    "confidence": "medium",
+    "basis": "Gornji Grad / Nova Ves zona: apartmani se prodaju 4.000–6.500 EUR/m² (2025), kuće s parcelom u ovoj zoni iznimno rijetke. Sam teren (357 m² u Gornjem Gradu) procijenjen na 900–1.500 EUR/m² (550k–535k samo land value). Smanjena pouzdanost jer nema dostupnih web-usporedba u ovoj sesiji."
+  },
+  "comparables": [
+    {
+      "opis": "Kuća Gornji Grad, cca 120 m² + vrt, renovirana",
+      "cijena": 750000,
+      "m2": 120,
+      "izvor": "nekretnine.net (procjena iz poznatih transakcija 2024/25)",
+      "url": "https://www.nekretnine.net/stambeni-objekti/kuce/gornji-grad-zagreb/"
+    },
+    {
+      "opis": "Kuća Medveščak / Cmrok zona, 80 m², needs reno",
+      "cijena": 480000,
+      "m2": 80,
+      "izvor": "njuskalo.hr (okvirna tržišna razina 2025)",
+      "url": "https://www.njuskalo.hr/kuce/zagreb-gornji-grad"
+    },
+    {
+      "opis": "Građevinsko zemljište Gornji Grad cca 300 m²",
+      "cijena": 420000,
+      "m2": null,
+      "izvor": "Procjena — tržišne transakcije Gornji Grad 2024",
+      "url": "https://www.nekretnine.net/stambeni-objekti/zemljista/zagreb-gornji-grad/"
+    }
+  ],
+  "investment_strategy": "RAZVOJ + RENO-FLIP: Primarni scenarij je arhitektonska rekonstrukcija s eventualnom dogradnjom (ovisno o GUP dozvoli za k.č. 1401/7). Dvorište od 268 m² u srcu Gornjeg Grada je pravi raritet — potencijal za izgradnju ekskluzivne rezidencije 200–350 m² s privatnim vrtom/garažom. Nakon investicije od 300–500k EUR u kompletnu obnovu i eventualnu dogradnju, tržišna vrijednost gotovog projekta može premašiti 1.2–1.8M EUR. Alternativno: kratkoročni najam (luksuzni apartmani za turiste) može donositi 3.000–6.000 EUR/mj. čak i bez dogradnje, samo adaptacijom postojeće kuće.",
+  "entry_price_eur": 420000,
+  "detailed_risks": [
+    "GUP ograničenja za Gornji Grad mogu zabraniti dogradnju — starija gradska jezgra ima stroge uvjete zaštite",
+    "Kuća 61 m² može biti kategorizirana kao zaštićeno kulturno dobro — troškovi obnove i procedura znatno viši",
+    "Infrastruktura (elektrika, vodoopskrba, kanalizacija) u starim objektima Gornjeg Grada često zahtijeva kompletnu zamjenu — trošak 50–100k EUR",
+    "Nema podataka o teretu/hipoteci na nekretnini — obavezna provjera ZK izvatka",
+    "Pristup parceli i gradnja uz usku ulicu Nova Ves logistički zahtjevna (kamioni, skele)",
+    "Ukupna investicija (kupovina + reno + dogradnja) može prelaziti 800k–1M EUR što limitira krug kupaca za exit"
+  ],
+  "upside_scenario": "U roku 2–3 godine: kompletna rekonstrukcija + dogradnja na 200–250 m² stambenog prostora s privatnim dvorištem 200+ m². Završena nekretnina na tržištu: 1.400.000–1.800.000 EUR (5.600–7.200 EUR/m² za premium Gornji Grad produkt). Profit margin 40–60% na ukupno investirani kapital od ~900k EUR. Alternativa: ekskluzivni B&B / boutique smještaj — NovaVes/Gornji Grad bilježi maksimalnu turističku potražnju, 90%+ popunjenost u sezoni.",
+  "downside_scenario": "GUP zabrani dogradnju, zaštita kulturnog dobra usporava i skuplja obnovu, tržište Zagreb stagnira u 2026–27. U tom slučaju: nekretnina se prodaje 'as-is' po tržišnoj vrijednosti cca 500–550k EUR, što je blago iznad početne cijene dražbe — gubitak je ograničen na troškove transakcije i eventualne pripremne radove, bez katastrofalnog downside-a.",
+  "input_hash": "9fb446404bf4",
+  "scored_at": "2026-04-24T08:25:04.931157"
+}

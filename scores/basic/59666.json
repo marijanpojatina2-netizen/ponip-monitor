@@ -1,0 +1,16 @@
+{
+  "id": "59666",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Livada u Garešnici (Bjelovar-Bilogora) predstavlja jedno od najslabijih tržišnih područja u Hrvatskoj s izraženom depopulacijom i minimalnom potražnjom za zemljištem. 20% popusta na prvoj dražbi daleko je ispod praga koji bi kompenzirao strukturnu slabost lokacije.",
+  "flags": [
+    "Depopulacijsko područje – Garešnica",
+    "Livada bez unapređenja",
+    "Niska likvidnost regije"
+  ],
+  "input_hash": "cf31fbdc12a2",
+  "scored_at": "2026-04-24T08:10:26.960140"
+}

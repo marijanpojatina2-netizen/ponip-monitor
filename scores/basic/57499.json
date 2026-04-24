@@ -1,0 +1,17 @@
+{
+  "id": "57499",
+  "score_overall": 3.0,
+  "score_lokacija": 5.0,
+  "score_roi": 5.0,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Inland Istra i 40% popust na drugoj dražbi zvuče privlačno, ali opis eksplicitno navodi da parcela 'površinom i oblikom nije raspoloživa za gradnju' i nema direktan pristup na javni put; kroz nju prolazi neuknjiženi put što dodatno komplicira svaki razvoj.",
+  "flags": [
+    "nema direktan pristup na javni put",
+    "komunalno neopremljeno",
+    "eksplicitno navedeno - nije raspoloživo za gradnju",
+    "neuknjiženi put prolazi česticom"
+  ],
+  "input_hash": "c9b037e1014f",
+  "scored_at": "2026-04-24T08:18:27.055794"
+}

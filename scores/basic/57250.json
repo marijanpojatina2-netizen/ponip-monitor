@@ -1,0 +1,16 @@
+{
+  "id": "57250",
+  "score_overall": 3.0,
+  "score_lokacija": 2.0,
+  "score_roi": 5.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Virovitica je depopulacijsko ruralno područje s niskom potražnjom i slabom likvidnošću; unatoč 75% popustu na trećoj dražbi, suvlasnički 1/4 udio vrtova i vinograda bez ikakve zgrade nema praktičnu investicijsku vrijednost.",
+  "flags": [
+    "1/4 suvlasnički udio",
+    "samo poljoprivredno zemljište bez zgrade",
+    "depopulacijsko područje - slaba likvidnost"
+  ],
+  "input_hash": "0020cad8a6c0",
+  "scored_at": "2026-04-24T08:08:52.394466"
+}

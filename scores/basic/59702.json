@@ -1,0 +1,16 @@
+{
+  "id": "59702",
+  "score_overall": 5.5,
+  "score_lokacija": 7.5,
+  "score_roi": 5.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Gospodarska zgrada s dvorištem na otoku Mali Ižk za svega ~1520 EUR izuzetno je jeftina za dalmatinski otok Zadarskog arhipelaga s turističkim potencijalom. Ključni bloker je promjena namjene iz gospodarske u stambenu ili turističku svrhu, što zahtijeva provjeru prostornog plana i fizičkog stanja objekta.",
+  "flags": [
+    "gospodarska zgrada – potrebna promjena namjene",
+    "nepoznato fizičko stanje objekta",
+    "mala površina (76 m2 ukupno)"
+  ],
+  "input_hash": "97783cd49c8e",
+  "scored_at": "2026-04-24T08:12:02.508638"
+}

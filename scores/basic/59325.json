@@ -1,0 +1,16 @@
+{
+  "id": "59325",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 2.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Mala oranica (690 m2) u selu Ciglenik kod Oriovca/Slavonski Brod – tipično slavonsko ruralno depopulacijsko područje s minimalnom tržišnom vrijednošću i niskim ROI potencijalom unatoč urednom vlasništvu.",
+  "flags": [
+    "slavonsko ruralno/depopulacijsko područje",
+    "niska tržišna likvidnost",
+    "minimalna investicijska vrijednost"
+  ],
+  "input_hash": "615b75ae42fd",
+  "scored_at": "2026-04-24T08:15:06.581936"
+}

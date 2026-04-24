@@ -1,0 +1,16 @@
+{
+  "id": "58196",
+  "score_overall": 4.5,
+  "score_lokacija": 5.5,
+  "score_roi": 5.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Istra, 611 m2, 40% popust na drugoj dražbi - kombinacija faktora koja opravdava praćenje, jer zemljište u istarskom zaleđu ima spekulativnu vrijednost i tražnju od stranih kupaca. Ključno je provjeriti namjenu čestice i mogućnost gradnje ili interpolacije.",
+  "flags": [
+    "neizgrađena parcela - nejasna gradivost",
+    "obraslo niskim raslinjem - pristup nejasan",
+    "potrebna provjera UPU/DPU"
+  ],
+  "input_hash": "0643b8a8b5b6",
+  "scored_at": "2026-04-24T08:16:27.651374"
+}

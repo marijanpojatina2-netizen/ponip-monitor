@@ -1,0 +1,16 @@
+{
+  "id": "59771",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica u istoj depopulacijskoj zoni kao ID 59769 (Moslavina Podravska) s identičnim problemima - ruralna Slavonija, niska potražnja i minimalni popust bez kompenzacijskih faktora.",
+  "flags": [
+    "depopulacijska zona - istočna Slavonija",
+    "niska likvidnost agrarnog tržišta",
+    "prva dražba - minimalni popust"
+  ],
+  "input_hash": "8f872d798a95",
+  "scored_at": "2026-04-24T08:07:33.972551"
+}

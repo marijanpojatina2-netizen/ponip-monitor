@@ -1,0 +1,16 @@
+{
+  "id": "59881",
+  "score_overall": 4.0,
+  "score_lokacija": 4.5,
+  "score_roi": 4.0,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Međimurski vinograd ima određenu romantiku i regija ima vinarsku tradiciju, ali 20% popusta na prvoj dražbi čini ulaz ekonomski neopravdanim za pasivnog investitora bez znanja vinarstva. Potencijal postoji samo uz aktivno upravljanje i iskustvo u vinogradarstvu.",
+  "flags": [
+    "specijalizirana namjena - zahtijeva aktivno upravljanje vinogradom",
+    "prva dražba bez popusta na dražbu",
+    "niche tržište preprodaje"
+  ],
+  "input_hash": "0b94f2b856ea",
+  "scored_at": "2026-04-24T08:05:49.853200"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "58194",
+  "score_overall": 4.0,
+  "score_lokacija": 5.0,
+  "score_roi": 4.5,
+  "score_stanje": 2.5,
+  "recommendation": "watch",
+  "reasoning": "Unutrašnja Istra (k.o. Salež, Pazin jurisdikcija) ima određenu dugoročnu aprecijacijsku priču zahvaljujući istarskoj robnoj marki, a 40% popust na 2. dražbi je prihvatljiv ulazni prag za spekulativno držanje; međutim čestica je obrasla i namjena nepoznata.",
+  "flags": [
+    "obraslo drvenjem i niskim raslinjem - neodređena namjena",
+    "unutrašnja Istra - znatno niži potencijal od obale",
+    "potrebna provjera ZUP-a i PRO-a za eventualne građevinske mogućnosti"
+  ],
+  "input_hash": "c132a26553de",
+  "scored_at": "2026-04-24T08:13:52.952342"
+}

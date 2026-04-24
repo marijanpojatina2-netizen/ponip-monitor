@@ -1,0 +1,16 @@
+{
+  "id": "57493",
+  "score_overall": 3.0,
+  "score_lokacija": 3.5,
+  "score_roi": 3.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "40% popust i druga dražba su pozitivni signali, ali kupnja samo 9/16 suvlasničkog udjela oranice u Karlovcu stvara ozbiljan vlasnički rizik - bez suglasnosti suvlasnika (koji drži 7/16) nema slobodnog raspolaganja nekretninom. Suvlasnički spor može paralizirati asset godinama.",
+  "flags": [
+    "suvlasništvo - kupovina samo 9/16 dijela",
+    "ovrhovoditelj zadržava 7/16 - složena vlasnička struktura",
+    "ograničeno raspolaganje bez suglasnosti suvlasnika"
+  ],
+  "input_hash": "4b9a42726d62",
+  "scored_at": "2026-04-24T08:16:27.651531"
+}

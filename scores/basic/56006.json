@@ -1,0 +1,17 @@
+{
+  "id": "56006",
+  "score_overall": 2.5,
+  "score_lokacija": 7.5,
+  "score_roi": 2.0,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Lokacija blizu Rovinja je izvrsna i 75% popust na 3. dražbi zvuči spektakularno, ali predmet prodaje je udio 2/24 (8,3%) PRILAZNOG PUTA zgradi - nije moguće blokirati prolaz niti monetizirati, praktična vrijednost je gotovo nula.",
+  "flags": [
+    "udio 2/24 - manjinska suvlasnička frakcija",
+    "radi se o zajedničkom prilaznom putu - prava prolaza ne mogu se blokirati",
+    "nije moguća samostalna monetizacija ni razvoj",
+    "3. dražba kao signal dugotrajne nelikvidnosti"
+  ],
+  "input_hash": "bd9e0c81ede5",
+  "scored_at": "2026-04-24T08:13:52.951996"
+}

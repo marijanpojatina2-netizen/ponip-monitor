@@ -1,0 +1,17 @@
+{
+  "id": "58198",
+  "score_overall": 3.5,
+  "score_lokacija": 4.5,
+  "score_roi": 5.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Istarsko zemljište s 40% popustom na drugoj dražbi daje određeni plus, no 525 m2 obrasle drvne mase južno od Pazina bez podataka o GUP namjeni i komunalnoj opremljenosti nema jasnog razvojnog scenarija koji bi opravdao ulaganje.",
+  "flags": [
+    "obraslo drvnom masom / niskim raslinjem",
+    "mala površina 525 m2 - nedovoljna za razvoj",
+    "nema podataka o građevinskoj namjeni",
+    "komunalna neopremljenost"
+  ],
+  "input_hash": "2aaafe991202",
+  "scored_at": "2026-04-24T08:18:27.056000"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "59153",
+  "score_overall": 2.0,
+  "score_lokacija": 7.0,
+  "score_roi": 1.5,
+  "score_stanje": 1.0,
+  "recommendation": "pass",
+  "reasoning": "Ekskluzivna lokacija Zagreb/Šestine je obmanjujuća – radi se o katastarskoj čestici PUT (cesta/prolaz) od svega 31 m2 na kojoj gradnja ni korištenje u komercijalnom smislu nije moguće.",
+  "flags": [
+    "vrsta čestice: PUT – javni put/prolaz",
+    "nema investicijskog potencijala",
+    "nemogućnost gradnje ili najma"
+  ],
+  "input_hash": "cdb4db10e3de",
+  "scored_at": "2026-04-24T08:15:06.581537"
+}

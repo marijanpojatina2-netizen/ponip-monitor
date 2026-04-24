@@ -1,0 +1,16 @@
+{
+  "id": "58140",
+  "score_overall": 3.0,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "40% popust na drugoj dražbi za sjenokošu u Virju (Podravina) poboljšava ROI metriku, ali lokacija je duboko ruralna s minimalnom potražnjom i depopulacijskim trendom; sjenokoša nema konverzijskog potencijala bez složenih procedura. Popust ne opravdava ulazak.",
+  "flags": [
+    "sjenokoša – uska i regulirana namjena",
+    "Virje – depopulacijska zona",
+    "niska likvidnost"
+  ],
+  "input_hash": "cc3c6938b7ff",
+  "scored_at": "2026-04-24T08:19:46.225133"
+}

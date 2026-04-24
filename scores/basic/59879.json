@@ -1,0 +1,16 @@
+{
+  "id": "59879",
+  "score_overall": 4.5,
+  "score_lokacija": 4.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Vinograd u Brežni Kotaru (Međimurje) s određenim potencijalom za agro-turizam i vinarstvo, ali 20% popust na prvoj dražbi nije investicijski atraktivan; vrijedi pratiti do sljedeće dražbe s višim popustom.",
+  "flags": [
+    "vinogradačko zemljište - niska likvidnost",
+    "prva dražba - minimalni popust od 20%",
+    "nema podataka o komunalnoj infrastrukturi"
+  ],
+  "input_hash": "6c2fcb68fd35",
+  "scored_at": "2026-04-24T08:07:33.972010"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "59891",
+  "score_overall": 3.5,
+  "score_lokacija": 4.0,
+  "score_roi": 3.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Šumska parcela u Međimurju nosi zakonska ograničenja razvoja i minimalnu komercijalnu iskoristivost; 20% popust na prvoj dražbi daleko je ispod praga koji bi opravdao ulazak u ovako specifičan i nelikvidan asset.",
+  "flags": [
+    "šumsko zemljište - zakonska ograničenja sječe i razvoja",
+    "ograničena komercijalna primjena",
+    "prva dražba - minimalni popust"
+  ],
+  "input_hash": "d69075aa4cac",
+  "scored_at": "2026-04-24T08:07:33.972455"
+}

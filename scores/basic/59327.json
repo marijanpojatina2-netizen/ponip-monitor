@@ -1,0 +1,16 @@
+{
+  "id": "59327",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Ruralna oranica u Oriovcu (Slavonija) s jakim depopulacijskim trendom regije i izrazito niskom tržišnom likvidnošću ne opravdava ulaz ni uz 20% popust. Nema turistički, razvojni niti rentabilni potencijal koji bi kompenzirao tešku prodajnost.",
+  "flags": [
+    "depopulacijska regija Slavonije",
+    "nulta turistička vrijednost",
+    "niska tržišna likvidnost"
+  ],
+  "input_hash": "64b17c80d51a",
+  "scored_at": "2026-04-24T08:12:02.508221"
+}

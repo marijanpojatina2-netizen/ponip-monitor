@@ -1,0 +1,16 @@
+{
+  "id": "59737",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 4.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Oranica u k.o. Koritna (unutrašnja Dalmacija, depopulacijsko područje) s tek 20% popustom na prvoj dražbi; bez razvojnog ili turističkog potencijala u regiji s negativnim demografskim trendom.",
+  "flags": [
+    "oranica - agrarna namjena",
+    "depopulacijsko područje",
+    "prva dražba, minimalni popust"
+  ],
+  "input_hash": "e0d9fb0571b2",
+  "scored_at": "2026-04-24T08:18:27.055907"
+}

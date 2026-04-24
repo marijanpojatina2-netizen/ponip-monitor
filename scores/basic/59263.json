@@ -1,0 +1,16 @@
+{
+  "id": "59263",
+  "score_overall": 3.0,
+  "score_lokacija": 3.0,
+  "score_roi": 4.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Livada 1939 m2 u k.o. Ivanec u vlasništvu tvrtke (prisilna korporativna prodaja) s 20% popustom na prvoj dražbi - agrarna namjena bez razvojnog potencijala u ruralnoj Varaždinskoj županiji ne opravdava aktivno praćenje.",
+  "flags": [
+    "livada - agrarna namjena",
+    "vlasnik tvrtka - prisilna korporativna prodaja",
+    "niska likvidnost tržišta"
+  ],
+  "input_hash": "27de3717e1cd",
+  "scored_at": "2026-04-24T08:18:27.056406"
+}

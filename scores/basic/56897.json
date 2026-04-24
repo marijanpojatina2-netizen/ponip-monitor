@@ -1,0 +1,16 @@
+{
+  "id": "56897",
+  "score_overall": 3.5,
+  "score_lokacija": 9.0,
+  "score_roi": 3.0,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Otok Krk nudi izvrsnu turističku lokaciju i 75% popust zvuči mamac, no 18/6000 suvlasnički udio svodi se na svega ~1.77m2 kuće i ~0.75m2 dvorišta što je praktički neupotrebljivo bez suglasnosti svih ostalih suvlasnika.",
+  "flags": [
+    "18/6000 mikroskopski suvlasnički udio (~2.5m2 ukupno)",
+    "neiskoristivo bez suglasnosti suvlasnika",
+    "nemoguća samostalna realizacija - zamka"
+  ],
+  "input_hash": "69ff2d499314",
+  "scored_at": "2026-04-24T08:08:52.395100"
+}

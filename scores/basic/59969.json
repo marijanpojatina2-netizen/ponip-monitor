@@ -1,0 +1,16 @@
+{
+  "id": "59969",
+  "score_overall": 6.5,
+  "score_lokacija": 8.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Gotovo identična parcela uz 59967 (k.č. 4889/5, 1131 m2, ista zk.ul. 23383, Monsego Rovinj) s jednakim prilikama i rizicima; kombinirano s parcelama 4889/2 i 4889/4 tvori blok od ~3184 m2 što otvara veće opcije za agrotourizam ili dugoročnu valorisaciju uz Rovinj.",
+  "flags": [
+    "katastarska namjena pašnjak – iste restrikcije kao 59967",
+    "isti vlasnik/zk.ul. kao 59967 i 59963 – razmotriti zajednički nastup",
+    "nužna provjera GUP-a i parcelacijskih ograničenja"
+  ],
+  "input_hash": "deb832fdefcd",
+  "scored_at": "2026-04-24T08:04:31.657572"
+}

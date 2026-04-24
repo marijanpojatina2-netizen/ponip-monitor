@@ -1,0 +1,15 @@
+{
+  "id": "58389",
+  "score_overall": 7.5,
+  "score_lokacija": 8.5,
+  "score_roi": 8.0,
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "k.o. Nova Vas u zoni Poreča kombinira vrhunsku istarsku turističku lokaciju s 40% popustom na drugoj dražbi i parcelom od 1500m² - rijetka kombinacija koja opravdava detaljnu analizu. Generički opis 'kuća i dvorište' bez ikakvih detalja o stanju, godini gradnje ili komunalnoj infrastrukturi čini osobni obilazak apsolutnim prioritetom prije licitacije.",
+  "flags": [
+    "izrazito oskudan opis - nema podataka o stanju, godini gradnje, komunalnom priključku",
+    "potrebna provjera turističke zone i građevinskih prava na 1500m²"
+  ],
+  "input_hash": "091f7b8129ba",
+  "scored_at": "2026-04-24T08:01:43.965502"
+}

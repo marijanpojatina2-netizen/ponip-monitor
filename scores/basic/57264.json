@@ -1,0 +1,16 @@
+{
+  "id": "57264",
+  "score_overall": 4.0,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Popust od 75% na trećoj dražbi je tehnički izniman i cijena od 4.150 EUR za kuću je gotovo simbolična, ali Molvice kod Pitomače su duboko depopulacijska ruralna zona s minimalnom likvidnošću - exit strategija je gotovo nepostojeća. Isključivo prihvatljivo kao dugoročno spekulativno ulaganje s razumijevanjem da prodaja može trajati godinama.",
+  "flags": [
+    "izrazito niska likvidnost regije - depopulacijska zona",
+    "nepoznato stanje objekta - vjerojatno potrebna temeljita obnova",
+    "minimalna potražnja na lokalnom tržištu"
+  ],
+  "input_hash": "2cb6e20e382d",
+  "scored_at": "2026-04-24T08:05:49.852911"
+}

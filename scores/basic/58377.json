@@ -1,0 +1,16 @@
+{
+  "id": "58377",
+  "score_overall": 5.0,
+  "score_lokacija": 5.0,
+  "score_roi": 5.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Zagreb, Granešina je stabilna ali ne-premium lokacija s 40% popustom na drugoj dražbi, no suvlasništvo u 1/2 dijela kuće fundamentalno ograničava fleksibilnost investitora bez prethodnog dogovora s drugim suvlasnikom. Vrijednost investicije teško je procijeniti bez uvida u stanje kuće i pravnu situaciju s drugim suvlasnikom.",
+  "flags": [
+    "1/2 suvlasništvo - nužna koordinacija ili otkup drugog dijela",
+    "k.o. Granešina - istočna periferija, slabija likvidnost od centra",
+    "nepoznato stanje kuće - opis bez ikakvih fizičkih detalja"
+  ],
+  "input_hash": "27ca948be09c",
+  "scored_at": "2026-04-24T08:01:43.965939"
+}

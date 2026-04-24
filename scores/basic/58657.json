@@ -1,0 +1,16 @@
+{
+  "id": "58657",
+  "score_overall": 2.5,
+  "score_lokacija": 3.0,
+  "score_roi": 4.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Oranica zanemarive vrijednosti (1054 EUR početna) u ruralnom Međimurju bez ikakvog razvojnog potencijala; 20% popust na prvoj dražbi potpuno nedovoljan za agrarno zemljište u regiji niske likvidnosti.",
+  "flags": [
+    "oranica - agrarna namjena",
+    "ruralna lokacija, niska likvidnost",
+    "zanemariv apsolutni iznos investicije"
+  ],
+  "input_hash": "eda1af46c4fd",
+  "scored_at": "2026-04-24T08:18:27.055544"
+}

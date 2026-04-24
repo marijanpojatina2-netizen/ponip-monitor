@@ -1,0 +1,16 @@
+{
+  "id": "57417",
+  "score_overall": 4.0,
+  "score_lokacija": 2.5,
+  "score_roi": 5.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Popust od 50% na drugoj dražbi (stečajni postupak) privlačan je ulazni cijenovni prag, ali suvlasnički udio ½ u ruralnoj Budanici (Bjelovar) ozbiljno otežava svaku upotrebu, prodaju ili razvoj bez suglasnosti drugog suvlasnika. Vrijedi pratiti ako dođe do treće dražbe s još većim popustom.",
+  "flags": [
+    "Suvlasništvo ½ dijela stečajnog dužnika",
+    "Nemoguća samostalna eksploatacija bez suglasnosti suvlasnika",
+    "Ruralno depopulacijsko područje – Bjelovar"
+  ],
+  "input_hash": "a7eeec0d0a52",
+  "scored_at": "2026-04-24T08:10:26.960306"
+}

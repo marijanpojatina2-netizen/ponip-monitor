@@ -1,0 +1,17 @@
+{
+  "id": "57242",
+  "score_overall": 3.5,
+  "score_lokacija": 2.0,
+  "score_roi": 5.0,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Treća dražba s 75% popustom i kućno-dvorišnom cjelinom zvuči atraktivno, ali suvlasnički udio 2/8 praktički onemogućuje samostalno raspolaganje bez suglasnosti ostalih suvlasnika; jedina strategija izlaza je prisilna dioba ili otkup ostalih udjela.",
+  "flags": [
+    "suvlasnički udio 2/8 - ograničeno raspolaganje",
+    "potrebna suglasnost ostalih suvlasnika za svaki zahvat",
+    "stanje kuće/dvora nepoznato iz opisa",
+    "ruralni Detkovac - niska likvidnost"
+  ],
+  "input_hash": "3ddca1d7b640",
+  "scored_at": "2026-04-24T08:07:33.972873"
+}

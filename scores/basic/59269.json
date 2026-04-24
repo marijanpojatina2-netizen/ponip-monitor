@@ -1,0 +1,16 @@
+{
+  "id": "59269",
+  "score_overall": 2.5,
+  "score_lokacija": 4.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Livada od 3156 m2 u Ivancu (Varaždinska županija) nema turistički niti razvojni potencijal koji bi opravdao ulaz, a vlasništvo tvrtke nije samo po sebi flag ali sugerira potencijalne poslovne komplikacije u ovrsi. Regija ima ograničenu likvidnost za ovaj tip imovine bez jasne exit strategije.",
+  "flags": [
+    "vlasnik je pravna osoba (MINI MAJOR D.O.O.) – provjera poslovnih tereta",
+    "livada bez infrastrukture",
+    "slaba likvidnost regije za ovaj tip nekretnine"
+  ],
+  "input_hash": "28304ffbf055",
+  "scored_at": "2026-04-24T08:12:02.508960"
+}

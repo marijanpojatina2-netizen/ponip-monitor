@@ -1,0 +1,15 @@
+{
+  "id": "59107",
+  "score_overall": 3.5,
+  "score_lokacija": 4.5,
+  "score_roi": 3.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica u Šašinovcu (prigradski Zagreb) nema dovoljno popusta ni građevinskog statusa da opravda investiciju – 20% na prvoj dražbi za poljoprivredno zemljište je minimalni ulaz bez premije. Likvidnost ovakvog zemljišta u perifernoj zoni je slaba i bez jasnog katalizatora.",
+  "flags": [
+    "Poljoprivredno zemljište bez građevinskog statusa",
+    "Minimalni popust 20% na prvoj dražbi"
+  ],
+  "input_hash": "34568eb18456",
+  "scored_at": "2026-04-24T08:10:26.959844"
+}

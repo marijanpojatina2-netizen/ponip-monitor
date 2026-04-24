@@ -1,0 +1,15 @@
+{
+  "id": "59797",
+  "score_overall": 7.0,
+  "score_lokacija": 8.5,
+  "score_roi": 6.5,
+  "score_stanje": 6.0,
+  "recommendation": "bid",
+  "reasoning": "Parkirno mjesto na Krku (Punat) za ispod 900 EUR iznimno je jeftina ulaznica u visokotraženu turističku zonu gdje je parking kronično deficitaran; apsolutna cijena kompenzira skroman popust od 25%. Likvidnost i najamninski prihod u sezoni čine ovo atraktivnim unatoč ograničenoj namjeni.",
+  "flags": [
+    "samo 11m2 – parkiralište, ne stambeni prostor",
+    "čestica naslonjena na tuđi stambeni objekt – provjeri pristupni put"
+  ],
+  "input_hash": "b1abc46ca2d8",
+  "scored_at": "2026-04-24T08:19:46.224501"
+}

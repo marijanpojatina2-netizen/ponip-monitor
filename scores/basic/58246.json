@@ -1,0 +1,15 @@
+{
+  "id": "58246",
+  "score_overall": 3.5,
+  "score_lokacija": 3.5,
+  "score_roi": 5.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Nedelišće (Čakovec) nudi nešto solidniju lokaciju od čiste Slavonije, ali senokoša od 447m2 bez infrastrukture ima ograničen potencijal; 40% popust na drugoj dražbi nije dovoljno atraktivan za ovu vrstu predmeta.",
+  "flags": [
+    "samo livada/senokoša bez zgrade",
+    "ograničena upotrebna vrijednost"
+  ],
+  "input_hash": "0ddda14703d6",
+  "scored_at": "2026-04-24T08:08:52.394692"
+}

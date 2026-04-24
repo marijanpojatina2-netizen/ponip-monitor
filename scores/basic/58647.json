@@ -1,0 +1,15 @@
+{
+  "id": "58647",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica u ruralnom Međimurju (Vularija) s minimalnim popustom i bez ikakvog razvojnog ili turističkog potencijala; stare katastarske mjere (čhv) ukazuju na stariji katastar koji može otežati pravnu provjeru. Nema investicijskog slučaja.",
+  "flags": [
+    "površina u čhv – stare mjere, potrebna provjera katastra",
+    "ruralna oranica bez razvojnog potencijala"
+  ],
+  "input_hash": "805f4d997dd8",
+  "scored_at": "2026-04-24T08:19:46.225055"
+}

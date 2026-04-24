@@ -1,0 +1,17 @@
+{
+  "id": "58482",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica u dubokoj slavonskoj rurali s depopulacijom, a samo 2/5 suvlasničkog dijela čini likvidaciju gotovo nemogućom; 20% popust je posve nedostatan za takav rizik i geografiju.",
+  "flags": [
+    "suvlasnički udio 2/5 - otežana do nemoguća likvidacija",
+    "depopulacijska zona Požeške kotline",
+    "oranica bez ikakvog razvojnog potencijala",
+    "prva dražba - minimalni popust od procjene"
+  ],
+  "input_hash": "3c0e351cc1f7",
+  "scored_at": "2026-04-24T08:20:40.300276"
+}

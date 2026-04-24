@@ -1,0 +1,17 @@
+{
+  "id": "59963",
+  "score_overall": 6.0,
+  "score_lokacija": 8.5,
+  "score_roi": 5.5,
+  "score_stanje": 4.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Treća parcela istog bloka u Rovinju (921 m2, k.č. 4889/2) dijeli premium lokaciju ali pristup isključivo makadamskim i poljskim putem umanjuje njenu samosatalnu vrijednost u odnosu na 59967 i 59969 koje imaju regulirani pristupni put; i dalje zaslužuje analizu kao dio paketa.",
+  "flags": [
+    "pristup samo makadamskim i poljskim putem – ograničava samostalni razvoj",
+    "katastarska namjena pašnjak – iste restrikcije",
+    "isti vlasnik/zk.ul. 23383 – samo paketna kupnja ima smisla",
+    "prva dražba – 20% popust"
+  ],
+  "input_hash": "3b44f1be53cc",
+  "scored_at": "2026-04-24T08:04:31.657649"
+}

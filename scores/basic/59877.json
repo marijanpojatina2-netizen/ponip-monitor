@@ -1,0 +1,16 @@
+{
+  "id": "59877",
+  "score_overall": 3.5,
+  "score_lokacija": 4.0,
+  "score_roi": 3.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Mali vinograd od svega 329 čhv u Međimurju s najnižom apsolutnom vrijednošću u skupini i minimalnim popustom; premali asset za ozbiljnu investicijsku strategiju bez jasnog izlaznog scenarija.",
+  "flags": [
+    "mala parcela - ograničen investicijski potencijal",
+    "vinogradačko zemljište - niska likvidnost",
+    "prva dražba - minimalni popust"
+  ],
+  "input_hash": "4593448d14a7",
+  "scored_at": "2026-04-24T08:07:33.972740"
+}

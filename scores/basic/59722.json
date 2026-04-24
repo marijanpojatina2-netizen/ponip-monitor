@@ -1,0 +1,16 @@
+{
+  "id": "59722",
+  "score_overall": 2.0,
+  "score_lokacija": 5.0,
+  "score_roi": 1.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Nominalno otočna lokacija (Pag) ne spašava parcelu od svega 23m² s ½ suvlasničkim udjelom – bez mogućnosti samostalne gradnje ili smislene eksploatacije ovo je praktički bespredmetna čestica. Nijedna izlazna strategija nije realna bez suglasnosti suvlasnika i promjene namjene.",
+  "flags": [
+    "Samo 23m² – bezvrijedna veličina parcele",
+    "Suvlasništvo ½ dijela",
+    "Nema praktične upotrebne vrijednosti"
+  ],
+  "input_hash": "6329ce9c8617",
+  "scored_at": "2026-04-24T08:10:26.960051"
+}

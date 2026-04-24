@@ -1,0 +1,16 @@
+{
+  "id": "59714",
+  "score_overall": 5.0,
+  "score_lokacija": 7.0,
+  "score_roi": 5.0,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Oranica od 335 m2 na otoku Pagu za ~1497 EUR atraktivna je zbog lokacije, ali investicijska teza u potpunosti ovisi o prostornom planu k.o. Pag i mogućnosti izgradnje. Vrijedi provjeriti GIS/prostorni plan Paga – ako je građevinska zona, ovo postaje deep_dive kandidat.",
+  "flags": [
+    "oranica – građevinski potencijal nepoznat",
+    "potrebna provjera prostornog plana k.o. Pag",
+    "manja površina (335 m2) ograničava razvoj"
+  ],
+  "input_hash": "fbdf03792695",
+  "scored_at": "2026-04-24T08:12:02.508857"
+}

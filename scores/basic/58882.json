@@ -1,0 +1,16 @@
+{
+  "id": "58882",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Šuma u slavonskom seoskom okruženju (Vilić Selo/Žigerovci) bez investicijskog potencijala - 25% popust ne nadoknađuje strukturnu slabost lokacije i stečajnu komplikaciju. Izlazna strategija nepostojeća.",
+  "flags": [
+    "stečajni postupak - moguće dodatne komplikacije",
+    "Slavonija ruralno - nulta turistička vrijednost",
+    "šuma - ograničena namjena i prodajnost"
+  ],
+  "input_hash": "b973a4f40ebc",
+  "scored_at": "2026-04-24T08:16:27.651453"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "58432",
+  "score_overall": 3.0,
+  "score_lokacija": 4.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Livada u Zaboku u suvlasničkom udjelu 1/2 blokira samostalne odluke o prodaji ili razvoju bez suglasnosti drugog suvlasnika. Krapinsko-zagorska regija ima umjerenu likvidnost ali za neizgrađenu livadu bez infrastrukture nema jasnog investicijskog narativa.",
+  "flags": [
+    "suvlasnički udio 1/2 – potrebna suglasnost suvlasnika",
+    "livada bez infrastrukture",
+    "nema potvrde o namjeni zemljišta"
+  ],
+  "input_hash": "a1f23951c73f",
+  "scored_at": "2026-04-24T08:12:02.508551"
+}

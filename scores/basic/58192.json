@@ -1,0 +1,16 @@
+{
+  "id": "58192",
+  "score_overall": 4.5,
+  "score_lokacija": 5.5,
+  "score_roi": 6.0,
+  "score_stanje": 2.5,
+  "recommendation": "watch",
+  "reasoning": "Unutarnja Istra (k.o. Salež/Pazin) s 40% popustom na drugoj dražbi daje solidnu ROI osnovu, ali je čestica mala (856 m2) i obrasla vegetacijom bez ikakvog objekta ili infrastrukture.",
+  "flags": [
+    "šumsko/grmoliko zemljište bez objekta",
+    "mala površina",
+    "nema građevinskog potencijala bez uvida u PPUG"
+  ],
+  "input_hash": "936e774568a8",
+  "scored_at": "2026-04-24T08:15:06.581438"
+}

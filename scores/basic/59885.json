@@ -1,0 +1,16 @@
+{
+  "id": "59885",
+  "score_overall": 4.0,
+  "score_lokacija": 3.5,
+  "score_roi": 3.5,
+  "score_stanje": 5.5,
+  "recommendation": "pass",
+  "reasoning": "Ruralna nekretnina u k.o. Jalšovec kod Čakovca s minimalnih 20% popusta na prvoj dražbi ne ispunjava ni jedan od ključnih investicijskih kriterija - lokacija je niske atraktivnosti, tržišna likvidnost ograničena, a popust premali da amortizira rizike. Čekanje na eventualnu drugu ili treću dražbu ne mijenja temeljni problem lokacije.",
+  "flags": [
+    "prva dražba - 20% popust nedovoljan za investicijski ulaz",
+    "ruralno područje Međimurja - niska likvidnost i turistički potencijal",
+    "4723m² s gospodarskom zgradom - visoki troškovi održavanja"
+  ],
+  "input_hash": "032d80976e50",
+  "scored_at": "2026-04-24T08:01:43.965690"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "57497",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Livada u suvlasništvu (7/16 ovrhovoditelja + 9/16 ovršenice) u ruralnoj Karlovačkoj županiji – 40% popust i druga dražba ne kompenziraju pravnu kompleksnost suvlasničkog odnosa i depopulacijsku lokaciju. Izlaz iz investicije bio bi izuzetno otežan.",
+  "flags": [
+    "suvlasništvo 7/16 + 9/16 – kompleksan pravni status",
+    "livada bez razvojnog potencijala",
+    "depopulacijska zona Karlovačke županije"
+  ],
+  "input_hash": "959c0e73397e",
+  "scored_at": "2026-04-24T08:19:46.225214"
+}

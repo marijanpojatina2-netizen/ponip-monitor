@@ -1,0 +1,16 @@
+{
+  "id": "59209",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 2.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Ruralna Slavonija, depopulacijsko područje oko Đurđevca, 1. dražba s minimalnim 20% popustom na česticu koja je upisana kao oranica ali u naravi šuma - nema investicijskog slučaja.",
+  "flags": [
+    "ruralna Slavonija - depopulacijsko područje",
+    "prva dražba, minimalni popust 20%",
+    "neusklađena klasifikacija: oranica vs. šuma u naravi"
+  ],
+  "input_hash": "d64feaab8c63",
+  "scored_at": "2026-04-24T08:13:52.952090"
+}

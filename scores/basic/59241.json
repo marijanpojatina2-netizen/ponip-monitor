@@ -1,0 +1,15 @@
+{
+  "id": "59241",
+  "score_overall": 3.5,
+  "score_lokacija": 4.5,
+  "score_roi": 3.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Livada u k.o. Šašinovec (Dugo Selo, Zagreb County) bez objekata; blizina Zagreba donosi marginalnu premiju ali 20% popust na prvoj dražbi i livadna namjena ne opravdavaju angažman.",
+  "flags": [
+    "livada bez objekata",
+    "periferija Zagrebačke županije – slabija likvidnost"
+  ],
+  "input_hash": "4fcdd2e807b6",
+  "scored_at": "2026-04-24T08:15:06.581708"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "57561",
+  "score_overall": 6.0,
+  "score_lokacija": 7.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Kukljica na otoku Ugljanu je turistički atraktivna dalmatinska lokacija s dobrom konekcijom prema Zadru; vrt 224m2 u 1/1 vlasništvu s 40% popustom na drugoj dražbi zaslužuje provjeru prostornog plana i potencijala gradnje ili uređenja.",
+  "flags": [
+    "samo vrt bez zgrade - potrebna provjera gradivnosti",
+    "provjeriti UPU/PPUO Kukljica za mogućnost gradnje"
+  ],
+  "input_hash": "a8d5c0112d57",
+  "scored_at": "2026-04-24T08:08:52.395253"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "58326",
+  "score_overall": 5.5,
+  "score_lokacija": 5.0,
+  "score_roi": 5.5,
+  "score_stanje": 6.0,
+  "recommendation": "watch",
+  "reasoning": "Metković nudi 40% popust na drugoj dražbi za uredni stan od 78m², ali suvlasnički udio 1/2 stvara pravnu kompleksnost jer svaka dispozicija ili investicija zahtijeva suglasnost ili otkup drugog suvlasnika po tržišnoj cijeni. Grad nema turistički profil niti visoku likvidnost - zanimljivo jedino ako postoji mogućnost preuzimanja cijele nekretnine.",
+  "flags": [
+    "1/2 suvlasnički udio - prodaja i upravljanje bez suglasnosti drugog suvlasnika otežani",
+    "Metković - nema turističke potražnje, ograničen najamni prinos"
+  ],
+  "input_hash": "4f9d42e4234d",
+  "scored_at": "2026-04-24T08:01:43.965819"
+}

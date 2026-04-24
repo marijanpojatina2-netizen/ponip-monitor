@@ -1,0 +1,15 @@
+{
+  "id": "58414",
+  "score_overall": 3.0,
+  "score_lokacija": 3.0,
+  "score_roi": 3.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica i šuma u perifernoj zoni Dugog Sela (Okunšćak) s tek 20% popustom i mješovitom namjenom koja ograničava razvoj; lokacija nema ni turističku ni urbanu premiju. Likvidnost je slaba.",
+  "flags": [
+    "mješovita namjena oranica+šuma",
+    "niska likvidnost ruralne periferije Zagreba"
+  ],
+  "input_hash": "bf90b85cad56",
+  "scored_at": "2026-04-24T08:19:46.224974"
+}

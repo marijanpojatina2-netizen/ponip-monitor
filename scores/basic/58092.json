@@ -1,0 +1,16 @@
+{
+  "id": "58092",
+  "score_overall": 5.5,
+  "score_lokacija": 4.0,
+  "score_roi": 6.5,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Stan 96 m2 u Slavonskom Brodu s 40% popustom na drugoj dražbi (~287 EUR/m2) nudi solidan prinos najma na kratki rok, ali Slavonski Brod ima ograničenu demografiju i tržišnu likvidnost koja otežava dugoročnu valorisaciju kapitala. Provjeriti je li stan slobodan.",
+  "flags": [
+    "provjeriti tko stanuje / je li slobodan za useljenje",
+    "Slavonski Brod – ograničena tržišna dubina za preprodaju",
+    "suvlasnički dio 1/20 – verificirati da se prodaje cijeli E-2 stan a ne ulomak"
+  ],
+  "input_hash": "a1b8ad17c728",
+  "scored_at": "2026-04-24T08:04:31.657124"
+}

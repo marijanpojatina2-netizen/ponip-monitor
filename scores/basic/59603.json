@@ -1,0 +1,16 @@
+{
+  "id": "59603",
+  "score_overall": 2.0,
+  "score_lokacija": 1.5,
+  "score_roi": 1.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Dvostruki udarac: depopulacijska Virovitica i samo 1/3 suvlasništva na oranici čine ovo jednim od slabijih aseta u grupi. 20% popust na prvoj dražbi ne opravdava ni minimalnu analizu.",
+  "flags": [
+    "suvlasništvo - samo 1/3 dijela",
+    "Virovitica depopulacijska zona",
+    "minorni popust - prva dražba"
+  ],
+  "input_hash": "f2302b239e1f",
+  "scored_at": "2026-04-24T08:16:27.651608"
+}

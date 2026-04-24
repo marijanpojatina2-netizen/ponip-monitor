@@ -1,0 +1,16 @@
+{
+  "id": "59099",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Suvlasništvo 10/42 u Otoku kraj Vinkovaca u depopulacijskom slavonskom kraju s minimalnim popustom na prvoj dražbi; frakcijsko vlasništvo bez suglasnosti ostalih suvlasnika praktično onemogućuje svaki razvoj, prodaju ili korištenje.",
+  "flags": [
+    "suvlasništvo 10/42 - otežano raspolaganje i prodaja",
+    "Slavonija - depopulacijsko područje",
+    "složena čestična struktura (kanal + kuća/dvor + oranica)"
+  ],
+  "input_hash": "293cbdc57c31",
+  "scored_at": "2026-04-24T08:18:27.056167"
+}

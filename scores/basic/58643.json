@@ -1,0 +1,15 @@
+{
+  "id": "58643",
+  "score_overall": 3.0,
+  "score_lokacija": 4.0,
+  "score_roi": 3.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica u k.o. Vularija (Čakovec/Međimurje) s 20% popustom na prvoj dražbi – isključivo poljoprivredno zemljište bez perspektive prenamijenjenosti i s ograničenom tržišnom likvidnošću.",
+  "flags": [
+    "isključivo poljoprivredno zemljište",
+    "slaba likvidnost tržišta nekretnina Međimurje"
+  ],
+  "input_hash": "70de447c7a9a",
+  "scored_at": "2026-04-24T08:15:06.581627"
+}

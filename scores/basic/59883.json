@@ -1,0 +1,16 @@
+{
+  "id": "59883",
+  "score_overall": 4.5,
+  "score_lokacija": 5.0,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća s dvorištem, vinogradom i voćnjakom u Međimurju nudi potencijal za ruralni turizam i vinarstvo jer je Međimurje jedna od ekonomski zdravijih kontinentalnih županija, no opis je minimalan, stanje kuće nepoznato, a 20% popusta na prvoj dražbi ne oduševljava.",
+  "flags": [
+    "stanje objekta nepoznato – nema opisa habitabilnosti",
+    "stari katastarski zapisi (mjera čhv) – moguće nejasnoće u knjigama",
+    "agrotourizam potencijal neizvjestan bez dokumentacije GUP-a"
+  ],
+  "input_hash": "9c773d97bd49",
+  "scored_at": "2026-04-24T08:04:31.657406"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "58387",
+  "score_overall": 6.5,
+  "score_lokacija": 8.0,
+  "score_roi": 7.5,
+  "score_stanje": 4.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Nova Ves u neposrednoj blizini Kaptola i Gornjeg Grada je premium lokacija s 40% popustom na drugoj dražbi, a omjer male kuće (61m²) i velikog dvorišta (268m²) otvara razvojni potencijal rekonstrukcije ili dogradnje. Nužna je detaljna provjera konzervatorskih ograničenja, građevinskih prava i tereta u ZK prije bilo kakvog koraka.",
+  "flags": [
+    "mala stambena površina 61m² uz 268m² dvorišta - neobičan omjer",
+    "blizina zaštićene povijesne jezgre - moguća konzervatorska ograničenja",
+    "pomoćne zgrade 19+9m² - nejasna namjena i stanje"
+  ],
+  "input_hash": "9fb446404bf4",
+  "scored_at": "2026-04-24T08:01:43.965278"
+}

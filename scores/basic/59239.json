@@ -1,0 +1,16 @@
+{
+  "id": "59239",
+  "score_overall": 3.0,
+  "score_lokacija": 4.5,
+  "score_roi": 3.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica u Šašinovcu (Dugo Selo) ima blagu prednost blizine Zagreba ali bez informacija o prostornom planu nema potvrde o građevinskom potencijalu. 20% popust za neigrađenu perifernu oranicu nije dovoljan motivator bez jasne exit strategije.",
+  "flags": [
+    "nepoznata namjena u prostornom planu",
+    "oranica bez infrastrukture",
+    "niska likvidnost tipa nekretnine"
+  ],
+  "input_hash": "7ef1b45e1589",
+  "scored_at": "2026-04-24T08:12:02.508722"
+}

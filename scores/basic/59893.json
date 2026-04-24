@@ -1,0 +1,16 @@
+{
+  "id": "59893",
+  "score_overall": 3.5,
+  "score_lokacija": 4.5,
+  "score_roi": 4.0,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Livada s ribnjačkim elementom u Jalšovcu može imati niše (ribolovna prava, ekološka poljoprivreda), ali 20% popusta na prvoj dražbi ne opravdava ulazak bez dublje analize vodnih prava. Specijalizirana imovina s ograničenom kupovnom bazom.",
+  "flags": [
+    "ribnjak - mogući posebni uvjeti vodnih/ribolovnih prava",
+    "specijalizirana namjena - uska kupovna baza",
+    "prva dražba"
+  ],
+  "input_hash": "cf3b909e7cae",
+  "scored_at": "2026-04-24T08:05:49.853114"
+}

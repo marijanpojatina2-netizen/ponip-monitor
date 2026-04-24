@@ -1,0 +1,16 @@
+{
+  "id": "59105",
+  "score_overall": 3.5,
+  "score_lokacija": 4.5,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Šumsko zemljište u Šašinovcu ima marginalnu prednost blizine Zagreba, ali šuma je najteže unovčiva kategorija zemljišta bez posebnih dozvola i 20% popusta na prvoj dražbi ne nudi dovoljnu sigurnosnu marginu. Likvidnost je niža čak i od oranice na istoj lokaciji.",
+  "flags": [
+    "Šumsko zemljište – najniža likvidnost",
+    "Minimalni popust 20% na prvoj dražbi",
+    "Nema građevinskog statusa"
+  ],
+  "input_hash": "94116b986c3f",
+  "scored_at": "2026-04-24T08:10:26.960225"
+}

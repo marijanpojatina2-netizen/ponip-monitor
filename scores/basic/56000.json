@@ -1,0 +1,17 @@
+{
+  "id": "56000",
+  "score_overall": 3.0,
+  "score_lokacija": 7.0,
+  "score_roi": 4.0,
+  "score_stanje": 1.5,
+  "recommendation": "pass",
+  "reasoning": "Atraktivna lokacija blizu Rovinja (k.o. Rovinjsko Selo) i 75% popust na trećoj dražbi zvuče spektakularno, ali predmet prodaje je isključivo 1/32 suvlasničkog udjela na prolaznom putu do tuđe stambene zgrade - bez ikakve samostalne upotrebne, građevinske ili preprodajne vrijednosti; tri neuspjele dražbe su jasna tržišna presuda.",
+  "flags": [
+    "1/32 udjela na prolaznom putu - nema samostalne vrijednosti",
+    "put služi isključivo pristupu tuđe stambene zgrade",
+    "treća dražba bez interesa = tržišni signal bezvrijednosti",
+    "nemoguće samostalno koristiti niti graditi"
+  ],
+  "input_hash": "4dee9fb03350",
+  "scored_at": "2026-04-24T08:18:27.056312"
+}

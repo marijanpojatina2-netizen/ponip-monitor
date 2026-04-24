@@ -1,0 +1,17 @@
+{
+  "id": "59698",
+  "score_overall": 5.0,
+  "score_lokacija": 7.5,
+  "score_roi": 5.0,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Otok Mali Iž kod Zadra je premijska dalmatinska lokacija s rastućim turističkim interesom; međutim čestica je mala (176 m2), pašnjačke namjene bez objekta, a 20% popust na prvoj dražbi nije naročito atraktivan za ovakav tip zemljišta.",
+  "flags": [
+    "pašnjak bez objekta",
+    "mala površina (176 m2)",
+    "otoška logistika – prijevoz i komunalna infrastruktura",
+    "potrebna provjera mogućnosti gradnje"
+  ],
+  "input_hash": "ed790c13d749",
+  "scored_at": "2026-04-24T08:15:06.581832"
+}

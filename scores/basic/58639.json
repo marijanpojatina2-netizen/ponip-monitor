@@ -1,0 +1,15 @@
+{
+  "id": "58639",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 3.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Prugovac kraj Đurđevca spada u kontinentalnu Bilogoru s niskim tržišnim interesom; oranica od 3215m2 s tek 20% popustom na prvoj dražbi nema opravdan investicijski case.",
+  "flags": [
+    "ruralno kontinentalno područje - slaba potražnja",
+    "samo oranica bez zgrade"
+  ],
+  "input_hash": "f5001da86db4",
+  "scored_at": "2026-04-24T08:08:52.395020"
+}

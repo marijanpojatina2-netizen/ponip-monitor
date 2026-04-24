@@ -1,0 +1,16 @@
+{
+  "id": "59769",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica u ruralnoj depopulacijskoj Slavoniji (Moslavina Podravska) bez investicijskog narrativa; minimalni popust od 20% na prvoj dražbi ne kompenzira izrazito nisku likvidnost i potražnju u ovoj regiji.",
+  "flags": [
+    "depopulacijska zona - istočna Slavonija",
+    "niska likvidnost agrarnog tržišta",
+    "prva dražba - minimalni popust"
+  ],
+  "input_hash": "ea2c7d47b47d",
+  "scored_at": "2026-04-24T08:07:33.972247"
+}

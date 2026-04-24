@@ -1,0 +1,17 @@
+{
+  "id": "59967",
+  "score_overall": 6.5,
+  "score_lokacija": 8.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Parcela 1132 m2 u Rovinju (Monsego) po ~16 EUR/m2 predstavlja iznimno jeftino istarsko tlo na premium turističkoj lokaciji; ključni rizik je katastarsko vođenje kao pašnjak što blokira gradnju bez prenamjene, ali OPG/agrotourizam opcija ili buduća promjena GUP-a mogu drastično povećati vrijednost.",
+  "flags": [
+    "katastarska namjena pašnjak – gradnja zabranjena bez prenamjene",
+    "nužna hitna provjera GUP-a Rovinja i prostornog plana Istarske županije",
+    "prva dražba – bez popustnog bonusa (20% jedino)",
+    "susjedne parcele 4889/2, 4889/4, 4889/5 isti vlasnik – razmotriti paket"
+  ],
+  "input_hash": "d0d05e9caf98",
+  "scored_at": "2026-04-24T08:04:31.657489"
+}

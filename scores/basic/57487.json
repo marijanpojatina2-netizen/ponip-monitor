@@ -1,0 +1,16 @@
+{
+  "id": "57487",
+  "score_overall": 3.5,
+  "score_lokacija": 4.5,
+  "score_roi": 4.0,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Inland Istra (Buzet) ima određenu robnu marku ali ovo je sitna šumska čestica 766m2 na izrazitoj nizbrdici bez ikakve građevinske ili turističke perspektive; 40% popust i 2. dražba ne spašavaju asset.",
+  "flags": [
+    "strma nizbrdica - ograničena gradnja",
+    "obraslo drvenjem - samo šumska vrijednost",
+    "sitna čestica 766m2"
+  ],
+  "input_hash": "a3a439f09a63",
+  "scored_at": "2026-04-24T08:13:52.951625"
+}

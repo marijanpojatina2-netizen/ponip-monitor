@@ -1,0 +1,15 @@
+{
+  "id": "58184",
+  "score_overall": 5.0,
+  "score_lokacija": 5.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Livada u unutrašnjoj Istri s 40% popustom na drugoj dražbi daje solidan ROI potencijal, ali lokacija je inland (Salež/Pazin), daleko od obale koja pogoni cijene. Vrijedi pratiti ako investitor ima stratešku viziju za istarsko ruralno tržište ili agroprojekte.",
+  "flags": [
+    "livada – ograničena namjena, bez građevinske dozvole",
+    "inland Istra, ne obalna zona"
+  ],
+  "input_hash": "73ad591f6dcc",
+  "scored_at": "2026-04-24T08:19:46.224880"
+}

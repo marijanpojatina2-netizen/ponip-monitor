@@ -1,0 +1,15 @@
+{
+  "id": "57859",
+  "score_overall": 4.0,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Jedina nekretnina u ovom setu s punim vlasništvom 1/1, 40% popustom i 2. dražbom - oranica kod Ivanca ima minimalnu vrijednost kao zalog u dugoročnom portfelju jeftinih zemalja, ali Varaždinska županija nema uzlazni trend cijena.",
+  "flags": [
+    "ruralno područje niske likvidnosti",
+    "čisto poljoprivredno - bez turističkog potencijala"
+  ],
+  "input_hash": "63ee0ea8e3d8",
+  "scored_at": "2026-04-24T08:13:52.952259"
+}

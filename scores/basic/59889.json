@@ -1,0 +1,17 @@
+{
+  "id": "59889",
+  "score_overall": 3.0,
+  "score_lokacija": 4.0,
+  "score_roi": 3.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Šuma Rimščak površine ~1268 čhv s 20% popusta na prvoj dražbi je najslabiji investicijski slučaj u ovom skupu - šumsko zemljište ima stroga ograničenja korištenja i gotovo nikakav turistički ili razvojni potencijal. Eventualni prihod od sječe simboličan je u ovoj veličini.",
+  "flags": [
+    "šuma - stroga zakonska ograničenja sječe i korištenja",
+    "minimalni prihodni potencijal",
+    "prva dražba bez cjenovnog bonusa",
+    "najslabija likvidnost od svih ponuđenih"
+  ],
+  "input_hash": "c47305d1d378",
+  "scored_at": "2026-04-24T08:05:49.853451"
+}

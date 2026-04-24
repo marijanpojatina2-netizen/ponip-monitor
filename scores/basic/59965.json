@@ -1,0 +1,16 @@
+{
+  "id": "59965",
+  "score_overall": 6.0,
+  "score_lokacija": 8.5,
+  "score_roi": 5.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Rovinj je premium turistička destinacija i lokacija nosi veliku težinu, ali radi se o pašnjaku bez objekata pa je ključna provjera zoninga - ako je građevinsko zemljište drastično raste vrijednost, inače je upitno. Samo 20% popusta na prvoj dražbi nije dovoljno za agresivan ulaz bez potvrđene namjene.",
+  "flags": [
+    "pašnjak - potrebna hitna provjera prostornog plana i zoninga",
+    "nema građevinskog objekta",
+    "prva dražba bez bonusa"
+  ],
+  "input_hash": "79bc07b23091",
+  "scored_at": "2026-04-24T08:05:49.852638"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "59215",
+  "score_overall": 3.0,
+  "score_lokacija": 4.0,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica u prigradskom Zagrebu (Šašinovec) zvuči ok ali je to čista 1. dražba s minimalnim popustom od 20% bez prostora za pregovore; nema razloga ulaziti dok cijena značajno ne padne.",
+  "flags": [
+    "prva dražba - nema popustovnog signala",
+    "minimalni popust 20%",
+    "čisto poljoprivredno - oranica bez potencijala izgradnje"
+  ],
+  "input_hash": "88533d898f41",
+  "scored_at": "2026-04-24T08:13:52.951888"
+}

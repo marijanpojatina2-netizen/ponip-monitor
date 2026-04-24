@@ -1,0 +1,16 @@
+{
+  "id": "59395",
+  "score_overall": 2.0,
+  "score_lokacija": 1.5,
+  "score_roi": 2.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica u vukovarskom ataru predstavlja najrizičniju demografsku zonu u ovoj grupi - kontinuirani pad stanovništva i iznimno niska tržišna likvidnost čine ovaj asset praktički nerealizabilnim. 20% popust je beznačajan.",
+  "flags": [
+    "Vukovar - depopulacijska kritična zona",
+    "niska likvidnost i potražnja",
+    "mala parcela bez razvojnog potencijala"
+  ],
+  "input_hash": "e3fc891695fd",
+  "scored_at": "2026-04-24T08:16:27.651278"
+}

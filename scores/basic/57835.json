@@ -1,0 +1,15 @@
+{
+  "id": "57835",
+  "score_overall": 3.0,
+  "score_lokacija": 3.0,
+  "score_roi": 5.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Oranica 950 m2 u k.o. Druškovec (Ivanec) s 40% popustom na drugoj dražbi; ruralna Varaždinska županija bez turističkog potencijala i s niskom likvidnošću agrarnog zemljišnog tržišta čini ovaj ulog neinteresantnim.",
+  "flags": [
+    "oranica - agrarna namjena",
+    "ruralno područje niske likvidnosti"
+  ],
+  "input_hash": "8ce7a7402183",
+  "scored_at": "2026-04-24T08:18:27.056086"
+}
