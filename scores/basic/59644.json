@@ -1,0 +1,16 @@
+{
+  "id": "59644",
+  "score_overall": 4.5,
+  "score_lokacija": 8.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Lokacija na otoku Rabu (Lopar - Rajska plaža) je premium turistička zona i jedina prava lokacijska prednost u ovoj grupi, ali suvlasništvo 12/192 (~6.25% od 772 m2) čini samostalno korištenje i preprodaju izrazito kompliciranima; vrijedi pratiti ako se pojavi mogućnost konsolidacije udjela.",
+  "flags": [
+    "suvlasništvo 12/192 - izrazito mali udio, praktički neupotrebljivo samostalno",
+    "potreban sporazum 15+ suvlasnika za bilo kakvu akciju",
+    "vinogradi/ograde - bez turističke infrastrukture"
+  ],
+  "input_hash": "01046bd00b0e",
+  "scored_at": "2026-04-27T08:23:08.929653"
+}

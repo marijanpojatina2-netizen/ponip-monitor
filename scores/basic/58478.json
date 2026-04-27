@@ -1,0 +1,16 @@
+{
+  "id": "58478",
+  "score_overall": 1.5,
+  "score_lokacija": 2.0,
+  "score_roi": 1.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Livada u Perencima, nastavak istog fragmentiranog vlasničkog sklopa (zk.ul. 1615) - suvlasništvo 2/5 i niska ekonomska vrijednost livadskog zemljišta u Slavoniji. Nema investicijske logike.",
+  "flags": [
+    "suvlasništvo 2/5 - isti vlasniči sklop",
+    "livada bez ekonomskog potencijala",
+    "depopulacijska zona Požeštine"
+  ],
+  "input_hash": "be7b1a9073c8",
+  "scored_at": "2026-04-27T08:29:24.085532"
+}

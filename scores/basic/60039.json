@@ -1,0 +1,16 @@
+{
+  "id": "60039",
+  "score_overall": 1.5,
+  "score_lokacija": 4.5,
+  "score_roi": 1.0,
+  "score_stanje": 1.0,
+  "recommendation": "pass",
+  "reasoning": "Čestica kategorije 'ulica' (javna cesta) od 63 m2 nema nikakav građevinski ni investicijski potencijal; Varaždin je solidna lokacija ali čestice javnih prometnica praktički je nemoguće iskoristiti ili preprodati.",
+  "flags": [
+    "ulica/javna cesta - nema namjene za investitora",
+    "nema građevinskog potencijala",
+    "upitna mogućnost preprodaje"
+  ],
+  "input_hash": "2322b030c63e",
+  "scored_at": "2026-04-27T08:23:08.928800"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "58673",
+  "score_overall": 2.5,
+  "score_lokacija": 3.0,
+  "score_roi": 2.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Frakcioniran interes 16/50 oranice u ruralnom zaleđu Koprivnice s minimalnim popustom od 20% na prvoj dražbi; prodaja manjinskog suvlasničkog dijela agrarnog zemljišta praktički neizvediva bez suglasnosti ostalih suvlasnika.",
+  "flags": [
+    "samo 16/50 suvlasničkog dijela - teška prodaja manjinskog interesa",
+    "ostali suvlasnici nepoznati - rizik blokade",
+    "oranica bez građevinskog statusa"
+  ],
+  "input_hash": "91cfd70bf092",
+  "scored_at": "2026-04-27T08:24:51.098265"
+}

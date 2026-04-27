@@ -1,0 +1,16 @@
+{
+  "id": "59201",
+  "score_overall": 2.0,
+  "score_lokacija": 2.5,
+  "score_roi": 2.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Mala livada od 1115 m2 u k.o. Prugovac kraj Đurđevca - ruralna Podravina s demografskim padom i niskom potražnjom; 20% popust na prvoj dražbi nedovoljan za kompenzaciju slabe lokacije i ograničene namjene.",
+  "flags": [
+    "ruralna Podravina - slaba likvidnost",
+    "Đurđevac - depopulacija",
+    "mala parcela bez jasne namjene"
+  ],
+  "input_hash": "a3f803983f0b",
+  "scored_at": "2026-04-27T08:23:08.929556"
+}

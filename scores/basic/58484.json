@@ -1,0 +1,16 @@
+{
+  "id": "58484",
+  "score_overall": 1.5,
+  "score_lokacija": 2.0,
+  "score_roi": 1.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Suvlasništvo 2/5 livade u Perencima kraj Požege kombinira najlošiju regiju (ruralna Slavonija) s parcijalnim vlasništvom što čini predmet investicijski bezvrijednim; nema realnog kupca za ovakav udio.",
+  "flags": [
+    "suvlasništvo 2/5 - gotovo nemoguće iskoristiti samostalno",
+    "ruralna Slavonija/Požega - minimalna likvidnost",
+    "livada bez prihoda"
+  ],
+  "input_hash": "3088b71f0dfa",
+  "scored_at": "2026-04-27T08:23:08.929250"
+}

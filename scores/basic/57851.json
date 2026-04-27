@@ -1,0 +1,16 @@
+{
+  "id": "57851",
+  "score_overall": 3.5,
+  "score_lokacija": 3.5,
+  "score_roi": 4.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Livada 637 m2 identičnog profila kao ID 57847 (čkbr. 683/6 i 683/7, isti zk.ul. 5134, isti ovršenik) - jedina opravdana teza je zajednička kupnja obje parcele (1328 m2) zbog 40% popusta na drugoj dražbi, ali bez provjere prostornog plana za eventualnu prenamjenu ovo ostaje špekulativan ulog.",
+  "flags": [
+    "livada bez građevinskog statusa",
+    "sinergija samo ako se kupuje zajedno s ID 57847",
+    "provjera UPU/GUP neophodna za prenamjenu"
+  ],
+  "input_hash": "fbaa9d070c0e",
+  "scored_at": "2026-04-27T08:24:51.098548"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "58486",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 2.0,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Suvlasnički udio 2/5 oranice u Perencima kraj Požege spaja tri negativna faktora: depopulacijska Slavonija, frakcijsko vlasništvo i čisto poljoprivredna namjena bez strukture. Minimalni popust na prvoj dražbi ne nudi nikakvu investicijsku logiku.",
+  "flags": [
+    "suvlasnički udio 2/5 - potrebna suglasnost ostalih suvlasnika za bilo što",
+    "Slavonija/Požega - snažna depopulacija, niska likvidnost tržišta",
+    "oranica bez strukture - samo najam zemljišta kao jedini prihod"
+  ],
+  "input_hash": "7d9b3b91e4dd",
+  "scored_at": "2026-04-27T08:28:23.527581"
+}

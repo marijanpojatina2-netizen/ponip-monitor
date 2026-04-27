@@ -1,0 +1,17 @@
+{
+  "id": "58492",
+  "score_overall": 1.5,
+  "score_lokacija": 2.0,
+  "score_roi": 2.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Suvlasnički udio 2/5 na 200m2 oranice u Perencima kod Požege - ruralno depopulacijsko područje bez turističkog ili urbanog potencijala. Apsolutna vrijednost predmeta je 32 EUR što čini transakciju praktički bezvrijednom nakon sudskih troškova.",
+  "flags": [
+    "suvlasnički udio 2/5 - nemoguća samostalna dispozicija",
+    "ruralno depopulacijsko područje",
+    "minimalna tržišna likvidnost",
+    "sudski troškovi vjerojatno premašuju vrijednost predmeta"
+  ],
+  "input_hash": "ebb64420b853",
+  "scored_at": "2026-04-27T08:29:40.627674"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "60027",
+  "score_overall": 1.5,
+  "score_lokacija": 4.5,
+  "score_roi": 1.0,
+  "score_stanje": 1.0,
+  "recommendation": "pass",
+  "reasoning": "Identičan slučaj kao ID 60039 - cestovna čestica od svega 23 m2 bez ikakve investicijske vrijednosti; čak i u Varaždinu ovakva čestica nema praktične primjene.",
+  "flags": [
+    "ulica/javna cesta - neupotrebljivo",
+    "samo 23 m2 javne površine",
+    "nema investicijskog potencijala"
+  ],
+  "input_hash": "65bf39e2a257",
+  "scored_at": "2026-04-27T08:23:08.929031"
+}

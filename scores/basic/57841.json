@@ -1,0 +1,16 @@
+{
+  "id": "57841",
+  "score_overall": 3.0,
+  "score_lokacija": 3.0,
+  "score_roi": 4.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Livada 500 m2 u punom vlasništvu pozitivna je okolnost, ali 40% popust na drugoj dražbi ne kompenzira minimalnu atraktivnost lokacije (k.o. Druškovec, Ivanec) i gotovo nepostojeću izlaznu strategiju za mali livadni posjed u ruralnoj Varaždinskoj županiji. Razvojni potencijal praktički ne postoji bez jasne promjene namjene zemljišta.",
+  "flags": [
+    "livada - minimalan razvojni potencijal",
+    "mala parcela 500 m2",
+    "ruralni Varaždin bez turističkog vektora"
+  ],
+  "input_hash": "4c84087d1330",
+  "scored_at": "2026-04-27T08:26:56.068418"
+}

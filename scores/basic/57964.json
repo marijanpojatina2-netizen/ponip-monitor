@@ -1,0 +1,16 @@
+{
+  "id": "57964",
+  "score_overall": 3.5,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Druga dražba s 40% popustom poboljšava ulaz, ali suvlasnički udio 1/2 oranice u Gornjoj Voći znači da bez suglasnosti drugog suvlasnika ne možete slobodno prodati niti razvijati parcelu. Varaždinska rurala nema potencijal za kapitalnu aprecijaciju poljoprivrednog zemljišta koji bi opravdao kompleksnost suvlasničke situacije.",
+  "flags": [
+    "1/2 dijela vlasništva - suvlasnički rizik",
+    "oranica bez razvojnog potencijala",
+    "Gornja Voća - ruralno, ograničena likvidnost"
+  ],
+  "input_hash": "7f00bca126a2",
+  "scored_at": "2026-04-27T08:26:56.068212"
+}

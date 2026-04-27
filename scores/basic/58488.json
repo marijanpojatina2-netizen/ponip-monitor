@@ -1,0 +1,16 @@
+{
+  "id": "58488",
+  "score_overall": 1.5,
+  "score_lokacija": 2.0,
+  "score_roi": 1.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica u depopulacijskom ruralnom pojasu Slavonije (Perenci/Požega), suvlasništvo samo 2/5 čini izlaz iz investicije gotovo nemogućim. Vrijednost nekretnine minimalna, nema realnog potencijala za prinos.",
+  "flags": [
+    "suvlasništvo 2/5 - otežana realizacija",
+    "ruralno depopulacijsko područje",
+    "poljoprivredno zemljište bez građevnog potencijala"
+  ],
+  "input_hash": "ff63d55524b9",
+  "scored_at": "2026-04-27T08:29:24.085002"
+}

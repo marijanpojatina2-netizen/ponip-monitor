@@ -1,0 +1,16 @@
+{
+  "id": "59646",
+  "score_overall": 3.5,
+  "score_lokacija": 7.0,
+  "score_roi": 2.0,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Rab otok daje dobru lokacijsku ocjenu, ali suvlasnički udio 12/192 šume je praktički nelikvidna imovina bez ikakve razvojne perspektive. Minimalni popust na prvoj dražbi ne kompenzira izuzetno nisku upotrebljivost frakcije.",
+  "flags": [
+    "suvlasnički udio 12/192 - ekstremno mala frakcija, teška za prodaju",
+    "šuma - stroge zakonske restrikcije gradnje i krčenja",
+    "niska tržišna likvidnost frakcijskog suvlasništva"
+  ],
+  "input_hash": "767defced35c",
+  "scored_at": "2026-04-27T08:28:23.527171"
+}

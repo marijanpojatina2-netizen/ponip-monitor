@@ -1,0 +1,16 @@
+{
+  "id": "59207",
+  "score_overall": 1.5,
+  "score_lokacija": 2.5,
+  "score_roi": 1.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Vinograd od svega 183 m2 u ruralnoj Podravini - premala parcela za ikakvu ekonomsku aktivnost, bez suvlasništva ali bez realnog potencijala. Tržišna likvidnost gotovo nulta.",
+  "flags": [
+    "ekstremno mala parcela (183 m2)",
+    "ruralno Podravlje - slaba likvidnost",
+    "vinogradska čkbr. bez infrastrukture"
+  ],
+  "input_hash": "82400da1f82d",
+  "scored_at": "2026-04-27T08:29:24.085631"
+}

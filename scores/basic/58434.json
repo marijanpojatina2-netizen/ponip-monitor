@@ -1,0 +1,16 @@
+{
+  "id": "58434",
+  "score_overall": 2.5,
+  "score_lokacija": 3.5,
+  "score_roi": 2.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Samo 1/4 dijela livade i oranice ukupno ≈3949 m2 u ruralnom Varaždinu s 20% popustom na prvoj dražbi; frakcioniran manjinski udio agrarnog zemljišta bez jasnog mehanizma izlaska iz suvlasništva.",
+  "flags": [
+    "samo 1/4 suvlasničkog dijela - blokiran bez ostalih suvlasnika",
+    "mješovito poljoprivredno zemljište bez razvojnog potencijala",
+    "prva dražba - popust nedovoljan"
+  ],
+  "input_hash": "15b6a8492f19",
+  "scored_at": "2026-04-27T08:24:51.098647"
+}

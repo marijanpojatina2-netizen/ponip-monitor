@@ -1,0 +1,16 @@
+{
+  "id": "59329",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Vrt (≈266 m2) u selu Ciglenik kod Oriovca bez pratećeg stambenog objekta - ruralna Slavonija s minimalnom potražnjom i 20% popustom na prvoj dražbi što je nedovoljno za ovu mikrolokaciju.",
+  "flags": [
+    "vrt bez stambenog objekta - nepotpuna imovina",
+    "ruralna Slavonija - depopulacijska zona",
+    "niska tržišna likvidnost Oriovac/SB područja"
+  ],
+  "input_hash": "7f8f1f459882",
+  "scored_at": "2026-04-27T08:24:51.098156"
+}

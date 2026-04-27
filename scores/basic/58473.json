@@ -1,0 +1,16 @@
+{
+  "id": "58473",
+  "score_overall": 4.0,
+  "score_lokacija": 3.5,
+  "score_roi": 6.0,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Jeftino po m2 – gospodarska zgrada 863 m2 + 8007 m2 dvorišta za ~100k EUR na drugoj dražbi s 40% popustom nudi potencijal za industrijsku/skladišnu namjenu, ali ruralna lokacija Karlovec Ludbreški blizu Ludbrega znači nisku likvidnost i tržišnu dubinu. Vrijedi istražiti namjensku zonu i infrastrukturu.",
+  "flags": [
+    "ruralna lokacija – niska likvidnost i ograničen krug kupaca",
+    "gospodarska zgrada – nejasno aktualno stanje i namjena prostora",
+    "potrebna provjera prostornog plana za alternativnu namjenu"
+  ],
+  "input_hash": "6a57d76a04a8",
+  "scored_at": "2026-04-27T08:21:25.044264"
+}

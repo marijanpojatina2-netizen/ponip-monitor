@@ -1,0 +1,16 @@
+{
+  "id": "58494",
+  "score_overall": 1.5,
+  "score_lokacija": 2.0,
+  "score_roi": 1.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Najslabija nekretnina u skupini: suvlasnički udio 2/5 na svega 200m2 oranice u Slavoniji znači efektivnih ~80m2 zemlje bez ikakvog rezonabilnog scenarija upotrebe ili prodaje. Uz 20% popust na prvoj dražbi, ovo nema smisla niti kao spekulacija.",
+  "flags": [
+    "suvlasnički udio 2/5 od samo 200m2 - efektivno 80m2",
+    "Slavonija - depopulacijska regija bez likvidnog tržišta",
+    "isti dužnik kao 58486 i 58460 - sistemska prezaduženost"
+  ],
+  "input_hash": "9d9a84083785",
+  "scored_at": "2026-04-27T08:28:23.527913"
+}

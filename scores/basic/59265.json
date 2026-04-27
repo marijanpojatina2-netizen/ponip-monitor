@@ -1,0 +1,15 @@
+{
+  "id": "59265",
+  "score_overall": 2.0,
+  "score_lokacija": 3.0,
+  "score_roi": 2.0,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Livada u k.o. Ivanec bez ikakve strukture u slabom investicijskom pojasu Varaždinske županije; vlasnik je tvrtka iz Zagreba što sugerira prisilnu prodaju poslovne imovine bez strateškog interesa. Nema turističkog, razvojnog ni spekulativnog potencijala.",
+  "flags": [
+    "samo poljoprivredna namjena - livada bez strukture",
+    "vlasnik pravna osoba (MINI MAJOR d.o.o.) - moguće složenosti u prijenosu"
+  ],
+  "input_hash": "eb7d0338f91c",
+  "scored_at": "2026-04-27T08:28:23.527369"
+}

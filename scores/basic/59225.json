@@ -1,0 +1,16 @@
+{
+  "id": "59225",
+  "score_overall": 3.0,
+  "score_lokacija": 3.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Oranica 200 m2 na urbanoj adresi u Gospiću (Put hrvatske garde 38) - mikroparcela u gradskom tkivu s potencijalnom prenamjenom, ali Gospić je grad s negativnim demografskim trendovima i minimalnom investicijskom potražnjom; 20% popust nedovoljan.",
+  "flags": [
+    "Gospić/Lika - depopulacijska zona",
+    "samo 200 m2 - premala za samostalan razvoj",
+    "oranica u urbanoj zoni - nepoznat građevinski status"
+  ],
+  "input_hash": "ffafd43b33ce",
+  "scored_at": "2026-04-27T08:24:51.098742"
+}

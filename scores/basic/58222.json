@@ -1,0 +1,15 @@
+{
+  "id": "58222",
+  "score_overall": 3.5,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Jedina nekretnina u skupini s 40% popustom i drugom dražbom, plus 1/1 vlasništvo bez frakcijskih rizika - to je distinktivna prednost nad ostalima. Nedelišće uz Čakovec nije turistička zona ali je stabilna lokacija u gospodarskom Međimurju, a livada 421m2 ima minimalni razvojni potencijal.",
+  "flags": [
+    "livada - isključivo poljoprivredna namjena bez strukture",
+    "nema turističkog ni kratkoročnog najamnog potencijala"
+  ],
+  "input_hash": "943012295965",
+  "scored_at": "2026-04-27T08:28:23.527779"
+}

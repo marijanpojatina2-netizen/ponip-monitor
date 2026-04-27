@@ -1,0 +1,16 @@
+{
+  "id": "58454",
+  "score_overall": 1.5,
+  "score_lokacija": 2.0,
+  "score_roi": 1.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Voćnjak i dvorište u Perencima, najmanji predmet u nizu (41 EUR procjene) iz istog vlasničkog sklopa zk.ul. 1615 - suvlasništvo 2/5, ruralna Slavonija, nema investicijskog smisla. Transakcijski trošak vjerojatno premašuje vrijednost.",
+  "flags": [
+    "suvlasništvo 2/5 - isti vlasniči sklop (ID 58488/58452/58478)",
+    "najniža vrijednost u grupi - transakcijski trošak > vrijednost",
+    "depopulacijska zona Požeštine"
+  ],
+  "input_hash": "462193ede0d8",
+  "scored_at": "2026-04-27T08:29:24.085972"
+}

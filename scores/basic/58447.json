@@ -1,0 +1,16 @@
+{
+  "id": "58447",
+  "score_overall": 5.0,
+  "score_lokacija": 8.5,
+  "score_roi": 5.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Mali Lošinj je top-turistička lokacija s visokim potencijalom, ali predmet je suvlasnički udio 5/12 od ukupno 25 m2 – efektivno ~10 m2 bez autonomne upotrebne vrijednosti. Bez otkupa preostalih 7/12 nekretnina je neupotrebljiva za najam ili adaptaciju, a 40% popust + druga dražba ne kompenziraju tu blokadu.",
+  "flags": [
+    "suvlasnički udio 5/12 – nesamostalna uporaba bez suglasnosti/otkupa ostalih suvlasnika",
+    "ukupna površina svega 25 m2 – marginalna upotrebna vrijednost kao samostalna jedinica",
+    "potrebna provjera tko su ostali suvlasnici i jesu li voljni prodati"
+  ],
+  "input_hash": "68fe35c79a23",
+  "scored_at": "2026-04-27T08:21:25.044376"
+}

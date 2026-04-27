@@ -1,0 +1,16 @@
+{
+  "id": "58424",
+  "score_overall": 1.0,
+  "score_lokacija": 3.0,
+  "score_roi": 1.0,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Vlasništvo od samo 1/32 na oranici kod Varaždina - efektivna površina svega ~94 m2, praktički nemogućnost konsolidacije ili korištenja. Ovo je vlasnički fragment bez ikakve investicijske vrijednosti.",
+  "flags": [
+    "suvlasništvo 1/32 - ekstremna fragmentacija",
+    "oranica bez građevnog potencijala",
+    "nemoguća samostalna valorizacija bez ostalih suvlasnika"
+  ],
+  "input_hash": "daf52fd0d26c",
+  "scored_at": "2026-04-27T08:29:24.085830"
+}

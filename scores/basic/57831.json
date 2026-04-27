@@ -1,0 +1,15 @@
+{
+  "id": "57831",
+  "score_overall": 3.5,
+  "score_lokacija": 3.5,
+  "score_roi": 5.0,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Jedini predmet u ovoj grupi s 40% popustom i drugom dražbom (ulaz od 460 EUR) što ga čini relativno atraktivnim za minimalnu kapitalnu angažiranost; puno vlasništvo 1/1 i niska ulazna cijena smanjuju rizik, ali livada kod Ivanca nema velik dugoročni potencijal.",
+  "flags": [
+    "livada - ograničena namjena",
+    "manje područje Ivanca - slabija likvidnost"
+  ],
+  "input_hash": "bbc790ceb0eb",
+  "scored_at": "2026-04-27T08:23:08.929448"
+}

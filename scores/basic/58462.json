@@ -1,0 +1,17 @@
+{
+  "id": "58462",
+  "score_overall": 1.0,
+  "score_lokacija": 2.0,
+  "score_roi": 1.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Suvlasnički udio 2/5 na 97m2 livade u Perencima vrijednosti 15.52 EUR - isti ovršenik i ista katastarska općina kao nekretnina 58492, vjerojatno dio iste ovrhe. Praktički nulta investicijska vrijednost uz nemoguće samostalno raspolaganje.",
+  "flags": [
+    "suvlasnički udio 2/5",
+    "ruralno depopulacijsko područje Požeška kotlina",
+    "sudski i administrativni troškovi višestruko premašuju vrijednost",
+    "vjerojatno povezano s predmetom 58492"
+  ],
+  "input_hash": "aa895a4ad7ee",
+  "scored_at": "2026-04-27T08:29:40.628033"
+}

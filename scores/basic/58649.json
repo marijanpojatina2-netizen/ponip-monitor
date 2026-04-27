@@ -1,0 +1,16 @@
+{
+  "id": "58649",
+  "score_overall": 1.0,
+  "score_lokacija": 2.5,
+  "score_roi": 1.0,
+  "score_stanje": 1.5,
+  "recommendation": "pass",
+  "reasoning": "Predmet dražbe je javni put ('put Buđaki') - cestovna čestice bez ikakvog investicijskog smisla. Suvlasništvo 1/2 na putu koji se ne može komercijalizirati.",
+  "flags": [
+    "čkbr. kategorije 'put' - nije moguća komercijalna valorizacija",
+    "suvlasništvo 1/2",
+    "ruralno Podravlje"
+  ],
+  "input_hash": "ad61f31f871d",
+  "scored_at": "2026-04-27T08:29:24.085318"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "59479",
+  "score_overall": 1.5,
+  "score_lokacija": 2.5,
+  "score_roi": 1.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Dvorišne čestice u Petrinji bez ikakve građevine - suvlasništvo 1/2 i seizmički pogođeno područje (potres 2020.) dodatno umanjuju perspektivu. Ukupna površina 103 m2 bez objekta nema investicijsku vrijednost.",
+  "flags": [
+    "suvlasništvo 1/2",
+    "samo dvorišne čestice - bez objekta",
+    "Petrinja - potresom oštećeno područje, smanjena likvidnost"
+  ],
+  "input_hash": "792697e6d6b2",
+  "scored_at": "2026-04-27T08:29:24.085728"
+}

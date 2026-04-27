@@ -1,0 +1,17 @@
+{
+  "id": "58476",
+  "score_overall": 1.0,
+  "score_lokacija": 2.0,
+  "score_roi": 1.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Suvlasnički udio 2/5 na 54m2 livade u Perencima, ista k.o. kao 58462 i isti zk.ul. 1615 - dio iste grupe ovrhe. Vrijednost 8.64 EUR čini ovu 'investiciju' apsurdnom s bilo kojeg financijskog aspekta.",
+  "flags": [
+    "suvlasnički udio 2/5",
+    "ista katastarska čestica kao 58462 - paketna ovrha",
+    "vrijednost ispod praga ekonomske racionalnosti",
+    "nulta likvidnost na sekundarnom tržištu"
+  ],
+  "input_hash": "649ab3c038d1",
+  "scored_at": "2026-04-27T08:29:40.628137"
+}

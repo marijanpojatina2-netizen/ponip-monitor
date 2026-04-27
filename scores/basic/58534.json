@@ -1,0 +1,17 @@
+{
+  "id": "58534",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 2.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica 137 čhv (~493 m2) u bjelovarskoj rurali nema razvojnog ni turističkog potencijala, a 20% popust na prvoj dražbi za poljoprivredno zemljište ovog tipa ne opravdava angažman. Bjelovarsko-bilogorska županija nema demografski ni urbanistički rast koji bi dugoročno valorizirao ovakvu imovinu.",
+  "flags": [
+    "isključivo poljoprivredno zemljište - ograničena namjena",
+    "mala parcela (~493 m2)",
+    "slaba likvidnost Bjelovar regije",
+    "prva dražba - minimalni popust"
+  ],
+  "input_hash": "bd21a4dd3c3f",
+  "scored_at": "2026-04-27T08:26:56.068101"
+}

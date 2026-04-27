@@ -1,0 +1,16 @@
+{
+  "id": "59593",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 2.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Suvlasnički udio 2/4 na poljoprivrednom zemljištu u k.o. Mohovo kraj Vukovara - Slavonija s niskom likvidnošću i depopulacijom; popust od samo 20% na prvoj dražbi ne kompenzira rizik suvlasništva i izrazito slabog tržišta.",
+  "flags": [
+    "suvlasništvo 2/4 - otežana prodaja i upravljanje",
+    "ruralna Slavonija - niska likvidnost",
+    "depopulacijsko područje Vukovar"
+  ],
+  "input_hash": "10d5300a9131",
+  "scored_at": "2026-04-27T08:23:08.929146"
+}

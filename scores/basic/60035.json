@@ -1,0 +1,16 @@
+{
+  "id": "60035",
+  "score_overall": 3.0,
+  "score_lokacija": 5.0,
+  "score_roi": 3.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Katastarska oznaka 'ulica' za česticu 231 m2 na Zagrebačkoj ulici u Varaždinu ukazuje da je čestice klasificirana kao javna prometna površina – bez prenamjene u prostornom planu gradnja nije moguća. Svega 25% popusta na prvoj dražbi ne opravdava investiciju u parcel ograničene gradivnosti.",
+  "flags": [
+    "katastarska oznaka 'ulica' – vjerojatno nije gradivo bez prethodne prenamjene",
+    "samo zemljište bez objekta",
+    "srodne čestice 3924/18 i 3924/21 na istoj adresi – vjerojatno dio razlomljene parcele"
+  ],
+  "input_hash": "9500600218d6",
+  "scored_at": "2026-04-27T08:21:25.044489"
+}

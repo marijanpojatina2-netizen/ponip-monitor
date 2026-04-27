@@ -1,0 +1,16 @@
+{
+  "id": "58460",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 2.0,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Identičan investicijski profil kao ID 58486 - isti zk.ul. 1615, isti ovršenik, isti suvlasnički omjer 2/5 u k.o. Perenci, samo manji komad oranice (1162m2 vs 1859m2). Nema razloga za drugačiju ocjenu od prethodne nekretnine.",
+  "flags": [
+    "suvlasnički udio 2/5 - isti dužnik i isti zk.ul. kao 58486",
+    "Slavonija - depopulacijska regija",
+    "1162m2 oranice bez komercijalne vrijednosti"
+  ],
+  "input_hash": "75b11df190dd",
+  "scored_at": "2026-04-27T08:28:23.527679"
+}

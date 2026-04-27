@@ -1,0 +1,16 @@
+{
+  "id": "58634",
+  "score_overall": 4.0,
+  "score_lokacija": 5.5,
+  "score_roi": 3.5,
+  "score_stanje": 2.5,
+  "recommendation": "watch",
+  "reasoning": "Šuma u k.o. Demerje unutar gravitacijskog pojasa Novog Zagreba - jedina nekretnina u skupini s relevantnom urbanom blizinom i punim vlasništvom (bez frakcija). Potencijal leži u dugoročnoj spekulaciji na promjenu namjene ili u rekreativnoj/ekološkoj vrijednosti, ali stroge zakonske restrikcije za šumsko zemljište ograničavaju kratkoročni ROI.",
+  "flags": [
+    "šuma - zakonske restrikcije krčenja i izgradnje (Zakon o šumama)",
+    "611m2 premalo za komercijalnu eksploataciju šume",
+    "nejasna dugoročna namjena bez uvida u GUP"
+  ],
+  "input_hash": "c7f853e36665",
+  "scored_at": "2026-04-27T08:28:23.528018"
+}

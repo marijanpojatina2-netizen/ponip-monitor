@@ -1,0 +1,16 @@
+{
+  "id": "59642",
+  "score_overall": 3.5,
+  "score_lokacija": 7.0,
+  "score_roi": 2.0,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Isti scenarij kao ID 59646 - otok Rab daje atraktivnu lokaciju, ali 12/192 pašnjaka i oranice na Loparu je praktički neupotrebljiva frakcija bez ikakvog rezonabilnog izlaznog scenarija. Popust od 20% na prvoj dražbi ne opravdava ulazak.",
+  "flags": [
+    "suvlasnički udio 12/192 - ekstremno mala frakcija",
+    "pašnjak/oranica - nema strukture niti turističke infrastrukture",
+    "vjerojatno isti dužnik kao ID 59646 - sistemski problemi"
+  ],
+  "input_hash": "6155fb2bb831",
+  "scored_at": "2026-04-27T08:28:23.527477"
+}

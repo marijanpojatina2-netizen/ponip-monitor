@@ -1,0 +1,16 @@
+{
+  "id": "58480",
+  "score_overall": 1.5,
+  "score_lokacija": 2.0,
+  "score_roi": 1.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Identična situacija kao ID 58484 - suvlasništvo 2/5 oranice u istoj katastarskoj općini Perenci i istom zk.ul. 1615, isto nelikvidno tržište; dupliranje loših karakteristika u paketu ne poboljšava investicijski slučaj.",
+  "flags": [
+    "suvlasništvo 2/5 - ista ZK uložak kao ID 58484",
+    "ruralna Požega - slaba likvidnost",
+    "bez investicijskog potencijala"
+  ],
+  "input_hash": "e0896404e6eb",
+  "scored_at": "2026-04-27T08:23:08.929349"
+}

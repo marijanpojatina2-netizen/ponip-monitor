@@ -1,0 +1,16 @@
+{
+  "id": "58422",
+  "score_overall": 1.5,
+  "score_lokacija": 3.0,
+  "score_roi": 2.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Udio 1/4 na livadama ukupno ~291m2 u k.o. Sveti Petar kod Varaždina - iako je Varaždin solidna lokacija, radi se o poljoprivrednom zemljištu minijaturne vrijednosti od 27.5 EUR. Suvlasnički udio bez mogućnosti samostalnog korištenja čini investiciju neracionalnom.",
+  "flags": [
+    "suvlasnički udio 1/4 - ograničena raspolaganja",
+    "isključivo poljoprivredno zemljište bez razvojnog potencijala",
+    "transakcijski troškovi nadmašuju vrijednost"
+  ],
+  "input_hash": "0b703d357f5c",
+  "scored_at": "2026-04-27T08:29:40.627921"
+}

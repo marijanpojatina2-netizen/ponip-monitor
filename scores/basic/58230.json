@@ -1,0 +1,16 @@
+{
+  "id": "58230",
+  "score_overall": 3.0,
+  "score_lokacija": 3.0,
+  "score_roi": 4.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Sitna livada 119 m2 blizu Čakovca s 40% popustom na drugoj dražbi, ali apsolutna vrijednost (390 EUR) i niska likvidnost ruralne Međimurje čine investicijsku tezu beznačajnom; suvlasnička struktura (4. i 5. dio) dodatno komplicira buduću prodaju.",
+  "flags": [
+    "suvlasnički dijelovi (4. i 5.) - složena vlasniška struktura",
+    "poljoprivredno zemljište bez građevinskog statusa",
+    "zanemariva apsolutna vrijednost - 390 EUR"
+  ],
+  "input_hash": "3c9ec330c190",
+  "scored_at": "2026-04-27T08:24:51.097815"
+}

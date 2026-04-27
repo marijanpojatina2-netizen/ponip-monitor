@@ -1,0 +1,17 @@
+{
+  "id": "58444",
+  "score_overall": 2.0,
+  "score_lokacija": 3.5,
+  "score_roi": 2.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Udio 1/16 vinograda praktički je nemoguće monetizirati - za svaku prodaju, zakup ili razvoj potrebna je suglasnost preostalih 15 suvlasnika, što je u praksi blokada. Zapušten vinograd s klijetom u k.o. Bolfan uz samo 20% popust na prvoj dražbi nema investicijskog smisla bez potpunog vlasništva.",
+  "flags": [
+    "1/16 dijela - praktički neupotrebljiv udio",
+    "potrebna suglasnost 15 suvlasnika za bilo koju akciju",
+    "zapušten vinograd - troškovi obnove neizvjesni",
+    "20% popust na prvoj dražbi nedovoljan za ovaj razinom rizika"
+  ],
+  "input_hash": "a43f0383206d",
+  "scored_at": "2026-04-27T08:26:56.068518"
+}

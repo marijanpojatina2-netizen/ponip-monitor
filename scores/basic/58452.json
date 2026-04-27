@@ -1,0 +1,16 @@
+{
+  "id": "58452",
+  "score_overall": 1.5,
+  "score_lokacija": 2.0,
+  "score_roi": 1.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Dvorište i voćnjak u Perencima, dio istog vlasničkog kompleksa (zk.ul. 1615) kao ID 58488 i 58478 - suvlasništvo 2/5 blokira upotrebu. Minimalna tržišna vrijednost i niska likvidnost regije.",
+  "flags": [
+    "suvlasništvo 2/5 - isti vlasniči sklop kao ID 58488/58478/58454",
+    "ruralno depopulacijsko područje",
+    "bez građevnog potencijala"
+  ],
+  "input_hash": "412689e503f6",
+  "scored_at": "2026-04-27T08:29:24.085429"
+}

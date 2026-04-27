@@ -1,0 +1,16 @@
+{
+  "id": "58474",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Samo 2/5 suvlasničkog dijela oranice u ruralnoj Slavoniji (Požeška kotlina) - regija s visokom depopulacijom i gotovo nepostojećom tržišnom likvidnošću; 20% popust na prvoj dražbi ne kompenzira strukturni rizik lokacije.",
+  "flags": [
+    "samo 2/5 suvlasničkog dijela - frakcioniran interes",
+    "ruralna Slavonija - depopulacijska zona",
+    "oranica bez razvojnog potencijala"
+  ],
+  "input_hash": "e5abb0db8b3b",
+  "scored_at": "2026-04-27T08:24:51.098042"
+}

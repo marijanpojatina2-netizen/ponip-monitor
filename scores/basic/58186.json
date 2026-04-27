@@ -1,0 +1,17 @@
+{
+  "id": "58186",
+  "score_overall": 4.5,
+  "score_lokacija": 6.5,
+  "score_roi": 5.5,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Jedina nekretnina u ovom setu smještena u Istri - Pazinska regija nosi istarski premijum i dugoročni potencijal, a 40% popust na drugoj dražbi otvara relativno dobar ulaz. Međutim, 212 m2 obraslo drvnom masom sjeverno od Seljaka vjerojatno nije gradivo, namjena je nejasna, a mala površina dramatično ograničava vrijednost čak i unutar Istre.",
+  "flags": [
+    "parcela obrasla drvnom masom - nejasna namjena i gradivost",
+    "samo 212 m2 - kritično mala površina",
+    "centralna Istra, nije obalna zona",
+    "nužna provjera prostornog plana za gradivost"
+  ],
+  "input_hash": "2f4e6355f94f",
+  "scored_at": "2026-04-27T08:26:56.068317"
+}

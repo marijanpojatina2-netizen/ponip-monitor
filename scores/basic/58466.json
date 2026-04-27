@@ -1,0 +1,17 @@
+{
+  "id": "58466",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Isti ovršenik s udjelom 2/5 i ista k.o. Perenci kao nekretnina 58458 - gotovo sigurno dio iste ovršne situacije, no ovdje samo oranica bez kuće što eliminira i tu minimalnu supstancu. Požega, 20% popust, prva dražba i suvlasnička ograničenja čine ovu nekretninu potpuno neinteresantnom za investitora.",
+  "flags": [
+    "suvlasnički udio 2/5 - ista strukturna situacija kao ID 58458",
+    "ista k.o. Perenci - vjerojatno vezana ovršna masa",
+    "Požega - depopulacijska zona",
+    "samo oranica bez ikakvog razvojnog potencijala"
+  ],
+  "input_hash": "aee65f1281ea",
+  "scored_at": "2026-04-27T08:26:56.068623"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "58458",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Suvlasnički udio 2/5 izuzetno ograničava raspolaganje i likvidnost - bez suglasnosti ostalih suvlasnika nema izlazne strategije; k.o. Perenci kod Požege depopulacijska je slavonska rurala s minimalnim tržišnim prometom. Popust od 20% na prvoj dražbi daleko je ispod praga koji bi kompenzirao strukturne i lokacijske rizike.",
+  "flags": [
+    "suvlasnički udio 2/5 - nemoguće samostalno raspolaganje",
+    "Požega / k.o. Perenci - depopulacijska zona Slavonije",
+    "loša likvidnost regionalnog tržišta nekretnina"
+  ],
+  "input_hash": "e0eba6649fb7",
+  "scored_at": "2026-04-27T08:26:56.067882"
+}

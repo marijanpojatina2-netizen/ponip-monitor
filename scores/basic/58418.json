@@ -1,0 +1,16 @@
+{
+  "id": "58418",
+  "score_overall": 3.0,
+  "score_lokacija": 3.0,
+  "score_roi": 3.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Obrađena oranica s livadom ukupno 3061 m2 u k.o. Sveti Petar funkcionalna je, ali udio 1/4 vlasništva ograničava autonomiju raspolaganja; 20% popust na prvoj dražbi nedovoljan je za ruralno varaždinsko poljoprivredno zemljište bez turističkih ili urbanizacijskih perspektiva. Likvidnost i razvojni potencijal minimalni.",
+  "flags": [
+    "1/4 dijela vlasništva - ograničena autonomija",
+    "poljoprivredno zemljište bez turističkog ili urbanog potencijala",
+    "prva dražba - slabiji popust"
+  ],
+  "input_hash": "a8ad931a1c1e",
+  "scored_at": "2026-04-27T08:26:56.068725"
+}
