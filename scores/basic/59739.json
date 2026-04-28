@@ -1,0 +1,17 @@
+{
+  "id": "59739",
+  "score_overall": 5.0,
+  "score_lokacija": 5.5,
+  "score_roi": 5.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Obiteljska kuća u Zagrebu (Kozari Bok) s 20% popustom na prvoj dražbi daje solidnu polaznu točku, ali kompleksna ZK struktura s dva suvlasnička tijela (IX-2 i IX-3, svaki 1/2) i minimalnim udjelom na čestici (50/2885,6) zahtijeva pravnu provjeru vlasničke strukture. Kozari Bok je prometno dostupna ali manje atraktivna istok-periferija Zagreba s umjerenom potražnjom.",
+  "flags": [
+    "kompleksna ZK struktura - dva suvlasnička tijela (IX-2 i IX-3)",
+    "minimalni zemljišni udio 50/2885,6 čestice - treba provjera suvlasnika",
+    "Kozari Bok - niža atraktivnost unutar Zagreba",
+    "potrebna pravna due diligence suvlasničkih odnosa"
+  ],
+  "input_hash": "5dba87668c17",
+  "scored_at": "2026-04-28T08:24:20.460497"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "59941",
+  "score_overall": 3.0,
+  "score_lokacija": 7.0,
+  "score_roi": 2.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Najmanji i najslabiji od tri predmeta - 3/12 pašnjaka od svega 374m2 na Rabu, bez ikakvih izgrađenih sadržaja i s istim problemom suvlasničke strukture. Uz popust od samo 20% na prvoj dražbi, investicijski potencijal je minimalan bez jasne strategije konsolidacije vlasništva.",
+  "flags": [
+    "suvlasnički udio 3/12 - najproblematičniji aspekt",
+    "neizgrađen pašnjak 374m2 - iznimno mala parcela",
+    "bez prihoda i bez razvojnog potencijala kao samostalna investicija",
+    "ista zk. ul. 8057 kao i ostala dva predmeta - moguće konsolidacijska prilika samo ako se kupe svi"
+  ],
+  "input_hash": "a8631a771c8f",
+  "scored_at": "2026-04-28T08:24:36.634502"
+}

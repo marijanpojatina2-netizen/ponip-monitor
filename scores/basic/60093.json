@@ -1,0 +1,18 @@
+{
+  "id": "60093",
+  "score_overall": 3.0,
+  "score_lokacija": 4.5,
+  "score_roi": 3.0,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Ilegalna gradnja potvrđena sudskim vještakom, uz fizičko zauzimanje 116 m2 susjedne čestice, stvara akutni pravni rizik rušenja ili prisilnog reguliranja koji eliminiira investicijsku vrijednost bez obzira na Osijek kao regionalnu lokaciju. Čak i s agresivnim popustom ova nekretnina zahtijeva pravni i građevinski trošak koji nije predvidiv.",
+  "flags": [
+    "nekretnina NIJE LEGALNA po nalazu sudskog vještaka",
+    "116 m2 objekta nalazi se na susjednoj čestici kč. 10691/3",
+    "rizik rušenja ili prisilnog reguliranja",
+    "potencijalni spor s vlasnikom susjednog zemljišta",
+    "četiri zgrade - potencijalno višestruki bespravni objekti"
+  ],
+  "input_hash": "2f6316fbc850",
+  "scored_at": "2026-04-28T08:24:20.460385"
+}

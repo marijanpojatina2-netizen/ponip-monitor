@@ -1,0 +1,17 @@
+{
+  "id": "59939",
+  "score_overall": 4.0,
+  "score_lokacija": 7.0,
+  "score_roi": 3.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Maslinik u Palitu na Rabu ima određenu romantičnu vrijednost, no 3/12 udjela u masliniku od 411m2 je operativno beskoristan - premala površina za profitabilnu maslinarsku proizvodnju i suvlasništvo komplicira svaki zahvat. Popust 20% ne kompenzira strukturne probleme suvlasničkog udjela.",
+  "flags": [
+    "suvlasnički udio 3/12 - otežana raspolaganje",
+    "maslinik zahtijeva suglasnost suvlasnika za bilo kakve radove",
+    "premala površina za ekonomski isplativu obradu",
+    "potencijalni problem ishođenja suglasnosti za prodaju ili gradnju"
+  ],
+  "input_hash": "c413edece210",
+  "scored_at": "2026-04-28T08:24:36.634389"
+}

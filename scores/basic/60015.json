@@ -1,0 +1,17 @@
+{
+  "id": "60015",
+  "score_overall": 5.0,
+  "score_lokacija": 5.5,
+  "score_roi": 5.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Jankomir je zapadno-industrijska periferija Zagreba s razvojnim potencijalom ako je moguća prenamjena, no 'Oranica' oznaka sugerira agrarnu namjenu koja drastično sužava investicijsku tezu. Visok ulazni kapital (2.26M EUR), samo 20% popust na prvoj dražbi i neizvjesnost zoninga čine ovaj slučaj spekulativnim bez prethodne provjere prostornog plana.",
+  "flags": [
+    "oranica - agrarna namjena ograničava razvoj",
+    "potrebna provjera prostornog plana i GUP-a",
+    "visoka jamčevina 283.000 EUR",
+    "bez izgrađenih objekata - golo zemljište"
+  ],
+  "input_hash": "175f5018f987",
+  "scored_at": "2026-04-28T08:24:20.459993"
+}
