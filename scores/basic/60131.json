@@ -1,0 +1,15 @@
+{
+  "id": "60131",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Selo Koritni u k.o. Brezje je duboko ruralno depopulacijsko područje s minimalnom tržišnom aktivnošću i praktički nultim kapitalnim potencijalom; 20% popust ne opravdava ulaz u ovaj segment čak ni za buy-and-hold strategiju. Izbjegavati.",
+  "flags": [
+    "ruralno/depopulacijsko selo – nema izlazne strategije",
+    "površina u čhv bez m2 pretvorbe – treba provjera stvarne veličine"
+  ],
+  "input_hash": "1806c204f49e",
+  "scored_at": "2026-04-29T08:14:32.181107"
+}

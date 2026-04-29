@@ -1,0 +1,17 @@
+{
+  "id": "59985",
+  "score_overall": 2.5,
+  "score_lokacija": 5.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Oranica u Gornjem Vrapču bez ikakve građevinske vrijednosti, a suvlasnički udio 13468/81144 (~16,6%) apsolutno je nesavladiva barijera za bilo kakvu upotrebu ili preprodaju. Poljoprivredno zemljište s malim idealnim dijelom u Zagrebu nema smislenu investicijsku primjenu.",
+  "flags": [
+    "suvlasnički udio ~16,6% (13468/81144)",
+    "oranica - isključivo poljoprivredna namjena",
+    "nema građevinske vrijednosti",
+    "izuzetno mala likvidnost za ovakav tip imovine"
+  ],
+  "input_hash": "db9737d2b352",
+  "scored_at": "2026-04-29T08:15:10.935944"
+}

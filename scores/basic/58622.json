@@ -1,0 +1,17 @@
+{
+  "id": "58622",
+  "score_overall": 3.5,
+  "score_lokacija": 5.5,
+  "score_roi": 4.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Neizgrađena parcela od 288 m2 nepravilnog izduženog oblika u Kostelju (Vinodolska općina) ima određeni turistički potencijal blizinom Kvarner rivijere, ali bez provjere UPU-a i građevinske mogućnosti parcela je čista špekulacija; 20% popust na 21k EUR ulaz ne opravdava zamrzavanje kapitala uz nepoznatu gradivost. Prelaziti.",
+  "flags": [
+    "neizgrađeno zemljište – nema prihoda",
+    "nepravilan izduženi oblik – ograničenja izgradnje",
+    "provjera UPU/DPU gradivosti obavezna",
+    "mali komad (288 m2) – ograničen razvoj"
+  ],
+  "input_hash": "083ec9ab319b",
+  "scored_at": "2026-04-29T08:14:32.181293"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "60130",
+  "score_overall": 3.5,
+  "score_lokacija": 3.0,
+  "score_roi": 3.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Ruralno područje k.o. Zabrđe (Vrbovec) bilježi visoku depopulaciju i izrazito nisku tržišnu potražnju; 20% popust nije dovoljna kompenzacija za slabu likvidnost, nepoznato stanje i odsustvo bilo kakvog turističkog ili gospodarskog potencijala. Kapitalni rast u ovoj zoni je zanemariv.",
+  "flags": [
+    "ruralno/depopulacijsko područje – niska likvidnost",
+    "nema opisa stanja objekta"
+  ],
+  "input_hash": "bc4c1d7ab7a6",
+  "scored_at": "2026-04-29T08:14:32.181015"
+}

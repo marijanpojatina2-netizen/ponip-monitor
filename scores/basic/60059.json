@@ -1,0 +1,15 @@
+{
+  "id": "60059",
+  "score_overall": 4.0,
+  "score_lokacija": 4.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Kancelarijski prostor od 22 m2 u Čakovcu je izrazito uska niša s ograničenom potražnjom najmodavaca i kupaca; poslovni prostori u manjim gradovima imaju lošiji ROI i složeniji upravljački model od stambenih nekretnina, a 25% popust ne mijenja fundamentalnu slabost lokacije. Čakovec nije dovoljno likvidno tržište za ovakav tip imovine.",
+  "flags": [
+    "poslovni prostor – složeniji najam, viši vacancy rizik",
+    "manji grad – niska likvidnost poslovnih nekretnina"
+  ],
+  "input_hash": "622792170cab",
+  "scored_at": "2026-04-29T08:14:32.181194"
+}

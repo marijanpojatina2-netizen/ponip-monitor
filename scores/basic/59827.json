@@ -1,0 +1,15 @@
+{
+  "id": "59827",
+  "score_overall": 5.5,
+  "score_lokacija": 8.0,
+  "score_roi": 6.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Rab kao turistički otok pruža izvrsnu lokacijsku premiju s jakim sezonskim najamom, ali formulacija 'neodređeni suvlasnički dio koji je jednak ostalim' upućuje na stariju ZK strukturu koja zahtijeva provjeru svih E-jedinica i odnosa prema zemljištu; 20% popust je skroman za pravni rizik ove razine. Preporuka: provjera ZK izvadka i lista etažnih vlasnika prije licitacije.",
+  "flags": [
+    "neoprijedjeljeni suvlasnički dio – nestandardna ZK formulacija, potrebna provjera",
+    "mali stan 46 m2 s 3 sobe – atipičan raspored, moguće nefunkcionalno"
+  ],
+  "input_hash": "11177f074c2e",
+  "scored_at": "2026-04-29T08:14:32.180872"
+}
