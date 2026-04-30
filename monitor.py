@@ -171,12 +171,69 @@ def prune_old_snapshots(keep_last: int = 14):
 
 
 def filter_active(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Aktivnih dražba = one kod kojih:
+      - nadmetanje još nije završilo (ili nema datuma završetka), I
+      - rok za uplatu jamčevine još nije prošao (ako je definiran).
+
+    Ako je rok jamčevine prošao, ne možeš više sudjelovati pa nema smisla
+    da se dražba prikazuje u listi.
+    """
     now = datetime.now()
-    mask = (
-        (df["Datum i vrijeme završetka nadmetanja"].isna())
+    today_start = now.replace(hour=0, minute=0, second=0, microsecond=0)
+    end_ok = (
+        df["Datum i vrijeme završetka nadmetanja"].isna()
         | (df["Datum i vrijeme završetka nadmetanja"] > now - timedelta(days=1))
     )
-    return df[mask].copy()
+    jamc_ok = (
+        df["Datum valute jamčevine"].isna()
+        | (df["Datum valute jamčevine"] >= today_start)
+    )
+    return df[end_ok & jamc_ok].copy()
+
+
+# --- FINA live data (broj sudionika, trenutna cijena) ---------------------
+
+FINA_TIJEK_URL = "https://ponip.fina.hr/ocevidnik-web/pregled/tijek"
+FINA_LISTING_URL = "https://ponip.fina.hr/ocevidnik-web/pregled/nadmetanja-u-tijeku"
+_TIJEK_RECORD_RE = re.compile(r'\{[^{}]*"idNdmt":(\d+)[^{}]*\}')
+
+
+def fetch_live_tijek_data() -> dict[str, dict]:
+    """
+    Skida live podatke s FINA-e za sva nadmetanja u tijeku.
+    Vraća dict {id: {'sudionici': N, 'trenutnaCijena': X, 'noBids': bool}}.
+    Endpoint vrati cijelu listu odjednom — jedan HTTP po run-u.
+    Ako padne (timeout, format change), vraća prazan dict — non-fatal.
+    """
+    try:
+        sess = requests.Session()
+        sess.headers.update({"User-Agent": "Mozilla/5.0 ponip-monitor"})
+        # 1. session cookie
+        sess.get(FINA_LISTING_URL, timeout=30)
+        # 2. tijek HTML s embedded JSON-om
+        r = sess.get(FINA_TIJEK_URL, timeout=60)
+        r.raise_for_status()
+        out: dict[str, dict] = {}
+        for m in _TIJEK_RECORD_RE.finditer(r.text):
+            blob = m.group(0)
+            try:
+                rec = json.loads(blob)
+            except json.JSONDecodeError:
+                continue
+            id_ = str(rec.get("idNdmt", ""))
+            if not id_:
+                continue
+            out[id_] = {
+                "sudionici": rec.get("brUplatitelja"),
+                "trenutnaCijena": rec.get("trenutnaCijena"),
+                "noBids": rec.get("noBids"),
+            }
+        log.info(f"FINA tijek: {len(out)} dražbi s live podacima")
+        return out
+    except Exception as e:
+        log.warning(f"Ne mogu skinuti FINA tijek podatke (sudionici): {e}")
+        return {}
 
 
 def to_record(row: pd.Series, new_ids: set, jamcevina_cutoff: datetime) -> dict:
@@ -220,6 +277,12 @@ def to_record(row: pd.Series, new_ids: set, jamcevina_cutoff: datetime) -> dict:
         "urgent": bool(urgent),
         "score": None,
         "detailed": None,
+        "sudionici": None,            # popunjava se iz fetch_live_tijek_data
+        "trenutnaCijena": None,       # iz iste live AJAX rute
+        "finaUrl": (
+            f"https://www.google.com/search?q=ponip.fina.hr+{id_}"
+            if id_ else None
+        ),
     }
 
 
@@ -510,6 +573,15 @@ def main():
     if skipped_no_id:
         log.warning(f"Preskačem {skipped_no_id} record-a bez ID-a (FINA CSV nema 'ID nadmetanja')")
         records = [r for r in records if r["id"]]
+
+    # Live podaci s FINA-e (broj sudionika + trenutna cijena)
+    live = fetch_live_tijek_data()
+    if live:
+        for r in records:
+            d = live.get(r["id"])
+            if d:
+                r["sudionici"] = d.get("sudionici")
+                r["trenutnaCijena"] = d.get("trenutnaCijena")
 
     # PRE-SCORING: napuni iz cache-a pa napiši dashboard odmah (safety-net
     # za slučaj da scoring padne na timeoutu — makar imamo svježi dashboard

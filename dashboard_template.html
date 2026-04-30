@@ -404,6 +404,8 @@ window.toggleRow = function (tr, id) {
             <div><span class="text-gray-500">Vrsta:</span> ${escapeHtml(r.vrsta)}</div>
             <div><span class="text-gray-500">Način prodaje:</span> ${escapeHtml(r.nacin)}</div>
             <div><span class="text-gray-500">Dražbeni korak:</span> ${fmtEUR(r.korak)}</div>
+            <div><span class="text-gray-500">Trenutačni broj sudionika:</span> <b>${r.sudionici != null ? r.sudionici : "—"}</b>${r.trenutnaCijena != null ? ` <span class="text-gray-500">(trenutna cijena: <b>${fmtEUR(r.trenutnaCijena)}</b>)</span>` : ""}</div>
+            <div><span class="text-gray-500">FINA stranica:</span> ${r.finaUrl ? `<a href="${r.finaUrl}" target="_blank" rel="noopener" class="text-indigo-600 hover:underline">otvori →</a>` : "—"}</div>
           </div>
         </div>
         <div>
