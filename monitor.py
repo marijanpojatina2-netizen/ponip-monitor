@@ -172,68 +172,86 @@ def prune_old_snapshots(keep_last: int = 14):
 
 def filter_active(df: pd.DataFrame) -> pd.DataFrame:
     """
-    Aktivnih dražba = one kod kojih:
-      - nadmetanje još nije završilo (ili nema datuma završetka), I
-      - rok za uplatu jamčevine još nije prošao (ako je definiran).
+    Aktivne dražbe = nadmetanje još nije završilo (ili nema datuma završetka).
 
-    Ako je rok jamčevine prošao, ne možeš više sudjelovati pa nema smisla
-    da se dražba prikazuje u listi.
+    Past-jamčevina dražbe ostaju vidljive (samo ih frontend može sakriti
+    pomoću `pastJamcevina` flag-a) — korisnik može htjeti pratiti sudionike
+    i trenutnu cijenu u tijeku, ali ne i u potpunosti zatvorene aukcije.
     """
     now = datetime.now()
-    today_start = now.replace(hour=0, minute=0, second=0, microsecond=0)
     end_ok = (
         df["Datum i vrijeme završetka nadmetanja"].isna()
         | (df["Datum i vrijeme završetka nadmetanja"] > now - timedelta(days=1))
     )
-    jamc_ok = (
-        df["Datum valute jamčevine"].isna()
-        | (df["Datum valute jamčevine"] >= today_start)
-    )
-    return df[end_ok & jamc_ok].copy()
+    return df[end_ok].copy()
 
 
-# --- FINA live data (broj sudionika, trenutna cijena) ---------------------
+# --- FINA live data (broj sudionika, trenutna cijena, UUID) --------------
 
 FINA_TIJEK_URL = "https://ponip.fina.hr/ocevidnik-web/pregled/tijek"
+FINA_NAJAVA_URL = "https://ponip.fina.hr/ocevidnik-web/pregled/najava"
 FINA_LISTING_URL = "https://ponip.fina.hr/ocevidnik-web/pregled/nadmetanja-u-tijeku"
-_TIJEK_RECORD_RE = re.compile(r'\{[^{}]*"idNdmt":(\d+)[^{}]*\}')
+FINA_DETAIL_URL_FMT = "https://ponip.fina.hr/ocevidnik-web/predmet_prodaje/{uuid}?src=2"
+_RECORD_RE = re.compile(r'\{[^{}]*"idNdmt":(\d+)[^{}]*\}')
+
+
+def _parse_fina_records(text: str) -> dict[str, dict]:
+    out: dict[str, dict] = {}
+    for m in _RECORD_RE.finditer(text):
+        blob = m.group(0)
+        try:
+            rec = json.loads(blob)
+        except json.JSONDecodeError:
+            continue
+        id_ = str(rec.get("idNdmt", ""))
+        if not id_:
+            continue
+        out[id_] = {
+            "sudionici": rec.get("brUplatitelja"),
+            "trenutnaCijena": rec.get("trenutnaCijena"),  # samo /tijek ima
+            "noBids": rec.get("noBids"),
+            "uuid": rec.get("uuid"),
+        }
+    return out
 
 
 def fetch_live_tijek_data() -> dict[str, dict]:
     """
-    Skida live podatke s FINA-e za sva nadmetanja u tijeku.
-    Vraća dict {id: {'sudionici': N, 'trenutnaCijena': X, 'noBids': bool}}.
-    Endpoint vrati cijelu listu odjednom — jedan HTTP po run-u.
-    Ako padne (timeout, format change), vraća prazan dict — non-fatal.
+    Skida live podatke s FINA-e: i nadmetanja u tijeku i ona u najavi.
+    Vraća dict {id: {'sudionici','trenutnaCijena','noBids','uuid'}}.
+    /pregled/tijek pokriva aktivno bidding (231 zapisa, ima trenutna cijena).
+    /pregled/najava pokriva upcoming (~624 zapisa, već imaju brUplatitelja
+    jer FINA ažurira kako tko uplati jamčevinu).
+    Non-fatal ako padne — vraća što ima.
     """
+    out: dict[str, dict] = {}
     try:
         sess = requests.Session()
         sess.headers.update({"User-Agent": "Mozilla/5.0 ponip-monitor"})
         # 1. session cookie
         sess.get(FINA_LISTING_URL, timeout=30)
-        # 2. tijek HTML s embedded JSON-om
-        r = sess.get(FINA_TIJEK_URL, timeout=60)
-        r.raise_for_status()
-        out: dict[str, dict] = {}
-        for m in _TIJEK_RECORD_RE.finditer(r.text):
-            blob = m.group(0)
-            try:
-                rec = json.loads(blob)
-            except json.JSONDecodeError:
-                continue
-            id_ = str(rec.get("idNdmt", ""))
-            if not id_:
-                continue
-            out[id_] = {
-                "sudionici": rec.get("brUplatitelja"),
-                "trenutnaCijena": rec.get("trenutnaCijena"),
-                "noBids": rec.get("noBids"),
-            }
-        log.info(f"FINA tijek: {len(out)} dražbi s live podacima")
+        # 2. tijek (in-progress)
+        try:
+            r = sess.get(FINA_TIJEK_URL, timeout=60)
+            r.raise_for_status()
+            out.update(_parse_fina_records(r.text))
+        except Exception as e:
+            log.warning(f"FINA /pregled/tijek failed: {e}")
+        # 3. najava (upcoming) — ovaj endpoint pokriva većinu naših drazbi
+        try:
+            r = sess.get(FINA_NAJAVA_URL, timeout=60)
+            r.raise_for_status()
+            for k, v in _parse_fina_records(r.text).items():
+                # Ako je već iz tijek-a, ne overwrite-aj (tijek ima trenutnaCijena)
+                if k not in out:
+                    out[k] = v
+        except Exception as e:
+            log.warning(f"FINA /pregled/najava failed: {e}")
+        log.info(f"FINA live: {len(out)} dražbi (tijek + najava)")
         return out
     except Exception as e:
-        log.warning(f"Ne mogu skinuti FINA tijek podatke (sudionici): {e}")
-        return {}
+        log.warning(f"Ne mogu skinuti FINA live podatke: {e}")
+        return out
 
 
 def to_record(row: pd.Series, new_ids: set, jamcevina_cutoff: datetime) -> dict:
@@ -253,6 +271,7 @@ def to_record(row: pd.Series, new_ids: set, jamcevina_cutoff: datetime) -> dict:
     rok = row.get("Datum valute jamčevine")
     now = datetime.now()
     urgent = pd.notna(rok) and now < rok.to_pydatetime() <= jamcevina_cutoff
+    past_jamcevina = pd.notna(rok) and rok.to_pydatetime() < now.replace(hour=0, minute=0, second=0, microsecond=0)
 
     return {
         "id": id_,
@@ -275,14 +294,13 @@ def to_record(row: pd.Series, new_ids: set, jamcevina_cutoff: datetime) -> dict:
         "razgledavanje": txt(row.get("Razgledavanje", ""), limit=300),
         "nova": id_ in new_ids,
         "urgent": bool(urgent),
+        "pastJamcevina": bool(past_jamcevina),
         "score": None,
         "detailed": None,
         "sudionici": None,            # popunjava se iz fetch_live_tijek_data
         "trenutnaCijena": None,       # iz iste live AJAX rute
-        "finaUrl": (
-            f"https://www.google.com/search?q=ponip.fina.hr+{id_}"
-            if id_ else None
-        ),
+        "uuid": None,                 # popunjava se iz live podataka (za FINA URL)
+        "finaUrl": None,              # postaviti ćemo nakon merge-a (UUID > Google fallback)
     }
 
 
@@ -574,14 +592,23 @@ def main():
         log.warning(f"Preskačem {skipped_no_id} record-a bez ID-a (FINA CSV nema 'ID nadmetanja')")
         records = [r for r in records if r["id"]]
 
-    # Live podaci s FINA-e (broj sudionika + trenutna cijena)
+    # Live podaci s FINA-e (broj sudionika + trenutna cijena + UUID)
     live = fetch_live_tijek_data()
+    matched = 0
+    for r in records:
+        d = live.get(r["id"]) if live else None
+        if d:
+            r["sudionici"] = d.get("sudionici")
+            r["trenutnaCijena"] = d.get("trenutnaCijena")
+            r["uuid"] = d.get("uuid")
+            matched += 1
+        # FINA detail URL ako imamo UUID, inače Google search fallback
+        if r["uuid"]:
+            r["finaUrl"] = FINA_DETAIL_URL_FMT.format(uuid=r["uuid"])
+        elif r["id"]:
+            r["finaUrl"] = f"https://www.google.com/search?q=ponip.fina.hr+{r['id']}"
     if live:
-        for r in records:
-            d = live.get(r["id"])
-            if d:
-                r["sudionici"] = d.get("sudionici")
-                r["trenutnaCijena"] = d.get("trenutnaCijena")
+        log.info(f"FINA live merge: {matched}/{len(records)} record-a uparili s live podacima")
 
     # PRE-SCORING: napuni iz cache-a pa napiši dashboard odmah (safety-net
     # za slučaj da scoring padne na timeoutu — makar imamo svježi dashboard

@@ -21,6 +21,7 @@
   .badge-cetvrta { background: #fecaca; color: #7f1d1d; }
   .badge-new { background: #d1fae5; color: #064e3b; }
   .badge-urgent { background: #fee2e2; color: #7f1d1d; }
+  .badge-past-jamc { background: #e5e7eb; color: #4b5563; }
   .score-hi { background: #d1fae5; color: #064e3b; }
   .score-md { background: #fef3c7; color: #78350f; }
   .score-lo { background: #fee2e2; color: #7f1d1d; }
@@ -150,6 +151,10 @@
           <input type="checkbox" id="onlyDetailed" class="rounded border-gray-300">
           <span>Samo s detaljnom analizom</span>
         </label>
+        <label class="inline-flex items-center gap-2">
+          <input type="checkbox" id="hidePastJamc" class="rounded border-gray-300" checked>
+          <span title="Skriva dražbe gdje je rok za uplatu jamčevine prošao — već se ne možeš prijaviti, ali možeš pratiti tijek">Sakrij dražbe gdje je rok jamčevine prošao</span>
+        </label>
       </div>
 
       <div class="flex gap-2 flex-wrap pt-2 border-t border-gray-100">
@@ -206,7 +211,7 @@ const META = PAYLOAD.meta || {};
 const state = {
   search: "", zupanija: "", vrsta: "", round: "all", rec: "all",
   minPrice: null, maxPrice: null, minScore: null,
-  onlyNew: false, onlyUrgent: false, onlyDetailed: false,
+  onlyNew: false, onlyUrgent: false, onlyDetailed: false, hidePastJamc: true,
   sortKey: "pocetna", sortDir: -1,
 };
 
@@ -253,6 +258,7 @@ function applyFilters() {
     if (state.onlyNew && !r.nova) return false;
     if (state.onlyUrgent && !r.urgent) return false;
     if (state.onlyDetailed && !r.hasDetailed) return false;
+    if (state.hidePastJamc && r.pastJamcevina) return false;
     return true;
   });
   f.sort((a, b) => {
@@ -290,6 +296,7 @@ function render() {
     const rundaBadge = r.runda ? `<span class="inline-block px-2 py-0.5 text-[10px] font-semibold rounded-full uppercase ${badgeClass(r.runda)}">${r.runda}</span>` : "";
     const newBadge = r.nova ? `<span class="inline-block px-1.5 py-0.5 text-[10px] font-semibold rounded-full badge-new ml-1">novo</span>` : "";
     const urgentBadge = r.urgent ? `<span class="inline-block px-1.5 py-0.5 text-[10px] font-semibold rounded-full badge-urgent ml-1">hitno</span>` : "";
+    const pastJamcBadge = r.pastJamcevina ? `<span class="inline-block px-1.5 py-0.5 text-[10px] font-semibold rounded-full badge-past-jamc ml-1" title="Rok jamčevine prošao — možeš samo pratiti tijek aukcije">samo praćenje</span>` : "";
     const detailedBadge = r.hasDetailed ? `<span class="detailed-badge ml-1">PRO</span>` : "";
     const scoreBadge = r.scoreValue != null
       ? `<div><span class="inline-block px-2 py-0.5 text-xs font-bold rounded ${scoreClass(r.scoreValue)}">${r.scoreValue.toFixed(1)}</span></div>
@@ -301,7 +308,7 @@ function render() {
 
     return `
       <tr class="border-t border-gray-100 hover:bg-gray-50 cursor-pointer" onclick="toggleRow(this, '${r.id}')">
-        <td class="px-3 py-3 align-top">${rundaBadge}${newBadge}${urgentBadge}${detailedBadge}</td>
+        <td class="px-3 py-3 align-top">${rundaBadge}${newBadge}${urgentBadge}${pastJamcBadge}${detailedBadge}</td>
         <td class="px-3 py-3 align-top">${scoreBadge}</td>
         <td class="px-3 py-3 align-top">
           <div class="font-medium">${escapeHtml(r.zupanija)}</div>
@@ -461,7 +468,7 @@ function renderPresets() {
 }
 
 function applyPreset(filters) {
-  Object.assign(state, { search: "", zupanija: "", vrsta: "", round: "all", rec: "all", minPrice: null, maxPrice: null, minScore: null, onlyNew: false, onlyUrgent: false, onlyDetailed: false });
+  Object.assign(state, { search: "", zupanija: "", vrsta: "", round: "all", rec: "all", minPrice: null, maxPrice: null, minScore: null, onlyNew: false, onlyUrgent: false, onlyDetailed: false, hidePastJamc: true });
   Object.assign(state, filters);
   syncInputs(); render();
 }
@@ -476,6 +483,7 @@ function syncInputs() {
   document.getElementById("onlyNew").checked = state.onlyNew;
   document.getElementById("onlyUrgent").checked = state.onlyUrgent;
   document.getElementById("onlyDetailed").checked = state.onlyDetailed;
+  document.getElementById("hidePastJamc").checked = state.hidePastJamc;
   document.querySelectorAll("#roundChips .chip").forEach(b => b.classList.toggle("active", b.dataset.round === state.round));
   document.querySelectorAll("#recChips .chip").forEach(b => b.classList.toggle("active", b.dataset.rec === state.rec));
 }
@@ -490,6 +498,7 @@ document.getElementById("minScore").addEventListener("input", e => { state.minSc
 document.getElementById("onlyNew").addEventListener("change", e => { state.onlyNew = e.target.checked; render(); });
 document.getElementById("onlyUrgent").addEventListener("change", e => { state.onlyUrgent = e.target.checked; render(); });
 document.getElementById("onlyDetailed").addEventListener("change", e => { state.onlyDetailed = e.target.checked; render(); });
+document.getElementById("hidePastJamc").addEventListener("change", e => { state.hidePastJamc = e.target.checked; render(); });
 
 document.querySelectorAll("#roundChips .chip").forEach(btn => btn.addEventListener("click", () => {
   document.querySelectorAll("#roundChips .chip").forEach(b => b.classList.remove("active"));
