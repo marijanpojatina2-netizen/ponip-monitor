@@ -1,0 +1,16 @@
+{
+  "id": "58419",
+  "score_overall": 2.0,
+  "score_lokacija": 2.5,
+  "score_roi": 2.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Obrađena oranica u Hrastovcu je funkcionalna, ali 1/4 suvlasničkog udjela s početnom cijenom 232 EUR nema investicijsku logiku – transakcijski troškovi i pravna kompleksnost daleko premašuju potencijalnu korist. Lokacija bez turističkog ili razvijenog tržišta nekretnina.",
+  "flags": [
+    "suvlasništvo – 1/4 dijela",
+    "isključivo poljoprivredno zemljište",
+    "zanemariva apsolutna vrijednost (~232 EUR)"
+  ],
+  "input_hash": "d1760fbd1ace",
+  "scored_at": "2026-04-30T08:19:30.477903"
+}

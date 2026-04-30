@@ -1,0 +1,16 @@
+{
+  "id": "58435",
+  "score_overall": 2.0,
+  "score_lokacija": 2.5,
+  "score_roi": 2.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Livada i oranica u Žernjaku ukupne početne cijene 300 EUR u 1/4 dijela – zanemariva investicijska vrijednost i bez ikakvog razvojnog potencijala. Transakcijski troškovi (jamčevina, javnobilježničke pristojbe, upis) vjerojatno premašuju potencijalnu korist.",
+  "flags": [
+    "suvlasništvo – 1/4 dijela",
+    "isključivo poljoprivredno zemljište",
+    "zanemariva investicijska vrijednost (~300 EUR početna cijena)"
+  ],
+  "input_hash": "33e23d75f222",
+  "scored_at": "2026-04-30T08:19:30.477724"
+}

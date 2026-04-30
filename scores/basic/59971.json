@@ -1,0 +1,16 @@
+{
+  "id": "59971",
+  "score_overall": 3.0,
+  "score_lokacija": 3.5,
+  "score_roi": 4.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Popovača je manja kontinentalna lokacija bez turistskog potencijala i s ograničenom tržišnom likvidnošću nekretnina, a 20% popust na prvoj dražbi ne kompenzira investicijski rizik. Kombinacija oranice i kuće u ovoj regiji nema jasnog kratkoročnog ni dugoročnog ROI scenarija.",
+  "flags": [
+    "inland lokacija niske likvidnosti",
+    "mješovita namjena parcela (oranica + stambeno)",
+    "prva dražba bez tržišne verifikacije"
+  ],
+  "input_hash": "4ed8b225fb21",
+  "scored_at": "2026-04-30T08:18:34.304167"
+}

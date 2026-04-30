@@ -1,0 +1,15 @@
+{
+  "id": "59323",
+  "score_overall": 3.5,
+  "score_lokacija": 4.5,
+  "score_roi": 4.0,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Čakovec nije turistička ni visoko likvidna tržišna lokacija, a 20% popust na prvoj dražbi ne nudi dovoljnu sigurnosnu marginu za investicijsku logiku. Nekretnina je mješovitog karaktera (pašnjak + stambeno) bez jasnog investicijskog narativa.",
+  "flags": [
+    "pašnjak kao primarna katastar. oznaka – ograničenja korištenja",
+    "prva dražba – nije testirano tržištem"
+  ],
+  "input_hash": "a06fae39cba1",
+  "scored_at": "2026-04-30T08:18:34.303959"
+}

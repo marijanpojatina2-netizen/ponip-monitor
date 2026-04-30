@@ -1,0 +1,17 @@
+{
+  "id": "58425",
+  "score_overall": 1.0,
+  "score_lokacija": 2.0,
+  "score_roi": 1.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Mikroudjel od 1/32 oranice u Falinovcu s početnom cijenom 28,68 EUR – apsolutno najmanji investicijski predmet bez ikakve smislene primjene; samo jamčevina (4,78 EUR) i naknade za upis višestruko bi premašile vrijednost. Nulti investicijski potencijal.",
+  "flags": [
+    "mikroudjel – 1/32 dijela",
+    "apsolutna vrijednost 29 EUR",
+    "nulti investicijski potencijal",
+    "transakcijski troškovi > vrijednost predmeta"
+  ],
+  "input_hash": "fbd4cc957916",
+  "scored_at": "2026-04-30T08:19:30.477989"
+}

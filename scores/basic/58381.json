@@ -1,0 +1,16 @@
+{
+  "id": "58381",
+  "score_overall": 5.0,
+  "score_lokacija": 6.0,
+  "score_roi": 6.0,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Zagreb periferija (Klara/Novi Zagreb) uz 40% popust na drugoj dražbi je intrigantan, ali 1/2 suvlasničkog udjela radikalno komplicira upravljanje, najam i preprodaju nekretnine – potrebna je suglasnost drugog suvlasnika za gotovo svaku radnju. Vrijedi pratiti i analizirati tko je drugi suvlasnik i je li moguć dogovor o otkupu ili podjeli.",
+  "flags": [
+    "samo 1/2 suvlasničkog udjela – ograničena autonomija upravljanja",
+    "nepoznata situacija s drugim suvlasnikom",
+    "nepoznato fizičko stanje kuće"
+  ],
+  "input_hash": "8e93607c04b0",
+  "scored_at": "2026-04-30T08:18:34.304257"
+}

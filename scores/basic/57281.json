@@ -1,0 +1,17 @@
+{
+  "id": "57281",
+  "score_overall": 6.0,
+  "score_lokacija": 5.5,
+  "score_roi": 8.0,
+  "score_stanje": 4.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Kompleks nekretnina uz Sesvete (Zagreb) s 50% popustom na drugoj dražbi iznimno je atraktivan za investitora s kapitalom – potencijal za preprodaju ili razvoj na lokaciji blizu Zagreba je realan. Stečajni postupak i velik broj čestica zahtijevaju duboku pravnu i fizičku due diligence, no ulazna cijena od ~1.29M EUR daje ogroman prostor za marže.",
+  "flags": [
+    "stečaj – kompleksnija pravna situacija",
+    "visoka jamčevina 257k EUR – ograničen krug kupaca",
+    "mješoviti portfelj parcela – teže izlazno tržište",
+    "nepoznato stanje kuće i gospodarskih zgrada"
+  ],
+  "input_hash": "969baa22ce4d",
+  "scored_at": "2026-04-30T08:18:34.303705"
+}

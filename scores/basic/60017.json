@@ -1,0 +1,17 @@
+{
+  "id": "60017",
+  "score_overall": 5.5,
+  "score_lokacija": 6.5,
+  "score_roi": 5.5,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Prizemni stan u Šibeniku (Kornatska ul.) u upotrebljivom stanju na atraktivnoj dalmatinskoj lokaciji, ali samo 20% popust na prvoj dražbi ne čini investicijski ulaz uvjerljivim. Fraza 'koristi se' indicira da netko boravi ili ga koristi, što može otežati preuzimanje posjeda.",
+  "flags": [
+    "'stan je uporabljiv i koristi se' – potencijalno zauzet/u najmu",
+    "suvlasnički udio 58/159 – nije 1/1 vlasništvo",
+    "prizemlje – niža vrijednost u slučaju preprodaje",
+    "prva dražba – pričekati redukciju"
+  ],
+  "input_hash": "62671bc85af0",
+  "scored_at": "2026-04-30T08:18:34.304068"
+}

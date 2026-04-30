@@ -1,0 +1,17 @@
+{
+  "id": "60055",
+  "score_overall": 5.5,
+  "score_lokacija": 7.5,
+  "score_roi": 5.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Tisno/Murter je odlična turistička lokacija s jakim sezonskim potencijalom, no prodaje se samo 1/2 dijela kuće od svega 41 m2 ukupne površine – efektivno ~20 m2, s nepraktičnim tlocrtom (zasebne prostorije spojene stubištem). Uz samo 20% popust na prvoj dražbi, rizik co-ownership strukture i minimalna korisna površina čine ovaj ulog špekulativnim bez prethodnog dogovora s drugim suvlasnikom.",
+  "flags": [
+    "1/2 dijela vlasništva – bez suglasnosti suvlasnika ograničeno korištenje",
+    "efektivno ~20 m2 – ispod minimuma za turistički najam",
+    "neuobičajeni tlocrt (odvojene prostorije)",
+    "prva dražba – bez tržišne redukcije"
+  ],
+  "input_hash": "92dcbee1af25",
+  "scored_at": "2026-04-30T08:18:34.304376"
+}

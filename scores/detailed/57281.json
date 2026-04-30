@@ -1,0 +1,61 @@
+{
+  "id": "57281",
+  "score_overall": 5.0,
+  "score_lokacija": 4.5,
+  "score_roi": 7.0,
+  "score_stanje": 3.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Kompleks parcela u k.o. Lužan (okolica Sesveta, ~15 km od centra Zagreba) donosi 50%-tni popust na drugoj dražbi što je formalno atraktivno, ali apraised value od 2,57M EUR za pretežno kmetijsko zemljište + stariju farmu ostaje upitan bez potvrde zonacije. Procijenjenih 151 EUR/m² prosječne apraised vrijednosti sugerira da dio parcela ima građevinsku namjenu (GUP) — no to se ne može potvrditi iz opisa. Opis je prekinut s '...', pa ukupna površina, broj čestica i prava trećih ostaju nepoznanica. Na razini startne cijene od 1,29M EUR deal je realan samo ako due diligence potvrdi građevinski potencijal.",
+  "flags": [
+    "opis prekinut s '...' — nepoznata ukupna površina, broj čestica i eventualne tercijarije",
+    "stečajna masa — moguće prioritetne hipoteke i tražbine koje konzumiraju dio vrijednosti",
+    "močvarne čestice (čkbr. 891, 890/4) — ekološke i zakonske restrikcije na gradnju i prenamjenu",
+    "mješoviti portfelj (oranica + livada + močvara) — velik dio niske tržišne vrijednosti",
+    "visoka jamčevina 257.340 EUR — blokira likvidnost, ograničava krug kupaca",
+    "razgledavanje isključivo po dogovoru — otežan fizički pregled stanja objekta"
+  ],
+  "market_estimate": {
+    "eur_min": 650000,
+    "eur_max": 1500000,
+    "confidence": "low",
+    "basis": "Kmetijsko zemljište u sesvetskoj zoni: 5–25 EUR/m². Građevinsko zemljište u Sesvetama: 80–200 EUR/m². Stara obiteljska kuća s velikom okućnicom (5562 m²): 200–450K EUR. Ako je ~50% portfelja kmetijsko i ~50% građevinsko, ukupna tržišna vrijednost iznosi 700K–1,5M EUR. Raspon je širok zbog nepotpunog opisa i nepoznate zonacije; web pretraga nije bila dostupna za provjeru usporedivih transakcija."
+  },
+  "comparables": [
+    {
+      "opis": "Web pretraga nije bila dostupna — komparabilne aktivne ponude nisu potvrđene u realnom vremenu",
+      "cijena": null,
+      "m2": null,
+      "izvor": "N/A",
+      "url": "N/A"
+    },
+    {
+      "opis": "Tipična obiteljska kuća s velikom okućnicom (1000–3000 m²) u okolici Sesveta — procjena temeljena na poznavanju tržišta",
+      "cijena": 280000,
+      "m2": 150,
+      "izvor": "tržišna procjena",
+      "url": "https://www.njuskalo.hr/prodaja-kuca/sesvete"
+    },
+    {
+      "opis": "Građevinsko zemljište Sesvete/Dubrava — okvirna tržišna razina",
+      "cijena": 160000,
+      "m2": 1000,
+      "izvor": "tržišna procjena",
+      "url": "https://www.nekretnine.net/prodaja-zemljista/zagreb/sesvete"
+    }
+  ],
+  "investment_strategy": "Land banking + opcijski razvoj: primarni scenarij je provjera GUP-a Grada Zagreba za k.o. Lužan — ako su čestice u ili blizu zone mješovite namjene ili se očekuje proširenje, dugoročno držanje (3–7 god.) uz lobiranje za prenamjenu može biti profitabilno. Sekundarni scenarij: renovacija farmhouse objekta (1546 čhv ≈ 5562 m² parcela) za premium ruralno-suburbano iznajmljivanje ili reno-flip za segment koji traži veliku parcelu blizu Zagreba. Kmetijske čestice (oranica) mogu se privremeno zakupiti lokalnim farmerima (~500–1000 EUR/ha/god.) za minimalni cash flow.",
+  "entry_price_eur": 1286700,
+  "detailed_risks": [
+    "Appraised value od 2,57M EUR potencijalno precijenjen — bez potvrđene građevinske namjene tržišna vrijednost može biti 40–70% niža od procjene",
+    "Opis prekinut s '...' — moguće dodatne hipoteke, sporovi vlasništva ili opterećenja na nelistiranim česticama",
+    "Močvarne parcele imaju ekološke i zakonske restrikcije (Zakon o vodama, zaštita vlažnih staništa) — prenamjena nemoguća bez složenih dozvola",
+    "Stečajni postupak: prioritetni vjerovnici (fiducijari, banke, država) mogu konzumirati dio prihoda od prodaje",
+    "Visoka jamčevina (257K EUR) blokira kapital na neodređeno ako se ne pobijedi na dražbi",
+    "Exit strategija ograničena — Sesvete/Lužan zona nema turističku tražnju, a domaće tržište za ovakve komplekse je usko",
+    "Dugoročna nelikvidnost: bez brze preprodaje, kapital je vezan minimalno 3–5 godina"
+  ],
+  "upside_scenario": "GUP provjera potvrdi da su klučne čestice u k.o. Lužan označene za mješovitu ili stambenu namjenu. Investitor ulazi na 1,29M EUR, ishoduje lokacijsku dozvolu u 12–18 mj., subdivizira i prodaje parcele po 150–200 EUR/m² (8–12 parcela od 500–1000 m²). Ukupni prihod od prodaje: 1,8–2,5M EUR. Neto dobit (bez troškova izgradnje infrastrukture, poreza, agenata): 300–700K EUR u roku od 3 godina.",
+  "downside_scenario": "Sve čestice ostaju u kmetijskoj zoni bez perspektive prenamjene. Tržišna vrijednost pada na 400–650K EUR (kmetijsko zemljište + stara farma). Investitor koji je ušao na 1,29M EUR bilježi gubitak od 640–890K EUR. Stečajni postupak producira pravne troškove i blokade. Difficult exit — prodaja traje 2–4 godine, a konačna realizacija ispod uloženog.",
+  "input_hash": "969baa22ce4d",
+  "scored_at": "2026-04-30T08:22:53.844329"
+}

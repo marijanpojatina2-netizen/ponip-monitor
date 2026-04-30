@@ -1,0 +1,16 @@
+{
+  "id": "60007",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 3.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Podravska Slatina spada u depopulacijsku zonu Slavonije s vrlo niskom tržišnom likvidnošću i bez ikakvog turističkog ili razvojnog potencijala koji bi opravdao čak i nisku ulaznu cijenu od ~33k EUR. 20% popust na prvoj dražbi nije dovoljan za kompenzaciju regionalne slabosti.",
+  "flags": [
+    "depopulacijska zona – teška preprodaja",
+    "niska tržišna likvidnost regije",
+    "prva dražba"
+  ],
+  "input_hash": "fa1dd3fea952",
+  "scored_at": "2026-04-30T08:18:34.304475"
+}

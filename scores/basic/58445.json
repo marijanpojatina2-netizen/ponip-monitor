@@ -1,0 +1,17 @@
+{
+  "id": "58445",
+  "score_overall": 1.5,
+  "score_lokacija": 3.0,
+  "score_roi": 1.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Mikroudjel od 1/16 zapuštenog vinograda s klijetom u Radovanici – apsolutna vrijednost svega 243 EUR i praktički nemoguće samostalno koristiti ili prodati bez suglasnosti 15 ostalih suvlasnika. Zapuštenost i stanje armaturnih stupova dodatan su trošak.",
+  "flags": [
+    "mikroudjel – 1/16 dijela",
+    "zapušteni vinograd",
+    "nemoguće samostalno koristiti bez ostalih suvlasnika",
+    "trošak sanacije premašuje vrijednost"
+  ],
+  "input_hash": "2d465c6a70f9",
+  "scored_at": "2026-04-30T08:19:30.477818"
+}
