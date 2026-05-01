@@ -1,0 +1,15 @@
+{
+  "id": "60178",
+  "score_overall": 5.5,
+  "score_lokacija": 6.5,
+  "score_roi": 5.0,
+  "score_stanje": 6.0,
+  "recommendation": "watch",
+  "reasoning": "Standardni zagreb stan na Aveniji Marina Držića je solidan ali ne uzbuđuje - lokacija je funkcionalna urbana zona bez premium faktora, a 20% popust na prvoj dražbi u segmentu od ~1.660 EUR/m² ne pruža dovoljnu sigurnosnu marginu za aktivnu kupnju.",
+  "flags": [
+    "suvlasnički udio s neodređenim omjerom - potrebna provjera ZK stanja",
+    "IV. kat bez informacije o liftu"
+  ],
+  "input_hash": "43c6f87c6967",
+  "scored_at": "2026-05-01T08:10:04.279093"
+}

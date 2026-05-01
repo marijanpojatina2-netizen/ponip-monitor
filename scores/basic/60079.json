@@ -1,0 +1,17 @@
+{
+  "id": "60079",
+  "score_overall": 2.0,
+  "score_lokacija": 1.5,
+  "score_roi": 2.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Podravska Slatina jedno je od najslabijih tržišta nekretnina u Hrvatskoj s izraženom depopulacijom i gotovo nultom likvidnošću, a kupnja samo ½ suvlasničkog dijela za 11.360 EUR donosi kompleksne pravne odnose i praktičnu nemogućnost normalnog upravljanja nekretninom.",
+  "flags": [
+    "suvlasništvo samo ½ dijela - suvlasnik nije ovrhovoditelj",
+    "Podravska Slatina - depopulacijsko područje Slavonije",
+    "izrazito niska tržišna likvidnost",
+    "nedovoljan opis stanja objekta"
+  ],
+  "input_hash": "7bdfdfafda77",
+  "scored_at": "2026-05-01T08:10:04.279341"
+}

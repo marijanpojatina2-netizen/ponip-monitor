@@ -1,0 +1,16 @@
+{
+  "id": "59977",
+  "score_overall": 6.0,
+  "score_lokacija": 7.5,
+  "score_roi": 6.0,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Petrova ulica u središnjem Zagrebu odlična je adresa s visokom likvidnošću i potražnjom, a cijena od ~1.505 EUR/m² relativno je povoljna za tu lokaciju, no prizemlje i svega 46 m² značajno umanjuju atraktivnost i vrijednost pri preprodaji.",
+  "flags": [
+    "prizemlje - manja tražnost, sigurnosni i privatnostni rizici",
+    "suvlasnički udio s neodređenim omjerom",
+    "vrlo mali stambeni prostor (46.25 m²)"
+  ],
+  "input_hash": "db4fbe1323bc",
+  "scored_at": "2026-05-01T08:10:04.279224"
+}

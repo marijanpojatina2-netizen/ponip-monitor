@@ -1,0 +1,16 @@
+{
+  "id": "59951",
+  "score_overall": 5.5,
+  "score_lokacija": 7.0,
+  "score_roi": 5.5,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Atraktivna stara jezgra Vodnjana u Istri s dobrim turističkim potencijalom za B&B ili kratkoročni najam, ali 100-godišnja gradnja s drvenim međukatnim konstrukcijama zahtijeva temeljitu i skupu obnovu koja može pojesti maržu od svega 20% popusta na prvoj dražbi.",
+  "flags": [
+    "stara gradnja 100+ godina s drvenom međukatnom i krovnom konstrukcijom",
+    "moguća zaštita kulturne baštine u staroj jezgri - ograničenja rekonstrukcije",
+    "popust premalen za kompenzaciju troškova obnove na prvoj dražbi"
+  ],
+  "input_hash": "3a9bc28ce086",
+  "scored_at": "2026-05-01T08:10:04.278802"
+}
