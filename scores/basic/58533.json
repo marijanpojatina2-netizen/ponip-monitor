@@ -1,0 +1,16 @@
+{
+  "id": "58533",
+  "score_overall": 4.0,
+  "score_lokacija": 4.0,
+  "score_roi": 5.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Treći pašnjak u nizu iz iste k.o. Strmec - identični problemi suvlasništva i niske likvidnosti pašnjaka u Zagorju; 40% popust na drugoj dražbi ne nadoknađuje fundamentalne nedostatke investicijskog slučaja.",
+  "flags": [
+    "suvlasništvo 1/2 - kupuje se samo udio",
+    "pašnjak - niska likvidnost",
+    "ista k.o. kao ID 58517 i 58527 - potencijalne kumulativne vlasničke komplikacije"
+  ],
+  "input_hash": "06b0ed244d34",
+  "scored_at": "2026-05-05T08:14:54.822000"
+}

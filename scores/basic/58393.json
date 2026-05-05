@@ -1,0 +1,17 @@
+{
+  "id": "58393",
+  "score_overall": 3.5,
+  "score_lokacija": 5.5,
+  "score_roi": 3.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Opis je kritično odsječen - vidljivo je samo parkiralište P5 (3.21 m2) i spremište SP5 (3.24 m2) uz suvlasništvo 1/2 u Sesvetama, što za procijenjenih 78.000 EUR ne odgovara tržišno; potreban uvid u kompletan ZK izvadak prije bilo kakvog razmatranja.",
+  "flags": [
+    "opis nepotpun/odsječen - nepoznato što se zapravo prodaje",
+    "vidljivo samo parkiralište (3.21 m2) + spremište (3.24 m2) - bez stambene jedinice u opisu",
+    "suvlasništvo 1/2",
+    "vrijednost 78.000 EUR ne odgovara vidljivom predmetu - sumnjiva procjena"
+  ],
+  "input_hash": "526b4c67f43d",
+  "scored_at": "2026-05-05T08:10:25.922843"
+}

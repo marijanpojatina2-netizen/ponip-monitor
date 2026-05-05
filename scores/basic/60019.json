@@ -1,0 +1,16 @@
+{
+  "id": "60019",
+  "score_overall": 4.5,
+  "score_lokacija": 5.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Stan 84 m2 u prizemlju u Šibeniku s 20% popustom na prvoj dražbi je prosječna ponuda u turistički relevantnoj regiji, no 'suvlasnički dio s neodređenim omjerom' je ozbiljan pravni rizik koji može kompromitirati upis vlasništva i rentanje. Prizemlje dodatno umanjuje potencijal turističkog kratkoročnog najma.",
+  "flags": [
+    "suvlasnički dio s neodređenim omjerom - ozbiljna pravna neizvjesnost",
+    "prizemlje - niži potencijal turističkog najma",
+    "prva dražba"
+  ],
+  "input_hash": "8e6aead1f7bc",
+  "scored_at": "2026-05-05T08:08:20.081022"
+}

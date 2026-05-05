@@ -1,0 +1,16 @@
+{
+  "id": "57843",
+  "score_overall": 4.5,
+  "score_lokacija": 4.5,
+  "score_roi": 5.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Koprivnica je stabilan manji grad s industrijskom bazom, a 40% popust na drugoj dražbi uz prisutnost kuće i zgrada (378 m2) čini ovu nekretninu zanimljivijom od ostalih u seriji; međutim, suvlasništvo 1/2 na stambenoj nekretnini je ozbiljna pravna prepreka koja blokira korištenje bez suglasnosti drugog vlasnika.",
+  "flags": [
+    "suvlasništvo 1/2 na kući i zgradama - pravna blokada bez suglasnosti",
+    "nepoznato stanje objekta",
+    "udio u stambenom objektu teže unovčiti bez suradnje suvlasnika"
+  ],
+  "input_hash": "f6233f078ca9",
+  "scored_at": "2026-05-05T08:14:54.821798"
+}

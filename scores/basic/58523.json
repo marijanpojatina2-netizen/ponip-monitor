@@ -1,0 +1,16 @@
+{
+  "id": "58523",
+  "score_overall": 3.5,
+  "score_lokacija": 4.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Pašnjak bez ikakvih objekata uz suvlasništvo 1/2 u Zagorju - čak i uz 40% popust na drugoj dražbi, ko-vlasništvo blokira slobodnu raspolagbu i ograničava svaki razvoj ili prodaju.",
+  "flags": [
+    "suvlasništvo 1/2 - potreban dogovor s ko-vlasnikom za svaku transakciju",
+    "samo pašnjak - bez objekata",
+    "ograničena mogućnost prenamjene"
+  ],
+  "input_hash": "f89ebe6ad544",
+  "scored_at": "2026-05-05T08:10:25.922153"
+}

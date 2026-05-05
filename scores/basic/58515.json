@@ -1,0 +1,16 @@
+{
+  "id": "58515",
+  "score_overall": 3.0,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Pašnjak u istoj k.o. Strmec kao i #58519, iste problematike suvlasništva, pri čemu je pašnjak još niže kategorije i likvidnosti od oranice. Bez realnog scenarija monetizacije čak ni uz 40% popust.",
+  "flags": [
+    "suvlasništvo 1/2 - blokada autonomne upotrebe",
+    "pašnjak - najniža kategorija zemljišta po likvidnosti",
+    "Zabok/Zlatar - ograničena investicijska potražnja"
+  ],
+  "input_hash": "a64ba6d4fbd1",
+  "scored_at": "2026-05-05T08:17:08.705148"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "56001",
+  "score_overall": 2.5,
+  "score_lokacija": 7.5,
+  "score_roi": 1.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Lokacija blizu Rovinja je izvrsna, ali predmet je 1/32 suvlasničkog dijela pristupnog puta — bez ikakve samostalne uporabne vrijednosti niti mogućnosti generiranja prihoda. Čak i uz 99.9% popust, ovo je praktički nelikvidna imovina bez suglasnosti preostalih 31 suvlasnika.",
+  "flags": [
+    "suvlasnički udio 1/32",
+    "pristupni put bez samostalnog prihoda",
+    "nemoguće iskoristiti bez suglasnosti suvlasnika",
+    "četvrta dražba — signal ozbiljnih problema s likvidacijom"
+  ],
+  "input_hash": "b164ea69bc7c",
+  "scored_at": "2026-05-05T08:18:30.322913"
+}

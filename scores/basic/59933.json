@@ -1,0 +1,16 @@
+{
+  "id": "59933",
+  "score_overall": 4.0,
+  "score_lokacija": 5.0,
+  "score_roi": 3.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Prodaje se samo 1/2 suvlasničkog dijela kuće u Gornjem Stenjevcu (periferija Zagreba) uz svega 20% popusta na prvoj dražbi - kombinacija kupnje polovice vlasništva s nepoznatim drugim suvlasnikom i minimalnog diskonta čini ovo investicijski neatraktivnim. Drugi suvlasnik može blokirati svaku rekonstrukciju, prodaju ili rentanje.",
+  "flags": [
+    "suvlasnički dio 1/2 - kupuješ pola kuće, drugi vlasnik može blokirati sve",
+    "prva dražba - minimalan popust",
+    "Gornji Stenjevec - periferija, ograničena likvidnost"
+  ],
+  "input_hash": "a91b3afe2bbc",
+  "scored_at": "2026-05-05T08:08:20.081346"
+}

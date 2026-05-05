@@ -1,0 +1,16 @@
+{
+  "id": "59873",
+  "score_overall": 7.5,
+  "score_lokacija": 9.0,
+  "score_roi": 7.0,
+  "score_stanje": 6.0,
+  "recommendation": "bid",
+  "reasoning": "Stan u Grušu (Dubrovnik) s privatnom garažom je rijetka i tražena kombinacija na jednom od najtraženijih i najlikvidnijih tržišta u Hrvatskoj s visokim prinosima kratkoročnog najma i dugoročnom aprecijacijom vrijednosti. Dubrovačko tržište opravdava ulaz čak i bez velikog diskonta - 20% na prvoj dražbi je fair.",
+  "flags": [
+    "potkrovlje - potencijalni toplinski problemi ljeti bez klimatizacije",
+    "Gruž - nije Stari Grad (nešto niža premium premija)",
+    "mali stambeni m2 (43,74 m2) - ograničava ciljanu grupu"
+  ],
+  "input_hash": "2e4fbe94b77f",
+  "scored_at": "2026-05-05T08:08:20.081236"
+}

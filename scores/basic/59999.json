@@ -1,0 +1,16 @@
+{
+  "id": "59999",
+  "score_overall": 3.5,
+  "score_lokacija": 3.0,
+  "score_roi": 3.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Mala kuća (72 m2) u Petrijevcima kod Valpova, prva dražba s minimalnim popustom od 20% - niska apsolutna cijena od ~7.500 EUR nominalno zvuči privlačno ali Petrijevci su ruralna Slavonija sa slabim tržištem najma i prodaje; preporučljivo pričekati daljnje dražbe gdje bi cijena mogla realnije pasti.",
+  "flags": [
+    "prva dražba - cijena može pasti",
+    "ruralna Slavonija blizu Osijeka ali ne u gradu",
+    "nepoznato stanje kuće od svega 72 m2"
+  ],
+  "input_hash": "35b0a87be08b",
+  "scored_at": "2026-05-05T08:14:54.822097"
+}

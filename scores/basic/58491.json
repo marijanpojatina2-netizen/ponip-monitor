@@ -1,0 +1,17 @@
+{
+  "id": "58491",
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 4.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica u ruralnoj Slavoniji (Perenci, Požeška županija) s depopulacijskim trendom i minimalnom tržišnom likvidnošću za ovu vrstu imovine. Suvlasnički udio 2/5 dodatno otežava svaku odluku o korištenju ili prodaji bez suglasnosti preostalih suvlasnika.",
+  "flags": [
+    "suvlasnički udio 2/5",
+    "ruralna depopulacijska zona — Slavonija",
+    "niska tržišna likvidnost",
+    "isti zk.ul. 1615 — višestruka fragmentirana prodaja istog duga"
+  ],
+  "input_hash": "c52e35cb7d45",
+  "scored_at": "2026-05-05T08:18:30.323110"
+}

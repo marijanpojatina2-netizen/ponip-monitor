@@ -1,0 +1,16 @@
+{
+  "id": "58517",
+  "score_overall": 4.0,
+  "score_lokacija": 4.0,
+  "score_roi": 5.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Pašnjak u Zagorju s 40% popustom i drugom dražbom zvuči primamljivo, ali kupuje se samo 1/2 idealnog dijela što znači suživot s nepoznatim suvlasnikom i otežana daljnja prodaja ili korištenje; niska likvidnost pašnjaka u ovoj regiji dodatno umanjuje investicijsku vrijednost.",
+  "flags": [
+    "suvlasništvo 1/2 - kupuje se samo udio",
+    "pašnjak - niska likvidnost i ograničena namjena",
+    "Zagorje - slaba potražnja za takvim zemljištem"
+  ],
+  "input_hash": "2977417965f7",
+  "scored_at": "2026-05-05T08:14:54.821325"
+}

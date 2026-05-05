@@ -1,0 +1,17 @@
+{
+  "id": "57333",
+  "score_overall": 2.0,
+  "score_lokacija": 1.5,
+  "score_roi": 3.0,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "75% popust na trećoj dražbi zvuči privlačno, ali lokacija u Štikadi/Gračacu je duboka depopulacijska zona bez tržišta kupaca ni najmoprimaca, a objekt tipa 'kolodvor' ima praktički nerealnu konverzijsku perspektivu u bilo što profitabilno. Likvidacija investicije u razumnom roku je nemoguća.",
+  "flags": [
+    "depopulacijska zona - Lika/Gračac",
+    "kolodvor = posebna namjena, konverzija nerealna",
+    "nema tržišta preprodaje ni najma",
+    "vjerojatno ruševno/zapušteno stanje"
+  ],
+  "input_hash": "2d1d39059dd5",
+  "scored_at": "2026-05-05T08:08:20.080682"
+}

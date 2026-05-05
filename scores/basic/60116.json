@@ -1,0 +1,16 @@
+{
+  "id": "60116",
+  "score_overall": 5.5,
+  "score_lokacija": 6.5,
+  "score_roi": 5.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Četvrti stan (E-25, 76.35 m2) u istom varaždinskom objektu - nešto manji od ostalih, neznatno niža početna cijena (83.850 EUR); razlozi za praćenje identični, a zanimljiviji postaje ako dođe do druge dražbe (40% popust).",
+  "flags": [
+    "stečajni postupak - moguće skrivene obveze",
+    "IV kat - provjeri lift",
+    "više stanova iz istog stečaja u istoj zgradi"
+  ],
+  "input_hash": "37aecb54540a",
+  "scored_at": "2026-05-05T08:10:25.922615"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "58525",
+  "score_overall": 4.5,
+  "score_lokacija": 3.5,
+  "score_roi": 6.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća 309 m2 u Vižovlju (Zagorje) s 40% popustom na drugoj dražbi daje solidne ROI parametre, ali lokacija nema turističku potražnju ni likvidnost što znatno ograničava exit strategije. Suvlasništvo dvaju ovršenika u jednakim dijelovima povećava pravnu i praktičnu kompleksnost transakcije.",
+  "flags": [
+    "suvlasništvo prvoovršenik + drugoovršenik (1/2 svaki)",
+    "niska likvidnost Zagorje tržišta",
+    "bez turističke potražnje"
+  ],
+  "input_hash": "44eae0168c0e",
+  "scored_at": "2026-05-05T08:08:20.080435"
+}

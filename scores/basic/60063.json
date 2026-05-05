@@ -1,0 +1,17 @@
+{
+  "id": "60063",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Gospodarska zgrada u dubokoj Slavoniji (Slatina) s minimalnim 20% popustom na prvoj dražbi - depopulacijska regija s izuzetno niskom likvidnošću čini exit strategiju gotovo nemogućom.",
+  "flags": [
+    "gospodarska zgrada - nije stambena namjena",
+    "depopulacijska regija (Virovitica/Slatina)",
+    "niska tržišna likvidnost",
+    "prva dražba bez dodatnog popusta"
+  ],
+  "input_hash": "b7d5387d28e3",
+  "scored_at": "2026-05-05T08:10:25.921941"
+}

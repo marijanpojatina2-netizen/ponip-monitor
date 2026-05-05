@@ -1,0 +1,16 @@
+{
+  "id": "60013",
+  "score_overall": 3.5,
+  "score_lokacija": 3.0,
+  "score_roi": 3.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Prva dražba s tek 20% popustom u Podravskoj Slatini (depopulacijska, niska likvidnost) s troje suvlasnika po 1/3 – trojni suvlasnički odnos i minimalni popust eliminiraju investicijsku atraktivnost. Exit strategija u Slavoniji bez turističkog potencijala je izuzetno otežana.",
+  "flags": [
+    "Tri suvlasnika (1/3 svaki) – pravo preče kupnje za svakoga",
+    "Slavonija – depopulacija i slaba likvidnost nekretnina",
+    "Prva dražba – nema strukturnog popusta iznad 20%"
+  ],
+  "input_hash": "4aa0115c34ed",
+  "scored_at": "2026-05-05T08:12:54.344512"
+}

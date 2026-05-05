@@ -1,0 +1,17 @@
+{
+  "id": "58481",
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 4.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica Brdo/Perenci, 3215 m2, 2/5 suvlasnički udio — praktički identična situacija kao kod parcela 58483 i 58491. Sve parcele dijele isti zk.ul. i isti profil rizika, bez sinergijskog efekta kupnje djelomičnih udjela.",
+  "flags": [
+    "suvlasnički udio 2/5",
+    "ruralna depopulacijska zona — Slavonija",
+    "niska tržišna likvidnost",
+    "isti zk.ul. 1615"
+  ],
+  "input_hash": "448d7fa24b68",
+  "scored_at": "2026-05-05T08:18:30.323425"
+}

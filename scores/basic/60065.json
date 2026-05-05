@@ -1,0 +1,16 @@
+{
+  "id": "60065",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Ruralna Slavonija oko Slatine spada u depopulacijska područja s minimalnom investicijskom potražnjom, a procjena kuće od svega 3.660 EUR upućuje na izrazito zapušteno stanje objekta. Samo 20% popust na prvoj dražbi bez bonusa čini ROI potpuno nezadovoljavajućim.",
+  "flags": [
+    "depopulacijska zona - Slatina/Slavonija",
+    "ekstremno niska procjena ukazuje na loše stanje objekta",
+    "prva dražba - bez popustnog bonusa"
+  ],
+  "input_hash": "eb76eae6983e",
+  "scored_at": "2026-05-05T08:17:08.705266"
+}

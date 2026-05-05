@@ -1,0 +1,17 @@
+{
+  "id": "58479",
+  "score_overall": 1.5,
+  "score_lokacija": 1.5,
+  "score_roi": 2.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Livada 795 m2 u k.o. Perenci s 2/5 suvlasničkim udjelom i početnom cijenom od 76 EUR – čak i uz 40% popusta nema investicijskog smisla jer je likvidacija ovakvog udjela na ruralnom tržištu praktički nemoguća. Kategorija livada donosi još niži prinos od oranice u ovoj regiji.",
+  "flags": [
+    "suvlasništvo 2/5",
+    "livada – najniža kategorija poljoprivrednog zemljišta",
+    "ruralno/depopulacijsko područje",
+    "minimalna apsolutna vrijednost – troškovi > prinos"
+  ],
+  "input_hash": "deb44394bfd2",
+  "scored_at": "2026-05-05T08:18:49.031164"
+}

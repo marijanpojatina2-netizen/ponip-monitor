@@ -1,0 +1,16 @@
+{
+  "id": "58521",
+  "score_overall": 3.0,
+  "score_lokacija": 4.0,
+  "score_roi": 3.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Isključivo poljoprivredno zemljište (pašnjak + oranica, bez ikakvog objekta) u suvlasništvu 1/2 – suvlasnik ima zakonsko pravo preče kupnje koje direktno ugrožava mogućnost stjecanja. 40% popust ne kompenzira odsutnost građevine i suvlasničke komplikacije.",
+  "flags": [
+    "Suvlasništvo 1/2 – pravo preče kupnje suvlasnika",
+    "Bez objekta – samo poljoprivredne katastarske kulture",
+    "Dva ovršenika – potencijalno složenija imovinsko-pravna situacija"
+  ],
+  "input_hash": "a754518120e7",
+  "scored_at": "2026-05-05T08:12:54.344406"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "58511",
+  "score_overall": 5.0,
+  "score_lokacija": 4.0,
+  "score_roi": 6.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Mješovita nekretnina (poslovni + stambeni ukupno ~175 m2) u Krasici s 40% popustom na drugoj dražbi nudi prihvatljiv ROI na papiru, ali ruralna lokacija bez turizma i ograničena likvidnost čine exit strategiju neizvjesnom. Zanimljivo isključivo za kupca koji traži vlastitu upotrebu ili lokalni poslovni prostor.",
+  "flags": [
+    "Krasica - ruralno naselje, slaba tržišna likvidnost",
+    "mješovita namjena (poslovni + stambeni) - složenije upravljanje i najam"
+  ],
+  "input_hash": "1d1d3f9d9237",
+  "scored_at": "2026-05-05T08:08:20.081129"
+}

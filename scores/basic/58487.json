@@ -1,0 +1,17 @@
+{
+  "id": "58487",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica Straševica/Perenci, 1859 m2 za 178 EUR — najniža cijena ulaska u skupini, ali i najmanji potencijal; suvlasnički udio 2/5 u ruralnoj Slavoniji bez likvidnog sekundarnog tržišta znači da je izlaz iz investicije iznimno neizvjestan.",
+  "flags": [
+    "suvlasnički udio 2/5",
+    "ruralna depopulacijska zona — Slavonija",
+    "niska tržišna likvidnost",
+    "isti zk.ul. 1615"
+  ],
+  "input_hash": "1378991ae527",
+  "scored_at": "2026-05-05T08:18:30.323769"
+}

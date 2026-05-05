@@ -1,0 +1,16 @@
+{
+  "id": "60204",
+  "score_overall": 2.5,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 1.5,
+  "recommendation": "pass",
+  "reasoning": "75% popust i treća dražba cjenovno izgledaju atraktivno, no parcela klasificirana kao deponija nosi potencijalne ekološke obveze, nepoznate troškove sanacije i zakonska ograničenja korištenja koja višestruko nadmašuju bilo kakvu financijsku dobit. Sisak je k tome niskopotražna zona.",
+  "flags": [
+    "deponija - ekološka kontaminacija i sanacijski troškovi",
+    "Novi Sisak - niska tržišna likvidnost",
+    "treća dražba bez interesa - signal strukturalnog problema"
+  ],
+  "input_hash": "9323d544c95c",
+  "scored_at": "2026-05-05T08:17:08.705368"
+}

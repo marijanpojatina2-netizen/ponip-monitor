@@ -1,0 +1,16 @@
+{
+  "id": "58527",
+  "score_overall": 4.0,
+  "score_lokacija": 4.0,
+  "score_roi": 5.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Identičan slučaj kao ID 58517 iz iste k.o. Strmec - manji plot (1302 m2), isti suvlasnički problem i iste limitacije lokacije; nema diferencirajućeg faktora koji bi opravdao drugačiju odluku.",
+  "flags": [
+    "suvlasništvo 1/2 - kupuje se samo udio",
+    "pašnjak - niska likvidnost",
+    "ista k.o. kao ID 58517 i 58533 - mogući kumulativni vlasničkim problem"
+  ],
+  "input_hash": "a5aaa538717d",
+  "scored_at": "2026-05-05T08:14:54.821567"
+}

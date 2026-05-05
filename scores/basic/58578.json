@@ -1,0 +1,15 @@
+{
+  "id": "58578",
+  "score_overall": 4.5,
+  "score_lokacija": 4.5,
+  "score_roi": 6.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "40% popust u Zagorju za kuću s dvorištem od ~3.230 m2 (899 čhv) za svega 33.600 EUR je privlačna ulazna cijena; potencijal ruralnog turizma postoji ali je opis stanja objekta potpuno izostao što je rizik. Pregrada / Krapinsko-zagorska regija ima ograničenu likvidnost i spor rast vrijednosti.",
+  "flags": [
+    "Nema nijednog podatka o stanju i veličini objekta – nužna terenska provjera",
+    "Mjerna jedinica čhv (zastarjeli zapis) – parcela nije precizno opisana"
+  ],
+  "input_hash": "bdf0ef21ee16",
+  "scored_at": "2026-05-05T08:12:54.344197"
+}

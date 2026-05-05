@@ -1,0 +1,15 @@
+{
+  "id": "60186",
+  "score_overall": 6.0,
+  "score_lokacija": 7.5,
+  "score_roi": 5.5,
+  "score_stanje": 6.0,
+  "recommendation": "bid",
+  "reasoning": "Poluugrađena zgrada 403 m2 s 4 etaže u Puli nudi solidan turistički najam potencijal na jednom od najlikvidnijih hrvatskih tržišta, a uređen okoliš i opisana funkcionalna struktura sugeriraju upotrebljivo stanje. Opis je skraćen upravo u dijelu o katastarskoj usklađenosti što je crvena zastavica koja traži provjeru dokumentacije.",
+  "flags": [
+    "opis odsječen u dijelu o katastarskoj usklađenosti ('tlocrtni oblik... ne od...') - moguća neusklađenost",
+    "prva dražba bez garantiranog popusta pri interesu više ponuđača"
+  ],
+  "input_hash": "3e0ca1b79e3f",
+  "scored_at": "2026-05-05T08:08:20.080913"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "60003",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Gotovo identičan slučaj kao ID 60005 - ista k.o. Čađavica, ista prva dražba s 20% popustom i isto čisto poljoprivredno zemljište bez investicijskog potencijala za nerezidentnog investitora.",
+  "flags": [
+    "ruralna Slavonija - depopulacijska zona",
+    "20% popust na prvoj dražbi",
+    "isključivo oranica bez pratećih objekata"
+  ],
+  "input_hash": "8c0b6d34fbbf",
+  "scored_at": "2026-05-05T08:14:54.821901"
+}

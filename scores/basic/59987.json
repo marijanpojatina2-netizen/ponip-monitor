@@ -1,0 +1,16 @@
+{
+  "id": "59987",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Prva dražba s 20% popustom u selu Bistrinci kod Valpova – kombinacija male slavonske ruralne lokacije, minimalnog popusta i pretežno poljoprivredne namjene (oranica 1.083 m2) čini investicijski case gotovo nepostojećim. Bez daljnjeg pada cijene u idućim krugovima nema razloga za interes.",
+  "flags": [
+    "Slavonija – depopulacija, izrazito niska likvidnost",
+    "Prva dražba – minimalni popust, cijena će vjerojatno pasti u sljedećim krugovima",
+    "Pretežno oranica – agrikulturna namjena bez turističkog potencijala"
+  ],
+  "input_hash": "78a89dd508e6",
+  "scored_at": "2026-05-05T08:12:54.344867"
+}

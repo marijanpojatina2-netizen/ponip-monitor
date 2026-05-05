@@ -1,0 +1,15 @@
+{
+  "id": "59935",
+  "score_overall": 5.5,
+  "score_lokacija": 6.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Kuća s dvorištem ukupno 626 m2 u zapadnom Zagrebu (Vrapče) nudi razvojni potencijal parcele ili dugoročni zakup, ali 20% popust na prvoj dražbi je minimum i apsolutna cijena od 368k EUR je visoka za ovu mikrolocaciju. Pratiti radi eventualnog pada na trećoj rundi.",
+  "flags": [
+    "prva dražba - minimalan popust, cijena može pasti",
+    "Gornje Vrapče - periferija, ne premium Zagreb lokacija"
+  ],
+  "input_hash": "edd0bfc48377",
+  "scored_at": "2026-05-05T08:08:20.080802"
+}

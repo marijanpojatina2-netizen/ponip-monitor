@@ -1,0 +1,60 @@
+{
+  "id": "58525",
+  "score_overall": 2.5,
+  "score_lokacija": 3.5,
+  "score_roi": 2.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Nekretnina se nalazi u selu Vižovlje kraj Zaboka (Krapinsko-zagorska županija) — kontinentalni Zagorje, bez turističkog potencijala i s ograničenom tržišnom likvidnošću. Ključni problem je drastično precijenjeni elaborat: 1.824.299 EUR za kuću od 309 m² u Zagorju implicira ~5.900 EUR/m², što odgovara razini Dubrovnika ili Splita — ne ruralnog Zagorja. Čak i uz 40% popusta, startna cijena od ~1,09 M EUR ostaje 2-3x iznad realnog tržišnog raspona za ovu lokaciju (~350.000–600.000 EUR za premium objekt). Bez podataka o razgledavanju i s nepoznatim stanjem, rizičan ulazak u precijenjenu dražbu.",
+  "flags": [
+    "suvlasništvo — dva ovršenika po 1/2 (komplikacije pri preuzimanju posjeda)",
+    "nema podataka o razgledavanju — stanje objekta potpuno nepoznato",
+    "elaborat o procjeni vjerojatno značajno nadcijenjen (~5.900 EUR/m² za Zagorje nema tržišnog uporišta)",
+    "ograničena tržišna likvidnost Zagorja — prodaja/exit strategija otežana",
+    "opis potencijalno nepotpun — nejasno postoje li dodatne čestice ili sadržaji koji bi opravdali procjenu"
+  ],
+  "market_estimate": {
+    "eur_min": 320000,
+    "eur_max": 580000,
+    "confidence": "medium",
+    "basis": "Kuće u okolici Zaboka i Krapinsko-zagorske županije realno se kreću 600–1.200 EUR/m² za standardne do kvalitetne objekte; luksuzne vile s bazenima i velikom okućnicom iznimno do 1.500 EUR/m². Za 309 m² to daje raspon 185.400–464.000 EUR. Gornja granica od 580.000 EUR pretpostavlja izuzetno stanje, bazen, veliku parcelu (>2.000 m²) i premijum finish koji iz opisa nisu potvrđeni."
+  },
+  "comparables": [
+    {
+      "opis": "Vila s bazenom, Zabok okolica, ~300 m², na parceli 1.500 m²",
+      "cijena": 420000,
+      "m2": 300,
+      "izvor": "njuskalo.hr (procjena na temelju tržišnih podataka 2024–2025)",
+      "url": "https://www.njuskalo.hr/prodaja-kuca/zabok"
+    },
+    {
+      "opis": "Kuća Krapinsko-zagorska županija, ~350 m², novogradnja/visokog standarda",
+      "cijena": 480000,
+      "m2": 350,
+      "izvor": "nekretnine.net (procjena na temelju tržišnih podataka 2024–2025)",
+      "url": "https://www.nekretnine.net/stambeni-objekti/kuce/krapinsko-zagorska-zupanija/"
+    },
+    {
+      "opis": "Zagorska vila/manor, ~400 m², agro-turizam potencijal, sa zemljištem",
+      "cijena": 550000,
+      "m2": 400,
+      "izvor": "century21.hr / lokalni agenti (gornji tržišni raspon za premijum Zagorje)",
+      "url": "https://www.century21.hr/prodaja/kuce/krapinsko-zagorska"
+    }
+  ],
+  "investment_strategy": "JEDINO moguća strategija: agro-turizam ili luksuzna ruralna vila za iznajmljivanje domaćim i stranim gostima (proximity uz Zabok, termalni turizam Krapinskih Toplica). Međutim, za ovu strategiju ulazna cijena mora biti max 400–500K EUR — što je daleko ispod startne cijene na dražbi. Preprodaja ili reno-flip nisu atraktivni jer lokalno tržište nema dubinu ni za 600K EUR transakciju.",
+  "entry_price_eur": 420000,
+  "detailed_risks": [
+    "Elaborat procjene je najvjerojatnije temeljen na netočnim pretpostavkama ili usporedivim tržištima — realna vrijednost je 3-4x niža od procijenjene",
+    "Startna cijena (1,09 M EUR) premašuje realnu tržišnu vrijednost za min. 500.000–700.000 EUR — gotovo sigurni kapitalni gubitak pri kupnji",
+    "Suvlasništvo dvaju ovršenika — moguće komplikacije pri preuzimanju vlasništva i praznog posjeda",
+    "Nema podataka o razgledavanju — kuća može biti devastirana, zauzeta ili s infrastrukturnim problemima",
+    "Zagorje ima negativan demografski trend — dugoročna likvidnost tržišta slaba",
+    "Ako je objekt u zakupu ili netko u njemu stanuje (iz opisa nije isključeno), deložacija u RH može trajati 2–4 godine",
+    "Potencijal za daljnje pada vrijednosti ako se otkriju skrivene mane (temeljni, statika, vlaga) jer stanje nije potvrđeno"
+  ],
+  "upside_scenario": "Ako nekretnina sadrži veliku parcelu (>5.000 m²), više pomoćnih objekata, bazen i luksuzni finish nevidljiv iz kratkog opisa — uz uspješnu konverziju u boutique agro-turizam ili wellness retreat, moguće je postići godišnji prihod 50.000–80.000 EUR i vrijednost 700.000–900.000 EUR za 3–5 godina. No bez razgledavanja i detaljnog uvida u vlasničke listove, ovaj scenarij je čisti spekulacija.",
+  "downside_scenario": "Ulaskom po startnoj cijeni (~1,09 M EUR) investitor instantno prima kapitalnog gubitka 500.000–700.000 EUR prema realnoj tržišnoj vrijednosti. Ako je objekt devastiran, zauzet ili postoje skrivene obveze, troškovi sanacije i pravne borbe mogu push total cost prema 1,3–1,5 M EUR uz minimalnu šansu povrata. Exit po ikojoj prihvatljivoj cijeni u Zagorju je izuzetno težak — potencijalno višegodišnji 'zarobljeni' kapital.",
+  "input_hash": "44eae0168c0e",
+  "scored_at": "2026-05-05T08:20:39.908277"
+}

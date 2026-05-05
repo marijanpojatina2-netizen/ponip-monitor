@@ -1,0 +1,17 @@
+{
+  "id": "56011",
+  "score_overall": 3.5,
+  "score_lokacija": 9.0,
+  "score_roi": 2.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Lokacija Rovinj je iznimna i startna cijena od 1 EUR privlači pažnju, ali predmet je udio 2/5 staze od ukupno 35 m2 uz stambenu zgradu - efektivnih ~14 m2 zajedničke infrastrukture bez ikakve samostalne upotrebljivosti ili mogućnosti monetizacije. Četvrta dražba bez interesa kupaca potvrđuje bezperspektivnost.",
+  "flags": [
+    "udio 2/5 staze uz zgradu - nema samostalne vrijednosti",
+    "četvrta dražba - tržište u potpunosti odbilo",
+    "nemoguće samostalno monetizirati",
+    "prava pristupa ostalih suvlasnika"
+  ],
+  "input_hash": "c3a043e08a28",
+  "scored_at": "2026-05-05T08:17:08.705470"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "58519",
+  "score_overall": 3.5,
+  "score_lokacija": 3.5,
+  "score_roi": 5.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Oranica male površine u Zagorju s 40% popustom zvuči cjenovno privlačno, no suvlasništvo 1/2 praktički blokira svaku autonomnu upotrebu ili preprodaju bez suglasnosti drugog suvlasnika. Niska likvidnost poljoprivrednog zemljišta u Zabok/Zlatar regiji eliminira realni investicijski scenarij.",
+  "flags": [
+    "suvlasništvo 1/2 - blokada autonomne upotrebe",
+    "oranica - niska tržišna likvidnost",
+    "Zabok/Zlatar - ograničena investicijska potražnja"
+  ],
+  "input_hash": "0412b1700bb6",
+  "scored_at": "2026-05-05T08:17:08.704945"
+}
