@@ -1,0 +1,16 @@
+{
+  "id": "60154",
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 3.5,
+  "score_stanje": 5.5,
+  "recommendation": "pass",
+  "reasoning": "Poslovni prostor u podrumu i prizemlju u Vukovaru s 2 parking mjesta i garažom donekle je funkcionalna nekretnina, ali Vukovar kao tržište nudi minimalnu likvidnost i ograničenu potražnju za poslovnim prostorima. 20% popusta na prvoj dražbi nije dovoljna premija za rizik lokacije i suvlasničke strukture (1338/10000 udjela).",
+  "flags": [
+    "Vukovar - ograničena likvidnost i specifična tržišna percepcija",
+    "poslovni prostor djelomično u podrumu - otežano iznajmljivanje",
+    "suvlasnički udio 1338/10000 - kompleksnost upravljanja"
+  ],
+  "input_hash": "ba65e18462e5",
+  "scored_at": "2026-05-06T09:37:55.464761"
+}

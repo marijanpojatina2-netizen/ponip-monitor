@@ -1,0 +1,17 @@
+{
+  "id": "60200",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "16,3 hektara oranice kod Vinkovaca na prvoj dražbi s tek 20% popusta nema investicijskog smisla - agrikulturno zemljište u Slavoniji bez prateće infrastrukture ili potencijala prenamjene. Likvidnost izlaska gotovo ne postoji, a vrijednost 1,2 EUR/m2 procjene ukazuje na slabu atraktivnost i bez aukcijskog konteksta.",
+  "flags": [
+    "isključivo poljoprivredno zemljište - bez gradnje",
+    "Vinkovci/Slavonija - duboka tržišna illiquidnost",
+    "bez prateće infrastrukture ili objekata",
+    "ekscesivna površina otežava preprodaju"
+  ],
+  "input_hash": "809f8c5bd3c5",
+  "scored_at": "2026-05-06T09:37:55.464643"
+}

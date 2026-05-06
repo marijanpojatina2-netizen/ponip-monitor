@@ -1,0 +1,17 @@
+{
+  "id": "60142",
+  "score_overall": 3.0,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Mješoviti paket (kuća, 2 zgrade i stan) u Donjem Miholjcu uz 25% popusta zvuči pristupačno, no sve prednosti cijene poništava lokacija u maloj slavonskoj urbanoj sredini s negativnim migracijskim trendom. Stečajni postupak dodaje procesnu kompleksnost, a exit opcije su realno ograničene na lokalnog kupca.",
+  "flags": [
+    "stečajni dužnik - moguće skrivene obveze",
+    "Slavonija - depopulacijsko područje",
+    "složeni paket nekretnina - otežana preprodaja",
+    "nepoznato stanje objekata"
+  ],
+  "input_hash": "aa58e5416290",
+  "scored_at": "2026-05-06T09:37:55.464875"
+}

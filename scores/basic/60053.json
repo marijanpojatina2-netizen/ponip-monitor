@@ -1,0 +1,17 @@
+{
+  "id": "60053",
+  "score_overall": 5.5,
+  "score_lokacija": 7.5,
+  "score_roi": 6.5,
+  "score_stanje": 2.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Parcela na Hvaru (k.o. Svirče) uz ulaznu cijenu od svega 414 EUR nudi asimetričan risk/reward profil koji zahtijeva detaljnu analizu - procjena od 517 EUR za lokaciju na Hvaru gotovo sigurno odražava nemogućnost gradnje (OPZ klasifikacija), ali pri toj cijeni i potencijal prenamjene ili spekulativna vrijednost opravdavaju dublje istraživanje. Provjera prostornog plana Općine Jelsa i katastarskog statusa parcele ključna je pred bilo kakvim potezom.",
+  "flags": [
+    "pašnjak + oranica - vjerojatno nezidljivo zemljište",
+    "izuzetno niska procjena ukazuje na ograničenu namjenu",
+    "unutrašnjost Hvara (Svirče) - slabiji turistički potencijal od obale",
+    "potrebna provjera prostornog plana i mogućnosti prenamjene"
+  ],
+  "input_hash": "2d3ea75a032c",
+  "scored_at": "2026-05-06T09:37:55.465255"
+}

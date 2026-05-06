@@ -1,0 +1,17 @@
+{
+  "id": "60146",
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Poslovna zgrada od 1057m2 u Miholjačkom Poreču (Donji Miholjac) nudi pristojan popust od 25%, no lokacija u depopulacijskoj Slavoniji drastično ograničava potražnju i likvidnost izlaza. Stečajni postupak, visoka jamčevina od 52k EUR i nejasna namjena objekta čine ovaj case neatraktivnim za investitora.",
+  "flags": [
+    "stečajni dužnik - moguće skrivene obveze",
+    "Slavonija - slaba tržišna likvidnost",
+    "poslovna zgrada bez naznake trenutnog najma/prihoda",
+    "visoka kapitalna izloženost bez jasne exit strategije"
+  ],
+  "input_hash": "61c2851e5617",
+  "scored_at": "2026-05-06T09:37:55.464412"
+}

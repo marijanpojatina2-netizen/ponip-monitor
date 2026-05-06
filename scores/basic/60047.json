@@ -1,0 +1,17 @@
+{
+  "id": "60047",
+  "score_overall": 3.5,
+  "score_lokacija": 5.0,
+  "score_roi": 4.0,
+  "score_stanje": 5.5,
+  "recommendation": "pass",
+  "reasoning": "Opel Vivaro iz 2018. u Splitu s 25% popusta je deprecirajuće sredstvo bez dugoročnog investicijskog potencijala - za strateškog investitora u nekretnine ovo je pogrešna klasa imovine. Može biti zanimljivo isključivo operativnoj kompaniji koja treba takvo vozilo i može procijeniti tehničko stanje prije licitacije.",
+  "flags": [
+    "pokretnina - deprecirajuća imovina",
+    "vozilo na čuvanju - nepoznati troškovi i uvjeti čuvanja",
+    "bez mogućnosti tehničke provjere stanja pred dražbu",
+    "ograničena investicijska klasa"
+  ],
+  "input_hash": "9f6fcc4af1f3",
+  "scored_at": "2026-05-06T09:37:55.465149"
+}
