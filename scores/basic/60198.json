@@ -1,0 +1,16 @@
+{
+  "id": "60198",
+  "score_overall": 3.5,
+  "score_lokacija": 3.0,
+  "score_roi": 3.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Dvije kuće (93+57 m2) i gospodarska zgrada u ruralnom Hemuševcu kraj Preloga za ~30.800 EUR naizgled su jeftine, ali međimursko seosko tržište nema jasnih investicijskih pokretača ni turističke potražnje. Bez vidljive exit strategije za pasivnog investitora.",
+  "flags": [
+    "ruralno Međimurje - seoska nekretnina bez investicijskog case-a",
+    "gospodarska zgrada - agro karakter imanja",
+    "niska tražnja za starijim seoskim nekretninama"
+  ],
+  "input_hash": "89340a84b37f",
+  "scored_at": "2026-05-07T08:31:45.860999"
+}

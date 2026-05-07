@@ -1,0 +1,16 @@
+{
+  "id": "60136",
+  "score_overall": 4.5,
+  "score_lokacija": 3.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Dvije stambene jedinice na 270 m2 u ruralnom zaleđu Zadra kraj Zrmanje daju određeni potencijal za dugoročni najam, ali Kruševo je tipično hinterland područje s niskom likvidnošću i slabim aprecijacijskim trendovima. Standardnih 20% popusta na prvoj dražbi nije dovoljno atraktivno za kompenzaciju lokacijskog rizika.",
+  "flags": [
+    "ruralna lokacija - hinterland Zadra uz Zrmanju",
+    "niska likvidnost regije",
+    "prva dražba - minimalan popust"
+  ],
+  "input_hash": "2a4bd4915e03",
+  "scored_at": "2026-05-07T08:31:45.860531"
+}

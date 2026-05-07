@@ -1,0 +1,15 @@
+{
+  "id": "60166",
+  "score_overall": 6.5,
+  "score_lokacija": 6.5,
+  "score_roi": 7.0,
+  "score_stanje": 5.5,
+  "recommendation": "bid",
+  "reasoning": "Trosobni stan 74 m2 u Novoj Mokošici (~5 km od Dubrovnika) po startnoj cijeni ~1.161 EUR/m2 znatno je ispod tržišnih vrijednosti dubrovačke aglomeracije gdje standardni stanovi postižu 2.000-3.500 EUR/m2. Dubrovačko tržište najma i preprodaje ostaje najlikvidnije u RH i kompenzira suburbanu lokaciju.",
+  "flags": [
+    "ETAŽNO VLASNIŠTVO - suvlasnički omjer neodređen (neodređenim omjerom)",
+    "suburbana lokacija, nije prime Dubrovnik"
+  ],
+  "input_hash": "ef1b8d92c22e",
+  "scored_at": "2026-05-07T08:31:45.860758"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "60150",
+  "score_overall": 4.0,
+  "score_lokacija": 4.0,
+  "score_roi": 4.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Kuća 78 m2 na 200 m2 dvorišta u selu Josipovac kraj Osijeka nudi skromnu likvidnost zbog blizine regionalnog centra, no slavonsko tržište bilježi jedne od najnižih stopa aprecijacije u RH. Popust 20% na prvoj dražbi ne kompenzira niske prinose i izostanak turističke komponente.",
+  "flags": [
+    "Slavonija - depopulacija i niska likvidnost",
+    "seoska lokacija uz Osijek - ograničena tražnja"
+  ],
+  "input_hash": "96a8313b1fc1",
+  "scored_at": "2026-05-07T08:31:45.860880"
+}
