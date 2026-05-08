@@ -1,0 +1,16 @@
+{
+  "id": "60160",
+  "score_overall": 3.0,
+  "score_lokacija": 3.0,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica u ruralnom Međimurju s nominalnom vrijednošću ispod 1.800 EUR i 20% popustom na prvoj dražbi - apsolutni iznosi su premali za ozbiljan investicijski angažman uz suvlasnički rizik.",
+  "flags": [
+    "suvlasnički udio 1/2",
+    "minimalna tržišna vrijednost",
+    "niska likvidnost"
+  ],
+  "input_hash": "ccd521f4061e",
+  "scored_at": "2026-05-08T07:30:03.797290"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "60194",
+  "score_overall": 3.5,
+  "score_lokacija": 4.0,
+  "score_roi": 3.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Ruralni Međimurje s tek 20% popustom na prvoj dražbi i iznimno fragmentiranim vlasništvom (1/2 četvrtog suvlasničkog dijela) čini bilo kakvu daljnju prodaju ili korištenje pravno složenim.",
+  "flags": [
+    "visoko fragmentirano suvlasništvo - 1/2 od 4. suvlasničkog dijela",
+    "nepoznato stanje objekta",
+    "slab investicijski izlaz"
+  ],
+  "input_hash": "d2cb6a06b9d4",
+  "scored_at": "2026-05-08T07:30:03.797091"
+}

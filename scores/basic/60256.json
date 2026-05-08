@@ -1,0 +1,16 @@
+{
+  "id": "60256",
+  "score_overall": 3.5,
+  "score_lokacija": 3.0,
+  "score_roi": 3.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica u Slavonskom Brodu bez izgrađenog objekta i s minimalnom turističkom ili razvojnom perspektivom; 20% popust na prvoj dražbi ne kompenzira slabu likvidnost regije i suvlasnički udio.",
+  "flags": [
+    "suvlasnički udio 1/2",
+    "oranica bez objekta",
+    "slaba likvidnost Slavonije"
+  ],
+  "input_hash": "dd455c58c850",
+  "scored_at": "2026-05-08T07:30:03.796628"
+}

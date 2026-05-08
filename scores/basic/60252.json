@@ -1,0 +1,17 @@
+{
+  "id": "60252",
+  "score_overall": 2.0,
+  "score_lokacija": 3.0,
+  "score_roi": 3.0,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Pola oranice od 944 m2 u Slavonskom Brodu - minimalna investicijska vrijednost za suvlasnički udio na gradskom/prigradskom zemljištu bez naznake razvojne namjene. Iznos od ~14k EUR za pola oranice u Slavoniji nema smisleni investicijski ROI scenarij.",
+  "flags": [
+    "suvlasništvo 1/2 oranice",
+    "minimalna površina i vrijednost",
+    "samo oranica bez građevne namjene",
+    "slaba likvidnost"
+  ],
+  "input_hash": "6d02b3d75de7",
+  "scored_at": "2026-05-08T07:29:03.602127"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "60214",
+  "score_overall": 3.5,
+  "score_lokacija": 3.0,
+  "score_roi": 3.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Kuća s dvorištem i oranicama u Podravskoj Slatini - mala slavonska urbana sredina s ograničenim potražnjom i niskim cijenama nekretnina. Popust od samo 20% na prvoj dražbi ne kompenzira lokacijski rizik i slabu likvidnost regije Slatine.",
+  "flags": [
+    "slaba potražnja u Podravskoj Slatini",
+    "samo 20% popust na prvoj dražbi",
+    "mješovita namjena kuća+oranica smanjuje fokus investicije"
+  ],
+  "input_hash": "0f1d867dcb55",
+  "scored_at": "2026-05-08T07:29:03.601538"
+}

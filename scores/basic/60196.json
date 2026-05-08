@@ -1,0 +1,16 @@
+{
+  "id": "60196",
+  "score_overall": 4.0,
+  "score_lokacija": 4.0,
+  "score_roi": 4.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Poslovna zgrada u manjem međimurskom selu s minimalnim popustom od 20% na prvoj dražbi i samo 1/2 suvlasničkog dijela nudi slab investicijski case bez jasnog izlaznog scenarija. Trnovec ne pokazuje trendove rasta potražnje za poslovnim prostorom.",
+  "flags": [
+    "suvlasništvo 1/2 dijela",
+    "manje naselje - ograničena potražnja za poslovnim prostorom",
+    "nepoznato stanje objekta - rizik skrivenih troškova"
+  ],
+  "input_hash": "895633e12789",
+  "scored_at": "2026-05-08T07:28:30.926727"
+}

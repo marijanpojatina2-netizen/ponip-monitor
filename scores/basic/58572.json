@@ -1,0 +1,16 @@
+{
+  "id": "58572",
+  "score_overall": 6.5,
+  "score_lokacija": 4.5,
+  "score_roi": 8.0,
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Iznimno atraktivan popust od 50% na drugoj dražbi s poslovnom zgradom od 294m2 uključenom u cijenu predstavlja potencijalno izvanrednu vrijednost po m2. Ruralna lokacija u Marčeljima smanjuje likvidnost, ali niska ulazna cijena i poslovni objekt zaslužuju hitnu provjeru stanja i legalne dokumentacije.",
+  "flags": [
+    "nepoznato stanje poslovne zgrade - obavezna inspekcija",
+    "ruralna lokacija Rijeka okrug - niža likvidnost",
+    "provjera statusa pašnjaka i moguće prenamjene"
+  ],
+  "input_hash": "9a792f477373",
+  "scored_at": "2026-05-08T07:28:30.926174"
+}

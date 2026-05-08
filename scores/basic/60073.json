@@ -1,0 +1,16 @@
+{
+  "id": "60073",
+  "score_overall": 5.5,
+  "score_lokacija": 7.0,
+  "score_roi": 5.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Istra blizu Pule u vikendaškom naselju nosi realnu lokacijsku vrijednost, no pristup je faktički blokiran metalnim portunom na susjednoj čestici što je kritičan pravni i fizički rizik; vrijedi dublje istražiti prisilni prolaz i mogućnost gradnje.",
+  "flags": [
+    "pristup blokiran metalnim portunom na k.č. 1834/20",
+    "pašnjak - ograničena namjena",
+    "potrebna provjera prava prolaza i mogućnosti gradnje"
+  ],
+  "input_hash": "8842dc62d50e",
+  "scored_at": "2026-05-08T07:30:03.797192"
+}

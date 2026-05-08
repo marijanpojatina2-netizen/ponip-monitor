@@ -1,0 +1,17 @@
+{
+  "id": "60257",
+  "score_overall": 3.0,
+  "score_lokacija": 3.0,
+  "score_roi": 3.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Identična nekretnina kao 60254 - drugi suvlasnički dio iste čestice kč.br. 6121 Osječka ulica. Jedina razlika je što se ovaj lot odnosi na suvlasništvo I ovršenika - zajedno s lotom 60254 čine cijelu nekretninu, što bi bila jedina situacija gdje oba lota dobivaju smisao.",
+  "flags": [
+    "suvlasništvo 1/2 - isti objekt kao 60254",
+    "kupnja oba lota jedini racionalni scenarij",
+    "koordinacijski rizik na licitaciji",
+    "samo 20% popust"
+  ],
+  "input_hash": "dda9a4931245",
+  "scored_at": "2026-05-08T07:29:03.602024"
+}

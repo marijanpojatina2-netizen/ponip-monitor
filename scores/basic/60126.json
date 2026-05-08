@@ -1,0 +1,16 @@
+{
+  "id": "60126",
+  "score_overall": 6.5,
+  "score_lokacija": 8.0,
+  "score_roi": 5.5,
+  "score_stanje": 6.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Iznimna lokacija u centru Zagreba uz Gornji grad (Erdödy ulica) s potencijalom premium najma ili preprodaje, ali prodaja samo 1/2 suvlasničkog dijela uz \"neodređen omjer\" etažnog vlasništva su ozbiljni pravni crveni zastavice. Pravni due diligence je uvjet za svaki daljnji korak.",
+  "flags": [
+    "suvlasništvo 1/2 dijela - ograničena raspoloživost",
+    "etažno vlasništvo s neodređenim omjerom suvlasničkog dijela - nestandardna situacija",
+    "obavezan pravni due diligence prije licitacije"
+  ],
+  "input_hash": "193eafc31aeb",
+  "scored_at": "2026-05-08T07:28:30.926616"
+}

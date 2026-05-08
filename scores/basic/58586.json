@@ -1,0 +1,17 @@
+{
+  "id": "58586",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 4.0,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Oranica od 23717 m2 u Županji (Slavonija) u suvlasništvu 49/95 - depopulacijska regija s vrlo niskom likvidnošću nekretnina. Suvlasnički udio otežava raspolaganje i eventualnu preprodaju, a poljoprivredno tržište u toj regiji ne opravdava investicijski angažman.",
+  "flags": [
+    "suvlasništvo 49/95 - otežano raspolaganje",
+    "depopulacijska regija Županja",
+    "isključivo poljoprivredno zemljište",
+    "niska tržišna likvidnost"
+  ],
+  "input_hash": "b15fc6cc79be",
+  "scored_at": "2026-05-08T07:29:03.601430"
+}

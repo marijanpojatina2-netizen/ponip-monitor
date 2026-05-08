@@ -1,0 +1,16 @@
+{
+  "id": "60158",
+  "score_overall": 5.0,
+  "score_lokacija": 7.0,
+  "score_roi": 4.5,
+  "score_stanje": 6.0,
+  "recommendation": "watch",
+  "reasoning": "Split lokacija je solidna, ali se prodaje samo 1/2 suvlasničkog dijela stana što dramatično ograničava raspoloživost nekretninom i mogućnost preprodaje ili najma. Popust od 20% na prvoj dražbi ne kompenzira suvlasnički pravni rizik.",
+  "flags": [
+    "suvlasništvo 1/2 dijela - ograničena raspoloživost",
+    "potrebna dioba ili otkup drugog dijela",
+    "potencijalni konflikt sa suvlasnikom"
+  ],
+  "input_hash": "74c8d826c5c4",
+  "scored_at": "2026-05-08T07:28:30.926056"
+}

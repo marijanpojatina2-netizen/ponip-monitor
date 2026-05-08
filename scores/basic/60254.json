@@ -1,0 +1,17 @@
+{
+  "id": "60254",
+  "score_overall": 3.0,
+  "score_lokacija": 3.0,
+  "score_roi": 3.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Pola kuće u Slavonskom Brodu u suvlasništvu - kupnja polovice nekretnine bez kontrole nad cijelim objektom izuzetno je problematična za svaki investicijski scenario. Slavonski Brod ima umjerenu potražnju, ali suvlasnički problemi i 20% popust čine ovu nekretninu investicijski neatraktivnom.",
+  "flags": [
+    "suvlasništvo 1/2 - ograničeno raspolaganje",
+    "nejasna situacija s drugim suvlasnikom (ovršenik)",
+    "samo 20% popust",
+    "Slavonski Brod - ograničena likvidnost"
+  ],
+  "input_hash": "2c6c8e0887aa",
+  "scored_at": "2026-05-08T07:29:03.601914"
+}

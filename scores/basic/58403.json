@@ -1,0 +1,16 @@
+{
+  "id": "58403",
+  "score_overall": 4.0,
+  "score_lokacija": 5.5,
+  "score_roi": 5.5,
+  "score_stanje": 2.5,
+  "recommendation": "watch",
+  "reasoning": "Pašnjak 1708 m2 u istoj k.o. Žedno kao i nekretnina 58397 - slična analiza, no pašnjak ima još nižu razvojnu vrijednost od šume. Geografska blizina Trogira daje određenu atraktivnost, ali poljoprivredno/pašnjačko zemljište bez potvrđene građevne namjene je spekulative investicija.",
+  "flags": [
+    "pašnjak - minimalna razvojna vrijednost",
+    "ista k.o. kao 58397 - suvlasništvo ili susjedna čestica",
+    "ograničena likvidnost"
+  ],
+  "input_hash": "aeed90d897a7",
+  "scored_at": "2026-05-08T07:29:03.601321"
+}
