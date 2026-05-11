@@ -1,0 +1,16 @@
+{
+  "id": "58660",
+  "score_overall": 5.5,
+  "score_lokacija": 7.5,
+  "score_roi": 5.0,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Zagreb Svetice je dobra lokacija, ali predmet je isključivo podrum/spremište od 28,69 m² bez stambene ni poslovne namjene, što drastično sužava upotrebnu i tržišnu vrijednost. Korisno je praktički samo vlasniku stana u istoj zgradi, a procjena od 51.000 EUR za pohranište odstupa od tržišne logike.",
+  "flags": [
+    "samo podrum/spremište - bez stambene ni komercijalne namjene",
+    "uska tržišna publika - relevantno gotovo isključivo stanarima zgrade",
+    "E-82 od 83 etažnih dijelova - kompleksna suvlasnička dinamika zgrade"
+  ],
+  "input_hash": "cde0749fc294",
+  "scored_at": "2026-05-11T09:39:47.023741"
+}

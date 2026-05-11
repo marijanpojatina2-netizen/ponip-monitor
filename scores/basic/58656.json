@@ -1,0 +1,17 @@
+{
+  "id": "58656",
+  "score_overall": 2.0,
+  "score_lokacija": 3.5,
+  "score_roi": 2.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Šumsko zemljište (šuma) pod najstrožim je zakonskim ograničenjima — zabrana gradnje, ograničena sječa, moguće statusne zaštite — a suvlasnički udio 1/3 dodaje još jedan sloj pravne blokade. Od sve tri nekretnine ovo je investicijski najslabiji predmet bez obzira na popust.",
+  "flags": [
+    "suvlasnički udio 1/3 — blokirana dispozicija",
+    "šumsko zemljište — zakonska ograničenja korištenja i gradnje",
+    "potencijalna šumska zaštita (šume u kategoriji zaštićenih dobara)",
+    "nulti razvojni potencijal"
+  ],
+  "input_hash": "76dcf4eaf922",
+  "scored_at": "2026-05-11T09:42:15.045381"
+}

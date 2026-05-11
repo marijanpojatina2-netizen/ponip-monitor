@@ -1,0 +1,16 @@
+{
+  "id": "58652",
+  "score_overall": 3.0,
+  "score_lokacija": 3.5,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Suvlasnički udio 1/3 livade u ruralnom prigradskom pojasu Zaprešića nema realnog investicijskog potencijala — bez suglasnosti ostalih suvlasnika ne možeš ni prodati ni razviti, a likvidnost agrikulturnog zemljišta u toj zoni je minimalna. Popust od 40% zvuči atraktivno ali ne kompenzira pravnu i tržišnu nelikvidnost frakcijskog vlasništva.",
+  "flags": [
+    "suvlasnički udio 1/3 — blokirano bez suglasnosti suvlasnika",
+    "poljoprivredno zemljište — ograničenja namjene i gradnje",
+    "niska tržišna likvidnost u regiji za ovu vrstu imovine"
+  ],
+  "input_hash": "3db86812bc35",
+  "scored_at": "2026-05-11T09:42:15.044994"
+}

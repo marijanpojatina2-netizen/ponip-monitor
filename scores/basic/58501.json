@@ -1,0 +1,15 @@
+{
+  "id": "58501",
+  "score_overall": 6.0,
+  "score_lokacija": 5.5,
+  "score_roi": 7.0,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Kavana 98 m² uz termu s 40% popustom ima realan potencijal iznajmljivanja ugostiteljskom operatoru koji servisira tok gostiju zdravstvenog kompleksa. Prihodi su ipak čvrsto vezani uz popunjenost terme, a za start treba licenca i kompletno opremanje.",
+  "flags": [
+    "kavana - potrebna ugostiteljska licenca i oprema",
+    "prihodi vezani uz popunjenost spa/terme kompleksa"
+  ],
+  "input_hash": "5fa96387c129",
+  "scored_at": "2026-05-11T09:39:47.023294"
+}

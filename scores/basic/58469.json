@@ -1,0 +1,16 @@
+{
+  "id": "58469",
+  "score_overall": 4.0,
+  "score_lokacija": 4.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Podrum poslovni prostor 27m2 u Krapinskim Toplicama - zdravstveno-turistička lokacija ima određeni potencijal, ali podrum bez prirodnog osvjetljenja i samo 40% popust čine investicijski case marginalnim. Ograničena prenamjena i likvidnost.",
+  "flags": [
+    "podrum - ograničena prenamjena i atraktivnost",
+    "suvlasnički omjer 288/10000 - minorna suvlasnička prava",
+    "poslovni prostor specijalizirane namjene (trgovina)"
+  ],
+  "input_hash": "b77ac331967e",
+  "scored_at": "2026-05-11T09:40:15.798768"
+}

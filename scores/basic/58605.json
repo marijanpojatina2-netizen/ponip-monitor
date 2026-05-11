@@ -1,0 +1,16 @@
+{
+  "id": "58605",
+  "score_overall": 4.0,
+  "score_lokacija": 3.5,
+  "score_roi": 5.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Čista Velika je ruralno naselje uz prometnicu Šibenik–Split s ograničenom turističkom i stambenom potražnjom; bivša pekara u prizemlju zahtijeva skupu adaptaciju za alternativne namjene, a 40% popust nije dovoljan da kompenzira slabost lokacije i neophodna ulaganja.",
+  "flags": [
+    "ruralna lokacija (Čista Velika – nije turistička zona)",
+    "bivša industrijska/komercijalna namjena prizemlja (pekara) – troškovi adaptacije",
+    "ograničena tržišna potražnja i slaba likvidnost"
+  ],
+  "input_hash": "6e4c87d753d2",
+  "scored_at": "2026-05-11T09:37:23.744632"
+}

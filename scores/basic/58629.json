@@ -1,0 +1,16 @@
+{
+  "id": "58629",
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 5.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Ruralna Bjelovarsko-bilogorska županija (Velika Barna) - depopulacijsko područje s minimalnom likvidnošću tržišta nekretnina. Unatoč 40% popustu i pristojna veličina posjeda, izlazna strategija praktički ne postoji.",
+  "flags": [
+    "ruralno depopulacijsko područje",
+    "slaba likvidnost tržišta",
+    "gospodarske zgrade - nepoznato stanje"
+  ],
+  "input_hash": "641a466ce21e",
+  "scored_at": "2026-05-11T09:40:15.798389"
+}

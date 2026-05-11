@@ -1,0 +1,16 @@
+{
+  "id": "58637",
+  "score_overall": 4.5,
+  "score_lokacija": 5.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Oranica u k.o. Demerje (Novi Zagreb) ima spekulativni potencijal prenamjene ili konsolidacije zbog blizine Zagreba, a 40% popust i druga dražba su prihvatljivi. Međutim, udio 343/2704 (~12.7% parcele) uz isključivo poljoprivredni status čini likvidaciju udjela iznimno teškom bez suglasnosti suvlasnika.",
+  "flags": [
+    "suvlasnički udio 343/2704 (~12.7% parcele) - manjinski udio",
+    "samo oranica - nema građevinskog statusa",
+    "bez objekta - čisto spekulativna zemlja"
+  ],
+  "input_hash": "033bec3c2eac",
+  "scored_at": "2026-05-11T09:41:37.397829"
+}

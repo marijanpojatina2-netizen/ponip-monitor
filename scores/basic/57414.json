@@ -1,0 +1,16 @@
+{
+  "id": "57414",
+  "score_overall": 3.0,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "75% popust na trećoj dražbi zvuči impresivno, ali kupovinom ½ suvlasničkog udjela u stečajnom postupku dobivate nekretninu bez mogućnosti samostalnog raspolaganja dok drugi suvlasnik ne pristane na prodaju ili podjelu. Ruralna Slavonija bez jasne exit strategije.",
+  "flags": [
+    "suvlasnički udio ½ - stečajni dužnik",
+    "suvlasništvo blokira samostalnu prodaju i korištenje",
+    "ruralna Slavonija/Podravina - minimalna tržišna potražnja"
+  ],
+  "input_hash": "b6b326a905ab",
+  "scored_at": "2026-05-11T09:41:37.397502"
+}

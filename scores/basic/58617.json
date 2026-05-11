@@ -1,0 +1,16 @@
+{
+  "id": "58617",
+  "score_overall": 4.0,
+  "score_lokacija": 3.0,
+  "score_roi": 5.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Ruralna mješovita imovina (kuća + oranica + vinograd + livada) u k.o. Haganj blizu Vrbovca ima izrazito tešku tržišnu likvidnost unatoč 40% popustu na drugoj dražbi. Udaljenost od ekonomskih centara i minimalna potražnja za ovakvim tipom imovine čine investicijski slučaj neodrživim.",
+  "flags": [
+    "ruralna lokacija s gotovo nepostojećim sekundarnim tržištem",
+    "mješovita imovina (stambeno + pol. zemljište) - kompleksno upravljanje i prodaja",
+    "starija katastrarska izmjera - moguća neslaganja u upisu"
+  ],
+  "input_hash": "23c3b4565c81",
+  "scored_at": "2026-05-11T09:39:47.023490"
+}

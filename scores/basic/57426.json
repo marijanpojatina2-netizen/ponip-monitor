@@ -1,0 +1,17 @@
+{
+  "id": "57426",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 4.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Budanica (okolica Bjelovara) - ruralno područje, kuća-dvor ali samo ½ suvlasničkog dijela što stvara ozbiljne pravne i praktične poteškoće pri korištenju ili prodaji. Treća dražba s 75% popustom ne kompenzira fundamentalne probleme.",
+  "flags": [
+    "samo ½ suvlasničkog dijela - blokada raspolaganja",
+    "treća dražba stečajnog dužnika",
+    "ruralno depopulacijsko područje",
+    "nejasno stanje objekta"
+  ],
+  "input_hash": "9260fdb7e595",
+  "scored_at": "2026-05-11T09:40:15.798671"
+}

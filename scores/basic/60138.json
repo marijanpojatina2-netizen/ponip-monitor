@@ -1,0 +1,17 @@
+{
+  "id": "60138",
+  "score_overall": 5.0,
+  "score_lokacija": 7.0,
+  "score_roi": 4.0,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Dubrovačka regija (Močići) nudi atraktivnu lokacijsku premiju, ali suvlasnički udio bez određenog omjera u heterogenom zemljištu (građevinsko/šuma/agro) ozbiljno ograničava autonomnost razvoja; prva dražba s tek 20% popustom ne kompenzira kompleksnost suvlasničkog odnosa.",
+  "flags": [
+    "suvlasnički udio (4047/23344) – razvoj ovisan o suglasnosti suvlasnika",
+    "mješovita namjena čestice (građevinsko + šuma + poljoprivredno)",
+    "prva dražba – minimalni popust od procjene (20%)",
+    "nejasna izlazna strategija bez razrješenja suvlasništva"
+  ],
+  "input_hash": "86bb734321db",
+  "scored_at": "2026-05-11T09:37:23.744412"
+}

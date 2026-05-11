@@ -1,0 +1,17 @@
+{
+  "id": "60190",
+  "score_overall": 2.5,
+  "score_lokacija": 4.0,
+  "score_roi": 2.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Ista nekretnina kao ID 60188 ali s još manjim udjelom od 1/6 i samo 20% popusta na prvoj dražbi čini ovu licitaciju najslabijom u skupini - praktički ste manjinski suvlasnik bez ikakve poluge za donošenje odluka o nekretnini. Ulaganje bez exit strategije.",
+  "flags": [
+    "suvlasnički udio 1/6 - manjinska pozicija bez upravljačke moći",
+    "ista nekretnina kao ID 60188 - fragmentirano vlasništvo više ovršenika",
+    "prva dražba - puna početna cijena",
+    "Slavonija - slaba likvidnost"
+  ],
+  "input_hash": "a27eaf348031",
+  "scored_at": "2026-05-11T09:41:37.397748"
+}

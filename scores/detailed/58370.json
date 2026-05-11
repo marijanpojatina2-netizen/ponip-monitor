@@ -1,0 +1,61 @@
+{
+  "id": "58370",
+  "score_overall": 6.5,
+  "score_lokacija": 6.5,
+  "score_roi": 7.5,
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Rekreacijski centar s teniskim terenima i sportskom halom na ~5.000+ m² zemljišta u Trešnjevki Novoj predstavlja rijetku investicijsku priliku u Zagrebu — 50% popust na drugoj dražbi čini ulaznu cijenu od 1,66M EUR potencijalno atraktivnom. Ključni katalizator je eventualna mogućnost prenamjene u stambenu izgradnju jer samo zemljište u Trešnjevki vrijedi 400–700 EUR/m², što daje 3,5–7M EUR samo za parcele. Specijalizirana komercijalna namjena (sport/rekreacija) limitira broj kupaca i produžuje exit, ali upside scenarij razvoja je iznimno visok. Nukleus analize mora biti provjera GUP-a i mogućnosti prenamjene zona — to određuje je li ovo deal desetljeća ili složena operativa.",
+  "flags": [
+    "Stečajni postupak — provjeri sve terete, hipoteke i tražbine u ZK izvadku prije licitacije",
+    "Specijalizirana namjena (sport/rekreacija) — smanjen bazen kupaca pri exit-u",
+    "Opis nekretnine je nepotpun (opis prekinut '...') — potrebno verificirati ukupnu površinu svih parcela i eventualnih zgrada",
+    "Visoka jamčevina od 331.659 EUR — značajan kapitalni angažman samo za ulazak",
+    "GUP zona još nepoznata — bez provjere prostornog plana nema sigurnosti o mogućnosti razvoja",
+    "Mogući postojeći ugovori o korištenju sportskih terena (članarine, zakupi sportkubovima) koji mogu komplicirati preuzimanje",
+    "'II ovršenika' — više ovršenika povećava složenost postupka i potencijalne pravne rizike"
+  ],
+  "market_estimate": {
+    "eur_min": 2800000,
+    "eur_max": 5500000,
+    "confidence": "low",
+    "basis": "Procjena temeljena na dvjema scenarijima: (1) Operativna vrijednost kao sportski centar u Zagrebu: 2,8–3,5M EUR na temelju sličnih objekata i kapitalnih vrijednosti. (2) Razvojna vrijednost pri prenamjeni u stambenu zonu: zemljište ~5.000 m² × 600–800 EUR/m² + vrijednost postrojenja = 4,5–5,5M EUR. Bez uvida u ZK izvadak, GUP i stanje objekata pouzdanost je niska."
+  },
+  "comparables": [
+    {
+      "opis": "Poslovni prostor / sportski objekt Trešnjevka, Zagreb — referentna vrijednost komercijalnog zemljišta u k.o. Trešnjevka Nova, cca 500–700 EUR/m² za gradivo",
+      "cijena": 2500000,
+      "m2": 4000,
+      "izvor": "tržišna procjena (web search nedostupan)",
+      "url": "N/A — web pretraga nije odobrena u ovoj sesiji"
+    },
+    {
+      "opis": "Stambeni razvoj Trešnjevka — nove izgradnje, prosječna cijena stanova 2.800–3.500 EUR/m² NKP (2025)",
+      "cijena": 3000,
+      "m2": 1,
+      "izvor": "tržišna procjena Zagreb 2025",
+      "url": "N/A — web pretraga nije odobrena"
+    },
+    {
+      "opis": "Teniski centar / sportska hala Zagreb (usporedivi objekti na tržištu) — procjena operativne vrijednosti",
+      "cijena": 3200000,
+      "m2": null,
+      "izvor": "tržišna procjena (analogni objekti)",
+      "url": "N/A — web pretraga nije odobrena"
+    }
+  ],
+  "investment_strategy": "RAZVOJ (primarni) + OPERATIVNO RESTRUKTURIRANJE (sekundarni): Primarna strategija je kupnja s ciljem prenamjene u stambenu ili mješovitu gradnju — Zagreb bilježi kronični nedostatak stanova, a ~5.000 m² u Trešnjevki sa stambenom namjenom moglo bi dati 100–150 stanova uz NPV višestruko iznad ulazne cijene. Sekundarno, ako GUP ne dopušta prenamjenu, objekt se može modernizirati (wellness, fitness, padel tereni) i prodati strateškom investitoru (fitness lanci, hoteli uz Jarun) ili dugoročno iznajmljivati. Reno-flip nije preporučljiv zbog specifičnosti sportkomercijalnih objekata i niskog prometa na sekundarnom tržištu.",
+  "entry_price_eur": 1900000,
+  "detailed_risks": [
+    "GUP rizik: ako je zona S (sport) bez mogućnosti prenamjene, razvojni upside potpuno pada — operativni model sam po sebi možda nije dovoljno profitabilan za opravdanje investicije",
+    "Skriveni tereti: stečajni postupci znaju imati zaostale obveze (komunalije, porez, hipoteke) koje ne prestaju prodajom ako nisu pravilno uređene — nužna puna due diligence",
+    "Nepoznata veličina građevina: opis ne navodi BRP/NKP sportske hale — stanje i površina izravno utječe na vrijednost i troškove prenamjene",
+    "Likvidnost pri exit-u: specijalizirani komercijalni objekt u stečaju ima ograničen broj zainteresiranih kupaca, exit može trajati 3–5 godina",
+    "Administrativni rizik: izmjena GUP-a i dobivanje dozvola u Zagrebu može trajati 2–4 godine i biti nepredvidivo",
+    "Kapitalni troškovi: sportska infrastruktura (hala, tereni, parkiralište) zahtijeva kontinuirano ulaganje u održavanje čak i pri operativnom modelu"
+  ],
+  "upside_scenario": "Provjera potvrdi stambenu ili mješovitu zonu u GUP-u: razvoj 120 stanova prosječno 60 m² × 3.200 EUR/m² = prihod ~23M EUR. Troškovi gradnje ~1.200 EUR/m² × 7.200 m² = 8,6M EUR + kupnja 1,75M EUR + dozvole/infrastruktura ~1M EUR = ukupni troškovi ~11,3M EUR. Neto dobit ~11,7M EUR na horizontu 4–6 godina. Alternativno: prodaja cijelog projekta developerima po ~5–6M EUR u roku 2 godine.",
+  "downside_scenario": "GUP strogo ograničava zonu na sport/rekreaciju, a operativni model (teniski centar, sportska hala) u stečajnom stanju ne donosi dovoljan prihod. Tekući troškovi održavanja ~100–150K EUR/godišnje erodiraju kapital. Exit na specijaliziranom tržištu traje 5+ godina uz prodaju blizu kupovne cijene — IRR ispod 5%, bez kompenzacije za vezani kapital i administrativni trud.",
+  "input_hash": "4b96f220a4ef",
+  "scored_at": "2026-05-11T09:43:46.922383"
+}

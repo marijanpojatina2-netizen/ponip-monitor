@@ -1,0 +1,17 @@
+{
+  "id": "60188",
+  "score_overall": 3.5,
+  "score_lokacija": 4.0,
+  "score_roi": 3.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Samo 20% popusta na prvoj dražbi u Slavonskom Brodu daje slab ROI ulaz, a suvlasnički udio 3/6 zahtijeva suglasnost preostalih suvlasnika što značajno komplicira svaku dispoziciju. Slavonija ima kroničan problem likvidnosti nekretnina.",
+  "flags": [
+    "suvlasnički udio 3/6 - potrebna suglasnost ostalih suvlasnika",
+    "prva dražba - nema cjenovnog pritiska",
+    "Slavonija - slaba likvidnost tržišta",
+    "nepoznato stanje objekta"
+  ],
+  "input_hash": "8eec3a8b27e7",
+  "scored_at": "2026-05-11T09:41:37.397297"
+}

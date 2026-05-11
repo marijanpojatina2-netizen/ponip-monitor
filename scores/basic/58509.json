@@ -1,0 +1,15 @@
+{
+  "id": "58509",
+  "score_overall": 6.0,
+  "score_lokacija": 5.5,
+  "score_roi": 7.0,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Wellness/fitnes 99 m² u potkrovlju terme s 40% popustom i zdravstveni turizam su tematski usklađeni, a hotelski operatori redovito traže ovakve sadržaje pod zakup. Potkrovlje može zahtijevati skuplje infrastrukturne zahvate (klima, ventilacija), a konverzija u drugu namjenu je ograničena.",
+  "flags": [
+    "potkrovlje - potencijalni infrastrukturni troškovi (klima, ventilacija)",
+    "specifična wellness namjena - ograničena konverzija bez kapitalnih zahvata"
+  ],
+  "input_hash": "2f73fd306d65",
+  "scored_at": "2026-05-11T09:39:47.023398"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "58760",
+  "score_overall": 3.5,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Ruralna lokacija Brezova Glava kod Karlovca s depopulacijskim trendom i minimalnom tržišnom potražnjom čini likvidnost izlaska praktički nepostojećom; unatoč 50% popustu, zgrada mješovite namjene na 7.212 m2 bez jasnih kupaca u toj regiji ne opravdava kapital.",
+  "flags": [
+    "ruralna depopulacijska lokacija (k.o. Tušilović)",
+    "nejasna namjena objekta i tržišna potražnja",
+    "slaba likvidnost Karlovačke županije za ovu vrstu nekretnine"
+  ],
+  "input_hash": "2d22480f7646",
+  "scored_at": "2026-05-11T09:37:23.744297"
+}

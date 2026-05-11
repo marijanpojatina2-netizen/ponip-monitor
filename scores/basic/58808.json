@@ -1,0 +1,15 @@
+{
+  "id": "58808",
+  "score_overall": 7.0,
+  "score_lokacija": 7.0,
+  "score_roi": 7.5,
+  "score_stanje": 6.0,
+  "recommendation": "bid",
+  "reasoning": "Stan od 65,75 m2 u Splitu s 40% popustom (135k EUR početna) je realna prijelika za kratkoročni najam ili flip u jednom od najlikvidnijih dalmatinskih tržišta; orijentacija istok i peti kat bez lifta su manji minusi koji ne narušavaju osnaženu investicijsku tezu.",
+  "flags": [
+    "nije navedeno stanje interijera (mogući skriveni troškovi uređenja)",
+    "petim kat – potrebno provjeriti postoji li lift"
+  ],
+  "input_hash": "03be81ec6828",
+  "scored_at": "2026-05-11T09:37:23.744729"
+}

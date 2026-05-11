@@ -1,0 +1,16 @@
+{
+  "id": "58672",
+  "score_overall": 7.5,
+  "score_lokacija": 8.5,
+  "score_roi": 8.0,
+  "score_stanje": 5.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Stan na Ilici 47 u centru Zagreba s 40% popustom (113.4k EUR) je izniman investicijski slučaj – Ilica je jedna od najprestižnijih adresa u Hrvatskoj s maksimalnom likvidnošću i snažnom potražnjom za dugoročnim i kratkoročnim najmom; starija gradnja i prvi kat zahtijevaju provjeru ZK tereta i stanja instalacija, ali potencijal kapitalne aprecijacije i prinosa od najma jasno opravdava duboku analizu.",
+  "flags": [
+    "starija gradnja – potrebna provjera stanja instalacija i konstrukcije",
+    "prvi kat (nešto niža vrijednost od viših katova)",
+    "provjeriti eventualne ZK terete i stanare"
+  ],
+  "input_hash": "65b6db17910d",
+  "scored_at": "2026-05-11T09:37:23.745001"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "60140",
+  "score_overall": 5.5,
+  "score_lokacija": 8.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Dubrovačko područje (k.o. Močići) je premium lokacija, no 7.205 m² koji su dijelom šuma i dijelom planirana prometnica praktički eliminiraju razvojni potencijal i nose ozbiljan rizik djelomičnog izvlaštenja bez naknade tržišne vrijednosti. Samo 20% popust na prvoj dražbi ne opravdava ulazak uz ova ograničenja.",
+  "flags": [
+    "dijelom planirana prometnica - visok rizik izvlaštenja",
+    "šumsko područje - stroga ograničenja gradnje i promjene namjene",
+    "prva dražba, svega 20% popust - nepovoljna ulazna matematika",
+    "nejasna struktura (1/2 + 1/2 iste k.č.) - potrebna provjera ZK stanja"
+  ],
+  "input_hash": "d39752391cba",
+  "scored_at": "2026-05-11T09:39:47.023582"
+}

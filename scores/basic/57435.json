@@ -1,0 +1,17 @@
+{
+  "id": "57435",
+  "score_overall": 2.0,
+  "score_lokacija": 1.5,
+  "score_roi": 2.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Isključivo poljoprivredno zemljište (voćnjak, oranica, vinograd, šuma, livada) u ruralnom zaleđu Bjelovara bez ikakvog objekta, a k tome samo ½ suvlasničkog udjela u stečaju. Ukupno ~9887m² fragmentiranog agrarnog zemljišta bez infrastrukture nema investicijskog smisla.",
+  "flags": [
+    "suvlasnički udio ½ - stečajni dužnik",
+    "samo poljoprivredno zemljište - nema objekta",
+    "depopulacijska ruralna zona",
+    "fragmentirane parcele različitih kultura - kompleksna administracija"
+  ],
+  "input_hash": "9b7668aca7ad",
+  "scored_at": "2026-05-11T09:41:37.397669"
+}

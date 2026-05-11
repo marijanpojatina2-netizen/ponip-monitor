@@ -1,0 +1,16 @@
+{
+  "id": "58370",
+  "score_overall": 6.0,
+  "score_lokacija": 6.5,
+  "score_roi": 6.5,
+  "score_stanje": 6.0,
+  "recommendation": "watch",
+  "reasoning": "Dobar 50% popust i potencijal za redevelopment sportsko-rekreacijskog kompleksa u Zagrebu; međutim, specijalizirana namjena, visoka jamčevina od 331k EUR i kompleksna izlazna strategija čine ovaj projekt prikladan samo za kapitalnog investitora s jasnim planom konverzije.",
+  "flags": [
+    "specijalizirana namjena (sportska hala, teniski tereni – ograničena prenamjena)",
+    "visoka ulazna kapitalna barijera (jamčevina 331k EUR)",
+    "operativna kompleksnost pri upravljanju ili redevelopmentu"
+  ],
+  "input_hash": "4b96f220a4ef",
+  "scored_at": "2026-05-11T09:37:23.744017"
+}

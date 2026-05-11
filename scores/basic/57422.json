@@ -1,0 +1,17 @@
+{
+  "id": "57422",
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Budanica - identična lokacijska problematika kao ID 57426, ovdje pak 2/4 suvlasnički dio mješovitog posjeda (šuma+oranica+voćnjak+kuća). 75% popust privlačan ali bez izlazne strategije u ruralnoj Bilogori.",
+  "flags": [
+    "2/4 suvlasničkog dijela - pravna kompleksnost",
+    "treća dražba stečajnog dužnika",
+    "ruralno depopulacijsko područje",
+    "mješoviti posjed - teže upravljanje"
+  ],
+  "input_hash": "b8f05e457b27",
+  "scored_at": "2026-05-11T09:40:15.798849"
+}

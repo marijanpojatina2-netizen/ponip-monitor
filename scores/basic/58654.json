@@ -1,0 +1,16 @@
+{
+  "id": "58654",
+  "score_overall": 2.5,
+  "score_lokacija": 3.5,
+  "score_roi": 2.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Udio od samo 1/6 na 933 m2 oranice i livade praktički je neunovčiva imovina — šest suvlasnika na maloj parceli čini bilo kakvu dispoziciju gotovo nemogućom bez dugotrajnih sudskih postupaka. Najslabiji case od sva tri objekta usprkos jednakom postotnom popustu.",
+  "flags": [
+    "suvlasnički udio 1/6 — ekstremna fragmentacija vlasništva",
+    "poljoprivredno zemljište — oranica i livada, nema građevnog potencijala",
+    "praktički nemoguća likvidacija bez svih suvlasnika"
+  ],
+  "input_hash": "a4b46a282e94",
+  "scored_at": "2026-05-11T09:42:15.045264"
+}

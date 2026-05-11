@@ -1,0 +1,16 @@
+{
+  "id": "58570",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 4.0,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "40% popust privlačan je ali zapuštena kuća s ruševnim dvorišnim objektima u selu Botinovec kraj Koprivnice znači visoke troškove sanacije u depopulacijskoj ruralnoj zoni. Teško je identificirati realnog kupca ili stanara po završetku radova.",
+  "flags": [
+    "zapuštena kuća - visoki troškovi renovacije",
+    "ruševni dvorišni objekti",
+    "ruralna depopulacijska lokacija - niska likvidnost"
+  ],
+  "input_hash": "79e3d7320786",
+  "scored_at": "2026-05-11T09:41:37.397406"
+}

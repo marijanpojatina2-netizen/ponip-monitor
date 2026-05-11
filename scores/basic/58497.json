@@ -1,0 +1,16 @@
+{
+  "id": "58497",
+  "score_overall": 4.5,
+  "score_lokacija": 4.5,
+  "score_roi": 5.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Podrum (PP-7) kao lokacija ugostiteljskog objekta u Krapinskim Toplicama je strukturalna slabost koja drastično sužava krug potencijalnih zakupnika i kupaca; 40% popust ne kompenzira kombinirani rizik podrumske pozicije, specifične namjene i ograničene likvidnosti Zagorja.",
+  "flags": [
+    "podrum lokacija (PP-7) – ograničava ugostiteljsku privlačnost i protok gostiju",
+    "specifična namjena (caffe bar) – uski krug zainteresiranih kupaca",
+    "ograničena tržišna likvidnost (Krapinske Toplice, manji grad)"
+  ],
+  "input_hash": "193281b7f5e3",
+  "scored_at": "2026-05-11T09:37:23.744899"
+}

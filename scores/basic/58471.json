@@ -1,0 +1,15 @@
+{
+  "id": "58471",
+  "score_overall": 4.5,
+  "score_lokacija": 4.5,
+  "score_roi": 6.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Podrumski poslovni prostor namijenjen kladionici i mjenjačnici (38 m²) nudi 40% popust, ali kombinacija podruma, specifične namjene i male kvadrature čini konverziju skupom i exit strategiju neizvjesnom. Najslabija ponuda u klasteru Krapinske Toplice s ograničenim brojem zainteresiranih kupaca.",
+  "flags": [
+    "podrum - najniža atraktivnost i vrijednost unutar zgrade",
+    "specifična namjena (kladionica/mjenjačnica) - teška konverzija i uzak krug kupaca"
+  ],
+  "input_hash": "44c199a12877",
+  "scored_at": "2026-05-11T09:39:47.023823"
+}
