@@ -1,0 +1,16 @@
+{
+  "id": "58855",
+  "score_overall": 3.5,
+  "score_lokacija": 3.0,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "50% popust i stečajna 2. dražba daju solidan cjenovni ulaz za čistu oranicu 5138 m² u k.o. Oljasi, ali bez objekta i u ruralnoj Slavoniji potencijal prenamjene i resale-a ostaje jako ograničen.",
+  "flags": [
+    "Stečajni postupak",
+    "Čisto poljoprivredno zemljište - bez objekta",
+    "Ruralna lokacija, slaba potražnja"
+  ],
+  "input_hash": "0e9435e67143",
+  "scored_at": "2026-05-12T08:39:03.891882"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "58875",
+  "score_overall": 3.5,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "50% popust privlači pozornost, ali radi se o oranici 1943 m² u ruralnom selu Oljasi u stečajnom postupku - iznos transakcije (~2.250 EUR) je nizak, ali troškovi due diligence i pravni rizici stečaja relativno su visoki u odnosu na potencijalni prinos.",
+  "flags": [
+    "Stečajni postupak",
+    "Mala parcela - ograničen razvojni potencijal",
+    "Visoki relativni transakcijski troškovi vs. vrijednost"
+  ],
+  "input_hash": "9d47c050fb68",
+  "scored_at": "2026-05-12T08:39:03.892135"
+}

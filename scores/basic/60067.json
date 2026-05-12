@@ -1,0 +1,17 @@
+{
+  "id": "60067",
+  "score_overall": 3.5,
+  "score_lokacija": 5.0,
+  "score_roi": 4.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Zapuštena bivša pekara od svega ~45 m2 u Zaprešiću zahtijeva kompletnu rekonstrukciju i promjenu namjene, a specifičan tlocrt i mala površina otežavaju prenamjenu u standardni poslovni ili stambeni prostor; 20% popust nedovoljan za troškove sanacije.",
+  "flags": [
+    "zapušteno stanje – potrebna kompletna rekonstrukcija",
+    "specifičan tlocrt bivše pekare (teška prenamjena)",
+    "mala površina ~45 m2 – ograničava upotrebljivost",
+    "potrebna promjena namjene s dozvoljenim aktima"
+  ],
+  "input_hash": "8fe9ab197484",
+  "scored_at": "2026-05-12T08:37:57.458234"
+}

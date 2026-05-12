@@ -1,0 +1,17 @@
+{
+  "id": "58871",
+  "score_overall": 2.0,
+  "score_lokacija": 3.0,
+  "score_roi": 2.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Oznaka 'TURSKO GROBLJE' je kritičan red flag - takve parcele često imaju status kulturno-povijesne zaštite ili de facto zabranu izgradnje i preunamjene, čime se 50% popust u potpunosti poništava; apsolutno zahtijeva pravnu provjeru prije ikakvog interesa.",
+  "flags": [
+    "KRITIČNO: Tursko groblje - mogući status kulturne zaštite",
+    "Stečajni postupak",
+    "De facto neupotrebljivo za izgradnju ili prenamjenu",
+    "Niska tržišna likvidnost čak i bez ovih ograničenja"
+  ],
+  "input_hash": "86a00fba79ba",
+  "scored_at": "2026-05-12T08:39:03.892241"
+}

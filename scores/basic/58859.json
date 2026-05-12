@@ -1,0 +1,16 @@
+{
+  "id": "58859",
+  "score_overall": 4.5,
+  "score_lokacija": 3.0,
+  "score_roi": 6.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Jedina nekretnina u skupini koja kombinira kuću s dvorištem i veliku parcelu (12.123 m²) uz 50% popust na stečajnoj dražbi - relativno zanimljiv case za agro/rural investitore; Oljasi je malo slavonsko selo pa je izlazna likvidnost ograničena, a stanje kuće iz opisa nije poznato.",
+  "flags": [
+    "Stečajni postupak - moguće skrivene obveze",
+    "Stanje objekta nepoznato",
+    "Ruralna lokacija - ograničena likvidnost resale"
+  ],
+  "input_hash": "a9ec74cf6c59",
+  "scored_at": "2026-05-12T08:39:03.891660"
+}

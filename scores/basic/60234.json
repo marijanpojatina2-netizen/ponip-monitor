@@ -1,0 +1,16 @@
+{
+  "id": "60234",
+  "score_overall": 3.0,
+  "score_lokacija": 3.5,
+  "score_roi": 3.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Mala šumska čestica od 1078 m² u Belom Manastiru s minimalnim popustom od 20% na prvoj dražbi nema smisleni investicijski case - premalena za ozbiljnu šumarsku eksploataciju, a ograničena namjena šume blokira razvoj.",
+  "flags": [
+    "Samo 20% popust - 1. dražba",
+    "Šuma - ograničena i regulirana namjena",
+    "Premala parcela za ekonomski smislen razvoj"
+  ],
+  "input_hash": "7894270f8aca",
+  "scored_at": "2026-05-12T08:39:03.892030"
+}

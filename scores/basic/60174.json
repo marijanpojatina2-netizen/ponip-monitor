@@ -1,0 +1,16 @@
+{
+  "id": "60174",
+  "score_overall": 5.5,
+  "score_lokacija": 6.0,
+  "score_roi": 5.5,
+  "score_stanje": 7.0,
+  "recommendation": "watch",
+  "reasoning": "Relativno nova brodica (2019., Mercury 150KS) s realnim charter potencijalom u istarskim vodama; ipak pokretnina s ubrzanom depresijacijom, regulatornim zahtjevima za charter i logističkim troškovima čini ROI neizvjesnim.",
+  "flags": [
+    "pokretnina – nema kapitalne aprecijacije",
+    "charter regulativa (licenciranje, osiguranje, luka)",
+    "troškovi veza i sezonskog održavanja"
+  ],
+  "input_hash": "bc1ca59ed732",
+  "scored_at": "2026-05-12T08:37:57.458008"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "56491",
+  "score_overall": 5.0,
+  "score_lokacija": 5.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Zagreb adresa je pozitiv, ali Jakuševec/Hrelićka zavrtnica je marginalna zona blizu odlagališta otpada Jakuševac što značajno deprimira vrijednost i tržišnu likvidnost; 20% popust na prvoj dražbi nedovoljan je za taj mikrolokacijski rizik.",
+  "flags": [
+    "blizina odlagališta otpada Jakuševac",
+    "industrijska/marginalna zona unutar Zagreba",
+    "nedovoljan opis stanja objekta"
+  ],
+  "input_hash": "e3827083c602",
+  "scored_at": "2026-05-12T08:37:57.457826"
+}

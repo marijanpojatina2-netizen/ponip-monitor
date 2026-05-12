@@ -1,0 +1,16 @@
+{
+  "id": "60232",
+  "score_overall": 3.5,
+  "score_lokacija": 3.5,
+  "score_roi": 4.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Beli Manastir nudi blago bolju lokaciju od okolnih sela, ali samo 20% popust na prvoj dražbi daje minimalan ROI cushion; oznaka 'zemljište pod zgradama' bez jasnog opisa objekta i voćnjak 4265 m² otvaraju pitanja namjene i stanja.",
+  "flags": [
+    "Samo 20% popust - 1. dražba, bez bonusa",
+    "Nejasna kategorija 'zemljište pod zgradama' - nepoznat objekt",
+    "Slaba likvidnost Baranje za nerezidencijalnu nekretninu"
+  ],
+  "input_hash": "1f01e199b9ef",
+  "scored_at": "2026-05-12T08:39:03.891776"
+}

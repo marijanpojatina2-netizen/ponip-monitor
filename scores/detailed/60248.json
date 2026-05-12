@@ -1,0 +1,59 @@
+{
+  "id": "60248",
+  "score_overall": 4.5,
+  "score_lokacija": 4.0,
+  "score_roi": 5.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Sveti Križ Začretje je mala općina u Krapinsko-zagorskoj županiji, ~40 km sjeverno od Zagreba — nije turistička destinacija prvog reda ni visoko likvidno tržište. Procijenjena vrijednost od 635.700 EUR izrazito je visoka za ovu mikrolokaciju, što sugerira veći objekt (hotel/pansion/vila s okućnicom) ili kompleks s komercijalnim sadržajem, ali bez potvrđene veličine i stanja rizik je značajan. Popust 25% na prvoj dražbi je umjeren; ukoliko nekretnina ne bude prodana, u drugoj/trećoj dražbi cijena pada te deal postaje znatno privlačniji. Preporuča se razgledavanje i pričekati drugu ili treću dražbu.",
+  "flags": [
+    "Stečajni postupak (Trgovački sud) — moguće skrivene obveze, hipoteke ili tereti",
+    "Prva dražba — cijena vjerojatno neatraktivna; čekati pad u idućim krugovima",
+    "Opis ne navodi veličinu (m²), namjenu ni stanje — potpuna neizvjesnost bez razgledavanja",
+    "Visoka procijenjena vrijednost za ruralnu/prigradsku lokaciju Zagorja — sumnjiva metodologija procjene ili specifičan komercijalni objekt",
+    "Kontakt procesa isključivo putem stečajne upraviteljice — ograničena transparentnost"
+  ],
+  "market_estimate": {
+    "eur_min": 350000,
+    "eur_max": 520000,
+    "confidence": "low",
+    "basis": "Krapinsko-zagorska županija: prosječne cijene stambenih nekretnina 800–1.400 EUR/m² (Zabok/okolica), poslovnih/hostelskih objekata 600–1.000 EUR/m². Bez poznatih m² i namjene procjena je gruba. Procjena od 635.700 EUR implicitno sugerira 500–700+ m² korisne površine ili značajno zemljište. Tržišna likvidnost regije niska — duge prodajne periode 6–18+ mj."
+  },
+  "comparables": [
+    {
+      "opis": "Veća kuća / vila, Zabok okolica, ~400 m², renovirana, okućnica",
+      "cijena": 380000,
+      "m2": 400,
+      "izvor": "njuskalo.hr (procjena segmenta)",
+      "url": "https://www.njuskalo.hr/prodaja-kuca/zabok"
+    },
+    {
+      "opis": "Pansion / manji hotel, Krapinsko-zagorska, ~600 m²",
+      "cijena": 490000,
+      "m2": 600,
+      "izvor": "nekretnine.net (procjena segmenta)",
+      "url": "https://www.nekretnine.net/stambeni-objekti/kuce/lista/pretraga/?locationIds=krapinsko-zagorska-zupanija"
+    },
+    {
+      "opis": "Stambeno-poslovni objekt, Sveti Križ Začretje / Zabok, starija gradnja",
+      "cijena": 310000,
+      "m2": 350,
+      "izvor": "njuskalo.hr (procjena segmenta)",
+      "url": "https://www.njuskalo.hr/prodaja-kuca/krapinsko-zagorska-zupanija"
+    }
+  ],
+  "investment_strategy": "Agroturizam / pansion / sezonski najam — Zagorska regija bilježi rast domaćeg turizma (toplice, dvorci, ruralni turizam), a Zagreb proximity (~40 min) daje opciju dugoročnog najma ili povremenog smještaja. Reno-flip nije privlačan zbog slabe likvidnosti tržišta; razvoj u B&B / pansion uz EU fondove (LEADER, ruralni razvoj) realniji scenarij. Preprodaja visokorisična bez značajnijeg ulaganja u marketing i pozicioniranje.",
+  "entry_price_eur": 380000,
+  "detailed_risks": [
+    "Tržišna likvidnost Krapinsko-zagorske iznimno niska — exit u kratkom roku gotovo nemoguć",
+    "Visoka procijenjena vrijednost (635.700 EUR) može biti nerealna za regiju — procjenitelj mogao koristiti zamjensku vrijednost, ne tržišnu",
+    "Nepoznata namjena objekta iz ZK ulošku — moguća industrijska/poslovna namjena s ograničenjem prenamjene",
+    "Stečajni dužnik: potencijalni porezi, komunalni dugovi, hipoteke rangirana iznad kupovne cijene",
+    "Bez navedene kvadrature — sve računice su špekulativne do razgledavanja",
+    "Infrastrukturne potrebe (struja, voda, kanalizacija) nepoznate za objekt ove veličine izvan urbanog jezgra"
+  ],
+  "upside_scenario": "Ako je objekt 600+ m² u solidnom stanju (bivši hotel, pansion, veća vila) s dozvolama, uz ulaganje 80–120k EUR u renovaciju i pozicioniranje kao boutique ruralni smještaj, moguće postizanje 500–600k EUR tržišne vrijednosti kroz 2–3 god. uz ROI od 10–15% na godišnjoj razini kroz iznajmljivanje (sezonski + weekendi). Uz EU fondove povrat se skraćuje.",
+  "downside_scenario": "Objekt zahtijeva temeljitu rekonstrukciju, ima opterećene terete ili je industrijski/poslovni bez opcije stambene prenamjene. Vrijednost pada na 200–280k EUR, exit dugotrajan, ukupni gubitak potencijalno 150–200k EUR. Najgori scenarij: nepropadajuća komunalna dugovanja i blokada uknjižbe.",
+  "input_hash": "319c52836e12",
+  "scored_at": "2026-05-12T08:46:12.363663"
+}

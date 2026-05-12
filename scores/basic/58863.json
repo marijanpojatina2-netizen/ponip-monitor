@@ -1,0 +1,16 @@
+{
+  "id": "58863",
+  "score_overall": 3.5,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica s voćnjakom 1670 m² u k.o. Oljasi uz 50% popust i stečajnu 2. dražbu ima relativno solidnu cjenovnu poziciju za svega ~1.900 EUR, ali mali iznos i ruralna lokacija bez jasne exit strategije čine ovo spekulativnom kupnjom niske prioritete.",
+  "flags": [
+    "Stečajni postupak",
+    "Mala parcela - ograničen potencijal",
+    "Bez objekta - čisto agro zemljište"
+  ],
+  "input_hash": "5c90f676ea8b",
+  "scored_at": "2026-05-12T08:39:03.892340"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "60132",
+  "score_overall": 2.5,
+  "score_lokacija": 4.5,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Duplikat ID-a klasificiran kao pokretnina uz identičan opis nekretnine – nejasno što se zapravo prodaje; pokretnine imaju slabiji dugoročni ROI, a ovdje je predmet kupnje potpuno nedefiniran.",
+  "flags": [
+    "duplikat ID-a s nekretninom 1",
+    "vrsta 'pokretnina' uz opis tipičan za nekretninu – nejasan predmet prodaje",
+    "suvlasnički udio u garažnom prostoru"
+  ],
+  "input_hash": "7d053b550551",
+  "scored_at": "2026-05-12T08:37:57.457536"
+}

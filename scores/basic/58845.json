@@ -1,0 +1,17 @@
+{
+  "id": "58845",
+  "score_overall": 3.5,
+  "score_lokacija": 2.0,
+  "score_roi": 5.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Bocanjevci je malo ruralno naselje u Valpovštini s vrlo slabom likvidnošću tržišta nekretnina i depopulacijskim trendovima, što drastično ograničava izlaznu strategiju. Popust od 40% na drugoj dražbi je tehnički atraktivan, ali je nerealno očekivati prodaju ili ozbiljan najam u toj mikrolokaciji.",
+  "flags": [
+    "ruralno depopulacijsko područje",
+    "niska likvidnost tržišta",
+    "Valpovština - otežana preprodaja",
+    "stanje nepoznato - vjerojatno potrebna obnova"
+  ],
+  "input_hash": "73b88fbb23ec",
+  "scored_at": "2026-05-12T08:39:12.726710"
+}
