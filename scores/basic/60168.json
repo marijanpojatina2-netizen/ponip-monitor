@@ -1,0 +1,15 @@
+{
+  "id": "60168",
+  "score_overall": 5.5,
+  "score_lokacija": 6.0,
+  "score_roi": 5.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća u rubnoj zagrebačkoj zoni (Granešina Nova - Loborinci) s 20% popustom i benefitom likvidnog zagre-bačkog tržišta, ali periferijska lokacija ograničava prinos najma i brzinu izlaza. Bez poznatog stanja objekta teško je procijeniti ukupni trošak investicije.",
+  "flags": [
+    "periferijska lokacija - Granešina Nova/Loborinci, niža atraktivnost",
+    "nepoznato stanje objekta - mogući skriveni troškovi"
+  ],
+  "input_hash": "d79fd6f2da91",
+  "scored_at": "2026-05-13T08:43:10.640726"
+}

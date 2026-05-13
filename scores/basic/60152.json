@@ -1,0 +1,16 @@
+{
+  "id": "60152",
+  "score_overall": 4.5,
+  "score_lokacija": 4.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Dom za starije i nemoćne u ruralnom Zagorju (Mihovljan/Zlatar) s visokospecijaliziranom namjenom objekta i ograničenom tržišnom likvidnošću; jedini investicijski scenarij je nastavak iste djelatnosti ili složena prenamjena. Lokacija nema turističkog ni poslovnog razvojnog potencijala koji bi opravdao agresivnu licitaciju.",
+  "flags": [
+    "specijalizirana namjena - dom za starije i nemoćne, upitna prenamjena",
+    "ruralna lokacija - niska likvidnost nekretnina",
+    "potencijalne licencne i regulatorne obveze"
+  ],
+  "input_hash": "a94ee3cfb3d8",
+  "scored_at": "2026-05-13T08:43:10.640612"
+}

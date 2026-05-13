@@ -1,0 +1,16 @@
+{
+  "id": "60009",
+  "score_overall": 4.0,
+  "score_lokacija": 6.5,
+  "score_roi": 3.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Prodaja isključivo 1/2 suvlasničkog udjela eliminira praktični upravljački i dispozicijski potencijal bez suglasnosti ili sudskog postupka prema drugom suvlasniku, bez obzira na dobru riječku lokaciju. Suvlasnički rizik čini ovaj predmet investicijski nefunkcionalnim za standardnog investitora.",
+  "flags": [
+    "KRITIČNO: samo 1/2 suvlasničkog udjela - nema autonomnog upravljanja ni prodaje",
+    "potrebna suglasnost ili sudski postupak za svaku dispoziciju",
+    "potencijalni dugotrajni suvlasnički spor"
+  ],
+  "input_hash": "e0a9efcbe2ee",
+  "scored_at": "2026-05-13T08:43:10.640832"
+}

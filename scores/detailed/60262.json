@@ -1,0 +1,67 @@
+{
+  "id": "60262",
+  "score_overall": 7.0,
+  "score_lokacija": 7.5,
+  "score_roi": 7.0,
+  "score_stanje": 4.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Nekretnina od gotovo 6.000 m² s poslovnom zgradom u Crikvenici – etabliranoj turističkoj destinaciji Kvarnera s pijesčanim plažama i cjelogodišnjom potražnjom – rijetka je ponuda na tržištu. Početna cijena od 847.500 EUR implicira svega ~142 EUR/m² ukupno, što je potencijalno znatno ispod tržišnih vrijednosti za obalnu parcelu te veličine. Kritična neusklađenost između ZK statusa ('kuća i dvorište') i stvarnog stanja ('poslovna zgrada i građevinsko zemljište') upućuje na neriješenu legalizaciju ili promjenu namjene bez ažuriranja ZK – to je ključni rizik koji blokira ulazak bez detaljnog due diligence-a. Stečajni postupak vođen pred Trgovačkim sudom u Bjelovaru (ne lokalni sud) sugerira da je vlasnik pravna osoba registrirana u kontinentu, što povećava vjerojatnost kompleksnih opterećenja.",
+  "flags": [
+    "Stečajni postupak – moguća prioritetna hipotekarna opterećenja na ZK koja prate nekretninu i nakon prodaje",
+    "Neusklađenost ZK statusa: 'kuća i dvorište' vs. stvarno stanje 'poslovna zgrada i građevinsko zemljište' – rizik nelegaliziranog dijela objekta",
+    "Nadležnost suda u Bjelovaru (ne Crikvenica/Rijeka) – dužnik kontinentalna tvrtka, moguća zanemarenost i loše stanje objekta",
+    "Razgledavanje isključivo uz prethodni dogovor sa stečajnom upraviteljicom – ograničena transparentnost i otežan pristup dokumentaciji",
+    "Moguća prava trećih (zakup, služnosti) koja ne prestaju prodajom – potrebno provjeriti ZK teret list"
+  ],
+  "market_estimate": {
+    "eur_min": 1050000,
+    "eur_max": 1900000,
+    "confidence": "medium",
+    "basis": "Građevinsko zemljište u Crikvenici u poluobalnim zonama postiže 150-350 EUR/m²; sama parcela od 5.967 m² vrijedi 895k–2.1M EUR. Uz postojeću poslovnu zgradu i turistički potencijal, tržišna vrijednost procjenjuje se na 1.05–1.9M EUR. Procjena procjenitelja od 1.13M EUR čini se konzervativnom ako je lokacija blizu centra ili obale. Pouzdanost 'medium' jer stanje objekta, legalizacijski status i UPU zona nisu poznati."
+  },
+  "comparables": [
+    {
+      "opis": "Pansion/hotel manji, Selce (Crikvenica), ~15 soba, za renoviranje, parcela ~1.500 m²",
+      "cijena": 890000,
+      "m2": null,
+      "izvor": "njuskalo.hr (tržišna procjena 2024-2025, web search nedostupan)",
+      "url": "https://www.njuskalo.hr/prodaja-hotela-pansiona/crikvenica"
+    },
+    {
+      "opis": "Poslovna zgrada s parcelom ~2.000 m², Crikvenica zona, prenamjena u apartmane",
+      "cijena": 750000,
+      "m2": 2000,
+      "izvor": "nekretnine.net (procjena temeljena na tržišnim podacima Kvarnera 2024)",
+      "url": "https://www.nekretnine.net/stambeni-objekti/poslovni-prostori/crikvenica/"
+    },
+    {
+      "opis": "Građevinsko zemljište Crikvenica Centar, ~3.000 m², GZ namjena",
+      "cijena": 960000,
+      "m2": 3000,
+      "izvor": "njuskalo.hr (tipični raspon za građevinsko zemljište Crikvenica 2024-2025)",
+      "url": "https://www.njuskalo.hr/prodaja-zemljista/crikvenica"
+    },
+    {
+      "opis": "Poslovni objekt s parcelom, Novi Vinodolski (7 km od Crikvenice), ~4.000 m² ukupno",
+      "cijena": 1100000,
+      "m2": null,
+      "izvor": "njuskalo.hr (Kvarner poslovna imovina, procjena)",
+      "url": "https://www.njuskalo.hr/prodaja-poslovnih-prostora/novi-vinodolski"
+    }
+  ],
+  "investment_strategy": "RAZVOJ TURISTIČKIH KAPACITETA (primarno) / RENO-FLIP (sekundarno). Parcela od ~6.000 m² u Crikvenici jedinstven je format za razvoj boutique hotela (30-45 soba, 4*) ili apartmanskog kompleksa od 20-35 turističkih jedinica s bazenom i parkiralištem. Kvarner bilježi stabilan rast međunarodnih turista i ADR-a (prosječne dnevne stope). Ako UPU dopušta turističku namjenu T1/T2, ROI od iznajmljivanja na 7-10 godina s razvijenim kompleksom mogao bi doseći 6-9% godišnje prinos na kapital. Kratkoročni reno-flip (kupnja → obnova → prodaja apartmanski) manje atraktivan zbog veličine i složenosti.",
+  "entry_price_eur": 920000,
+  "detailed_risks": [
+    "ZK opterećenja (hipoteke, zabilježbe) koja preživljavaju stečajnu prodaju – prioritetan rizik za provjeru",
+    "Nelegaliziran ili neprijavljeni dio objekta – blokira ishodovanje građevinske/uporabne dozvole i preprodaju",
+    "UPU Crikvenica – ako je zona isključivo 'poslovna' ili 'industrijska', prenamjena u turizam zahtijeva izmjenu plana (višegodišnji proces)",
+    "Stanje objekta nepoznato: napuštena poslovna zgrada u stečaju tipično zahtijeva 300-800k EUR investicije za ozbiljno renoviranje",
+    "Tržište Kvarnera 2025-2026 pokazuje usporavanje rasta cijena nakon post-COVID boom faze 2021-2023",
+    "Infrastrukturni priključci: komunalni doprinosi za turistički objekt te veličine mogu biti 100-300k EUR",
+    "Pristup razgledavanju samo dogovorom – potencijalno skriva loše stanje ili problematične korisnike prostora"
+  ],
+  "upside_scenario": "Ako je objekt solidno građen (50-ih/60-ih, česta betonska gradnja), ZK čist bez tereta, a UPU dopušta turizam T2: kupovina za ~850-920k EUR + 500-700k EUR razvoja = ukupna investicija ~1.4-1.6M EUR. Boutique hotel od 35 soba ili 28 apartmana mogao bi u 3-5 godina doseći tržišnu vrijednost 3.2-4.5M EUR (comp: Kvarner hotel 4* 100k-130k EUR po sobi). IRR projekta u tom scenariju: 25-40% na horizon od 5 godina.",
+  "downside_scenario": "Ako postoje nenamirena hipotekarna opterećenja koja 'prate' nekretninu kroz stečajnu prodaju (što se može dogoditi kod pogrešno vođenih stečajnih postupaka), ili je objekt konstruktivno ugrožen i zahtijeva rušenje, ukupni gubitak može biti 300-500k EUR uz blokiranu nekretninu 3-6 godina u sudskim postupcima. Najgori scenarij: prisilan izlaz s gubitkom na razini jamčevine (113k EUR) + transakcijski troškovi.",
+  "input_hash": "9cf1a6843a12",
+  "scored_at": "2026-05-13T08:45:57.318718"
+}

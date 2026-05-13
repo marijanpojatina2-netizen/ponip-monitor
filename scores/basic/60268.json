@@ -1,0 +1,16 @@
+{
+  "id": "60268",
+  "score_overall": 5.0,
+  "score_lokacija": 5.0,
+  "score_roi": 5.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Izuzetno niska ulazna cijena (16.720 EUR) za objekt u Osijeku nudi asimetričan rizik-prinos za kratkoročni najam ili preprodaju, no starost i nepoznato stanje objekta (64 m2) te skromna likvidnost osječkog tržišta zahtijevaju fizičan uvid prije svake odluke. Niski prag ulaska čini ga vrijednim praćenja.",
+  "flags": [
+    "stariji objekt - nepoznato stanje, mogući značajni troškovi sanacije",
+    "ograničena likvidnost Osijeka - sporiji izlaz",
+    "malo tržište najma za ovaj tip objekta"
+  ],
+  "input_hash": "ec0c82ff950f",
+  "scored_at": "2026-05-13T08:43:10.641045"
+}
