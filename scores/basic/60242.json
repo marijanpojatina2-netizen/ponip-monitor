@@ -1,0 +1,15 @@
+{
+  "id": "60242",
+  "score_overall": 6.0,
+  "score_lokacija": 7.0,
+  "score_roi": 5.5,
+  "score_stanje": 6.0,
+  "recommendation": "watch",
+  "reasoning": "Stan 59 m2 s terasom, vrtom i parkingom u Stobreču (predgrađe Splita uz more) ima solidnu dalmatinsku lokaciju i dobru likvidnost regije, no 20% popust u prvom krugu ostavlja tanku investicijsku maržu. Vrijedi pratiti naredne krugove - pri 40%+ popustu prelazi u bid kategoriju.",
+  "flags": [
+    "prva dražba - minimalan popust 20%",
+    "etažno vlasništvo s česticama u više dijelova - provjeriti zk izvadak i terete"
+  ],
+  "input_hash": "6339c4c4c1be",
+  "scored_at": "2026-05-14T08:35:40.209815"
+}

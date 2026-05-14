@@ -1,0 +1,17 @@
+{
+  "id": "60210",
+  "score_overall": 2.0,
+  "score_lokacija": 1.5,
+  "score_roi": 2.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Na dražbu ide samo 1/2 suvlasničkog dijela ovršenika dok ovrhovoditelj drži preostalu 1/2 - kupovinom se ulazi u prisilno suvlasništvo s kreditorom što drastično komplicira svako daljnje raspolaganje nekretninom. Uz ruralnu Slavoniju i minimalni popust od 20%, nema investicijske logike.",
+  "flags": [
+    "suvlasništvo 1/2 - kupujete samo polovicu nekretnine",
+    "ovrhovoditelj je suvlasnik preostale 1/2 - prisilno suvlasništvo s kreditorom",
+    "ruralna Slavonija - minimalna likvidnost",
+    "minimalan popust 20% u prvom krugu"
+  ],
+  "input_hash": "44fda82b69fe",
+  "scored_at": "2026-05-14T08:35:40.210294"
+}
