@@ -1,0 +1,16 @@
+{
+  "id": "58806",
+  "score_overall": 5.5,
+  "score_lokacija": 5.0,
+  "score_roi": 7.0,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Samoborsko područje (Zagreb county) daje pristojnu lokacijsku premiju i blizinu Zagreba kao izlaznom tržištu, a 40% popust na drugoj dražbi je solidan ulazni parametar. Međutim, Goli Vrh je ipak ruralno selo, kuća je mala (60 m²) i stanje nije poznato, što zahtijeva fizičku inspekciju prije licitacije.",
+  "flags": [
+    "malo stambeno stanje (60 m²)",
+    "seoska lokacija - Goli Vrh",
+    "stanje objekta nepoznato iz opisa"
+  ],
+  "input_hash": "ff454412c083",
+  "scored_at": "2026-05-15T08:47:07.826302"
+}

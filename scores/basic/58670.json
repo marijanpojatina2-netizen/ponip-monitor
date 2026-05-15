@@ -1,0 +1,16 @@
+{
+  "id": "58670",
+  "score_overall": 3.0,
+  "score_lokacija": 2.0,
+  "score_roi": 4.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Kućanci u slavonskom zaleđu su depopulacijsko ruralno područje gdje je likvidnost praktički nepostojeća, a nekretnina je pretežno poljoprivredna parcela s tek 50 m² objekta. 40% popust zvuči atraktivno, ali bez realnog kupca ili najmodavca u toj regiji nema investicijskog case-a.",
+  "flags": [
+    "pretežno poljoprivredno zemljište (oranica + voćnjak = 2915 m²)",
+    "zanemariv stambeni objekt (50 m²)",
+    "ruralna Slavonija - depopulacijsko područje"
+  ],
+  "input_hash": "4cf30404c2ca",
+  "scored_at": "2026-05-15T08:47:07.826652"
+}

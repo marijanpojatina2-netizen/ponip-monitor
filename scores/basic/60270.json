@@ -1,0 +1,16 @@
+{
+  "id": "60270",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 3.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Donji Miholjac je depopulacijsko ruralno područje Slavonije s minimalnom tržišnom likvidnošću, a svega 20% popusta na prvoj dražbi ne opravdava ulazak. Kombinacija oranice, kuće i tri zgrade na toj lokaciji nema realnog izlaznog scenarija za investitora.",
+  "flags": [
+    "ruralna Slavonija - depopulacijsko područje",
+    "samo 20% popusta na prvoj dražbi",
+    "niska tržišna likvidnost regije"
+  ],
+  "input_hash": "8b7310191846",
+  "scored_at": "2026-05-15T08:47:07.826080"
+}

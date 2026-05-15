@@ -1,0 +1,15 @@
+{
+  "id": "58853",
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 5.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Sveti Đurađ je malo ruralno naselje bez investicijskog potencijala unatoč 40% popustu i drugoj dražbi, jer Slavonija nema likvidnost koja bi opravdala izlaznu strategiju. Opis ne precizira stanje zgrade, a ukupna površina i lokacija govore o tipičnoj slavonskoj seoskoj nekretnini.",
+  "flags": [
+    "ruralna Slavonija - depopulacijsko područje",
+    "stanje objekta neprecizirano u opisu"
+  ],
+  "input_hash": "b57a82be6a6c",
+  "scored_at": "2026-05-15T08:47:07.826426"
+}
