@@ -1,0 +1,16 @@
+{
+  "id": "58746",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 4.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Poljoprivredne čestice (livada i oranica) u ruralnoj Podravini bez izgrađene infrastrukture, minimalna tržišna likvidnost. Popust 40% na drugoj dražbi zvuči privlačno, ali apsolutna vrijednost ~1800 EUR ukazuje na iznimno slabu potražnju i ograničen kapitalni potencijal.",
+  "flags": [
+    "isključivo poljoprivredno zemljište - nema građevinskog potencijala",
+    "depopulacijsko ruralno područje Koprivničko-križevačke županije",
+    "niska likvidnost pri eventualnoj preprodaji"
+  ],
+  "input_hash": "b20600af4fb7",
+  "scored_at": "2026-05-18T09:58:21.598421"
+}

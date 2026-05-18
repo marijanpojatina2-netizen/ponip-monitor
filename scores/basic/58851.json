@@ -1,0 +1,15 @@
+{
+  "id": "58851",
+  "score_overall": 4.0,
+  "score_lokacija": 2.5,
+  "score_roi": 6.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Belišće je depopulacijsko područje Slavonije s niskom likvidnošću tržišta nekretnina, što limitira izlaznu strategiju. 40% popust na drugoj dražbi je atraktivan, ali realna prodajna vrijednost je upitna u toj regiji.",
+  "flags": [
+    "depopulacijsko područje",
+    "niska likvidnost tržišta"
+  ],
+  "input_hash": "dbfb7141e415",
+  "scored_at": "2026-05-18T09:57:57.748555"
+}

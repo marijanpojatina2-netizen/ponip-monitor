@@ -1,0 +1,16 @@
+{
+  "id": "58748",
+  "score_overall": 3.0,
+  "score_lokacija": 3.5,
+  "score_roi": 5.0,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Poljoprivredno i dvorišno zemljište bez izgrađenog objekta u k.o. Bakovčica (okolica Koprivnice) nudi ograničen investicijski potencijal. Bez građevinske dozvole ili potvrđene građevne čestice, ovo je špekulativna kupnja u regiji slabog rasta.",
+  "flags": [
+    "samo zemljište - nema objekta",
+    "nepoznat status gradnje",
+    "slaba likvidnost regije"
+  ],
+  "input_hash": "8f087ae4b084",
+  "scored_at": "2026-05-18T09:57:57.748676"
+}

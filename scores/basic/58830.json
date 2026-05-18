@@ -1,0 +1,16 @@
+{
+  "id": "58830",
+  "score_overall": 3.0,
+  "score_lokacija": 4.0,
+  "score_roi": 4.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Livada od 4661 m2 u blizini Zaboka (Krapinsko-zagorska županija) ima blago bolju poziciju od slavonskih parcela zbog blizine Zagreba, ali ostaje čisto ruralno zemljište bez objekta. Potencijal za vikendicu je moguć ali spekulativan.",
+  "flags": [
+    "samo livada - nema objekta",
+    "ruralno zemljište",
+    "nepoznat status gradnje"
+  ],
+  "input_hash": "d01be06ee58b",
+  "scored_at": "2026-05-18T09:57:57.749109"
+}

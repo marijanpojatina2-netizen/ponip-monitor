@@ -1,0 +1,16 @@
+{
+  "id": "60208",
+  "score_overall": 5.5,
+  "score_lokacija": 6.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Zagreb lokacija (Kraljevac) je solidna, ali se prodaje samo 1/2 ideal dijela zgrade što drastično otežava raspolaganje i prodaju. Popust od 20% na prvoj dražbi je skroman, a nepoznato stanje objekta i dijeljeno vlasništvo čine investiciju nepredvidivom.",
+  "flags": [
+    "1/2 ideal dijela - otežano raspolaganje",
+    "društveno vlasništvo na parceli - provjeriti status",
+    "nepoznato stanje objekta"
+  ],
+  "input_hash": "adbb02943c13",
+  "scored_at": "2026-05-18T09:57:57.748291"
+}

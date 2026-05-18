@@ -1,0 +1,16 @@
+{
+  "id": "58768",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 3.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Dvije livadne čestice ukupno ~4880 m2 u Stanjovici bez ikakve izgrađenosti predstavljaju čisto poljoprivredno zemljište s minimalnom investicijskom vrijednošću. Visoka apsolutna površina ne kompenzira lošu lokaciju i gotovo nepostojeću tržišnu likvidnost za ovu vrstu imovine.",
+  "flags": [
+    "isključivo livade - nema građevinskog potencijala",
+    "Stanjovica - malo ruralno naselje bez perspektive rasta vrijednosti",
+    "niska likvidnost, otežana preprodaja"
+  ],
+  "input_hash": "8f04917e31a2",
+  "scored_at": "2026-05-18T09:58:21.598790"
+}

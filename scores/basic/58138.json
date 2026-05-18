@@ -1,0 +1,17 @@
+{
+  "id": "58138",
+  "score_overall": 2.0,
+  "score_lokacija": 2.5,
+  "score_roi": 3.5,
+  "score_stanje": 1.5,
+  "recommendation": "pass",
+  "reasoning": "Oranica u k.o. Koreničani (Daruvar) s višestrukim suvlasnicima - prodaje se 9/15 dijela, a ovrhovoditelj posjeduje 6/15, što je izuzetno kompleksna vlasnička struktura. Depopulacijska Slavonija i fragmentirano vlasništvo čine ovo neinteresantnim.",
+  "flags": [
+    "višestruki ovršenici + ovrhovoditelj kao suvlasnik",
+    "prodaje se udio u parceli (9/15)",
+    "depopulacijsko područje",
+    "samo oranica bez objekta"
+  ],
+  "input_hash": "3b8cd2273df9",
+  "scored_at": "2026-05-18T09:57:57.748893"
+}

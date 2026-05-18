@@ -1,0 +1,17 @@
+{
+  "id": "58744",
+  "score_overall": 2.0,
+  "score_lokacija": 3.5,
+  "score_roi": 4.0,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Livada i voćnjak od 1484 m2 u k.o. Bakovčica za 2708 EUR je nominalno jeftino, ali bez ikakvog objekta i u regiji slabe likvidnosti nema jasne izlazne strategije. Apsolutno premala parcela za bilo kakav razvoj.",
+  "flags": [
+    "najmanji lot u grupi - 1484 m2",
+    "samo livada i voćnjak",
+    "nema objekta",
+    "ograničen razvojni potencijal"
+  ],
+  "input_hash": "bf04d3ae505f",
+  "scored_at": "2026-05-18T09:57:57.749326"
+}
