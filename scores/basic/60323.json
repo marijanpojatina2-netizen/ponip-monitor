@@ -1,0 +1,17 @@
+{
+  "id": "60323",
+  "score_overall": 1.5,
+  "score_lokacija": 1.5,
+  "score_roi": 2.0,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Kuća 132m² u Drašu (Baranja) u suvlasništvu troje ovršenika za 1.504 EUR početne cijene - depopulacijsko ruralno područje uz mađarsku granicu bez realnog investicijskog ili tržišnog potencijala.",
+  "flags": [
+    "suvlasništvo 3 ovršenika - komplicirano i dugotrajno preuzimanje",
+    "depopulacijsko područje Baranje/Belog Manastira",
+    "mješovita namjena parcele (dvorište + oranica + kuća)",
+    "izuzetno niska tržišna likvidnost"
+  ],
+  "input_hash": "c997c204cffa",
+  "scored_at": "2026-05-19T09:40:13.343644"
+}

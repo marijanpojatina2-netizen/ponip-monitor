@@ -1,0 +1,15 @@
+{
+  "id": "60292",
+  "score_overall": 7.5,
+  "score_lokacija": 8.5,
+  "score_roi": 7.0,
+  "score_stanje": 6.0,
+  "recommendation": "bid",
+  "reasoning": "Trosobni stan 71m² na otoku Braču (Mirca, blizu Supetra i trajekta za Split) za ~102k EUR uz 25% popust predstavlja solidnu vrijednost u jednoj od najpopularnijih turističkih destinacija.",
+  "flags": [
+    "stanje interijera nije detaljno opisano - potrebna provjera na terenu",
+    "suvlasnički udio 43/1000 - provjeriti stanje zajedničkih dijelova zgrade"
+  ],
+  "input_hash": "5b322c058481",
+  "scored_at": "2026-05-19T09:40:13.343005"
+}

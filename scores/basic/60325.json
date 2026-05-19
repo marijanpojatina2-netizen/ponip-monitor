@@ -1,0 +1,15 @@
+{
+  "id": "60325",
+  "score_overall": 7.0,
+  "score_lokacija": 8.5,
+  "score_roi": 6.5,
+  "score_stanje": 6.0,
+  "recommendation": "watch",
+  "reasoning": "Višejediničnа kuća (suteren + dvije stambene jedinice) na otoku Rabu nudi jak turistički najamni potencijal; ipak, prva dražba s minimalnim 20% popustom ostavlja prostora za bolju cijenu ako nekretnina ne bude prodana.",
+  "flags": [
+    "opis opisa odsječen - nejasno stanje gornjeg kata",
+    "neodređeni suvlasnički omjeri (E-1/E-2/E-3)"
+  ],
+  "input_hash": "2559d8d3a2f7",
+  "scored_at": "2026-05-19T09:40:13.342626"
+}

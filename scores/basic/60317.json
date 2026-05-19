@@ -1,0 +1,17 @@
+{
+  "id": "60317",
+  "score_overall": 1.5,
+  "score_lokacija": 1.5,
+  "score_roi": 2.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Najmanji komad parcele (289m²) iz istog suvlasničkog paketa u k.o. Draž - ni kombinacija s ostalim česticama ne gradi ekonomski smislen investicijski cilj. Premala površina za bilo kakvu agrarnu upotrebu, nema razvojnog potencijala.",
+  "flags": [
+    "suvlasništvo 3 ovršenika - isti zk.ul. 2515",
+    "svega 289m² - ekonomski neopravdana veličina",
+    "k.o. Draž - nulta sekundarna tržišna potražnja",
+    "Baranja - depopulacijska zona"
+  ],
+  "input_hash": "5410f06dbc9c",
+  "scored_at": "2026-05-19T09:40:30.510556"
+}

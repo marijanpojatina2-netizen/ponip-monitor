@@ -1,0 +1,14 @@
+{
+  "id": "60331",
+  "score_overall": 5.5,
+  "score_lokacija": 6.0,
+  "score_roi": 5.5,
+  "score_stanje": 6.0,
+  "recommendation": "watch",
+  "reasoning": "Jednosobni stan 41m² u Rijeci na 5. katu za 92k EUR - solidan urbani standard, ali skroman 20% popust na prvoj dražbi daje malo margine za investicijsku isplativost.",
+  "flags": [
+    "mala površina 41m² ograničava ciljnu skupinu kupaca/najmoprimaca"
+  ],
+  "input_hash": "cc1f4126e576",
+  "scored_at": "2026-05-19T09:40:13.343097"
+}

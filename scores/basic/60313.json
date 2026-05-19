@@ -1,0 +1,17 @@
+{
+  "id": "60313",
+  "score_overall": 2.0,
+  "score_lokacija": 1.5,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Identična situacija kao 60315 - ista zemljišnoknjižna uložak, isti ovršenici, ista lokacija k.o. Draž. Marginalno veća parcela (866m²) ne mijenja investicijski case - nema potražnje za oranicama u Baranji po tržišnoj cijeni.",
+  "flags": [
+    "suvlasništvo 3 ovršenika - isti zk.ul. kao 60315",
+    "k.o. Draž - ekstremno niska likvidnost",
+    "paket s 60315/60317/60319 - vjerojatno isti predmet",
+    "Baranja - depopulacijska zona"
+  ],
+  "input_hash": "ee0012db9dc5",
+  "scored_at": "2026-05-19T09:40:30.510452"
+}

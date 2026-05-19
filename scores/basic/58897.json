@@ -1,0 +1,16 @@
+{
+  "id": "58897",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 4.0,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Kuća u Štikadi kraj Gračaca u srcu depopulacijske Like - 50% popust na drugoj dražbi ne kompenzira gotovo nepostojeću likvidnost i tržišnu potražnju u ovom području.",
+  "flags": [
+    "depopulacijsko ruralno područje - Lika/Gračac",
+    "izuzetno niska tržišna likvidnost",
+    "vjerojatno loše fizičko stanje objekta"
+  ],
+  "input_hash": "d9ae6bd1c52b",
+  "scored_at": "2026-05-19T09:40:13.343372"
+}

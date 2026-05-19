@@ -1,0 +1,15 @@
+{
+  "id": "58911",
+  "score_overall": 6.0,
+  "score_lokacija": 5.5,
+  "score_roi": 7.5,
+  "score_stanje": 5.0,
+  "recommendation": "bid",
+  "reasoning": "Poslovni lokal 28.79m² u k.o. Sesvete Novo za ~8.600 EUR početne cijene (50% popust, druga dražba) - iznimno niska ulazna cijena za prigradsko zagrebačko tržište s realnim najamnim potencijalom.",
+  "flags": [
+    "stanje lokala nije opisano - obavezna provjera na terenu prije licitacije",
+    "mala površina 28.79m² sužava krug potencijalnih zakupnika"
+  ],
+  "input_hash": "b372e799f10b",
+  "scored_at": "2026-05-19T09:40:13.343470"
+}

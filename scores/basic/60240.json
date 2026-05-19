@@ -1,0 +1,15 @@
+{
+  "id": "60240",
+  "score_overall": 6.0,
+  "score_lokacija": 7.5,
+  "score_roi": 6.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Dvije stambene zgrade na parceli 724m² u Puli s dobrim turističkim i najamnim potencijalom; neformalne dogradnje i odsječeni opis nose regulatorne rizike koje treba provjeriti u naravi.",
+  "flags": [
+    "naknadno dograđeni dijelovi - moguća bespravna gradnja",
+    "opis odsječen - nejasno ukupno stanje objekta"
+  ],
+  "input_hash": "197ff8634d63",
+  "scored_at": "2026-05-19T09:40:13.342895"
+}

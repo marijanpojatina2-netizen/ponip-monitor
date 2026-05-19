@@ -1,0 +1,17 @@
+{
+  "id": "60315",
+  "score_overall": 2.0,
+  "score_lokacija": 1.5,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica u k.o. Draž (Baranja) - duboka depopulacijska zona uz granicu s Mađarskom, minimalna likvidnost tržišta. Suvlasništvo 3 ovršenika komplicira uknjižbu, popust svega 20% na prvoj dražbi ne opravdava rizik.",
+  "flags": [
+    "suvlasništvo 3 ovršenika - kompleksna uknjižba",
+    "k.o. Draž - ekstremno niska likvidnost",
+    "poljoprivredno zemljište bez razvojnog potencijala",
+    "Baranja - depopulacijska zona"
+  ],
+  "input_hash": "8baed38bacf8",
+  "scored_at": "2026-05-19T09:40:30.510216"
+}

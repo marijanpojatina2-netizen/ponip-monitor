@@ -1,0 +1,15 @@
+{
+  "id": "58915",
+  "score_overall": 6.0,
+  "score_lokacija": 5.5,
+  "score_roi": 7.5,
+  "score_stanje": 5.0,
+  "recommendation": "bid",
+  "reasoning": "Poslovni lokal 23.88m² u istoj zgradi kao ID 58911 s identičnom logikom - 7.165 EUR ulazna cijena uz 50% popust na drugoj dražbi čini ga jednim od cjenovno najpristupačnijih slučajeva.",
+  "flags": [
+    "stanje lokala nije opisano - obavezna provjera",
+    "ista zgrada kao ID 58911 - razmotriti kombiniranu kupnju oba lokala"
+  ],
+  "input_hash": "8113fef720b8",
+  "scored_at": "2026-05-19T09:40:13.343554"
+}

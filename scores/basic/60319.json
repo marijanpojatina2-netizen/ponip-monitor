@@ -1,0 +1,18 @@
+{
+  "id": "60319",
+  "score_overall": 1.0,
+  "score_lokacija": 1.5,
+  "score_roi": 2.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Najslabija čestica od svih četiriju - samo 110m² oranice s atributom VODNOG DOBRA što znači zakonska ograničenja korištenja i potencijalne obveze prema Hrvatskim vodama. Simbolična cijena od 311 EUR ne kompenzira pravnu složenost i potpunu nelikvidnost.",
+  "flags": [
+    "VODNO DOBRO - zakonska ograničenja korištenja",
+    "suvlasništvo 3 ovršenika",
+    "110m² - ekonomski beznačajna površina",
+    "obveze prema Hrvatskim vodama moguće",
+    "k.o. Draž - nulta likvidnost"
+  ],
+  "input_hash": "08e5dae80687",
+  "scored_at": "2026-05-19T09:40:30.510646"
+}
