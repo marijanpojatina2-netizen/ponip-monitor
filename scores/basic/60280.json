@@ -1,0 +1,16 @@
+{
+  "id": "60280",
+  "score_overall": 4.0,
+  "score_lokacija": 5.5,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Suvlasnički udio 8/32 (25%) je dominantni deal-breaker - bez suglasnosti ostalih suvlasnika nema slobodnog upravljanja, renoviranja ni prodaje, što čini investiciju praktički nelikvidnom. Jablanac je jedna od najizoliraniih primorskih lokacija (Velebitski kanal, ograničena cestovna veza) s tankim turističkim tržištem.",
+  "flags": [
+    "suvlasnički udio 8/32 - samo 25% vlasništva",
+    "suglasnost 3 suvlasnika obavezna za svaki zahvat",
+    "Jablanac - izolirana lokacija, ograničeno turističko tržište"
+  ],
+  "input_hash": "4fcb60d13ec5",
+  "scored_at": "2026-05-20T09:32:40.832755"
+}

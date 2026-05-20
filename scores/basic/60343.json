@@ -1,0 +1,16 @@
+{
+  "id": "60343",
+  "score_overall": 6.0,
+  "score_lokacija": 8.0,
+  "score_roi": 6.0,
+  "score_stanje": 3.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Treća susjedna parcela od 1000 m² u istom ZK ulosku 21015, k.o. Rovinj - nastavlja se direktno na sjevernu među parcele 60337 tvoreći kontinuirani blok. Tri parcele zajedno (60347+60337+60343) za ~50k EUR u Rovinju su strateški zanimljive isključivo uz potvrdu gradivnog ili agroturističkog potencijala u prostornom planu.",
+  "flags": [
+    "pašnjak - provjera prostornog plana/DPU obavezna",
+    "isti ZK uložak 21015 - moguća povezanost ovršnog postupka",
+    "makadamski/poljski put"
+  ],
+  "input_hash": "452ef89bd8cc",
+  "scored_at": "2026-05-20T09:32:40.833398"
+}

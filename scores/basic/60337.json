@@ -1,0 +1,16 @@
+{
+  "id": "60337",
+  "score_overall": 6.0,
+  "score_lokacija": 8.0,
+  "score_roi": 6.0,
+  "score_stanje": 3.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Pašnjak 1000 m² u k.o. Rovinj, ista situacija kao ID 60347 - Rovinj brand čini lokaciju premium, ali gradivni status pašnjaka je ključno nepoznata varijabla. Zajedno s parcelama 60347 i 60343 formira 3132 m² u okolici Rovinja što je zanimljiva agregacija za strateškog investitora.",
+  "flags": [
+    "pašnjak - provjera prostornog plana/DPU obavezna",
+    "makadamski/poljski put",
+    "isti ZK uložak 21015 kao parcele 60347 i 60343"
+  ],
+  "input_hash": "f811ac7d3011",
+  "scored_at": "2026-05-20T09:32:40.833297"
+}

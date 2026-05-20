@@ -1,0 +1,16 @@
+{
+  "id": "60335",
+  "score_overall": 5.5,
+  "score_lokacija": 7.0,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Poslovni prostor 122.95 m2 u Vukovarskoj ulici Zagreb ima dobru lokacijsku osnovu, ali 20% popust na prvoj dražbi daje ograničen ROI margin, a potkrovlje s kompleksnom suvlasničkom strukturom smanjuje atraktivnost i likvidnost. Yield od najma procjenjuje se na 3-4.5% što je ispod praga za agresivnu ponudu.",
+  "flags": [
+    "suvlasnički udio 1126/100000 - kompleksna vlasnička struktura",
+    "potkrovlje poslovnog prostora - manji interes tržišta",
+    "visoka jamčevina 58.000 EUR ulazna barijera"
+  ],
+  "input_hash": "8ac522eeec47",
+  "scored_at": "2026-05-20T09:29:23.460945"
+}

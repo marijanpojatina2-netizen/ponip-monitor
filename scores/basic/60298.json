@@ -1,0 +1,16 @@
+{
+  "id": "60298",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Kuća 99 m2 s dvorištem u Čepinu kraj Osijeka po početnoj cijeni 108.800 EUR značajno je precijenjena za slavonsko tržište gdje tržišna vrijednost sličnih nekretnina rijetko prelazi 70-80k EUR; loša demografija i niska likvidnost čine exit strategiju izuzetno teškom.",
+  "flags": [
+    "Slavonija - depopulacijsko područje s lošom likvidnošću",
+    "procjena ne odgovara realnim tržišnim cijenama u Čepinu",
+    "ograničene izlazne strategije - najam i preprodaja otežani"
+  ],
+  "input_hash": "86fb107a5c8b",
+  "scored_at": "2026-05-20T09:29:23.461652"
+}

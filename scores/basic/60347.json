@@ -1,0 +1,16 @@
+{
+  "id": "60347",
+  "score_overall": 6.0,
+  "score_lokacija": 8.0,
+  "score_roi": 6.0,
+  "score_stanje": 3.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Pašnjak 1132 m² u k.o. Rovinj za ~18k EUR je izuzetno niska cijena za premium istarsku destinaciju, ali investicijska teza u potpunosti ovisi o prostornoj namjeni - provjera DPU-a i Prostornog plana Općine Rovinj-Rovigno je neophodna prije bilo kakve odluke. Susjedne parcele 60337 i 60343 čine potencijalni kompleks od 3132 m² za ~50k EUR - atraktivna land-bank pozicija ako namjena dopušta gradnju ili agroturizam.",
+  "flags": [
+    "pašnjak - provjera prostornog plana/DPU obavezna",
+    "makadamski pristup bez komunalne infrastrukture",
+    "susjedne parcele 60337 i 60343 u istom ZK ulosku 21015"
+  ],
+  "input_hash": "efb2c64c360b",
+  "scored_at": "2026-05-20T09:32:40.833187"
+}

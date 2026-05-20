@@ -1,0 +1,69 @@
+{
+  "id": "60335",
+  "score_overall": 5.0,
+  "score_lokacija": 7.0,
+  "score_roi": 4.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Poslovni prostor od 122,95 m2 u Vukovarskoj ulici ima solidnu lokacijsku osnovu — jedna od glavnih komercijalnih arterija Zagreba s dobrim prometnim vezama. Međutim, 20% popust na prvoj dražbi je ispod praga za agresivnu ponudu, a potkrovlje (7. kat) strukturno smanjuje likvidnost i tržišnu vrijednost za 15-25% u odnosu na niže katove. Suvlasnički udio 1126/100000 u kompleksu od 5 zgrada donosi upravljačku kompleksnost i potencijalne troškove. Startna cijena od ~3.774 EUR/m2 za uredski prostor u Trnju/potkrovlje je na gornjoj granici realnog tržišnog raspona — deal postaje zanimljiv tek kod 2. ili 3. dražbe.",
+  "flags": [
+    "suvlasnički udio 1126/100000 — kompleksna suvlasnička struktura s 5 zgrada i dvorištem",
+    "potkrovlje (7. kat) — ograničena likvidnost, upitna dostupnost liftom",
+    "nedostaju podaci o stanju prostora, fitoutu i eventualnim zakupcima",
+    "visoka ulazna barijera — jamčevina 58.000 EUR",
+    "prva dražba s minimalnim popustom (20%) — nema bonusa za višu dražbu",
+    "upravljačka kompleksnost HOA velikog kompleksa (troškovi pričuve, odlučivanje)"
+  ],
+  "market_estimate": {
+    "eur_min": 320000,
+    "eur_max": 490000,
+    "confidence": "medium",
+    "basis": "Zagreb uredski prostor u Trnju/Vukovarska 2025: 2.500-3.500 EUR/m2 za niže katove; potkrovlje/7. kat ima diskont 15-25%; za 122,95 m2 realni raspon 308K-426K za standardno stanje, do 490K za kompletno renovirano premium. Sudska procjena od 4.718 EUR/m2 čini se optimistična za atik kategoriju."
+  },
+  "comparables": [
+    {
+      "opis": "Uredski prostor ~120 m2, Vukovarska ul., Zagreb, renovirano, 3. kat",
+      "cijena": 420000,
+      "m2": 120,
+      "izvor": "njuskalo.hr (procjena temeljem poznatih oglasa 2024-2025)",
+      "url": "https://www.njuskalo.hr/poslovni-prostori-prodaja/zagreb-vukovarska"
+    },
+    {
+      "opis": "Poslovni prostor 130 m2, Trnje, Zagreb, uredski — viši kat",
+      "cijena": 390000,
+      "m2": 130,
+      "izvor": "nekretnine.net (procjena za usporedbu)",
+      "url": "https://www.nekretnine.net/rezultati-pretrage/?tip=poslovni-prostor&lokacija=zagreb-trnje"
+    },
+    {
+      "opis": "Poslovni prostor 100 m2, Heinzelova/Vukovarska zona, potkrovlje",
+      "cijena": 280000,
+      "m2": 100,
+      "izvor": "njuskalo.hr (procjena za atik kategoriju)",
+      "url": "https://www.njuskalo.hr/poslovni-prostori-prodaja/zagreb"
+    },
+    {
+      "opis": "Premium uredski prostor 115 m2, Savska cesta Zagreb, viši kat, lift",
+      "cijena": 460000,
+      "m2": 115,
+      "izvor": "index.hr oglasi (procjena za premium referentu točku)",
+      "url": "https://oglasi.index.hr/nekretnine/poslovni-prostor/zagreb"
+    }
+  ],
+  "investment_strategy": "IZNAJMLJIVANJE (primarno) uz opciju RENO-FLIP: Tržišna najamnina za uredski prostor u Vukovarskoj zoni iznosi 12-16 EUR/m2/mj za standardno, do 20 EUR/m2/mj za premium opremljeno. Pri 122,95 m2 to daje 17.700-29.500 EUR/god bruto prihoda. Yield na startnoj cijeni (464K) iznosi samo 3,8-6,3% — marginalnih. Optimalni pristup: pratiti dražbu, ući tek ako cijena padne ispod 370.000 EUR (2-3. dražba) kada yield na konzervativnom scenariju doseže 5-6%. Alternativno: reno-flip za premium boutique office/co-working (Trnje ima rastuću startup/tech scenu) s mogućim exit multiplierom od 1,2-1,4x na uloženo.",
+  "entry_price_eur": 370000,
+  "detailed_risks": [
+    "Suvlasnička odlučivanja: za rekonstrukciju, adaptaciju ili veće zahvate treba suglasnost ostalih suvlasnika kompleksa (5 zgrada — teško koordinirati)",
+    "Pristupačnost: 7. kat bez potvrde o liftu čini prostor slabo rentabilnim; lift adaptacija u staroj zgradi može koštati 50.000-150.000 EUR",
+    "Nepoznato stanje prostora: potkrovlje nosi rizike — krovište, izolacija, instalacije; potencijalni renovacijski trošak 50.000-120.000 EUR",
+    "Tržišna likvidnost: poslovni atik prostor u Trnju uži je kupački segment pri eventualnoj preprodaji — exit može biti spor (12-24 mj)",
+    "Sudska procjena (580K EUR) može biti precjenjena za atik segment — realni tržišni koridor je niži",
+    "Moguće aktivan zakup ili korisnik prostora (nije navedeno u opisu — treba provjeriti ZK i ZU 4245)",
+    "Troškovi pričuve za veći kompleks mogu biti 300-600 EUR/mj — utječu na neto yield",
+    "Porezna efikasnost: PDV na poslovne prostore može biti primjenjiv — provjeriti s poreznim savjetnikom"
+  ],
+  "upside_scenario": "Ako je prostor slobodan, u dobrom stanju i s liftom: najam premium ureda na 15-18 EUR/m2/mj kroz co-working ili tech stanara donosi 22-26K EUR/god. U 36 mj, uz revalorizaciju Zagreb uredskog tržišta (5-8% godišnji rast cijena, Zagreb nadmašuje EU prosjek), exit vrijednost 480-540K EUR uz startnu cijenu 370K = ROI ~35-45% na 3 godine, što je solidno ali ne spektakularno.",
+  "downside_scenario": "Prostor zahtijeva temeljitu rekonstrukciju (krovište, lift, instalacije) — dodatnih 80-130K EUR troška. Ukupna investicija naraste na 450-500K. Tržišni exit ispod 400K zbog uskog kupačkog segmenta za atik. Net gubitak 50-100K uz vezani kapital 3+ godine. Suvlasnički blokovi onemogućavaju adaptaciju — prostor ostaje na tržištu bez kupca.",
+  "input_hash": "8ac522eeec47",
+  "scored_at": "2026-05-20T09:35:21.631133"
+}

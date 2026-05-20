@@ -1,0 +1,16 @@
+{
+  "id": "60282",
+  "score_overall": 3.0,
+  "score_lokacija": 4.0,
+  "score_roi": 3.0,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Pašnjak male površine (~349 m²) u Prizni - mjestašcu koje je isključivo trajektno pristanište prema Jablancu bez ikakve turističke infrastrukture ili razvojnog potencijala. Bez gradivne namjene i uz izoliranu lokaciju nema investicijskog case-a.",
+  "flags": [
+    "pašnjak bez gradivnog potencijala",
+    "Prizna - samo trajektno pristanište, bez infrastrukture",
+    "mala površina ~349 m²"
+  ],
+  "input_hash": "ecd0f7e8603b",
+  "scored_at": "2026-05-20T09:32:40.833079"
+}

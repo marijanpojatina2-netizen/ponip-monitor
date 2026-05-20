@@ -1,0 +1,17 @@
+{
+  "id": "60286",
+  "score_overall": 5.5,
+  "score_lokacija": 5.5,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Asfaltirana terasa s montažnim caffe barom (98 m²) u Senju za 7.200 EUR je zamamno niska ulazna cijena za primorsku ugostiteljsku lokaciju, ali izuzetno niska procjena od 9k EUR je sama po sebi red flag koji sugerira ograničena prava, sezonsku restrikciju ili probleme s legalnošću montažnog objekta. Pravni due diligence (provjera vlasništva terase, koncesija, tereta) mora prethoditi bilo kakvom interesu.",
+  "flags": [
+    "montažni objekt - upitna legalnost/legalizacija",
+    "izuzetno niska procjena 9k EUR za primorsku lokaciju - neobično",
+    "provjera prava korištenja terase i eventualnih tereta obavezna",
+    "sezonska ovisnost prihoda u Senju"
+  ],
+  "input_hash": "7d144ba6859a",
+  "scored_at": "2026-05-20T09:32:40.833600"
+}

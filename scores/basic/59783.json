@@ -1,0 +1,14 @@
+{
+  "id": "59783",
+  "score_overall": 5.5,
+  "score_lokacija": 5.5,
+  "score_roi": 5.5,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Stan 55.50 m2 na E-4 katu u Viškovu (~1.942 EUR/m2) srednja je opcija unutar grupe Viškovo stanova - niti premijum etaža niti najniža cijena; bez dodatnih informacija o stanju zgrade i uzroku masovne prodaje teško je opravdati aktivnu ponudu.",
+  "flags": [
+    "5 stanova iz iste zgrade prodano istovremeno - provjeri razlog"
+  ],
+  "input_hash": "3389cad9adfd",
+  "scored_at": "2026-05-20T09:29:23.461932"
+}

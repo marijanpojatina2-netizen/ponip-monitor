@@ -1,0 +1,14 @@
+{
+  "id": "59785",
+  "score_overall": 5.5,
+  "score_lokacija": 5.5,
+  "score_roi": 5.5,
+  "score_stanje": 6.0,
+  "recommendation": "watch",
+  "reasoning": "Stan 55.50 m2 na E-6 katu (viša etaža, vjerojatno bolji pogled i osvjetljenje) u Viškovu po ~1.952 EUR/m2 nudi solidnu stambenu osnovu uz Rijeku, no 20% popust i prva dražba bez turističke komponente smještaju ovaj objekt u kategoriju promatranja.",
+  "flags": [
+    "5 stanova iz iste zgrade prodano istovremeno - provjeri razlog"
+  ],
+  "input_hash": "eb40796536fe",
+  "scored_at": "2026-05-20T09:29:23.461820"
+}
