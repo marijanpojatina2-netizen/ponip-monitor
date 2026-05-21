@@ -1,0 +1,17 @@
+{
+  "id": "60106",
+  "score_overall": 4.5,
+  "score_lokacija": 5.5,
+  "score_roi": 5.5,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Pašnjak 889m2 (2/5 suvlasničkog udjela) u k.o. Srima kod Šibenika - lokacija blizu mora (Srima je turistički aktivan pojas uz Vodice) daje određeni potencijal za eventualni razvoj, ali kupuje se samo 2/5 pašnjaka što je bez sinergije s ostalom česticom gotovo bezvrijedno. Provjera GUP-a i mogućnosti gradnje ključna prije bilo kakve akcije.",
+  "flags": [
+    "samo 2/5 suvlasničkog udjela - fragmentirano",
+    "pašnjak - građevinsku namjenu treba provjeriti u GUP-u",
+    "bez etažne vrijednosti bez ostatka čestice",
+    "stečajni dužnik - provjera tereta obavezna"
+  ],
+  "input_hash": "65c438fae913",
+  "scored_at": "2026-05-21T09:36:22.413252"
+}

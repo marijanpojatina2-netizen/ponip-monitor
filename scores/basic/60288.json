@@ -1,0 +1,17 @@
+{
+  "id": "60288",
+  "score_overall": 4.0,
+  "score_lokacija": 5.0,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Kuća s dvorištem u Palovcu kod Čakovca - samo 20% popust na prvoj dražbi uz suvlasničku strukturu 1/2 (kupuje se samo ovršenikov udio) što je značajan red flag jer supostoji drugi suvlasnik (ovrhovoditelj). Čakovec je regionalni centar s ograničenom likvidnošću, a suvlasnički spor čini ovu nekretninu problematičnom za investicijski ulazak.",
+  "flags": [
+    "suvlasništvo 1/2 s ovrhovoditeljem - potencijalni sukob",
+    "kupuje se samo polovica nekretnine",
+    "Palovec - ruralna okolica Čakovca",
+    "nizak popust 20% na prvoj dražbi uz suvlasnički rizik"
+  ],
+  "input_hash": "e3cc381b4b1c",
+  "scored_at": "2026-05-21T09:36:22.412883"
+}

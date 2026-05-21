@@ -1,0 +1,17 @@
+{
+  "id": "57868",
+  "score_overall": 1.5,
+  "score_lokacija": 2.0,
+  "score_roi": 2.0,
+  "score_stanje": 1.5,
+  "recommendation": "pass",
+  "reasoning": "Pašnjak 2.034m2 u Bistranskom Podgorju (okolica Zagreba) za simboličnih 944 EUR - gotovo nulta likvidnost, nikakav investicijski potencijal, ruralno područje bez infrastrukture ili razvojnih izgleda. Jedina vrijednost je ekstremno niska cijena, ali bez jasnog use-case-a i s minimalnom apsolutnom vrijednošću, ovo nema smisla kao investicija.",
+  "flags": [
+    "pašnjak bez gradjevinske namjene",
+    "Bistransko Podgorje - depopulacijsko ruralno područje",
+    "gotovo nulta tržišna likvidnost",
+    "bez komunalne infrastrukture"
+  ],
+  "input_hash": "7088b37fce34",
+  "scored_at": "2026-05-21T09:36:22.413435"
+}

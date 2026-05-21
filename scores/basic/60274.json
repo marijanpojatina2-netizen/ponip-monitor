@@ -1,0 +1,16 @@
+{
+  "id": "60274",
+  "score_overall": 6.5,
+  "score_lokacija": 6.5,
+  "score_roi": 5.5,
+  "score_stanje": 6.0,
+  "recommendation": "watch",
+  "reasoning": "Dvosobni stan 69m2 (+40m2 loggia) u Mravincima kod Splita - lokacija blizu Splita s potencijalnom turističkom ili najamnom upotrebom, ali 20% popust na prvoj dražbi je minimalan ulazni argument. Mravinci su predgrađe Splita s rastućom potražnjom, no ne i premium zona - potrebna provjera realnog stanja stana i tržišnih cijena u toj mikrolokaciji.",
+  "flags": [
+    "samo 20% popust na prvoj dražbi - slaba marža sigurnosti",
+    "suvlasnički udio 109/1671 - provjera tereta",
+    "Mravinci - ne Split centar, slabiji turistički prinos"
+  ],
+  "input_hash": "73e2e577a240",
+  "scored_at": "2026-05-21T09:36:22.412775"
+}

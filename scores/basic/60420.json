@@ -1,0 +1,17 @@
+{
+  "id": "60420",
+  "score_overall": 4.0,
+  "score_lokacija": 5.5,
+  "score_roi": 4.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Tri suvlasnička udjela 1/3 na česticama u Žrnovnici kod Splita (ukupno 111m2 zemljišta) - blizina Splita je jedina pozitivna strana, ali se kupuju samo 1/3 udjeli na tri odvojene čestice što je iznimno kompleksna vlasnička situacija bez jasnog izlaza. 20% popust na prvoj dražbi ne kompenzira suvlasničku fragmentiranost i nisku apsolutnu vrijednost.",
+  "flags": [
+    "tri odvojena 1/3 suvlasnička udjela - ekstremna fragmentacija",
+    "samo zemljište bez objekta - nejasna gradnja",
+    "20% popust premalo za kompleksnost",
+    "Žrnovnica - predgrađe, ne premium Split lokacija"
+  ],
+  "input_hash": "25d4956cf057",
+  "scored_at": "2026-05-21T09:36:22.413342"
+}

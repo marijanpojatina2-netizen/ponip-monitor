@@ -1,0 +1,17 @@
+{
+  "id": "60339",
+  "score_overall": 4.5,
+  "score_lokacija": 4.5,
+  "score_roi": 5.5,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Industrijska zgrada u Bedekovčini (Krapinsko-zagorska županija) - periferija bez turističkog potencijala, ali 10.530 m2 industrijskog prostora s 25% popustom na prvoj dražbi može biti interesantno za logistiku/skladištenje. Visoka jamčevina (405k EUR) filtrira ozbiljne kupce, ali nelikvidno tržište i industrijska namjena ograničavaju izlaznu strategiju.",
+  "flags": [
+    "industrijska namjena - ograničena likvidnost",
+    "visoka jamčevina 405.000 EUR",
+    "Bedekovčina - slabije tržište nekretnina",
+    "neplodno dvorište - ograničen razvoj"
+  ],
+  "input_hash": "56d5b9722f25",
+  "scored_at": "2026-05-21T09:36:22.412403"
+}

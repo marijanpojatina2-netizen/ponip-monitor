@@ -1,0 +1,17 @@
+{
+  "id": "58588",
+  "score_overall": 3.5,
+  "score_lokacija": 3.5,
+  "score_roi": 5.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Vinograd s kućom u Kloštar Ivaniću (1.473 m2) na drugoj dražbi s 40% popustom - atraktivan popust ali izrazito nelikvidna ruralna lokacija bez turističkog potencijala, a suvlasnička fragmentacija (2/6 i 1/6 dijela) znači da se ne kupuje cijela nekretnina. Niska apsolutna vrijednost (25k EUR) smanjuje apsolutni rizik, ali i potencijal za smislen prinos.",
+  "flags": [
+    "suvlasništvo - kupuje se samo 3/6 udjela ukupno",
+    "vinograd - specijalizirana namjena",
+    "Kloštar Ivanić - depopulacijska ruralna lokacija",
+    "kuća vjerojatno bez komunalne infrastrukture"
+  ],
+  "input_hash": "6e11c76b114d",
+  "scored_at": "2026-05-21T09:36:22.413146"
+}
