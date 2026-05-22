@@ -1,0 +1,16 @@
+{
+  "id": "60389",
+  "score_overall": 2.5,
+  "score_lokacija": 1.5,
+  "score_roi": 3.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Vinograd u k.o. Kotlina (Beli Manastir, Baranja) — depopulacijska ruralna regija s izrazito niskom likvidnošću poljoprivrednog zemljišta. Popust od 20% na prvoj dražbi nedovoljan da kompenzira slabu potražnju i ograničene izlazne strategije.",
+  "flags": [
+    "ruralno/depopulacijsko područje",
+    "poljoprivredno zemljište — niska likvidnost",
+    "Baranja — ograničeno tržište kupaca"
+  ],
+  "input_hash": "b35c32cba677",
+  "scored_at": "2026-05-22T09:07:06.507773"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "58869",
+  "score_overall": 6.0,
+  "score_lokacija": 6.5,
+  "score_roi": 6.0,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Šibenik kao UNESCO-ov grad s rastućim turizmom pruža dobru lokacijsku osnovu, a dvoetažni stan od ~105m2 s garážom na 40% popusta u drugoj dražbi ima solidan potencijal. Suvlasnički udio 2/3 komplicira pravni status i eventualni izlaz iz investicije.",
+  "flags": [
+    "2/3 suvlasnički udio - preostalih 1/3 u vlasništvu treće osobe",
+    "potrebna konsolidacija vlasništva ili dogovor sa suvlasnikom"
+  ],
+  "input_hash": "a52594459d51",
+  "scored_at": "2026-05-22T09:04:29.390878"
+}

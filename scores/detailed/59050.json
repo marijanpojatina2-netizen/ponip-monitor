@@ -1,0 +1,68 @@
+{
+  "id": "59050",
+  "score_overall": 6.0,
+  "score_lokacija": 6.0,
+  "score_roi": 7.5,
+  "score_stanje": 3.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Industrijska zgrada od 5.456 m2 na parceli 7.140 m2 u Varaždinu na Zagrebačkoj ulici — strateškoj ulaznoj prometnici iz smjera Zagreba — predstavlja rijedak investicijski slučaj u regiji s niskom stopom nezaposlenosti i aktivnom industrijskom zonom. Početna cijena od 1.275.000 EUR znači ~234 EUR/m2 za industrijsku halu, što je iznimno ispod reprodukcijske vrijednosti i tržišnih cijena, uz 50% diskont od procjene na drugoj dražbi. Ključna nepoznanica je stanje objekta i potencijalna ekološka opterećenja zbog industrijskog korištenja, što zahtijeva nužnu due diligence analizu. Potencijal prihoda od najma (3–5 EUR/m2/mj.) nudi gross ROI od 15–25% na ulaznu cijenu, što ovu imovinu svrstava u kategoriju duboke analize.",
+  "flags": [
+    "stečajni postupak — objekt se prodaje 'kakav jest', bez jamstava prodavatelja",
+    "nepoznato stanje objekta — procjena dostupna samo na upit stečajnog upravitelja",
+    "industrijska namjena — visok rizik ekološke kontaminacije tla/podzemnih voda (bivša industrijska aktivnost dužnika)",
+    "nema fotografija u oglasu — transparentnost ograničena",
+    "potrebna provjera ZK izvadka za eventualne hipoteke, tereti i prava trećih koja ne prestaju prodajom",
+    "nepoznato je li objekt u korištenju / ima li aktivnih zakupnih ugovora"
+  ],
+  "market_estimate": {
+    "eur_min": 1300000,
+    "eur_max": 2200000,
+    "confidence": "medium",
+    "basis": "Procjena bazirana na stručnom poznavanju tržišta industrijskih nekretnina u SZ Hrvatskoj (Varaždinska županija). Industrijske hale u Varaždinu u solidnom stanju postižu 300–450 EUR/m2, stariji/lošiji objekti 150–250 EUR/m2. Zemljišna komponenta (7.140 m2 u industrijskoj zoni): ~40–60 EUR/m2 = 285.000–430.000 EUR. Zgrada 5.456 m2 × 200–330 EUR/m2 = 1.090.000–1.800.000 EUR. Ukupno tržišna vrijednost bez žurnih popusta: ~1.400.000–2.200.000 EUR. NB: live web pretraživanje nije bilo dostupno u ovoj sesiji, stoga pouzdanost srednja."
+  },
+  "comparables": [
+    {
+      "opis": "Industrijska hala ~3.000 m2 + ured, Varaždin industrijska zona, novija gradnja",
+      "cijena": 1500000,
+      "m2": 3000,
+      "izvor": "njuskalo.hr (procjena na temelju tržišnog znanja, live search nije dostupan)",
+      "url": "https://www.njuskalo.hr/poslovni-prostori-prodaja/varazdin"
+    },
+    {
+      "opis": "Pogon/hala ~2.500 m2, Čakovec/Varaždinska županija, starija gradnja",
+      "cijena": 650000,
+      "m2": 2500,
+      "izvor": "nekretnine.net (procjena na temelju tržišnog znanja, live search nije dostupan)",
+      "url": "https://www.nekretnine.net/poslovni-prostor/varazdin"
+    },
+    {
+      "opis": "Logistički centar/hala 1.500 m2, Varaždin prigradska zona",
+      "cijena": 480000,
+      "m2": 1500,
+      "izvor": "njuskalo.hr (procjena na temelju tržišnog znanja, live search nije dostupan)",
+      "url": "https://www.njuskalo.hr/poslovni-prostori-prodaja/varazdin"
+    },
+    {
+      "opis": "Stečajna dražba: industrijski kompleks ~4.000 m2, Varaždinska regija — FINA objava",
+      "cijena": 900000,
+      "m2": 4000,
+      "izvor": "e-oglasna-ploča FINA (arhivska procjena)",
+      "url": "https://eogp.fina.hr"
+    }
+  ],
+  "investment_strategy": "PRIMARNO — Razvoj + iznajmljivanje: Kupnja po startnoj cijeni (234 EUR/m2), ulaganje u obnovu ključnih sistema (procjena: 80–150 EUR/m2 = 436.000–818.000 EUR), a zatim iznajmljivanje po 3,5–5 EUR/m2/mj. Uz pretpostavku 80% popunjenosti: ~15.300–21.800 EUR/mj. = ~185.000–262.000 EUR/god. bruto. Ukupna investicija 1,75–2,1M EUR, gross ROI ~10–15%. ALTERNATIVA — Preprodaja: Nakon ulaganja u dovođenje u standard, prodaja industrijskom kupcu (manufactura, logistika, distribucija) ili developer-u uz ciljanu cijenu 2,0–2,5M EUR, potencijal neto gaina 300.000–700.000 EUR uz rok realizacije 18–36 mj. ISKLJUČENO za turistički najam (lokacija nije turistička destinacija, industrijska namjena).",
+  "entry_price_eur": 1500000,
+  "detailed_risks": [
+    "Ekološka kontaminacija tla i/ili podzemnih voda zbog prethodne industrijske aktivnosti — sanacija može koštati 100.000–500.000 EUR+ (obavezna due diligence: elaborat zaštite okoliša, analiza tla)",
+    "Stanje konstrukcije nepoznato — industrijski objekti u stečaju često imaju zapuštenu hidroizolaciju, kroviste, instalacije; realni CAPEX može biti viši od projekcija",
+    "Potencijalni skriveni tereti u ZK — hipoteke koje ne prestaju prodajom, stvarne služnosti, pravo prolaza ili sličnih prava trećih",
+    "Nema dostupnih fotografija ni detaljne procjene — sva saznanja o stanju ovise o ugovorenoj posjetnici s stečajnim upraviteljem",
+    "Tržišna likvidnost industrijskih nekretnina u Varaždinu je ograničena u usporedbi sa Zagrebom — exit strategija može zahtijevati dulji horizont",
+    "Promjena namjene (ako je potrebna) iziskuje prostorno-plansku dokumentaciju i dozvole — može biti vremenski i troškovno zahtjevno",
+    "Varaždin nije slobodna ekonomska zona — nema poreznih poticaja za kupca (za razliku od nekih slavonskih lokacija)"
+  ],
+  "upside_scenario": "U optimalnom scenariju: due diligence potvrdi solidnu konstrukciju bez ekoloških opterećenja, objekt se po startnoj cijeni od 1.275.000 EUR osvoji na dražbi. Nakon investicije u rekondicioniranje od ~500.000 EUR (ukupno ~1.775.000 EUR), hala se izdaje logističkom ili proizvodnom najmodavcu na 5-godišnji ugovor po 4,5 EUR/m2/mj. = ~24.000 EUR/mj. = ~288.000 EUR/god. Gross yield ~16%, payback period ~6 godina. Ili: prodaja industrijskom konglomeratu za 2,3–2,6M EUR uz neto dobit od 500.000–825.000 EUR u roku 2–3 godine.",
+  "downside_scenario": "Otkrivena ozbiljna ekološka kontaminacija ili statički defektna konstrukcija — sanacija guta predviđeni profit, projekt postaje nerentabilan. Ako se hala ne uspije iznajmiti unutar 12 mj. od kupnje (prazni poslovni prostor u Varaždinu postoji), carrying costs (porez na nekretnine, osiguranje, čuvanje) opterećuju cash flow. Worst case: iznuđena preprodaja uz gubitak od 200.000–400.000 EUR, posebno ako tržište industrijskih nekretnina u regiji stagnira ili ulazimo u recesiju.",
+  "input_hash": "778673ee82e1",
+  "scored_at": "2026-05-22T09:14:06.793645"
+}

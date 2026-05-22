@@ -1,0 +1,16 @@
+{
+  "id": "58847",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Solidni popust i kompaktna kuća od 101m2 u Slavoniji nisu dostatni jer 1/2 suvlasničkog dijela uz minimalnu potražnju u Satnici čini izlaz iz investicije gotovo nemogućim u razumnom roku.",
+  "flags": [
+    "1/2 suvlasničkog dijela",
+    "ruralna Slavonija - Valpovo okolica",
+    "niska tržišna potražnja za suvlasničkim udjelima"
+  ],
+  "input_hash": "4be1e023bcc0",
+  "scored_at": "2026-05-22T09:06:35.679379"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "58826",
+  "score_overall": 3.5,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Virovitica je manja kontinentalna sredina s ograničenom potražnjom za nekretninama i slabim izgledima za kapitalnu aprecijaciju; 40% popust u drugoj dražbi ne otvara relevantan investicijski potencijal. Tržišna likvidnost i demografski trendovi idu protiv.",
+  "flags": [
+    "Virovitica-Podravina - slabo tržište nekretnina",
+    "suvlasništvo 2x1/2"
+  ],
+  "input_hash": "916ea1967c9a",
+  "scored_at": "2026-05-22T09:04:29.391296"
+}

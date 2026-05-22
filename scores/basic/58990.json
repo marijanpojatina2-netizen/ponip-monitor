@@ -1,0 +1,15 @@
+{
+  "id": "58990",
+  "score_overall": 6.5,
+  "score_lokacija": 5.5,
+  "score_roi": 8.5,
+  "score_stanje": 5.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Kompaktan lot s dominantnom industrijskom zgradom 2184m² na 2796m² parcele daje visok omjer izgrađenosti i realnu mogućnost skladišnog/proizvodnog zakupa od prvog dana uz 50% popust; manji ulaz od 260k EUR poboljšava omjer rizika i pristupačan je širem krugu investitora. Lokacija na Zagrebačkoj ulici uz A4 koridoru pogodna za distribuciju i logistiku.",
+  "flags": [
+    "stečajna imovina - provjera tereta i ZK",
+    "stanje zgrade nepoznato - fizički obilazak obavezan"
+  ],
+  "input_hash": "ab127fca1f39",
+  "scored_at": "2026-05-22T09:02:16.009690"
+}

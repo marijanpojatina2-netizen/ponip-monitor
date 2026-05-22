@@ -1,0 +1,17 @@
+{
+  "id": "59016",
+  "score_overall": 6.5,
+  "score_lokacija": 5.5,
+  "score_roi": 8.5,
+  "score_stanje": 4.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Najveći i najatraktivniji lot - 15.495 m² land s ~10.379 m² industrijskih objekata u 11 zgrada za 1,16M EUR startne cijene (~75 EUR/m² izgrađenog s parcelom) je izvanredno povoljno čak i za stariju industrijsku gradnju. Potencijal za industrijski kampus, multi-tenant logistiku ili parcijaliziranu preprodaju opravdava tehničku due diligence.",
+  "flags": [
+    "stečajni postupak",
+    "11 objekata različitih godina i stanja - složena tehnička inspekcija",
+    "starija industrijska gradnja - moguća azbest/ekološka pitanja",
+    "kompleksnost upravljanja"
+  ],
+  "input_hash": "bf362254e2fa",
+  "scored_at": "2026-05-22T09:00:13.111852"
+}

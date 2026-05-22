@@ -1,0 +1,16 @@
+{
+  "id": "60395",
+  "score_overall": 2.0,
+  "score_lokacija": 1.5,
+  "score_roi": 3.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Vinograd Sarheđ, manji od ID 60389, ista lokacija i isti strukturalni problemi — Baranja bez turističke ili urbane potražnje. Četvrti najniži ROI potencijal u grupi uz jednako slabu likvidnost.",
+  "flags": [
+    "ruralno/depopulacijsko područje",
+    "vinograd — zahtijeva aktivno upravljanje ili napuštenost",
+    "Baranja — ograničeno tržište kupaca"
+  ],
+  "input_hash": "f3f67e132f23",
+  "scored_at": "2026-05-22T09:07:06.509264"
+}

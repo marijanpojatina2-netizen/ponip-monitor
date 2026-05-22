@@ -1,0 +1,14 @@
+{
+  "id": "58953",
+  "score_overall": 7.0,
+  "score_lokacija": 7.0,
+  "score_roi": 7.5,
+  "score_stanje": 6.0,
+  "recommendation": "bid",
+  "reasoning": "Brodarica je priobalna turistička lokacija nadomak Šibenika s jakom ugostiteljskom potražnjom, a potpuno opremljena picerija od 164m2 na 40% popusta u drugoj dražbi nudi konkretan cash-flow potencijal. Nema vidljivih pravnih zapreka, vlasništvo 1/1 (oba ovršenika zajedno), čist investicijski slučaj.",
+  "flags": [
+    "provjeri aktivni ugovor o zakupu/najmu ugostiteljskog prostora"
+  ],
+  "input_hash": "19203f7a3138",
+  "scored_at": "2026-05-22T09:04:29.390531"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "60353",
+  "score_overall": 1.5,
+  "score_lokacija": 1.5,
+  "score_roi": 2.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Trstik (močvarno/barskoземljište) Alšo Rit — najslabiji predmet u grupi; trstik ima minimalne mogućnosti iskorištavanja, gotovo nultу tržišnu likvidnost i potencijalne ekološke/regulatorne restrikcije. Izbjegavati bez iznimke.",
+  "flags": [
+    "trstik/barskoземljište — gotovo nulta upotrebna vrijednost",
+    "ruralno/depopulacijsko područje",
+    "regulatorne restrikcije moguće (zaštićeni biotop)",
+    "ekstremno niska likvidnost"
+  ],
+  "input_hash": "b80adfc1db36",
+  "scored_at": "2026-05-22T09:07:06.509655"
+}

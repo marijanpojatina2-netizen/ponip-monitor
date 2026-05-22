@@ -1,0 +1,17 @@
+{
+  "id": "60385",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Šumska parcela 1645 m2 u k.o. Kotlina – šume su regulatorno najrestriktivnija kategorija, gotovo nema mogućnosti prenamjene ni razvoja. Investicijska vrijednost minimalna čak i uz eventualni veći popust na kasnijim dražbama.",
+  "flags": [
+    "šuma – stroge regulatorne restrikcije",
+    "zabrana izgradnje i prenamjene",
+    "ruralno područje – depopulacijska zona",
+    "niska likvidnost"
+  ],
+  "input_hash": "be093ab7158e",
+  "scored_at": "2026-05-22T09:07:34.862184"
+}

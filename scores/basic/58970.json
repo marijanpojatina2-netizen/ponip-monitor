@@ -1,0 +1,18 @@
+{
+  "id": "58970",
+  "score_overall": 5.0,
+  "score_lokacija": 9.0,
+  "score_roi": 3.5,
+  "score_stanje": 1.5,
+  "recommendation": "watch",
+  "reasoning": "Lokacija na otoku Visu (60.522 m²) je iznimna, ali status zaštitne šume gotovo u potpunosti blokira razvoj - T1 namjena u PPUG-u kolidira sa šumskim statusom koji je nadređen i onemogućuje klasičnu turističku izgradnju. Isključivo za investitora s dubokim poznavanjem viške regulatornoknjižne situacije i apetitom za višegodišnji pravni proces.",
+  "flags": [
+    "zaštitna šuma - gradnja praktički nemoguća",
+    "T1 namjena u sukobu sa šumskim statusom",
+    "neizgrađeno i neobrađeno - nula prihoda",
+    "40% popust nedovoljan za kompenzaciju pravnog rizika",
+    "dugotrajni urbanistički/pravni proces nužan"
+  ],
+  "input_hash": "17225530efe6",
+  "scored_at": "2026-05-22T09:00:13.112180"
+}

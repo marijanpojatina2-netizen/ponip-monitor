@@ -1,0 +1,16 @@
+{
+  "id": "60345",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Ruralna Slavonija (Slobodnica, Slavonski Brod) s isključivo gospodarsko-industrijskom namjenom, samo 20% popusta u prvoj dražbi i nultom turističkom perspektivom. Niska tržišna likvidnost i specifična namjena eliminiaju ovo kao investicijsku opciju za standardnog investitora.",
+  "flags": [
+    "prva dražba - nema bonusa",
+    "gospodarska zgrada specijalizirane namjene",
+    "depopulacijsko ruralno područje"
+  ],
+  "input_hash": "f824389f9461",
+  "scored_at": "2026-05-22T09:04:29.390762"
+}

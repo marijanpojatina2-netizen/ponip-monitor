@@ -1,0 +1,16 @@
+{
+  "id": "60351",
+  "score_overall": 2.0,
+  "score_lokacija": 1.5,
+  "score_roi": 3.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Voćnjak Šuba Alja, 2.714 m2, k.o. Kotlina — najmanji voćnjak u grupi uz jednaki popust i jednako slabe tržišne fundamentale. Početna cijena ispod 1.700 EUR ne čini ga atraktivnim jer troškovi eventualnog upravljanja ili transakcije premašuju potencijal.",
+  "flags": [
+    "ruralno/depopulacijsko područje",
+    "poljoprivredno zemljište — niska likvidnost",
+    "mali posjed — ekonomija obima ne funkcionira"
+  ],
+  "input_hash": "fd4546aea348",
+  "scored_at": "2026-05-22T09:07:06.509370"
+}

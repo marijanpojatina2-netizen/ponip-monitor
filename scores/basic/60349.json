@@ -1,0 +1,16 @@
+{
+  "id": "60349",
+  "score_overall": 2.5,
+  "score_lokacija": 1.5,
+  "score_roi": 3.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Voćnjak u istoj k.o. Kotlina, sličan profil rizika kao ID 60389 — ruralna Baranja s minimalnom investicijskom potražnjom. Bez jasne strategije aktivnog korištenja ili preprodaje, investicijski case ne stoji.",
+  "flags": [
+    "ruralno/depopulacijsko područje",
+    "poljoprivredno zemljište — niska likvidnost",
+    "Baranja — ograničeno tržište kupaca"
+  ],
+  "input_hash": "826627fde777",
+  "scored_at": "2026-05-22T09:07:06.507989"
+}

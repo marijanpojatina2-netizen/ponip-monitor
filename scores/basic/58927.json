@@ -1,0 +1,15 @@
+{
+  "id": "58927",
+  "score_overall": 3.0,
+  "score_lokacija": 2.0,
+  "score_roi": 5.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Ruralna slavonska lokacija s negativnim demografskim trendom eliminira investicijski potencijal unatoč solidnom popustu od 40% na drugoj dražbi; likvidnost pri izlazu iz investicije bila bi ekstremno niska.",
+  "flags": [
+    "ruralna Slavonija - depopulacijska zona",
+    "niska tržišna likvidnost - Vinkovci okolica"
+  ],
+  "input_hash": "cb18ef5c3f90",
+  "scored_at": "2026-05-22T09:06:35.678944"
+}

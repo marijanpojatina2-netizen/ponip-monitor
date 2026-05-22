@@ -1,0 +1,16 @@
+{
+  "id": "60391",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Sitna vinogorska kuća od svega 25m2 s vinogradom u ruralnoj Baranji uz minimalni popust od 20% na prvoj dražbi ne opravdava investiciju; agroturistički potencijal zanemariv u regiji s negativnim demografskim i ekonomskim trendovima.",
+  "flags": [
+    "1. dražba - minimalni popust",
+    "kuća svega 25m2 - ograničena upotrebljivost",
+    "ruralna Baranja - ograničen turistički potencijal"
+  ],
+  "input_hash": "d62389166d48",
+  "scored_at": "2026-05-22T09:06:35.679842"
+}

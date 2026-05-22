@@ -1,0 +1,16 @@
+{
+  "id": "59054",
+  "score_overall": 5.0,
+  "score_lokacija": 5.5,
+  "score_roi": 8.0,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "6308m² gotovo isključivo dvorišta s minimalnom izgradnjom od svega 102m² skladišta - 50% popust je mehanički atraktivan ali bez smislene izgradnje prinos od zakupa je zanemariv dok se ne razvije parcela. Zanimljiv kao buffer ili proširenje ako se kupuje uz susjedne industrijske lotove, ali samostalno kao investicija ima slab operativni slučaj.",
+  "flags": [
+    "minimalna izgradnja - 98% dvorište",
+    "namjena zemljišta i mogućnost dogradnje ključna za isplativost",
+    "stečajna imovina"
+  ],
+  "input_hash": "7215aa45a504",
+  "scored_at": "2026-05-22T09:02:16.009458"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "59090",
+  "score_overall": 2.5,
+  "score_lokacija": 5.0,
+  "score_roi": 2.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Ražine (predgrađe Šibenika) ima lokacijski potencijal, ali predmet dražbe je samo 500/2162 (~23%) nerazvijene obrasle parcele s trošnim objektom, bez popusta u prvoj dražbi. Izuzetno složena suvlasnička struktura bez realne perspektive unovčenja.",
+  "flags": [
+    "500/2162 suvlasnički udio (~23%) - manjinski udio bez kontrole",
+    "stari trošni stambeni objekt",
+    "neizgrađena parcela obrasla raslinjem",
+    "prva dražba - bez bonusa"
+  ],
+  "input_hash": "481f0ae7fccc",
+  "scored_at": "2026-05-22T09:04:29.391188"
+}

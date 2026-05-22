@@ -1,0 +1,15 @@
+{
+  "id": "58998",
+  "score_overall": 5.5,
+  "score_lokacija": 5.5,
+  "score_roi": 8.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "2151m² parcele s głównom zgradom 1052m² i manjim pomoćnim objektima - solidan ali manji i manje dominantan od lotova 58990 i 58994 na istoj ulici; 50% popust otvara prostor za prihvatljiv ROI ali solo investicijski case je slabiji nego u slučaju većih lotova. Preporučuje se razmotriti isključivo u sklopu šire analize kompleksa i eventualnog paketnog pristupa.",
+  "flags": [
+    "stečajna imovina",
+    "manji lot - razmotri zajedno s 59002/58994 za konsolidaciju kompleksa"
+  ],
+  "input_hash": "5fb7d4dc8eaa",
+  "scored_at": "2026-05-22T09:02:16.009799"
+}

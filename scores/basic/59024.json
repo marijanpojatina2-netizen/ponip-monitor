@@ -1,0 +1,16 @@
+{
+  "id": "59024",
+  "score_overall": 5.5,
+  "score_lokacija": 6.0,
+  "score_roi": 7.0,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Kolan na otoku Pagu je dalmatinska otočka lokacija s turističkim potencijalom (blizina Zrćea, maslinici), a 15.390 EUR početna cijena za 1/2 dijela 1940m2 otočkog zemljišta iznimno je niska. Suvlasnički udio i agrikulturna namjena (provjera mogućnosti prenamjene) su ključni rizici.",
+  "flags": [
+    "1/2 suvlasnički udio - potreban dogovor ili otkup",
+    "oranica - ograničena gradnja bez prenamjene",
+    "Kolan - unutrašnjost otoka, nije obalna zona"
+  ],
+  "input_hash": "239b7e5a06ac",
+  "scored_at": "2026-05-22T09:04:29.391396"
+}

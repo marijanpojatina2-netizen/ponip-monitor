@@ -1,0 +1,15 @@
+{
+  "id": "58923",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 4.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Novo Selo u okolici Siska je ruralano depopulacijsko područje s minimalnom tržišnom potražnjom i niskim prinosima od najma; 40% popust ne kompenzira strukturno slabu lokaciju. Bez turizma i bez urbanog oslonca, kapitalana aprecijacija praktički nemoguća.",
+  "flags": [
+    "depopulacijsko ruralno područje - Sisak okolica",
+    "niska likvidnost izlaza"
+  ],
+  "input_hash": "3f9863a9dc0b",
+  "scored_at": "2026-05-22T09:04:29.390988"
+}

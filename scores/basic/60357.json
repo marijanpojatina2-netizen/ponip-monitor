@@ -1,0 +1,16 @@
+{
+  "id": "60357",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Najmanji lot u setu – oranica 579 m2 za ~190 EUR početne cijene. Iako apsolutna cijena je simbolična, transakcijski troškovi (javnobilježničke pristojbe, uknjižba, porez) mogu premašiti samu cijenu parcele, čineći investiciju neracionalnom.",
+  "flags": [
+    "ruralno područje – depopulacijska zona",
+    "transakcijski troškovi mogu premašiti cijenu parcele",
+    "premala parcela za samostalno iskorištavanje"
+  ],
+  "input_hash": "3f31ff1d3e44",
+  "scored_at": "2026-05-22T09:07:34.862724"
+}

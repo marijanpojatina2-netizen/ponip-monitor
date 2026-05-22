@@ -1,0 +1,16 @@
+{
+  "id": "59026",
+  "score_overall": 6.5,
+  "score_lokacija": 5.5,
+  "score_roi": 8.0,
+  "score_stanje": 4.5,
+  "recommendation": "bid",
+  "reasoning": "Drugi po veličini lot iz varaždinskog stečaja - 17.313 m² land s ~4.430 m² mix skladišno-industrijskih kapaciteta za 755k EUR startne cijene (~127 EUR/m² s parcelom). Diverzificirani mix veličina zgrada pogoduje multi-tenant pristupu i distribuciji rizika, a cijena ostavlja prostor i za preprodaju.",
+  "flags": [
+    "stečajni postupak",
+    "višestruki objekti - provjeriti strukturnu ispravnost",
+    "stanje objekata neispitano"
+  ],
+  "input_hash": "564b761b1006",
+  "scored_at": "2026-05-22T09:00:13.112285"
+}

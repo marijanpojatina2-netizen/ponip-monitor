@@ -1,0 +1,17 @@
+{
+  "id": "59038",
+  "score_overall": 5.5,
+  "score_lokacija": 5.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Mali industrijski kompleks (~727 m² izgrađeno na 1018 m² parcele) u Varaždinu s 50% popustom - cijena po m² ostaje relativno visoka za industrijsku zonu regionalnog centra, što umanjuje ROI atraktivnost. Vrijedi pratiti ako padne ispod početne cijene ili u kontekstu paketnog preuzimanja s ostalim lotovima iz istog stečaja.",
+  "flags": [
+    "stečajni postupak",
+    "mala izgrađena površina u odnosu na cijenu",
+    "industrijska namjena - ograničena likvidnost",
+    "stanje objekata neispitano"
+  ],
+  "input_hash": "87ee4b4ae4f7",
+  "scored_at": "2026-05-22T09:00:13.111469"
+}

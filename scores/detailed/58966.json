@@ -1,0 +1,62 @@
+{
+  "id": "58966",
+  "score_overall": 4.0,
+  "score_lokacija": 3.0,
+  "score_roi": 6.0,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Industrijski kompleks (skladišta + pogon drvne ambalaže + manipulativni prostor) u k.o. Buković – Ravni Kotari, dalmatinsko zaleđe, ~25-30 km od Zadra bez izlaza na more. 50% popust na drugoj dražbi je atraktivan, ali radi se o specijaliziranoj industrijskoj imovini u depopulacijskom zaleđu s uskim tržištem kupaca. Ukupna izgrađena površina ~3.883 m² + ~9.000+ m² dvorišta/terre čini kompleks logistički interesantnim isključivo uz A1 pristup, ali exit strategija ostaje problematična. Stečajni kontekst povlači nepoznanice glede stanja objekta i eventualnih ekoloških opterećenja.",
+  "flags": [
+    "Stečajni postupak – razlog prodaje nepoznat, moguće skrivene obveze",
+    "Pogon drvne ambalaže – potencijalna ekološka opterećenja (otpad, kemikalije, insekticidi za ambalažu)",
+    "Industrijska namjena – reprogramiranje u drugu namjenu zahtijeva skupu izmjenu GUP/DPU",
+    "Ruralno/hinterland – k.o. Buković nije turistička ni urbana lokacija, tržišna likvidnost vrlo niska",
+    "Opis je skraćen ('uprav...') – vjerojatno postoje dodatne čestice ili prava koja nisu navedena u sažetku",
+    "Razgledavanje 'uz prethodni dogovor' – otežan pristup, moguća aktivna industrijaska aktivnost ili zakup",
+    "Visoka jamčevina 220.434 EUR – visoka kapitalna barijera za ulaz"
+  ],
+  "market_estimate": {
+    "eur_min": 600000,
+    "eur_max": 1100000,
+    "confidence": "low",
+    "basis": "Industrijska imovina u dalmatinskom zaleđu (Ravni Kotari/Benkovac area) postiže 150-350 EUR/m² izgrađene površine. Na ~3.883 m² izgrađenog to daje 582k-1.36M EUR; korekcija prema dolje zbog lokacije i specijalizirane namjene. Web pretraga nije bila dostupna – brojke su procjena bez aktualnih komparabila."
+  },
+  "comparables": [
+    {
+      "opis": "Industrijska hala + skladište, okolica Zadra (Galovac/Smokovič zona)",
+      "cijena": 850000,
+      "m2": 2800,
+      "izvor": "njuskalo.hr (procjena bez potvrde)",
+      "url": "https://www.njuskalo.hr/poslovni-prostori-prodaja/zadar"
+    },
+    {
+      "opis": "Proizvodni pogon s dvorištem, Benkovac-Knin koridor",
+      "cijena": 400000,
+      "m2": 2000,
+      "izvor": "nekretnine.net (procjena bez potvrde)",
+      "url": "https://www.nekretnine.net/pretraga/?tip=poslovni&lokacija=benkovac"
+    },
+    {
+      "opis": "Staro industrijsko postrojenje, Zadar županija zaleđe – FINA dražba",
+      "cijena": 520000,
+      "m2": null,
+      "izvor": "fina.hr e-dražbe (slični predmeti iz 2024-2025)",
+      "url": "https://edrazbe.fina.hr"
+    }
+  ],
+  "investment_strategy": "LOGISTIČKI/INDUSTRIJSKI ZAKUP ili PREPRODAJA strateškom kupcu – jedine realne opcije. (1) Kratkoročno: iznajmiti skladišne kapacitete lokalnim ili regionalnim logističarima/agrobiznisu (blizina A1 autoceste može biti argument). (2) Srednoročno: preprodaja industrijskom operateru koji treba gotov kompleks u Dalmaciji. (3) Razvoj nije realan bez izmjene prostorno-planske dokumentacije. Reno-flip nema smisla za industrijsku namjenu. Najlošija opcija je čekati rezoning – previše nesigurno u zaleđu.",
+  "entry_price_eur": 750000,
+  "detailed_risks": [
+    "Ekološki rizik: pogon drvne ambalaže može imati zagađenje tla (pesticidi, lužine, otapala) – due diligence ekološke studije obavezan",
+    "Pravni rizik: skraćeni opis ('uprav...') sugerira potencijalno kompleksnu strukturu prava – moguća služnosti, hipoteke, stanarska prava",
+    "Likvidnost: industrijska imovina u Bukoviću ima vrlo uzak bazen kupaca, exit može trajati 5+ godina",
+    "Tržišna vrijednost upitna: utvrđena vrijednost od 2.2M EUR na industrijskom objektu u hinterlandu zvuči precijenjeno – sudski vještaci katkad uzimaju knjigovodstvenu vrijednost",
+    "Infrastruktura: stariji industrijski objekti u zaleđu često imaju zastarjele instalacije (struja, voda, kanalizacija) – skupo za obnovu",
+    "Depopulacija: Ravni Kotari/Benkovac zona kontinuirano gubi stanovništvo i privrednu aktivnost",
+    "Visok kapital na ulasku: 220K EUR jamčevina + potencijalni troškovi renovacije/sanacije"
+  ],
+  "upside_scenario": "Logistička tvrtka ili agroprehrambeni operater (maslinovo ulje, vino, sušeno voće – sve raste u Dalmaciji) kupuje kompleks za vlastite potrebe ili zakup. Uz blizinu A1 i gotove ~3.900 m² natkrivenosti + 9.000 m² dvorišta, aktivni zakup od 8-12 EUR/m²/mj donosi ~375-560K EUR godišnje prihoda. ROI na ulaznu cijenu od 750K EUR iznosi 50-75% bruto kroz 2-3 godine, preprodaja industrijskom kupcu za 1.1-1.4M EUR.",
+  "downside_scenario": "Ekološka sanacija (ako postoji zagađenje) može koštati 200-500K EUR i zaustaviti svaku transakciju. Bez zakupnika kompleks propada (sigurnosni troškovi, komunalije, porez na nekretnine). Tržišna vrijednost u recesiji ili daljnjoj depopulaciji zaleđa pada ispod 500K EUR, a imovina postaje neizdiva. Kapital od 220K+ EUR je zamrznut bez prihoda.",
+  "input_hash": "4e296e434b02",
+  "scored_at": "2026-05-22T09:18:33.828001"
+}

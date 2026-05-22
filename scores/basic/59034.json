@@ -1,0 +1,17 @@
+{
+  "id": "59034",
+  "score_overall": 5.0,
+  "score_lokacija": 5.5,
+  "score_roi": 7.0,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Pretežno neizgrađena parcela od 18.532 m² (18.178 m² dvorište) s tehničkim objektima u Varaždinu za 880k EUR - potencijal kao razvojna ili brownfield parcela, ali minimalna izgrađenost znači velik investicijski zahvat za aktivaciju prihoda. Sinergijska vrijednost raste ako investitor preuzima i susjedne lotove iz istog stečaja.",
+  "flags": [
+    "pretežno neizgrađeno - nema prihoda od prvog dana",
+    "trafostanica - provjeriti vlasništvo i status",
+    "stečajni postupak",
+    "dugotrajnija aktivacija investicije"
+  ],
+  "input_hash": "5f507c5bf814",
+  "scored_at": "2026-05-22T09:00:13.112075"
+}

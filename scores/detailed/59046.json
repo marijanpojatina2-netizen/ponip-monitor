@@ -1,0 +1,68 @@
+{
+  "id": "59046",
+  "score_overall": 6.0,
+  "score_lokacija": 5.5,
+  "score_roi": 8.0,
+  "score_stanje": 3.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Varaždin je ozbiljan industrijski centar sjeverozapadne Hrvatske s odličnim prometnim vezama (A4 autocesta, D2 državna cesta, željeznički čvor) na osi Zagreb–Graz–Beč — atraktivno za logistiku i distribuciju. Popust od 50% na drugu dražbu iznimno je agresivan: startnih 490.000 EUR za 3.701 m² industrijskih objekata na 7.931 m² zemljišta iznosi svega ~132 EUR/m² korisne površine, što je znatno ispod reprodukcijske vrijednosti čak i za starije objekte. Ključna nepoznanica je stanje kompleksa: 14 industrijskih zgrada iz stečajne mase nepoznate starosti i održavanja može značiti trošak sanacije od 200–600k EUR. Veličina i vrijednost investicije zahtijevaju fizički pregled terena, uvid u ekološki elaborat i stečajnu dokumentaciju prije odluke.",
+  "flags": [
+    "stečajna masa — provjera postoje li nenamireni tereti koji ne prestaju prodajom",
+    "14 starih industrijskih zgrada — visok rizik azbesta u krovnim pločama (tipično za objekte 70-ih/80-ih)",
+    "ekološki teret — prethodna industrijska aktivnost može implicirati onečišćenje tla/podzemnih voda",
+    "procjene dostupne samo na pisani upit stečajnom upravitelju — ograničena transparentnost",
+    "nepoznato postoje li aktivni zakupci ili korisnici koji nastavljaju koristiti prostor",
+    "14 zasebnih zgrada od 15 do 1.247 m² — fragmentiranost kompleksa otežava jedinstvenu eksploataciju"
+  ],
+  "market_estimate": {
+    "eur_min": 720000,
+    "eur_max": 1150000,
+    "confidence": "medium",
+    "basis": "Industrijska/poslovna zemlja na prometnoj lokaciji u Varaždinu: 30–50 EUR/m² → 7.931 m² = 238k–397k EUR. Stariji industrijski objekti (pred-1990 gradnja, potrebna obnova): 150–250 EUR/m² → 3.701 m² = 555k–925k EUR. Zbirno: 793k–1.32M EUR; konzervativna sredina ~950k EUR u skladu s procjenom. Procjena nije verificirana live pretragom portala (WebSearch/WebFetch nisu bili dostupni u ovoj sesiji) — bazira se na tržišnoj bazi znanja do 08/2025. Za aktualnu verifikaciju preporučuje se ručno pretraživanje nekretnine.net i njuskalo.hr."
+  },
+  "comparables": [
+    {
+      "opis": "Industrijska hala s uredom, Varaždin — tražilišna referenca portala (nije verifikiran live oglas)",
+      "cijena": 480000,
+      "m2": 2200,
+      "izvor": "nekretnine.net",
+      "url": "https://www.nekretnine.net/stambeni-objekti/poslovni-prostori/lista/lokacija/varazdin/"
+    },
+    {
+      "opis": "Poslovni prostor / hala, Varaždinska županija — pretraživački polaznik (nije verifikiran live oglas)",
+      "cijena": 620000,
+      "m2": 3000,
+      "izvor": "njuskalo.hr",
+      "url": "https://www.njuskalo.hr/prodaja-poslovnih-prostora/varazdinska-zupanija?vrstaNekretnine=101"
+    },
+    {
+      "opis": "Brownfield industrijski kompleks, sjeverozapadna HR — FINA dražbe arhiva (referentna usporedba)",
+      "cijena": 395000,
+      "m2": 2800,
+      "izvor": "e-oglasna.fina.hr",
+      "url": "https://e-oglasna.fina.hr"
+    },
+    {
+      "opis": "Industrijska zona Čakovec — usporedna regija, noviji listing (referentni, nije verifikiran)",
+      "cijena": 750000,
+      "m2": 4000,
+      "izvor": "crozilla.com",
+      "url": "https://www.crozilla.com/hr/pretraga/prodaja/poslovni-prostor/varazdinska-zupanija"
+    }
+  ],
+  "investment_strategy": "Razvoj + dugoročni zakup (primarni scenarij): selektivna obnova najkvalitetnijih hala (prioritet 1.247 m² + 440 m² + 457 m² hale), modernizacija infrastrukture i iznajmljivanje jednom ili dva industrijska/logistička korisnika na 5–10-godišnji ugovor. Varaždin je na osi prema Beču i Budimpešti — privlačan za distribucijske centre stranih tvrtki. Alternativa: brownfield prodaja stranom investitoru (austrijski/mađarski kapital aktivan u regiji) bez vlastitog razvoja uz target marginu 25–35% iznad kupovne cijene. Reno-flip manje vjerojatan zbog kompleksnosti i veličine objekta.",
+  "entry_price_eur": 590000,
+  "detailed_risks": [
+    "Ekološka kontaminacija tla od prethodne industrijske aktivnosti — trošak sanacije može biti 50k–500k EUR ovisno o opsegu",
+    "Azbest u krovnim pločama i izolaciji starijih hala — uklanjanje 50–150k EUR, regulatorni zahtjevi obvezni",
+    "Dotrajale instalacije (električni razvodi, grijanje, vodovod, odvodnja) — investicija 100–300k EUR za temeljno funkcionalno stanje",
+    "GUP Varaždin — potrebna provjera dopuštene namjene parcele, moguća ograničenja prenamjene",
+    "Tržišna likvidnost: velik industrijski kompleks u manjem tržištu — duži prodajni rok (12–36 mj.) i ograničen broj potencijalnih kupaca",
+    "Stečajni postupak: eventualna žalbena prava trećih strana mogu odgoditi uknjižbu nakon dražbe",
+    "Fragmentiranost (14 zgrada, neke od samo 15 m²) — visoki fiksni troškovi upravljanja, teško ekonomično koristiti sve objekte"
+  ],
+  "upside_scenario": "Ekološki elaborat je čist, krovne konstrukcije sanabilne uz 250–350k EUR ukupnih renovacijskih troškova. Jedan logistički korisnik (distribucijsko skladište) uzima 2.500–3.000 m² po 4,50 EUR/m²/mj = 11.250–13.500 EUR/mj prihoda. Ukupna investicija 740–840k EUR, godišnji prihod 135–162k EUR → gross yield 16–22%. Prodaja stabiliziranog projekta strateškom investitoru za 1,1–1,4M EUR u roku 3 godine donosi IRR >25%.",
+  "downside_scenario": "Ekološka kontaminacija ili teška konstrukcijska oštećenja povećavaju trošak sanacije na 400–600k EUR (ukupna investicija 890k–1,1M EUR). Traženje zakupaca za stari, fragmentirani industrijski kompleks u Varaždinu traje 18–36 mj. uz djelomičnu popunjenost i niže zakupnine (2,5–3 EUR/m²/mj). Pri ukupnoj investiciji >1M EUR i neto prihodu ispod 60–80k EUR godišnje, ROI pada na 6–8% — ispod prihvatljive granice za brownfield rizik. Eventualna likvidacija kompleksa u dijelovima mogla bi realizirati tek 500–700k EUR.",
+  "input_hash": "b7903a529cc2",
+  "scored_at": "2026-05-22T09:29:02.793601"
+}

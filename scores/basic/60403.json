@@ -1,0 +1,17 @@
+{
+  "id": "60403",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Kombinacija minimalnog popusta od 20% na prvoj dražbi, ruralne baranjske lokacije i potpunog izostanka stambenog objekta čini ovu investiciju neprihvatljivom; isključivo agrikulturno zemljište bez prihvatne infrastrukture.",
+  "flags": [
+    "1. dražba - minimalni popust",
+    "bez stambenog objekta",
+    "ruralna Baranja - depopulacijska zona",
+    "isključivo vinograd i voćnjak"
+  ],
+  "input_hash": "08a58e3fa79b",
+  "scored_at": "2026-05-22T09:06:35.679269"
+}

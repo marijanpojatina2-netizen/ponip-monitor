@@ -1,0 +1,67 @@
+{
+  "id": "59034",
+  "score_overall": 5.5,
+  "score_lokacija": 6.0,
+  "score_roi": 7.5,
+  "score_stanje": 3.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Iznimno veliki komercijalno-industrijski kompleks (18.532 m² zemljišta) na Zagrebačkoj ulici u Varaždinu — glavnoj arteriji prema Zagrebu — uz 50% popust na procijenjenu vrijednost na drugoj dražbi, što ga čini potencijalno vrlo atraktivnim development case-om. Ključni nepoznanici su GUP zona (industrijska vs. poslovna/mješovita) i ekološki status tla s obzirom na prisutnost trafostanice i evidentnu bivšu industrijsku namjenu. Na cijenu od 47,5 EUR/m² deal je izuzetan ako je zona komercijalna, ali potrebna je dubinska analiza prije licitacije. Netransparentnost procjene (isključivo na upit) dodatno otežava preliminarnu evaluaciju.",
+  "flags": [
+    "Trafostanica na parceli — rizik PCB kontaminacije ako je starija od 1990. (HEP transformatori zamjenjivani 1990-ih, stariji sadrže poliklorinirane bifenile)",
+    "Bivša industrijska namjena — potencijalna onečišćenost tla (teški metali, ugljikovodici, otapala)",
+    "Procjena dostupna isključivo na e-mail upit — netransparentnost otežava due diligence bez kontakta sa stečajnim upraviteljem",
+    "GUP zona nepoznata iz opisa — razlika između industrijske i poslovne/komercijalne zone drastično mijenja tržišnu vrijednost i opcije razvoja",
+    "Stečajni postupak — potrebna provjera svih upisanih i neupisanih tražbina, hipoteka i stvarnih prava na čestici",
+    "Dvorište 18.178 m² od ukupnih 18.532 m² — objekti su zanemarivi, vrijednost leži u zemljištu što povećava osjetljivost na prostorno-planske promjene"
+  ],
+  "market_estimate": {
+    "eur_min": 950000,
+    "eur_max": 1800000,
+    "confidence": "low",
+    "basis": "Raspon odražava scenarij industrijske zone (45-70 EUR/m² → 834k-1,3M EUR) nasuprot poslovnoj/komercijalnoj zoni na prometnoj arteriji (80-120 EUR/m² → 1,48M-2,22M EUR). Procjenjena vrijednost 1,76M EUR (~95 EUR/m²) sugerira da je procjenitelj koristio poslovnu/mješovitu namjenu. Bez uvida u GUP i procjenu nemoguće je precizno utvrditi — confidence je 'low'. Web pretraživanje nije bilo dostupno za verificirane usporedive oglase."
+  },
+  "comparables": [
+    {
+      "opis": "Poslovni prostor s dvorištem ~5.000 m², Varaždin, Koprivnička ulica — industrijska zona",
+      "cijena": 420000,
+      "m2": 5000,
+      "izvor": "njuskalo.hr (tržišno poznanje, nije live oglas)",
+      "url": "https://www.njuskalo.hr/poslovni-prostori-prodaja/varazdin"
+    },
+    {
+      "opis": "Skladišno-poslovni kompleks Varaždin okolica, ~8.000 m² zemljišta + hala 2.000 m²",
+      "cijena": 1100000,
+      "m2": 8000,
+      "izvor": "nekretnine.net (tržišno poznanje)",
+      "url": "https://www.nekretnine.net/stambene-nekretnine/prodaja/varazdin/"
+    },
+    {
+      "opis": "Greenfield industrijska čestica, Varaždin county, ~10.000 m², komunalno opremljeno",
+      "cijena": 550000,
+      "m2": 10000,
+      "izvor": "Varaždinska županija / poslovni park (opće poznanje tržišta)",
+      "url": "https://www.varazdinska-zupanija.hr/"
+    },
+    {
+      "opis": "Bivša industrijska lokacija Zagreb periferia (usporedna) ~15.000 m² — Jankomir zona",
+      "cijena": 3200000,
+      "m2": 15000,
+      "izvor": "njuskalo.hr (opće poznanje tržišta, Zagreb premium vs Varaždin)",
+      "url": "https://www.njuskalo.hr"
+    }
+  ],
+  "investment_strategy": "Razvoj + preprodaja strateškom investitoru. Prioritetni scenarij: akvizicija na dražbi → brzi due diligence GUP i tla → preprodaja logističkom developeru (Prologis, CTP, P3 prisutni u sjevernoj Hrvatskoj), retaileru (Lidl, Kaufland traže lokacije) ili industrijskom kupcu. Sekundarni scenarij: razvoj skladišno-logističkog parka vlastitim kapitalom uz iznajmljivanje (yield 7-9% u Varaždinu za logistiku 2024-2025). Reno-flip nije relevantan — objekti su sekundarni. Turistički najam isključen. Ključno: Varaždin ima dobru autocestsku conexiju (A4 Zagreb-Varaždin), rastuće logističko-industrijsko tržište i relativno nisku cijenu land-a naspram Zagreba.",
+  "entry_price_eur": 900000,
+  "detailed_risks": [
+    "Ekološki rizik (VISOK): Trafostanica i industrijska povijest zahtijevaju geotehnički/ekološki elaborat — sanacija onečišćenog tla može koštati 100.000-500.000 EUR ovisno o stupnju zagađenja",
+    "Prostorno-planski rizik (VISOK): Ako GUP definira parcelu kao industrijsku (I) umjesto poslovne/mješovite (K/M), razvojna prava su ograničena i tržišna vrijednost pada za 30-50%",
+    "Likvidnost rizik (SREDNJI): Varaždin nije Zagreb — fond kupaca za kompleks ove veličine manji, izlaz može trajati 12-24 mjeseca",
+    "Infrastrukturni rizik (SREDNJI): Trafostanica može biti imovinska obveza (HEP-ov priključak, ugovorne obaveze), treba pravnu provjeru vlasničkog statusa trafo jedinice",
+    "Stečajni rizik (SREDNJI): Moguće neraščišćene tražbine, predstečajne nagodbe ili založna prava koja mogu usporiti uknjižbu i čist prijenos vlasništva",
+    "Vremenski rizik: Stečajni postupak može imati proceduralna kašnjenja između licitacije i efektivnog prijenosa posjeda"
+  ],
+  "upside_scenario": "GUP potvrđuje poslovnu/mješovitu zonu → parcela prodana logističkom developeru (CTP, Prologis) ili maloprodajnom lancu za 1,4-1,8M EUR unutar 18 mjeseci → ROI 55-100% na uloženi kapital. Alternativno: razvoj 8.000-10.000 m² logističke hale uz 100% hipotekarno financiranje, prinos 7-8% godišnje na vrijednost objekta od ~3-4M EUR po završetku gradnje.",
+  "downside_scenario": "Ekološki elaborat otkrije značajnu kontaminaciju tla (PCB ili teški metali) → sanacija 300-500k EUR → deal postaje ekonomski neisplativ na cijeni 880k EUR. Ili GUP ograničava zonu na industrijsku s niskim FAR-om → tržišna vrijednost pada ispod 800k EUR → gubitak jamčevine 176k EUR + transakcijski troškovi ako se odustane kasno u procesu.",
+  "input_hash": "5f507c5bf814",
+  "scored_at": "2026-05-22T09:20:32.222889"
+}

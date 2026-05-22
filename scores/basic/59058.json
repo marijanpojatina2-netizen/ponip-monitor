@@ -1,0 +1,16 @@
+{
+  "id": "59058",
+  "score_overall": 3.0,
+  "score_lokacija": 5.0,
+  "score_roi": 3.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Zagorska lokacija blizu Zagreba donosi lokacijsku prednost, no 1/4 idealnog suvlasničkog dijela čini upravljanje i daljnju prodaju iznimno kompleksnom bez suglasnosti ostalih suvlasnika; efektivni ROI znatno niži od oglašenih 40%.",
+  "flags": [
+    "1/4 idealnog suvlasničkog dijela - niska likvidnost",
+    "potrebna suglasnost suvlasnika za svaku transakciju",
+    "efektivna cijena nekonkurentna za manjinski udio"
+  ],
+  "input_hash": "e297aa4d39d5",
+  "scored_at": "2026-05-22T09:06:35.679156"
+}

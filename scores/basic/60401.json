@@ -1,0 +1,17 @@
+{
+  "id": "60401",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Voćnjak od 14.523m2 u Baranji bez ikakvih objekata uz minimalni popust od 20% na prvoj dražbi ne predstavlja investicijsku prigodu; isključivo agrikulturno uz negativne demografske trendove i bez perspektive najma.",
+  "flags": [
+    "1. dražba - minimalni popust od 20%",
+    "bez stambenog objekta - samo voćnjak",
+    "ruralna Baranja",
+    "bez perspektive za najam ili turizam"
+  ],
+  "input_hash": "cba6c637bbb3",
+  "scored_at": "2026-05-22T09:06:35.679600"
+}

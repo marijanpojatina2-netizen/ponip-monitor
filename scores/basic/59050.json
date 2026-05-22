@@ -1,0 +1,16 @@
+{
+  "id": "59050",
+  "score_overall": 6.5,
+  "score_lokacija": 5.5,
+  "score_roi": 8.0,
+  "score_stanje": 4.5,
+  "recommendation": "bid",
+  "reasoning": "Velika industrijska hala od 5.456 m² na parceli 7.140 m² za početnih 1,275M EUR (~175 EUR/m² s parcelom) što je povoljno za industrijske objekte u sjeverozapadnoj Hrvatskoj. Druga dražba s 50% popustom od procjene i dobra veličina za logistiku ili produkciju čine ovaj lot financijski atraktivnim.",
+  "flags": [
+    "stečajni postupak",
+    "industrijska namjena - provjeriti stanje hale i krovišta",
+    "stanje objekata neispitano"
+  ],
+  "input_hash": "778673ee82e1",
+  "scored_at": "2026-05-22T09:00:13.111729"
+}

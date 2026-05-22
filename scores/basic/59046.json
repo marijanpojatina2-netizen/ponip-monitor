@@ -1,0 +1,17 @@
+{
+  "id": "59046",
+  "score_overall": 6.5,
+  "score_lokacija": 5.5,
+  "score_roi": 8.0,
+  "score_stanje": 4.5,
+  "recommendation": "bid",
+  "reasoning": "Najniža barijera ulaska u varaždinskom stečajnom skupu - 490k EUR za 7.931 m² land s 14 industrijskih objekata (~3.700 m² izgrađeno, ~132 EUR/m² s parcelom). Fragmentirani mix manjih zgrada pogoduje multi-tenant rentabilnosti, a najmanji ticketsize čini ga dostupnim širem krugu investitora.",
+  "flags": [
+    "stečajni postupak",
+    "14 objekata - fragmentacija upravljanja",
+    "stariji mali objekti - nejednoliko stanje",
+    "stanje objekata neispitano"
+  ],
+  "input_hash": "b7903a529cc2",
+  "scored_at": "2026-05-22T09:00:13.112395"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "60387",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica u k.o. Kotlina kod Belog Manastira – duboka slavonska periferija s izrazitom depopulacijom i minimalnom likvidnošću tržišta zemljišta. Popust od 20% na prvoj dražbi nedovoljan da kompenzira slabu lokaciju i ograničene mogućnosti iskorištavanja poljoprivrednog zemljišta.",
+  "flags": [
+    "ruralno područje – depopulacijska zona",
+    "poljoprivredno zemljište – ograničena prenamjena",
+    "niska likvidnost tržišta Beli Manastir"
+  ],
+  "input_hash": "e779edcdc442",
+  "scored_at": "2026-05-22T09:07:34.861851"
+}

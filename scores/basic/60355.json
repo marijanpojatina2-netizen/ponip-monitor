@@ -1,0 +1,16 @@
+{
+  "id": "60355",
+  "score_overall": 2.5,
+  "score_lokacija": 1.5,
+  "score_roi": 3.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Najveći voćnjak u grupi (11.460 m2) što mu daje blagu prednost po cijeni po m2, no lokacija u k.o. Kotlina ostaje fundamentalni problem — nema potražnje ni turističkog ni urbanog karaktera. Apsolutna cijena ~2.390 EUR je niska, ali i potencijal je minimalan.",
+  "flags": [
+    "ruralno/depopulacijsko područje",
+    "poljoprivredno zemljište — niska likvidnost",
+    "Baranja — ograničeno tržište kupaca"
+  ],
+  "input_hash": "22d0be429f2d",
+  "scored_at": "2026-05-22T09:07:06.509155"
+}

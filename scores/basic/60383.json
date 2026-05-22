@@ -1,0 +1,16 @@
+{
+  "id": "60383",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Šuma 906 m2 u k.o. Kotlina – kao i ID 60385, šumska kategorija nosi najjača regulatorna ograničenja bez realnih mogućnosti razvoja ili prenamjene. Minimalna investicijska atraktivnost bez obzira na nisku apsolutnu cijenu.",
+  "flags": [
+    "šuma – stroge regulatorne restrikcije",
+    "zabrana izgradnje i prenamjene",
+    "ruralno područje – depopulacijska zona"
+  ],
+  "input_hash": "f7e93152b125",
+  "scored_at": "2026-05-22T09:07:34.862592"
+}

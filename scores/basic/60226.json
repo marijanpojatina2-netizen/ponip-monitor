@@ -1,0 +1,17 @@
+{
+  "id": "60226",
+  "score_overall": 2.5,
+  "score_lokacija": 5.0,
+  "score_roi": 4.0,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Šuma i griža bez ikakve izgradnje na 1733m² - investicijska vrijednost gotovo u potpunosti ovisi o prostorno-planskoj namjeni parcele, koja nije navedena; 25% popust na prvoj dražbi bez poznatog potencijala razvoja ne opravdava ulazak. Niska likvidnost sirovog zemljišta u kategoriji šume i moguć daljnji pad cijene na sljedećim dražbama čine ovaj lot neprikladnim bez specifičnog strateškog interesa.",
+  "flags": [
+    "neizgrađeno - šuma i griža bez objekta",
+    "nepoznata GUP/UPU namjena - kritično za bilo kakvu isplativost",
+    "prva dražba - cijena će vjerojatno pasti",
+    "ekstremno niska likvidnost"
+  ],
+  "input_hash": "9ada00a5b1d1",
+  "scored_at": "2026-05-22T09:02:16.009132"
+}

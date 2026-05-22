@@ -1,0 +1,16 @@
+{
+  "id": "60377",
+  "score_overall": 2.0,
+  "score_lokacija": 1.5,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica Kišfalubi Heđ, 3.145 m2, isti zk.ul. kao ID 60359 — praktički identičan profil uz nešto manju površinu. Najniža apsolutna cijena u grupi (~1.031 EUR) ali bez realnog izlaznog scenarija u ovoj regiji.",
+  "flags": [
+    "ruralno/depopulacijsko područje",
+    "oranica — nešto likvidnija ali i dalje slabo tržište",
+    "Baranja — ograničeno tržište kupaca"
+  ],
+  "input_hash": "5b8e10d2ad0c",
+  "scored_at": "2026-05-22T09:07:06.509773"
+}

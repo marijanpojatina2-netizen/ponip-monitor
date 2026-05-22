@@ -1,0 +1,16 @@
+{
+  "id": "58994",
+  "score_overall": 6.5,
+  "score_lokacija": 5.5,
+  "score_roi": 8.5,
+  "score_stanje": 5.5,
+  "recommendation": "deep_dive",
+  "reasoning": "5285m² s visokim omjerom izgrađenosti - glavne zgrade 793m² i 1585m² = 2378m² objekata uz 50% popust daje solidnu osnovu za industrijski/skladišni zakup s realnim prinosom od prvog dana. Dio je istog kompleksa kao 59002, 58990 i 58998 na Zagrebačkoj ulici pa konsolidacija više lotova u jednoj ruki može stvoriti značajniju imovinu.",
+  "flags": [
+    "stečajna imovina - provjera tereta",
+    "stanje zgrada nepoznato",
+    "sinergija s ostalim Varaždin lotovima - razmotri paketni pristup"
+  ],
+  "input_hash": "eacdedd0585b",
+  "scored_at": "2026-05-22T09:02:16.009352"
+}
