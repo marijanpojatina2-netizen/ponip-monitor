@@ -1,0 +1,15 @@
+{
+  "id": "60409",
+  "score_overall": 3.0,
+  "score_lokacija": 2.0,
+  "score_roi": 3.5,
+  "score_stanje": 5.5,
+  "recommendation": "pass",
+  "reasoning": "Oranica 23.148m² u Jagodnjaku u Baranji - Baranja ima kvalitetno obradivo tlo no investicijski potencijal je ograničen na zakup poljoprivrednicima; minimalni popust od 20% na prvoj dražbi ne opravdava ulazak za neagrarnog investitora.",
+  "flags": [
+    "poljoprivredno zemljište - ograničena namjena",
+    "rubno područje uz granicu s Mađarskom, niska likvidnost"
+  ],
+  "input_hash": "c1204c96ee43",
+  "scored_at": "2026-05-25T10:02:21.942805"
+}

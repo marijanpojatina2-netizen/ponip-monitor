@@ -1,0 +1,17 @@
+{
+  "id": "58891",
+  "score_overall": 1.5,
+  "score_lokacija": 1.5,
+  "score_roi": 2.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Moslavina Podravska je duboka slavonska ruralna zona s izrazitom depopulacijom i gotovo nultom likvidnošću, a predmet je samo 1/12 suvlasničkog udjela što praktički onemogućuje samostalno raspolaganje nekretninom ili njenu prodaju bez suglasnosti suvlasnika. Unatoč 40% popustu i drugoj dražbi, kombinacija mikrolokacije i fragmentiranog vlasništva čini ovaj slučaj investicijski bezvrijednim.",
+  "flags": [
+    "suvlasništvo - samo 1/12 dijela",
+    "teško raspolaganje bez suglasnosti ostalih suvlasnika",
+    "depopulacijsko ruralno područje - nulta likvidnost",
+    "nema opisa stanja zgrade"
+  ],
+  "input_hash": "960e2f27aaae",
+  "scored_at": "2026-05-25T10:02:50.220056"
+}

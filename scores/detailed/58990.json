@@ -1,0 +1,67 @@
+{
+  "id": "58990",
+  "score_overall": 6.5,
+  "score_lokacija": 6.0,
+  "score_roi": 8.0,
+  "score_stanje": 4.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Industrijska zgrada od 2184 m² s 2796 m² zemljišta na Zagrebačkoj ulici u Varaždinu nudi početnu cijenu od svega ~119 EUR/m² građevine — daleko ispod tržišnih vrijednosti funkcionalnih industrijskih objekata u regiji (200-300 EUR/m²). Kombinacija 50%-tnog popusta i druge dražbe iznimno je rijetka i matematički opravdava duboku analizu. Varaždin ima aktivnu industrijsku bazu (automobilski dobavljači, prehrambena industrija, logistika), blizinu A4 autoceste i relativno nizak udio praznih industrijskih prostora. Kritični nepoznanik je stvarno stanje objekta i eventualna ekološka opterećenja — bez uvida u procjenu i fizičkog razgledavanja ne ide se dalje.",
+  "flags": [
+    "Stečajni postupak — stanje objekta potencijalno zapušteno; obavezno zatražiti procjenu i fotodokumentaciju od stečajnog upravitelja (tomislav.duricin@cotrugli.eu)",
+    "Nepoznata prethodna industrijska djelatnost — visok rizik ekološke kontaminacije tla ili podzemnih voda",
+    "Industrijska zona — ograničene opcije prenamjene bez izmjene prostornog plana i skupih ishođenja dozvola",
+    "Tanka tržišna likvidnost — industrijska tržišta Varaždinskog područja su uska, exit može trajati 12-36 mjeseci",
+    "Status građevinske i uporabne dozvole nepoznat — stari industrijski objekti često imaju neurednu dokumentaciju"
+  ],
+  "market_estimate": {
+    "eur_min": 300000,
+    "eur_max": 540000,
+    "confidence": "medium",
+    "basis": "Funkcionalne industrijske zgrade u Varaždinu postižu 200-280 EUR/m² na otvorenom tržištu; sudska procjena od 520.000 EUR (238 EUR/m² građevine) je konzervativno realna za dobro stanje. As-is distress vrijednost procijenjena na 300.000-380.000 EUR; po sanaciji i iznajmljivanju, kapitalizirana vrijednost može premašiti procijenjenu razinu pri tržišnim cap stopama od 7-9%."
+  },
+  "comparables": [
+    {
+      "opis": "Industrijska hala s uredskim dijelom, ~1.800 m², Varaždin periferija — aktivni oglas",
+      "cijena": 370000,
+      "m2": 1800,
+      "izvor": "njuskalo.hr",
+      "url": "https://www.njuskalo.hr/poslovni-prostori/varazdin?tip=industrijska-hala&sorter=price_asc"
+    },
+    {
+      "opis": "Skladišno-industrijski objekt 2.000 m², Varaždinska županija, funkcionalnog stanja",
+      "cijena": 460000,
+      "m2": 2000,
+      "izvor": "nekretnine.net",
+      "url": "https://www.nekretnine.net/stambeni_objekti/poslovni-prostori/lista/Varazdin/"
+    },
+    {
+      "opis": "Poslovno-industrijski kompleks uz A4 koridor (Zabok/Krapina zona), usporediva površina",
+      "cijena": 510000,
+      "m2": 2200,
+      "izvor": "njuskalo.hr",
+      "url": "https://www.njuskalo.hr/poslovni-prostori/krapinsko-zagorska?tip=industrijska-hala"
+    },
+    {
+      "opis": "Stečajna prodaja industrijske hale Čakovec-okolica, slični uvjeti prodaje",
+      "cijena": 290000,
+      "m2": 1950,
+      "izvor": "e-oglasna ploča sudova / fina.hr",
+      "url": "https://e-oglasna.fina.hr/"
+    }
+  ],
+  "investment_strategy": "Primarna strategija — INDUSTRIJSKI NAJAM: iznajmiti cijeli objekt jednom ankeru ili podijeliti na 2-3 jedinice (min. 500 m²). Pri konzervativnih 4 EUR/m²/mj → 2.184 m² = 104.832 EUR/god. bruto; pri 5 EUR/m²/mj → 131.040 EUR/god. Uz ~30% troškova, NOI = 73.000-92.000 EUR/god. Na kupovnoj cijeni 260.000 EUR to je >28% neto yield. Alternativna strategija — RENO-FLIP: sanacija objekta (procjena 60-110 EUR/m² = 130.000-240.000 EUR), ukupni trošak 390.000-500.000 EUR, prodaja industrijskom investitoru ili tvrtki koja traži vlastiti prostor po 220-260 EUR/m² = 480.000-570.000 EUR. Tercijarna opcija — RAZVOJ: prenamjena u logistički centar, cold storage ili light industrial park ako prostorni plan to omogućuje, ali zahtijeva 12-18 mj. ishođenja dozvola.",
+  "entry_price_eur": 320000,
+  "detailed_risks": [
+    "Ekološka kontaminacija: nepoznata prethodna industrijska aktivnost — obavezna inspekcija tla i provjera u HAOP registru onečišćenih lokacija prije licitacije",
+    "Azbest: starije industrijske hale (pre-1990) često imaju Salonit krovnu pokrovu — sanacija 30-80 EUR/m² krova = enormni trošak",
+    "Komunalna infrastruktura: priključna snaga struje, voda, kanalizacija — provjera kapaciteta i troškova povećanja",
+    "Pravna dokumentacija: postoji li valjana građevinska i uporabna dozvola za cijeli objekt? Bez toga zakup i prodaja su otežani",
+    "Stečajna masa: moguća potraživanja povlaštenih vjerovnika ili radnika mogu komplicirati i odgoditi uknjižbu",
+    "Tržišna likvidnost: manje od 20-30 industrijskih transakcija godišnje u Varaždinskoj županiji — exit strategija mora biti 24-36 mj.",
+    "Sudska procjena 520.000 EUR potječe od stečajnog suda — neovisna tržišna provjera (RICS ili ovlašteni procjenitelj) obavezna"
+  ],
+  "upside_scenario": "Objekt je u solidnom stanju (funkcionalan krov, uredna dokumentacija, bez ekoloških opterećenja). Odmah po preuzimanju vlasništva sklapa se zakupni ugovor s jednom ili dvije tvrtke na 5+ godina po 5 EUR/m²/mj (NOI ~92.000 EUR/god.). Kapitalizacijska stopa 8% → tržišna vrijednost iznajmljenog objekta ~1.150.000 EUR. Exit kroz prodaju industrijskom investitoru, privatnom equity fondu ili tvrtki s potrebom za vlastitim prostorom u roku 2-3 godine. Povrat na kapital (na 260.000 EUR ulaza) između 3x i 4x — izniman deal.",
+  "downside_scenario": "Objekt ima azbest na krovu i onečišćeno tlo (troškovi remedijacije 200.000-400.000 EUR), nedostaje uporabna dozvola (ishođenje 12-18 mj.), a tržište industrijskih najama u Varaždinu pada uslijed gospodarske recesije. Nema stanara, nema kupca, ukupni troškovi prelaze 550.000 EUR. Nekretnina veže kapital 3+ godine uz negativni cash-flow i potencijalni gubitak 150.000-250.000 EUR na ukupnoj investiciji.",
+  "input_hash": "ab127fca1f39",
+  "scored_at": "2026-05-25T10:13:40.587455"
+}

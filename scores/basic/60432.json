@@ -1,0 +1,15 @@
+{
+  "id": "60432",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Kuća s dvorištem u Ladimirevci kraj Valpova - ruralna Slavonija bez turističkog ili poslovnog potencijala, minimalni popust od 20% na prvoj dražbi, a ovrhovoditelj kao suvlasnik s 1/5 udjela stvara nestandardnu vlasničku situaciju koja može komplicirati uknjižbu.",
+  "flags": [
+    "suvlasništvo - ovrhovoditelj drži 1/5 udjela",
+    "ruralna Slavonija - izrazito niska tržišna likvidnost"
+  ],
+  "input_hash": "cf3f2446e79d",
+  "scored_at": "2026-05-25T10:02:21.942665"
+}

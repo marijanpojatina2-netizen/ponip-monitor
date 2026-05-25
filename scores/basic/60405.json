@@ -1,0 +1,15 @@
+{
+  "id": "60405",
+  "score_overall": 3.0,
+  "score_lokacija": 2.0,
+  "score_roi": 3.5,
+  "score_stanje": 5.5,
+  "recommendation": "pass",
+  "reasoning": "Oranica 14.905m² u Jagodnjaku u Baranji iz istog ZK uloška kao 60409 i 60407 - isti profil rizika, a fragmentiranost triju parcela u istom uložbu sugerira moguće nasljedničke komplikacije ili prisilnu prodaju imovine koja na tržištu nema strateškog kupca.",
+  "flags": [
+    "poljoprivredno zemljište - ograničena namjena",
+    "rubno područje Baranje, niska likvidnost"
+  ],
+  "input_hash": "afe4cd52c748",
+  "scored_at": "2026-05-25T10:02:21.942914"
+}

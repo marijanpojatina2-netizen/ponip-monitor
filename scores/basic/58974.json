@@ -1,0 +1,17 @@
+{
+  "id": "58974",
+  "score_overall": 6.0,
+  "score_lokacija": 7.5,
+  "score_roi": 6.0,
+  "score_stanje": 4.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Vodice - turistička destinacija s niskom apsolutnom cijenom, prizemnim stambenim objektom i vanjskim bazenom, ali iznimno kompleksna struktura s višestrukim suvlasničkim udjelima (7/40, 81/1480, 54/960) i lokacijom van građevinskog područja zahtijeva ozbiljnu pravnu analizu prije ikakve odluke.",
+  "flags": [
+    "suvlasnički udio 7/40 - ograničeno raspolaganje bez suglasnosti ostalih suvlasnika",
+    "van građevinskog područja - zabrana gradnje/rekonstrukcije",
+    "sportsko-rekreacijska zona - namjenska ograničenja",
+    "višestruke čestice s različitim suvlasničkim omjerima - opis se prekida, moguće još čestica"
+  ],
+  "input_hash": "c33660537270",
+  "scored_at": "2026-05-25T10:02:21.942544"
+}

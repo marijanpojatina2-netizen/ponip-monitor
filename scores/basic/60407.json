@@ -1,0 +1,15 @@
+{
+  "id": "60407",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 5.5,
+  "recommendation": "pass",
+  "reasoning": "Oranica 9.855m² u Jagodnjaku - najmanji od tri parcele iz istog ZK uloška, svi negativni faktori Baranje vrijede i ovdje, a manja površina znači još manju fleksibilnost za buduće korištenje ili preprodaju.",
+  "flags": [
+    "poljoprivredno zemljište - ograničena namjena",
+    "rubno područje Baranje, niska likvidnost"
+  ],
+  "input_hash": "8932e6e86548",
+  "scored_at": "2026-05-25T10:02:21.943119"
+}

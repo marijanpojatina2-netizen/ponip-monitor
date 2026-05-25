@@ -1,0 +1,15 @@
+{
+  "id": "60434",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica 5.998m² u Ladimirevci - mala ruralna parcela u Slavoniji sa suvlasničkom strukturom i svega 20% popusta na prvoj dražbi; apsolutna vrijednost je preniska za bilo kakav razvoj a suvlasništvo s ovrhovoditeljem komplicira svaki budući promet nekretninom.",
+  "flags": [
+    "suvlasništvo - ovrhovoditelj drži 1/5 udjela",
+    "ruralna Slavonija - mala parcela, izrazito niska likvidnost"
+  ],
+  "input_hash": "f2bbe5b6b972",
+  "scored_at": "2026-05-25T10:02:21.943230"
+}

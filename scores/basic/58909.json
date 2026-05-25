@@ -1,0 +1,16 @@
+{
+  "id": "58909",
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 5.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Kuća u Nuštru kraj Vinkovaca - popust od 40% na drugoj dražbi je privlačan na papiru, ali slavonsko depopulacijsko tržište s vrlo niskom likvidnošću eliminira realni investicijski potencijal; exit strategija praktički ne postoji.",
+  "flags": [
+    "depopulacijska zona - istočna Slavonija",
+    "niska tržišna likvidnost",
+    "bez podataka o stanju objekta"
+  ],
+  "input_hash": "df332df09cb0",
+  "scored_at": "2026-05-25T10:02:21.942419"
+}

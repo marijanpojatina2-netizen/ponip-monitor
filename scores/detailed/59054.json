@@ -1,0 +1,67 @@
+{
+  "id": "59054",
+  "score_overall": 5.5,
+  "score_lokacija": 6.0,
+  "score_roi": 7.0,
+  "score_stanje": 4.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Parcela od 6308 m² na Varteksovoj ulici u Varaždinu (referenca na propali tekstilni div čiji je kompleks dijelom pretvoren u Lumini shopping centar) nudi atraktivan ulaz na 50% popusta s polazišnom cijenom od ~46 EUR/m². Varaždin je stabilan regionalni industrijski i sveučilišni centar s aktivnim tržištem komercijalnih nekretnina i blizinom slovenskog tržišta. Imovina je praktički neizgrađeno zemljište (6206 m² dvorišta, svega 102 m² skladišta) pa investitor preuzima puni razvojni rizik. Ključni nepoznati — zoniranje po GUP-u Varaždina i eventualna industrijska kontaminacija tla — moraju se razjasniti prije licitacije.",
+  "flags": [
+    "Brownfield rizik: Varteksova ulica upućuje na industrijsku povijest — moguća kontaminacija tla i podzemnih voda, potencijalni trošak sanacije 50.000–200.000+ EUR",
+    "Nepoznato zoniranje: bez uvida u GUP Varaždina i lokacijske dozvole nije jasno je li parcela industrijska, komercijalna ili mješovita namjena",
+    "Pretežno neizgrađeno: 102 m² skladišta je zanemarivo — sva komunalna infrastruktura i priključci moraju biti revidirana",
+    "Ograničena transparentnost: procjena dostupna samo na pisani upit stečajnom upravitelju, što otežava due diligence",
+    "Stečajni postupak: moguće neizmirene komunalne obveze, hipoteke nižeg reda ili žalbe bivših vjerovnika koje odgađaju uknjižbu"
+  ],
+  "market_estimate": {
+    "eur_min": 380000,
+    "eur_max": 620000,
+    "confidence": "low",
+    "basis": "Komercijalno/industrijsko zemljište u Varaždinu kretalo se 2024–2025 između 50–110 EUR/m² ovisno o zoni i namjeni. Procjenitelj je koristio ~92 EUR/m² (580.000/6308), što je u gornjem dijelu raspona za komercijalnu lokaciju. Bez potvrde zoniranja i tržišnih usporedivi pouzdanost je niska. Napomena: web pretraživanje nije bilo dostupno — usporedivi su procjene temeljem poznavanja tržišta, ne live oglaša."
+  },
+  "comparables": [
+    {
+      "opis": "Industrijsko-komercijalno zemljište Varaždin, cca 5000 m², industrijska zona jug",
+      "cijena": 220000,
+      "m2": 5000,
+      "izvor": "nekretnine.net (tržišna procjena, nije live oglas)",
+      "url": "https://www.nekretnine.net/stambeni_objekti/zemljista/varazdin/"
+    },
+    {
+      "opis": "Poslovna hala s dvorištem Varaždin okolica, ~800 m² BRP + parcela 4000 m²",
+      "cijena": 480000,
+      "m2": 4000,
+      "izvor": "njuskalo.hr (tržišna procjena, nije live oglas)",
+      "url": "https://www.njuskalo.hr/poslovni-prostori-prodaja/varazdin"
+    },
+    {
+      "opis": "Logistička nekretnina Čakovec / Varaždin regija, hala 1200 m² + parcela",
+      "cijena": 550000,
+      "m2": null,
+      "izvor": "nekretnine.net (tržišna procjena, nije live oglas)",
+      "url": "https://www.nekretnine.net"
+    },
+    {
+      "opis": "Komercijalna parcela uz državnu cestu, Varaždin-Zagreb koridor, 6000 m²",
+      "cijena": 300000,
+      "m2": 6000,
+      "izvor": "njuskalo.hr (tržišna procjena, nije live oglas)",
+      "url": "https://www.njuskalo.hr"
+    }
+  ],
+  "investment_strategy": "RAZVOJ + PREPRODAJA (primarno): Nabava na 290.000–330.000 EUR, zatim: (1) potvrda zoniranja i ishođenje lokacijske dozvole, (2) razvoj logističko-komercijalnog objekta 800–1500 m² BRP s ukupnim ulaganjem 300.000–500.000 EUR, (3) prodaja gotovog objekta strateškom investitoru (logistika, distribucija, servis) po 700.000–1.100.000 EUR. Alternativno, ako zoniranje dopušta retail: razvoj manjeg retail parka ili auto-centra uz Varteksovu ulicu. Čisto preprodaja zemljišta bez razvoja moguća ali manja marža (projektirani prinos 15–25% vs. 30–50% uz razvoj).",
+  "entry_price_eur": 330000,
+  "detailed_risks": [
+    "Ekološka kontaminacija: Varteks je koristio kemikalije u tekstilnoj proizvodnji (bojila, otapala) — potreban ekološki elaborat tla prije licitacije",
+    "Zoniranje GUP Varaždin: ako je parcela u isključivo industrijskoj zoni (I1/I2), razvojna mogućnost i tržišna vrijednost su značajno niže",
+    "Komunalni doprinosi i priključci: za novu gradnju na 6308 m² u Varaždinu komunalni doprinos može iznositi 50.000–150.000 EUR",
+    "Likvidnost: komercijalne/industrijske nekretnine u Varaždinu imaju period prodaje 12–30 mjeseci, exit nije brz",
+    "Stečajni rizik: eventualne žalbe ili osporeni zahtjevi mogu odgoditi pravomoćnost rješenja i uknjižbu 6–24 mjeseca",
+    "Kapitalni zahtjevi: jamčevina 58.000 EUR + kupovna cijena + razvoj = ukupno angažirani kapital lako prelazi 700.000 EUR",
+    "Makroekonomski rizik: usporavanje EU ekonomije 2025–2026 može smanjiti potražnju za industrijskim prostorima u regiji"
+  ],
+  "upside_scenario": "Zoniranje potvrđuje mješovitu/komercijalnu namjenu, nema ekoloških opterećenja. Investitor kupuje na 310.000 EUR, razvija logistički/retail objekt (1.000 m² BRP) za dodatnih 450.000 EUR (ukupno ~760.000 EUR), te prodaje završeni objekt po 1.100.000–1.300.000 EUR u roku 3 godine. ROI 45–70%, IRR ~20–25% godišnje. Alternativno: preprodaja opremljene parcele s lokacijskom dozvolom po 500.000–600.000 EUR bez gradnje uz ROI ~55–90% u 12–18 mjeseci.",
+  "downside_scenario": "Otkrivena teška ekološka kontaminacija ili isključivo industrijsko zoniranje bez mogućnosti komercijalne gradnje. Parcela je teško utrživa, sanacija eliminira investicijsku maržu. Moguća prodaja ispod kupovne cijene (200.000–250.000 EUR) uz gubitak 20–35% uloženog kapitala. Dugi sudski/stečajni postupci dodatno vežu kapital 2–4 godine.",
+  "input_hash": "7215aa45a504",
+  "scored_at": "2026-05-25T10:10:46.991367"
+}
