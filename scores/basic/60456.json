@@ -1,0 +1,16 @@
+{
+  "id": "60456",
+  "score_overall": 4.0,
+  "score_lokacija": 8.5,
+  "score_roi": 2.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Iznimna lokacija (Veli Varoš, centar Splita) potpuno je anulirana kritičnim strukturalnim problemom: suvlasnički udio 3/16 čini vlasništvo praktički neupotrebljivim bez suglasnosti preostalih 13/16 suvlasnika za bilo kakvo korištenje, najam ili prodaju. Investicijska zamka unatoč sjajnoj lokaciji.",
+  "flags": [
+    "suvlasnički udio 3/16 - nelikvidan i neupotrebljiv bez suglasnosti suvlasnika",
+    "nepoznata vlasnička struktura ostalih 13/16",
+    "stara kamena zgrada - nepoznato stanje i skupa obnova"
+  ],
+  "input_hash": "49765f0a58bf",
+  "scored_at": "2026-05-26T09:52:03.476209"
+}

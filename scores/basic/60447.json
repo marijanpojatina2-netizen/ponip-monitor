@@ -1,0 +1,16 @@
+{
+  "id": "60447",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Isključivo poljoprivredno zemljište (oranice i gaj) blizu Siska bez ikakvih građevina u depopulacijskoj zoni - nema investicijskog case-a za nekretninski ROI. 20% popust na prvoj dražbi ne mijenja fundamentalno slabu investicijsku sliku.",
+  "flags": [
+    "samo poljoprivredno zemljište - bez građevina",
+    "depopulacijska zona Sisačko-moslavačke županije",
+    "nelikvidan agrarni tržišni segment"
+  ],
+  "input_hash": "360f324222f9",
+  "scored_at": "2026-05-26T09:52:03.476599"
+}

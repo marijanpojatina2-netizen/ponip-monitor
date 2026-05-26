@@ -1,0 +1,16 @@
+{
+  "id": "60443",
+  "score_overall": 3.0,
+  "score_lokacija": 2.0,
+  "score_roi": 3.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Kuća s dvorištem u selu Novo Selište kod Siska - iznimno niska vrijednost od 7.470 EUR sugerira loše stanje ili ruralnu lokaciju bez perspektive. Sisačka regija trpi depopulaciju, a prva dražba s 20% popustom ne nudi dovoljnu sigurnosnu marginu za obnovu i eventualni izlaz.",
+  "flags": [
+    "vjerojatno zapušteno/ruševno stanje (cijena od 9 EUR/m²)",
+    "ruralno depopulacijsko područje",
+    "niska likvidnost - otežana prodaja"
+  ],
+  "input_hash": "d0a949fdf50b",
+  "scored_at": "2026-05-26T09:52:21.587580"
+}

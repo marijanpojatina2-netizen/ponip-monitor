@@ -1,0 +1,16 @@
+{
+  "id": "60361",
+  "score_overall": 6.0,
+  "score_lokacija": 7.0,
+  "score_roi": 5.5,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Velika rezidencijalna nekretnina (390 m² kuća + 3545 m² ukupne parcele) u Donjem Prekrižju Zagreb nudi solidnu supstancu u premium dijelu gornjeg grada, ali 20% popust na prvoj dražbi i visok ulazni kapital (988K EUR) limitiraju ROI marginu. Potencijal za razvoj ili podjelu parcele zaslužuje daljnju analizu vlasničke i urbanističke situacije.",
+  "flags": [
+    "visok ulazni kapital - 988K EUR jamčevina 123.5K",
+    "nepoznato stanje 390 m² stambene zgrade",
+    "prva dražba - minimalni popust"
+  ],
+  "input_hash": "40deef78ee0f",
+  "scored_at": "2026-05-26T09:52:03.475614"
+}

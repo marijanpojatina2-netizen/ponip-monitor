@@ -1,0 +1,15 @@
+{
+  "id": "60482",
+  "score_overall": 4.0,
+  "score_lokacija": 4.5,
+  "score_roi": 4.0,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Kuća s gospodarskim objektom u Sračincu (prigradska zona Varaždina) nudi slabu investicijsku priču - periferna lokacija s ograničenom potražnjom, 20% popust na prvoj dražbi ne kompenzira slabu likvidnost sekundarnog tržišta. Nema razvojnog potencijala ni turističke komponente.",
+  "flags": [
+    "suvlasništvo 2 ovršenika - provjera čistoće vlasničke strukture",
+    "periferna lokacija - ograničena likvidnost izlaza"
+  ],
+  "input_hash": "cede47d17738",
+  "scored_at": "2026-05-26T09:52:03.476098"
+}

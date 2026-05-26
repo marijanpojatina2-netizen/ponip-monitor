@@ -1,0 +1,67 @@
+{
+  "id": "60361",
+  "score_overall": 6.0,
+  "score_lokacija": 6.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Nekretnina u Donjem Prekrižju (zapadna periferija Zagreba, Stenjevec zona) nudi rijetku kombinaciju: 390 m² stambene površine i iznimno veliku parcelu od 3.545 m² unutar gradskog pojasa, što je temeljni argument za detaljnu analizu. Početna cijena od 988.000 EUR (20% popust od procjene) potencijalno je ispod tržišne vrijednosti ako zoniranje dopušta razvoj ili parcelaciju. Kritična nepoznanica je stanje objekta — opis je minimalan bez ikakvih indicija o kvaliteti ili godini gradnje. Veličina investicije i tri odvojene čestice zahtijevaju ozbiljan ZK i arhitektonsko-urbanistički due diligence prije licitiranja.",
+  "flags": [
+    "Stanje objekta nepoznato — opis ne navodi renoviranost, godinu gradnje ni infrastrukturni status",
+    "Zoniranje parcele 3.545 m² kritično nejasno — ključna razlika između GN (dozvoljena gradnja) i zelene/AG zone (nije)",
+    "Tri odvojene katastarske čestice (8578/3, 8578/6, 8578/7) — obavezna provjera svakog ZK-a na terete, hipoteke i stvarna prava koja ne prestaju prodajom",
+    "Prva dražba — nema cjenovnog bonusa, viši rizik konkurentnih ponuda na atraktivnoj lokaciji",
+    "Visoka jamčevina 123.500 EUR — značajan kapitalni zahtjev koji eliminira sitne investitore"
+  ],
+  "market_estimate": {
+    "eur_min": 1150000,
+    "eur_max": 1600000,
+    "confidence": "medium",
+    "basis": "Procjena na bazi poznatih tržišnih podataka za Zagreb zapad 2024-2025: kuće u Stenjevcu/Prekrižju postižu 1.800-2.500 EUR/m² (390 m² = 702k-975k EUR za građevinu). Zemljište 3.545 m² u urbanoj zoni Zagreba vrednuje se 100-200 EUR/m² za neizgrađene parcele, odnosno više uz razvojni potencijal (355k-710k EUR). Ukupni raspon: 1,05M-1,69M EUR. Procjena od 1,235M EUR od suda je blizu donje granice tržišne vrijednosti, što je konzervativno."
+  },
+  "comparables": [
+    {
+      "opis": "Kuća cca 350 m², parcela 1.200 m², Stenjevec Zagreb — obiteljska kuća dobar standard",
+      "cijena": 870000,
+      "m2": 350,
+      "izvor": "njuskalo.hr (procjena iz baze znanja, live pristup nije bio dostupan)",
+      "url": "https://www.njuskalo.hr/prodaja-kuce/stenjevec"
+    },
+    {
+      "opis": "Kuća 400 m², parcela 2.000 m², Zagreb zapad — starija gradnja za renovaciju",
+      "cijena": 980000,
+      "m2": 400,
+      "izvor": "nekretnine.net (procjena iz baze znanja)",
+      "url": "https://www.nekretnine.net/pretraga/kuce/zagreb/zapad"
+    },
+    {
+      "opis": "Imanje s vilom 450 m², parcela 3.000 m², Podsused — renovirano, premium",
+      "cijena": 1450000,
+      "m2": 450,
+      "izvor": "njuskalo.hr (procjena iz baze znanja)",
+      "url": "https://www.njuskalo.hr/prodaja-kuce/podsused"
+    },
+    {
+      "opis": "Kuća 320 m², parcela 1.500 m², Donje Prekrižje zona — sličan profil",
+      "cijena": 850000,
+      "m2": 320,
+      "izvor": "crozilla.com (procjena iz baze znanja)",
+      "url": "https://www.crozilla.com/hr/search/kuče/zagreb"
+    }
+  ],
+  "investment_strategy": "Razvoj + reno-flip: Primarni investicijski teza leži u velikom urbano-perifernom zemljištu (3.545 m²). Ako GUP Zagreba dopušta parcelaciju, prodaja odvojene parcele ~1.500 m² može donijeti 200-300k EUR i pokriti dio ulaza. Renovacija postojeće 390 m² kuće u premium standard (est. 150-250k EUR) otvara exit na 1,5-1,8M EUR. Alternativno: dugoročni najam renoviranog objekta expat/diplomatskom tržištu (Zagreb ima aktivnu ambasadorsku potražnju) uz potencijalni prinos 4.000-6.500 EUR/mj. Ključni trigger: urbanistička provjera parcele PRIJE dražbe.",
+  "entry_price_eur": 1060000,
+  "detailed_risks": [
+    "Nepoznato fizičko stanje: objekt može zahtijevati 150-400k EUR renovacije što drastično mijenja ROI računicu",
+    "Zoniranje 3.545 m² parcele: ako je AG ili zaštićena zelena zona, razvojni potencijal pada na nulu",
+    "Likvidnost za nekretnine >1M EUR u zapadnom Zagrebu ograničena — exit može trajati 18-36 mj.",
+    "Tri katastarske čestice povećavaju kompleksnost transakcije i rizik od pojedinačnih tereta",
+    "Komunalna infrastruktura za parcelu ove veličine može biti nepotpuna (priključci, pristupni put)",
+    "Transakcijski troškovi na ovoj razini: ~3% PDV/PPT + javnobilježnički + sudski = 35-50k EUR dodatno",
+    "Dražbeni uvjeti ne dopuštaju uvjetovano nadmetanje — plaćate bez jamstava o stanju i slobodi od tereta"
+  ],
+  "upside_scenario": "Zoniranje potvrdi razvojnu namjenu: parcelacija dijela zemljišta (~1.500 m²) generira 200-280k EUR prihoda. Renovacija kuće u 12-18 mj. za 180k EUR, exit cijena 1,7-1,9M EUR (kraj 2028). Ukupno uloženo ~1,24M EUR (dražba + renovacija), exit prinos 37-53%. Ili premium najam 5.500 EUR/mj. = prinos ~5,3% na ukupnu investiciju, uz dugoročnu aprecijaciju Zagreba.",
+  "downside_scenario": "Zoniranje ne dopušta razvoj, kuća zahtijeva temeljitu sanaciju (300k+ EUR), tržište usporava u 2027-2028. Ulaz 988k + renovacija 300k + troškovi 50k = 1,338M EUR. Exit na deprimiranom tržištu 1,15-1,25M EUR = gubitak 90-190k EUR plus oportunitetni trošak vezanog kapitala kroz 4-5 godina.",
+  "input_hash": "40deef78ee0f",
+  "scored_at": "2026-05-26T09:55:10.884954"
+}

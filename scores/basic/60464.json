@@ -1,0 +1,16 @@
+{
+  "id": "60464",
+  "score_overall": 4.0,
+  "score_lokacija": 6.5,
+  "score_roi": 3.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Istarska lokacija blizu Ližnjana ima potencijal, ali nekretnina 'nije uknjižena u zemljišnu knjigu' što je ozbiljan pravni red flag koji može blokirati financiranje i dalju prodaju. Djelomično dovršen objekt (temelji + prizemna zgrada) nosi neizvjesne troškove dovršetka i uknjižbe.",
+  "flags": [
+    "nije uknjiženo u zemljišnu knjigu - kritičan pravni rizik",
+    "djelomično izgrađen objekt - nepoznati troškovi dovršetka",
+    "neizvjesnost uspjeha uknjižbe nakon kupnje"
+  ],
+  "input_hash": "f4b94a7a3170",
+  "scored_at": "2026-05-26T09:52:03.476316"
+}

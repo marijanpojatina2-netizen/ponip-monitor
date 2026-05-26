@@ -1,0 +1,15 @@
+{
+  "id": "60474",
+  "score_overall": 5.5,
+  "score_lokacija": 7.5,
+  "score_roi": 5.5,
+  "score_stanje": 6.0,
+  "recommendation": "watch",
+  "reasoning": "Garaža 17.4 m² u Varvarima kraj Poreča (Istra) nudi nizak ulazni trošak (~20K EUR) i solidnu istarsku turističku lokaciju - parking u sezoni može donijeti prinos 8-12% na investiciju. Ograničen dugoročni rast vrijednosti zbog jednodimenzionalne namjene, ali kao niskotroškovni ulaz u istarsko tržište vrijedi razmotriti.",
+  "flags": [
+    "samo garaža - jednodimenzionalna namjena",
+    "mali apsolutni prinos u EUR iznosima"
+  ],
+  "input_hash": "be533c0361eb",
+  "scored_at": "2026-05-26T09:52:03.476712"
+}

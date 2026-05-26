@@ -1,0 +1,16 @@
+{
+  "id": "60449",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Mala oranica od 593 m² u k.o. Novo Selište - simbolična vrijednost od 2.790 EUR odražava gotovo nikakav investicijski potencijal. Premala parcela za ozbiljnu agrarnu exploataciju, a lokacija isključuje bilo kakvu alternativnu upotrebu.",
+  "flags": [
+    "premala parcela za ekonomski isplativu obradu",
+    "bez građevinskog potencijala",
+    "najniža apsolutna vrijednost u grupi"
+  ],
+  "input_hash": "827363ffb414",
+  "scored_at": "2026-05-26T09:52:21.587807"
+}

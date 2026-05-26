@@ -1,0 +1,16 @@
+{
+  "id": "60441",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Vinograd u k.o. Novo Selište - poljoprivredno zemljište s minimalnom investicijskom atraktivnošću obzirom na lokaciju u sisačkom zaleđu. Bez ozbiljne vinogradarske infrastrukture i tržišta, 20% popust na prvoj dražbi nije dovoljan incentiv.",
+  "flags": [
+    "isključivo poljoprivredno zemljište",
+    "nema građevinskog potencijala bez prenamjene",
+    "ruralno područje - niska potražnja"
+  ],
+  "input_hash": "d5232d671d0d",
+  "scored_at": "2026-05-26T09:52:21.587693"
+}

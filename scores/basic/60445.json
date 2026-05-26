@@ -1,0 +1,16 @@
+{
+  "id": "60445",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 4.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Poljoprivredne parcele (pašnjak, oranica, voćnjak) u k.o. Novo Selište kod Siska - depopulacijsko ruralno područje s niskim tržišnim interesom i lošom likvidnošću. Popust od svega 20% na prvoj dražbi ne opravdava investicijski ulazak u ovaj tip imovine.",
+  "flags": [
+    "poljoprivredno zemljište - ograničena prenamjena",
+    "ruralno depopulacijsko područje",
+    "niska likvidnost izlaska"
+  ],
+  "input_hash": "87a189e3db29",
+  "scored_at": "2026-05-26T09:52:21.587327"
+}
