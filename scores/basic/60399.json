@@ -1,0 +1,16 @@
+{
+  "id": "60399",
+  "score_overall": 6.5,
+  "score_lokacija": 7.5,
+  "score_roi": 5.5,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Split centar nudi solidnu likvidnost i turistički potencijal, no svega 20% popust na prvoj dražbi ostavlja minimalnu maržu za investitora nakon transakcijskih troškova. Preporuča se pratiti – na drugoj ili trećoj dražbi uz veći popust postaje realan kandidat za licitaciju.",
+  "flags": [
+    "prva dražba – ograničen popust",
+    "XII. kat – nepoznato stanje lifta i infrastrukture zgrade",
+    "kompleksna suvlasnička struktura (64/3566)"
+  ],
+  "input_hash": "a2a36778432b",
+  "scored_at": "2026-05-27T09:41:37.853351"
+}

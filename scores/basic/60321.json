@@ -1,0 +1,16 @@
+{
+  "id": "60321",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Vukovar je jedno od najslabijih investicijskih tržišta u Hrvatskoj s kontinuiranim depopulacijskim trendom i praktički nepostojećom likvidnošću nekretnina, što čini izlaz iz investicije izuzetno teškim. Svega 20% popust na prvoj dražbi, prizemna pozicija i izrazito mali suvlasnički udio (96/10000) ne opravdavaju ulaz.",
+  "flags": [
+    "depopulacijska zona – izlazna likvidnost minimalna",
+    "prizemlje – niža tržišna vrijednost",
+    "suvlasnički udio 96/10000 u kompleksu od 7 stambenih zgrada – administrativno složen izlaz"
+  ],
+  "input_hash": "9ad1f281cdc5",
+  "scored_at": "2026-05-27T09:41:37.853674"
+}
