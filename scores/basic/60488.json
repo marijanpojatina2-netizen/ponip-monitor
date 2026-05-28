@@ -1,0 +1,16 @@
+{
+  "id": "60488",
+  "score_overall": 3.0,
+  "score_lokacija": 4.5,
+  "score_roi": 2.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Hotelska oprema i inventar kao pokretnine imaju brzu deprecijaciju i gotovo nultu samostalnu likvidnost bez operativnog hotelskog konteksta. Jedini smisao je kao dio paketa s nekretninom (ID 60488), ali kao zaseban lot nema investicijskog case-a.",
+  "flags": [
+    "pokretnina - brza deprecijacija",
+    "bez operativnog hotela praktički bezvrijedno",
+    "ovisnost o zasebnoj dražbi nekretnine"
+  ],
+  "input_hash": "d88033ab3864",
+  "scored_at": "2026-05-28T09:59:31.807833"
+}

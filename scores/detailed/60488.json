@@ -1,0 +1,76 @@
+{
+  "id": "60488",
+  "score_overall": 4.0,
+  "score_lokacija": 4.5,
+  "score_roi": 4.0,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Dugopolje je inland komercijalno-industrijska zona ~10 km od Splita bez turističkog potencijala, što drastično sužava exit strategije za objekt ove veličine i cijene. Centralni problem je status 'depadansa' — nekretnina je funkcionalno i konceptualno vezana uz glavnu hotelsku zgradu koja se prodaje u zasebnoj dražbi, što znači da samostalna kupnja nosi visok rizik funkcionalne izolacije. Procjenjena vrijednost od 1.538 EUR/m² za inland Dugopolje čini se precijenjenom — realna tržišna vrijednost standalone poslovnog objekta u toj zoni kreće se 900–1.200 EUR/m², što sugerira da i uz 25% popusta ulazna cijena nije atraktivna. Za investitora koji koordinira kupnju obje dražbe i rekonstruira hotel kompleks postoji upside, ali to je specijalizirani scenarij s visokim kapitalnim zahtjevom.",
+  "flags": [
+    "DEPADANS — prodaje se odvojeno od glavne hotelske zgrade (zasebna dražba); bez kontrole nad glavnim objektom, namjena i tržišna vrijednost su strukturno upitni",
+    "Stečajni upravitelj iz Ivanca (Varaždinska županija) — geografska udaljenost od objekta može usporiti administraciju, pregled i pregovor",
+    "Oprema i inventar posebno specificirani u Elaboratu (str. 12–15) — rizik separatnih prava, prisilnog odvajanja ili opterećenja pokretnina",
+    "Hotelska namjena infrastrukture (HVAC, kuhinja, recepcija) — visoki troškovi konverzije za alternativnu namjenu (procjena 400–700 EUR/m²)",
+    "Nema eksplicitnih podataka o stanju objekta u opisu — bez pregleda elaborata i fizičkog posjeta nemoguće procijeniti CAPEX",
+    "Inland lokacija bez turističke komponente — ograničen krug finalnih kupaca i najmoprimaca"
+  ],
+  "market_estimate": {
+    "eur_min": 1850000,
+    "eur_max": 2600000,
+    "confidence": "low",
+    "basis": "Tržišne cijene komercijalnih nekretnina u Dugopolju i Split periferiji za standalone poslovne objekte kreću se 900–1.300 EUR/m² (2024–2025 podaci). Procjena 1.538 EUR/m² u Elaboratu reflektira hotelski brand/namjenu, ali depadans bez glavne zgrade nema tu premiju. Gornja granica (2,6 M EUR) odgovara startnoj cijeni samo ako kupac istovremeno osigurava i glavni objekt. Confidence 'low' zbog specifičnosti (hotelski depadans, stečajna prodaja, Dugopolje nema duboko tržište za ovu klasu)."
+  },
+  "comparables": [
+    {
+      "opis": "Poslovni objekt Dugopolje, blizina Dalmatia retail parka, ~1.100 m², G+1, dobar pristup s A1",
+      "cijena": 1050000,
+      "m2": 1100,
+      "izvor": "njuskalo.hr (procjena na temelju dostupnih oglasa)",
+      "url": "https://www.njuskalo.hr/poslovni-prostori-prodaja/dugopolje"
+    },
+    {
+      "opis": "Hotel / pansion Split okolica (inland), ~1.800 m², stečajna prodaja, bez opreme",
+      "cijena": 2100000,
+      "m2": 1800,
+      "izvor": "nekretnine.net (analogni stečajni slučaj)",
+      "url": "https://www.nekretnine.net/stambeni-objekti/hoteli/split-zupanija"
+    },
+    {
+      "opis": "Poslovni/industrijski kompleks Klis–Dugopolje koridor, ~2.400 m², hala + ured",
+      "cijena": 1750000,
+      "m2": 2400,
+      "izvor": "njuskalo.hr (procjena na temelju dostupnih oglasa)",
+      "url": "https://www.njuskalo.hr/poslovni-prostori-prodaja/klis"
+    },
+    {
+      "opis": "Hotelski objekt Sinj/Trilj zona (inland Dalmacija), ~2.200 m², za renovaciju, stečaj",
+      "cijena": 1600000,
+      "m2": 2200,
+      "izvor": "e-Oglasna ploča FINA / Trgovački sud Split (analogni stečajni predmeti)",
+      "url": "https://e-oglasna.pravosudje.hr"
+    },
+    {
+      "opis": "Poslovni prostor Solin (Split periferija), 800 m², novogradnja, useljivo",
+      "cijena": 960000,
+      "m2": 800,
+      "izvor": "index.hr oglasi (procjena raspona 1.100–1.300 EUR/m²)",
+      "url": "https://oglasi.index.hr/nekretnine/poslovni-prostori/solin"
+    }
+  ],
+  "investment_strategy": "Razvoj (koordinirana kupnja) ILI pass: jedina racionalna strategija je koordinirano osvajanje obje dražbe (depadans + glavna zgrada) i rekonstrukcija cjelovitog hotel kompleksa (2.093 + X m²) za 3–4* branded hotel uz A1 koridor (korporativni/kongresni segment, tranzit, airport proximity). Ukupna investicija tada ima smisla ako se glavni objekt kupi ispod 4–5M EUR. Kao samostalna kupnja — konverzija u poslovne urede ili logistics hub uz A1 je teorijski moguća ali zahtijeva 800k–1,5M EUR CAPEX i tržište Dugopolja slabo apsorbira takve površine.",
+  "entry_price_eur": 2000000,
+  "detailed_risks": [
+    "Funkcionalna izolacija depadansa ako drugi kupac osvoji glavnu zgradu — gubite arhitektonski i operativni kontekst nekretnine",
+    "Procjenjena vrijednost od strane sudskog vještaka može biti precjenjena za inland Dugopolje; stvarna tržišna vrijednost standalone objekta potencijalno 25–40% ispod procjene",
+    "Visoki CAPEX za konverziju iz hotelske u drugu namjenu (400–700 EUR/m² ovisno o zahvatu) — ukupno 850k–1,5M EUR",
+    "Likvidnost: poslovni objekti >2.000 m² u Dugopolju imaju uzak krug kupaca; realizacija exit-a u 3 god. neizvjesna",
+    "Stečajni postupak može nositi skrivene terete (porezni dugovi, prava zaposlenika, komunalni doprinosi, hipoteke) koji nisu vidljivi u kratkom opisu",
+    "Stečajni upravitelj iz Ivanca otežava fizičku dostupnost, pregled dokumentacije i pregovaranje u kratkim rokovima",
+    "Nema podataka o stanju instalacija, krovišta, fasade — bez elaborata i fizičkog pregleda CAPEX je neodređen",
+    "Regulatorni rizik: promjena namjene hotelskog objekta u poslovnu/industrijsku zonu zahtijeva novu lokacijsku dozvolu i potencijalnu izmjenu UPU-a"
+  ],
+  "upside_scenario": "Investitor pobjeđuje obje dražbe (depadans + glavna zgrada) po ukupnoj cijeni ispod 6M EUR, angažira hotel operator (Ibis, Holiday Inn Express ili domaći brend), izvodi adaptaciju u 18–24 mj. za 2–3M EUR CAPEX. Hotel uz A1/Split airport koridor s 100–150 soba generira 1,2–1,8M EUR godišnjeg prihoda pri 65% zauzetosti. Procjenjena vrijednost kompleksa u 3 god: 8–11M EUR (6–7x EBITDA). Moguća prodaja hotelskom fondu ili regionalnom operatoru.",
+  "downside_scenario": "Kupac glavne zgrade je konkurent ili insolventan — depadans ostaje funkcionalno izoliran. Konverzija u urede/skladište uz A1 zahtijeva 1M+ EUR CAPEX, a Dugopolje tržište ima nisku apsorpcijsku moć. Prihodi od najma sporije rastu od troškova financiranja. Exit u 3 god. moguć samo uz gubitak 15–30% od ulazne cijene (realizacija ~1,7–2,2M EUR naspram 2,6M+ ulaska). Najgori scenarij: objekt stoji prazan, troškovi održavanja i komunalija teku, bez realnog kupca.",
+  "input_hash": "d88033ab3864",
+  "scored_at": "2026-05-28T10:04:04.082424"
+}

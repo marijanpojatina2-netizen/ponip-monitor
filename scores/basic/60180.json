@@ -1,0 +1,15 @@
+{
+  "id": "60180",
+  "score_overall": 3.5,
+  "score_lokacija": 3.0,
+  "score_roi": 4.0,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Seoska kuća u Cmročju (Konjščina) s 20% popustom ima minimalan investicijski potencijal u ruralnoj zoni s depopulacijskim trendovima i bez vidljive turističke ili ekonomske tražnje. Likvidnost izlaza bila bi izrazito ograničena i horizont povrata nepredvidiv.",
+  "flags": [
+    "ruralno selo - depopulacijska zona",
+    "20% popust nedovoljan za slabu lokaciju i nisku likvidnost"
+  ],
+  "input_hash": "35bc28441247",
+  "scored_at": "2026-05-28T09:59:31.808237"
+}

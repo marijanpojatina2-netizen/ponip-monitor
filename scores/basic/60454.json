@@ -1,0 +1,16 @@
+{
+  "id": "60454",
+  "score_overall": 2.0,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Udio 4/24 u oranici od ~12.891 m² u ruralnoj Slavoniji blizu Otoka predstavlja gotovo najgori mogući investicijski scenarij - frakcijsko suvlasništvo na agrarnom zemljištu u depopulacijskoj zoni bez tržišne likvidnosti i bez realne exit strategije. Monetizacija jedino kroz zakup, uz minimalne prinose.",
+  "flags": [
+    "4/24 frakcijsko suvlasništvo - izrazito ograničeno raspolaganje",
+    "samo poljoprivredno zemljište (oranica) - nema konverzijskog potencijala",
+    "ruralna Slavonija - depopulacija, nema exit strategije"
+  ],
+  "input_hash": "9c3e35dd885d",
+  "scored_at": "2026-05-28T09:59:31.808502"
+}

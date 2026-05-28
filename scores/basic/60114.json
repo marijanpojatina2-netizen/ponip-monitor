@@ -1,0 +1,15 @@
+{
+  "id": "60114",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 3.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Farmsko imanje u Đelekovcu kraj Koprivnice s velikom okućnicom i gospodarskim zgradama ima minimalnu investicijsku vrijednost u ruralnoj Podravini gdje su cijene niske, potražnja ograničena i likvidnost izlaza gotovo nepostojeća. Vrijednost dominira zemljištem koje je najtežje monetizirati.",
+  "flags": [
+    "ruralna Podravina - izrazito niska tržišna likvidnost",
+    "dominantno gospodarski objekti - ograničena prenamjena za rezidencijal"
+  ],
+  "input_hash": "c303c9414861",
+  "scored_at": "2026-05-28T09:59:31.808328"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "60476",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Suvlasništvo 3/6 dijela kuće u Vukovaru kombinira dva kritična negativna faktora - frakcijsko vlasništvo koje drastično otežava raspolaganje i prodaju te slabu vukovarsku mikrotržišnu likvidnost. Investicijski case ne postoji bez suglasnosti ostalih suvlasnika.",
+  "flags": [
+    "suvlasništvo 3/6 - nije puno vlasništvo, exit otežan",
+    "Vukovar - ekonomski deprimirana regija, nizak investorski interes",
+    "frakcijsko vlasništvo zahtijeva sporazum s ostalim suvlasnicima"
+  ],
+  "input_hash": "2b8d1d5888f0",
+  "scored_at": "2026-05-28T09:59:31.808416"
+}
