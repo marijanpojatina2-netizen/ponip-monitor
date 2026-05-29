@@ -1,0 +1,16 @@
+{
+  "id": "58168",
+  "score_overall": 5.5,
+  "score_lokacija": 5.0,
+  "score_roi": 7.0,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Dugo Selo / Oborovo je prihvatljiva lokacija unutar Zagrebačke županije s pristupačnim prometnim vezama prema gradu, a 40% popust na drugoj dražbi ostavlja prostor za renovaciju i preprodaju ili dugoročni najam. Stanje je nepoznato pa je obavezna provjera terena prije licitacije.",
+  "flags": [
+    "nepoznato stanje objekta – potreban fizički obilazak",
+    "ruralno selo, ograničen turistički potencijal",
+    "parcela u naravi 'u selu' – moguća komunalna ograničenja"
+  ],
+  "input_hash": "aaca8666db24",
+  "scored_at": "2026-05-29T09:53:08.257128"
+}

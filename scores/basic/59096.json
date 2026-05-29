@@ -1,0 +1,16 @@
+{
+  "id": "59096",
+  "score_overall": 5.0,
+  "score_lokacija": 3.5,
+  "score_roi": 7.0,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "40% popust na drugoj dražbi s kućom i gospodarskim zgradama od 621 m2 čini ovu nekretninu numerički zanimljivom, ali Bukovlje je ruralna općina s vrlo niskom potražnjom i teškom preprodajom. Vrijedi pratiti – ako ima solidan pristup i nije ruševno, može biti buy-and-hold za dugoročni najam.",
+  "flags": [
+    "ruralno područje, slaba likvidnost",
+    "nepoznato stanje kuće i zgrada",
+    "gospodarske zgrade mogu biti troškovni teret"
+  ],
+  "input_hash": "5b0deda35090",
+  "scored_at": "2026-05-29T09:53:08.256781"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "59030",
+  "score_overall": 6.5,
+  "score_lokacija": 7.5,
+  "score_roi": 7.5,
+  "score_stanje": 5.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Stan u Splitu po ulaznoj cijeni ~63k EUR za pola 61 m² stana na Fausta Vrančića implicitno cijeni kompletan stan ispod 2.200 EUR/m² u gradu gdje tržišne cijene dosežu 4.000-5.000 EUR/m² - ogroman upside; međutim, kupnja samo 1/2 suvlasničkog dijela zahtijeva hitnu pravnu analizu i strategiju za otkup preostale polovice od nepoznatog suvlasnika.",
+  "flags": [
+    "KRITIČNO: Prodaje se samo 1/2 suvlasničkog dijela stana",
+    "Nepoznati suvlasnik - moguće blokirano upravljanje i iznajmljivanje",
+    "Nužna strategija za otkup preostale 1/2 prije ulaska",
+    "Sjeverna strana orijentacije - manji turistički premium"
+  ],
+  "input_hash": "3bf9cc56c445",
+  "scored_at": "2026-05-29T09:51:37.438551"
+}

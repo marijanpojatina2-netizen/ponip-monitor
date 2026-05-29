@@ -1,0 +1,16 @@
+{
+  "id": "59134",
+  "score_overall": 4.5,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Ruralna kuća s gospodarskim zgradama u Varaždinskoj županiji nudi solidan 40% popust i određeni buy-and-hold potencijal, ali lokacija u selu Vratno Gornje drastično ograničava likvidnost i potencijal kratkoročnog najma; razumna opcija samo za strpljivog investitora s niskim troškovima kapitala.",
+  "flags": [
+    "Ruralna lokacija - niska likvidnost i ograničena potražnja",
+    "Gospodarska zgrada nosi potencijalne troškove obnove ili uklanjanja",
+    "Malo selo bez turističke infrastrukture"
+  ],
+  "input_hash": "1b9bd93ad2be",
+  "scored_at": "2026-05-29T09:51:37.438252"
+}

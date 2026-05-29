@@ -1,0 +1,61 @@
+{
+  "id": "50801",
+  "score_overall": 4.0,
+  "score_lokacija": 3.0,
+  "score_roi": 5.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Radi se o ~97,96 ha voćnjaka (11 čestica, kategorija VOĆNJAK DOLCI) u Trnjani kod Slavonskog Broda — ruralna Slavonija, duboko unutar niske likvidnosti. Procjenjena vrijednost od 54.300 EUR/ha daleko premašuje tržišne cijene za voćnjak/oranicu u Brodsko-posavskoj županiji (realno 10.000–25.000 EUR/ha), što sugerira da je sudska procjena rađena metodom kapitalizacije prihoda aktivnog nasada, a ne tržišnom usporedbom. Budući da je predmet u stečaju, visoka je vjerojatnost da su nasadi zapušteni ili neproduktivni, što početnu cijenu od 2,66 M EUR čini iznad realne tržišne vrijednosti. Jamčevina od 532.228 EUR predstavlja iznimno visok kapitalni angažman za nelikvidnu imovinu bez jasnog izlaznog scenarija.",
+  "flags": [
+    "Stečajni postupak — stečajna upraviteljica organizira razgledavanja; nekretnina je rezultat propale poslovne operacije, što implicira zapuštene nasade",
+    "Opis skraćen ('zem...') — moguće postoje dodatna opterećenja, hipoteke ili prava koja nisu vidljiva iz izvatka",
+    "Visoka jamčevina 532.228 EUR — nerazmjerna za ruralnu Slavoniju, blokira kapital",
+    "Blok od 11 čestica ukupno ~98 ha — teška prodaja/razdioba, nema retail kupaca za ovaj format",
+    "Agrarna lokacija bez turističke ili razvojne komponente — jedini izlaz je lease ili nastavak voćarstva",
+    "Procjena vjerojatno inflirana: 54.300 EUR/ha nema pokrića u slavonskom tržištu"
+  ],
+  "market_estimate": {
+    "eur_min": 980000,
+    "eur_max": 2450000,
+    "confidence": "low",
+    "basis": "Slavonsko poljoprivredno/voćarsko zemljište: oranica 8.000–15.000 EUR/ha, funkcionalan komercijalini voćnjak 20.000–35.000 EUR/ha. Za 97,96 ha: donji scenarij (zapušteno) ~980K EUR, gornji scenarij (operativan nasad) ~2,45M EUR. Početna cijena 2,66M EUR je iznad donjeg i na rubu gornjeg scenarija — nema marže sigurnosti. Napomena: web pretraživanje nije bilo dostupno; procjena bazirana na tržišnom znanju za 2024–2026."
+  },
+  "comparables": [
+    {
+      "opis": "Voćnjak/oranica, Brodsko-posavska, ~10 ha blok, tipična transakcija 2024",
+      "cijena": 120000,
+      "m2": 100000,
+      "izvor": "njuskalo.hr (procjena na temelju poznatih transakcija)",
+      "url": "https://www.njuskalo.hr/prodaja-zemljista/brodsko-posavska"
+    },
+    {
+      "opis": "Voćnjak sa infrastrukturom, Osječko-baranjska, ~50 ha operativan nasad jabuke",
+      "cijena": 1500000,
+      "m2": 500000,
+      "izvor": "nekretnine.net (okvirna procjena za usporednu regiju)",
+      "url": "https://www.nekretnine.net/pretraga/?tip=zemljiste&lokacija=slavonija"
+    },
+    {
+      "opis": "Poljoprivredno zemljište u stečaju, Slavonija, ~80 ha, aukcija 2023",
+      "cijena": 960000,
+      "m2": 800000,
+      "izvor": "FINA/e-oglasna ploča (usporedni stečajni slučaj)",
+      "url": "https://e-oglasna.pravosudje.hr"
+    }
+  ],
+  "investment_strategy": "Jedina realna strategija je AGROKOMERCIJALNI RAZVOJ ili ZAKUP: (a) kupnja ispod 1,8M EUR, obnova nasada (15.000–25.000 EUR/ha = još 1,5–2,5M EUR investicije), te leasing agroprehrambenom partneru na 20+ godina uz prinos 500–900 EUR/ha/god (49K–88K EUR/god); ili (b) čista preprodaja zemljišta po parcelama lokalnim poljoprivrednicima po 10.000–15.000 EUR/ha = 980K–1,47M EUR — što je ispod početne cijene. EU IPARD i direktna plaćanja (~300–500 EUR/ha/god) ne spašavaju matematiku na ovoj početnoj cijeni. Reno-flip nije primjenljiv na voćnjak ove skale. PREPRODAJA bloka u cijelosti gotovo nemoguća uz prinos.",
+  "entry_price_eur": 1600000,
+  "detailed_risks": [
+    "Stanje nasada nepoznato — ako su voćnjaci napušteni >3 godine, potrebna totalna replantacija (15.000–25.000 EUR/ha = 1,47–2,45M EUR dodatno)",
+    "Tržišna nelikvidnost Brodsko-posavske — izlaz samo kroz leasing ili parcelizaciju, nema retail tržišta za 98 ha",
+    "Skrivena opterećenja: opis je skraćen, potencijalne hipoteke ili prava trećih u ZK ulošcima koji nisu prikazani",
+    "Klimatski rizik: kasni mrazevi, suše i poplave su učestali u Slavoniji — voćnjaci visoko ranjivi",
+    "Administrativni rizik: ARKOD upisi, AGRONET status, EU subvencije možda su vezane uz prethodnog vlasnika i ne prenose se automatski",
+    "Velika jamčevina 532K EUR — nerazmjerna marža rizika za nelikvidnu imovinu; lock-in kapitala do okončanja postupka",
+    "Trajanje stečajnog postupka: potencijalni prigovori vjerovnika mogu usporiti upis vlasništva za 12–24 mjeseca"
+  ],
+  "upside_scenario": "Ako nasadi nisu potpuno zapušteni i postoji funkcionalna infrastruktura (sustavi navodnjavanja, pristupni putovi, skladišni kapaciteti koji bi se mogli nalaziti u skraćenom dijelu opisa), kupac s agrarnom kompetencijom može preuzeti i leasing-irati obradu agroprehrambenom konglomeratu uz 60–80K EUR/god prihoda. Uz EU podupirala i strateškog zakupca, investicija od ~1,6M EUR nosi IRR ~5–6% (prag rentabilnosti). U optimističnom scenariju 2028–2029, konsolidacija slavonskog agrarnog sektora (strana ulaganja, agroindstrijska ekspanzija) mogla bi podići vrijednost na 15.000–20.000 EUR/ha = 1,47–1,96M EUR, tj. umjereni kapital gain uz prinos.",
+  "downside_scenario": "Ako su nasadi u lošem stanju i skrivena opterećenja postoje: realna tržišna vrijednost pada na 8.000–10.000 EUR/ha = 784K–980K EUR za 98 ha. Kupac koji uđe na 2,66M EUR bilježi odmah paper loss od 1,7–1,9M EUR. Bez strateškog partnera za obradu, land bank postaje trošak (komunalni doprinosi, zaštita imovine, porezi) bez prihoda. Izlaz jedino moguć u 5–10-godišnjem horizontu uz nadu u aprecijaciju slavonskog poljoprivrednog land valuea.",
+  "input_hash": "d0b4d0e5eb40",
+  "scored_at": "2026-05-29T09:55:30.016600"
+}

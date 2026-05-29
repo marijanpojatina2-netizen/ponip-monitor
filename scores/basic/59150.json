@@ -1,0 +1,16 @@
+{
+  "id": "59150",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 5.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Marinci kraj Vinkovaca su duboka depopulacijska Slavonija s gotovo nultom likvidnošću tržišta nekretnina – čak ni 40% popust ne može kompenzirati rizik da nekretnina ostane u portfelju godinama bez kupca. Ovo je tipičan slučaj gdje cijena ne reflektira stvarnu tržišnu nemogućnost izlaza.",
+  "flags": [
+    "izrazita depopulacijska zona, Vinkovci hinterland",
+    "ekstremno niska tržišna likvidnost",
+    "dugi izlazni horizont bez realnog kupca"
+  ],
+  "input_hash": "e7b7ffc9cef6",
+  "scored_at": "2026-05-29T09:53:08.257218"
+}

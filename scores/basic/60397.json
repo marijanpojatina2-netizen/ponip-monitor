@@ -1,0 +1,16 @@
+{
+  "id": "60397",
+  "score_overall": 4.5,
+  "score_lokacija": 6.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Istra i blizina Pule jesu lokacijski plus, ali nekretnina se nalazi unutar zone šireg utjecaja Zračne luke Pula što praktično onemogućuje bilo kakvu stambenu ili turističku gradnju. Samo 20% popusta na prvoj dražbi za zemljište s teškim ograničenjima ne opravdava ulazak.",
+  "flags": [
+    "zona šireg utjecaja Zračne luke Pula – zabrana/ograničenje gradnje",
+    "samo oranica, bez objekata",
+    "potrebna detaljna provjera UPU-a prije licitacije"
+  ],
+  "input_hash": "93b3a4d04dca",
+  "scored_at": "2026-05-29T09:53:08.256887"
+}

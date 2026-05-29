@@ -1,0 +1,16 @@
+{
+  "id": "59126",
+  "score_overall": 3.5,
+  "score_lokacija": 4.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Suvlasnički udio 2/6 je kritičan red flag – bez suglasnosti ostalih suvlasnika nekretnina se ne može prodati, iznajmiti ni renovirati na normalan način. 40% popust ne kompenzira dugotrajni pravni rizik i slabu pregovaračku poziciju.",
+  "flags": [
+    "suvlasništvo 2/6 – bez kontrole nad nekretninom",
+    "ruralno selo u varaždinskom kraju, ograničena potražnja",
+    "moguće sporne relacije s ostalim suvlasnicima"
+  ],
+  "input_hash": "f8b96003a7fd",
+  "scored_at": "2026-05-29T09:53:08.257019"
+}

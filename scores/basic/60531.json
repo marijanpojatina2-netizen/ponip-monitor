@@ -1,0 +1,17 @@
+{
+  "id": "60531",
+  "score_overall": 4.0,
+  "score_lokacija": 6.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Dvorišna čestica od svega 36m2 u k.o. Šestine (Zagreb) bez građevine ima vrlo ograničenu upotrebnu vrijednost i praktički nultu likvidnost kao samostalna parcela. Popust od 40% na procjenu zvuči privlačno, ali apsolutna vrijednost od ~3.000 EUR uz neizvjesnost gradnje i moguću otežanu preprodaju čini ovaj lot slabim investicijskim kandidatom.",
+  "flags": [
+    "samo zemljište 36m2 - nema objekta",
+    "dvorišna čestica - ograničena samostalna upotreба",
+    "niska apsolutna vrijednost ali i likvidnost",
+    "nejasno da li postoji mogućnost gradnje"
+  ],
+  "input_hash": "6089e5cb6c93",
+  "scored_at": "2026-05-29T09:53:18.544157"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "60333",
+  "score_overall": 5.5,
+  "score_lokacija": 7.0,
+  "score_roi": 4.5,
+  "score_stanje": 6.0,
+  "recommendation": "watch",
+  "reasoning": "Zadar je odlična turistička lokacija s rastućim tržištem nekretnina i visokim prinosima od kratkoročnog najma, ali svega 20% popusta na prvoj dražbi ostavlja minimalan sigurnosni prostor; suvlasnički udio s neodređenim omjerom nosi pravni rizik koji zahtijeva razrješenje prije ulaska.",
+  "flags": [
+    "Suvlasnički dio s neodređenim omjerom - pravna nesigurnost",
+    "Vlasništvo podijeljeno 1/2 + 1/2 na dva ovršenika",
+    "Samo 20% popusta na prvoj dražbi - čekaj drugu za bolju cijenu"
+  ],
+  "input_hash": "670f3497ab3f",
+  "scored_at": "2026-05-29T09:51:37.438024"
+}

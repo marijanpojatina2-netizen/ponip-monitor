@@ -1,0 +1,16 @@
+{
+  "id": "60534",
+  "score_overall": 7.0,
+  "score_lokacija": 8.5,
+  "score_roi": 6.5,
+  "score_stanje": 7.0,
+  "recommendation": "bid",
+  "reasoning": "Garažno mjesto u Splitu (predio Visoka) za ~15.000 EUR je konkretan investicijski predmet – parking u Splitu se iznajmljuje 80-120 EUR/mj što daje bruto prinos 6-9%, uz realni dugoročni rast vrijednosti. Stečajni postupak znači čisto vlasništvo, a mala jamčevina (2.000 EUR) čini ulazak niskorizičnim.",
+  "flags": [
+    "mala površina (13,39 m2) – čisto garažno mjesto, bez stambene komponente",
+    "provjeri pristup i stvarno stanje garaže (podrumska etaža II)",
+    "stečajni postupak – potvrdi čistoću vlasništva u zk izvadku"
+  ],
+  "input_hash": "54df0edd8b7b",
+  "scored_at": "2026-05-29T09:53:08.257301"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "58901",
+  "score_overall": 5.0,
+  "score_lokacija": 3.5,
+  "score_roi": 7.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Ulazna cijena ~45k EUR s 50% popustom u stečajnom postupku za 400 m² stambeno-gospodarske nekretnine u Zagorju blizu Zaboka je privlačno niska s minimalnim financijskim rizikom, ali stanje nekretnine potpuno je nepoznato i ruralna lokacija u Donjoj Pačetini ograničava likvidnost i exit strategije.",
+  "flags": [
+    "Stečajni postupak (Trgovački sud) - mogući skriveni tereti ili kompleksnost",
+    "Stanje potpuno nepoznato - obavezna fizička inspekcija",
+    "Ruralna lokacija Donja Pačetina - niska likvidnost",
+    "Naziv 'DOMA' u upisniku - potencijalna nejasnoća namjene objekta"
+  ],
+  "input_hash": "c264aeb72bdc",
+  "scored_at": "2026-05-29T09:51:37.438739"
+}

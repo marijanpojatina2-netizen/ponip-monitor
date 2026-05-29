@@ -1,0 +1,17 @@
+{
+  "id": "59077",
+  "score_overall": 4.0,
+  "score_lokacija": 3.0,
+  "score_roi": 6.0,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Granično područje uz Mađarsku u Goričanu nema turističke ni rentabilne potražnje koja bi opravdala investiciju; mala kuća od 92 m² s gospodarskom zgradom u pograničnom selu Međimurja nudi ograničen scenarij čak i uz 40% popust na drugoj dražbi.",
+  "flags": [
+    "Granično područje Hrvatska-Mađarska - izrazito niska likvidnost",
+    "Goričan - bez turističkog ni poslovnog potencijala",
+    "Suvlasništvo 1/2 + 1/2 na oba ovršenika",
+    "Kuća svega 92 m² - ograničeni prihodi od najma"
+  ],
+  "input_hash": "c8e5ab7f5288",
+  "scored_at": "2026-05-29T09:51:37.438343"
+}
