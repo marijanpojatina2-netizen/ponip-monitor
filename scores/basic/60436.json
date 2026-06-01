@@ -1,0 +1,17 @@
+{
+  "id": "60436",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 4.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Šumsko zemljište 2338m² u Bršljanici kraj Garešnice — prva dražba s tek 20% popustom za šumu bez jasne komercijalne upotrebe; upravljanje šumom zahtijeva posebne dozvole, prihod minimalan, izlaz iz investicije ekstremno otežan.",
+  "flags": [
+    "šumsko zemljište - posebni propisi upravljanja",
+    "prva dražba, mali popust",
+    "nema turističke ni razvojne vrijednosti",
+    "Garešnica - duboka provincija, nulta likvidnost"
+  ],
+  "input_hash": "09a175bdb874",
+  "scored_at": "2026-06-01T11:30:14.531705"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "59186",
+  "score_overall": 3.0,
+  "score_lokacija": 2.5,
+  "score_roi": 4.0,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Podravska Slatina nalazi se u Virovitičko-podravskoj županiji, jednoj od najbrže demografski propadajućih regija u Hrvatskoj — popis 2021. zabilježio je pad od ~18% u odnosu na 2011. Nominalni popust od 50% (druga dražba) je atraktivan na papiru, no procjenjena vrijednost od ~258 EUR/m² za upravnu zgradu u ovoj lokaciji izgleda materijalno precjenjena; realno tržište za 2150 m² komercijalnog prostora u malom slavonskom gradu postoji samo za javne institucije ili specifične operatere. Ključni problem nije ulazna cijena nego izlazna strategija — likvidnost je gotovo nulta, a holding troškovi velikog objekta bez zakupca rapidno erodiraju kapital.",
+  "flags": [
+    "Stečajni predmet (Trgovački sud u Bjelovaru) — objekt je dio stečajne mase, moguće skrivene obveze ili pravne teškoće",
+    "Nema opisa stanja — razgledavanje isključivo uz stečajnu upraviteljicu, što otežava due diligence",
+    "Specijalizirana namjena (upravna zgrada) — ograničen krug kupaca i zakupaca, prenamjena skupa i složena",
+    "Depopulacijska zona — pad potražnje za poslovnim prostorima trajan i strukturalan",
+    "Nelikvidno tržište — malen broj transakcija komercijalnih nekretnina u cijeloj županiji godišnje",
+    "Površina 2150 m² nameće visoke troškove održavanja i komunalija dok traje traženje kupca/zakupca"
+  ],
+  "market_estimate": {
+    "eur_min": 130000,
+    "eur_max": 290000,
+    "confidence": "low",
+    "basis": "Komercijalni poslovni fond u sličnim slavonskim gradovima (Virovitica, Bjelovar, Koprivnica) ostvaruje 100–200 EUR/m² za stariji uredski/upravni prostor; Slatina kao manje i siromašnije tržište nosi diskont 20–40%. Na razini 100–135 EUR/m² realistična tržišna vrijednost iznosi 215 000–290 000 EUR. Sudska procjena od ~258 EUR/m² (555 000 EUR ukupno) vjerojatno odražava zamjensku vrijednost, a ne likvidacijsku tržišnu vrijednost. Web pretraga nije bila dostupna za žive usporedive oglase."
+  },
+  "comparables": [
+    {
+      "opis": "Pretraga poslovnih prostora na prodaju — Virovitičko-podravska županija (kategorija, živi oglasi nisu dohvaćeni)",
+      "cijena": null,
+      "m2": null,
+      "izvor": "njuskalo.hr",
+      "url": "https://www.njuskalo.hr/prodaja-poslovnih-prostora/viroviticko-podravska-zupanija"
+    },
+    {
+      "opis": "Pretraga poslovnih prostora — Podravska Slatina (kategorija, živi oglasi nisu dohvaćeni)",
+      "cijena": null,
+      "m2": null,
+      "izvor": "njuskalo.hr",
+      "url": "https://www.njuskalo.hr/prodaja-poslovnih-prostora/podravska-slatina"
+    },
+    {
+      "opis": "Pretraga poslovnih nekretnina — Virovitičko-podravska (kategorija, živi oglasi nisu dohvaćeni)",
+      "cijena": null,
+      "m2": null,
+      "izvor": "nekretnine.hr",
+      "url": "https://www.nekretnine.hr/stambeni-objekti/poslovni-prostori/lista/vrsta-oglasa_prodaja/lokacija_viroviticko-podravska-zupanija/"
+    },
+    {
+      "opis": "Procjena tržišta — upravna/poslovna zgrada ~1000–2000 m², Slavonija (Osijek, Bjelovar, Virovitica), analogni slučajevi iz stečajnih dražbi, prosjek postignutih cijena 80–150 EUR/m²",
+      "cijena": 175000,
+      "m2": 1500,
+      "izvor": "tržišna procjena (baza stručnog znanja, bez živog URL-a)",
+      "url": ""
+    }
+  ],
+  "investment_strategy": "Jedina realno izvediva strategija je dugoročni zakup javnoj instituciji (ured, škola, zdravstvena ustanova) ili specifičnom privatnom operateru koji ima poslovnu potrebu za tolikom kvadraturom u Slatini — što je izuzetno rijetko. Reno-flip nema smisla bez identificiranog kupca. Razvoj (stanovi, hotel) gotovo nemoguć zbog demografije i regulatornih troškova. Strategija bi trebala biti: kupnja samo uz unaprijed potpisanog zakupca ili konkretnog kupca; bez toga — pass.",
+  "entry_price_eur": 175000,
+  "detailed_risks": [
+    "Demografska erozija potražnje — Virovitičko-podravska županija gubi 1.5–2% godišnje, komercijalna potražnja se dalje smanjuje",
+    "Iluzija popusta — procjenjena vrijednost od 555K EUR vjerojatno je metodološki temeljena na zamjenskim troškovima, ne tržišnoj likvidnosti",
+    "Holding troškovi — komunalije, osiguranje i minimalno održavanje 2150 m² mogu iznositi 15 000–30 000 EUR godišnje bez prihoda",
+    "Stečajni rizici — moguće nepoznate hipoteke, porezni dugovi ili zahtjevi vjerovnika koji opterećuju nekretninu",
+    "Nepoznato stanje objekta — bez slobodnog razgledavanja nemoguć je pravi due diligence; troškovi sanacije mogu biti 50–200 EUR/m²",
+    "Rizik treće dražbe bez kupca — tržište je već odbilo ovu nekretninu na prvoj dražbi, signal slabe potražnje",
+    "Exit horizont 5+ godina — u ovom tržištu nerealno očekivati brzu preprodaju"
+  ],
+  "upside_scenario": "EU kohezijski fondovi (npr. NPOO, ERDF 2021–2027) privuku investiciju u poduzetničku zonu u Slatini, ili lokalna uprava preuzme objekt za javnu namjenu po cijeni 300–400K EUR. Uz minimalnu adaptaciju (30–50K EUR), moguć break-even ili skroman pozitivan povrat u 4–6 godina. Alternativno: specijalizirani operator (socijalna skrb, Dom za starije, outsourcing centar) preuzme i zakupi prostor dugoročno.",
+  "downside_scenario": "Nekretnina ostaje prazna 3–5+ godina — troškovi držanja 60 000–120 000 EUR erodiraju kapital, tržišna vrijednost i dalje pada s demografijom. Prisilna prodaja ispod 130 000 EUR (60 EUR/m²) nije isključena. Ukupni gubitak na uloženoj jamčevini i transakcijskim troškovima realan je scenarij bez jasne izlazne strategije prije ulaska.",
+  "input_hash": "76bf101559f4",
+  "scored_at": "2026-06-01T11:34:15.661431"
+}

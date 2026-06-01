@@ -1,0 +1,15 @@
+{
+  "id": "60472",
+  "score_overall": 7.0,
+  "score_lokacija": 8.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Zavalatica na Korčuli je premium turistička destinacija s visokim potencijalom za kratkoročni najam i dugoročnu aprecijaciju vrijednosti; 20% popust na prvoj dražbi je slab ulazni uvjet, ali iznimnost lokacije na otoku opravdava detaljnu analizu stanja, tereta i potencijala turističke rentabilnosti.",
+  "flags": [
+    "prva dražba - minimalni popust (20%)",
+    "stanje unutrašnjosti nije opisano - potreban fizički pregled"
+  ],
+  "input_hash": "eab849e1e803",
+  "scored_at": "2026-06-01T11:29:44.602640"
+}

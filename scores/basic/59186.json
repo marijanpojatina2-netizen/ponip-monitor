@@ -1,0 +1,16 @@
+{
+  "id": "59186",
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 7.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Podravska Slatina je duboko depopulacijska slavonska zona s minimalnim tržištem nekretnina; 50% popust i druga dražba su matematički atraktivni, ali upravna zgrada od 2150 m2 ima zanemarivo mali bazen kupaca i praktički nikakav potencijal za prenamjenu ili najam bez specifičnog industrijskog/javnog kupca.",
+  "flags": [
+    "depopulacijska zona - Podravska Slatina",
+    "upravna zgrada - skupa i složena prenamjena",
+    "izrazito niska tržišna likvidnost"
+  ],
+  "input_hash": "76bf101559f4",
+  "scored_at": "2026-06-01T11:29:44.602420"
+}

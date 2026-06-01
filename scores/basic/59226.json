@@ -1,0 +1,17 @@
+{
+  "id": "59226",
+  "score_overall": 4.0,
+  "score_lokacija": 4.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Oranica 200m² na adresi u samom Gospiću (Put hrvatske garde) — zanimljivo jer je unutar gradskog tkiva i moguća je građevinska prenamjena, 40% popust na drugoj dražbi, ali Gospić ostaje slabija lokacija s limitiranom potražnjom; vrijedi pratiti za spekulativnu građu.",
+  "flags": [
+    "samo zemljište bez objekta",
+    "Gospić - ograničena likvidnost i potražnja",
+    "prenamjena u građevinsko zemljište neizvjesna",
+    "mikrolokacija uz ulicu - provjeri urbanistički plan"
+  ],
+  "input_hash": "36e72f3e7584",
+  "scored_at": "2026-06-01T11:30:14.531852"
+}

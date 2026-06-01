@@ -1,0 +1,16 @@
+{
+  "id": "60529",
+  "score_overall": 4.5,
+  "score_lokacija": 5.0,
+  "score_roi": 4.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Lokacija u Zagrebačkoj županiji u blizini Samobora nosi određenu vrijednost zbog gravitacije prema Zagrebu, no 20% popust na prvoj dražbi za malu seosku kuću (85 m2) s oranicama ne opravdava aktivno licitiranje sada; vrijedi pratiti do eventualne druge dražbe s boljim uvjetima.",
+  "flags": [
+    "prva dražba - minimalni popust (20%)",
+    "ruralna kuća 85 m2 s oranicama - skromni prihodni potencijal",
+    "k.o. Konščica - provjeriti točnu lokaciju i udaljenost od Samobora"
+  ],
+  "input_hash": "28da41295ec3",
+  "scored_at": "2026-06-01T11:29:44.603137"
+}

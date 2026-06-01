@@ -1,0 +1,17 @@
+{
+  "id": "59062",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 4.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Suvlasništvo od ½ znači da kupac dobiva samo pola vlasništva bez mogućnosti samostalnog raspolaganja ili prodaje bez suglasnosti suvlasnika - u ruralnom bjelovarskom zaleđu to je dvostruko blokirana investicija bez realnog izlaza.",
+  "flags": [
+    "suvlasništvo 1/2 - kupuje se samo pola vlasništva",
+    "ruralno depopulacijsko područje - Bjelovar okolica",
+    "gospodarske zgrade - uska prenamjena",
+    "niska tržišna likvidnost"
+  ],
+  "input_hash": "8f679b5579b6",
+  "scored_at": "2026-06-01T11:29:44.602805"
+}

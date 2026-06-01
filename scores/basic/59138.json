@@ -1,0 +1,16 @@
+{
+  "id": "59138",
+  "score_overall": 4.0,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "50% popust i druga dražba su atraktivni, ali 23 m2 poslovnog prostora u Slavonskom Brodu predstavlja mikrosegment s ograničenom potražnjom za najam i iznimno teškim exit putem; niska ulazna cijena (~13.450 EUR) može biti zanimljiva lokalno orijentiranom investitoru, ali preprodaja će biti otežana.",
+  "flags": [
+    "Slavonski Brod - slaba potražnja za poslovnim prostorima",
+    "23 m2 - mikroprostor, uzak tržišni segment",
+    "jurisdikcija Karlovac za SB nekretninu - provjeriti porijeklo tereta"
+  ],
+  "input_hash": "0bd2f0832f25",
+  "scored_at": "2026-06-01T11:29:44.603234"
+}

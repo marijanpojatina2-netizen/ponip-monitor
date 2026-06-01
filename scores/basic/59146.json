@@ -1,0 +1,16 @@
+{
+  "id": "59146",
+  "score_overall": 4.5,
+  "score_lokacija": 4.0,
+  "score_roi": 7.0,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Oranica 572m² u Kloštar Ivaniću (Ivanić Grad zona) — solidni 50% popust na drugoj dražbi, ali gola parcela bez objekata limitira upotrebljivost; potencijal za građevinsku prenamjenu ili prodaju lokalnima, no likvidnost slaba.",
+  "flags": [
+    "samo zemljište - oranica, bez objekta",
+    "niska likvidnost ruralne zone",
+    "prenamjena parcele neizvjesna"
+  ],
+  "input_hash": "2d7b969238bb",
+  "scored_at": "2026-06-01T11:30:14.531274"
+}
