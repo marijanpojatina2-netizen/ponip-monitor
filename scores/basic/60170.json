@@ -1,0 +1,17 @@
+{
+  "id": "60170",
+  "score_overall": 6.5,
+  "score_lokacija": 6.5,
+  "score_roi": 6.0,
+  "score_stanje": 6.0,
+  "recommendation": "watch",
+  "reasoning": "Stan od 34 m2 na petom katu s natkrivenom terasom u istoj zgradi kao ID 60162 — viši kat i terasa povećavaju atraktivnost za kratkoročni najam (Airbnb) u blizini Splita i Trogira; popust 25% prihvatljiv ali ne izvanredan na prvoj dražbi. Isti pravni rizik neodređenog omjera etažnog vlasništva vrijedi i ovdje, no viši kat s terasom i sjever-jug orijentacija daju blagu prednost nad ID 60162.",
+  "flags": [
+    "neodređeni suvlasnički omjer (E-33) — isti pravni rizik kao E-13 u istoj zgradi",
+    "prva dražba — cijena još nije 'dražbena'",
+    "mala kvadratura (34 m2) ograničava fleksibilnost",
+    "provjeriti stanje zajedničkih dijelova zgrade i kondominija"
+  ],
+  "input_hash": "aabda981c37d",
+  "scored_at": "2026-06-02T10:18:59.142813"
+}

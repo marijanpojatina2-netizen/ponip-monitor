@@ -1,0 +1,17 @@
+{
+  "id": "60162",
+  "score_overall": 6.0,
+  "score_lokacija": 6.5,
+  "score_roi": 5.5,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Stan od 40 m2 u Kaštel Gomilici (Kaštela) — lokacija je solidan drugi red između Splita i Trogira s turističkim potencijalom, ali nije premium obala; popust 25% na prvoj dražbi je umjeren. Suvlasnički udio s 'neodređenim omjerom' etažnog vlasništva unosi pravnu nesigurnost koju treba razjasniti prije ozbiljnog interesa.",
+  "flags": [
+    "neodređeni suvlasnički omjer (E-13) — pravna nesigurnost etažnog vlasništva",
+    "prva dražba — početna cijena još visoka",
+    "orijentacija sjever-zapad može umanjiti turističku atraktivnost",
+    "40 m2 ograničava najamninu i prodajnu cijenu"
+  ],
+  "input_hash": "be05fb436222",
+  "scored_at": "2026-06-02T10:18:59.142574"
+}
