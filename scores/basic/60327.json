@@ -1,0 +1,15 @@
+{
+  "id": "60327",
+  "score_overall": 5.5,
+  "score_lokacija": 5.5,
+  "score_roi": 6.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Zagreb (Donja Dubrava) s kućom 127 m2 i parcelom 490 m2 za ispod 94k EUR potencijalno je podcijenjena nekretnina, no opis 'suvlasništvo ovrhovoditelja i ovršenika' bez navedenog omjera udjela ozbiljan je crveni alarm koji zahtijeva provjeru zk izvatka prije bilo kakve akcije.",
+  "flags": [
+    "suvlasništvo ovrhovoditelja i ovršenika – udio koji se kupuje nije eksplicitno naveden",
+    "moguće da se prodaje samo manji suvlasnički udio, ne cijela nekretnina"
+  ],
+  "input_hash": "fc76be7430d4",
+  "scored_at": "2026-06-04T09:55:25.617361"
+}

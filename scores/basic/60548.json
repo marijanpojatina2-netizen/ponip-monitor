@@ -1,0 +1,15 @@
+{
+  "id": "60548",
+  "score_overall": 3.5,
+  "score_lokacija": 3.0,
+  "score_roi": 3.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Ruralna lokacija u Poljani kod Novog Marofa s fragmentiranim parcelama (4 zasebne k.č. u 2 zk uloška) i skromnim tržišnim potencijalom – jedini scenarij rentabilnosti bio bi agro-turistički zakup ili vikend-tržište, što je spekulativno.",
+  "flags": [
+    "fragmentirane parcele – 4 k.č. u 2 različita zk uloška",
+    "ruralno Zagorje – slaba likvidnost i mala potražnja"
+  ],
+  "input_hash": "8b34138b458c",
+  "scored_at": "2026-06-04T09:55:25.617471"
+}

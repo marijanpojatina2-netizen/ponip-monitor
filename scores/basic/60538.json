@@ -1,0 +1,14 @@
+{
+  "id": "60538",
+  "score_overall": 6.0,
+  "score_lokacija": 6.0,
+  "score_roi": 5.5,
+  "score_stanje": 6.5,
+  "recommendation": "watch",
+  "reasoning": "Solidan 4-sobni stan s lođom u Sesvetama (k.o. Zaprudski Otok) ima dobru iskoristivost i relativno likvidno tržište, ali 20% popust na prvoj dražbi pruža tanku sigurnosnu marginu – čekati eventualnu drugu dražbu s nižom početnom cijenom.",
+  "flags": [
+    "prva dražba – minimalan popust od procjene"
+  ],
+  "input_hash": "329673dedcd0",
+  "scored_at": "2026-06-04T09:55:25.616861"
+}

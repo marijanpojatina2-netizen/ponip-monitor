@@ -1,0 +1,15 @@
+{
+  "id": "60329",
+  "score_overall": 5.5,
+  "score_lokacija": 7.5,
+  "score_roi": 3.5,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Odlična lokacija (Primorska ulica, Trnje – blizu centra Zagreba) s velikim storage potencijalom (podrumska + potkrovna skladišta ukupno ~45 m2), no kritičan bloker je da se kupuje isključivo 1/2 suvlasničkog dijela stana – svaka investicija, iznajmljivanje ili prodaja zahtijevaju suglasnost drugog suvlasnika.",
+  "flags": [
+    "kupuje se samo 1/2 dijela stana – suvlasništvo s trećom osobom",
+    "bez suglasnosti suvlasnika nema samostalne disposicije nekretninom"
+  ],
+  "input_hash": "f1b464dfa304",
+  "scored_at": "2026-06-04T09:55:25.616984"
+}

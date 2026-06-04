@@ -1,0 +1,15 @@
+{
+  "id": "60553",
+  "score_overall": 3.5,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Ladimirevci kod Valpova tipično su depopulacijsko slavonsko selo bez turističkog ili gospodarskog magneta; 20% popust na prvoj dražbi uz iznimno plitko lokalno tržište ne daje realan izlaz iz investicije u razumnom roku.",
+  "flags": [
+    "depopulacijsko slavonsko selo – minimalna tržišna potražnja",
+    "niska likvidnost cijele podravsko-baranjske ruralne zone"
+  ],
+  "input_hash": "f55a87cb4b64",
+  "scored_at": "2026-06-04T09:55:25.617095"
+}

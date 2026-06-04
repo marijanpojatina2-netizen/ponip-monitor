@@ -1,0 +1,16 @@
+{
+  "id": "59100",
+  "score_overall": 2.0,
+  "score_lokacija": 1.5,
+  "score_roi": 2.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Početna cijena od 695 EUR govori sama za sebe – manjinski suvlasnički udio 10/42 na nekretnini u slavonskom selu Otoku bez ikakve tržišne potražnje ne predstavlja realnu investicijsku priložnost čak ni uz popust od 40% i drugu dražbu.",
+  "flags": [
+    "suvlasnički udio 10/42 – manjinsko vlasništvo bez kontrole nad nekretninom",
+    "depopulacijska Slavonija – Otok kod Vinkovaca",
+    "simbolična tržišna vrijednost, nema realnog izlaza"
+  ],
+  "input_hash": "0ca7c5fb6a03",
+  "scored_at": "2026-06-04T09:55:25.617691"
+}

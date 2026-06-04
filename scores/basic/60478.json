@@ -1,0 +1,15 @@
+{
+  "id": "60478",
+  "score_overall": 5.0,
+  "score_lokacija": 6.5,
+  "score_roi": 4.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Remete je atraktivna rezidencijalna zona Zagreba blizu Sljemena, ali izuzetno niska tražena cijena (31.360 EUR) za obiteljsku kuću signalizira problem: udio od 160/3360 na k.č. 189 iznosi svega ~4,8% cijele čestice što bez uvida u zk uložak onemogućava procjenu stvarnih prava i namjene.",
+  "flags": [
+    "vlasništvo samo 160/3360 dijela k.č. (~4,8% parcele) – nejasna priroda prava",
+    "nužna provjera zk uloška i etažnog/suvlasničkog stanja prije svake odluke"
+  ],
+  "input_hash": "801a0804ac4a",
+  "scored_at": "2026-06-04T09:55:25.617580"
+}
