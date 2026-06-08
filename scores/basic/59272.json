@@ -1,0 +1,17 @@
+{
+  "id": "59272",
+  "score_overall": 3.0,
+  "score_lokacija": 4.5,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "50% popust u Splitskoj županiji zvuči atraktivno, ali 'kamenjar' praktički nema građevinsku ni poljoprivrednu vrijednost, a kupuje se samo 1/2 suvlasničkog udjela što drastično ograničava mogućnost raspolaganja imovinom.",
+  "flags": [
+    "suvlasništvo - kupuje se samo 1/2 dijela",
+    "kamenjar - neplodno tlo bez građevinskog potencijala",
+    "dalmatinsko zaleđe (Gizdavac), ne obala",
+    "prava suvlasnika mogu blokirati prodaju/izgradnju"
+  ],
+  "input_hash": "e44b5cdda15c",
+  "scored_at": "2026-06-08T10:49:20.842937"
+}

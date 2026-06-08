@@ -1,0 +1,16 @@
+{
+  "id": "59224",
+  "score_overall": 2.5,
+  "score_lokacija": 2.5,
+  "score_roi": 4.0,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Tri čestice poljoprivrednog i neplodnog zemljišta u ruralnom karlovačkom zaleđu bez ikakvog objekta, s ograničenim razvojnim potencijalom i slabim tržištem - 40% popust ne mijenja fundamentalno slabu investicijsku priču.",
+  "flags": [
+    "samo poljoprivredno i neplodno zemljište - bez objekata",
+    "tri odvojene čestice u istom ZK uložku - administrativna kompleksnost",
+    "ruralno, depopulacijsko područje Karlovačke županije"
+  ],
+  "input_hash": "819d269220c7",
+  "scored_at": "2026-06-08T10:49:20.843007"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "59252",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Staja i skladište u Pitomači nemaju jasnu stambenu ni turističku exit strategiju, a 40% popust na drugoj dražbi ne kompenzira izrazito slabo slavonsko tržište nekretnina i specifičnu namjenu objekta.",
+  "flags": [
+    "gospodarski objekt (staja/skladište) - ograničena prenamjenska vrijednost",
+    "Slavonija - depopulacijsko područje, niska likvidnost",
+    "bez stambene komponente"
+  ],
+  "input_hash": "31a9f1dac356",
+  "scored_at": "2026-06-08T10:49:20.842786"
+}

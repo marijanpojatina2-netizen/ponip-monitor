@@ -1,0 +1,17 @@
+{
+  "id": "60502",
+  "score_overall": 3.0,
+  "score_lokacija": 2.0,
+  "score_roi": 4.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Viljevo je ruralna Slavonija s izrazitim depopulacijskim trendom i gotovo nultom potražnjom za komercijalnim objektima; 'čarda' kao tip nekretnine nema jasnu exit strategiju niti konverzijski potencijal koji bi opravdao ulaganje.",
+  "flags": [
+    "Slavonija - depopulacijsko područje",
+    "komercijalni objekt tipa čarda - niska prenamjenska likvidnost",
+    "prva dražba, samo 20% popusta",
+    "kompleks 5 zgrada - visoki troškovi održavanja/renovacije"
+  ],
+  "input_hash": "6a2b6e9c1473",
+  "scored_at": "2026-06-08T10:49:20.842480"
+}

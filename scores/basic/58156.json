@@ -1,0 +1,17 @@
+{
+  "id": "58156",
+  "score_overall": 2.0,
+  "score_lokacija": 1.5,
+  "score_roi": 3.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Gotovo 21.000 m2 oranice u Plaškom (Lika) za 6.800 EUR zvuči jeftino, ali Lika je demografski kolaps zona bez tržišta nekretnina i bez ikakve perspektive za dugoročnu kapitalnu aprecijaciju ili rentabilno korištenje.",
+  "flags": [
+    "Plaški/Lika - jedna od najdepopuliranijih zona Hrvatske",
+    "samo oranica bez ikakvih objekata",
+    "minimalna do nulta tržišna likvidnost",
+    "50% popust indicira da nema interesa tržišta"
+  ],
+  "input_hash": "e92c1bafa4c2",
+  "scored_at": "2026-06-08T10:49:20.843183"
+}

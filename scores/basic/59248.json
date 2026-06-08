@@ -1,0 +1,17 @@
+{
+  "id": "59248",
+  "score_overall": 2.0,
+  "score_lokacija": 1.5,
+  "score_roi": 4.0,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Mala kuća od 57m2 s ruševinom u ruralnoj Slavoniji blizu Vinkovaca nema investicijski potencijal koji bi opravdao čak i nisku apsolutnu cijenu od ~9k EUR, uzimajući u obzir troškove sanacije i nultu tržišnu potražnju.",
+  "flags": [
+    "ruševina na parceli",
+    "kuća 57m2 - preveliki troškovi renovacije vs. tržišna vrijednost",
+    "Slavonija ruralno - ekstremno depopulacijsko područje",
+    "Podgrađe Nova - minimalna potražnja"
+  ],
+  "input_hash": "93cf26fa0877",
+  "scored_at": "2026-06-08T10:49:20.843081"
+}

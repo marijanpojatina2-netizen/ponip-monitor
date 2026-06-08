@@ -1,0 +1,16 @@
+{
+  "id": "60555",
+  "score_overall": 3.5,
+  "score_lokacija": 3.5,
+  "score_roi": 4.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Stambena kuća s garažom u Virovitici je useljiva i ima smislenu namjenu, ali samo 20% popusta na prvoj dražbi u gradu s ograničenom potražnjom ne daje dovoljnu zaštitnu maržu za investitora.",
+  "flags": [
+    "Virovitica - malo slavonsko tržište, niska likvidnost",
+    "prva dražba - očekivati nižu cijenu na kasnijim dražbama",
+    "bez podataka o stanju unutrašnjosti"
+  ],
+  "input_hash": "54113a7bbe62",
+  "scored_at": "2026-06-08T10:49:20.842867"
+}
