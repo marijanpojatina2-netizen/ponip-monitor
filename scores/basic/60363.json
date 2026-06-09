@@ -1,0 +1,16 @@
+{
+  "id": "60363",
+  "score_overall": 5.5,
+  "score_lokacija": 8.5,
+  "score_roi": 5.0,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Hvar (Stari Grad) je vrhunska turistička lokacija koja opravdava visoku lokacijsku ocjenu, ali sve tri parcele su van građevinskog područja IV. kategorije što zabranjuje izgradnju pod trenutnim zoniranjem; suvlasnički udio 1/2 na jednoj i 18/19 na drugoj parceli unosi pravnu kompleksnost koja zahtijeva detaljnu due diligence prije ulaska.",
+  "flags": [
+    "van građevinskog područja - nije gradivo pod trenutnim GUP/PPUG",
+    "suvlasnički udio 18/19 (šuma) i 1/2 (pašnjak) - preostali suvlasnici ostaju",
+    "kategorija IV zemljišta - ograničena namjena korištenja"
+  ],
+  "input_hash": "8f92d78019c8",
+  "scored_at": "2026-06-09T09:40:48.017553"
+}

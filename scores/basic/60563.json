@@ -1,0 +1,16 @@
+{
+  "id": "60563",
+  "score_overall": 4.5,
+  "score_lokacija": 3.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Suvlasnički stan 66m2 u k.o. Jertovec (karlovačka okolica) s 25% popustom na prvoj dražbi — umjeren potencijal, ali periferijska lokacija s ograničenom likvidnošću umanjuje atraktivnost. Suvlasnička struktura (1244/10000) i etažno vlasništvo zahtijevaju provjeru suvlasničkih odnosa i stanja zgrade.",
+  "flags": [
+    "suvlasnički udio — potrebna provjera suvlasničkih odnosa",
+    "k.o. Jertovec — ruralna periferija Karlovca, slabija likvidnost",
+    "prva dražba — nema bonusa za popust"
+  ],
+  "input_hash": "85778dd006d1",
+  "scored_at": "2026-06-09T09:41:06.046199"
+}

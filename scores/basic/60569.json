@@ -1,0 +1,15 @@
+{
+  "id": "60569",
+  "score_overall": 3.5,
+  "score_lokacija": 3.0,
+  "score_roi": 4.0,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Mješovita parcela (livada + kuća + dvorište, 734 m²) u Veleškovcu pokraj Karlovca uz 25% popust na prvoj dražbi ne nudi dovoljan risk/reward profil za investitora; seoska lokacija s niskom likvidnošću i mješovitom namjenom ne opravdava angažman kapitala.",
+  "flags": [
+    "ruralna lokacija - nizak likviditet Karlovac okolica",
+    "mješovita namjena parcele (livada + kuća) otežava jednostavnu procjenu i marketing"
+  ],
+  "input_hash": "11dd451eb43e",
+  "scored_at": "2026-06-09T09:40:48.018237"
+}

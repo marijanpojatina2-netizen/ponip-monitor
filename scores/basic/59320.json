@@ -1,0 +1,15 @@
+{
+  "id": "59320",
+  "score_overall": 3.5,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Drugi krug s 40% popustom i kombinacija oba suvlasnička udjela (61/100 + 39/100 = puno vlasništvo) su pozitivni faktori, ali Županja je depopulacijsko područje s praktički nepostojećim sekundarnim tržištem nekretnina što čini exit strategiju neostvarivom.",
+  "flags": [
+    "depopulacijska zona - Županja, Slavonija uz granicu BiH",
+    "minimalna tržišna likvidnost - dugoročno 'zaglavljeni' kapital"
+  ],
+  "input_hash": "a1933615072e",
+  "scored_at": "2026-06-09T09:40:48.017854"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "60579",
+  "score_overall": 4.5,
+  "score_lokacija": 7.0,
+  "score_roi": 4.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Zagreb lokacija je načelno pozitivna, ali naziv katastarske čestice 'KANALSKI PUT I. ODVOJAK' snažno implicira prometnu ili infrastrukturnu namjenu koja bi onemogućila svaki privatni razvoj; 25% popust na prvoj dražbi daleko je premala premija za ovakav rizik namjene.",
+  "flags": [
+    "naziv 'KANALSKI PUT' - visoka vjerojatnost prometne/javne namjene čestice",
+    "obavezna provjera DPU/UPU namjene i ZK tereta prije bilo kakve ponude",
+    "mala parcela 185 m² s nejasnim građevinskim potencijalom"
+  ],
+  "input_hash": "819fa8161c0a",
+  "scored_at": "2026-06-09T09:40:48.017753"
+}

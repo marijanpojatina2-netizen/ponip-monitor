@@ -1,0 +1,17 @@
+{
+  "id": "59085",
+  "score_overall": 2.5,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Pašnjak 10.477m2 u istoj k.o. Živaja kao prethodni lot — isti problemi s lokacijom i namjenom, 50% popust ne kompenzira strukturalnu neatraktivnost investicije. Jedina potencijalna sinergija je kombinirana kupnja s ID 59081 radi veće parcele, ali ni to ne mijenja temeljni investicijski case.",
+  "flags": [
+    "pašnjak — poljoprivredna namjena, ograničena prenamjena",
+    "k.o. Živaja — ruralno, depopulacijsko područje",
+    "minimalna tržišna likvidnost",
+    "sinergija samo uz ID 59081"
+  ],
+  "input_hash": "151fea72825a",
+  "scored_at": "2026-06-09T09:41:06.046539"
+}
