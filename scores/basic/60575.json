@@ -1,0 +1,16 @@
+{
+  "id": "60575",
+  "score_overall": 4.0,
+  "score_lokacija": 4.0,
+  "score_roi": 3.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Kuća s dvorištem 162 m2 i oranicom 334 m2 u Đakovu na centralnoj adresi — Slavonija s jasnim depopulacijskim trendom i ograničenom potražnjom čini investicijski case slabim, a popust 20% na prvoj dražbi ne otvara dovoljnu maržu za rizike rekonstrukcije i buduće prodaje. Isključivo za kupce koji traže stan za stanovanje, ne za investitore.",
+  "flags": [
+    "Slavonija — depopulacijski trend, slabiji investicijski market",
+    "mali stambeni objekt uz oranicu bez razvijenog narativa",
+    "20% popust na prvoj dražbi — nema margine sigurnosti"
+  ],
+  "input_hash": "71b4318b389d",
+  "scored_at": "2026-06-10T09:55:18.922014"
+}
