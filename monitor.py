@@ -352,6 +352,14 @@ def score_badge_html(score_overall: float | None) -> str:
     )
 
 
+def ai_score(r: dict) -> float:
+    """AI ocjena za sortiranje; 0 ako nije scoreano ili je keš neispravan."""
+    try:
+        return float((r.get("score") or {}).get("score_overall") or 0)
+    except (TypeError, ValueError):
+        return 0.0
+
+
 def build_email_html(new_items: list[dict], urgent_items: list[dict], meta: dict, public_url: str | None) -> str:
     def render_rows(items):
         rows = []
@@ -642,13 +650,10 @@ def main():
 
     new_records = [r for r in records if r["nova"]]
     urgent_records = [r for r in records if r["urgent"]]
-    urgent_records.sort(key=lambda r: r["rokJamcevina"] or "")
-    new_records.sort(
-        key=lambda r: (
-            -((r.get("score") or {}).get("score_overall") or 0),
-            r["pocetakNadm"] or "9999",
-        )
-    )
+    # Email: obje sekcije po AI ocjeni (najbolja prva); tiebreaker za hitne
+    # je rok jamčevine, za nove početak nadmetanja
+    urgent_records.sort(key=lambda r: (-ai_score(r), r["rokJamcevina"] or "9999"))
+    new_records.sort(key=lambda r: (-ai_score(r), r["pocetakNadm"] or "9999"))
 
     meta = {
         "generated_at": datetime.now().isoformat(),
