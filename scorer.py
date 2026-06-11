@@ -17,6 +17,7 @@ import json
 import hashlib
 import logging
 import os
+import re
 from pathlib import Path
 from datetime import datetime
 
@@ -33,6 +34,79 @@ DETAILED_THRESHOLD_EUR = 500_000
 CLAUDE_BIN = os.environ.get("CLAUDE_BIN", "claude")
 CLAUDE_TIMEOUT_BASIC = 300
 CLAUDE_TIMEOUT_DETAILED = 600
+
+
+# ============================================================================
+# DETERMINISTIČKA UKUPNA OCJENA
+# ============================================================================
+# score_overall se NE uzima od modela nego se računa iz pod-ocjena — model
+# nema stabilnu internu skalu pa agregat varira između batcheva; pod-ocjene
+# imaju definirane rubrike u promptu i puno su konzistentnije.
+#
+# Investicijsko obrazloženje pondera (dražba = discount-buying igra):
+#   ROI      0.45  popust od tržišne vrijednosti je jedini "edge" koji dražba
+#                  nudi; bez njega nema razloga preuzimati rizik postupka
+#   LOKACIJA 0.35  određuje likvidnost izlaza i strop vrijednosti; jedino
+#                  što se kapitalom ne može popraviti
+#   STANJE   0.20  popravljivo kapitalom — trošak, ne strukturna mana
+#
+# Pravni flagovi umanjuju očekivanu vrijednost pa korigiraju ukupnu ocjenu.
+# "osoba stanuje" je ODLUKA KORISNIKA: samo informativan flag, penal 0.
+
+WEIGHTS = {"score_roi": 0.45, "score_lokacija": 0.35, "score_stanje": 0.20}
+
+FLAG_PENALTIES = [
+    (re.compile(r"sporn", re.I), -1.5),            # sporno vlasništvo
+    (re.compile(r"ne\s+prestaj", re.I), -1.0),     # prava koja ne prestaju prodajom
+    (re.compile(r"zakup|najam|najmu", re.I), -0.5),  # u zakupu / u najmu
+    (re.compile(r"stanuje|stanar|useljen", re.I), 0.0),  # osoba stanuje — bez utjecaja
+]
+
+VALID_RECOMMENDATIONS = {"pass", "watch", "bid", "deep_dive"}
+
+
+def _to_float(v, lo: float = 0.0, hi: float = 10.0) -> float | None:
+    try:
+        f = float(v)
+    except (TypeError, ValueError):
+        return None
+    return max(lo, min(hi, f))
+
+
+def flag_penalty(flags: list[str]) -> float:
+    """Zbroj penala — svaka kategorija rizika broji se najviše jednom."""
+    return sum(
+        pen for rx, pen in FLAG_PENALTIES if any(rx.search(f) for f in flags)
+    )
+
+
+def compute_overall(score: dict) -> float | None:
+    subs = {k: _to_float(score.get(k)) for k in WEIGHTS}
+    if any(v is None for v in subs.values()):
+        # Bez kompletnih pod-ocjena ne možemo računati — zadrži modelov agregat
+        return _to_float(score.get("score_overall"))
+    raw = sum(WEIGHTS[k] * subs[k] for k in WEIGHTS)
+    raw += flag_penalty(score.get("flags") or [])
+    return round(max(0.0, min(10.0, raw)), 1)
+
+
+def normalize_score(score: dict) -> dict:
+    """
+    Očisti AI output prije keširanja/prikaza: koerciraj brojeve, validiraj
+    recommendation, normaliziraj flags, pa izračunaj deterministički overall.
+    Primjenjuje se i pri ČITANJU keša → stare ocjene se retroaktivno
+    preračunaju po aktualnim ponderima bez novih AI poziva.
+    """
+    for k in WEIGHTS:
+        score[k] = _to_float(score.get(k))
+    flags = score.get("flags")
+    if isinstance(flags, str):
+        flags = [flags]
+    score["flags"] = [str(f) for f in flags] if isinstance(flags, list) else []
+    rec = str(score.get("recommendation") or "").strip().lower()
+    score["recommendation"] = rec if rec in VALID_RECOMMENDATIONS else "watch"
+    score["score_overall"] = compute_overall(score)
+    return score
 
 
 # ============================================================================
@@ -57,12 +131,14 @@ def load_cached(id_: str, detailed: bool) -> dict | None:
     if not path.exists():
         return None
     try:
-        return json.loads(path.read_text(encoding="utf-8"))
+        data = json.loads(path.read_text(encoding="utf-8"))
     except (json.JSONDecodeError, OSError):
         return None
+    return normalize_score(data) if isinstance(data, dict) else None
 
 
 def save_score(record: dict, score: dict, detailed: bool):
+    normalize_score(score)
     score["input_hash"] = input_hash(record)
     score["scored_at"] = datetime.now().isoformat()
     path = detailed_path(record["id"]) if detailed else basic_path(record["id"])
@@ -196,7 +272,8 @@ Procjenjuješ nekretnine iz javnih dražbi FINA za investitora.
 
 KRITERIJI (svi 0-10, decimale .5 dozvoljene):
 
-1. LOKACIJA:
+1. LOKACIJA (čitaj je iz OPISA — adresa, katastarska općina, mjesto;
+   sud označava samo nadležnost i NIJE nužno mjesto nekretnine):
    - 8-10: tražena turistička zona (Istra obala, otoci, Dubrovnik, Hvar, Brač)
    - 6-8: veći gradovi (Zagreb, Split, Rijeka, Zadar centar)
    - 4-6: manji gradovi, periferije velikih gradova
@@ -214,12 +291,18 @@ KRITERIJI (svi 0-10, decimale .5 dozvoljene):
    - 2-4: za temeljito renoviranje, ruševno
    - 1-3: neuseljivo, nerealizirani objekti
 
-4. FLAGS (kratki opisi red flag-ova, ako postoje):
+4. FLAGS (kratke oznake rizika; koristi TOČNO ove kanonske nazive kad rizik
+   postoji u opisu):
+   - "osoba stanuje" (u nekretnini netko živi/stanuje)
    - "u zakupu / u najmu"
-   - "osoba stanuje"
    - "prava koja ne prestaju prodajom"
    - "sporno vlasništvo"
-   - specifični rizici iz opisa
+   - ostale specifične rizike imenuj kratko svojim riječima
+
+VAŽNO: pod-ocjene (lokacija/roi/stanje) daj čisto po gornjim kriterijima.
+Pravne rizike i useljenost NE uračunavaj u pod-ocjene — iskaži ih isključivo
+kroz flags; sustav ih obrađuje zasebno. score_overall svejedno vrati, ali
+ukupnu ocjenu sustav računa deterministički izvan modela.
 
 RECOMMENDATION: "pass" | "watch" | "bid" | "deep_dive"
 - pass: slab investicijski case

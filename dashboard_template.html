@@ -303,6 +303,9 @@ function render() {
          <div class="rec-${r.recommendation} text-[10px] font-semibold uppercase mt-1">${r.recommendation || ""}</div>`
       : `<span class="text-gray-300 text-xs">—</span>`;
     const reasoning = r.score?.reasoning ? `<div class="text-xs text-gray-600 italic mt-1">AI: ${escapeHtml(r.score.reasoning)}</div>` : "";
+    const flagPills = r.score?.flags?.length
+      ? `<div class="flex gap-1 flex-wrap mt-1">${r.score.flags.slice(0, 4).map(f => `<span class="px-1.5 py-0.5 text-[10px] bg-rose-100 text-rose-900 rounded-full">${escapeHtml(f)}</span>`).join("")}</div>`
+      : "";
     const opis = escapeHtml(r.opis || "");
     const opisShort = opis.length > 180 ? opis.substring(0, 180) + "…" : opis;
 
@@ -314,7 +317,7 @@ function render() {
           <div class="font-medium">${escapeHtml(r.zupanija)}</div>
           <div class="text-xs text-gray-500 mt-0.5">${escapeHtml(r.sud)}</div>
         </td>
-        <td class="px-3 py-3 align-top text-gray-700 max-w-[320px]">${opisShort}${reasoning}</td>
+        <td class="px-3 py-3 align-top text-gray-700 max-w-[320px]">${opisShort}${reasoning}${flagPills}</td>
         <td class="px-3 py-3 align-top text-right text-gray-600">${fmtEUR(r.vrijednost)}</td>
         <td class="px-3 py-3 align-top text-right font-medium">${fmtEUR(r.pocetna)}</td>
         <td class="px-3 py-3 align-top text-right">${fmtEUR(r.jamcevina)}</td>
@@ -341,7 +344,7 @@ window.toggleRow = function (tr, id) {
   const aiSection = s ? `
     <div class="md:col-span-2 mb-3 p-3 bg-violet-50 border border-violet-200 rounded-lg">
       <div class="flex items-baseline gap-3 mb-2">
-        <span class="inline-block px-2 py-0.5 text-sm font-bold rounded ${scoreClass(s.score_overall)}">${s.score_overall.toFixed(1)}</span>
+        <span class="inline-block px-2 py-0.5 text-sm font-bold rounded ${scoreClass(s.score_overall)}">${s.score_overall != null ? s.score_overall.toFixed(1) : "—"}</span>
         <span class="rec-${s.recommendation} text-xs font-bold uppercase">${s.recommendation}</span>
       </div>
       <div class="grid grid-cols-3 gap-2 text-xs mb-2">

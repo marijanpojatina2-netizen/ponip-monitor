@@ -388,6 +388,11 @@ def build_email_html(new_items: list[dict], urgent_items: list[dict], meta: dict
                 f'<div style="color:#4b5563;font-size:11px;font-style:italic;margin-top:4px;">'
                 f'AI: {reasoning}</div>' if reasoning else ""
             )
+            flags = (score.get("flags") or [])[:4] if score else []
+            flags_html = (
+                f'<div style="color:#9f1239;font-size:11px;margin-top:3px;">'
+                f'&#9873; {" &middot; ".join(flags)}</div>' if flags else ""
+            )
             rows.append(f"""
 <tr style="border-bottom:1px solid #eee;">
   <td style="padding:10px 8px;vertical-align:top;">
@@ -402,6 +407,7 @@ def build_email_html(new_items: list[dict], urgent_items: list[dict], meta: dict
   <td style="padding:10px 8px;vertical-align:top;font-size:12px;max-width:300px;">
     {opis_short}
     {reasoning_html}
+    {flags_html}
   </td>
   <td style="padding:10px 8px;vertical-align:top;text-align:right;font-size:12px;white-space:nowrap;">
     <div style="font-weight:600;">{fmt_eur(r["pocetna"])}</div>
