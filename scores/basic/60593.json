@@ -1,0 +1,16 @@
+{
+  "id": "60593",
+  "score_overall": 3.0,
+  "score_lokacija": 3.5,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Samo 1/2 suvlasničkog udjela ruralne kuće u Prekopi kod Čakovca - investitor ne dobiva kontrolu nad nekretninom, a ruralno međimursko tržište je nelikvidno; izlaz iz investicije bez suglasnosti suvlasnika praktički je nemoguć.",
+  "flags": [
+    "samo 1/2 suvlasnički udio - bez kontrole, bez autonomne prodaje",
+    "ruralno Međimurje - niska potražnja i likvidnost",
+    "suradnja s drugim suvlasnikom uvjet za svaki korak"
+  ],
+  "input_hash": "910cfb03bb45",
+  "scored_at": "2026-06-11T10:21:11.265996"
+}

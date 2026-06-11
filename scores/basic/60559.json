@@ -1,0 +1,15 @@
+{
+  "id": "60559",
+  "score_overall": 3.5,
+  "score_lokacija": 4.0,
+  "score_roi": 4.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Čisto poljoprivredno zemljište (oranica) 1592m2 kod Dugog Sela bez ikakvog objekta - spekulativni potencijal prenamjene je nizak bez provjere prostornog plana; 20% popust na prvoj dražbi nije privlačan za ovakvu vrstu aktivne.",
+  "flags": [
+    "samo oranica - nema objekta ni komunalne infrastrukture",
+    "nužna provjera namjene u prostornom planu Općine Dugo Selo"
+  ],
+  "input_hash": "f5b5feb3cbb5",
+  "scored_at": "2026-06-11T10:21:11.265920"
+}

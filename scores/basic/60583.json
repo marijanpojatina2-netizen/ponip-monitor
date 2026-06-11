@@ -1,0 +1,15 @@
+{
+  "id": "60583",
+  "score_overall": 4.0,
+  "score_lokacija": 3.0,
+  "score_roi": 4.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Slavonski Brod / Brodski Varoš je depopulacijsko područje s kronično niskom likvidnošću nekretnina; 20% popust na prvoj dražbi nije dovoljan kompenzator za strukturne probleme tržišta i nejasnu exit strategiju za kuću 704m2.",
+  "flags": [
+    "Slavonija - depopulacija i niska likvidnost tržišta",
+    "Brodski Varoš - manje atraktivna mikrolokalnost unutar Broda"
+  ],
+  "input_hash": "18494b6d6f70",
+  "scored_at": "2026-06-11T10:21:11.265748"
+}

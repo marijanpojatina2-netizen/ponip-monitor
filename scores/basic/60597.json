@@ -1,0 +1,17 @@
+{
+  "id": "60597",
+  "score_overall": 1.5,
+  "score_lokacija": 2.5,
+  "score_roi": 2.0,
+  "score_stanje": 1.5,
+  "recommendation": "pass",
+  "reasoning": "Parcela šume od 150 čhv (cca 540 m²) u suvlasništvu 3/8 dijela u k.o. Dragoslavec kod Čakovca – ruralno područje s minimalnom tržišnom likvidnošću i gotovo beznačajnom vrijednošću od 265 EUR. Suvlasnički udio na šumskoj čestici praktički je nemonetizabilan bez suglasnosti ostalih suvlasnika, bez potencijala prihoda ni rasta vrijednosti.",
+  "flags": [
+    "suvlasnički udio (3/8) – otežana raspolaganja bez suglasnosti ostalih",
+    "šumsko zemljište – ograničena namjena i zabrana gradnje",
+    "izuzetno mala tržišna vrijednost (265 EUR) – visoki relativni transakcijski troškovi",
+    "ruralna lokacija bez razvojnog potencijala"
+  ],
+  "input_hash": "567933c050a8",
+  "scored_at": "2026-06-11T10:21:20.054957"
+}

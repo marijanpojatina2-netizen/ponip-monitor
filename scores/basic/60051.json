@@ -1,0 +1,16 @@
+{
+  "id": "60051",
+  "score_overall": 6.0,
+  "score_lokacija": 7.0,
+  "score_roi": 5.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća 169m2 u Zagrebu s 20% popustom nudi dobru lokacijsku osnovu i likvidnost; međutim, ovrhovoditelj drži 6/8 vlasništva što je iznimno neobična struktura koja zahtijeva detaljnu pravnu analizu prije bilo kakve odluke.",
+  "flags": [
+    "ovrhovoditelj vlasnik 6/8 dijela - atipična i rizična struktura",
+    "nejasno što se točno prodaje i tko dobiva prihod",
+    "obvezna pravna due diligence oko suvlasničke diobe"
+  ],
+  "input_hash": "410aface6fe2",
+  "scored_at": "2026-06-11T10:21:11.265844"
+}

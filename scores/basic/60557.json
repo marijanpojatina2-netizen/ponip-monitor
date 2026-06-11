@@ -1,0 +1,16 @@
+{
+  "id": "60557",
+  "score_overall": 3.0,
+  "score_lokacija": 4.0,
+  "score_roi": 3.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica 1036m2 u Hrebinecu kod Dugog Sela za početnih 12.960 EUR - samo zemlja bez objekta u perifernoj zagrebačkoj zoni, predraga za veličinu bez jasnih građevinskih prava; provjera prostornog plana obvezna ali rezultat vjerojatno ne opravdava ulaganje.",
+  "flags": [
+    "samo oranica bez objekta - nema prihodovnog potencijala",
+    "mala parcela bez razvojnog potencijala",
+    "provjera GUP/PPUO obvezna"
+  ],
+  "input_hash": "576c21e14a33",
+  "scored_at": "2026-06-11T10:21:11.266138"
+}

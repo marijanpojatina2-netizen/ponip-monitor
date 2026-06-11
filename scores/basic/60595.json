@@ -1,0 +1,15 @@
+{
+  "id": "60595",
+  "score_overall": 3.5,
+  "score_lokacija": 3.0,
+  "score_roi": 3.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Mješovito ruralno imanje u selu Dragoslavec (šuma, oranica, livada, kuća) ukupno ~1ha - interesantna veličina ali bez turističkog ili komercijalnog potencijala u ovoj ruralnoj zoni; 20% popust na svega 20.765 EUR je apsolutan minimum za ovakvu kategoriju.",
+  "flags": [
+    "selo bez turističkog potencijala - Međimurje ruralno",
+    "mješovita namjena parcela komplicira upravljanje i prodaju"
+  ],
+  "input_hash": "718100559efe",
+  "scored_at": "2026-06-11T10:21:11.266070"
+}
