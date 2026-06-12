@@ -1,0 +1,14 @@
+{
+  "id": "59342",
+  "score_overall": 5.2,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "40% popust i druga dražba za kuću s dvorištem 765 m2 u centru Vinkovaca privlačno izgledaju na papiru, ali suvlasništvo zahtijeva hitnu provjeru koji se udio točno prodaje i postoji li suglasnost ostalih suvlasnika. Slavonija ima nisku likvidnost pa exit strategija mora biti razrađena unaprijed.",
+  "flags": [
+    "suvlasništvo"
+  ],
+  "input_hash": "e867c15c5348",
+  "scored_at": "2026-06-12T10:08:18.928961"
+}

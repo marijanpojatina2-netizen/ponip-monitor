@@ -1,0 +1,12 @@
+{
+  "id": "59326",
+  "score_overall": 3.6,
+  "score_lokacija": 2.0,
+  "score_roi": 5.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica 690 m² na istoj adresi kao ID 59328 — identičan investicijski profil, minimalna vrijednost i tržišna likvidnost bliska nuli. Jedino scenarij konsolidacije više parcela istog područja daje blagi smisao.",
+  "flags": [],
+  "input_hash": "60ea88d1fbd6",
+  "scored_at": "2026-06-12T10:08:32.573094"
+}

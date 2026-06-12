@@ -1,0 +1,14 @@
+{
+  "id": "59262",
+  "score_overall": 5.8,
+  "score_lokacija": 4.5,
+  "score_roi": 7.5,
+  "score_stanje": 4.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Golemi industrijski kompleks (5000+ m2 hala, 9679 m2 dvorišta) uz 40% popust i drugu dražbu — potencijal za repurposing ili nastavak industrijske namjene je značajan. Investicija iznad 2M EUR zahtijeva specijalističku procjenu tehničkog stanja infrastrukture i elaborat preunamjene prije bilo kakvog koraka.",
+  "flags": [
+    "industrijska namjena"
+  ],
+  "input_hash": "decdb949632e",
+  "scored_at": "2026-06-12T10:08:18.928454"
+}

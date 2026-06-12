@@ -1,0 +1,14 @@
+{
+  "id": "60616",
+  "score_overall": 3.1,
+  "score_lokacija": 2.5,
+  "score_roi": 3.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Petrinja je pogođena potresom 2020. s masovnim iseljavanjem i gotovo zamrznutim tržištem nekretnina — 25% popust ne kompenzira strukturni rizik nepoznatog stanja objekata i praktičnu nelikvidnost regije. Bez demografskog oporavka nema temelja ni za najam ni za preprodaju.",
+  "flags": [
+    "potresno područje"
+  ],
+  "input_hash": "1db170405eb4",
+  "scored_at": "2026-06-12T10:08:18.929257"
+}
