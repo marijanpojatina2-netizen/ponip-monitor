@@ -1,0 +1,56 @@
+{
+  "id": "59430",
+  "score_overall": 6.6,
+  "score_lokacija": 6.0,
+  "score_roi": 8.0,
+  "score_stanje": 4.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Poslovna zgrada od 1.572 m² s dvorištem 1.236 m² u k.o. Varaždin (ukupna parcela 2.808 m²) po nabavnoj cijeni od ~331 EUR/m² poslovnog prostora — znatno ispod tržišnih razina za taj grad. Varaždin je stabilan regionalni centar s aktivnim industrijskim i poslovnim sektorom (blizina auto-ceste A4, razvijena SME baza), ali likvidnost za komercijalne objekte te veličine je umjerena. Opis iz dražbenog dokumenta ne otkriva stanje zgrade ni eventualne terete, što je ključni rizik koji se mora razriješiti razgledavanjem i provjera ulaganja. Kombinacija 50% popusta, druge dražbe i potencijala dvorišta za razvoj opravdava detaljnu analizu.",
+  "flags": [
+    "stečajni postupak — moguće zaostale obveze (komunalije, porezi, hipoteke)",
+    "nepoznato stanje objekta — opis ne navodi uvjete"
+  ],
+  "market_estimate": {
+    "eur_min": 700000,
+    "eur_max": 1250000,
+    "confidence": "medium",
+    "basis": "Poslovne zgrade u Varaždinu (ured/maloprodaja) postižu 500–800 EUR/m² u solidnom stanju; industrijski/skladišni objekti 300–500 EUR/m². Za 1.572 m² u uredskom standardu raspon je 785k–1.26M EUR, što potvrđuje procjenu 1.04M EUR. Donji rub uzima u obzir mogućnost da je objekt bliži industrijskom tipu i zahtijeva rekonstrukciju. Tržišnih podataka za Kućansku ulicu specifično nije bilo moguće pribaviti u realnom vremenu (web pretraga bila nedostupna)."
+  },
+  "comparables": [
+    {
+      "opis": "Kategorija — poslovni prostori prodaja Varaždin (tržišni pregled, nije specifičan oglas)",
+      "cijena": null,
+      "m2": null,
+      "izvor": "njuskalo.hr",
+      "url": "https://www.njuskalo.hr/poslovni-prostori-prodaja/varazdin"
+    },
+    {
+      "opis": "Kategorija — poslovni objekti prodaja Varaždin (pregled aktivnih oglasa)",
+      "cijena": null,
+      "m2": null,
+      "izvor": "nekretnine.net",
+      "url": "https://www.nekretnine.net/stambeni-objekti/prodaja/varazdinsk"
+    },
+    {
+      "opis": "Kategorija — poslovni prostori prodaja, Varaždinsk. županija (pregled tržišta)",
+      "cijena": null,
+      "m2": null,
+      "izvor": "index.hr oglasi",
+      "url": "https://www.index.hr/oglasi/kategorija/poslovni-prostori/prodaja"
+    }
+  ],
+  "investment_strategy": "Primarna: komercijalni zakup — 1.572 m² poslovnog prostora može privući distribucijskog, maloprodajnog ili uredskog korisnika po 5–8 EUR/m²/mj → godišnji prihod 94k–151k EUR (gross yield 18–29% na nabavnu cijenu 520k EUR). Sekundarna: razvoj dvorišta — 1.236 m² dvorišta u k.o. Varaždin nudi potencijal dogradnje ili parkirne infrastrukture uz plaćanje urbanističkih uvjeta. Reno-flip kao treća opcija ako je zgrada zastarjela: ul. investicija 150–300k EUR, ciljana prodajna cijena 900k–1.1M EUR u 18–24 mj.",
+  "entry_price_eur": 650000,
+  "detailed_risks": [
+    "Nepoznato stanje zgrade — bez tehničkog pregleda nemoguće procijeniti trošak sanacije; stečajni objekti često zanemareni",
+    "Zaostale obveze iz stečajnog postupka (komunalni dugovi, porezni tereti, hipoteke) — obavezna provjera ZK uloška 14794 i javnih evidencija",
+    "Komercijalne nekretnine >1.000 m² u Varaždinu imaju uži krug potencijalnih kupaca/stanara nego stambene — duži izlazni period",
+    "Prometna i zonska provjera Kućanske ulice neophodna (dostupnost HGV vozilima, pješačka zona, udaljenost od centra)",
+    "Visoka jamčevina od 104.000 EUR zahtijeva solidnu likvidnost; neuspjeh na dražbi znači gubitak vremena bez povrata troška due diligence",
+    "Urbanistički plan za dvorište (1.236 m²) — provjera dozvoljenosti dogradnje ili prenamjene"
+  ],
+  "upside_scenario": "Zgrada je u solidnom stanju (uredska ili maloprodajna namjena), odmah useljiva. Pronalazak dugoročnog stanara u roku 3–6 mj po 6,5 EUR/m²/mj → ~122k EUR/god → povrat investicije <5 godina. Alternativno, preprodaja nakon minimalne uređenosti (trošak <80k EUR) za 950k–1.1M EUR unutar 12–18 mj = realizirani profit 330k–480k EUR. Razvoj dvorišta dodaje 100k–200k EUR vrijednosti.",
+  "downside_scenario": "Zgrada je u lošem stanju i zahtijeva rekonstrukciju 300k+ EUR; tržište stanara sporo u Varaždinu za tu veličinu; vezani kapital >3 god; konačni ROI pada ispod 8% godišnje, što ne opravdava rizik i imobilizaciju 620k+ EUR kapitala. Ako se ne pronađe stanar, prinosi su 0 uz tekuće troškove.",
+  "input_hash": "3a0212a7c392",
+  "scored_at": "2026-06-15T12:13:30.868690"
+}

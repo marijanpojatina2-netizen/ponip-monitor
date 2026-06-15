@@ -1,0 +1,14 @@
+{
+  "id": "60577",
+  "score_overall": 2.4,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Poljoprivredno zemljište i stambeni objekti u k.o. Pračno (ruralna Sisačka županija) uz tek 20% popusta i suvlasničku strukturu 4 osobe — slaba likvidnost, kompleksna izvršba. Suvlasnička struktura otežava realizaciju.",
+  "flags": [
+    "sporno vlasništvo"
+  ],
+  "input_hash": "2ea6d53cf3b5",
+  "scored_at": "2026-06-15T11:58:47.913848"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "60626",
+  "score_overall": 1.9,
+  "score_lokacija": 2.5,
+  "score_roi": 3.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Kuća 95 m2 s dvorištem u Gašincima (ruralna Osječko-baranjska županija, Đakovo) na tek 20% popusta i suvlasništvo 4 ovršenika — depopulacijsko područje bez investicijskog potencijala. Suvlasnička struktura dodatno komplicira provedbu.",
+  "flags": [
+    "sporno vlasništvo"
+  ],
+  "input_hash": "fd0cd98ef5c9",
+  "scored_at": "2026-06-15T11:58:47.914120"
+}

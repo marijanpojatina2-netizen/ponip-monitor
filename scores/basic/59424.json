@@ -1,0 +1,12 @@
+{
+  "id": "59424",
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Čestica u k.o. Kostreši Šaški (Sisak) — depopulacijsko, ekonomski slabije područje Sisačko-moslavačke županije s gotovo nepostojećim sekundarnim tržištem za kućišta i oranice; 'kućište' sugerira bivšu stambenu namjenu ali bez ažurne infrastrukture i dokumentacije nema provjeritvog upside-a. Popust 40% ne kompenzira strukturnu slabost lokacije.",
+  "flags": [],
+  "input_hash": "3aeb8a907f9e",
+  "scored_at": "2026-06-15T12:01:35.810487"
+}
