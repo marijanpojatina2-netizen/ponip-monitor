@@ -9,219 +9,172 @@
 <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Caveat:wght@500;600;700&display=swap" rel="stylesheet">
 <style>
   :root{
-    --board:#f3f4ee;
-    --board-edge:#3a3f4b;
-    --tray:#caa472;
-    --tray-dark:#a07e52;
-    --ink:#1f2733;
+    --ink:#222b36;
     --blue:#1c6dd0;
     --red:#d23a3a;
     --green:#1f8a4c;
     --orange:#e07b1a;
     --purple:#7c3aed;
-    --marker:'Permanent Marker', 'Comic Sans MS', cursive;
-    --hand:'Caveat', 'Comic Sans MS', cursive;
+    --marker:'Permanent Marker','Comic Sans MS',cursive;
+    --hand:'Caveat','Comic Sans MS',cursive;
   }
   *{box-sizing:border-box;}
   html,body{margin:0;padding:0;}
   body{
     font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
     background:
-      radial-gradient(circle at 20% 0%, #5b6472 0%, transparent 55%),
-      radial-gradient(circle at 90% 100%, #2b313c 0%, transparent 60%),
-      linear-gradient(135deg,#454c59,#2f343d);
-    min-height:100vh;
-    padding:28px 18px 60px;
-    color:var(--ink);
+      radial-gradient(circle at 18% -5%, #6b7686 0%, transparent 50%),
+      radial-gradient(circle at 95% 110%, #20252e 0%, transparent 55%),
+      linear-gradient(135deg,#3c424d,#23272f);
+    min-height:100vh;padding:26px 14px 70px;color:var(--ink);
   }
+  .page-head{max-width:1180px;margin:0 auto 16px;text-align:center;color:#f1ede3;}
+  .page-head h1{font-family:var(--marker);font-size:clamp(24px,4vw,40px);margin:0;letter-spacing:.5px;text-shadow:0 2px 6px rgba(0,0,0,.5);}
+  .page-head p{font-family:var(--hand);font-size:clamp(15px,2vw,21px);margin:3px 0 0;opacity:.85;}
 
-  /* ---------- Title above board ---------- */
-  .page-head{max-width:1500px;margin:0 auto 18px;text-align:center;color:#f4f1e9;}
-  .page-head h1{
-    font-family:var(--marker);
-    font-size:clamp(26px,4vw,44px);
-    margin:0;
-    letter-spacing:1px;
-    text-shadow:0 2px 6px rgba(0,0,0,.45);
+  /* ============ REALISTIC WHITEBOARD ============ */
+  .board-wrap{max-width:1180px;margin:0 auto;position:relative;}
+  /* outer aluminium frame */
+  .frame{
+    position:relative;border-radius:16px;padding:16px;
+    background:
+      linear-gradient(180deg,#fbfcfd 0%,#cdd2da 5%,#eef0f3 9%,#c6ccd5 50%,#aeb4be 92%,#878d98 100%);
+    box-shadow:
+      0 1px 0 rgba(255,255,255,.8) inset,
+      0 38px 60px -18px rgba(0,0,0,.65),
+      0 10px 24px rgba(0,0,0,.4);
   }
-  .page-head p{font-family:var(--hand);font-size:clamp(16px,2vw,22px);margin:4px 0 0;opacity:.85;}
+  .frame::before{ /* inner bevel */
+    content:"";position:absolute;inset:9px;border-radius:9px;
+    box-shadow:inset 0 2px 5px rgba(0,0,0,.35), inset 0 -1px 2px rgba(255,255,255,.6);
+    pointer-events:none;
+  }
+  .screw{position:absolute;width:13px;height:13px;border-radius:50%;
+    background:radial-gradient(circle at 35% 30%,#fdfdfd,#9aa0aa 70%,#6c727c);
+    box-shadow:0 1px 2px rgba(0,0,0,.5), inset 0 0 0 1px rgba(0,0,0,.12);}
+  .screw::after{content:"";position:absolute;inset:3px;border-top:1.4px solid #71777f;transform:rotate(40deg);}
+  .screw.tl{top:7px;left:7px;} .screw.tr{top:7px;right:7px;}
+  .screw.bl{bottom:7px;left:7px;} .screw.br{bottom:7px;right:7px;}
 
-  /* ---------- Whiteboard frame ---------- */
-  .board-wrap{
-    max-width:1500px;margin:0 auto;
-    background:linear-gradient(180deg,#5a5040,#3f382c);
-    padding:18px;border-radius:18px;
-    box-shadow:0 30px 60px rgba(0,0,0,.55), inset 0 1px 0 rgba(255,255,255,.15);
-    position:relative;
-  }
-  /* aluminium frame */
-  .board-frame{
-    background:linear-gradient(180deg,#e9ebef,#b9bec7 6%,#dfe2e7 12%,#c2c7cf 88%,#9aa0ab);
-    padding:14px;border-radius:12px;
-    box-shadow:inset 0 0 0 1px rgba(255,255,255,.5), 0 8px 18px rgba(0,0,0,.35);
-  }
+  /* the white writing surface */
   .board{
+    position:relative;border-radius:7px;overflow:hidden;
     background:
-      linear-gradient(115deg, rgba(255,255,255,.55), rgba(255,255,255,0) 40%),
-      radial-gradient(circle at 75% 15%, rgba(180,190,200,.18), transparent 45%),
-      radial-gradient(circle at 15% 85%, rgba(180,190,200,.16), transparent 45%),
-      var(--board);
-    border-radius:6px;
-    padding:26px 24px 30px;
-    position:relative;
-    box-shadow:inset 0 2px 14px rgba(0,0,0,.10), inset 0 0 60px rgba(120,130,140,.08);
-    overflow:hidden;
+      linear-gradient(125deg, rgba(255,255,255,.9), rgba(247,250,253,.4) 35%, rgba(236,242,247,.55)),
+      radial-gradient(120% 80% at 50% -10%, #ffffff 0%, #eef3f7 60%, #e3e9ef 100%);
+    box-shadow:inset 0 0 0 1px rgba(255,255,255,.7), inset 0 3px 22px rgba(90,110,130,.16);
+    padding:24px 22px 26px;
   }
-  /* subtle ghost marker smudges for realism */
+  /* faint eraser smudges + ghost ink */
   .board::before{
-    content:"";position:absolute;inset:0;pointer-events:none;
+    content:"";position:absolute;inset:0;pointer-events:none;mix-blend-mode:multiply;opacity:.55;
     background:
-      radial-gradient(ellipse 220px 60px at 30% 12%, rgba(28,109,208,.05), transparent 70%),
-      radial-gradient(ellipse 180px 50px at 70% 90%, rgba(210,58,58,.05), transparent 70%);
-    mix-blend-mode:multiply;
+      radial-gradient(ellipse 260px 70px at 22% 18%, rgba(120,140,160,.10), transparent 70%),
+      radial-gradient(ellipse 200px 55px at 78% 60%, rgba(120,140,160,.09), transparent 70%),
+      radial-gradient(ellipse 150px 40px at 55% 92%, rgba(120,140,160,.08), transparent 70%),
+      radial-gradient(ellipse 120px 200px at 88% 30%, rgba(28,109,208,.04), transparent 70%);
   }
-  /* glare streak */
+  /* big diagonal glare */
   .board::after{
-    content:"";position:absolute;top:-40%;left:-10%;width:55%;height:180%;
-    background:linear-gradient(105deg, rgba(255,255,255,.35), rgba(255,255,255,0) 60%);
-    transform:rotate(8deg);pointer-events:none;opacity:.5;
+    content:"";position:absolute;top:-30%;left:-15%;width:60%;height:170%;
+    background:linear-gradient(108deg, rgba(255,255,255,.55), rgba(255,255,255,0) 55%);
+    transform:rotate(7deg);pointer-events:none;opacity:.65;
   }
+  .board > *{position:relative;z-index:2;}
 
-  /* marker tray */
-  .tray{
-    position:relative;margin:14px auto 0;max-width:1500px;height:26px;
-    background:linear-gradient(180deg,var(--tray),var(--tray-dark));
-    border-radius:0 0 12px 12px;
-    box-shadow:0 10px 18px rgba(0,0,0,.4), inset 0 2px 3px rgba(255,255,255,.35);
-  }
-  .tray .marker{position:absolute;top:7px;height:11px;border-radius:6px;box-shadow:0 2px 3px rgba(0,0,0,.35);}
-  .tray .m1{left:8%;width:90px;background:linear-gradient(180deg,#3f8ae0,#1c6dd0);}
-  .tray .m2{left:24%;width:80px;background:linear-gradient(180deg,#e85a5a,#d23a3a);}
-  .tray .m3{left:38%;width:86px;background:linear-gradient(180deg,#35a866,#1f8a4c);}
-  .tray .eraser{right:9%;top:3px;height:18px;width:70px;border-radius:4px;background:linear-gradient(180deg,#f4f4f4,#cfd3da 55%,#2b6cb0 55%,#1f5896);box-shadow:0 2px 4px rgba(0,0,0,.4);}
+  .board-title{font-family:var(--marker);font-size:clamp(18px,2.4vw,24px);color:var(--ink);margin:0 0 16px;text-align:center;transform:rotate(-.6deg);}
+  .board-title u{text-decoration-color:var(--red);text-underline-offset:5px;}
 
-  /* ---------- Layout: left positions, right table ---------- */
-  .grid{position:relative;z-index:2;display:grid;grid-template-columns:minmax(440px,1fr) minmax(560px,1.15fr);gap:26px;}
-  @media(max-width:1080px){.grid{grid-template-columns:1fr;}}
+  /* ===== roster: one row per position, 3 players across ===== */
+  .roster{display:flex;flex-direction:column;gap:14px;}
+  .pos-row{display:grid;grid-template-columns:84px 1fr;gap:14px;align-items:center;}
+  .pos-row + .pos-row{border-top:2px dashed rgba(120,135,150,.32);padding-top:14px;}
 
-  .panel-title{
-    font-family:var(--marker);font-size:24px;color:var(--ink);
-    margin:0 0 14px;display:flex;align-items:center;gap:10px;
-  }
-  .panel-title .swatch{font-size:14px;font-family:var(--hand);font-weight:700;color:#6b7280;}
-
-  /* ----- LEFT: position columns ----- */
-  .positions{display:flex;flex-direction:column;gap:18px;}
-  .pos-row{display:grid;grid-template-columns:74px 1fr;gap:14px;align-items:start;}
-  .pos-letter{
-    font-family:var(--marker);
-    font-size:54px;line-height:1;
-    text-align:center;padding-top:6px;
-    transform:rotate(-3deg);
-    text-shadow:1px 1px 0 rgba(0,0,0,.08);
-  }
-  .pos-letter small{display:block;font-family:var(--hand);font-size:14px;font-weight:700;color:#6b7280;transform:rotate(3deg);margin-top:2px;letter-spacing:.5px;}
+  .pos-letter{font-family:var(--marker);font-size:clamp(40px,6vw,62px);line-height:.92;text-align:center;transform:rotate(-4deg);text-shadow:1.5px 1.5px 0 rgba(0,0,0,.07);}
+  .pos-letter small{display:block;font-family:var(--hand);font-size:12px;font-weight:700;color:#6b7682;transform:rotate(4deg);margin-top:3px;letter-spacing:.3px;white-space:nowrap;}
   .pos-PG{color:var(--blue);} .pos-SG{color:var(--purple);} .pos-SF{color:var(--green);}
   .pos-PF{color:var(--orange);} .pos-C{color:var(--red);}
 
-  .slots{display:flex;flex-direction:column;gap:8px;}
-  .slot{
-    display:flex;align-items:center;gap:10px;
-    background:rgba(255,255,255,.55);
-    border:2px dashed rgba(120,130,145,.5);
-    border-radius:10px;padding:7px 10px;
-    box-shadow:0 1px 0 rgba(255,255,255,.6);
+  .pcards{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;}
+  .pcard{
+    position:relative;border-radius:12px;padding:8px 9px 9px;min-width:0;
+    background:linear-gradient(180deg, rgba(255,255,255,.92), rgba(255,255,255,.72));
+    box-shadow:0 2px 5px rgba(40,55,70,.12);
+    border:2.5px solid var(--c,#888);
   }
-  .slot .tag{
-    font-family:var(--hand);font-weight:700;font-size:13px;
-    min-width:78px;padding:2px 8px;border-radius:20px;text-align:center;color:#fff;white-space:nowrap;
+  .pcard.starter{--c:var(--green);} .pcard.bench{--c:var(--blue);} .pcard.dev{--c:var(--orange);}
+  .ptag{display:inline-block;font-family:var(--hand);font-weight:700;font-size:12px;color:#fff;background:var(--c);padding:1px 9px;border-radius:20px;margin-bottom:3px;}
+  .pnum{font-family:var(--hand);font-weight:700;font-size:11px;color:#8a929c;float:right;margin-top:2px;}
+  input.pname{
+    width:100%;border:none;background:transparent;outline:none;
+    font-family:var(--hand);font-size:clamp(16px,2.2vw,21px);font-weight:600;color:var(--ink);
+    border-bottom:1.5px solid rgba(120,135,150,.4);padding:1px 2px;
   }
-  .slot.starter .tag{background:var(--green);}
-  .slot.bench .tag{background:var(--blue);}
-  .slot.dev .tag{background:var(--orange);}
-  .slot input.name{
-    flex:1;border:none;background:transparent;outline:none;
-    font-family:var(--hand);font-size:22px;font-weight:600;color:var(--ink);
-    border-bottom:1.5px solid rgba(120,130,145,.35);padding:1px 4px;min-width:0;
-  }
-  .slot input.name::placeholder{color:#9aa3af;font-weight:500;}
-  .slot .mini{font-family:var(--hand);font-weight:700;font-size:16px;color:#475569;white-space:nowrap;}
+  input.pname::placeholder{color:#aab1ba;font-weight:500;}
+  .pcost{display:block;font-family:var(--hand);font-weight:700;font-size:14px;color:#475569;margin-top:4px;min-height:18px;}
+  .pcost b{color:var(--ink);}
 
-  /* ----- RIGHT: finance table ----- */
-  .sheet{
-    background:rgba(255,255,255,.72);
-    border-radius:12px;padding:6px;
-    box-shadow:inset 0 0 0 2px rgba(120,130,145,.25);
-  }
-  table{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums;}
-  thead th{
-    font-family:var(--hand);font-weight:700;font-size:15px;color:#39414e;
-    text-align:right;padding:8px 8px 10px;border-bottom:2.5px solid rgba(120,130,145,.55);
-    white-space:nowrap;
-  }
+  /* marker tray under the board */
+  .tray{position:relative;margin:0 auto;max-width:1130px;height:24px;
+    background:linear-gradient(180deg,#c7a877,#9c7c4f);border-radius:0 0 12px 12px;
+    box-shadow:0 12px 20px rgba(0,0,0,.45), inset 0 2px 3px rgba(255,255,255,.4);}
+  .tray .mk{position:absolute;top:7px;height:10px;border-radius:6px;box-shadow:0 2px 3px rgba(0,0,0,.4);}
+  .tray .mk1{left:9%;width:84px;background:linear-gradient(180deg,#4a93e6,#1c6dd0);}
+  .tray .mk2{left:23%;width:74px;background:linear-gradient(180deg,#ec6464,#d23a3a);}
+  .tray .mk3{left:35%;width:80px;background:linear-gradient(180deg,#3cb070,#1f8a4c);}
+  .tray .er{right:9%;top:3px;height:17px;width:66px;border-radius:4px;background:linear-gradient(180deg,#f5f5f5,#d0d4db 52%,#2f6fb3 52%,#1f5896);box-shadow:0 2px 4px rgba(0,0,0,.4);}
+
+  /* ============ FINANCE TABLE (below board) ============ */
+  .sheet-wrap{max-width:1180px;margin:30px auto 0;}
+  .sheet{background:#fffdf8;border-radius:14px;padding:14px 14px 6px;
+    box-shadow:0 20px 40px -16px rgba(0,0,0,.55), inset 0 0 0 1px rgba(0,0,0,.05);
+    background-image:linear-gradient(#fffdf8,#fffdf8),repeating-linear-gradient(0deg,transparent,transparent 31px,rgba(120,135,150,.10) 31px,rgba(120,135,150,.10) 32px);}
+  .sheet h2{font-family:var(--marker);font-size:20px;color:var(--ink);margin:2px 0 12px;text-align:center;}
+  .scroll{overflow-x:auto;}
+  table{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums;min-width:620px;}
+  thead th{font-family:var(--hand);font-weight:700;font-size:15px;color:#39414e;text-align:right;padding:6px 8px 9px;border-bottom:2.5px solid rgba(80,95,110,.5);white-space:nowrap;}
   thead th.lft{text-align:left;}
-  tbody td{padding:5px 6px;border-bottom:1px solid rgba(120,130,145,.18);}
+  tbody td{padding:5px 8px;border-bottom:1px solid rgba(120,135,150,.18);}
   tbody tr.starter{background:rgba(31,138,76,.06);}
-  tbody tr.dev td{opacity:.95;}
+  tbody tr.posfirst td{border-top:2px solid rgba(80,95,110,.28);}
   .pos-cell{font-family:var(--marker);font-size:15px;text-align:center;}
   .role-dot{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:6px;vertical-align:middle;}
   .role-starter{background:var(--green);} .role-bench{background:var(--blue);} .role-dev{background:var(--orange);}
-  .nm{font-family:var(--hand);font-size:18px;font-weight:600;color:var(--ink);max-width:130px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+  .nm{font-family:var(--hand);font-size:18px;font-weight:600;color:var(--ink);}
   .nm.empty{color:#aab1ba;font-style:italic;}
-
   td.num{text-align:right;}
-  input.money{
-    width:78px;text-align:right;border:none;background:rgba(255,255,255,.65);
-    border-radius:6px;padding:4px 6px;font-size:13px;font-family:inherit;color:var(--ink);
-    border:1px solid rgba(120,130,145,.25);
-  }
-  input.money:focus{outline:none;border-color:var(--blue);background:#fff;}
-  select.months{
-    border:1px solid rgba(120,130,145,.3);border-radius:6px;background:rgba(255,255,255,.7);
-    padding:3px 4px;font-size:13px;font-family:inherit;color:var(--ink);
-  }
+  input.money{width:80px;text-align:right;border:1px solid rgba(120,135,150,.3);background:#fff;border-radius:6px;padding:4px 6px;font-size:13px;font-family:inherit;color:var(--ink);}
+  input.money:focus{outline:none;border-color:var(--blue);}
+  select.months{border:1px solid rgba(120,135,150,.3);border-radius:6px;background:#fff;padding:3px 4px;font-size:13px;font-family:inherit;color:var(--ink);}
   td.total{text-align:right;font-weight:700;font-size:13px;color:#0f2a17;white-space:nowrap;}
-  .group-head td{
-    font-family:var(--marker);font-size:13px;color:#6b7280;padding-top:12px;
-    border-bottom:none;letter-spacing:.5px;
-  }
 
-  /* ---------- Totals strip ---------- */
-  .totals{
-    position:relative;z-index:2;margin-top:24px;
-    display:grid;grid-template-columns:repeat(4,1fr);gap:14px;
-  }
+  /* totals */
+  .totals{max-width:1180px;margin:18px auto 0;display:grid;grid-template-columns:repeat(4,1fr);gap:12px;}
   @media(max-width:720px){.totals{grid-template-columns:1fr 1fr;}}
-  .tcard{
-    background:rgba(255,255,255,.78);border-radius:14px;padding:14px 16px;
-    box-shadow:inset 0 0 0 2.5px rgba(120,130,145,.3);position:relative;
-  }
+  .tcard{background:rgba(255,255,255,.85);border-radius:14px;padding:13px 15px;box-shadow:inset 0 0 0 2.5px rgba(120,135,150,.3),0 8px 18px -10px rgba(0,0,0,.4);}
   .tcard h3{margin:0;font-family:var(--hand);font-weight:700;font-size:16px;color:#475569;}
-  .tcard .val{font-family:var(--marker);font-size:clamp(20px,2.4vw,30px);color:var(--ink);margin-top:2px;}
-  .tcard.season{box-shadow:inset 0 0 0 3px var(--red);}
-  .tcard.season .val{color:var(--red);}
-  .tcard.month .val{color:var(--blue);}
-  .tcard.salary .val{color:var(--green);}
-  .tcard.extras .val{color:var(--orange);}
+  .tcard .val{font-family:var(--marker);font-size:clamp(19px,2.4vw,28px);margin-top:2px;}
+  .tcard.salary .val{color:var(--green);} .tcard.extras .val{color:var(--orange);}
+  .tcard.month .val{color:var(--blue);} .tcard.season{box-shadow:inset 0 0 0 3px var(--red),0 8px 18px -10px rgba(0,0,0,.4);} .tcard.season .val{color:var(--red);}
 
-  /* ---------- Toolbar ---------- */
-  .toolbar{max-width:1500px;margin:18px auto 0;display:flex;flex-wrap:wrap;gap:10px;justify-content:center;align-items:center;}
-  .btn{
-    font-family:var(--hand);font-weight:700;font-size:17px;cursor:pointer;
-    border:none;border-radius:10px;padding:9px 18px;color:#fff;
-    box-shadow:0 4px 0 rgba(0,0,0,.25);transition:transform .06s, box-shadow .06s;
-  }
+  .toolbar{max-width:1180px;margin:18px auto 0;display:flex;flex-wrap:wrap;gap:10px;justify-content:center;align-items:center;}
+  .btn{font-family:var(--hand);font-weight:700;font-size:17px;cursor:pointer;border:none;border-radius:10px;padding:9px 18px;color:#fff;box-shadow:0 4px 0 rgba(0,0,0,.25);transition:transform .06s,box-shadow .06s;}
   .btn:active{transform:translateY(3px);box-shadow:0 1px 0 rgba(0,0,0,.25);}
-  .btn.print{background:var(--blue);} .btn.reset{background:var(--red);}
-  .btn.demo{background:var(--green);}
-  .cur-toggle{font-family:var(--hand);font-weight:700;font-size:16px;color:#f4f1e9;display:flex;align-items:center;gap:8px;}
+  .btn.print{background:var(--blue);} .btn.reset{background:var(--red);} .btn.demo{background:var(--green);}
+  .cur-toggle{font-family:var(--hand);font-weight:700;font-size:16px;color:#f1ede3;display:flex;align-items:center;gap:8px;}
   .cur-toggle select{font-family:inherit;font-size:16px;border-radius:8px;border:none;padding:6px 8px;}
-  .hint{font-family:var(--hand);font-size:15px;color:#cfd3da;text-align:center;max-width:1500px;margin:10px auto 0;}
+  .hint{font-family:var(--hand);font-size:15px;color:#cfd3da;text-align:center;max-width:1000px;margin:10px auto 0;}
 
+  @media(max-width:560px){
+    .pos-row{grid-template-columns:60px 1fr;gap:8px;}
+    .pcards{gap:6px;}
+    .pcard{padding:6px 6px 7px;}
+    .ptag{font-size:11px;padding:1px 6px;}
+  }
   @media print{
     body{background:#fff;padding:0;}
     .toolbar,.tray,.hint,.page-head p{display:none;}
-    .board-wrap{box-shadow:none;}
+    .frame,.sheet,.tcard{box-shadow:none;}
     input,select{border:none!important;background:transparent!important;}
   }
 </style>
@@ -233,54 +186,47 @@
   <p>Posloži postavu na ploči i izračunaj trošak sezone</p>
 </div>
 
+<!-- ============ WHITEBOARD ============ -->
 <div class="board-wrap">
- <div class="board-frame">
-  <div class="board">
-   <div class="grid">
-
-    <!-- ============ LEFT: positions & roster ============ -->
-    <div>
-      <h2 class="panel-title">Postava <span class="swatch">PG · SG · SF · PF · C</span></h2>
-      <div class="positions" id="positions"><!-- generated --></div>
-    </div>
-
-    <!-- ============ RIGHT: finances ============ -->
-    <div>
-      <h2 class="panel-title">Financije <span class="swatch">neto / mj.</span></h2>
-      <div class="sheet">
-        <table>
-          <thead>
-            <tr>
-              <th class="lft">Poz.</th>
-              <th class="lft">Igrač</th>
-              <th>Neto plaća/mj.</th>
-              <th>Mj.</th>
-              <th>Stan/mj.</th>
-              <th>Agent %</th>
-              <th>Ukupno/god.</th>
-            </tr>
-          </thead>
-          <tbody id="finBody"><!-- generated --></tbody>
-        </table>
-      </div>
-    </div>
-
-   </div><!-- /grid -->
-
-   <!-- ============ TOTALS ============ -->
-   <div class="totals">
-     <div class="tcard salary"><h3>Plaće (sezona)</h3><div class="val" id="tSalary">—</div></div>
-     <div class="tcard extras"><h3>Stanovi + agenti</h3><div class="val" id="tExtras">—</div></div>
-     <div class="tcard month"><h3>Prosjek / mjesec</h3><div class="val" id="tMonth">—</div></div>
-     <div class="tcard season"><h3>UKUPNO SEZONA</h3><div class="val" id="tSeason">—</div></div>
+ <div class="frame">
+   <span class="screw tl"></span><span class="screw tr"></span><span class="screw bl"></span><span class="screw br"></span>
+   <div class="board">
+     <h2 class="board-title"><u>POSTAVA</u> — 3 igrača po poziciji</h2>
+     <div class="roster" id="roster"><!-- generated --></div>
    </div>
-
-  </div>
  </div>
 </div>
-<div class="tray">
-  <span class="marker m1"></span><span class="marker m2"></span><span class="marker m3"></span>
-  <span class="eraser"></span>
+<div class="tray"><span class="mk mk1"></span><span class="mk mk2"></span><span class="mk mk3"></span><span class="er"></span></div>
+
+<!-- ============ FINANCE TABLE ============ -->
+<div class="sheet-wrap">
+  <div class="sheet">
+    <h2>Financije ekipe</h2>
+    <div class="scroll">
+      <table>
+        <thead>
+          <tr>
+            <th class="lft">Poz.</th>
+            <th class="lft">Igrač</th>
+            <th>Neto plaća/mj.</th>
+            <th>Mj.</th>
+            <th>Stan/mj.</th>
+            <th>Agent %</th>
+            <th>Ukupno/god.</th>
+          </tr>
+        </thead>
+        <tbody id="finBody"><!-- generated --></tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+<!-- ============ TOTALS ============ -->
+<div class="totals">
+  <div class="tcard salary"><h3>Plaće (sezona)</h3><div class="val" id="tSalary">—</div></div>
+  <div class="tcard extras"><h3>Stanovi + agenti</h3><div class="val" id="tExtras">—</div></div>
+  <div class="tcard month"><h3>Prosjek / mjesec</h3><div class="val" id="tMonth">—</div></div>
+  <div class="tcard season"><h3>UKUPNO SEZONA</h3><div class="val" id="tSeason">—</div></div>
 </div>
 
 <div class="toolbar">
@@ -288,12 +234,7 @@
   <button class="btn print" id="btnPrint">Ispiši / PDF</button>
   <button class="btn reset" id="btnReset">Očisti ploču</button>
   <label class="cur-toggle">Valuta:
-    <select id="curSel">
-      <option value="€">€ EUR</option>
-      <option value="$">$ USD</option>
-      <option value="kn">kn</option>
-      <option value="RSD">RSD</option>
-    </select>
+    <select id="curSel"><option value="€">€ EUR</option><option value="$">$ USD</option><option value="kn">kn</option><option value="RSD">RSD</option></select>
   </label>
 </div>
 <p class="hint">Plaća i stan računaju se kroz isti broj mjeseci (9 ili 10), agent je postotak od neto godišnjeg ugovora (plaća × mjeseci). Sve se sprema automatski u pregledniku.</p>
@@ -301,89 +242,60 @@
 <script>
 (function(){
   "use strict";
-  const POSITIONS = [
-    {key:"PG", name:"Playmaker"},
-    {key:"SG", name:"Bek šuter"},
-    {key:"SF", name:"Niski krilo"},
-    {key:"PF", name:"Krilni centar"},
-    {key:"C",  name:"Centar"}
+  const POSITIONS=[
+    {key:"PG",name:"Playmaker"},{key:"SG",name:"Bek šuter"},{key:"SF",name:"Niski krilo"},
+    {key:"PF",name:"Krilni centar"},{key:"C",name:"Centar"}
   ];
-  const ROLES = [
-    {key:"starter", label:"Petorka",  cls:"starter"},
-    {key:"bench",   label:"Zamjena",  cls:"bench"},
-    {key:"dev",     label:"Klinac",   cls:"dev"}
+  const ROLES=[
+    {key:"starter",label:"Petorka"},{key:"bench",label:"Zamjena"},{key:"dev",label:"Klinac"}
   ];
-  const STORE_KEY = "bball-budget-v1";
-  const CUR_KEY   = "bball-budget-cur";
+  const STORE_KEY="bball-budget-v2", CUR_KEY="bball-budget-cur";
 
-  // ---- state: 15 players keyed by pos+role ----
-  function blank(){
-    const s={};
-    POSITIONS.forEach(p=>ROLES.forEach(r=>{
-      s[p.key+"-"+r.key]={name:"",salary:0,months:10,flat:0,agent:0};
-    }));
-    return s;
-  }
-  let state = load() || blank();
-  let cur = localStorage.getItem(CUR_KEY) || "€";
+  function blank(){const s={};POSITIONS.forEach(p=>ROLES.forEach(r=>{s[p.key+"-"+r.key]={name:"",salary:0,months:10,flat:0,agent:0};}));return s;}
+  let state=load()||blank();
+  let cur=localStorage.getItem(CUR_KEY)||"€";
 
-  function load(){
-    try{const raw=localStorage.getItem(STORE_KEY);if(!raw)return null;
-      const d=JSON.parse(raw);const s=blank();
-      Object.keys(s).forEach(k=>{if(d[k])Object.assign(s[k],d[k]);});return s;
-    }catch(e){return null;}
-  }
+  function load(){try{const raw=localStorage.getItem(STORE_KEY);if(!raw)return null;const d=JSON.parse(raw);const s=blank();Object.keys(s).forEach(k=>{if(d[k])Object.assign(s[k],d[k]);});return s;}catch(e){return null;}}
   function save(){localStorage.setItem(STORE_KEY,JSON.stringify(state));localStorage.setItem(CUR_KEY,cur);}
 
-  const num = v => {const n=parseFloat(String(v).replace(/[^0-9.\-]/g,""));return isNaN(n)?0:n;};
-  function fmt(n){
-    const r=Math.round(n);
-    const s=r.toLocaleString("hr-HR");
-    return cur==="$" ? cur+s : s+" "+cur;
-  }
-  // player season cost: salary*months + apartment*months + agent(% of net annual contract)
-  function playerSeason(p){
-    const contract=num(p.salary)*num(p.months);
-    return contract + num(p.flat)*num(p.months) + contract*num(p.agent)/100;
-  }
+  const num=v=>{const n=parseFloat(String(v).replace(/[^0-9.\-]/g,""));return isNaN(n)?0:n;};
+  function fmt(n){const r=Math.round(n);const s=r.toLocaleString("hr-HR");return cur==="$"?cur+s:s+" "+cur;}
+  function roleLabel(rk){const r=ROLES.find(x=>x.key===rk);return r?r.label:"";}
 
-  // ---------- build LEFT positions ----------
-  function buildPositions(){
-    const host=document.getElementById("positions");
-    host.innerHTML="";
+  // ---- LEFT roster: rows of position + 3 horizontal cards ----
+  function buildRoster(){
+    const host=document.getElementById("roster");host.innerHTML="";
     POSITIONS.forEach(p=>{
       const row=document.createElement("div");row.className="pos-row";
-      row.innerHTML=`<div class="pos-letter pos-${p.key}">${p.key}<small>${p.name}</small></div>`;
-      const slots=document.createElement("div");slots.className="slots";
-      ROLES.forEach(r=>{
+      let cards="";
+      ROLES.forEach((r,i)=>{
         const key=p.key+"-"+r.key;const pl=state[key];
-        const slot=document.createElement("div");slot.className="slot "+r.cls;
-        slot.innerHTML=`<span class="tag">${r.label}</span>
-          <input class="name" data-key="${key}" placeholder="ime igrača…" value="${escAttr(pl.name)}">
-          <span class="mini" id="mini-${key}"></span>`;
-        slots.appendChild(slot);
+        cards+=`<div class="pcard ${r.key}">
+          <span class="ptag">${r.label}</span><span class="pnum">#${i+1}</span>
+          <input class="pname" data-key="${key}" placeholder="ime igrača…" value="${escAttr(pl.name)}">
+          <span class="pcost" id="mini-${key}"></span>
+        </div>`;
       });
-      row.appendChild(slots);host.appendChild(row);
+      row.innerHTML=`<div class="pos-letter pos-${p.key}">${p.key}<small>${p.name}</small></div>
+        <div class="pcards">${cards}</div>`;
+      host.appendChild(row);
     });
   }
 
-  // ---------- build RIGHT finance table ----------
+  // ---- finance table ----
   function buildFinance(){
     const body=document.getElementById("finBody");body.innerHTML="";
     POSITIONS.forEach(p=>{
       ROLES.forEach((r,i)=>{
         const key=p.key+"-"+r.key;const pl=state[key];
-        const tr=document.createElement("tr");tr.className=r.cls;
+        const tr=document.createElement("tr");tr.className=r.key+(i===0?" posfirst":"");
         tr.innerHTML=`
           <td class="pos-cell">${i===0?p.key:""}</td>
           <td><span class="role-dot role-${r.key}"></span><span class="nm ${pl.name?'':'empty'}" id="nm-${key}">${pl.name||r.label}</span></td>
           <td class="num"><input class="money" data-key="${key}" data-f="salary" value="${pl.salary||''}" placeholder="0"></td>
-          <td class="num"><select class="months" data-key="${key}" data-f="months">
-            <option value="9" ${pl.months==9?'selected':''}>9</option>
-            <option value="10" ${pl.months==10?'selected':''}>10</option>
-          </select></td>
+          <td class="num"><select class="months" data-key="${key}" data-f="months"><option value="9" ${pl.months==9?'selected':''}>9</option><option value="10" ${pl.months==10?'selected':''}>10</option></select></td>
           <td class="num"><input class="money" data-key="${key}" data-f="flat" value="${pl.flat||''}" placeholder="0"></td>
-          <td class="num"><input class="money" data-key="${key}" data-f="agent" value="${pl.agent||''}" placeholder="0" title="postotak od neto godišnjeg ugovora"></td>
+          <td class="num"><input class="money" data-key="${key}" data-f="agent" value="${pl.agent||''}" placeholder="0" title="postotak neto godišnjeg ugovora"></td>
           <td class="total" id="tot-${key}">—</td>`;
         body.appendChild(tr);
       });
@@ -392,19 +304,16 @@
 
   function escAttr(s){return String(s).replace(/"/g,"&quot;").replace(/</g,"&lt;");}
 
-  // ---------- recompute ----------
   function recompute(){
-    let salary=0, extras=0, season=0;
+    let salary=0,extras=0,season=0;
     POSITIONS.forEach(p=>ROLES.forEach(r=>{
       const key=p.key+"-"+r.key;const pl=state[key];
       const sal=num(pl.salary)*num(pl.months);
-      const ext=num(pl.flat)*num(pl.months) + sal*num(pl.agent)/100;
+      const ext=num(pl.flat)*num(pl.months)+sal*num(pl.agent)/100;
       const tot=sal+ext;
       salary+=sal;extras+=ext;season+=tot;
-      const tcell=document.getElementById("tot-"+key);
-      if(tcell)tcell.textContent= tot>0?fmt(tot):"—";
-      const mini=document.getElementById("mini-"+key);
-      if(mini)mini.textContent= tot>0?fmt(tot):"";
+      const tcell=document.getElementById("tot-"+key);if(tcell)tcell.textContent=tot>0?fmt(tot):"—";
+      const mini=document.getElementById("mini-"+key);if(mini)mini.innerHTML=tot>0?("<b>"+fmt(tot)+"</b>"):"";
     }));
     document.getElementById("tSalary").textContent=fmt(salary);
     document.getElementById("tExtras").textContent=fmt(extras);
@@ -412,62 +321,39 @@
     document.getElementById("tSeason").textContent=fmt(season);
   }
 
-  // ---------- events ----------
   document.addEventListener("input",e=>{
     const t=e.target;const key=t.getAttribute("data-key");if(!key)return;
-    if(t.classList.contains("name")){
+    if(t.classList.contains("pname")){
       state[key].name=t.value;
       const nm=document.getElementById("nm-"+key);
-      if(nm){nm.textContent=t.value|| (key.split("-")[1]==="starter"?"Petorka":key.split("-")[1]==="bench"?"Zamjena":"Klinac");
-        nm.classList.toggle("empty",!t.value);}
+      if(nm){nm.textContent=t.value||roleLabel(key.split("-")[1]);nm.classList.toggle("empty",!t.value);}
     }else{
       const f=t.getAttribute("data-f");
-      state[key][f]= f==="months"? parseInt(t.value,10) : num(t.value);
+      state[key][f]= f==="months"?parseInt(t.value,10):num(t.value);
       recompute();
     }
     save();
   });
-  document.addEventListener("change",e=>{
-    if(e.target.classList.contains("months")){recompute();save();}
-  });
+  document.addEventListener("change",e=>{if(e.target.classList.contains("months")){recompute();save();}});
 
   document.getElementById("curSel").addEventListener("change",e=>{cur=e.target.value;save();recompute();});
   document.getElementById("btnPrint").addEventListener("click",()=>window.print());
-  document.getElementById("btnReset").addEventListener("click",()=>{
-    if(confirm("Očistiti cijelu ploču?")){state=blank();save();render();}
-  });
+  document.getElementById("btnReset").addEventListener("click",()=>{if(confirm("Očistiti cijelu ploču?")){state=blank();save();render();}});
   document.getElementById("btnDemo").addEventListener("click",()=>{loadDemo();save();render();});
 
-  // ---------- demo data ----------
   function loadDemo(){
     state=blank();
     const d={
-      "PG-starter":["Marko Perić",8500,10,650,10],
-      "PG-bench":["Luka Babić",3200,10,450,5],
-      "PG-dev":["Ivan Novak",900,9,0,0],
-      "SG-starter":["DeShawn Carter",11000,10,800,10],
-      "SG-bench":["Filip Kovač",2800,10,400,5],
-      "SG-dev":["Tomislav Jurić",750,9,0,0],
-      "SF-starter":["Mateo Rukavina",7600,10,600,8],
-      "SF-bench":["Karlo Vidović",2500,10,380,5],
-      "SF-dev":["Petar Šimić",800,9,0,0],
-      "PF-starter":["Nikola Bogdan",9200,10,700,10],
-      "PF-bench":["Ante Marković",2600,10,400,5],
-      "PF-dev":["Roko Lović",700,9,0,0],
-      "C-starter":["Mike Johnson",13000,10,950,10],
-      "C-bench":["Stipe Galić",3000,10,450,5],
-      "C-dev":["Bruno Kralj",850,9,0,0]
+      "PG-starter":["Marko Perić",8500,10,650,10],"PG-bench":["Luka Babić",3200,10,450,5],"PG-dev":["Ivan Novak",900,9,0,0],
+      "SG-starter":["DeShawn Carter",11000,10,800,10],"SG-bench":["Filip Kovač",2800,10,400,5],"SG-dev":["Tomislav Jurić",750,9,0,0],
+      "SF-starter":["Mateo Rukavina",7600,10,600,8],"SF-bench":["Karlo Vidović",2500,10,380,5],"SF-dev":["Petar Šimić",800,9,0,0],
+      "PF-starter":["Nikola Bogdan",9200,10,700,10],"PF-bench":["Ante Marković",2600,10,400,5],"PF-dev":["Roko Lović",700,9,0,0],
+      "C-starter":["Mike Johnson",13000,10,950,10],"C-bench":["Stipe Galić",3000,10,450,5],"C-dev":["Bruno Kralj",850,9,0,0]
     };
-    Object.keys(d).forEach(k=>{
-      const [name,salary,months,flat,agent]=d[k];
-      state[k]={name,salary,months,flat,agent};
-    });
+    Object.keys(d).forEach(k=>{const[name,salary,months,flat,agent]=d[k];state[k]={name,salary,months,flat,agent};});
   }
 
-  function render(){
-    document.getElementById("curSel").value=cur;
-    buildPositions();buildFinance();recompute();
-  }
+  function render(){document.getElementById("curSel").value=cur;buildRoster();buildFinance();recompute();}
   render();
 })();
 </script>
