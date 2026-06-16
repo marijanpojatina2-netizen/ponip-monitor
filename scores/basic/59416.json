@@ -1,0 +1,14 @@
+{
+  "id": "59416",
+  "score_overall": 6.0,
+  "score_lokacija": 3.5,
+  "score_roi": 8.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Industrijska hala od 3268 m2 s dvorištem u Novskoj po 50% popustu na drugoj dražbi iznimno je atraktivna ROI prigoda, ali slaba lokacija i niska likvidnost industrijskog tržišta Sisak-Moslavine ograničavaju krug kupaca na one s konkretnom operativnom namjenom. Stečajni kontekst i nepoznato tehničko stanje hale zahtijevaju temeljitu due diligence prije ulaska.",
+  "flags": [
+    "stečajni dužnik"
+  ],
+  "input_hash": "23b5be7e5932",
+  "scored_at": "2026-06-16T11:08:10.238198"
+}

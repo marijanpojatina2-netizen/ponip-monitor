@@ -1,0 +1,14 @@
+{
+  "id": "60640",
+  "score_overall": 4.5,
+  "score_lokacija": 5.0,
+  "score_roi": 4.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Čakovec kao sjedište Međimurske županije nudi relativno dobru lokaciju, ali predmet prodaje je samo 1/2 suvlasničkog dijela (3. suvlasnički dio) što rezultira iznimno složenom vlasničkom strukturom koja praktički blokira samostalne dispozicije. Uz samo 20% popust, pravna kompleksnost daleko nadmašuje potencijalnu korist.",
+  "flags": [
+    "suvlasništvo (1/2 dijela, 3. suvlasnički dio — izrazito složena vlasnička struktura)"
+  ],
+  "input_hash": "c31f4a232300",
+  "scored_at": "2026-06-16T11:08:10.239147"
+}

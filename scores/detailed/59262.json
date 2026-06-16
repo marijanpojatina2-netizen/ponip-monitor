@@ -1,0 +1,53 @@
+{
+  "id": "59262",
+  "score_overall": 5.4,
+  "score_lokacija": 4.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Radi se o velikom industrijskom kompleksu u Ivancu (Varaždinska županija) — mali grad s industrijskom tradicijom, 19 km od Varaždina, blizu A4 autoceste. Početna cijena 2,154M EUR (40% popust) doseže gornji prag atraktivnosti, ali specijalizirani karakter industrijske imovine i ograničeno tržište kupaca u Ivancu znatno sužavaju exit strategiju. Infrastruktura (kotlovnica, trafostanica, rezervoar) sugerira tešku industrijsku namjenu što nosi potencijal ekološke kontaminacije kao ključni rizik koji zahtijeva detaljnu DIP analizu. Za industrijskog operatera ili logistički hub to može biti atraktivno; za čistog financijskog investitora bez operativne namjene rizik je visok.",
+  "flags": [
+    "ekološki rizik — kotlovnica i rezervoar ukazuju na historijsku tešku industrijsku namjenu, moguća kontaminacija tla i podzemnih voda",
+    "uski krug kupaca — visoko specijalizirana industrijska imovina u manjem gradu ograničava likvidnost",
+    "ovršenik aktivna tvrtka (MINI MAJOR d.o.o.) — postoji rizik da je kompleks još u poslovanju ili da tvrtka pobijava ovrhu",
+    "nepoznato stanje tehničke infrastrukture — kotlovnica, trafostanice i rezervoar mogu imati visoke troškove sanacije",
+    "nema informacija o urbanističkom statusu — prenamjena iz industrijske u drugu namjenu može biti kompleksna ili nemoguća"
+  ],
+  "market_estimate": {
+    "eur_min": 1800000,
+    "eur_max": 3000000,
+    "confidence": "low",
+    "basis": "Industrijska zemljišta u Varaždinskoj županiji kreću se 40–120 EUR/m², industrijske hale 250–600 EUR/m² ovisno o stanju i lokaciji. Procjena 3,59M EUR (225 EUR/m² ukupne površine, 572 EUR/m² bruto građevina) čini se optimistična za Ivanec — realnija tržišna vrijednost je 1,8–3,0M EUR. Analiza bez web pretrage — pouzdanost niska; potrebna neovisna procjena."
+  },
+  "comparables": [
+    {
+      "opis": "Industrijska hala ~3.000 m², Varaždin okolica — referentna transakcija, logistics zone",
+      "cijena": 900000,
+      "m2": 3000,
+      "izvor": "tržišna procjena (bez web pretrage)",
+      "url": "N/A — web pretraživanje nije bilo dostupno"
+    },
+    {
+      "opis": "Poslovni/industrijski prostor Varaždinska županija, 2025. tržišni prosjek ~300-450 EUR/m² za hale",
+      "cijena": null,
+      "m2": null,
+      "izvor": "opće tržišno znanje — Varaždinska županija 2025",
+      "url": "N/A"
+    }
+  ],
+  "investment_strategy": "Industrijska prenamjena ili prodaja strateškom kupcu. Kompleks ima 5.055 m² industrijske hale + 338 m² poslovnog prostora + 9.679 m² industrijskog dvorišta — idealno za proizvodni pogon, skladišno-logistički centar ili restrukturiranje kao multi-tenant industrijski park. Varaždinska županija ima rast stranog direktnog ulaganja (Daimler dobavljači, automotive sektor). Alternativno: kupiti, očistiti ekološki status i prenamjeniti za logistiku ako je lokacija prihvatljiva za FMCG/automotive dostavu na relaciji Zagreb-Varaždin-Maribor. NE preporučuje se reno-flip ni stanovanje.",
+  "entry_price_eur": 1700000,
+  "detailed_risks": [
+    "Ekološka kontaminacija: kotlovnica i rezervoar (107 m²) sugeriraju korištenje mazuta, kemikalija ili industrijskih tekućina — obvezna faza I i faza II ekološke studije prije bilo kakve ponude",
+    "Nepoznato stanje trafostnica: zamjena/sanacija trafostanica može koštati 100.000–300.000 EUR",
+    "Likvidnosni rizik: za nekretninu ove veličine i namjene u Ivancu krug kupaca je izuzetno uzak — exit može trajati 3–5+ godina",
+    "Aktivna tvrtka ovršenik: MINI MAJOR d.o.o. iz Zagreba — postoji mogućnost žalbi, osporavanja ovrhe ili komplikacija u preuzimanju posjeda",
+    "Zastarjela industrijska infrastruktura: kompleks starije izgradnje može zahtijevati kompletnu modernizaciju elektro, vodovodne i grijanja instalacije",
+    "Urbanistički rizik: industrijska zona Ivanec — prenamjena u logistiku ili drugu djelatnost zahtijeva provjeru prostornog plana",
+    "Visoka jamčevina 359.000 EUR — imobilizacija kapitala za trajanja procedure"
+  ],
+  "upside_scenario": "U 2–3 godine: ekološki status uredan, pronađen strateški industrijski kupac (npr. automotive dobavljač, logistička firma koja širi kapacitete u sjeverozapadnoj Hrvatskoj). Prodaja na razini 2,5–3,0M EUR daje prinos 40–75% na uloženi kapital uz uvjet kupnje na/ispod početne cijene. Alternativno: najam 5.055 m² industrijske hale po 3–5 EUR/m²/mj = 15.000–25.000 EUR/mj prihoda — povrat u 7–12 godina.",
+  "downside_scenario": "Ekološka kontaminacija potvrđena u fazi II studije: troškovi sanacije 500.000–1.500.000 EUR, što eliminira sve koristi popusta. Kompleks ostaje prazan bez kupca, carrying cost (porez, održavanje, osiguranje) 50.000–100.000 EUR godišnje. U najgorem slučaju — imovina neprodljiva bez sanacije, vezani kapital 2,15M+ EUR bez izlaza.",
+  "input_hash": "decdb949632e",
+  "scored_at": "2026-06-16T11:11:29.140741"
+}

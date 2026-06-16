@@ -1,0 +1,14 @@
+{
+  "id": "60620",
+  "score_overall": 3.1,
+  "score_lokacija": 2.0,
+  "score_roi": 3.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Seoska kuća u k.o. Mikleuš smještena je u depopulacijskom ruralnom pojasu Virovitica-Podravine gdje je tržišna likvidnost minimalna, a 20% popust ne čini investicijski case uvjerljivim. Suvlasništvo dvaju ovršenika (svaki u 1/2) dodatno komplicira dispoziciju nekretninom.",
+  "flags": [
+    "suvlasništvo (svaki ovršenik u 1/2)"
+  ],
+  "input_hash": "9f77b00ddc09",
+  "scored_at": "2026-06-16T11:08:10.238966"
+}

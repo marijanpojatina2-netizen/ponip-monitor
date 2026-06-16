@@ -1,0 +1,14 @@
+{
+  "id": "59454",
+  "score_overall": 4.8,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Ruralno-poljoprivredna nekretnina u Pribislavcu kraj Čakovca s atraktivnim 40% popustom i drugom dražbom, no investicijski potencijal gotovo je nuliran jer se kupuje samo 50/162 suvlasnički udio što onemogućava samostalno upravljanje i dramatično otežava daljnju prodaju; slaba likvidnost ruralnog Međimurja dodatno urušava izlaznu strategiju.",
+  "flags": [
+    "suvlasništvo 50/162 dijela"
+  ],
+  "input_hash": "e4d3de9be392",
+  "scored_at": "2026-06-16T11:09:25.481016"
+}

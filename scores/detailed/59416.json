@@ -1,0 +1,57 @@
+{
+  "id": "59416",
+  "score_overall": 5.5,
+  "score_lokacija": 4.0,
+  "score_roi": 7.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Poslovno-proizvodna hala u Novskoj (9.492 m² ukupno: 3.268 m² hala + 6.224 m² dvorište) ima nominalnih 50% popusta od utvrđene vrijednosti, ali procijenjenih 2,1 mil. EUR za industrijsku lokaciju u Novskoj izgleda prema troškovnom pristupu, ne prema tržišnoj vrijednosti — realan tržišni raspon za industrijski kompleks ove veličine u Sisačko-moslavačkoj županiji je 650K–1,1 mil. EUR, što znači da je početna cijena od 1,05 mil. EUR na samoj gornjoj granici. Novska ima prednost položaja direktno uz autocestu A3 (koridor X), što je strateška prednost za logistiku i distribuciju, ali tržište je tanko i exit investicije otežan. Preporučuje se ulazak ispod 900K EUR ili čekanje na treću dražbu.",
+  "flags": [
+    "ograničena likvidnost tržišta — Novska je malo industrijsko tržište s uskim krugom kupaca",
+    "mogući appraisal inflacija — utvrđena vrijednost 2,1 mil. EUR temelji se vjerojatno na troškovnom pristupu, ne usporedivoj prodaji",
+    "stečajna imovina — moguće nevidljive hipoteke, ekološke obveze ili tereti nad imovinom"
+  ],
+  "market_estimate": {
+    "eur_min": 650000,
+    "eur_max": 1100000,
+    "confidence": "low",
+    "basis": "Web pretraga bila nedostupna; procjena temeljena na regionalnim industrijskim cijenama u Sisačko-moslavačkoj županiji (100–200 EUR/m² ukupnog kompleksa, tj. 949K–1,9M EUR za 9.492 m²) korigiranom za limitiranu potražnju u Novskoj; hala 3.268 m² po 200–250 EUR/m² = 654K–817K EUR + dvorište; utvrđena vrijednost od 2,1 mil. EUR izgleda visoka za ovu lokaciju"
+  },
+  "comparables": [
+    {
+      "opis": "Industrijska hala ~3.000 m², Kutina — usporedivo tržište, 10 km od Novske; procijenjene transakcije u rasponu 150–250 EUR/m²",
+      "cijena": 600000,
+      "m2": 3000,
+      "izvor": "tržišna procjena bez web potvrde",
+      "url": "https://www.njuskalo.hr/poslovni-prostori/kutina"
+    },
+    {
+      "opis": "Stečajna hala Sisak — usporediva lokacija, Sisačko-moslavačka županija, prodane hale u rasponu 80–150 EUR/m² ukupne površine",
+      "cijena": 500000,
+      "m2": 5000,
+      "izvor": "tržišna procjena bez web potvrde",
+      "url": "https://www.nekretnine.net/poslovni-prostor/sisacko-moslavacka-zupanija/"
+    },
+    {
+      "opis": "Logistički centar uz A3 koridor (Slavonija) — hale uz autocestu postižu premiju 20–30% naspram bez direktnog pristupa",
+      "cijena": null,
+      "m2": null,
+      "izvor": "tržišna procjena bez web potvrde",
+      "url": "https://www.cbre.hr/hr-hr/research/croatia-market-reports"
+    }
+  ],
+  "investment_strategy": "Strateška operativna kupnja ili zakup: Nekretnina je najprikladnija za operativnog kupca (logistika, distribucija, laka proizvodnja) koji treba pristup autocesti A3 — Zagreb je 80 km, Slavonski Brod 60 km. Za finansijskog investitora ključni izazov je pronalazak zakupnika; hala od 3.268 m² zakupom po 3–5 EUR/m²/mj generira 9.800–16.300 EUR/mj (118K–196K EUR godišnje), što pri ulaznoj cijeni 900K EUR daje bruto prinos 13–22%. Alternativa je reno-flip konverzija dijela prostora u skladišne jedinice manjeg formata za najam (co-warehousing). Financijska investicija bez prethodno osiguranog zakupnika nije preporučljiva.",
+  "entry_price_eur": 900000,
+  "detailed_risks": [
+    "Tržišna likvidnost — exit iz investicije u Novskoj može trajati 2–5 godina; kupci za industrijski prostor ove veličine su rijetki",
+    "Appraisal rizik — nominalni popust od 50% možda ne odražava stvarni tržišni popust; stvarna tržišna vrijednost mogla biti znatno ispod 2,1 mil. EUR",
+    "Vacancy rizik — pronalazak industrijskog zakupnika za 3.268 m² u malom gradu; period praznog hoda 6–24 mj realan",
+    "Stanje hale nepoznato — opis ne navodi godinu izgradnje, stanje krova i instalacija, eventualne ekološke terete (zagađenost tla tipična za industrijske lokacije u stečaju)",
+    "Demografski trend — Sisačko-moslavačka županija ima jedan od najvećih padova stanovništva u RH, što dugoročno smanjuje potražnju",
+    "Pravni status u stečaju — preporučuje se detaljna pravna due diligence kod stečajnog upravitelja radi utvrđivanja eventualnih tereta"
+  ],
+  "upside_scenario": "Logistička ili distribucijska tvrtka uočava stratešku vrijednost položaja na A3 koridoru i zakupljuje halu po 4+ EUR/m²/mj — godišnji prihod 157K+ EUR. Uz ulaznu cijenu od 900K EUR to je ~17% bruto prinos; za 3 godine neto prinos po reinvestitiranju u renovaciju moguće 12–14%. Alternativno: industrijska zona Novske privlači stranog investitora (EU fondovi, greenfield), čime raste potražnja i vrijednost nekretnina u zoni.",
+  "downside_scenario": "Hala ostaje prazna 12–18+ mj bez pronađenog zakupnika. Troškovi održavanja, komunalni tereti i osiguranje teku bez prihoda. Prisilna re-prodaja ispod 700K EUR uz gubitak od 200K+ EUR na početnoj cijeni. Demografski i gospodarski pad regije dalje erodira vrijednost.",
+  "input_hash": "23b5be7e5932",
+  "scored_at": "2026-06-16T11:14:31.495866"
+}

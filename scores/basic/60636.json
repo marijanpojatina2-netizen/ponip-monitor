@@ -1,0 +1,15 @@
+{
+  "id": "60636",
+  "score_overall": 4.8,
+  "score_lokacija": 6.0,
+  "score_roi": 4.0,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Šumsko zemljište u k.o. Samobor ima solidnu lokacijsku osnovu blizu Zagreba, no kupnja samo 2/3 suvlasničkog dijela uz svega 20% popust i zakonske restrikcije razvoja šuma drastično sužava ROI potencijal. Izlaz iz investicije bio bi izuzetno otežan bez suglasnosti suvlasnika.",
+  "flags": [
+    "suvlasništvo (2/3 dijela)",
+    "šumsko zemljište (zakonske restrikcije razvoja)"
+  ],
+  "input_hash": "ae07baf8f495",
+  "scored_at": "2026-06-16T11:08:10.238451"
+}

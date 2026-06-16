@@ -1,0 +1,14 @@
+{
+  "id": "60634",
+  "score_overall": 5.0,
+  "score_lokacija": 6.0,
+  "score_roi": 4.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Puno vlasništvo nad šumom u k.o. Samobor povoljnije je od suvlasničke varijante, ali cijena od ~156 EUR/m2 za šumu uz samo 20% popust ne daje uvjerljiv investicijski slučaj bez razvojnih perspektiva. Šumsko zemljište nosi stroge zakonske restrikcije namjene koje onemogućuju izgradnju.",
+  "flags": [
+    "šumsko zemljište (zakonske restrikcije razvoja)"
+  ],
+  "input_hash": "15c8b6f23aab",
+  "scored_at": "2026-06-16T11:08:10.238590"
+}
