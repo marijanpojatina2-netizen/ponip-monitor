@@ -171,8 +171,28 @@
     .pcard{padding:6px 6px 7px;}
     .ptag{font-size:11px;padding:1px 6px;}
   }
+  /* login lock screen */
+  .lock{position:fixed;inset:0;z-index:60;display:flex;align-items:center;justify-content:center;padding:20px;
+    background:radial-gradient(circle at 30% 18%,#454c59,#1b1f26);}
+  .lock.hidden{display:none;}
+  .lock-card{width:min(380px,92vw);background:#fffdf8;border-radius:18px;padding:28px 24px;text-align:center;
+    box-shadow:0 30px 70px rgba(0,0,0,.6),inset 0 0 0 1px rgba(0,0,0,.05);}
+  .lock-ball{font-size:38px;line-height:1;}
+  .lock-card h2{font-family:var(--marker);font-size:24px;margin:6px 0 2px;color:var(--ink);}
+  .lock-card p{font-family:var(--hand);font-size:17px;color:#5b6470;margin:0 0 18px;}
+  .lock-card input{display:block;width:100%;margin:0 0 10px;padding:11px 12px;border-radius:10px;border:1.5px solid #cfd5dd;font-size:16px;font-family:inherit;color:var(--ink);}
+  .lock-card input:focus{outline:none;border-color:var(--blue);}
+  .lock-card .btn{width:100%;background:var(--green);font-size:18px;margin-top:4px;}
+  .lock-err{color:var(--red);font-family:var(--hand);font-weight:700;font-size:15px;min-height:20px;margin-top:10px;}
+
+  .mode-banner{max-width:1180px;margin:0 auto 14px;text-align:center;font-family:var(--hand);font-weight:700;font-size:15px;padding:8px 14px;border-radius:10px;}
+  .mode-local{background:#fff3cd;color:#7a5b00;}
+  .mode-cloud{background:#d9f2e3;color:#0f5a2e;}
+  .btn.logout{background:#64748b;}
+
   @media print{
     body{background:#fff;padding:0;}
+    .lock,.mode-banner{display:none!important;}
     .toolbar,.tray,.hint,.page-head p{display:none;}
     .frame,.sheet,.tcard{box-shadow:none;}
     input,select{border:none!important;background:transparent!important;}
@@ -181,10 +201,25 @@
 </head>
 <body>
 
+<!-- ============ LOGIN LOCK ============ -->
+<div class="lock hidden" id="lock">
+  <div class="lock-card">
+    <div class="lock-ball">🔒🏀</div>
+    <h2>Prijava</h2>
+    <p>Unesi pristupne podatke za ekipu</p>
+    <input id="lkEmail" type="email" placeholder="e-mail" autocomplete="username">
+    <input id="lkPass" type="password" placeholder="lozinka" autocomplete="current-password">
+    <button class="btn" id="lkBtn">Uđi</button>
+    <div class="lock-err" id="lkErr"></div>
+  </div>
+</div>
+
 <div class="page-head">
   <h1>Kalkulator budžeta — Košarkaška ekipa</h1>
   <p>Posloži postavu na ploči i izračunaj trošak sezone</p>
 </div>
+
+<div class="mode-banner mode-local" id="modeBanner" style="display:none"></div>
 
 <!-- ============ WHITEBOARD ============ -->
 <div class="board-wrap">
@@ -233,15 +268,27 @@
   <button class="btn demo" id="btnDemo">Primjer postave</button>
   <button class="btn print" id="btnPrint">Ispiši / PDF</button>
   <button class="btn reset" id="btnReset">Očisti ploču</button>
+  <button class="btn logout" id="btnLogout" style="display:none">Odjava</button>
   <label class="cur-toggle">Valuta:
     <select id="curSel"><option value="€">€ EUR</option><option value="$">$ USD</option><option value="kn">kn</option><option value="RSD">RSD</option></select>
   </label>
 </div>
 <p class="hint">Plaća i stan računaju se kroz isti broj mjeseci (9 ili 10), agent je postotak od neto godišnjeg ugovora (plaća × mjeseci). Sve se sprema automatski u pregledniku.</p>
 
-<script>
-(function(){
-  "use strict";
+<script type="module">
+  // ===================================================================
+  //  FIREBASE CONFIG  —  zalijepi ovdje podatke iz svog Firebase projekta.
+  //  Dok je prazno, aplikacija radi LOKALNO (sprema samo na ovaj uređaj).
+  //  Kad upišeš config, uključuje se prijava lozinkom + dijeljeni oblak.
+  // ===================================================================
+  const firebaseConfig = {
+    apiKey:     "",
+    authDomain: "",
+    projectId:  "",
+    appId:      ""
+  };
+  const CLOUD = !!firebaseConfig.apiKey;
+
   const POSITIONS=[
     {key:"PG",name:"Playmaker"},{key:"SG",name:"Bek šuter"},{key:"SF",name:"Niski krilo"},
     {key:"PF",name:"Krilni centar"},{key:"C",name:"Centar"}
@@ -256,7 +303,8 @@
   let cur=localStorage.getItem(CUR_KEY)||"€";
 
   function load(){try{const raw=localStorage.getItem(STORE_KEY);if(!raw)return null;const d=JSON.parse(raw);const s=blank();Object.keys(s).forEach(k=>{if(d[k])Object.assign(s[k],d[k]);});return s;}catch(e){return null;}}
-  function save(){localStorage.setItem(STORE_KEY,JSON.stringify(state));localStorage.setItem(CUR_KEY,cur);}
+  function mergeData(d){const s=blank();Object.keys(s).forEach(k=>{if(d&&d[k])Object.assign(s[k],d[k]);});state=s;}
+  function save(){localStorage.setItem(STORE_KEY,JSON.stringify(state));localStorage.setItem(CUR_KEY,cur);if(cloudReady)scheduleCloudSave();}
 
   const num=v=>{const n=parseFloat(String(v).replace(/[^0-9.\-]/g,""));return isNaN(n)?0:n;};
   function fmt(n){const r=Math.round(n);const s=r.toLocaleString("hr-HR");return cur==="$"?cur+s:s+" "+cur;}
@@ -354,8 +402,87 @@
   }
 
   function render(){document.getElementById("curSel").value=cur;buildRoster();buildFinance();recompute();}
+
+  // update existing inputs from state without rebuilding DOM (keeps focus on live sync)
+  function applyValues(){
+    POSITIONS.forEach(p=>ROLES.forEach(r=>{
+      const key=p.key+"-"+r.key;const pl=state[key];
+      const ni=document.querySelector('.pname[data-key="'+key+'"]');
+      if(ni&&document.activeElement!==ni)ni.value=pl.name;
+      const nm=document.getElementById("nm-"+key);
+      if(nm){nm.textContent=pl.name||roleLabel(r.key);nm.classList.toggle("empty",!pl.name);}
+      ["salary","flat","agent"].forEach(f=>{const inp=document.querySelector('.money[data-key="'+key+'"][data-f="'+f+'"]');if(inp&&document.activeElement!==inp)inp.value=pl[f]||'';});
+      const mo=document.querySelector('.months[data-key="'+key+'"]');if(mo&&document.activeElement!==mo)mo.value=pl.months;
+    }));
+    document.getElementById("curSel").value=cur;
+    recompute();
+  }
+
+  // ---------- cloud (Firebase) ----------
+  let fb=null, cloudReady=false, subscribed=false, saveTimer=null;
+  function scheduleCloudSave(){clearTimeout(saveTimer);saveTimer=setTimeout(cloudSave,600);}
+  async function cloudSave(){if(!fb||!fb.auth.currentUser)return;try{await fb.setDoc(fb.docRef,{state,cur,updatedAt:Date.now()},{merge:true});}catch(e){console.warn("cloud save",e);}}
+  function setBanner(kind,txt){const b=document.getElementById("modeBanner");b.style.display="";b.className="mode-banner mode-"+kind;b.textContent=txt;}
+  function showLock(){document.getElementById("lock").classList.remove("hidden");}
+  function hideLock(){document.getElementById("lock").classList.add("hidden");}
+
+  async function initCloud(){
+    const [appM,authM,fsM]=await Promise.all([
+      import("https://www.gstatic.com/firebasejs/10.12.0/firebase-app.js"),
+      import("https://www.gstatic.com/firebasejs/10.12.0/firebase-auth.js"),
+      import("https://www.gstatic.com/firebasejs/10.12.0/firebase-firestore.js")
+    ]);
+    const app=appM.initializeApp(firebaseConfig);
+    const auth=authM.getAuth(app);
+    const db=fsM.getFirestore(app);
+    fb={auth,db,docRef:fsM.doc(db,"team","main"),setDoc:fsM.setDoc,onSnapshot:fsM.onSnapshot,
+        signIn:authM.signInWithEmailAndPassword,signOut:authM.signOut,onAuth:authM.onAuthStateChanged};
+
+    document.getElementById("lkBtn").addEventListener("click",doLogin);
+    document.getElementById("lkPass").addEventListener("keydown",e=>{if(e.key==="Enter")doLogin();});
+    document.getElementById("btnLogout").addEventListener("click",()=>fb.signOut(fb.auth));
+
+    fb.onAuth(auth,user=>{
+      if(user){
+        hideLock();cloudReady=true;
+        document.getElementById("btnLogout").style.display="";
+        setBanner("cloud","☁️ Spojeno — podaci se dijele i spremaju u oblak");
+        subscribeCloud();
+      }else{
+        cloudReady=false;
+        document.getElementById("btnLogout").style.display="none";
+        showLock();
+      }
+    });
+  }
+  function subscribeCloud(){
+    if(subscribed)return;subscribed=true;
+    fb.onSnapshot(fb.docRef,snap=>{
+      if(snap.metadata.hasPendingWrites)return;       // ignore echo of our own write
+      if(snap.exists()){
+        const d=snap.data();
+        if(d.state)mergeData(d.state);
+        if(d.cur)cur=d.cur;
+        applyValues();
+      }else{cloudSave();}                              // first run: seed the doc
+    });
+  }
+  async function doLogin(){
+    const email=document.getElementById("lkEmail").value.trim();
+    const pass=document.getElementById("lkPass").value;
+    const err=document.getElementById("lkErr");err.textContent="";
+    try{await fb.signIn(fb.auth,email,pass);}
+    catch(ex){err.textContent="Pogrešan e-mail ili lozinka.";}
+  }
+
+  // ---------- startup ----------
   render();
-})();
+  if(CLOUD){
+    showLock();
+    initCloud().catch(e=>{console.error(e);setBanner("local","⚠️ Greška pri spajanju na oblak — radi lokalno");hideLock();});
+  }else{
+    setBanner("local","⚠️ Lokalni način — podaci ostaju samo na ovom uređaju. (Firebase još nije postavljen.)");
+  }
 </script>
 </body>
 </html>
