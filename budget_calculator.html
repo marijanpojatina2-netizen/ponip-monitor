@@ -256,7 +256,7 @@
               <th>Neto plaća/mj.</th>
               <th>Mj.</th>
               <th>Stan/mj.</th>
-              <th>Agent/god.</th>
+              <th>Agent %</th>
               <th>Ukupno/god.</th>
             </tr>
           </thead>
@@ -296,7 +296,7 @@
     </select>
   </label>
 </div>
-<p class="hint">Stan se računa kroz svih 12 mjeseci, plaća kroz 9 ili 10 mjeseci (po izboru), agent je godišnji iznos. Sve se sprema automatski u pregledniku.</p>
+<p class="hint">Plaća i stan računaju se kroz isti broj mjeseci (9 ili 10), agent je postotak od neto godišnjeg ugovora (plaća × mjeseci). Sve se sprema automatski u pregledniku.</p>
 
 <script>
 (function(){
@@ -341,8 +341,11 @@
     const s=r.toLocaleString("hr-HR");
     return cur==="$" ? cur+s : s+" "+cur;
   }
-  // player season cost: salary*months + apartment*12 + agent(annual)
-  function playerSeason(p){return num(p.salary)*num(p.months) + num(p.flat)*12 + num(p.agent);}
+  // player season cost: salary*months + apartment*months + agent(% of net annual contract)
+  function playerSeason(p){
+    const contract=num(p.salary)*num(p.months);
+    return contract + num(p.flat)*num(p.months) + contract*num(p.agent)/100;
+  }
 
   // ---------- build LEFT positions ----------
   function buildPositions(){
@@ -380,7 +383,7 @@
             <option value="10" ${pl.months==10?'selected':''}>10</option>
           </select></td>
           <td class="num"><input class="money" data-key="${key}" data-f="flat" value="${pl.flat||''}" placeholder="0"></td>
-          <td class="num"><input class="money" data-key="${key}" data-f="agent" value="${pl.agent||''}" placeholder="0"></td>
+          <td class="num"><input class="money" data-key="${key}" data-f="agent" value="${pl.agent||''}" placeholder="0" title="postotak od neto godišnjeg ugovora"></td>
           <td class="total" id="tot-${key}">—</td>`;
         body.appendChild(tr);
       });
@@ -395,7 +398,7 @@
     POSITIONS.forEach(p=>ROLES.forEach(r=>{
       const key=p.key+"-"+r.key;const pl=state[key];
       const sal=num(pl.salary)*num(pl.months);
-      const ext=num(pl.flat)*12+num(pl.agent);
+      const ext=num(pl.flat)*num(pl.months) + sal*num(pl.agent)/100;
       const tot=sal+ext;
       salary+=sal;extras+=ext;season+=tot;
       const tcell=document.getElementById("tot-"+key);
@@ -439,20 +442,20 @@
   function loadDemo(){
     state=blank();
     const d={
-      "PG-starter":["Marko Perić",8500,10,650,12000],
-      "PG-bench":["Luka Babić",3200,10,450,0],
+      "PG-starter":["Marko Perić",8500,10,650,10],
+      "PG-bench":["Luka Babić",3200,10,450,5],
       "PG-dev":["Ivan Novak",900,9,0,0],
-      "SG-starter":["DeShawn Carter",11000,10,800,18000],
-      "SG-bench":["Filip Kovač",2800,10,400,0],
+      "SG-starter":["DeShawn Carter",11000,10,800,10],
+      "SG-bench":["Filip Kovač",2800,10,400,5],
       "SG-dev":["Tomislav Jurić",750,9,0,0],
-      "SF-starter":["Mateo Rukavina",7600,10,600,9000],
-      "SF-bench":["Karlo Vidović",2500,10,380,0],
+      "SF-starter":["Mateo Rukavina",7600,10,600,8],
+      "SF-bench":["Karlo Vidović",2500,10,380,5],
       "SF-dev":["Petar Šimić",800,9,0,0],
-      "PF-starter":["Nikola Bogdan",9200,10,700,14000],
-      "PF-bench":["Ante Marković",2600,10,400,0],
+      "PF-starter":["Nikola Bogdan",9200,10,700,10],
+      "PF-bench":["Ante Marković",2600,10,400,5],
       "PF-dev":["Roko Lović",700,9,0,0],
-      "C-starter":["Mike Johnson",13000,10,950,22000],
-      "C-bench":["Stipe Galić",3000,10,450,0],
+      "C-starter":["Mike Johnson",13000,10,950,10],
+      "C-bench":["Stipe Galić",3000,10,450,5],
       "C-dev":["Bruno Kralj",850,9,0,0]
     };
     Object.keys(d).forEach(k=>{
