@@ -1,0 +1,14 @@
+{
+  "id": "60599",
+  "score_overall": 5.3,
+  "score_lokacija": 6.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Lokacija na Južnoj obali u Novom Zagrebu je relativno povoljna, ali predmet prodaje je samo 141/560 suvlasničkog udjela na kompleksu s više čestica, što drastično ograničava mogućnost upravljanja i daljnje realizacije. Uz svega 20% popusta na prvoj dražbi, omjer rizika i prinosa nije povoljan.",
+  "flags": [
+    "suvlasnički udio (141/560)"
+  ],
+  "input_hash": "c26ef09f4989",
+  "scored_at": "2026-06-17T10:50:54.108273"
+}

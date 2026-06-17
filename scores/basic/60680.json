@@ -1,0 +1,14 @@
+{
+  "id": "60680",
+  "score_overall": 3.5,
+  "score_lokacija": 4.0,
+  "score_roi": 3.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Prodaje se isključivo 1/3 suvlasničkog udjela na poljoprivrednom zemljištu (voćnjak, oranica, livada) u ruralnom Međimurju — bez kontrole nad cjelinom, bez građevinskog potencijala i uz ograničenu likvidnost tržišta. Investicijski case ne postoji.",
+  "flags": [
+    "suvlasnički udio (1/3)"
+  ],
+  "input_hash": "7a14f6bc4871",
+  "scored_at": "2026-06-17T10:50:54.108415"
+}
