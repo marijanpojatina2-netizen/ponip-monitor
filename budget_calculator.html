@@ -139,7 +139,12 @@
   tbody tr.posfirst td{border-top:2px solid rgba(80,95,110,.28);}
   .pos-cell{font-family:var(--marker);font-size:15px;text-align:center;}
   .role-dot{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:6px;vertical-align:middle;}
-  .role-starter{background:var(--green);} .role-bench{background:var(--blue);} .role-dev{background:var(--orange);}
+  .role-starter{background:var(--green);} .role-bench{background:var(--blue);} .role-dev{background:var(--orange);} .role-staff{background:var(--purple);}
+  tr.staff-head td{font-family:var(--marker);font-size:14px;color:#5b6470;letter-spacing:.4px;padding:14px 8px 4px;border-bottom:2.5px solid rgba(124,58,237,.45);}
+  tr.staff{background:rgba(124,58,237,.06);}
+  input.cname{width:100%;min-width:90px;border:none;background:transparent;border-bottom:1.5px solid rgba(120,135,150,.4);font-family:var(--hand);font-size:18px;font-weight:600;color:var(--ink);padding:1px 2px;outline:none;}
+  input.cname:focus{border-color:var(--blue);}
+  input.cname::placeholder{color:#aab1ba;font-weight:500;font-style:italic;}
   .nm{font-family:var(--hand);font-size:18px;font-weight:600;color:var(--ink);}
   .nm.empty{color:#aab1ba;font-style:italic;}
   td.num{text-align:right;}
@@ -298,9 +303,12 @@
   const ROLES=[
     {key:"starter",label:"Petorka"},{key:"bench",label:"Zamjena"},{key:"dev",label:"Klinac"}
   ];
+  const STAFF=[
+    {key:"head",label:"Glavni trener"},{key:"assist",label:"Pomoćni trener"}
+  ];
   const STORE_KEY="bball-budget-v2", CUR_KEY="bball-budget-cur";
 
-  function blank(){const s={};POSITIONS.forEach(p=>ROLES.forEach(r=>{s[p.key+"-"+r.key]={name:"",salary:0,months:10,flat:0,agent:0};}));return s;}
+  function blank(){const s={};POSITIONS.forEach(p=>ROLES.forEach(r=>{s[p.key+"-"+r.key]={name:"",salary:0,months:10,flat:0,agent:0};}));STAFF.forEach(c=>{s["STAFF-"+c.key]={name:"",salary:0,months:10,flat:0,agent:0};});return s;}
   let state=load()||blank();
   let cur=localStorage.getItem(CUR_KEY)||"€";
 
@@ -350,21 +358,40 @@
         body.appendChild(tr);
       });
     });
+    // ---- coaching staff ----
+    const head=document.createElement("tr");head.className="staff-head";
+    head.innerHTML=`<td colspan="7">Trenerski stožer</td>`;
+    body.appendChild(head);
+    STAFF.forEach((c,i)=>{
+      const key="STAFF-"+c.key;const pl=state[key];
+      const tr=document.createElement("tr");tr.className="staff"+(i===0?" posfirst":"");
+      tr.innerHTML=`
+        <td class="pos-cell">🧑‍🏫</td>
+        <td><span class="role-dot role-staff"></span><input class="cname" data-key="${key}" placeholder="${c.label}…" value="${escAttr(pl.name)}"></td>
+        <td class="num"><input class="money" data-key="${key}" data-f="salary" value="${pl.salary||''}" placeholder="0"></td>
+        <td class="num"><select class="months" data-key="${key}" data-f="months"><option value="9" ${pl.months==9?'selected':''}>9</option><option value="10" ${pl.months==10?'selected':''}>10</option></select></td>
+        <td class="num"><input class="money" data-key="${key}" data-f="flat" value="${pl.flat||''}" placeholder="0"></td>
+        <td class="num"><input class="money" data-key="${key}" data-f="agent" value="${pl.agent||''}" placeholder="0" title="postotak neto godišnjeg ugovora"></td>
+        <td class="total" id="tot-${key}">—</td>`;
+      body.appendChild(tr);
+    });
   }
 
   function escAttr(s){return String(s).replace(/"/g,"&quot;").replace(/</g,"&lt;");}
 
   function recompute(){
     let salary=0,extras=0,season=0;
-    POSITIONS.forEach(p=>ROLES.forEach(r=>{
-      const key=p.key+"-"+r.key;const pl=state[key];
+    const tally=key=>{
+      const pl=state[key];
       const sal=num(pl.salary)*num(pl.months);
       const ext=num(pl.flat)*num(pl.months)+sal*num(pl.agent)/100;
       const tot=sal+ext;
       salary+=sal;extras+=ext;season+=tot;
       const tcell=document.getElementById("tot-"+key);if(tcell)tcell.textContent=tot>0?fmt(tot):"—";
       const mini=document.getElementById("mini-"+key);if(mini)mini.innerHTML=tot>0?("<b>"+fmt(tot)+"</b>"):"";
-    }));
+    };
+    POSITIONS.forEach(p=>ROLES.forEach(r=>tally(p.key+"-"+r.key)));
+    STAFF.forEach(c=>tally("STAFF-"+c.key));
     document.getElementById("tSalary").textContent=fmt(salary);
     document.getElementById("tExtras").textContent=fmt(extras);
     document.getElementById("tMonth").textContent=fmt(season/12);
@@ -377,6 +404,8 @@
       state[key].name=t.value;
       const nm=document.getElementById("nm-"+key);
       if(nm){nm.textContent=t.value||roleLabel(key.split("-")[1]);nm.classList.toggle("empty",!t.value);}
+    }else if(t.classList.contains("cname")){
+      state[key].name=t.value;
     }else{
       const f=t.getAttribute("data-f");
       state[key][f]= f==="months"?parseInt(t.value,10):num(t.value);
@@ -398,7 +427,8 @@
       "SG-starter":["DeShawn Carter",11000,10,800,10],"SG-bench":["Filip Kovač",2800,10,400,5],"SG-dev":["Tomislav Jurić",750,9,0,0],
       "SF-starter":["Mateo Rukavina",7600,10,600,8],"SF-bench":["Karlo Vidović",2500,10,380,5],"SF-dev":["Petar Šimić",800,9,0,0],
       "PF-starter":["Nikola Bogdan",9200,10,700,10],"PF-bench":["Ante Marković",2600,10,400,5],"PF-dev":["Roko Lović",700,9,0,0],
-      "C-starter":["Mike Johnson",13000,10,950,10],"C-bench":["Stipe Galić",3000,10,450,5],"C-dev":["Bruno Kralj",850,9,0,0]
+      "C-starter":["Mike Johnson",13000,10,950,10],"C-bench":["Stipe Galić",3000,10,450,5],"C-dev":["Bruno Kralj",850,9,0,0],
+      "STAFF-head":["Damir Mulaomerović",9000,10,700,8],"STAFF-assist":["Josip Vranković",3500,10,450,0]
     };
     Object.keys(d).forEach(k=>{const[name,salary,months,flat,agent]=d[k];state[k]={name,salary,months,flat,agent};});
   }
@@ -407,15 +437,17 @@
 
   // update existing inputs from state without rebuilding DOM (keeps focus on live sync)
   function applyValues(){
-    POSITIONS.forEach(p=>ROLES.forEach(r=>{
-      const key=p.key+"-"+r.key;const pl=state[key];
-      const ni=document.querySelector('.pname[data-key="'+key+'"]');
+    const sync=(key,nameSel)=>{
+      const pl=state[key];
+      const ni=document.querySelector(nameSel+'[data-key="'+key+'"]');
       if(ni&&document.activeElement!==ni)ni.value=pl.name;
       const nm=document.getElementById("nm-"+key);
-      if(nm){nm.textContent=pl.name||roleLabel(r.key);nm.classList.toggle("empty",!pl.name);}
+      if(nm){nm.textContent=pl.name||roleLabel(key.split("-")[1]);nm.classList.toggle("empty",!pl.name);}
       ["salary","flat","agent"].forEach(f=>{const inp=document.querySelector('.money[data-key="'+key+'"][data-f="'+f+'"]');if(inp&&document.activeElement!==inp)inp.value=pl[f]||'';});
       const mo=document.querySelector('.months[data-key="'+key+'"]');if(mo&&document.activeElement!==mo)mo.value=pl.months;
-    }));
+    };
+    POSITIONS.forEach(p=>ROLES.forEach(r=>sync(p.key+"-"+r.key,'.pname')));
+    STAFF.forEach(c=>sync("STAFF-"+c.key,'.cname'));
     document.getElementById("curSel").value=cur;
     recompute();
   }
