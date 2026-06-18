@@ -280,7 +280,7 @@
     <select id="curSel"><option value="€">€ EUR</option><option value="$">$ USD</option><option value="kn">kn</option><option value="RSD">RSD</option></select>
   </label>
 </div>
-<p class="hint">Upisuje se <b>neto</b> plaća, a trošak se računa <b>bruto</b> prema obračunu: <b>Cash</b> = neto (0 doprinosa) · <b>HR igrač</b> = prvih 600 € neoporezivo, ostatak × 1,35 · <b>Stranac obrt</b> = neto × 1,60 · <b>Paušalni obrt</b> = neto + 350 €. Plaća i stan idu kroz 9/10 mjeseci, agent je % od neto godišnjeg ugovora. Sve se sprema u oblak.</p>
+<p class="hint">Upisuje se <b>neto</b> plaća, a trošak se računa <b>bruto</b> prema obračunu: <b>Cash</b> = neto (0 doprinosa) · <b>HR igrač</b> = prvih 600 € neoporezivo, ostatak × 1,275 · <b>Stranac obrt</b> = neto × 1,60 · <b>Paušalni obrt</b> = neto + 350 €. Plaća i stan idu kroz 9/10 mjeseci, agent je % od neto godišnjeg ugovora. Sve se sprema u oblak.</p>
 
 <script type="module">
   // ===================================================================
@@ -323,7 +323,7 @@
     const net=num(pl.salary);
     if(net<=0)return 0;
     switch(pl.tax){
-      case "hr":      return net<=600 ? net : 600+(net-600)*1.35;
+      case "hr":      return net<=600 ? net : 600+(net-600)*1.275;
       case "obrt_str":return net*1.60;
       case "pausal":  return net+350;
       default:        return net; // cash
