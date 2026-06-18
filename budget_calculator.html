@@ -131,7 +131,7 @@
     background-image:linear-gradient(#fffdf8,#fffdf8),repeating-linear-gradient(0deg,transparent,transparent 31px,rgba(120,135,150,.10) 31px,rgba(120,135,150,.10) 32px);}
   .sheet h2{font-family:var(--marker);font-size:20px;color:var(--ink);margin:2px 0 12px;text-align:center;}
   .scroll{overflow-x:auto;}
-  table{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums;min-width:620px;}
+  table{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums;min-width:760px;}
   thead th{font-family:var(--hand);font-weight:700;font-size:15px;color:#39414e;text-align:right;padding:6px 8px 9px;border-bottom:2.5px solid rgba(80,95,110,.5);white-space:nowrap;}
   thead th.lft{text-align:left;}
   tbody td{padding:5px 8px;border-bottom:1px solid rgba(120,135,150,.18);}
@@ -151,6 +151,7 @@
   input.money{width:80px;text-align:right;border:1px solid rgba(120,135,150,.3);background:#fff;border-radius:6px;padding:4px 6px;font-size:13px;font-family:inherit;color:var(--ink);}
   input.money:focus{outline:none;border-color:var(--blue);}
   select.months{border:1px solid rgba(120,135,150,.3);border-radius:6px;background:#fff;padding:3px 4px;font-size:13px;font-family:inherit;color:var(--ink);}
+  select.taxsel{border:1px solid rgba(120,135,150,.3);border-radius:6px;background:#fff;padding:3px 4px;font-size:12px;font-family:inherit;color:var(--ink);max-width:120px;}
   td.total{text-align:right;font-weight:700;font-size:13px;color:#0f2a17;white-space:nowrap;}
 
   /* totals */
@@ -249,6 +250,7 @@
             <th class="lft">Poz.</th>
             <th class="lft">Igrač</th>
             <th>Neto plaća/mj.</th>
+            <th>Obračun</th>
             <th>Mj.</th>
             <th>Stan/mj.</th>
             <th>Agent %</th>
@@ -263,7 +265,7 @@
 
 <!-- ============ TOTALS ============ -->
 <div class="totals">
-  <div class="tcard salary"><h3>Plaće (sezona)</h3><div class="val" id="tSalary">—</div></div>
+  <div class="tcard salary"><h3>Bruto plaće (sezona)</h3><div class="val" id="tSalary">—</div></div>
   <div class="tcard extras"><h3>Stanovi + agenti</h3><div class="val" id="tExtras">—</div></div>
   <div class="tcard month"><h3>Prosjek / mjesec</h3><div class="val" id="tMonth">—</div></div>
   <div class="tcard season"><h3>UKUPNO SEZONA</h3><div class="val" id="tSeason">—</div></div>
@@ -278,7 +280,7 @@
     <select id="curSel"><option value="€">€ EUR</option><option value="$">$ USD</option><option value="kn">kn</option><option value="RSD">RSD</option></select>
   </label>
 </div>
-<p class="hint">Plaća i stan računaju se kroz isti broj mjeseci (9 ili 10), agent je postotak od neto godišnjeg ugovora (plaća × mjeseci). Sve se sprema automatski u pregledniku.</p>
+<p class="hint">Upisuje se <b>neto</b> plaća, a trošak se računa <b>bruto</b> prema obračunu: <b>Cash</b> = neto (0 doprinosa) · <b>HR igrač</b> = prvih 600 € neoporezivo, ostatak × 1,35 · <b>Stranac obrt</b> = neto × 1,60 · <b>Paušalni obrt</b> = neto + 350 €. Plaća i stan idu kroz 9/10 mjeseci, agent je % od neto godišnjeg ugovora. Sve se sprema u oblak.</p>
 
 <script type="module">
   // ===================================================================
@@ -308,7 +310,30 @@
   ];
   const STORE_KEY="bball-budget-v2", CUR_KEY="bball-budget-cur";
 
-  function blank(){const s={};POSITIONS.forEach(p=>ROLES.forEach(r=>{s[p.key+"-"+r.key]={name:"",salary:0,months:10,flat:0,agent:0};}));STAFF.forEach(c=>{s["STAFF-"+c.key]={name:"",salary:0,months:10,flat:0,agent:0};});return s;}
+  function blank(){const s={};POSITIONS.forEach(p=>ROLES.forEach(r=>{s[p.key+"-"+r.key]={name:"",salary:0,months:10,flat:0,agent:0,tax:"cash"};}));STAFF.forEach(c=>{s["STAFF-"+c.key]={name:"",salary:0,months:10,flat:0,agent:0,tax:"cash"};});return s;}
+
+  // net -> bruto monthly cost, per player tax status
+  const TAX_OPTS=[
+    {v:"cash",   t:"Cash (0 dopr.)"},
+    {v:"hr",     t:"HR igrač"},
+    {v:"obrt_str",t:"Stranac obrt"},
+    {v:"pausal", t:"Paušalni obrt"}
+  ];
+  function grossMonthly(pl){
+    const net=num(pl.salary);
+    if(net<=0)return 0;
+    switch(pl.tax){
+      case "hr":      return net<=600 ? net : 600+(net-600)*1.35;
+      case "obrt_str":return net*1.60;
+      case "pausal":  return net+350;
+      default:        return net; // cash
+    }
+  }
+  function taxSelect(key,val){
+    return '<select class="taxsel" data-key="'+key+'" data-f="tax">'+
+      TAX_OPTS.map(o=>'<option value="'+o.v+'"'+(val===o.v?' selected':'')+'>'+o.t+'</option>').join('')+
+      '</select>';
+  }
   let state=load()||blank();
   let cur=localStorage.getItem(CUR_KEY)||"€";
 
@@ -351,6 +376,7 @@
           <td class="pos-cell">${i===0?p.key:""}</td>
           <td><span class="role-dot role-${r.key}"></span><span class="nm ${pl.name?'':'empty'}" id="nm-${key}">${pl.name||r.label}</span></td>
           <td class="num"><input class="money" data-key="${key}" data-f="salary" value="${pl.salary||''}" placeholder="0"></td>
+          <td>${taxSelect(key,pl.tax)}</td>
           <td class="num"><select class="months" data-key="${key}" data-f="months"><option value="9" ${pl.months==9?'selected':''}>9</option><option value="10" ${pl.months==10?'selected':''}>10</option></select></td>
           <td class="num"><input class="money" data-key="${key}" data-f="flat" value="${pl.flat||''}" placeholder="0"></td>
           <td class="num"><input class="money" data-key="${key}" data-f="agent" value="${pl.agent||''}" placeholder="0" title="postotak neto godišnjeg ugovora"></td>
@@ -360,7 +386,7 @@
     });
     // ---- coaching staff ----
     const head=document.createElement("tr");head.className="staff-head";
-    head.innerHTML=`<td colspan="7">Trenerski stožer</td>`;
+    head.innerHTML=`<td colspan="8">Trenerski stožer</td>`;
     body.appendChild(head);
     STAFF.forEach((c,i)=>{
       const key="STAFF-"+c.key;const pl=state[key];
@@ -369,6 +395,7 @@
         <td class="pos-cell">🧑‍🏫</td>
         <td><span class="role-dot role-staff"></span><input class="cname" data-key="${key}" placeholder="${c.label}…" value="${escAttr(pl.name)}"></td>
         <td class="num"><input class="money" data-key="${key}" data-f="salary" value="${pl.salary||''}" placeholder="0"></td>
+        <td>${taxSelect(key,pl.tax)}</td>
         <td class="num"><select class="months" data-key="${key}" data-f="months"><option value="9" ${pl.months==9?'selected':''}>9</option><option value="10" ${pl.months==10?'selected':''}>10</option></select></td>
         <td class="num"><input class="money" data-key="${key}" data-f="flat" value="${pl.flat||''}" placeholder="0"></td>
         <td class="num"><input class="money" data-key="${key}" data-f="agent" value="${pl.agent||''}" placeholder="0" title="postotak neto godišnjeg ugovora"></td>
@@ -383,8 +410,9 @@
     let salary=0,extras=0,season=0;
     const tally=key=>{
       const pl=state[key];
-      const sal=num(pl.salary)*num(pl.months);
-      const ext=num(pl.flat)*num(pl.months)+sal*num(pl.agent)/100;
+      const netAnnual=num(pl.salary)*num(pl.months);   // neto godišnji ugovor (za agenta)
+      const sal=grossMonthly(pl)*num(pl.months);        // BRUTO trošak plaće za sezonu
+      const ext=num(pl.flat)*num(pl.months)+netAnnual*num(pl.agent)/100;
       const tot=sal+ext;
       salary+=sal;extras+=ext;season+=tot;
       const tcell=document.getElementById("tot-"+key);if(tcell)tcell.textContent=tot>0?fmt(tot):"—";
@@ -400,6 +428,7 @@
 
   document.addEventListener("input",e=>{
     const t=e.target;const key=t.getAttribute("data-key");if(!key)return;
+    if(t.tagName==="SELECT")return;   // selects (mj./obračun) handled by 'change'
     if(t.classList.contains("pname")){
       state[key].name=t.value;
       const nm=document.getElementById("nm-"+key);
@@ -413,7 +442,14 @@
     }
     save();
   });
-  document.addEventListener("change",e=>{if(e.target.classList.contains("months")){recompute();save();}});
+  document.addEventListener("change",e=>{
+    const t=e.target;const key=t.getAttribute("data-key");
+    if(t.tagName==="SELECT"&&key&&t.getAttribute("data-f")){
+      const f=t.getAttribute("data-f");
+      state[key][f]= f==="months"?parseInt(t.value,10):t.value;
+      recompute();save();
+    }
+  });
 
   document.getElementById("curSel").addEventListener("change",e=>{cur=e.target.value;save();recompute();});
   document.getElementById("btnPrint").addEventListener("click",()=>window.print());
@@ -423,14 +459,14 @@
   function loadDemo(){
     state=blank();
     const d={
-      "PG-starter":["Marko Perić",8500,10,650,10],"PG-bench":["Luka Babić",3200,10,450,5],"PG-dev":["Ivan Novak",900,9,0,0],
-      "SG-starter":["DeShawn Carter",11000,10,800,10],"SG-bench":["Filip Kovač",2800,10,400,5],"SG-dev":["Tomislav Jurić",750,9,0,0],
-      "SF-starter":["Mateo Rukavina",7600,10,600,8],"SF-bench":["Karlo Vidović",2500,10,380,5],"SF-dev":["Petar Šimić",800,9,0,0],
-      "PF-starter":["Nikola Bogdan",9200,10,700,10],"PF-bench":["Ante Marković",2600,10,400,5],"PF-dev":["Roko Lović",700,9,0,0],
-      "C-starter":["Mike Johnson",13000,10,950,10],"C-bench":["Stipe Galić",3000,10,450,5],"C-dev":["Bruno Kralj",850,9,0,0],
-      "STAFF-head":["Damir Mulaomerović",9000,10,700,8],"STAFF-assist":["Josip Vranković",3500,10,450,0]
+      "PG-starter":["Marko Perić",8500,10,650,10,"hr"],"PG-bench":["Luka Babić",3200,10,450,5,"hr"],"PG-dev":["Ivan Novak",900,9,0,0,"pausal"],
+      "SG-starter":["DeShawn Carter",11000,10,800,10,"obrt_str"],"SG-bench":["Filip Kovač",2800,10,400,5,"hr"],"SG-dev":["Tomislav Jurić",750,9,0,0,"pausal"],
+      "SF-starter":["Mateo Rukavina",7600,10,600,8,"hr"],"SF-bench":["Karlo Vidović",2500,10,380,5,"hr"],"SF-dev":["Petar Šimić",800,9,0,0,"pausal"],
+      "PF-starter":["Nikola Bogdan",9200,10,700,10,"hr"],"PF-bench":["Ante Marković",2600,10,400,5,"hr"],"PF-dev":["Roko Lović",700,9,0,0,"pausal"],
+      "C-starter":["Mike Johnson",13000,10,950,10,"obrt_str"],"C-bench":["Stipe Galić",3000,10,450,5,"hr"],"C-dev":["Bruno Kralj",850,9,0,0,"pausal"],
+      "STAFF-head":["Damir Mulaomerović",9000,10,700,8,"hr"],"STAFF-assist":["Josip Vranković",3500,10,450,0,"hr"]
     };
-    Object.keys(d).forEach(k=>{const[name,salary,months,flat,agent]=d[k];state[k]={name,salary,months,flat,agent};});
+    Object.keys(d).forEach(k=>{const[name,salary,months,flat,agent,tax]=d[k];state[k]={name,salary,months,flat,agent,tax};});
   }
 
   function render(){document.getElementById("curSel").value=cur;buildRoster();buildFinance();recompute();}
@@ -445,6 +481,7 @@
       if(nm){nm.textContent=pl.name||roleLabel(key.split("-")[1]);nm.classList.toggle("empty",!pl.name);}
       ["salary","flat","agent"].forEach(f=>{const inp=document.querySelector('.money[data-key="'+key+'"][data-f="'+f+'"]');if(inp&&document.activeElement!==inp)inp.value=pl[f]||'';});
       const mo=document.querySelector('.months[data-key="'+key+'"]');if(mo&&document.activeElement!==mo)mo.value=pl.months;
+      const tx=document.querySelector('.taxsel[data-key="'+key+'"]');if(tx&&document.activeElement!==tx)tx.value=pl.tax||"cash";
     };
     POSITIONS.forEach(p=>ROLES.forEach(r=>sync(p.key+"-"+r.key,'.pname')));
     STAFF.forEach(c=>sync("STAFF-"+c.key,'.cname'));
