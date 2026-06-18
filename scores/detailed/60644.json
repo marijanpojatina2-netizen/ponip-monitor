@@ -1,0 +1,53 @@
+{
+  "id": "60644",
+  "score_overall": 6.1,
+  "score_lokacija": 7.5,
+  "score_roi": 5.5,
+  "score_stanje": 5.0,
+  "recommendation": "bid",
+  "reasoning": "Nekretnina u Svetom Mihovilu, općina Ližnjan — kvalitetna južnoistarska lokacija 10-15 km od Pule, u turistički atraktivnom pojasu koji broji visoku potražnju talijanskih i njemačkih kupaca. Dvije zasebne kuće (176 m² + 74 m²) na dvjema katastarskim česticama daju fleksibilnost: odvojeni holiday home najam ili adaptacija u veću cjelinu. Popust od 20% na prvoj dražbi je skroman, ali lokacijska premija Istre i tržišna likvidnost opravdavaju ulazak uz fizički pregled stanja objekta. Preporučuje se razgledavanje prije licitiranja i detaljna provjera z.k. tereta za oba uloška.",
+  "flags": [],
+  "market_estimate": {
+    "eur_min": 920000,
+    "eur_max": 1150000,
+    "confidence": "medium",
+    "basis": "Procjena bazirana na poznavanju istarskog tržišta 2025-2026: kuće u Ližnjanu/Puli dosežu 3.500-5.500 EUR/m² ovisno o stanju i udaljenosti od mora; ~250 m² stambenog prostora + garaža i dvorišta smješta vrijednost u ovaj raspon. Aktualnih usporednih oglasa nije pretraživano zbog nedostupnosti web alata."
+  },
+  "comparables": [
+    {
+      "opis": "Kuća 180 m² s dvorištem, Ližnjan, 5 km od mora, uredno stanje",
+      "cijena": 950000,
+      "m2": 180,
+      "izvor": "procjena tržišnog znanja — nema URL",
+      "url": ""
+    },
+    {
+      "opis": "Obiteljska kuća 150 m², Medulin (susjedna općina), stambena zona",
+      "cijena": 780000,
+      "m2": 150,
+      "izvor": "procjena tržišnog znanja — nema URL",
+      "url": ""
+    },
+    {
+      "opis": "Dvije kuće na jednoj parceli, Šišan (Ližnjan), starija gradnja",
+      "cijena": 650000,
+      "m2": 200,
+      "izvor": "procjena tržišnog znanja — nema URL",
+      "url": ""
+    }
+  ],
+  "investment_strategy": "Kratkoročni turistički najam — dvije zasebne adresne jedinice (Sveti Mihovil 40 i 40A) idealne za paralelno holiday home iznajmljivanje; s obzirom na jugoistočnu Istru i blizinu Pule, moguće 25.000-45.000 EUR/god. bruto prihoda u sezoni uz minimalno renoviranje. Sekundarno: reno-flip ako su objekti u lošijem stanju, uz potencijal prodaje stranim kupcima.",
+  "entry_price_eur": 740000,
+  "detailed_risks": [
+    "Prva dražba — nema automatskog popusta; konkurenti mogu licitirati do ili iznad procijenjene vrijednosti",
+    "Stanje objekata nepoznato bez razgledavanja — skriveni troškovi sanacije mogu erodirati maržu",
+    "Dvije odvojene katastarske čestice u jednom z.k. ulošku — obavezna provjera hipoteka i tereta na svakoj posebno",
+    "Sveti Mihovil je ruralno selo niže gustoće turista nego obalne destinacije (Medulin, Pješčana Uvala, Premantura) — dulja suptilnost na sekundarnom tržištu",
+    "Bez aktualnih usporednih podataka s portala (web pretraga nije bila dostupna) — market_estimate ima umjerenu pouzdanost",
+    "Garaža 17 m² na parceli 990/3 — legalizacijski status potrebno provjeriti"
+  ],
+  "upside_scenario": "Uz renoviranje u premium Istarski standard (trošak 80-120k EUR), oba objekta mogu postići 1.1-1.3M EUR pri prodaji ili generirati 40.000+ EUR/god. neto najma. Trendovi rasta cijena u južnoj Istri 2024-2026 iznose procijenjenih 5-8% godišnje, što pri izlazu za 3 godine daje potencijalni kapitalski dobitak od 150-250k EUR iznad ulazne cijene.",
+  "downside_scenario": "Ako objekti zahtijevaju opsežnu rekonstrukciju (>150k EUR) i tržišne cijene stagniranuju uslijed globalnih makroekonomskih pritisaka, ROI pada ispod prihvatljive granice pri kupnji blizu procijenjene vrijednosti. Mala sela s ograničenom turističkom infrastrukturom teže prodaju u down-ciklusu; likvidnost sekundarnog tržišta može pasti ispod 12-18 mjeseci čekanja na kupca.",
+  "input_hash": "51cbecd074fe",
+  "scored_at": "2026-06-18T10:18:52.045777"
+}
