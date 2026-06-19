@@ -1,0 +1,14 @@
+{
+  "id": "60752",
+  "score_overall": 4.1,
+  "score_lokacija": 3.5,
+  "score_roi": 4.0,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Polovina (1/2) imovine u k.o. Vrba kraj Slavonskog Broda s kućom 117 m2, poslovnom zgradom 255 m2 i dvorištem — istovremena prodaja obje polovice (vidi ID 60754) otvara mogućnost stjecanja cijele nekretnine, no 20% popust na prvoj dražbi u slaboj slavonskoj regiji ograničava ROI. Vrijedi pratiti i razmotriti kombiniranu strategiju licitiranja za oba dijela.",
+  "flags": [
+    "suvlasnički udio - kupuje se 1/2 nekretnine"
+  ],
+  "input_hash": "1ca81bf9ad6c",
+  "scored_at": "2026-06-19T10:24:33.651580"
+}

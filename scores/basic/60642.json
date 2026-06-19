@@ -1,0 +1,14 @@
+{
+  "id": "60642",
+  "score_overall": 3.0,
+  "score_lokacija": 3.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Drenov Bok (Sisak-Moslavina) je nisko-likvidno ruralno područje, a kupnjom se stječe svega 1/4 suvlasničkog udjela — bez kontrole nad imovinom i bez mogućnosti samostalne prodaje ili upravljanja. 20% popust na prvoj dražbi ne kompenzira ovu pravnu i praktičnu kompleksnost.",
+  "flags": [
+    "suvlasništvo 1/4 dijela"
+  ],
+  "input_hash": "b8f45dcc198c",
+  "scored_at": "2026-06-19T10:26:46.388968"
+}
