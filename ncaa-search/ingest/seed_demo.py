@@ -1,9 +1,9 @@
 """Seed the database with CLEARLY-LABELED SYNTHETIC demo data.
 
 This exists ONLY so the scoring/API/frontend can be exercised end-to-end without
-live network access to Torvik / stats.ncaa.org. Every row is tagged
-source='DEMO_SYNTHETIC' and the player names are obviously fake ("D1 Demo
-Player 7"). These are NOT real statistics and must never be presented as such.
+live network access to Torvik. Every row is tagged source='DEMO_SYNTHETIC' and
+the player names are obviously fake ("D1 Demo Player 7"). These are NOT real
+statistics and must never be presented as such.
 
 Usage:
     python -m ingest.seed_demo --season 2025
@@ -21,10 +21,6 @@ from ingest.common import utcnow_iso
 D1_CONFS = ["Big Ten", "SEC", "Big 12", "ACC", "Big East", "Mountain West",
             "WCC", "American", "Atlantic 10", "MVC", "Sun Belt", "MAC",
             "Southern", "Patriot", "MEAC"]
-D2_CONFS = ["Lone Star Conference", "Northern Sun Intercollegiate Conference",
-            "Great Lakes Valley Conference", "Pennsylvania State Athletic Conference",
-            "California Collegiate Athletic Association", "Peach Belt Conference",
-            "Gulf South Conference", "Northeast-10 Conference"]
 CLASSES = ["Fr", "So", "Jr", "Sr"]
 POSITIONS = ["Pure PG", "Combo G", "Wing G", "Wing F", "Stretch 4", "C"]
 
@@ -39,8 +35,7 @@ PLAYER_FIELDS = [
 
 
 def _rand_player(i: int, division: str, season: int, rng: random.Random, with_advanced: bool) -> dict:
-    confs = D1_CONFS if division == "D1" else D2_CONFS
-    conf = rng.choice(confs)
+    conf = rng.choice(D1_CONFS)
     pos = rng.choice(POSITIONS)
     big = pos in ("Stretch 4", "C", "Wing F")
     guard = pos in ("Pure PG", "Combo G", "Wing G")
@@ -92,7 +87,7 @@ def _rand_player(i: int, division: str, season: int, rng: random.Random, with_ad
     return rec
 
 
-def seed(season: int, n_d1: int = 300, n_d2: int = 150, clear: bool = False, seed_val: int = 42) -> None:
+def seed(season: int, n_d1: int = 300, clear: bool = False, seed_val: int = 42) -> None:
     init_db()
     rng = random.Random(seed_val)
     if clear:
@@ -101,7 +96,6 @@ def seed(season: int, n_d1: int = 300, n_d2: int = 150, clear: bool = False, see
             conn.commit()
 
     records = [_rand_player(i, "D1", season, rng, with_advanced=True) for i in range(n_d1)]
-    records += [_rand_player(i, "D2", season, rng, with_advanced=False) for i in range(n_d2)]
 
     now = utcnow_iso()
     placeholders = ",".join("?" for _ in PLAYER_FIELDS)
@@ -114,14 +108,11 @@ def seed(season: int, n_d1: int = 300, n_d2: int = 150, clear: bool = False, see
             conn.execute(sql, [rec.get(f) if f != "updated_at" else now for f in PLAYER_FIELDS])
         conn.commit()
 
-    # Conference strength: synthetic raw ratings for D1; D2 from tier CSV.
+    # Conference strength: synthetic raw ratings for D1.
     d1_rows = [{"conference": c, "raw_rating": rng.uniform(0.3, 0.95)} for c in D1_CONFS]
     upsert_conferences(d1_rows, "D1", season, "DEMO_SYNTHETIC")
-    from ingest.conferences import build_d2_conferences
-    build_d2_conferences(season)
 
-    print(f"[seed] inserted {len(records)} synthetic players "
-          f"({n_d1} D1, {n_d2} D2) for season {season}")
+    print(f"[seed] inserted {len(records)} synthetic D1 players for season {season}")
     print("[seed] NOTE: source='DEMO_SYNTHETIC' — these are NOT real stats.")
 
 
@@ -130,9 +121,8 @@ def main():
     ap.add_argument("--season", type=int, required=True)
     ap.add_argument("--clear", action="store_true")
     ap.add_argument("--n-d1", type=int, default=300)
-    ap.add_argument("--n-d2", type=int, default=150)
     args = ap.parse_args()
-    seed(args.season, args.n_d1, args.n_d2, clear=args.clear)
+    seed(args.season, args.n_d1, clear=args.clear)
 
 
 if __name__ == "__main__":

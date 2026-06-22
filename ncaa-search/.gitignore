@@ -1,14 +1,11 @@
 # The repo-root .gitignore ignores data/ globally; re-include this project's
-# data dir so the editable config files are tracked, but keep generated
-# artifacts (DB, cache, auto-generated category map) out of git.
-!data/
+# cache dir placeholder but keep generated artifacts (DB, cache) out of git.
 !data/cache/
 data/ncaa.db
 data/ncaa.db-wal
 data/ncaa.db-shm
 data/cache/*
 !data/cache/.gitkeep
-data/ncaa_d2_categories.json
 
 __pycache__/
 *.pyc

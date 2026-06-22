@@ -71,32 +71,23 @@ def test_inverted_metric_turnovers():
 def test_composite_weighted_average():
     pct_row = {"pts_pg": 80.0, "reb_pg": 40.0}
     weights = {"pts_pg": 50, "reb_pg": 50}
-    score = composite_score(pct_row, weights, division="D1")
+    score = composite_score(pct_row, weights)
     assert abs(score - 60.0) < 1e-6  # (80+40)/2
 
 
 def test_composite_null_exclude_renormalizes():
     pct_row = {"pts_pg": 80.0, "reb_pg": None}
     weights = {"pts_pg": 50, "reb_pg": 50}
-    score = composite_score(pct_row, weights, division="D1", null_policy="exclude")
+    score = composite_score(pct_row, weights, null_policy="exclude")
     assert abs(score - 80.0) < 1e-6  # reb excluded, only pts counts
 
 
 def test_composite_null_median():
     pct_row = {"pts_pg": 80.0, "reb_pg": None}
     weights = {"pts_pg": 50, "reb_pg": 50}
-    score = composite_score(pct_row, weights, division="D1", null_policy="median")
+    score = composite_score(pct_row, weights, null_policy="median")
     assert abs(score - 65.0) < 1e-6  # (80 + 50)/2
 
 
-def test_division_factor_scales_d2():
-    pct_row = {"pts_pg": 100.0}
-    weights = {"pts_pg": 100}
-    d1 = composite_score(pct_row, weights, division="D1")
-    d2 = composite_score(pct_row, weights, division="D2")
-    assert abs(d1 - 100.0) < 1e-6
-    assert abs(d2 - 85.0) < 1e-6  # default D2 factor 0.85
-
-
 def test_composite_no_weighted_metrics_returns_none():
-    assert composite_score({"pts_pg": 80.0}, {"pts_pg": 0}, division="D1") is None
+    assert composite_score({"pts_pg": 80.0}, {"pts_pg": 0}) is None

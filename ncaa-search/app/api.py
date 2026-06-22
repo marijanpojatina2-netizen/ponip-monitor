@@ -35,7 +35,7 @@ OUTPUT_COLUMNS = [
 PRESETS = {
     "balanced": DEFAULT_WEIGHTS,
     "scoring_big": {"pts_pg": 80, "reb_pg": 50, "oreb_pg": 30, "ts_pct": 40,
-                    "fg2_pct": 25, "ftr": 0, "fta_rate": 20, "usage": 30,
+                    "fg2_pct": 25, "fta_rate": 20, "usage": 30,
                     "conf_strength": 40},
     "three_and_d": {"fg3_pct": 70, "fg3a_rate": 40, "stl_pg": 50, "blk_pg": 25,
                     "stl_pct": 30, "ts_pct": 40, "to_pct": 25, "conf_strength": 40},
@@ -78,22 +78,12 @@ def _parse_weights(qp) -> dict[str, float]:
     return weights or dict(DEFAULT_WEIGHTS)
 
 
-def _parse_division_factor(qp) -> dict[str, float]:
-    factors = {"D1": 1.0, "D2": 0.85}
-    for d in ("D1", "D2"):
-        val = qp.get(f"division_factor_{d}")
-        if val is not None:
-            try:
-                factors[d] = float(val)
-            except ValueError:
-                pass
-    return factors
-
-
 def _load_and_score(request: Request):
-    """Shared loader used by /players and /export.csv. Returns (rows, meta)."""
+    """Shared loader used by /players and /export.csv. Returns (rows, meta).
+
+    Division I only.
+    """
     qp = request.query_params
-    divisions = qp.getlist("division") or ["D1"]
     classes = qp.getlist("class")
     conferences = qp.getlist("conference")
     position = qp.get("position")
@@ -102,7 +92,6 @@ def _load_and_score(request: Request):
     min_conf_strength = _f(qp.get("min_conf_strength"))
     null_policy = qp.get("null_policy", "exclude")
     weights = _parse_weights(qp)
-    division_factor = _parse_division_factor(qp)
 
     with get_conn() as conn:
         season = _i(qp.get("season")) or _latest_season(conn)
@@ -113,10 +102,9 @@ def _load_and_score(request: Request):
             classes = ["Sr"]
         all_classes = "all" in [c.lower() for c in classes]
 
-        place = ",".join("?" for _ in divisions)
         pop = conn.execute(
-            f"SELECT * FROM players WHERE season=? AND division IN ({place})",
-            (season, *divisions),
+            "SELECT * FROM players WHERE season=? AND division='D1'",
+            (season,),
         ).fetchall()
         pop = [dict(r) for r in pop]
         cs_map = _conf_strength_map(conn, season)
@@ -147,9 +135,7 @@ def _load_and_score(request: Request):
             if sr is None or sr < min_conf_strength:
                 continue
         score = composite_score(
-            pct_table.get(p["id"], {}), weights,
-            division=p["division"], null_policy=null_policy,
-            division_factor=division_factor,
+            pct_table.get(p["id"], {}), weights, null_policy=null_policy,
         )
         out = {c: p.get(c) for c in OUTPUT_COLUMNS}
         out["composite_score"] = score
@@ -174,8 +160,7 @@ def _load_and_score(request: Request):
         present.sort(key=lambda r: str(r.get(sort)), reverse=reverse)
     rows = present + missing
 
-    meta = {"season": season, "total": len(rows), "weights": weights,
-            "division_factor": division_factor}
+    meta = {"season": season, "total": len(rows), "weights": weights}
     return rows, meta
 
 
@@ -230,7 +215,6 @@ def players(request: Request, page: int = Query(1, ge=1), page_size: int = Query
         "page": page,
         "page_size": page_size,
         "weights": meta.get("weights"),
-        "division_factor": meta.get("division_factor"),
         "rows": page_rows,
     }
 
@@ -239,7 +223,7 @@ def players(request: Request, page: int = Query(1, ge=1), page_size: int = Query
 def export_csv(request: Request):
     rows, meta = _load_and_score(request)
     cols = ["composite_score", "name", "team", "conference", "conf_strength",
-            "division", "class", "position", "season", "gp", "min_pg",
+            "class", "position", "season", "gp", "min_pg",
             "pts_pg", "reb_pg", "oreb_pg", "dreb_pg", "ast_pg", "stl_pg",
             "blk_pg", "tov_pg", "fg_pct", "fg3_pct", "ft_pct", "efg_pct",
             "ts_pct", "usage", "ortg", "drtg", "bpm", "source", "updated_at"]
@@ -257,17 +241,11 @@ def export_csv(request: Request):
 
 
 @router.post("/refresh")
-def refresh(division: str = Query(...), season: int = Query(...), token: str = Query(...),
+def refresh(season: int = Query(...), token: str = Query(...),
             refresh_cache: bool = Query(False)):
     expected = os.environ.get("REFRESH_TOKEN")
     if not expected or token != expected:
         raise HTTPException(status_code=401, detail="invalid or unset REFRESH_TOKEN")
-    if division == "D1":
-        from ingest.torvik_d1 import ingest as ingest_d1
-        ingest_d1(season, refresh=refresh_cache)
-    elif division == "D2":
-        from ingest.ncaa_d2 import ingest as ingest_d2
-        ingest_d2(season, refresh=refresh_cache)
-    else:
-        raise HTTPException(status_code=400, detail="division must be D1 or D2")
-    return {"status": "ok", "division": division, "season": season}
+    from ingest.torvik_d1 import ingest as ingest_d1
+    ingest_d1(season, refresh=refresh_cache)
+    return {"status": "ok", "division": "D1", "season": season}

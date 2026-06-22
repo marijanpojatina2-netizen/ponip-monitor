@@ -12,7 +12,6 @@ const $ = (id) => document.getElementById(id);
 async function init() {
   META = await fetch("/api/meta").then((r) => r.json());
   buildSeason();
-  buildDivisions();
   buildClasses();
   buildConferences();
   buildPresets();
@@ -28,14 +27,6 @@ function buildSeason() {
   sel.innerHTML = (META.seasons || []).map((s) => `<option value="${s}">${s}</option>`).join("");
 }
 
-function buildDivisions() {
-  const wrap = $("divisions");
-  const divs = META.divisions.length ? META.divisions : ["D1", "D2"];
-  wrap.innerHTML = divs.map((d) =>
-    `<label class="flex items-center gap-1"><input type="checkbox" class="divChk" value="${d}" ${d === "D1" ? "checked" : ""}/> ${d}</label>`
-  ).join("");
-}
-
 function buildClasses() {
   const wrap = $("classes");
   const order = ["Fr", "So", "Jr", "Sr"];
@@ -49,7 +40,7 @@ function buildConferences() {
   const sel = $("conference");
   const opts = (META.conferences || []).map((c) => {
     const str = c.strength_rating == null ? "—" : c.strength_rating.toFixed(2);
-    return `<option value="${c.conference}">[${c.division}] ${c.conference} (str ${str})</option>`;
+    return `<option value="${c.conference}">${c.conference} (str ${str})</option>`;
   });
   sel.innerHTML = opts.join("");
 }
@@ -136,12 +127,6 @@ function buildTable() {
       { title: "Conf", field: "conference", width: 130 },
       { title: "Str", field: "conf_strength", width: 60, sorter: "number",
         formatter: (c) => fmt(c.getValue(), 2) },
-      { title: "Div", field: "division", width: 55,
-        formatter: (c) => {
-          const d = c.getValue();
-          const col = d === "D1" ? "bg-emerald-700" : "bg-indigo-700";
-          return `<span class="px-1 rounded text-white text-[10px] ${col}">${d}</span>`;
-        } },
       { title: "Cl", field: "class", width: 45 },
       { title: "Pos", field: "position", width: 80 },
       { title: "GP", field: "gp", width: 50, sorter: "number" },
@@ -171,17 +156,12 @@ function toggleDetail(row) {
     "stl_pct", "fg2_pct", "efg_pct", "fg3a_rate", "fta_rate", "drtg", "bpm", "usage", "ortg"];
   const missing = advanced.filter((k) => d[k] === null || d[k] === undefined);
   const note = missing.length
-    ? `<div class="text-amber-400 text-xs mt-1">Missing advanced metrics (${d.division}): ${missing.join(", ")}</div>` : "";
-  const line = `<div class="p-2 text-xs bg-slate-800 rounded">
-    <b>${d.name}</b> — ${d.team} · ${d.conference} · ${d.division} · ${d.class || "?"} · ${d.position || "?"}<br/>
-    Updated: ${d.updated_at || "?"} · Source: ${d.source}
-    ${note}</div>`;
-  alert(line.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim());
+    ? `\nMissing metrics: ${missing.join(", ")}` : "";
+  const line = `${d.name} — ${d.team} · ${d.conference} · ${d.class || "?"} · ${d.position || "?"}\n` +
+    `Updated: ${d.updated_at || "?"} · Source: ${d.source}${note}`;
+  alert(line);
 }
 
-function getDivisions() {
-  return [...document.querySelectorAll(".divChk:checked")].map((c) => c.value);
-}
 function getClasses() {
   return [...document.querySelectorAll(".clsChk:checked")].map((c) => c.value);
 }
@@ -189,15 +169,12 @@ function getClasses() {
 function buildQuery() {
   const p = new URLSearchParams();
   p.set("season", $("season").value);
-  getDivisions().forEach((d) => p.append("division", d));
   getClasses().forEach((c) => p.append("class", c));
   [...$("conference").selectedOptions].forEach((o) => p.append("conference", o.value));
   if ($("position").value) p.set("position", $("position").value);
   ["min_gp", "min_minutes", "min_conf_strength", "null_policy"].forEach((k) => {
     if ($(k).value) p.set(k, $(k).value);
   });
-  p.set("division_factor_D1", $("df_D1").value || "1.0");
-  p.set("division_factor_D2", $("df_D2").value || "0.85");
   const w = getWeights();
   Object.entries(w).forEach(([k, v]) => p.set(`w_${k}`, v));
   return p;
@@ -226,9 +203,9 @@ function debouncedRefresh() {
 }
 
 function wireEvents() {
-  ["season", "position", "min_gp", "min_minutes", "min_conf_strength", "null_policy", "df_D1", "df_D2", "conference"]
+  ["season", "position", "min_gp", "min_minutes", "min_conf_strength", "null_policy", "conference"]
     .forEach((id) => $(id).addEventListener("change", refresh));
-  document.querySelectorAll(".divChk, .clsChk").forEach((c) => c.addEventListener("change", refresh));
+  document.querySelectorAll(".clsChk").forEach((c) => c.addEventListener("change", refresh));
   $("resetWeights").addEventListener("click", () => { setWeights({}); refresh(); });
   $("exportBtn").addEventListener("click", () => {
     const p = buildQuery();
@@ -246,15 +223,11 @@ function applyUrlState() {
   const p = new URLSearchParams(window.location.search);
   if (![...p.keys()].length) return;
   if (p.get("season")) $("season").value = p.get("season");
-  const divs = p.getAll("division");
-  if (divs.length) document.querySelectorAll(".divChk").forEach((c) => (c.checked = divs.includes(c.value)));
   const cls = p.getAll("class");
   if (cls.length) document.querySelectorAll(".clsChk").forEach((c) => (c.checked = cls.includes(c.value)));
   ["position", "min_gp", "min_minutes", "min_conf_strength", "null_policy"].forEach((k) => {
     if (p.get(k)) $(k).value = p.get(k);
   });
-  if (p.get("division_factor_D1")) $("df_D1").value = p.get("division_factor_D1");
-  if (p.get("division_factor_D2")) $("df_D2").value = p.get("division_factor_D2");
   const w = {};
   for (const [k, v] of p.entries()) if (k.startsWith("w_")) w[k.slice(2)] = +v;
   if (Object.keys(w).length) setWeights(w);

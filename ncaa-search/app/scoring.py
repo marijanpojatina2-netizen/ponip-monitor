@@ -5,7 +5,7 @@ Design
 * Each numeric metric is converted to a PERCENTILE (0..100) computed WITHIN a
   (division, season) population. Percentiles are stable regardless of the user's
   row filters (we percentile against the full division population, not the
-  filtered subset) so a player's standing reflects all D1/D2 peers.
+  filtered subset) so a player's standing reflects all peers.
 * The composite score is a weighted average of the player's percentile on each
   metric the user gave a positive weight to.
 * "Lower is better" metrics (turnovers, TO%, DRtg) are inverted: 100 - pct.
@@ -15,8 +15,9 @@ Design
 * NULL handling (configurable): default "exclude" drops a metric from THAT
   player's weighted average and renormalizes the remaining weights. "median"
   treats a missing metric as the 50th percentile.
-* Cross-division: D2 composites are scaled by division_factor (default 0.85) to
-  acknowledge the weaker level of competition; D1 = 1.0.
+
+This build is Division I only. Percentiles are still grouped by (division,
+season) so the code remains correct if other divisions are added later.
 """
 from __future__ import annotations
 
@@ -144,16 +145,12 @@ def composite_score(
     pct_row: dict,
     weights: dict[str, float],
     *,
-    division: str,
     null_policy: str = "exclude",
-    division_factor: Optional[dict[str, float]] = None,
 ) -> Optional[float]:
     """Weighted average of percentiles for metrics with weight>0.
 
-    Returns a 0..100-ish score scaled by division_factor, or None if no metric
-    contributed.
+    Returns a 0..100 score, or None if no weighted metric contributed.
     """
-    division_factor = division_factor or {"D1": 1.0, "D2": 0.85}
     num = 0.0
     den = 0.0
     for key, w in weights.items():
@@ -171,9 +168,7 @@ def composite_score(
         den += w
     if den == 0:
         return None
-    score = num / den
-    score *= division_factor.get(division, 1.0)
-    return round(score, 2)
+    return round(num / den, 2)
 
 
 # Sensible starter preset (used as the default landing weights): balanced
