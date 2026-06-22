@@ -32,7 +32,9 @@ from pathlib import Path
 from typing import Optional
 
 from app.db import get_conn, init_db
-from ingest.common import fetch, normalize_class, to_float, utcnow_iso
+from ingest.common import (
+    fetch, normalize_class, parse_height_to_inches, to_float, utcnow_iso,
+)
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 COLUMN_OVERRIDE = PROJECT_ROOT / "data" / "torvik_columns.json"
@@ -64,6 +66,8 @@ TORVIK_PLAYER_COLUMNS: dict[str, int] = {
     "stl_pct": 23,
     "fta_rate": 24,   # ftr
     "class": 25,      # yr
+    "height": 26,     # ht (e.g. "6-5") -> parsed to inches
+    "torvik_pid": 32, # pid: stable player id used to link seasons (VERIFY)
     "position": 33,   # type (e.g. "Pure PG", "Wing G") -> stored as-is
 }
 # Tail per-game/box columns (HIGH drift risk). Left empty by default; fill in
@@ -81,6 +85,8 @@ TORVIK_PLAYER_TAIL: dict[str, Optional[int]] = {
     "drtg": None,
     "bpm": None,
     "fg3a_rate": None,
+    "dunk_rate": None,   # dunks/game (athleticism proxy input)
+    "rim_rate": None,    # rim attempt share (proxy input)
 }
 
 TORVIK_TEAM_COLUMNS: dict[str, int] = {
@@ -147,6 +153,8 @@ def fetch_players(season: int, refresh: bool) -> list[dict]:
             "division": "D1",
             "class": normalize_class(_get(row, cols.get("class"))),
             "position": (_get(row, cols.get("position")) or "").strip() or None,
+            "torvik_pid": (_get(row, cols.get("torvik_pid")) or "").strip() or None,
+            "height_in": parse_height_to_inches(_get(row, cols.get("height"))),
             "season": season,
             "gp": to_float(_get(row, cols.get("gp"))),
             "min_pct": to_float(_get(row, cols.get("min_pct"))),
@@ -199,7 +207,8 @@ PLAYER_FIELDS = [
     "orb_pct", "drb_pct", "ast_pg", "ast_pct", "stl_pg", "blk_pg", "tov_pg",
     "to_pct", "blk_pct", "stl_pct", "fg_pct", "fg2_pct", "fg3_pct", "ft_pct",
     "fg3a_rate", "fta_rate", "efg_pct", "ts_pct", "usage", "ortg", "drtg",
-    "bpm", "source", "updated_at",
+    "bpm", "torvik_pid", "height_in", "weight_lb", "dunk_rate", "rim_rate",
+    "source", "updated_at",
 ]
 
 
@@ -208,7 +217,9 @@ def upsert_players(records: list[dict]) -> int:
         return 0
     now = utcnow_iso()
     placeholders = ",".join("?" for _ in PLAYER_FIELDS)
-    update_cols = ",".join(f"{c}=excluded.{c}" for c in PLAYER_FIELDS if c not in ("name", "team", "season", "division"))
+    # Torvik does not provide weight; never overwrite the ESPN-sourced value.
+    _no_update = ("name", "team", "season", "division", "weight_lb")
+    update_cols = ",".join(f"{c}=excluded.{c}" for c in PLAYER_FIELDS if c not in _no_update)
     sql = f"""
         INSERT INTO players ({",".join(PLAYER_FIELDS)})
         VALUES ({placeholders})
@@ -251,6 +262,12 @@ def ingest(season: int, refresh: bool = False) -> None:
     _sanity_check(season)
 
 
+def ingest_many(seasons: list[int], refresh: bool = False) -> None:
+    """Ingest several seasons in one run (for building multi-year career history)."""
+    for s in seasons:
+        ingest(s, refresh)
+
+
 def _sanity_check(season: int) -> None:
     with get_conn() as conn:
         total = conn.execute(
@@ -276,15 +293,22 @@ def _sanity_check(season: int) -> None:
 
 def main():
     ap = argparse.ArgumentParser(description="Torvik D1 ingestion")
-    ap.add_argument("--season", type=int, required=True)
+    ap.add_argument("--season", type=int, help="single season, e.g. 2026")
+    ap.add_argument("--seasons", type=int, nargs="+",
+                    help="multiple seasons for career history, e.g. --seasons 2023 2024 2025 2026")
     ap.add_argument("--refresh", action="store_true", help="bypass cache")
     ap.add_argument("--inspect", action="store_true", help="print indexed columns and exit")
     ap.add_argument("--inspect-what", choices=["player", "team"], default="player")
     args = ap.parse_args()
     if args.inspect:
-        inspect(args.season, args.refresh, args.inspect_what)
+        inspect(args.season or (args.seasons or [2026])[-1], args.refresh, args.inspect_what)
         return
-    ingest(args.season, args.refresh)
+    if args.seasons:
+        ingest_many(args.seasons, args.refresh)
+    elif args.season:
+        ingest(args.season, args.refresh)
+    else:
+        ap.error("provide --season or --seasons")
 
 
 if __name__ == "__main__":

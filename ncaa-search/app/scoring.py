@@ -31,6 +31,13 @@ class Metric:
     label: str
     higher_is_better: bool = True
     prescored: bool = False  # already on a 0..100 scale; skip percentiling
+    derived: bool = False     # computed from other metrics, not a raw player column
+
+
+# Box-stat inputs to the athleticism proxy index. All "higher = more athletic".
+# Players with NULL inputs simply average over whatever is present (so the index
+# still works when dunk/rim rates are unmapped and only blk/stl/ORB% exist).
+ATHLETICISM_COMPONENTS = ["blk_pct", "stl_pct", "orb_pct", "dunk_rate", "rim_rate"]
 
 
 # The full set of rankable metrics. `key` matches a column on players (except
@@ -62,6 +69,9 @@ METRICS: list[Metric] = [
     Metric("ortg", "Offensive rating"),
     Metric("drtg", "Defensive rating", higher_is_better=False),
     Metric("bpm", "BPM / box +/-"),
+    Metric("dunk_rate", "Dunks / game"),
+    Metric("rim_rate", "Rim attempt rate"),
+    Metric("athleticism", "Athleticism index (proxy)", prescored=True, derived=True),
     Metric("conf_strength", "Conference strength", prescored=True),
 ]
 
@@ -120,6 +130,8 @@ def compute_percentile_table(players: Iterable[dict]) -> dict:
     for _, group in groups.items():
         ids = [p["id"] for p in group]
         for m in METRICS:
+            if m.derived:
+                continue  # handled after raw metrics are percentiled
             vals = [_safe_num(p.get(m.key)) for p in group]
             if m.prescored:
                 pcts = [v for v in vals]  # already 0..100
@@ -129,6 +141,12 @@ def compute_percentile_table(players: Iterable[dict]) -> dict:
                     pcts = [None if v is None else 100.0 - v for v in pcts]
             for pid, pct in zip(ids, pcts):
                 result.setdefault(pid, {})[m.key] = pct
+
+        # Derived: athleticism index = mean of available component percentiles.
+        for pid in ids:
+            comps = [result[pid].get(k) for k in ATHLETICISM_COMPONENTS]
+            present = [c for c in comps if c is not None]
+            result[pid]["athleticism"] = round(sum(present) / len(present), 2) if present else None
     return result
 
 

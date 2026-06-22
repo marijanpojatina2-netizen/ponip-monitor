@@ -74,6 +74,13 @@ CREATE TABLE IF NOT EXISTS players (
     drtg        REAL,
     bpm         REAL,
 
+    -- physical / role (position above; height & weight from ESPN rosters)
+    torvik_pid  TEXT,                     -- Torvik player id: links a player across seasons
+    height_in   REAL,                     -- height in inches
+    weight_lb   REAL,
+    dunk_rate   REAL,                     -- dunks per game (athleticism proxy input)
+    rim_rate    REAL,                     -- share of FGA taken at the rim (proxy input)
+
     source      TEXT,
     updated_at  TEXT,
     UNIQUE(name, team, season, division)
@@ -96,9 +103,27 @@ CREATE INDEX IF NOT EXISTS idx_players_filter
     ON players(division, season, class);
 CREATE INDEX IF NOT EXISTS idx_players_conf
     ON players(conference, division, season);
+CREATE INDEX IF NOT EXISTS idx_players_pid
+    ON players(torvik_pid);
 CREATE INDEX IF NOT EXISTS idx_conf_lookup
     ON conferences(division, season);
 """
+
+# Columns added after initial release; ensured on every init for existing DBs.
+_MIGRATION_COLUMNS = {
+    "torvik_pid": "TEXT",
+    "height_in": "REAL",
+    "weight_lb": "REAL",
+    "dunk_rate": "REAL",
+    "rim_rate": "REAL",
+}
+
+
+def _migrate(conn: sqlite3.Connection) -> None:
+    existing = {r["name"] for r in conn.execute("PRAGMA table_info(players)")}
+    for col, decl in _MIGRATION_COLUMNS.items():
+        if col not in existing:
+            conn.execute(f"ALTER TABLE players ADD COLUMN {col} {decl}")
 
 
 def connect(path: Path | str | None = None) -> sqlite3.Connection:
@@ -113,9 +138,10 @@ def connect(path: Path | str | None = None) -> sqlite3.Connection:
 
 
 def init_db(path: Path | str | None = None) -> None:
-    """Create tables/indexes if they don't exist."""
+    """Create tables/indexes if they don't exist, and apply column migrations."""
     with connect(path) as conn:
         conn.executescript(SCHEMA)
+        _migrate(conn)
         conn.commit()
 
 

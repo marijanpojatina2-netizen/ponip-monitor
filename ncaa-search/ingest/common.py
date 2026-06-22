@@ -133,6 +133,30 @@ def normalize_class(value) -> Optional[str]:
     return _CLASS_MAP.get(key)
 
 
+def parse_height_to_inches(value) -> Optional[float]:
+    """Parse heights like '6-5', "6'5\"", '6 ft 5', or an inches int -> inches."""
+    if value is None:
+        return None
+    if isinstance(value, (int, float)):
+        # Already inches if plausible; ignore tiny/garbage values.
+        return float(value) if value > 30 else None
+    s = str(value).strip().lower().replace('"', "").replace("ft", "-").replace("'", "-")
+    s = s.replace(" ", "")
+    if not s or s in ("-", "--"):
+        return None
+    parts = [p for p in s.split("-") if p != ""]
+    try:
+        if len(parts) == 2:
+            feet, inches = float(parts[0]), float(parts[1])
+            return feet * 12 + inches
+        if len(parts) == 1:
+            v = float(parts[0])
+            return v if v > 30 else v * 12  # bare number: treat <30 as feet
+    except ValueError:
+        return None
+    return None
+
+
 def minmax_normalize(values: list[float]) -> list[float]:
     """Min-max normalize to 0..1. Constant input -> all 0.5."""
     nums = [v for v in values if v is not None]

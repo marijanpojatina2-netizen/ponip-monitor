@@ -91,3 +91,28 @@ def test_composite_null_median():
 
 def test_composite_no_weighted_metrics_returns_none():
     assert composite_score({"pts_pg": 80.0}, {"pts_pg": 0}) is None
+
+
+def test_athleticism_index_is_mean_of_component_percentiles():
+    # Two players; the one higher on every athletic component must have a higher
+    # athleticism index, and the index must be on the 0..100 scale.
+    players = [
+        {"id": 1, "division": "D1", "season": 2026, "blk_pct": 1.0, "stl_pct": 1.0,
+         "orb_pct": 2.0, "dunk_rate": 0.1, "rim_rate": 20.0},
+        {"id": 2, "division": "D1", "season": 2026, "blk_pct": 8.0, "stl_pct": 3.5,
+         "orb_pct": 12.0, "dunk_rate": 2.0, "rim_rate": 60.0},
+    ]
+    table = compute_percentile_table(players)
+    assert table[2]["athleticism"] > table[1]["athleticism"]
+    assert 0 <= table[2]["athleticism"] <= 100
+
+
+def test_athleticism_falls_back_when_components_missing():
+    # Only blk%/stl% present (dunk/rim NULL) -> index still computed from what exists.
+    players = [
+        {"id": 1, "division": "D1", "season": 2026, "blk_pct": 1.0, "stl_pct": 1.0},
+        {"id": 2, "division": "D1", "season": 2026, "blk_pct": 5.0, "stl_pct": 3.0},
+    ]
+    table = compute_percentile_table(players)
+    assert table[1]["athleticism"] is not None
+    assert table[2]["athleticism"] > table[1]["athleticism"]

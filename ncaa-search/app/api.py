@@ -28,7 +28,8 @@ OUTPUT_COLUMNS = [
     "dreb_pg", "orb_pct", "drb_pct", "ast_pg", "ast_pct", "stl_pg", "blk_pg",
     "tov_pg", "to_pct", "blk_pct", "stl_pct", "fg_pct", "fg2_pct", "fg3_pct",
     "ft_pct", "fg3a_rate", "fta_rate", "efg_pct", "ts_pct", "usage", "ortg",
-    "drtg", "bpm", "source", "updated_at",
+    "drtg", "bpm", "torvik_pid", "height_in", "weight_lb", "dunk_rate",
+    "rim_rate", "source", "updated_at",
 ]
 
 # Weight presets for the UI buttons.
@@ -90,6 +91,8 @@ def _load_and_score(request: Request):
     min_gp = _f(qp.get("min_gp"))
     min_minutes = _f(qp.get("min_minutes"))
     min_conf_strength = _f(qp.get("min_conf_strength"))
+    min_height = _f(qp.get("min_height_in"))
+    max_height = _f(qp.get("max_height_in"))
     null_policy = qp.get("null_policy", "exclude")
     weights = _parse_weights(qp)
 
@@ -134,14 +137,19 @@ def _load_and_score(request: Request):
             sr = p.get("conf_strength_rating")
             if sr is None or sr < min_conf_strength:
                 continue
-        score = composite_score(
-            pct_table.get(p["id"], {}), weights, null_policy=null_policy,
-        )
+        h = p.get("height_in")
+        if min_height is not None and (h is None or h < min_height):
+            continue
+        if max_height is not None and (h is None or h > max_height):
+            continue
+        pcts = pct_table.get(p["id"], {})
+        score = composite_score(pcts, weights, null_policy=null_policy)
         out = {c: p.get(c) for c in OUTPUT_COLUMNS}
         out["composite_score"] = score
         out["conf_strength"] = p.get("conf_strength_rating")
+        out["athleticism"] = pcts.get("athleticism")
         out["percentiles"] = {k: (round(v, 1) if v is not None else None)
-                              for k, v in pct_table.get(p["id"], {}).items()}
+                              for k, v in pcts.items()}
         rows.append(out)
 
     # Sort: composite desc by default; missing/None values always sort last
@@ -219,11 +227,41 @@ def players(request: Request, page: int = Query(1, ge=1), page_size: int = Query
     }
 
 
+@router.get("/career")
+def career(pid: Optional[str] = Query(None), name: Optional[str] = Query(None),
+           team: Optional[str] = Query(None)):
+    """Year-by-year history for one player, linked by Torvik player id (preferred)
+    or by name (+optional team) as a fallback."""
+    career_cols = ["season", "team", "conference", "class", "position", "gp",
+                   "min_pg", "pts_pg", "reb_pg", "ast_pg", "stl_pg", "blk_pg",
+                   "tov_pg", "fg_pct", "fg3_pct", "ft_pct", "ts_pct", "efg_pct",
+                   "usage", "ortg", "bpm", "height_in", "weight_lb"]
+    with get_conn() as conn:
+        if pid:
+            rows = conn.execute(
+                "SELECT * FROM players WHERE torvik_pid=? ORDER BY season", (pid,)
+            ).fetchall()
+        elif name:
+            q = "SELECT * FROM players WHERE name=?"
+            params: list = [name]
+            if team:
+                q += " AND team=?"
+                params.append(team)
+            q += " ORDER BY season"
+            rows = conn.execute(q, params).fetchall()
+        else:
+            raise HTTPException(status_code=400, detail="provide pid or name")
+    seasons = [{c: dict(r).get(c) for c in career_cols} for r in rows]
+    return {"name": (dict(rows[0])["name"] if rows else name),
+            "pid": pid, "seasons": seasons}
+
+
 @router.get("/export.csv")
 def export_csv(request: Request):
     rows, meta = _load_and_score(request)
     cols = ["composite_score", "name", "team", "conference", "conf_strength",
-            "class", "position", "season", "gp", "min_pg",
+            "class", "position", "height_in", "weight_lb", "athleticism",
+            "season", "gp", "min_pg",
             "pts_pg", "reb_pg", "oreb_pg", "dreb_pg", "ast_pg", "stl_pg",
             "blk_pg", "tov_pg", "fg_pct", "fg3_pct", "ft_pct", "efg_pct",
             "ts_pct", "usage", "ortg", "drtg", "bpm", "source", "updated_at"]

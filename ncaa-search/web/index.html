@@ -50,6 +50,10 @@
           <label class="block text-xs">Min MPG<input id="min_minutes" type="number" min="0" class="chip w-full rounded px-2 py-1 mt-1" /></label>
           <label class="block text-xs">Min ConfStr<input id="min_conf_strength" type="number" min="0" max="1" step="0.05" class="chip w-full rounded px-2 py-1 mt-1" /></label>
         </div>
+        <div class="grid grid-cols-2 gap-2">
+          <label class="block text-xs">Min height (in)<input id="min_height_in" type="number" min="60" max="90" class="chip w-full rounded px-2 py-1 mt-1" placeholder="e.g. 75" /></label>
+          <label class="block text-xs">Max height (in)<input id="max_height_in" type="number" min="60" max="90" class="chip w-full rounded px-2 py-1 mt-1" /></label>
+        </div>
         <label class="block text-xs">NULL metric handling
           <select id="null_policy" class="chip w-full rounded px-2 py-1 mt-1">
             <option value="exclude">Exclude from that player's score (default)</option>
@@ -75,6 +79,7 @@
     <!-- Results -->
     <main class="flex-1 p-4">
       <div id="status" class="text-sm text-slate-400 mb-2"></div>
+      <div id="detail" class="hidden mb-3 p-3 chip rounded"></div>
       <div id="table"></div>
     </main>
   </div>

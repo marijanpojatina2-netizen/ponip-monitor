@@ -108,6 +108,13 @@ function fmt(v, d = 1) {
   return typeof v === "number" ? v.toFixed(d) : v;
 }
 
+function fmtHeight(inches) {
+  if (inches === null || inches === undefined || inches === "") return "—";
+  const ft = Math.floor(inches / 12);
+  const inch = Math.round(inches - ft * 12);
+  return `${ft}'${inch}"`;
+}
+
 function buildTable() {
   const pctTip = (cell) => {
     const data = cell.getRow().getData();
@@ -128,7 +135,14 @@ function buildTable() {
       { title: "Str", field: "conf_strength", width: 60, sorter: "number",
         formatter: (c) => fmt(c.getValue(), 2) },
       { title: "Cl", field: "class", width: 45 },
-      { title: "Pos", field: "position", width: 80 },
+      { title: "Pos", field: "position", width: 70 },
+      { title: "Ht", field: "height_in", width: 60, sorter: "number",
+        formatter: (c) => fmtHeight(c.getValue()) },
+      { title: "Wt", field: "weight_lb", width: 55, sorter: "number",
+        formatter: (c) => fmt(c.getValue(), 0) },
+      { title: "Ath", field: "athleticism", width: 55, sorter: "number",
+        formatter: (c) => fmt(c.getValue(), 0),
+        tooltip: "Athleticism index (proxy from blk%/stl%/ORB%/dunks/rim rate)" },
       { title: "GP", field: "gp", width: 50, sorter: "number" },
       { title: "MPG", field: "min_pg", width: 60, sorter: "number", formatter: (c) => fmt(c.getValue()) },
       { title: "PPG", field: "pts_pg", width: 60, sorter: "number", formatter: (c) => fmt(c.getValue()), tooltip: pctTip },
@@ -150,16 +164,37 @@ function buildTable() {
   TABLE.on("rowClick", (e, row) => toggleDetail(row));
 }
 
-function toggleDetail(row) {
+async function toggleDetail(row) {
   const d = row.getData();
-  const advanced = ["min_pct", "orb_pct", "drb_pct", "ast_pct", "to_pct", "blk_pct",
-    "stl_pct", "fg2_pct", "efg_pct", "fg3a_rate", "fta_rate", "drtg", "bpm", "usage", "ortg"];
-  const missing = advanced.filter((k) => d[k] === null || d[k] === undefined);
-  const note = missing.length
-    ? `\nMissing metrics: ${missing.join(", ")}` : "";
-  const line = `${d.name} — ${d.team} · ${d.conference} · ${d.class || "?"} · ${d.position || "?"}\n` +
-    `Updated: ${d.updated_at || "?"} · Source: ${d.source}${note}`;
-  alert(line);
+  const panel = $("detail");
+  panel.classList.remove("hidden");
+  panel.innerHTML = `<div class="text-slate-400 text-xs">Loading career for ${d.name}…</div>`;
+  const q = d.torvik_pid
+    ? `pid=${encodeURIComponent(d.torvik_pid)}`
+    : `name=${encodeURIComponent(d.name)}&team=${encodeURIComponent(d.team || "")}`;
+  let career = { seasons: [] };
+  try { career = await fetch("/api/career?" + q).then((r) => r.json()); } catch (e) {}
+
+  const head = `<div class="flex justify-between items-start">
+      <div><b class="text-base">${d.name}</b> — ${d.team} · ${d.conference}
+        <div class="text-xs text-slate-400">${d.position || "?"} · ${fmtHeight(d.height_in)} · ${fmt(d.weight_lb, 0)} lb
+          · Athleticism ${fmt(d.athleticism, 0)} · Conf strength ${fmt(d.conf_strength, 2)}
+          · Source ${d.source} · Updated ${d.updated_at || "?"}</div></div>
+      <button onclick="document.getElementById('detail').classList.add('hidden')" class="text-slate-400 text-sm">✕</button>
+    </div>`;
+
+  const cols = [["season", "Yr"], ["class", "Cl"], ["team", "Team"], ["gp", "GP"],
+    ["min_pg", "MPG"], ["pts_pg", "PPG"], ["reb_pg", "RPG"], ["ast_pg", "APG"],
+    ["stl_pg", "SPG"], ["blk_pg", "BPG"], ["ts_pct", "TS%"], ["usage", "Usg"],
+    ["ortg", "ORtg"], ["bpm", "BPM"]];
+  let table = `<table class="mt-2 text-xs w-full"><thead><tr class="text-slate-400 text-left">` +
+    cols.map(([, l]) => `<th class="pr-3">${l}</th>`).join("") + `</tr></thead><tbody>`;
+  for (const s of career.seasons) {
+    table += `<tr>` + cols.map(([k]) => `<td class="pr-3">${s[k] == null ? "—" : s[k]}</td>`).join("") + `</tr>`;
+  }
+  table += `</tbody></table>`;
+  if (!career.seasons.length) table = `<div class="text-xs text-amber-400 mt-2">No career history found.</div>`;
+  panel.innerHTML = head + table;
 }
 
 function getClasses() {
@@ -172,7 +207,7 @@ function buildQuery() {
   getClasses().forEach((c) => p.append("class", c));
   [...$("conference").selectedOptions].forEach((o) => p.append("conference", o.value));
   if ($("position").value) p.set("position", $("position").value);
-  ["min_gp", "min_minutes", "min_conf_strength", "null_policy"].forEach((k) => {
+  ["min_gp", "min_minutes", "min_conf_strength", "min_height_in", "max_height_in", "null_policy"].forEach((k) => {
     if ($(k).value) p.set(k, $(k).value);
   });
   const w = getWeights();
@@ -203,7 +238,8 @@ function debouncedRefresh() {
 }
 
 function wireEvents() {
-  ["season", "position", "min_gp", "min_minutes", "min_conf_strength", "null_policy", "conference"]
+  ["season", "position", "min_gp", "min_minutes", "min_conf_strength",
+   "min_height_in", "max_height_in", "null_policy", "conference"]
     .forEach((id) => $(id).addEventListener("change", refresh));
   document.querySelectorAll(".clsChk").forEach((c) => c.addEventListener("change", refresh));
   $("resetWeights").addEventListener("click", () => { setWeights({}); refresh(); });
@@ -225,7 +261,7 @@ function applyUrlState() {
   if (p.get("season")) $("season").value = p.get("season");
   const cls = p.getAll("class");
   if (cls.length) document.querySelectorAll(".clsChk").forEach((c) => (c.checked = cls.includes(c.value)));
-  ["position", "min_gp", "min_minutes", "min_conf_strength", "null_policy"].forEach((k) => {
+  ["position", "min_gp", "min_minutes", "min_conf_strength", "min_height_in", "max_height_in", "null_policy"].forEach((k) => {
     if (p.get(k)) $(k).value = p.get(k);
   });
   const w = {};

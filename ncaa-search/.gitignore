@@ -7,6 +7,9 @@ data/ncaa.db-shm
 data/cache/*
 !data/cache/.gitkeep
 
+# Generated export (built by the GitHub Action with real data)
+web/data.json
+
 __pycache__/
 *.pyc
 .venv/
