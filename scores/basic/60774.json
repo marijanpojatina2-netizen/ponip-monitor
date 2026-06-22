@@ -1,0 +1,15 @@
+{
+  "id": "60774",
+  "score_overall": 5.9,
+  "score_lokacija": 7.5,
+  "score_roi": 5.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Starigrad Paklenica uz Nacionalni park Paklenica ima solidni turistički potencijal, ali tek 25% popust na prvoj dražbi uz sirovo zemljište (građevinsko + pašnjak) znači da ROI nije uvjerljiv bez detaljne provjere GUP-a i mogućnosti gradnje. Vrijedi pratiti do druge dražbe s boljim popustom.",
+  "flags": [
+    "suvlasništvo 411/830 jedne čestice",
+    "pašnjak - ograničenja gradnje"
+  ],
+  "input_hash": "27761e90fe0a",
+  "scored_at": "2026-06-22T11:50:06.034360"
+}

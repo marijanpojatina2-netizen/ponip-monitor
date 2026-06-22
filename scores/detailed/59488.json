@@ -1,0 +1,61 @@
+{
+  "id": "59488",
+  "score_overall": 4.2,
+  "score_lokacija": 3.0,
+  "score_roi": 5.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Petrinja je epicentar razornog potresa M6.4 iz prosinca 2020. i jedan od demografski najugroženijih gradova u Hrvatskoj — tržišna likvidnost je minimalna, a potražnja gotovo nepostojeća za objekte ove vrijednosne klase. Ključni bloker je suvlasništvo: na dražbi se stječe isključivo 1/2 dijela vlasništva, što bez suradnje drugog suvlasnika onemogućuje slobodno upravljanje, iznajmljivanje ili prodaju imovine kao cjeline. Sudska utvrđena vrijednost od 603.970 EUR za 1/2 dijela (implicitno ~1,2 mil EUR za cjelinu) dramatično odskače od realnih tržišnih cijena u Petrinji gdje i renovirani objekti rijetko prelaze 500 EUR/m², a dražba od 362.382 EUR za polu-vlasništvo ne nudi investicijsku logiku ni uz 40%-tni popust. Izlazna strategija praktički ne postoji bez prethodnog dogovora s drugim suvlasnikom.",
+  "flags": [
+    "suvlasništvo — prodaje se samo 1/2 dijela ovršenika; bez razvrgnuća ili suglasnosti suvlasnika imovina je operativno blokirana",
+    "zona potresa — Petrinja epicentar M6.4 (29.12.2020.); stanje nosive konstrukcije nepoznato bez tehničkog pregleda",
+    "utvrđena vrijednost upitna — 603.970 EUR za 1/2 udjela višestruko iznad realnih tržišnih cijena u Sisačko-moslavačkoj županiji",
+    "mješovita imovina — 9 katastarskih čestica različite namjene (livada, oranica, ostala zemljišta, dvorište, put) povećava složenost uknjižbe i prometa",
+    "nepoznato stanje objekta — opis ne navodi renoviranost, useljivost ni eventualna oštećenja od potresa"
+  ],
+  "market_estimate": {
+    "eur_min": 90000,
+    "eur_max": 200000,
+    "confidence": "low",
+    "basis": "Realne cijene nekretnina u Petrinji (2024-2026): 150-400 EUR/m² za renovirane stambene objekte, 50-200 EUR/m² za oštećene/neobnovljene. Parcela kč.br. 3735/27 s objektom 92 m² na Ul. Milana Nemičića (gradski centar): tržišna vrijednost 100-200 EUR/m² = 9.200-18.400 EUR za 1/2 dijela. Parcela 3735/26 s gruntovnom oznakom 'zgrada/1350 m²' — ambivalentno: ako je to površina parcele (ne etaža objekta), objekt je manji; ako je to brutto etažna površina, tržišna vrijednost u Petrinji iznosi 300-600K EUR za cijeli objekt ili 150-300K za 1/2. Ukupna procjena ostaje daleko ispod sudske vrijednosti zbog lokacije i suvlasništva. Live web pretraga nije bila dostupna za verificirane usporedive oglase."
+  },
+  "comparables": [
+    {
+      "opis": "Referentni portal — pretraga aktivnih oglasa Petrinja/okolica",
+      "cijena": null,
+      "m2": null,
+      "izvor": "njuskalo.hr",
+      "url": "https://www.njuskalo.hr/prodaja-kuca/petrinja"
+    },
+    {
+      "opis": "Referentni portal — pretraga Petrinja kuće i poslovni prostori",
+      "cijena": null,
+      "m2": null,
+      "izvor": "nekretnine.net",
+      "url": "https://www.nekretnine.net/stambeni-objekti/kuce/petrinja-i-okolica/prodaja/"
+    },
+    {
+      "opis": "NAPOMENA: live web pretraga nije bila dostupna u ovoj sesiji; usporedivi podaci nisu dohvaćeni. Manualnom pretragom portala preporuča se utvrditi tržišne cijene u centru Petrinje za poslovne prostore i veće objekte.",
+      "cijena": null,
+      "m2": null,
+      "izvor": "analitičarska napomena",
+      "url": "https://www.njuskalo.hr/poslovni-prostori/petrinja"
+    }
+  ],
+  "investment_strategy": "Ne postoji atraktivna strategija uz trenutnu strukturu vlasništva. (1) Preprodaja 1/2 dijela: gotovo nemoguća — tržište za suvlasnički udio u Petrinji praktički ne postoji. (2) Iznajmljivanje: zahtijeva suglasnost suvlasnika i funkcionalan objekt — oba uvjeta nepotvrdiva bez dodatnih informacija. (3) Razvrgnuće suvlasništva: jedini realan put, ali sudski postupak u RH traje 2-5 godina i ishod je neizvjestan. (4) Otkup drugog udjela: ako je drugi suvlasnik dostupan za pregovore, pametnije je direktno pregovarati s njim nego plaćati dražbenu premiju na polu-vlasništvo. Reno-flip scenarij nerealan uz složenost vlasništva i depresivno tržište.",
+  "entry_price_eur": 120000,
+  "detailed_risks": [
+    "Suvlasništvo 1/2: bez suglasnosti ili otkupa drugog suvlasnika nije moguće samostalno prodati, iznajmiti ni rekonstruirati imovinu — pravna zamka",
+    "Potresna oštećenja: Petrinja je jedna od najviše pogođenih lokacija u potresu 2020.; bez geodetske i statičke procjene stanje objekta je nepoznato",
+    "Demografska kriza: Sisačko-moslavačka županija bilježi jedan od najnegativnijih demografskih trendova u EU — dugoročna potražnja opada",
+    "Sudska procjena vs. tržište: raskorak između utvrđene vrijednosti (1,2 mil EUR za cjelinu) i tržišnih cijena je ekstremno visok — rizik da procjenitelj nije uvažio post-potresne faktore",
+    "Kompleksnost od 9 čestica: svaka čestica zahtijeva zasebnu uknjižbu, eventualne promjene namjene, geodetske elaborate — troškovi i vremenski okviri nepredvidivi",
+    "Oranice i livade: poljoprivredne parcele imaju zakonska ograničenja prometa (pravo prvokupa, namjena) koja mogu blokirati cjelokupnu transakciju",
+    "Nepoznate obveze: opis ne navodi eventualnu hipoteku, zabilježbe, stvarne terete ili prava koja ne prestaju prodajom na ostatku imovine",
+    "Likvidnost: u zadnjih 5 godina u Sisačko-moslavačkoj županiji gotovo nema transakcija iznad 200K EUR na slobodnom tržištu"
+  ],
+  "upside_scenario": "Optimistični scenarij (3 god): drugi suvlasnik (npr. nasljednik ili tvrtka u stečaju) pristaje na razvrgnuće uz minimalan otpor. Objekt se pokaže kao funkcionalna poslovna/stambena zgrada bez značajnih potresnih oštećenja. Cijela imovina prodaje se jednom kupcu (npr. lokalnoj tvrtki, General koji kupuje sjedište) za 350-500K EUR ukupno. Povrat na 1/2 dijela: 175-250K EUR, što je i dalje značajan gubitak u odnosu na ulaznu dražbenu cijenu od 362K EUR.",
+  "downside_scenario": "Najgori scenarij: drugi suvlasnik odbija svaku suradnju, razvrgnuće suvlasništva traži 4-6 godina sudskog postupka. Za to vrijeme objekt propada, troškovi tekući (komunalije, porez, čuvanje). Tržišna vrijednost u Petrinji nastavlja stagnirati ili padati. Investitor ostaje s nelikvidnom imovinom, bez prihoda, uz sudske troškove. Ukupni gubitak: 250.000-360.000 EUR (većina investicije).",
+  "input_hash": "e623e5be3e4a",
+  "scored_at": "2026-06-22T11:57:01.000777"
+}

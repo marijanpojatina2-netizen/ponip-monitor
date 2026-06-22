@@ -1,0 +1,15 @@
+{
+  "id": "59488",
+  "score_overall": 4.5,
+  "score_lokacija": 3.0,
+  "score_roi": 6.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Petrinja je depopulacijsko potresno područje s niskom tržišnom likvidnošću i ograničenim investicijskim potencijalom unatoč 40% popustu; prodaje se samo 1/2 suvlasničkog dijela što dodatno komplicira izlaznu strategiju. Stanje zgrada na potresnom terenu nepoznato i zahtijeva fizičku provjeru.",
+  "flags": [
+    "suvlasništvo 1/2",
+    "potresno područje - potresi 2020."
+  ],
+  "input_hash": "e623e5be3e4a",
+  "scored_at": "2026-06-22T11:50:06.033936"
+}

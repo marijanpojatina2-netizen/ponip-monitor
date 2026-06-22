@@ -1,0 +1,14 @@
+{
+  "id": "60424",
+  "score_overall": 2.6,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Šuma od 4.059 m2 u k.o. Sasovac (Bjelovarsko-bilogorska županija) nudi minimalan ROI uz svega 20% popusta na prvoj dražbi i gotovo nepostojeće likvidno tržište za šumska zemljišta u ovoj regiji.",
+  "flags": [
+    "šuma — ograničena prenamjena i niska likvidnost"
+  ],
+  "input_hash": "6b302f338a72",
+  "scored_at": "2026-06-22T11:52:05.080959"
+}

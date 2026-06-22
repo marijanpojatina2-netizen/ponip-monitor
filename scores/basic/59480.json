@@ -1,0 +1,14 @@
+{
+  "id": "59480",
+  "score_overall": 1.8,
+  "score_lokacija": 1.5,
+  "score_roi": 2.0,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Dvorišne čestice u Petrinji (područje teško pogođeno potresom 2020., izrazita depopulacija) ukupne procijenjene vrijednosti 99 EUR — transakcijski troškovi i pravni postupak premašuju bilo kakvu realnu korist. Suvlasništvo 1/2 bez ikakvog objekta dodatno čini ovu imovinu bezvrijednom za investitora.",
+  "flags": [
+    "suvlasništvo 1/2"
+  ],
+  "input_hash": "4a80e02b71fa",
+  "scored_at": "2026-06-22T11:52:52.859900"
+}

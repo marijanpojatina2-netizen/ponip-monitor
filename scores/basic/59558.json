@@ -1,0 +1,14 @@
+{
+  "id": "59558",
+  "score_overall": 5.6,
+  "score_lokacija": 5.5,
+  "score_roi": 6.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Pušća kraj Zaprešića je prihvatljiva rubna zagrebačka lokacija s 40% popustom, ali opis s dva parcijalna suvlasnička dijela (ovršenik 1 i ovršenik 3, svaki 1/2) sugerira složenu vlasničku strukturu koja zahtijeva provjeru postoje li i drugi suvlasnici koji nisu ovršenici. Kuća s gospodarskim zgradama i 1629m2 nudi potencijal uz razjašnjenje vlasništva.",
+  "flags": [
+    "složena suvlasnička struktura (1/2 + 1/2 od dva ovršenika - nejasno ima li trećih suvlasnika)"
+  ],
+  "input_hash": "32c24d7a54ce",
+  "scored_at": "2026-06-22T11:50:06.034514"
+}

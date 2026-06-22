@@ -1,0 +1,14 @@
+{
+  "id": "59406",
+  "score_overall": 2.6,
+  "score_lokacija": 2.0,
+  "score_roi": 3.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Poljoprivredna zemlja (oranica i pašnjak) u depopulacijskom pograničnom području Kostajnice, iznimno niske tržišne likvidnosti i minimalne investicijske vrijednosti. Suvlasništvo u svega 2/16 dijela praktički onemogućuje samostalno raspolaganje ili prodaju.",
+  "flags": [
+    "suvlasništvo 2/16"
+  ],
+  "input_hash": "811553b86d66",
+  "scored_at": "2026-06-22T11:52:52.859312"
+}

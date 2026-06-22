@@ -1,0 +1,14 @@
+{
+  "id": "59254",
+  "score_overall": 4.4,
+  "score_lokacija": 3.5,
+  "score_roi": 5.0,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Belica je ruralno selo u Međimurju s ograničenom likvidnošću; prodaje se samo 1/2 idealnog suvlasničkog dijela što praktično onemogućuje samosatojnu upotrebu ili preprodaju bez suradnje drugog suvlasnika. 40% popust ne nadoknađuje rizik manjinskog udjela.",
+  "flags": [
+    "suvlasništvo 1/2 - manjinski udio bez kontrole"
+  ],
+  "input_hash": "f5d6315620b3",
+  "scored_at": "2026-06-22T11:50:06.034915"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "59440",
+  "score_overall": 4.5,
+  "score_lokacija": 3.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Virovitica je manji slavonski grad s niskom tržišnom likvidnošću i ograničenim potencijalom rasta cijena nekretnina; 40% popust ne kompenzira strukturne slabosti regije. Četiri suvlasnika-ovršenika povećavaju procesni rizik.",
+  "flags": [
+    "4 suvlasnika-ovršenika na ravne dijelove"
+  ],
+  "input_hash": "562e5c80753c",
+  "scored_at": "2026-06-22T11:50:06.034787"
+}

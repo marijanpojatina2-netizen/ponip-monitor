@@ -1,0 +1,16 @@
+{
+  "id": "59482",
+  "score_overall": 2.4,
+  "score_lokacija": 3.0,
+  "score_roi": 4.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Specifična industrijska namjena (trafostanica i radionica) u Petrinji uz suvlasničkih 1/2 dijela i potencijalno aktivnu upotrebu trafostanice od strane elektrodistributera stvara višestruke pravne i komercijalne rizike koje je gotovo nemoguće razriješiti bez dugotrajnih postupaka. Investicijska vrijednost je minimalna.",
+  "flags": [
+    "suvlasničkih 1/2 dijela",
+    "prava koja ne prestaju prodajom",
+    "industrijska namjena — trafostanica"
+  ],
+  "input_hash": "089414bae119",
+  "scored_at": "2026-06-22T11:52:05.080757"
+}

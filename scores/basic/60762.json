@@ -1,0 +1,15 @@
+{
+  "id": "60762",
+  "score_overall": 4.9,
+  "score_lokacija": 6.0,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Istranska lokacija (Svetvinčenat / Juršići) nudi geografski potencijal, ali oranica od svega 288 m2 u suvlasništvu 2/4 dijela praktički nema razvojnog potencijala niti dovoljan volumen za smislenu investicijsku premisu.",
+  "flags": [
+    "suvlasničkih 2/4 dijela",
+    "oranica — ograničena prenamjena"
+  ],
+  "input_hash": "b45c2798c274",
+  "scored_at": "2026-06-22T11:52:05.081123"
+}
