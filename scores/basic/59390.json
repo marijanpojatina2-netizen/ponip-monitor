@@ -1,0 +1,14 @@
+{
+  "id": "59390",
+  "score_overall": 6.4,
+  "score_lokacija": 7.5,
+  "score_roi": 7.0,
+  "score_stanje": 3.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Šuma 13.220 m² u k.o. Sv. Ivan nedaleko Poreča uz 40% popust i drugu dražbu — izvrsna istrska lokacija po niskoj cijeni, ali šumska namjena nosi stroga zakonska ograničenja gradnje koja je nužno pravno verificirati prije ponude; na dražbi je istovremeno i susjedna agro-parcela iz istog zk.ul. 4004 (ID 59384).",
+  "flags": [
+    "šumsko zemljište – gradnja ograničena zakonom"
+  ],
+  "input_hash": "83952a2ffa89",
+  "scored_at": "2026-06-24T09:25:52.360230"
+}

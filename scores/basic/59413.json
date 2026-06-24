@@ -1,0 +1,14 @@
+{
+  "id": "59413",
+  "score_overall": 5.7,
+  "score_lokacija": 7.5,
+  "score_roi": 5.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Priobalna Istra uz Poreč izvrsna je lokacija s 40% popustom i bonusom druge dražbe, no kupnja isključivo 1/3 suvlasničkog udjela vinograda/oranice bez suglasnosti preostalih vlasnika de facto blokira razvoj, prodaju i parcelaciju. Pravna analiza suvlasničkih odnosa i volja ostalih suvlasnika preduvjet su za bilo kakav konkretan korak.",
+  "flags": [
+    "suvlasnički udio 1/3 — ograničena kontrola i raspolaganje"
+  ],
+  "input_hash": "379a852fe12b",
+  "scored_at": "2026-06-24T09:27:38.289952"
+}

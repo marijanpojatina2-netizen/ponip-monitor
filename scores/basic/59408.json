@@ -1,0 +1,14 @@
+{
+  "id": "59408",
+  "score_overall": 5.8,
+  "score_lokacija": 7.0,
+  "score_roi": 6.0,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Pašnjak u k.o. Sv. Ivan kraj Poreča, Istra — tražena turistička lokacija s 40% popustom na drugoj dražbi i niskim apsolutnim ulaganjem (~2064 EUR). Suvlasništvo 1/2 i pašnjačka namjena ograničavaju samostalnu upotrebu.",
+  "flags": [
+    "suvlasništvo 1/2"
+  ],
+  "input_hash": "2d369dccc3fc",
+  "scored_at": "2026-06-24T09:30:16.732705"
+}

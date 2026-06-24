@@ -1,0 +1,12 @@
+{
+  "id": "60742",
+  "score_overall": 3.0,
+  "score_lokacija": 2.0,
+  "score_roi": 3.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Kombinirani lot u k.o. Sibenik uključuje česticu kčbr. 54/4 s oznakom 'voćnjak, kuća i dvorište' (~1.237 m2) što donosi manji plus, no stanje kuće nije poznato i vjerojatno zahtijeva renovaciju. Lokacija u depopulacijskom pojasu Grubišnog Polja i dalje dominantno sputava ROI i likvidnost.",
+  "flags": [],
+  "input_hash": "e37a31259eb7",
+  "scored_at": "2026-06-24T09:28:52.669656"
+}

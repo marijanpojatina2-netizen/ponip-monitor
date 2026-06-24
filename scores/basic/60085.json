@@ -1,0 +1,14 @@
+{
+  "id": "60085",
+  "score_overall": 2.7,
+  "score_lokacija": 3.5,
+  "score_roi": 2.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Udio 6/240 (1/40) u zapuštenoj čestici k.o. Velika Glava — ista klasa rizika kao prethodne dvije nekretnine iz istog ZU područja. Niska vrijednost (286 EUR), 20% popust i manjinski udio bez ikakve poluge za realizaciju vrijednosti.",
+  "flags": [
+    "suvlasništvo — sitni udio (6/240)"
+  ],
+  "input_hash": "8712dc50a123",
+  "scored_at": "2026-06-24T09:30:58.942490"
+}

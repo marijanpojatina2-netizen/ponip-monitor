@@ -1,0 +1,15 @@
+{
+  "id": "60083",
+  "score_overall": 3.1,
+  "score_lokacija": 5.5,
+  "score_roi": 2.0,
+  "score_stanje": 1.5,
+  "recommendation": "pass",
+  "reasoning": "Frakcijski udio 24/2400 (=1%) u nizu potpuno zapuštenih i neprohodnih čest. zem. u k.o. Velika Glava (Šibenik) — dalmatinska lokacija ima određenu vrijednost, ali minimalni udio i stanje 'zapušteno, zaraslo i neprohodno' čine ovo praktički nerealizivim ulaganjem.",
+  "flags": [
+    "suvlasništvo 24/2400 udio",
+    "zapušteno i neprohodno"
+  ],
+  "input_hash": "154796998b8e",
+  "scored_at": "2026-06-24T09:30:16.733000"
+}

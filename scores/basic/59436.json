@@ -1,0 +1,14 @@
+{
+  "id": "59436",
+  "score_overall": 4.3,
+  "score_lokacija": 3.5,
+  "score_roi": 5.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Atraktivan popust od 40% i druga dražba poboljšavaju ROI profil ove ruralne nekretnine u Sivici kod Čakovca, a Međimurje ima znatno bolju ekonomiku od Slavonije. Međutim, kupnja samo 1/2 suvlasničkog udjela starije seoske kuće s pomoćnim zgradama (svinjac, štagalj) ozbiljno komplicira svaki izlazni scenarij i zahtijeva dogovor s drugim suvlasnikom.",
+  "flags": [
+    "suvlasnički udio 1/2 — ograničena kontrola i raspolaganje"
+  ],
+  "input_hash": "dc18b05861dc",
+  "scored_at": "2026-06-24T09:27:38.290198"
+}

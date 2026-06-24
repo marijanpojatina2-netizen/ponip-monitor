@@ -1,0 +1,14 @@
+{
+  "id": "60081",
+  "score_overall": 2.7,
+  "score_lokacija": 3.5,
+  "score_roi": 2.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Šibensko zaleđe (k.o. Velika Glava) daje određenu lokacijsku premiju, ali vlasnički udio 12/1200 (1/100) čini parcelaciju i samostalnu upotrebu praktično nemogućom bez dogovora s ostalih ~99 suvlasnika. Potpuno zapušteno zemljište obraslo šumom bez ikakve infrastrukture.",
+  "flags": [
+    "suvlasništvo — sitni udio (12/1200)"
+  ],
+  "input_hash": "db3b4316acb5",
+  "scored_at": "2026-06-24T09:30:58.942155"
+}
