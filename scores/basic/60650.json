@@ -1,0 +1,14 @@
+{
+  "id": "60650",
+  "score_overall": 2.3,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Prodaje se isključivo polovični suvlasnički udio voćnjaka u k.o. Suza (okolica Virovitice), demografski jednom od najslabijih područja Hrvatske s minimalnom tražnjom za poljoprivrednim zemljištem bez građevina. Minimalni popust od 20% na prvoj dražbi, suvlasnička komplikacija i odsutnost ikakve izgrađenosti čine ovaj predmet investicijski posve neatraktivnim.",
+  "flags": [
+    "suvlasništvo (1/2 dijela)"
+  ],
+  "input_hash": "1246dbb5be5a",
+  "scored_at": "2026-06-25T08:57:52.216598"
+}

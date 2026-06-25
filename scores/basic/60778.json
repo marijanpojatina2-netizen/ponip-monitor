@@ -1,0 +1,14 @@
+{
+  "id": "60778",
+  "score_overall": 4.0,
+  "score_lokacija": 3.5,
+  "score_roi": 4.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "K.o. Remetinec je slabija tržišna lokacija s ograničenom tražnjom i likvidnošću u odnosu na sam Varaždin, a suvlasnička struktura stranaka dodatno komplicira preuzimanje i daljnju dispoziciju nekretninom. Popust od 20% na prvoj dražbi ne kompenzira kombinirane rizike ove investicije.",
+  "flags": [
+    "suvlasništvo stranaka"
+  ],
+  "input_hash": "30de41cf1f8a",
+  "scored_at": "2026-06-25T08:57:52.216459"
+}
