@@ -1,0 +1,14 @@
+{
+  "id": "59594",
+  "score_overall": 1.4,
+  "score_lokacija": 1.5,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Poljoprivredno zemljište (oranica i vinograd) u k.o. Mohovo kod Vukovara, suvlasnički udio 2/4 što komplicira raspolaganje i eventualnu prodaju. Iako popust od 40% na drugoj dražbi djeluje povoljno, likvidnost poljoprivrednog zemljišta u ovoj regiji je iznimno niska.",
+  "flags": [
+    "sporno vlasništvo"
+  ],
+  "input_hash": "5e2f29b6fdc4",
+  "scored_at": "2026-06-26T09:01:21.989181"
+}

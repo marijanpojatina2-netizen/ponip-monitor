@@ -1,0 +1,14 @@
+{
+  "id": "59562",
+  "score_overall": 6.9,
+  "score_lokacija": 7.5,
+  "score_roi": 8.0,
+  "score_stanje": 3.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Pula lokacija s točno 40% popustom na drugoj dražbi u jednoj od najlikvidnijih turističkih destinacija Hrvatske čini ovo izvrsnim investicijskim kandidatom unatoč stogodišnjoj prizemnici koja zahtijeva ozbiljnu obnovu. Detaljna analiza konstrukcijskog stanja i troškova obnove ključna je za donošenje odluke.",
+  "flags": [
+    "prislonjena na susjedni objekt — potencijalni konstruktivni rizik"
+  ],
+  "input_hash": "27d398d995fc",
+  "scored_at": "2026-06-26T09:01:09.235480"
+}

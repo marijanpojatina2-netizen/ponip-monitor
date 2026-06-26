@@ -1,0 +1,14 @@
+{
+  "id": "60790",
+  "score_overall": 3.2,
+  "score_lokacija": 2.5,
+  "score_roi": 3.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Suvlasnički udio od 1/2 u kući u Novoj Gradiški stvara kompleksnu pravnu situaciju s potencijalnom blokadom od drugog suvlasnika, bez mogućnosti samostalnog raspolaganja. Nizak popust od 20% na prvoj dražbi i slaba lokacija ne opravdavaju investiciju.",
+  "flags": [
+    "suvlasnički udio 1/2 — otežana realizacija i prodaja"
+  ],
+  "input_hash": "05901a4fb3b3",
+  "scored_at": "2026-06-26T09:01:09.235754"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "60782",
+  "score_overall": 2.9,
+  "score_lokacija": 1.5,
+  "score_roi": 4.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Ruralna kuća u selu Oprisavci kraj Slavonskog Broda, depopulacijsko područje s minimalnom likvidnošću i tržišnom potražnjom. Popust od 20% na prvoj dražbi nedostatan je da kompenzira slabu lokaciju i upitno stanje starije seoske kuće.",
+  "flags": [],
+  "input_hash": "fb68f8747f68",
+  "scored_at": "2026-06-26T09:01:21.988925"
+}
