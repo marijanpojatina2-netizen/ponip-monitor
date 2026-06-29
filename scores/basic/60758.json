@@ -1,0 +1,14 @@
+{
+  "id": "60758",
+  "score_overall": 1.7,
+  "score_lokacija": 2.0,
+  "score_roi": 3.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Zapuštena livada bez vidljivog pristupa u k.o. Sirova Katalena — izrazito nepovoljna kombinacija ruralne lokacije, minimalnog popusta i pravnog problema s pristupom preko tuđih čestica. Tržišna vrijednost upitna čak i uz znatno veće uštede.",
+  "flags": [
+    "prava koja ne prestaju prodajom"
+  ],
+  "input_hash": "f0ae942a0358",
+  "scored_at": "2026-06-29T10:56:06.607445"
+}

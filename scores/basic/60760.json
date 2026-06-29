@@ -1,0 +1,14 @@
+{
+  "id": "60760",
+  "score_overall": 1.2,
+  "score_lokacija": 2.0,
+  "score_roi": 2.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Mikročestica od 227 m2 uz prugu bez pristupa i okružena zapuštenim parcelama u k.o. Sirova Katalena — nominalna vrijednost 66 EUR govori sve; nema praktičnog investicijskog scenarija. Apsolutni pass.",
+  "flags": [
+    "prava koja ne prestaju prodajom"
+  ],
+  "input_hash": "42cad15d9baf",
+  "scored_at": "2026-06-29T10:56:06.607568"
+}

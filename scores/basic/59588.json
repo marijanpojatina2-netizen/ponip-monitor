@@ -1,0 +1,14 @@
+{
+  "id": "59588",
+  "score_overall": 4.2,
+  "score_lokacija": 5.0,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Dicmo-Kraj (zaleđe Splita, ~20km od centra) nudi solidan popust od 40% uz umjerenu lokacijsku poziciju, no neutvrdeni suvlasnički omjer etažnog vlasništva E-2 predstavlja ozbiljan pravni rizik koji zahtijeva dubinsku provjeru. Bez razrješenja vlasničkog pitanja licitacija nije preporučljiva.",
+  "flags": [
+    "sporno vlasništvo"
+  ],
+  "input_hash": "c6a65c14fbec",
+  "scored_at": "2026-06-29T10:54:05.081437"
+}

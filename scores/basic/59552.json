@@ -1,0 +1,14 @@
+{
+  "id": "59552",
+  "score_overall": 4.0,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Livada 2011m² u k.o. Sveti Križ Začretje — manja varijanta iste kategorije kao ID 59550, s istim ograničenjima namjene i likvidnosti u ruralnom Zagorju. Bez mogućnosti razvoja vrijednost ostaje statična i teško utrživa.",
+  "flags": [
+    "poljoprivredno zemljište bez građevinskog potencijala"
+  ],
+  "input_hash": "fdc224b85fa0",
+  "scored_at": "2026-06-29T10:54:05.081571"
+}
