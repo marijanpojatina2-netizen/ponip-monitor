@@ -628,8 +628,8 @@ def main():
     # za slučaj da scoring padne na timeoutu — makar imamo svježi dashboard
     # s današnjim recordima i postojećim cached scoreovima).
     for r in records:
-        r["score"] = load_cached(r["id"], detailed=False)
-        r["detailed"] = load_cached(r["id"], detailed=True)
+        r["score"] = load_cached(r["id"], detailed=False, record=r)
+        r["detailed"] = load_cached(r["id"], detailed=True, record=r)
     _write_dashboard(records, cutoff_days)
 
     # AI SCORING

@@ -28,6 +28,10 @@ batch_size_basic: 8
 # - Ukupna ocjena se računa deterministički u scorer.py (WEIGHTS: roi 45%,
 #   lokacija 35%, stanje 20% + FLAG_PENALTIES za pravne rizike;
 #   "osoba stanuje" je samo informativan flag, ne utječe na ocjenu)
+# - Penali vrijede samo za POTVRĐENE rizike — flagovi tipa "provjeriti: ..."
+#   / "nepoznato..." su spekulativni i ne nose penal (v3.2)
+# - score_roi se clampa u pojas izveden iz popusta od procjene (ROI_BANDS);
+#   recommendation se uskladi s finalnom ocjenom (v3.2)
 # - Svi rezultati se kešuju u scores/basic/*.json i scores/detailed/*.json
 # - Re-scoring se okida samo ako se cijena ili opis promijeni (input_hash)
 # - Na prvi run, backfill će ocijeniti top 100 (sortirano: nova > urgent > vrijednost)

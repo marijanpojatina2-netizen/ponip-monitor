@@ -10,6 +10,14 @@ v3.1 - fixes:
 - Smarter JSON extraction — prefer JSON koji matcha očekivanu shemu
 - Handle list wrapper u detailed scoring
 - Log raw output kad detailed scoring padne
+
+v3.2 - scoring logika:
+- Penali se primjenjuju samo na POTVRĐENE rizike — spekulativni flagovi
+  ("provjeriti...", "nepoznato...", "moguće...") više ne ruše ocjenu
+- score_roi se clampa u pojas izveden iz stvarnog popusta od procjene
+  (objektivan podatak > modelova procjena); popust se sprema u score JSON
+- recommendation se uskladi s finalnom determinističkom ocjenom
+  (nema više "bid" uz overall 3.5 nakon penala)
 """
 
 import subprocess
@@ -56,13 +64,32 @@ CLAUDE_TIMEOUT_DETAILED = 600
 WEIGHTS = {"score_roi": 0.45, "score_lokacija": 0.35, "score_stanje": 0.20}
 
 FLAG_PENALTIES = [
-    (re.compile(r"sporn", re.I), -1.5),            # sporno vlasništvo
+    (re.compile(r"(?<!neo)sporn", re.I), -1.5),    # sporno vlasništvo (ne i "neosporno")
     (re.compile(r"ne\s+prestaj", re.I), -1.0),     # prava koja ne prestaju prodajom
     (re.compile(r"zakup|najam|najmu", re.I), -0.5),  # u zakupu / u najmu
     (re.compile(r"stanuje|stanar|useljen", re.I), 0.0),  # osoba stanuje — bez utjecaja
 ]
 
+# Flag koji je preporuka za provjeru ili nepoznanica NIJE potvrđeni rizik —
+# penal bi dvaput kaznio istu neizvjesnost (jednom kroz stanje/roi, jednom
+# kroz flag). Detailed scoring tipično vraća "obavezna provjera ZK-a na
+# prava koja ne prestaju prodajom" — to ne smije nositi penal.
+SPECULATIVE_RX = re.compile(
+    r"provjer|utvrdi|nepoznat|nejasn|upitn|moguć|potencijal|rizik\s+od|\bako\b",
+    re.I,
+)
+
 VALID_RECOMMENDATIONS = {"pass", "watch", "bid", "deep_dive"}
+
+# score_roi mora biti konzistentan s objektivno izračunatim popustom od
+# procjene (rubrika: >40% → 8+, 20-40% → 6-8, <20% → 4-6). Pojasevi su
+# rubrika ± tolerancija za rundu dražbe i likvidnost regije.
+#   (min_popust_%, roi_lo, roi_hi)
+ROI_BANDS = [
+    (40.0, 6.5, 10.0),
+    (20.0, 4.5, 9.0),
+    (float("-inf"), 0.0, 7.0),
+]
 
 
 def _to_float(v, lo: float = 0.0, hi: float = 10.0) -> float | None:
@@ -73,11 +100,46 @@ def _to_float(v, lo: float = 0.0, hi: float = 10.0) -> float | None:
     return max(lo, min(hi, f))
 
 
+def compute_discount(record: dict) -> float | None:
+    """Popust početne cijene od utvrđene vrijednosti, u postocima."""
+    try:
+        v = record.get("vrijednost")
+        p = record.get("pocetna")
+        if not v or p is None:
+            return None
+        return round((1 - p / v) * 100, 1)
+    except (TypeError, ZeroDivisionError):
+        return None
+
+
 def flag_penalty(flags: list[str]) -> float:
-    """Zbroj penala — svaka kategorija rizika broji se najviše jednom."""
+    """Zbroj penala — svaka kategorija rizika broji se najviše jednom.
+    Spekulativni flagovi (provjere, nepoznanice) ne nose penal."""
+    confirmed = [f for f in flags if not SPECULATIVE_RX.search(f)]
     return sum(
-        pen for rx, pen in FLAG_PENALTIES if any(rx.search(f) for f in flags)
+        pen for rx, pen in FLAG_PENALTIES if any(rx.search(f) for f in confirmed)
     )
+
+
+def clamp_roi(score: dict, record: dict) -> None:
+    """Prisili score_roi u pojas konzistentan s izračunatim popustom.
+    Preskače pokretnine — tamo popust nije dominantan signal ROI-ja."""
+    roi = _to_float(score.get("score_roi"))
+    discount = compute_discount(record)
+    if roi is None or discount is None:
+        return
+    if "pokretnin" in str(record.get("vrsta", "")).lower():
+        return
+    for min_disc, lo, hi in ROI_BANDS:
+        if discount >= min_disc:
+            clamped = max(lo, min(hi, roi))
+            if clamped != roi:
+                log.info(
+                    f"ROI clamp za ID {record.get('id')}: {roi} → {clamped} "
+                    f"(popust {discount}%)"
+                )
+            score["score_roi"] = clamped
+            return
 
 
 def compute_overall(score: dict) -> float | None:
@@ -90,12 +152,13 @@ def compute_overall(score: dict) -> float | None:
     return round(max(0.0, min(10.0, raw)), 1)
 
 
-def normalize_score(score: dict) -> dict:
+def normalize_score(score: dict, record: dict | None = None) -> dict:
     """
     Očisti AI output prije keširanja/prikaza: koerciraj brojeve, validiraj
     recommendation, normaliziraj flags, pa izračunaj deterministički overall.
     Primjenjuje se i pri ČITANJU keša → stare ocjene se retroaktivno
     preračunaju po aktualnim ponderima bez novih AI poziva.
+    S recordom dodatno usidri score_roi u izračunati popust.
     """
     for k in WEIGHTS:
         score[k] = _to_float(score.get(k))
@@ -103,9 +166,21 @@ def normalize_score(score: dict) -> dict:
     if isinstance(flags, str):
         flags = [flags]
     score["flags"] = [str(f) for f in flags] if isinstance(flags, list) else []
+    if record is not None:
+        clamp_roi(score, record)
+        score["discount_pct"] = compute_discount(record)
     rec = str(score.get("recommendation") or "").strip().lower()
-    score["recommendation"] = rec if rec in VALID_RECOMMENDATIONS else "watch"
-    score["score_overall"] = compute_overall(score)
+    rec = rec if rec in VALID_RECOMMENDATIONS else "watch"
+    overall = compute_overall(score)
+    # Preporuka mora pratiti finalnu ocjenu: nakon penala/clampova modelov
+    # "bid" uz nisku ocjenu je kontradikcija koja zbunjuje u emailu.
+    if overall is not None:
+        if overall < 4.0 and rec in ("bid", "deep_dive"):
+            rec = "watch"
+        elif overall >= 7.5 and rec == "pass":
+            rec = "watch"
+    score["recommendation"] = rec
+    score["score_overall"] = overall
     return score
 
 
@@ -114,7 +189,13 @@ def normalize_score(score: dict) -> dict:
 # ============================================================================
 
 def input_hash(record: dict) -> str:
-    key = f"{record.get('pocetna')}-{record.get('runda')}-{record.get('opis', '')[:300]}"
+    # v3.2: uključena i vrijednost (procjena) — njena promjena mijenja popust
+    # pa mora okinuti re-scoring. NAPOMENA: promjena formata hasha invalidira
+    # postojeći keš → sve se postupno rescorea kroz iduće runove (100/dan).
+    key = (
+        f"{record.get('pocetna')}-{record.get('vrijednost')}-"
+        f"{record.get('runda')}-{record.get('opis', '')[:300]}"
+    )
     return hashlib.md5(key.encode("utf-8")).hexdigest()[:12]
 
 
@@ -126,7 +207,7 @@ def detailed_path(id_: str) -> Path:
     return DETAILED_DIR / f"{id_}.json"
 
 
-def load_cached(id_: str, detailed: bool) -> dict | None:
+def load_cached(id_: str, detailed: bool, record: dict | None = None) -> dict | None:
     path = detailed_path(id_) if detailed else basic_path(id_)
     if not path.exists():
         return None
@@ -134,11 +215,11 @@ def load_cached(id_: str, detailed: bool) -> dict | None:
         data = json.loads(path.read_text(encoding="utf-8"))
     except (json.JSONDecodeError, OSError):
         return None
-    return normalize_score(data) if isinstance(data, dict) else None
+    return normalize_score(data, record) if isinstance(data, dict) else None
 
 
 def save_score(record: dict, score: dict, detailed: bool):
-    normalize_score(score)
+    normalize_score(score, record)
     score["input_hash"] = input_hash(record)
     score["scored_at"] = datetime.now().isoformat()
     path = detailed_path(record["id"]) if detailed else basic_path(record["id"])
@@ -291,13 +372,16 @@ KRITERIJI (svi 0-10, decimale .5 dozvoljene):
    - 2-4: za temeljito renoviranje, ruševno
    - 1-3: neuseljivo, nerealizirani objekti
 
-4. FLAGS (kratke oznake rizika; koristi TOČNO ove kanonske nazive kad rizik
-   postoji u opisu):
+4. FLAGS (kratke oznake rizika; koristi TOČNO ove kanonske nazive kad je
+   rizik POTVRĐEN u opisu):
    - "osoba stanuje" (u nekretnini netko živi/stanuje)
    - "u zakupu / u najmu"
    - "prava koja ne prestaju prodajom"
    - "sporno vlasništvo"
    - ostale specifične rizike imenuj kratko svojim riječima
+   Ako rizik NIJE potvrđen nego ga tek treba provjeriti (nepoznanica,
+   preporuka za due diligence), flag OBAVEZNO počni s "provjeriti: ..." —
+   sustav potvrđene i spekulativne rizike tretira različito.
 
 VAŽNO: pod-ocjene (lokacija/roi/stanje) daj čisto po gornjim kriterijima.
 Pravne rizike i useljenost NE uračunavaj u pod-ocjene — iskaži ih isključivo
@@ -314,12 +398,7 @@ RECOMMENDATION: "pass" | "watch" | "bid" | "deep_dive"
 def build_basic_batch_prompt(records: list[dict]) -> str:
     blocks = []
     for i, r in enumerate(records, 1):
-        discount = None
-        if r.get("vrijednost") and r.get("pocetna"):
-            try:
-                discount = round((1 - r["pocetna"] / r["vrijednost"]) * 100, 1)
-            except ZeroDivisionError:
-                discount = None
+        discount = compute_discount(r)
         blocks.append(
             f"""=== NEKRETNINA {i} (ID: {r['id']}) ===
 Sud: {r.get('sud', '—')}
@@ -348,12 +427,7 @@ VRATI SAMO JSON ARRAY (bez markdown, bez objašnjenja, bez code fence):
 
 
 def build_detailed_prompt(r: dict) -> str:
-    discount = None
-    if r.get("vrijednost") and r.get("pocetna"):
-        try:
-            discount = round((1 - r["pocetna"] / r["vrijednost"]) * 100, 1)
-        except ZeroDivisionError:
-            discount = None
+    discount = compute_discount(r)
 
     return f"""{BASIC_INSTRUCTIONS}
 
@@ -473,14 +547,14 @@ def score_items(
     needs_detailed: list[dict] = []
 
     for r in records:
-        cached_b = load_cached(r["id"], detailed=False)
+        cached_b = load_cached(r["id"], detailed=False, record=r)
         if cached_b and not needs_rescoring(r, cached_b):
             basic[r["id"]] = cached_b
         else:
             needs_basic.append(r)
 
         if (r.get("vrijednost") or 0) >= DETAILED_THRESHOLD_EUR:
-            cached_d = load_cached(r["id"], detailed=True)
+            cached_d = load_cached(r["id"], detailed=True, record=r)
             if cached_d and not needs_rescoring(r, cached_d):
                 detailed[r["id"]] = cached_d
             else:
