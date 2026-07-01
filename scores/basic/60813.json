@@ -1,0 +1,14 @@
+{
+  "id": "60813",
+  "score_overall": 5.0,
+  "score_lokacija": 6.0,
+  "score_roi": 5.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Manja čestica dvorišta (93 m2) u istoj ulici kao i nekretnina 60829, ali s višom cijenom po m2 (~645 EUR/m2) i još izraženijim ograničenjem samostalne funkcionalnosti zbog malene površine. Investicijski potencijal slab bez jasne mogućnosti zasebnog razvoja.",
+  "flags": [
+    "upitna samostalna uporabivost (oznaka: dvorište)"
+  ],
+  "input_hash": "c17026ca4476",
+  "scored_at": "2026-07-01T09:41:32.874813"
+}

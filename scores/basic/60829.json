@@ -1,0 +1,14 @@
+{
+  "id": "60829",
+  "score_overall": 5.4,
+  "score_lokacija": 6.0,
+  "score_roi": 5.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Zemljište-dvorište od 217 m2 u Zagrebu (Bužanova ulica) po pristojnoj cijeni ~456 EUR/m2, no radi se o pomoćnoj čestici (dvorište) čija samostalna uporabivost bez susjedne zgrade nije jasna iz opisa. Popust od 25% na prvoj dražbi je standardan, bez dodatnog diskonta za kasniju dražbu.",
+  "flags": [
+    "upitna samostalna uporabivost (oznaka: dvorište)"
+  ],
+  "input_hash": "153ce6cc5b86",
+  "scored_at": "2026-07-01T09:41:32.874575"
+}
