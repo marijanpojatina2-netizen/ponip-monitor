@@ -1,16 +1,15 @@
 {
   "id": "58383",
-  "score_overall": 6.5,
-  "score_lokacija": 6.5,
-  "score_roi": 8.5,
-  "score_stanje": 3.0,
-  "recommendation": "deep_dive",
-  "reasoning": "Istra (k.o. Martinac, Pazin) s 50% popustom na drugoj dražbi i ukupno ~4.500 m2 uz građevinsku parcelu je rijetka prilika u najtraženijoj regiji - startna cijena od 3.750 EUR za Istru je izuzetno niska; kritično je terenom utvrditi stvarno stanje jer ZK bilježi kuću i dvorište ali opis kaže 'u naravi građevinsko i poljoprivredno zemljište' što snažno sugerira ruševinu ili potpuno devastiran objekt.",
+  "score_overall": 6.6,
+  "score_lokacija": 6.0,
+  "score_roi": 8.0,
+  "score_stanje": 4.5,
+  "recommendation": "bid",
+  "reasoning": "Kombinacija kuće, dvorišta i više poljoprivrednih parcela u unutrašnjosti Istre (k.o. Martinac) uz 50% popusta na drugoj dražbi daje solidnu maržu i realan potencijal za agroturizam ili daljnju preprodaju. Stanje kuće nije opisano pa zahtijeva provjeru na terenu prije licitacije.",
   "flags": [
-    "stanje objekta nejasno - ZK bilježi kuću ali 'u naravi' samo zemljište (vjerojatna ruševina)",
-    "Trgovački sud Pazin - stečajna imovina pravne osobe, drugačiji postupak",
-    "potrebna hitna terenska provjera i uvid u ZK izvadak + građevinsku dozvolu"
+    "provjeriti: stanje kuće (nije opisano)"
   ],
-  "input_hash": "91790c684487",
-  "scored_at": "2026-05-05T08:14:54.822198"
+  "discount_pct": 50.0,
+  "input_hash": "4445d24db16e",
+  "scored_at": "2026-07-02T09:07:26.249430"
 }

@@ -1,16 +1,15 @@
 {
   "id": "60158",
-  "score_overall": 5.0,
-  "score_lokacija": 7.0,
-  "score_roi": 4.5,
-  "score_stanje": 6.0,
+  "score_overall": 6.2,
+  "score_lokacija": 7.5,
+  "score_roi": 5.5,
+  "score_stanje": 5.5,
   "recommendation": "watch",
-  "reasoning": "Split lokacija je solidna, ali se prodaje samo 1/2 suvlasničkog dijela stana što dramatično ograničava raspoloživost nekretninom i mogućnost preprodaje ili najma. Popust od 20% na prvoj dražbi ne kompenzira suvlasnički pravni rizik.",
+  "reasoning": "Stan u Splitu na Marina Getaldića u standardnom je stanju i na dobroj lokaciji, uz umjeren popust od 20% na prvoj dražbi. Prodaje se samo polovica suvlasničkog dijela nekretnine, što nosi praktične rizike oko korištenja i daljnje prodaje pa treba pratiti prije aktivnog uključivanja u licitaciju.",
   "flags": [
-    "suvlasništvo 1/2 dijela - ograničena raspoloživost",
-    "potrebna dioba ili otkup drugog dijela",
-    "potencijalni konflikt sa suvlasnikom"
+    "prodaje se samo suvlasnički dio (1/2) nekretnine"
   ],
-  "input_hash": "74c8d826c5c4",
-  "scored_at": "2026-05-08T07:28:30.926056"
+  "discount_pct": 20.0,
+  "input_hash": "12fddeec7933",
+  "scored_at": "2026-07-02T08:54:24.779706"
 }

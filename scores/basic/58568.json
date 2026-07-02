@@ -1,14 +1,15 @@
 {
   "id": "58568",
-  "score_overall": 5.0,
-  "score_lokacija": 4.5,
-  "score_roi": 6.5,
-  "score_stanje": 4.5,
-  "recommendation": "watch",
-  "reasoning": "Drugi krug s 40% popustom daje realnu ulaznu cijenu od 41.449 EUR za kuću 105 m2 + gospodarsku zgradu + dvorište 846 m2 u Goričanu; omjer površine i cijene pristojan za iznajmljivanje ili domicil. Međimurje nije depopulacijska zona ali ni turistički tražena – tržište stabilno, likvidnost umjerena.",
+  "score_overall": 6.0,
+  "score_lokacija": 5.0,
+  "score_roi": 7.0,
+  "score_stanje": 5.5,
+  "recommendation": "bid",
+  "reasoning": "Goričan u Međimurju je solidna lokacija uz granicu s Mađarskom, a 40% popusta na drugoj dražbi uz kuću i gospodarsku zgradu na 846 m2 daje realan ROI potencijal. Stanje objekta nije detaljno opisano ali struktura nekretnine (kuća + gospodarska zgrada) sugerira standardnu useljivost uz manje zahvate.",
   "flags": [
-    "Gospodarska zgrada može zahtijevati posebnu dozvolu za prenamjenu ili adaptaciju"
+    "provjeriti: stanje kuće i useljenost"
   ],
-  "input_hash": "fb2a709cd3d4",
-  "scored_at": "2026-05-05T08:12:54.343992"
+  "discount_pct": 40.0,
+  "input_hash": "0bc4a3023433",
+  "scored_at": "2026-07-02T08:59:07.714570"
 }

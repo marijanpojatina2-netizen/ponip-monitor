@@ -1,17 +1,16 @@
 {
   "id": "60188",
-  "score_overall": 3.5,
-  "score_lokacija": 4.0,
-  "score_roi": 3.5,
-  "score_stanje": 4.0,
+  "score_overall": 3.6,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
   "recommendation": "pass",
-  "reasoning": "Samo 20% popusta na prvoj dražbi u Slavonskom Brodu daje slab ROI ulaz, a suvlasnički udio 3/6 zahtijeva suglasnost preostalih suvlasnika što značajno komplicira svaku dispoziciju. Slavonija ima kroničan problem likvidnosti nekretnina.",
+  "reasoning": "Dvije kuće i dvorište u Starom Slatniku kraj Slavonskog Broda nose tek 20% popusta na prvoj dražbi uz suvlasnički dio 3/6, što uz slabiju slavonsku lokaciju daje nepovoljan investicijski profil. Stanje objekata nije opisano što dodatno povećava rizik.",
   "flags": [
-    "suvlasnički udio 3/6 - potrebna suglasnost ostalih suvlasnika",
-    "prva dražba - nema cjenovnog pritiska",
-    "Slavonija - slaba likvidnost tržišta",
-    "nepoznato stanje objekta"
+    "provjeriti: suvlasnički dio 3/6 - odnos s ostalim suvlasnicima",
+    "provjeriti: stanje i useljivost dviju kuća"
   ],
-  "input_hash": "8eec3a8b27e7",
-  "scored_at": "2026-05-11T09:41:37.397297"
+  "discount_pct": 20.0,
+  "input_hash": "7ddd57fd7721",
+  "scored_at": "2026-07-02T09:04:50.997494"
 }

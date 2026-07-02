@@ -1,16 +1,16 @@
 {
   "id": "60089",
-  "score_overall": 6.5,
-  "score_lokacija": 6.5,
+  "score_overall": 5.4,
+  "score_lokacija": 5.0,
   "score_roi": 6.5,
-  "score_stanje": 5.0,
-  "recommendation": "watch",
-  "reasoning": "Zemljište 553 m2 u poslovnoj zoni Rupa na prometnom koridoru Rijeka-Trst-Ljubljana s oznakom mješovite poslovne namjene (K) - izuzetna prometna pozicija s realnim komercijalnim potencijalom. Popust 25% na prvoj dražbi je umjeren, ali poslovna zona uz autocestu i državnu cestu D8 opravdava dublju analizu planskih uvjeta gradnje.",
+  "score_stanje": 3.5,
+  "recommendation": "bid",
+  "reasoning": "Čestica se nalazi u poslovnoj zoni Rupa na prometnom pravcu Rijeka-Trst-Ljubljana, strateški zanimljivo za logistiku/poslovnu namjenu uz 25% popusta na prvoj dražbi. Radi se o praznoj parceli od samo 553 m2 pa je realizacija ograničena veličinom i uvjetima gradnje.",
   "flags": [
-    "livada u poslovnoj zoni - provjeriti UPU 23 K11 uvjete gradnje",
-    "relativno mala površina za poslovni razvoj",
-    "prva dražba - manji popust"
+    "provjeriti: komunalna infrastruktura i uvjeti gradnje u zoni K",
+    "provjeriti: pristupnost i oblik čestice (553 m2)"
   ],
-  "input_hash": "bff4c3bf954e",
-  "scored_at": "2026-05-08T07:29:03.601670"
+  "discount_pct": 25.0,
+  "input_hash": "8152cfae974f",
+  "scored_at": "2026-07-02T09:02:01.888408"
 }

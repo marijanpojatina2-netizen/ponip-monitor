@@ -1,15 +1,13 @@
 {
   "id": "58509",
-  "score_overall": 6.0,
+  "score_overall": 6.7,
   "score_lokacija": 5.5,
-  "score_roi": 7.0,
-  "score_stanje": 5.5,
-  "recommendation": "watch",
-  "reasoning": "Wellness/fitnes 99 m² u potkrovlju terme s 40% popustom i zdravstveni turizam su tematski usklađeni, a hotelski operatori redovito traže ovakve sadržaje pod zakup. Potkrovlje može zahtijevati skuplje infrastrukturne zahvate (klima, ventilacija), a konverzija u drugu namjenu je ograničena.",
-  "flags": [
-    "potkrovlje - potencijalni infrastrukturni troškovi (klima, ventilacija)",
-    "specifična wellness namjena - ograničena konverzija bez kapitalnih zahvata"
-  ],
-  "input_hash": "2f73fd306d65",
-  "scored_at": "2026-05-11T09:39:47.023398"
+  "score_roi": 8.0,
+  "score_stanje": 6.0,
+  "recommendation": "bid",
+  "reasoning": "Poslovni prostor za odmor i fitness u Krapinskim Toplicama, na drugoj dražbi s 40% popusta - izraženo visok ROI potencijal zbog dubokog diskonta i dodatnog bonusa druge dražbe. Namjena prostora (fitness/wellness) uklapa se u turističku ponudu toplica što podržava likvidnost.",
+  "flags": [],
+  "discount_pct": 40.0,
+  "input_hash": "a16ec00db914",
+  "scored_at": "2026-07-02T08:57:47.046092"
 }

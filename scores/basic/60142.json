@@ -1,17 +1,16 @@
 {
   "id": "60142",
-  "score_overall": 3.0,
-  "score_lokacija": 2.0,
-  "score_roi": 4.5,
+  "score_overall": 4.4,
+  "score_lokacija": 3.5,
+  "score_roi": 5.0,
   "score_stanje": 4.5,
   "recommendation": "pass",
-  "reasoning": "Mješoviti paket (kuća, 2 zgrade i stan) u Donjem Miholjcu uz 25% popusta zvuči pristupačno, no sve prednosti cijene poništava lokacija u maloj slavonskoj urbanoj sredini s negativnim migracijskim trendom. Stečajni postupak dodaje procesnu kompleksnost, a exit opcije su realno ograničene na lokalnog kupca.",
+  "reasoning": "Donji Miholjac je manji slavonski grad sa slabijom likvidnošću tržišta, a predmet objedinjuje zemljište s kućama i zasebni stan u etažnom vlasništvu što kompliciran pravni paket. Stečajna prodaja s 25% popusta na prvoj dražbi ne kompenzira složenost i nejasno stanje objekata.",
   "flags": [
-    "stečajni dužnik - moguće skrivene obveze",
-    "Slavonija - depopulacijsko područje",
-    "složeni paket nekretnina - otežana preprodaja",
-    "nepoznato stanje objekata"
+    "provjeriti: složena struktura vlasništva (zemljište s kućama + etažno vlasništvo stana)",
+    "provjeriti: stanje i useljenost"
   ],
-  "input_hash": "aa58e5416290",
-  "scored_at": "2026-05-06T09:37:55.464875"
+  "discount_pct": 25.0,
+  "input_hash": "b781adc905f8",
+  "scored_at": "2026-07-02T08:59:07.714396"
 }

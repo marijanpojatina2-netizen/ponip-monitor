@@ -1,17 +1,16 @@
 {
   "id": "57435",
-  "score_overall": 2.0,
-  "score_lokacija": 1.5,
-  "score_roi": 2.5,
-  "score_stanje": 5.0,
+  "score_overall": 4.5,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.5,
   "recommendation": "pass",
-  "reasoning": "Isključivo poljoprivredno zemljište (voćnjak, oranica, vinograd, šuma, livada) u ruralnom zaleđu Bjelovara bez ikakvog objekta, a k tome samo ½ suvlasničkog udjela u stečaju. Ukupno ~9887m² fragmentiranog agrarnog zemljišta bez infrastrukture nema investicijskog smisla.",
+  "reasoning": "Osam usitnjenih poljoprivrednih čestica u ruralnoj Budanici kod Bjelovara, unatoč 75% popustu na trećoj dražbi, nose nisku apsolutnu vrijednost i slabu likvidnost bez ijedne građevine. Kupnja tek suvlasničkog udjela ½ dodatno komplicira izlaznu strategiju.",
   "flags": [
-    "suvlasnički udio ½ - stečajni dužnik",
-    "samo poljoprivredno zemljište - nema objekta",
-    "depopulacijska ruralna zona",
-    "fragmentirane parcele različitih kultura - kompleksna administracija"
+    "suvlasništvo ½ dijela (kupnja samo udjela)",
+    "usitnjene poljoprivredne parcele bez građevine"
   ],
-  "input_hash": "9b7668aca7ad",
-  "scored_at": "2026-05-11T09:41:37.397669"
+  "discount_pct": 75.0,
+  "input_hash": "05845b4632c9",
+  "scored_at": "2026-07-02T09:07:26.250341"
 }

@@ -1,16 +1,16 @@
 {
   "id": "57447",
-  "score_overall": 2.0,
-  "score_lokacija": 1.5,
-  "score_roi": 3.0,
-  "score_stanje": 3.0,
-  "recommendation": "pass",
-  "reasoning": "Nominalni popust od 75% ne kompenzira kupovinu ½ udjela seoske kuće u depopulacijskom selu Turanovac za kojom nema realne tržišne potražnje. Stečajni kontekst i suvlasništvo čine izlaz iz investicije praktički nemogućim u razumnom roku.",
+  "score_overall": 4.6,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Golemih 75% popusta na trećoj dražbi u ruralnom Turanovcu kod Bjelovara djelomično neutralizira slaba likvidnost i depopulacija regije. Kupuje se samo suvlasnički udio ½ što otežava samostalno raspolaganje nekretninom i zahtijeva plan za konsolidaciju vlasništva.",
   "flags": [
-    "suvlasnički udio ½ - stečajni dužnik",
-    "ruralna depopulacijska zona (okolica Bjelovara)",
-    "minimalna tržišna likvidnost"
+    "suvlasništvo ½ dijela (kupnja samo udjela)",
+    "provjeriti: stanje kuće (nije opisano)"
   ],
-  "input_hash": "28415ac1b66c",
-  "scored_at": "2026-05-11T09:41:37.397587"
+  "discount_pct": 75.0,
+  "input_hash": "3865cd30f096",
+  "scored_at": "2026-07-02T09:07:26.250037"
 }

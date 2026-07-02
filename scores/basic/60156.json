@@ -1,17 +1,15 @@
 {
   "id": "60156",
-  "score_overall": 3.0,
-  "score_lokacija": 2.5,
-  "score_roi": 3.0,
-  "score_stanje": 4.0,
-  "recommendation": "pass",
-  "reasoning": "Vinogradsko imanje s kućom (ukupno ~2.841 m2) u Gornjoj Jelenskoj kraj Kutine spada u depopulacijsku zonu Sisak-Moslavina s minimalnom likvidnošću nekretnina. Vinogradska i voćnjačka komponenta dodaju operativnu složenost i OPG obaveze koje ne odgovaraju pasivnom investitoru.",
+  "score_overall": 4.1,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Ruralna lokacija u Moslavini (G. Jelenska) s ograničenom likvidnošću, a popust od 20% na prvoj dražbi nije osobito atraktivan. Kuća i vinograd bez opisa stanja zahtijevaju terenski pregled prije odluke.",
   "flags": [
-    "vinogradarsko imanje - visoka operativna složenost",
-    "Sisak-Moslavina - izražena depopulacija",
-    "moguće OPG/agro obveze uz poljoprivredno zemljište",
-    "minimalna likvidnost"
+    "provjeriti: stanje kuće (opis ne navodi detalje)"
   ],
-  "input_hash": "00a2ad4a2c97",
-  "scored_at": "2026-05-07T08:31:45.861144"
+  "discount_pct": 20.0,
+  "input_hash": "c2189f75dd2e",
+  "scored_at": "2026-07-02T09:03:29.328295"
 }

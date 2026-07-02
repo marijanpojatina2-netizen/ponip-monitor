@@ -1,17 +1,16 @@
 {
   "id": "57400",
-  "score_overall": 2.0,
+  "score_overall": 4.0,
   "score_lokacija": 2.0,
-  "score_roi": 3.0,
+  "score_roi": 6.5,
   "score_stanje": 2.0,
   "recommendation": "pass",
-  "reasoning": "Samo oranica u Virovitici kao suvlasnički dio 1/2 - najslabiji mogući investicijski slučaj: poljoprivredno zemljište u nelikvidnoj regiji s dijeljenjem vlasništva. Treća dražba potvrđuje nezainteresiranost tržišta.",
+  "reasoning": "Radi se o samo 1/2 suvlasničkog dijela oranice bez ikakvog objekta u slaboj virovitičkoj ruralnoj zoni, unatoč 75% popusta na trećoj dražbi praktična iskoristivost je vrlo ograničena. Suvlasništvo nad golim zemljištem otežava daljnju realizaciju ili prodaju.",
   "flags": [
-    "samo ½ suvlasničkog dijela - pravna kompleksnost",
-    "čisto poljoprivredno zemljište bez građevinske namjene",
-    "treća dražba - nulta potražnja",
-    "Virovitica - slaba likvidnost"
+    "suvlasništvo - prodaje se samo 1/2 dijela oranice",
+    "provjeriti: mogućnost objedinjavanja s preostalim suvlasničkim dijelom"
   ],
-  "input_hash": "dcdad6ac314e",
-  "scored_at": "2026-05-11T09:40:15.798582"
+  "discount_pct": 75.0,
+  "input_hash": "3dbba231532e",
+  "scored_at": "2026-07-02T09:02:01.889331"
 }

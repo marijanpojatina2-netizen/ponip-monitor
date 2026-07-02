@@ -1,16 +1,16 @@
 {
   "id": "60204",
-  "score_overall": 2.5,
-  "score_lokacija": 3.0,
-  "score_roi": 4.5,
+  "score_overall": 4.5,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
   "score_stanje": 1.5,
-  "recommendation": "pass",
-  "reasoning": "75% popust i treća dražba cjenovno izgledaju atraktivno, no parcela klasificirana kao deponija nosi potencijalne ekološke obveze, nepoznate troškove sanacije i zakonska ograničenja korištenja koja višestruko nadmašuju bilo kakvu financijsku dobit. Sisak je k tome niskopotražna zona.",
+  "recommendation": "watch",
+  "reasoning": "Radi se o deponiji od 1 ha u Sisku, treća dražba s ekstremnih 75% popusta čini ulaznu cijenu vrlo niskom, no namjena zemljišta kao odlagališta otpada nosi visok rizik okolišne odgovornosti i sanacije. Potencijalni trošak remedijacije može nadmašiti kupovnu vrijednost pa je nužna temeljita due diligence prije licitacije.",
   "flags": [
-    "deponija - ekološka kontaminacija i sanacijski troškovi",
-    "Novi Sisak - niska tržišna likvidnost",
-    "treća dražba bez interesa - signal strukturalnog problema"
+    "provjeriti: moguća kontaminacija tla (bivša/aktivna deponija)",
+    "provjeriti: obveze sanacije i namjenu zemljišta prema prostornom planu"
   ],
-  "input_hash": "9323d544c95c",
-  "scored_at": "2026-05-05T08:17:08.705368"
+  "discount_pct": 75.0,
+  "input_hash": "df5dbf0351f0",
+  "scored_at": "2026-07-02T09:08:18.720021"
 }

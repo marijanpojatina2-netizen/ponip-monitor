@@ -1,16 +1,15 @@
 {
   "id": "60065",
-  "score_overall": 2.5,
+  "score_overall": 3.7,
   "score_lokacija": 2.5,
-  "score_roi": 3.0,
-  "score_stanje": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
   "recommendation": "pass",
-  "reasoning": "Ruralna Slavonija oko Slatine spada u depopulacijska područja s minimalnom investicijskom potražnjom, a procjena kuće od svega 3.660 EUR upućuje na izrazito zapušteno stanje objekta. Samo 20% popust na prvoj dražbi bez bonusa čini ROI potpuno nezadovoljavajućim.",
+  "reasoning": "Ruralna lokacija u k.o. Bistrica kraj Slatine, depopulacijsko područje Slavonije s ograničenom likvidnošću tržišta. Prva dražba s tek 20% popustom i opis ne navodi stanje kuće, pa je case slab bez dodatnih pogodnosti.",
   "flags": [
-    "depopulacijska zona - Slatina/Slavonija",
-    "ekstremno niska procjena ukazuje na loše stanje objekta",
-    "prva dražba - bez popustnog bonusa"
+    "provjeriti: stanje i useljivost kuće (opis ne navodi stanje objekta)"
   ],
-  "input_hash": "eb76eae6983e",
-  "scored_at": "2026-05-05T08:17:08.705266"
+  "discount_pct": 20.0,
+  "input_hash": "9f12aa36e47f",
+  "scored_at": "2026-07-02T09:08:18.719563"
 }

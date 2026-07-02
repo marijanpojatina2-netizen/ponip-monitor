@@ -1,17 +1,16 @@
 {
   "id": "60138",
-  "score_overall": 5.0,
-  "score_lokacija": 7.0,
-  "score_roi": 4.0,
-  "score_stanje": 4.5,
-  "recommendation": "watch",
-  "reasoning": "Dubrovačka regija (Močići) nudi atraktivnu lokacijsku premiju, ali suvlasnički udio bez određenog omjera u heterogenom zemljištu (građevinsko/šuma/agro) ozbiljno ograničava autonomnost razvoja; prva dražba s tek 20% popustom ne kompenzira kompleksnost suvlasničkog odnosa.",
+  "score_overall": 6.0,
+  "score_lokacija": 8.5,
+  "score_roi": 5.5,
+  "score_stanje": 3.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Veliko zemljište u blizini Dubrovnika (Močići) nalazi se na iznimno atraktivnoj lokaciji s velikim dugoročnim potencijalom, no riječ je o prodaji dva suvlasnička (idealna) dijela čestice mješovite namjene (dio građevinsko, dio šuma, dio poljoprivredno). Popust od 20% na prvoj dražbi ne odražava kompleksnost predmeta pa zaslužuje detaljnu pravnu i urbanističku provjeru prije odluke.",
   "flags": [
-    "suvlasnički udio (4047/23344) – razvoj ovisan o suglasnosti suvlasnika",
-    "mješovita namjena čestice (građevinsko + šuma + poljoprivredno)",
-    "prva dražba – minimalni popust od procjene (20%)",
-    "nejasna izlazna strategija bez razrješenja suvlasništva"
+    "provjeriti: suvlasnički (idealni) dio zemljišta - prodaju se samo dva suvlasnička udjela, ne cijela čestica",
+    "provjeriti: mješovita namjena čestice (gospodarska/šumsko/poljoprivredno tlo)"
   ],
-  "input_hash": "86bb734321db",
-  "scored_at": "2026-05-11T09:37:23.744412"
+  "discount_pct": 20.0,
+  "input_hash": "fbce5c90def6",
+  "scored_at": "2026-07-02T08:54:24.779535"
 }

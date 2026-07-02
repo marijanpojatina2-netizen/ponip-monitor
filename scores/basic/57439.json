@@ -1,17 +1,16 @@
 {
   "id": "57439",
-  "score_overall": 3.5,
-  "score_lokacija": 2.5,
-  "score_roi": 4.5,
-  "score_stanje": 3.5,
-  "recommendation": "pass",
-  "reasoning": "Dugo Selo Lukačko (Bjelovar okolica) - ruralno područje, 3/6 suvlasničkog dijela kompleksnog posjeda s 6 čestica. Treća dražba i 75% popust odražavaju stvarnu tržišnu vrijednost u depopulacijskoj zoni.",
+  "score_overall": 6.8,
+  "score_lokacija": 5.5,
+  "score_roi": 9.0,
+  "score_stanje": 4.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Treća dražba s 75% popustom nudi izniman nominalni ROI, a Dugo Selo Lukačko je u zagrebačkom prigradskom pojasu što podiže likvidnost. Ključni upitnik je suvlasnički dio stečajnog dužnika (3/6) te nepoznato stanje objekata, pa je nužna dubinska provjera prije licitacije.",
   "flags": [
-    "3/6 suvlasničkog dijela - pravna kompleksnost",
-    "treća dražba stečajnog dužnika",
-    "ruralno depopulacijsko područje",
-    "6 čestica - administrativna kompleksnost"
+    "provjeriti: suvlasnički dio 3/6 - odnos s ostalim suvlasnicima i mogućnost diobe",
+    "provjeriti: stanje kuće i gospodarskih objekata (stečajna masa)"
   ],
-  "input_hash": "9cae6b56cc24",
-  "scored_at": "2026-05-11T09:40:15.798928"
+  "discount_pct": 75.0,
+  "input_hash": "706ddc738f14",
+  "scored_at": "2026-07-02T09:04:50.996430"
 }

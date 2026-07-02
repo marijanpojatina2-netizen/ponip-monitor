@@ -1,16 +1,15 @@
 {
   "id": "58531",
-  "score_overall": 3.5,
-  "score_lokacija": 4.0,
-  "score_roi": 4.5,
-  "score_stanje": 3.0,
-  "recommendation": "pass",
-  "reasoning": "Mješovito zemljište 7096 m2 (oranica + dvorište + pašnjak) u Zagorju s 1/2 suvlasništvom na drugoj dražbi - dvorište sugerira potencijal ali ko-vlasništvo i čisto zemljišni karakter bez objekata ograničavaju iskoristivost.",
+  "score_overall": 4.9,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Poljoprivredno zemljište (oranica, dvorište, pašnjak) u k.o. Strmec kraj Zaboka, druga dražba s 40% popusta daje dobar nominalni ROI, ali ruralna lokacija i tip nekretnine (zemljište bez građevine) ograničavaju likvidnost i brzinu unovčenja. Suvlasnički udio 1/2 dodatno komplicira upravljanje.",
   "flags": [
-    "suvlasništvo 1/2 - blokira samostalnu raspolagbu",
-    "samo zemljište bez objekata",
-    "mješovita katastarska namjena (oranica/pašnjak/dvorište)"
+    "provjeriti: uvjeti i mogućnost otkupa suvlasničkog udjela"
   ],
-  "input_hash": "820a5ac4343c",
-  "scored_at": "2026-05-05T08:10:25.922729"
+  "discount_pct": 40.0,
+  "input_hash": "28b23d48676f",
+  "scored_at": "2026-07-02T08:57:47.046257"
 }

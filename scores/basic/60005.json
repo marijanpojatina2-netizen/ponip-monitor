@@ -1,16 +1,13 @@
 {
   "id": "60005",
-  "score_overall": 3.0,
-  "score_lokacija": 2.5,
-  "score_roi": 3.0,
-  "score_stanje": 3.5,
+  "score_overall": 3.5,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
   "recommendation": "pass",
-  "reasoning": "Oranica u k.o. Čađavica kraj Slatine - ruralna Slavonija s izraženim depopulacijskim trendom i iznimno niskom potražnjom za nekretninama; samo 20% popust na prvoj dražbi za čisto poljoprivredno zemljište u ovoj regiji ne opravdava ulazak.",
-  "flags": [
-    "ruralna Slavonija - depopulacijska zona",
-    "20% popust na prvoj dražbi - cijena će vjerojatno pasti",
-    "isključivo oranica bez gradnje ili infrastrukture"
-  ],
-  "input_hash": "c315258d58ac",
-  "scored_at": "2026-05-05T08:14:54.821686"
+  "reasoning": "Oranica u Čađavici (Virovitičko-podravska županija) na prvoj dražbi s tek 20% popusta ne nudi atraktivan ROI u depopulacijskom području. Zemljište je poljoprivredno bez dodatne razvojne vrijednosti.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "c2c1be59f8b8",
+  "scored_at": "2026-07-02T09:04:50.997076"
 }

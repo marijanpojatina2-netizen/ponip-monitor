@@ -1,17 +1,16 @@
 {
   "id": "57422",
-  "score_overall": 3.5,
+  "score_overall": 5.4,
   "score_lokacija": 2.5,
-  "score_roi": 4.5,
-  "score_stanje": 3.0,
-  "recommendation": "pass",
-  "reasoning": "Budanica - identična lokacijska problematika kao ID 57426, ovdje pak 2/4 suvlasnički dio mješovitog posjeda (šuma+oranica+voćnjak+kuća). 75% popust privlačan ali bez izlazne strategije u ruralnoj Bilogori.",
+  "score_roi": 8.5,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Slično susjednoj nekretnini u Budanici, popust od 75% na trećoj dražbi upućuje na slabu potražnju i moguće loše stanje kuće te više parcela raznih namjena. Prodaje se suvlasnički dio 2/4 (½) što unosi pravnu i likvidnosnu neizvjesnost.",
   "flags": [
-    "2/4 suvlasničkog dijela - pravna kompleksnost",
-    "treća dražba stečajnog dužnika",
-    "ruralno depopulacijsko područje",
-    "mješoviti posjed - teže upravljanje"
+    "suvlasnički dio 2/4 (½) - rizik prava prvokupa/nužne suglasnosti ostalih suvlasnika",
+    "provjeriti: stvarno stanje kuće (treća dražba, dva prethodna neuspjeha)"
   ],
-  "input_hash": "b8f05e457b27",
-  "scored_at": "2026-05-11T09:40:15.798849"
+  "discount_pct": 75.0,
+  "input_hash": "54470f0e0b10",
+  "scored_at": "2026-07-02T09:03:29.330754"
 }

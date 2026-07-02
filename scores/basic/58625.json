@@ -1,16 +1,16 @@
 {
   "id": "58625",
-  "score_overall": 3.0,
-  "score_lokacija": 2.0,
-  "score_roi": 4.5,
-  "score_stanje": 3.5,
-  "recommendation": "pass",
-  "reasoning": "Veliki Zdenci u općini Grubišno Polje spada među najtežja tržišta nekretnina u Hrvatskoj s izrazitom depopulacijom i gotovo nultom likvidnošću, pa ni 40% popust na drugoj dražbi ne gradi investicijski slučaj. Suvlasništvo 1/2 dodatno blokira svaku buduću transakciju ili razvoj bez suglasnosti druge strane.",
+  "score_overall": 4.6,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Veliki Zdenci kod Grubišnog Polja spadaju u slabije razvijeno, depopulacijsko područje Bjelovarsko-bilogorske županije, no 40% popusta na drugoj dražbi za kuću s dvorištem i voćnjakom donosi solidan ROI potencijal ako je kuća funkcionalna. Radi se o diobnoj prodaji između predlagateljice i protustranke (po 1/2 dijela) što nosi specifičan pravni kontekst suvlasničke diobe.",
   "flags": [
-    "suvlasništvo 1/2 - raspolaganje nemoguće bez suglasnosti drugog suvlasnika",
-    "depopulacijska zona Bjelovar-Bilogora - gotovo nulta tržišna likvidnost",
-    "Grubišno Polje - jedan od najtežih tržišta nekretnina u RH"
+    "provjeriti: pravni status suvlasnika u diobnoj prodaji (predlagateljica/protustranka)",
+    "provjeriti: stanje kuće i useljenost"
   ],
-  "input_hash": "7dee2729d0a7",
-  "scored_at": "2026-05-11T09:39:47.023663"
+  "discount_pct": 40.0,
+  "input_hash": "eb9c6a85065c",
+  "scored_at": "2026-07-02T08:59:07.715963"
 }

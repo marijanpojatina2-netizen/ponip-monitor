@@ -1,16 +1,16 @@
 {
   "id": "58525",
-  "score_overall": 4.5,
-  "score_lokacija": 3.5,
-  "score_roi": 6.0,
+  "score_overall": 5.3,
+  "score_lokacija": 4.0,
+  "score_roi": 6.5,
   "score_stanje": 5.0,
   "recommendation": "watch",
-  "reasoning": "Kuća 309 m2 u Vižovlju (Zagorje) s 40% popustom na drugoj dražbi daje solidne ROI parametre, ali lokacija nema turističku potražnju ni likvidnost što znatno ograničava exit strategije. Suvlasništvo dvaju ovršenika u jednakim dijelovima povećava pravnu i praktičnu kompleksnost transakcije.",
+  "reasoning": "Kuća od 309 m2 u Strmecu (Zabok) procijenjena na gotovo 1.83 mil EUR djeluje neproporcionalno visoko za tip i lokaciju nekretnine, što zahtijeva provjeru. Prodaje se suvlasnički dio (1/2), a 40% popust na drugoj dražbi sam po sebi ne kompenzira ove nepoznanice.",
   "flags": [
-    "suvlasništvo prvoovršenik + drugoovršenik (1/2 svaki)",
-    "niska likvidnost Zagorje tržišta",
-    "bez turističke potražnje"
+    "provjeriti: neuobičajeno visoka procijenjena vrijednost u odnosu na tip i lokaciju nekretnine",
+    "provjeriti: prodaje se suvlasnički dio (1/2), utjecaj na likvidnost i mogućnost stjecanja cjeline"
   ],
-  "input_hash": "44eae0168c0e",
-  "scored_at": "2026-05-05T08:08:20.080435"
+  "discount_pct": 40.0,
+  "input_hash": "04b66b161534",
+  "scored_at": "2026-07-02T08:52:54.213533"
 }

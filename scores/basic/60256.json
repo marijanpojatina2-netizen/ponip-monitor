@@ -1,16 +1,15 @@
 {
   "id": "60256",
-  "score_overall": 3.5,
-  "score_lokacija": 3.0,
-  "score_roi": 3.5,
-  "score_stanje": 4.0,
-  "recommendation": "pass",
-  "reasoning": "Oranica u Slavonskom Brodu bez izgrađenog objekta i s minimalnom turističkom ili razvojnom perspektivom; 20% popust na prvoj dražbi ne kompenzira slabu likvidnost regije i suvlasnički udio.",
+  "score_overall": 4.8,
+  "score_lokacija": 4.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Identična čestica kao ID 60252 (isti zk.ul. 20918, kč.br. 6126/1), ovdje se prodaje drugi 1/2 suvlasnički dio (I ovršenik). Ako investitor kupi obje polovice na paralelnim dražbama moguće je konsolidirati puno vlasništvo, što bitno mijenja investicijski case.",
   "flags": [
-    "suvlasnički udio 1/2",
-    "oranica bez objekta",
-    "slaba likvidnost Slavonije"
+    "provjeriti: suvlasništvo - prodaje se samo 1/2 dio čestice; razmotriti kupnju uparenu s ID 60252 radi konsolidacije"
   ],
-  "input_hash": "dd455c58c850",
-  "scored_at": "2026-05-08T07:30:03.796628"
+  "discount_pct": 20.0,
+  "input_hash": "69c68bf99ccd",
+  "scored_at": "2026-07-02T09:06:09.208308"
 }

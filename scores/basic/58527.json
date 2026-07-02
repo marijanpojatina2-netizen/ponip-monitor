@@ -1,16 +1,13 @@
 {
   "id": "58527",
-  "score_overall": 4.0,
+  "score_overall": 5.2,
   "score_lokacija": 4.0,
-  "score_roi": 5.0,
-  "score_stanje": 3.5,
-  "recommendation": "pass",
-  "reasoning": "Identičan slučaj kao ID 58517 iz iste k.o. Strmec - manji plot (1302 m2), isti suvlasnički problem i iste limitacije lokacije; nema diferencirajućeg faktora koji bi opravdao drugačiju odluku.",
-  "flags": [
-    "suvlasništvo 1/2 - kupuje se samo udio",
-    "pašnjak - niska likvidnost",
-    "ista k.o. kao ID 58517 i 58533 - mogući kumulativni vlasničkim problem"
-  ],
-  "input_hash": "a5aaa538717d",
-  "scored_at": "2026-05-05T08:14:54.821567"
+  "score_roi": 7.0,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Manja parcela pašnjaka (1302 m2) u Zagorju s 40% popustom i drugom dražbom daje solidan ROI potencijal, ali bez objekta i s ograničenom namjenom vrijednost ostaje niska. Oba suvlasnika su ovršenici pa se prodaje cijela nekretnina, što smanjuje pravni rizik.",
+  "flags": [],
+  "discount_pct": 40.0,
+  "input_hash": "fa08e8816e94",
+  "scored_at": "2026-07-02T09:04:50.996746"
 }

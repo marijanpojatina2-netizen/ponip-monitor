@@ -1,16 +1,15 @@
 {
   "id": "57046",
-  "score_overall": 3.5,
-  "score_lokacija": 3.0,
-  "score_roi": 5.0,
-  "score_stanje": 3.0,
-  "recommendation": "pass",
-  "reasoning": "Čak i uz izvanredan popust od 75% na trećoj dražbi, šuma od 68.716 m2 u unutrašnjosti Dalmacije (Benkovac) ima strogo ograničene mogućnosti monetizacije zbog šumarskog zakonodavstva i gotovo nikakve potražnje za kupnjom ili razvojem u toj regiji.",
+  "score_overall": 4.5,
+  "score_lokacija": 2.5,
+  "score_roi": 7.0,
+  "score_stanje": 2.5,
+  "recommendation": "watch",
+  "reasoning": "Šumsko zemljište kraj Benkovca nalazi se u slabije razvijenom, depopulacijskom području zadarskog zaleđa, ali s izuzetno visokim popustom od 75% na trećoj dražbi i vrlo niskom apsolutnom cijenom. Zanimljivo je kao jeftina špekulativna pozicija, no ograničena likvidnost i namjena zemljišta drže ovo tek na promatranju.",
   "flags": [
-    "namjena isključivo šuma – bez mogućnosti gradnje bez promjene namjene",
-    "ruralna lokacija (Benkovac, unutrašnjost Dalmacije)",
-    "izuzetno niska tržišna likvidnost za ovu vrstu imovine"
+    "provjeriti: pristupačnost, namjena i mogućnost gospodarskog korištenja šumskog zemljišta"
   ],
-  "input_hash": "c9f62e748298",
-  "scored_at": "2026-05-11T09:37:23.744815"
+  "discount_pct": 75.0,
+  "input_hash": "497199ed5902",
+  "scored_at": "2026-07-02T08:54:24.780295"
 }

@@ -1,70 +1,38 @@
 {
   "id": "59854",
   "score_overall": 6.0,
-  "score_lokacija": 6.5,
-  "score_roi": 6.0,
-  "score_stanje": 3.5,
+  "score_lokacija": 7.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
   "recommendation": "deep_dive",
-  "reasoning": "Radi se o izuzetno rijetkoj ponudi — parcela ~26.000 m2 unutar granica Grada Zagreba na adresi Radnička cesta, što je iznimno teško naći na otvorenom tržištu. Ključno nepoznato je GUP namjena: u ZK je uknjižena kao 'pašnjak', ali sudski procjenitelj je vrijednovao parcelu na ~270 EUR/m2, što jasno ukazuje da je u obzir uzeo razvojni potencijal — čista poljoprivreda nikada ne bi dobila tu cifru u Zagrebu. Popust od 25% na prvoj dražbi je solidan, no visoka ulazna cijena (5,27M EUR + 703K jamčevina) i neodržano razgledavanje zahtijevaju temeljitu pravno-urbanističku provjeru prije bilo kakve odluke o licitiranju. Bez potvrde o gradivosti parcele, investicija je špekulativna, ali potencijal je izniman.",
+  "reasoning": "Riječ je o velikom zemljištu (2,6 ha) na Radničkoj cesti u Zagrebu, upisanom kao pašnjak s tek simboličnim objektom od 57 m2 - lokacija je perspektivan poslovni koridor, ali sama zemljišnoknjižna oznaka 'pašnjak' upućuje da parcela vjerojatno leži na rubnom/nerazvijenom dijelu ceste, a ne u uređenoj poslovnoj zoni. Popust od 25% na prvoj dražbi je tek umjeren, dok stvarni ROI presudno ovisi o mogućnosti prenamjene u građevinsko zemljište prema važećem GUP-u. Visok kapitalni prag (jamčevina 703.590 EUR, ukupna vrijednost preko 7M EUR) i izostanak podataka o pristupu/razgledavanju čine ovo isključivo prilikom za institucionalnog investitora/developera spremnog na ozbiljnu urbanističku i pravnu due diligence. Zbog vrijednosti i kompleksnosti nužna je detaljna analiza prije bilo kakve odluke o licitaciji.",
   "flags": [
-    "Pašnjak u ZK — zemljišnoknjižna kategorija nije građevinsko; GUP namjena MORA biti provjerena u Gradu Zagrebu (ZPUO odjel) PRIJE licitacije",
-    "Bez razgledavanja — nadležno tijelo nije organiziralo obilazak; nepoznato fizičko stanje, komunalna opremljenost, komunalni doprinosi",
-    "Mala zgrada 57 m2 na 26.002 m2 — nerazmjer sugerira izgrađenost parcele je minimalna; zgrada vjerojatno bez komercijalne vrijednosti",
-    "Prva dražba — nema bonus popusta koji dolazi s 3. ili 4. dražbom; konkurencija institucionalnih investitora visoka",
-    "Visok prag ulaska — jamčevina 703.590 EUR blokira likvidnost i selektira samo investitore s dubokim džepovima",
-    "Potencijalna industrijska kontaminacija tla — Radnička cesta zona historijski ima udio lakih industrijskih sadržaja; preporuča se studija tla",
-    "Komunalni doprinosi i priključci — za parcelu ove veličine razvoj donosi potencijalno višemilijunske naknade"
+    "provjeriti: stvarni urbanistički status zemljišta (pašnjak u zk. vs. namjena po važećem GUP-u i mogućnost prenamjene u građevinsko)",
+    "provjeriti: pristup parceli i komunalna infrastruktura (cesta, struja, voda, kanalizacija) za površinu od 26.002 m2",
+    "provjeriti: mogućnost i uvjete razgledavanja - nadležno tijelo nije dostavilo podatke, stanje na terenu nepoznato",
+    "provjeriti: postoje li dodatni tereti, hipoteke ili sporovi vezani uz ovršenika s obzirom da postupak vodi Trgovački sud",
+    "provjeriti: namjena i stanje postojeće zgrade od 57 m2 (funkcionalnost, dozvole)"
   ],
   "market_estimate": {
     "eur_min": 4200000,
-    "eur_max": 11700000,
+    "eur_max": 7500000,
     "confidence": "low",
-    "basis": "Procjena bez potvrde GUP namjene. Donji raspon: ako je isključivo agro/zaštitna zona (~160 EUR/m2, blizu startne cijene = loš deal). Gornji raspon: ako GUP dopušta stambeni/poslovni razvoj u Trešnjevka/Zapadni Zagreb zoni (300–450 EUR/m2 za gradivo zemljište × 26.000 m2). Sudska procjena od ~270 EUR/m2 sugerira appraiser nije vrednovao čistu pašnjaku — indicija razvojnog potencijala. Bez uvida u GUP, ZOP i komunalnu situaciju confidence ostaje low."
+    "basis": "Procjena bez uživo dohvaćenih poredbenih oglasa (web pretraga nije bila dostupna u ovoj sesiji); temelji se na okvirnom poznavanju cijena zemljišta uz poslovni koridor Radničke ceste u Zagrebu (za usporedbu, uređeno građevinsko zemljište uz koridor može doseći 300-600+ EUR/m2, dok zemljište vođeno kao pašnjak bez potvrđene prenamjene tipično vrijedi znatno manje, 100-250 EUR/m2). Sudska procjena od 270 EUR/m2 (7.035.900 EUR / 26.059 m2) implicira pretpostavku razvojnog potencijala koju treba neovisno provjeriti kroz važeći GUP i uvjete gradnje."
   },
-  "comparables": [
-    {
-      "opis": "Građevinsko zemljište Trešnjevka-zapad, Zagreb — industrijska zona u transformaciji, sličan koridorski položaj",
-      "cijena": 3200000,
-      "m2": 12000,
-      "izvor": "Tržišno znanje 2024–2025 (analogna transakcija, nije javno oglašena)",
-      "url": "N/A — privatna transakcija"
-    },
-    {
-      "opis": "Razvoj na Savskoj cesti Zagreb — mješovita namjena, usporedivi gradski koridor, ~250–350 EUR/m2 za veće parcele",
-      "cijena": 8750000,
-      "m2": 25000,
-      "izvor": "Procjenbena baza podataka, analogna zona",
-      "url": "N/A"
-    },
-    {
-      "opis": "Industrijski park / logistika rubni Zagreb (Jankomir, Žitnjak) — ~100–180 EUR/m2 bez gradivosti",
-      "cijena": 2600000,
-      "m2": 26000,
-      "izvor": "Tržišno znanje 2024",
-      "url": "N/A"
-    },
-    {
-      "opis": "Stambeni development Heinzelova / Radnička zona — ~350–500 EUR/m2 za potvrđeno gradivo, uz infrastrukturu",
-      "cijena": 9100000,
-      "m2": 26000,
-      "izvor": "Procjenbena analogija, gornji scenarij",
-      "url": "N/A"
-    }
-  ],
-  "investment_strategy": "RAZVOJ (land development) — jedina strategija koja opravdava ulaznu cijenu. Scenarij 1 (optimalni): GUP dopušta stambeni/poslovni razvoj → ishodovanje dozvola, parcijacija, prodaja developeru ili vlastiti projekt visoke gustoće izgradnje; ROI 2-4× u 5-7 god. Scenarij 2: GUP dopušta samo manji razvoj → prigradska stambena izgradnja nižeg kapitalnog intenziteta, duži horizont. Scenarij 3 (pesimalni): zona isključivo zelena/zaštitna → pasivno zemljišno bankarenje uz potencijalno skupi i dugotrajni postupak prenamjene. Iznajmljivanje postojeće zgrade (57 m2) nema smisla na ovoj razini ulaganja.",
-  "entry_price_eur": 4500000,
+  "comparables": [],
+  "investment_strategy": "Land banking / razvoj - kupnja velike zemljišne čestice na perspektivnom poslovnom koridoru radi buduće prenamjene i izgradnje poslovno-skladišnog ili logističkog kompleksa, uz dugoročni horizont (5+ godina) i partnerstvo s developerom; nije prikladno za brzi flip s obzirom na veličinu i nejasan urbanistički status.",
+  "entry_price_eur": 4800000,
   "detailed_risks": [
-    "GUP namjena nepoznata — ako je isključivo P2 (parkovna/zelena) ili K (zaštitna), parcela je gotovo neisplativa po startnoj cijeni",
-    "Rezoniranje (prenamjena) u ZG traje 3-7 godina, skupo je i politički nepredvidivo",
-    "Komunalni doprinos za 26.000 m2 gradiva površine može biti 1,5–3M EUR ovisno o namjeni",
-    "Energetska/komunalna infrastruktura možda nije prisutna na parceli — troškovi priključenja višeslojeviti",
-    "Tržišna likvidnost za parcele >5M EUR u RH izuzetno niska — ograničen broj kupaca",
-    "Ekološki rizici (tlo, podzemne vode) — blizina industrijskih zona Trešnjevke i Zapadnog Zagreba",
-    "Sudska dražba: evikcionalni rizici i potencijalni teret na nekretnini koji ne prestaje prodajom",
-    "Bez razgledavanja — zakonsko stanje i fizički pristup parceli nepotvrđeni"
+    "Zemljište upisano kao pašnjak - stvarna mogućnost i uvjeti gradnje nisu potvrđeni opisom",
+    "Nepoznata komunalna infrastruktura i pristup za parcelu od 2,6 ha",
+    "Nema podataka o mogućnosti razgledavanja niti fotografija - stanje na terenu potpuno neprovjereno",
+    "Visok iznos jamčevine ograničava krug ozbiljnih ponuđača i može smanjiti likvidnost dražbe",
+    "Postupak vodi Trgovački sud što upućuje na ovrhu nad trgovačkim društvom - moguća dodatna složenost oko potraživanja trećih",
+    "Samo prva dražba (25% popusta) - nema potvrde da je cijena već dovoljno snižena za ovakav rizičan profil imovine"
   ],
-  "upside_scenario": "GUP potvrdi stambenu ili mješovitu namjenu (M1/M2 ili K1 poslovna) → parcela vrijedi 350–450 EUR/m2 za developera = 9,1–11,7M EUR. Kupovina na dražbi za 5,3M EUR s dokapitalizacijom za projekt daje potencijalni kapitalski dobitak od 3,5–6M EUR prije troškova razvoja. U scenariju vlastite izgradnje stanova u ovoj lokaciji (Zagreb, blizina centra), projicirane prodajne vrijednosti stanova 2.500–3.500 EUR/m2 × razumna BRP → projekt može opravdati i viši ulaz.",
-  "downside_scenario": "GUP isključuje gradnju (zelena površina, vodozaštitna zona, parkovna namjena) → realna tržišna vrijednost pada na 50–120 EUR/m2 (agro/zaštitna kategorija) = 1,3–3,1M EUR za cijelu parcelu. Kupac je 'zarobio' 5,3M+ EUR u aktivu koja ne generira prihod, nije likvidna i čiji je put do prenamjene višegodišnji i nesiguran. Cashflow negativan, tržišni izlaz gotovo nemoguć bez značajnog gubitka.",
-  "input_hash": "02b11dd81f90",
-  "scored_at": "2026-04-21T11:14:52.935451"
+  "upside_scenario": "Ukoliko se u naredne 2-3 godine potvrdi mogućnost prenamjene zemljišta u građevinsko (poslovna/skladišno-logistička namjena) u skladu s razvojem Radničke ceste kao poslovnog koridora Zagreba, vrijednost parcele mogla bi narasti na 350-500+ EUR/m2 (9-13M EUR ukupno), uz mogućnost partnerstva s developerom za izgradnju poslovnog ili logističkog kompleksa.",
+  "downside_scenario": "Ako zemljište ostane u nerazvijenoj/pašnjačkoj kategoriji bez realne mogućnosti prenamjene, ili se u due diligence otkriju problemi s pristupom, infrastrukturom ili teretima, kapital od preko 5M EUR ostaje 'zarobljen' u vrlo nelikvidnoj imovini bez izgledne mogućnosti brze preprodaje po ulaznoj cijeni.",
+  "discount_pct": 25.0,
+  "input_hash": "0b8183f0a499",
+  "scored_at": "2026-07-02T09:12:17.598418"
 }

@@ -1,16 +1,15 @@
 {
   "id": "58497",
-  "score_overall": 4.5,
+  "score_overall": 5.6,
   "score_lokacija": 4.5,
-  "score_roi": 5.0,
-  "score_stanje": 4.0,
-  "recommendation": "pass",
-  "reasoning": "Podrum (PP-7) kao lokacija ugostiteljskog objekta u Krapinskim Toplicama je strukturalna slabost koja drastično sužava krug potencijalnih zakupnika i kupaca; 40% popust ne kompenzira kombinirani rizik podrumske pozicije, specifične namjene i ograničene likvidnosti Zagorja.",
+  "score_roi": 7.0,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Poslovni prostor caffe bara u podrumu u Krapinskim Toplicama ima umjerenu lokacijsku vrijednost uz dobar popust od 40% na drugoj dražbi. Podrumska pozicija i nepoznat status trenutnog korištenja/zakupa impliciraju dodatnu provjeru prije ulaska u licitaciju.",
   "flags": [
-    "podrum lokacija (PP-7) – ograničava ugostiteljsku privlačnost i protok gostiju",
-    "specifična namjena (caffe bar) – uski krug zainteresiranih kupaca",
-    "ograničena tržišna likvidnost (Krapinske Toplice, manji grad)"
+    "provjeriti: je li poslovni prostor (caffe bar) trenutno u zakupu"
   ],
-  "input_hash": "193281b7f5e3",
-  "scored_at": "2026-05-11T09:37:23.744899"
+  "discount_pct": 40.0,
+  "input_hash": "3c3f999282b4",
+  "scored_at": "2026-07-02T08:54:24.780433"
 }

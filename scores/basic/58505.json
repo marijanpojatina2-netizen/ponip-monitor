@@ -1,15 +1,13 @@
 {
   "id": "58505",
-  "score_overall": 5.5,
-  "score_lokacija": 4.5,
-  "score_roi": 6.5,
-  "score_stanje": 5.5,
-  "recommendation": "watch",
-  "reasoning": "Krapinske Toplice ima termalni turizam koji daje neku likvidnost, 40% popusta i druga dražba solidna su kombinacija za mali poslovni prostor. Ipak, 20.85m² u manjem gradu ograničava exit strategije i najamni prihod.",
-  "flags": [
-    "manji poslovni prostor (20.85m²) - uski krug kupaca",
-    "manje turistički atraktivna regija - ograničena likvidnost"
-  ],
-  "input_hash": "1809379f2be5",
-  "scored_at": "2026-05-11T09:41:37.397020"
+  "score_overall": 6.3,
+  "score_lokacija": 5.0,
+  "score_roi": 7.5,
+  "score_stanje": 6.0,
+  "recommendation": "bid",
+  "reasoning": "Mali poslovni prostor (trgovina/salon) u Krapinskim Toplicama s 40% popustom na drugoj dražbi ima realan potencijal za najam s obzirom na lokalni spa turizam. Etažno vlasništvo od 240/10000 je standardan zapis za takav tip nekretnine i ne predstavlja poseban rizik.",
+  "flags": [],
+  "discount_pct": 40.0,
+  "input_hash": "4d506b09fd4d",
+  "scored_at": "2026-07-02T09:04:50.996899"
 }

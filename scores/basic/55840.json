@@ -1,14 +1,15 @@
 {
   "id": "55840",
-  "score_overall": 4.5,
-  "score_lokacija": 4.0,
-  "score_roi": 6.0,
-  "score_stanje": 4.5,
+  "score_overall": 5.2,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
   "recommendation": "watch",
-  "reasoning": "Najniža ulazna cijena u skupini – svega 20.636 EUR za kuću i dvorište 1.304 m2 u vlasništvu 1/1 s 40% popustom u drugom krugu; za tu cijenu čak i skromna iznajmljivačka strategija ili jednostavna preprodaja mogu biti isplative. Hlebine su malo culturno seoce (naivna umjetnost) blizu Koprivnice, bez turističke mase ali s tim cijenama rizik je nizak.",
+  "reasoning": "Hlebine su ruralno područje Podravine s ograničenom potražnjom unatoč turističkoj prepoznatljivosti sela naivne umjetnosti. Popust od 40% na drugoj dražbi je solidan, ali stanje kuće nije opisano.",
   "flags": [
-    "Nema detalja o stanju objekta – obavezna terenska inspekcija prije ponude"
+    "provjeriti: stanje kuće"
   ],
-  "input_hash": "5032c3af0d83",
-  "scored_at": "2026-05-05T08:12:54.344765"
+  "discount_pct": 40.0,
+  "input_hash": "c1fd2b5bc6e8",
+  "scored_at": "2026-07-02T09:03:29.329202"
 }

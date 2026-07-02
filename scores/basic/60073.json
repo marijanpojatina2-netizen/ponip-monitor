@@ -5,12 +5,11 @@
   "score_roi": 5.5,
   "score_stanje": 3.0,
   "recommendation": "watch",
-  "reasoning": "Istra blizu Pule u vikendaškom naselju nosi realnu lokacijsku vrijednost, no pristup je faktički blokiran metalnim portunom na susjednoj čestici što je kritičan pravni i fizički rizik; vrijedi dublje istražiti prisilni prolaz i mogućnost gradnje.",
+  "reasoning": "Lokacija u blizini Šegotića na istarskoj obali je atraktivna, no radi se o neizgrađenom pašnjaku uz svega 20% popusta na prvoj dražbi. Opisan je fizički blokiran pristup metalnim portunom što je konkretan i ozbiljan rizik prije ulaganja.",
   "flags": [
-    "pristup blokiran metalnim portunom na k.č. 1834/20",
-    "pašnjak - ograničena namjena",
-    "potrebna provjera prava prolaza i mogućnosti gradnje"
+    "pristup blokiran metalnim portunom (portun na susjednoj čestici)"
   ],
-  "input_hash": "8842dc62d50e",
-  "scored_at": "2026-05-08T07:30:03.797192"
+  "discount_pct": 20.0,
+  "input_hash": "31bb2fb8d674",
+  "scored_at": "2026-07-02T09:07:26.249255"
 }

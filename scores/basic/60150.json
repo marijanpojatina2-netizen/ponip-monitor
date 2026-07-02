@@ -1,15 +1,15 @@
 {
   "id": "60150",
-  "score_overall": 4.0,
-  "score_lokacija": 4.0,
-  "score_roi": 4.0,
+  "score_overall": 4.8,
+  "score_lokacija": 4.5,
+  "score_roi": 5.0,
   "score_stanje": 5.0,
-  "recommendation": "pass",
-  "reasoning": "Kuća 78 m2 na 200 m2 dvorišta u selu Josipovac kraj Osijeka nudi skromnu likvidnost zbog blizine regionalnog centra, no slavonsko tržište bilježi jedne od najnižih stopa aprecijacije u RH. Popust 20% na prvoj dražbi ne kompenzira niske prinose i izostanak turističke komponente.",
+  "recommendation": "watch",
+  "reasoning": "Josipovac je periferno naselje uz Osijek, standardna manja kuća s dvorištem, popust od 20% na prvoj dražbi nije osobito atraktivan. Opis ne otkriva stanje objekta ni eventualnu useljenost pa treba dodatnu provjeru prije ozbiljnijeg interesa.",
   "flags": [
-    "Slavonija - depopulacija i niska likvidnost",
-    "seoska lokacija uz Osijek - ograničena tražnja"
+    "provjeriti: stanje nekretnine i useljenost"
   ],
-  "input_hash": "96a8313b1fc1",
-  "scored_at": "2026-05-07T08:31:45.860880"
+  "discount_pct": 20.0,
+  "input_hash": "643ec5a80809",
+  "scored_at": "2026-07-02T08:59:07.714087"
 }

@@ -1,16 +1,15 @@
 {
   "id": "57843",
-  "score_overall": 4.5,
-  "score_lokacija": 4.5,
-  "score_roi": 5.5,
+  "score_overall": 6.2,
+  "score_lokacija": 5.5,
+  "score_roi": 7.5,
   "score_stanje": 4.5,
   "recommendation": "watch",
-  "reasoning": "Koprivnica je stabilan manji grad s industrijskom bazom, a 40% popust na drugoj dražbi uz prisutnost kuće i zgrada (378 m2) čini ovu nekretninu zanimljivijom od ostalih u seriji; međutim, suvlasništvo 1/2 na stambenoj nekretnini je ozbiljna pravna prepreka koja blokira korištenje bez suglasnosti drugog vlasnika.",
+  "reasoning": "Nekretnina u Koprivnici (Miklinovec) s kućom, oranicom i dvorištem uz 40% popusta na drugoj dražbi ima dobar nominalni ROI i pristojnu lokaciju. Prodaje se samo 1/2 suvlasničkog dijela što zahtijeva provjeru odnosa s ostatkom suvlasništva prije aktivnog ulaska.",
   "flags": [
-    "suvlasništvo 1/2 na kući i zgradama - pravna blokada bez suglasnosti",
-    "nepoznato stanje objekta",
-    "udio u stambenom objektu teže unovčiti bez suradnje suvlasnika"
+    "provjeriti: suvlasnički dio 1/2 - status i namjere drugog suvlasnika"
   ],
-  "input_hash": "f6233f078ca9",
-  "scored_at": "2026-05-05T08:14:54.821798"
+  "discount_pct": 40.0,
+  "input_hash": "76ac20cc7799",
+  "scored_at": "2026-07-02T09:04:50.997226"
 }

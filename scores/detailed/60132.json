@@ -5,65 +5,34 @@
   "score_roi": 5.5,
   "score_stanje": 5.0,
   "recommendation": "watch",
-  "reasoning": "Hotel u Dugopolju je inland komercijalna lokacija bez direktne turističke rente — ovo nije obalna Dalmacija nego poslovnotranzitna zona uz A1 autocestu i City Center One, što ograničava hotelski prihod na business i tranzitni segment. Početna cijena od 3,44M EUR na prvoj dražbi (standardnih 25% popust) ostaje visoka za ovu kategoriju lokacije, a stečajni postupak skriva nepoznanice o tehničkom stanju i operativnoj sposobnosti objekta. Opis je skraćen i strukturiran kroz etažno vlasništvo garaže (E-1, 1.174 m²) + suvlasnički udio, što sugerira kompleksnu vlasničku strukturu cijelog hotelskog kompleksa vrijednu detaljne pravne provjere. Investicija ima smisla isključivo uz potvrdu operativnog stanja i pronalazak dugoročnog zakupca/operatera prije ulaska — ulaz na trećoj ili četvrtoj dražbi po znatno nižoj cijeni bio bi pravi trigger za deep_dive.",
+  "reasoning": "Hotel u Dugopolju nalazi se na inland poslovno-tranzitnoj lokaciji uz čvor A1 i City Center One, bez izravne turističke rente kakvu imaju obalne destinacije, pa je prihodni potencijal ograničen na business i tranzitni segment. Popust od 25% na prvoj dražbi nije osobito atraktivan za ovako veliku i pravno kompleksnu imovinu, a stečajni postupak ostavlja otvorenim pitanja tehničkog stanja i operativnog statusa objekta. Klasifikacija 'pokretnina' uz opis koji je tipičan za nekretninu (katastarska čestica, etažno vlasništvo, suvlasnički udio 1174/9196) upućuje na proceduralnu anomaliju koja traži pravnu provjeru prije bilo kakvog angažmana. Investicija ima smisla tek uz potvrdu stanja i pronalazak operatera/zakupca, ili na kasnijoj (trećoj/četvrtoj) dražbi po znatno nižoj cijeni.",
   "flags": [
-    "stečajni postupak (Trgovački sud Split) — neizvjesno tehničko stanje, moguće zanemareno održavanje",
-    "klasificirano kao 'pokretnina' u FINA sustavu, ali opisano kao nekretnina s katastarskim brojem — proceduralna anomalija zahtijeva pravnu provjeru",
-    "kompleksna etažna/suvlasnička struktura (1174/9196 udjela) — moguće ostali suvlasnici s pravima koja kompliciraju transakciju",
-    "opis je skraćen (truncated) — nije poznato koliko komponenti se prodaje u paketu",
-    "visoka jamčevina 458.437 EUR — blokira kapital bez garancije uspjeha",
-    "nema informacija o operativnom statusu hotela (zatvoren? u radu? pod upravljanjem?)",
-    "nepoznate radnopravne obveze vezane uz eventualne zaposlenike hotela"
+    "provjeriti: stvarni opseg imovine koja se prodaje (opis je skraćen, nejasno je koje sve komponente hotela ulaze u paket)",
+    "provjeriti: klasifikacija 'pokretnina' za predmet opisan kao nekretnina s katastarskim brojem — proceduralna anomalija",
+    "provjeriti: postoje li drugi suvlasnici s pravom prvokupa s obzirom na suvlasnički udio 1174/9196",
+    "provjeriti: operativni status hotela (posluje li, zatvoren, pod upravljanjem, ima li zaposlenike ili zakupce)",
+    "stečajni postupak (Trgovački sud u Splitu) — bez jamstva za tehničko stanje objekta"
   ],
   "market_estimate": {
     "eur_min": 2500000,
     "eur_max": 4200000,
-    "confidence": "medium",
-    "basis": "Hotel 2.230 m² u inland komercijalnoj zoni Dugopolja procjenjujem na 800–1.500 EUR/m² (vs 3.000–8.000 EUR/m² za obalne hotele). Gornja granica 4,2M uključuje garažu 1.174 m² (≈300 parking mjesta, 8.000–12.000 EUR/m ovog tipa u stečajima) i dvorište 1.216 m². Donja granica pretpostavlja loše stanje i potrebu za značajnom renovacijom."
+    "confidence": "low",
+    "basis": "Nije bio dostupan pristup web pretrazi u ovoj sesiji pa procjena nije potkrijepljena živim oglasima. Temeljem opće poznate cijene inland komercijalnih/hotelskih objekata u zoni Split-Dugopolje (procjena 800-1.500 EUR/m2 za hotel od 2.230 m2, uz dodatnu vrijednost garažnog dijela od ~1.174 m2 i dvorišta 1.216 m2), realan raspon je 2,5-4,2 mil. EUR — što je ispod utvrđene vrijednosti od 4,58 mil. EUR na koju se dražba oslanja."
   },
-  "comparables": [
-    {
-      "opis": "Hotel Sinj (inland Dalmatinska zagora, ~1.200 m², 3*) — tržišna transakcija",
-      "cijena": 1400000,
-      "m2": 1200,
-      "izvor": "tržišna procjena inland Dalmacija (bez web pristupa)",
-      "url": "https://www.njuskalo.hr/poslovni-prostori-prodaja/hoteli?location=split"
-    },
-    {
-      "opis": "Poslovni hotel Solin/Klis zona (blizina Splita, inland, ~1.800 m²)",
-      "cijena": 2200000,
-      "m2": 1800,
-      "izvor": "tržišna procjena Split-inland segment (bez web pristupa)",
-      "url": "https://www.nekretnine.net/stambeni-objekti/hoteli/lista/grad_split/"
-    },
-    {
-      "opis": "Hotel Osijek (kontinentalni grad, ~2.500 m², u funkciji) — usporedna kategorija lokacije",
-      "cijena": 3200000,
-      "m2": 2500,
-      "izvor": "poznate transakcije kontinentalnih hotela HR",
-      "url": "https://www.njuskalo.hr/poslovni-prostori-prodaja/hoteli?location=osijek"
-    },
-    {
-      "opis": "Poslovni kompleks Dugopolje zona (uredski/komercijalni, ~2.000 m²) — alternativna namjena",
-      "cijena": 2000000,
-      "m2": 2000,
-      "izvor": "procjena komercijalnog tržišta Dugopolje zone",
-      "url": "https://www.nekretnine.net/poslovni-prostori/prodaja/lista/grad_split/"
-    }
-  ],
-  "investment_strategy": "Iznajmljivanje operatoru (lease-back model) + opcija prenamjene: Optimalna strategija je akvizicija hotela i davanje u dugoročni zakup iskusnom hotelskom operateru ili franchise lancu koji posluje uz A1 koridore (Valamar, HUP-Zagreb tip). Alternativa visokog potencijala je prenamjena u mixed-use poslovni kompleks (co-working, showroom, logistika, smještaj za poslovne ljude) iskorištavanjem blizine City Center One i poslovnih zona Dugopolja — ova prenamjena mogla bi znatno povećati likvidnost imovine. Preprodaja bez prethodnih koraka nije preporučena zbog niske tržišne likvidnosti za hotele ove veličine u inland lokacijama.",
+  "comparables": [],
+  "investment_strategy": "Iznajmljivanje operatoru (lease-back) uz mogućnost prenamjene: nakon pravne provjere strukture vlasništva i tehničkog stanja, akvizicija uz dugoročni zakup hotelskom operateru koji pokriva business/tranzitni segment uz A1 koridor, ili prenamjena u mixed-use poslovni kompleks (co-working, showroom, smještaj za poslovne ljude) iskorištavanjem blizine City Center One. Direktna preprodaja bez due diligence koraka nije preporučena zbog niske likvidnosti hotela ove veličine na inland lokaciji.",
   "entry_price_eur": 2600000,
   "detailed_risks": [
-    "Inland lokacija bez turističke rente — prihodi ograničeni na business/tranzitni turizam, direktno osjetljivi na ekonomske cikluse",
-    "Stečajna prodaja ne uključuje nikakve garancije stanja objekta — moguće zanemarene instalacije, HVAC, lift, vatrogasni sustavi",
-    "Nerazjašnjena vlasnička struktura: etažno vlasništvo i suvlasnički udio 1174/9196 — mogući ostali suvlasnici s predkupovnim pravom",
-    "Opiz skraćen u FINA sustavu — nije moguće bez uvida u cjelokupnu dokumentaciju znati što sve ulazi u prodaju",
-    "Visoka ulazna barijera kapitala (jamčevina 458K EUR, ukupno 3,44M EUR) — ograničen krug kupaca = niska tržišna likvidnost",
-    "Regulatorni rizici: dozvole za nastavak ili promjenu namjene hotelskog prostora mogu biti vremenski i troškovno zahtjevne",
-    "Nepoznate radnopravne ili ugovorne obveze prema potencijalnim zaposlenicima ili zakupcima"
+    "Inland lokacija bez turističke rente — prihod ovisi o business/tranzitnom prometu, osjetljiv na ekonomske cikluse",
+    "Stečajna prodaja bez garancije stanja objekta — mogući zanemareni sustavi (HVAC, lift, protupožarna zaštita)",
+    "Nejasna vlasnička struktura (etažno vlasništvo + suvlasnički udio 1174/9196) — mogući drugi suvlasnici s pravima koja kompliciraju transakciju",
+    "Skraćen opis u FINA sustavu — nije poznato što sve točno ulazi u paket prodaje",
+    "Visok ulazni kapital (jamčevina 458.437,5 EUR, početna cijena 3,44 mil. EUR) — ograničen krug kupaca, niska likvidnost",
+    "Neizvjestan operativni status hotela i eventualne obveze prema zaposlenicima/zakupcima"
   ],
-  "upside_scenario": "Ako je hotel tehnički ispravan (ili zahtijeva max 400K EUR renovacije), a operater s dugoročnim ugovorom na zakup može se osigurati, neto prinos od 6–8% na uloženi kapital je ostvariv (godišnji zakup 180–250K EUR). Uz daljnji razvoj Dugopolje-Split poslovne zone i rast tranzitnog prometa na A1, vrijednost imovine do 2028–2029 mogla bi porasti na 4,5–5,5M EUR. Ako se iskoristi potencijal garaže (parking usluga za City Center One / poslovnu zonu), dodatni prihod od 80–120K EUR godišnje je realan.",
-  "downside_scenario": "Ako je hotel u lošem tehničkom stanju s potrebom renovacije 800K EUR+, uz kompleksne vlasničke sporove i nepostojanje zakupca, imovina postaje nelikvidni teret. U recesijskom scenariju ili daljnjem padu business turizma u inland zoni, godišnji prihodi se ne pokrivaju troškove održavanja i poreza. Hitna preprodaja u roku 2–3 godine bez provede strategije mogla bi rezultirati gubitkom 25–40% od uloženog kapitala (exit ispod 2M EUR). Pravni zastoji u stečajnom postupku mogu zamrznuti imovinu dodatnih 12–24 mjeseca.",
-  "input_hash": "7d053b550551",
-  "scored_at": "2026-05-12T08:44:56.324192"
+  "upside_scenario": "Ako je objekt tehnički ispravan (ili traži renovaciju do ~400K EUR) i osigura se operater s dugoročnim ugovorom o zakupu, neto prinos od 6-8% je realan (zakup 180-250K EUR godišnje). Rastom poslovne zone Dugopolje-Split i tranzitnog prometa na A1, vrijednost imovine do 2028-2029 mogla bi narasti na 4,5-5,5 mil. EUR, uz dodatni prihod od iznajmljivanja garažnih mjesta okolnim poslovnim zonama.",
+  "downside_scenario": "Ako je objekt u lošem stanju uz potrebu renovacije od 800K EUR+, uz pravne sporove oko suvlasništva i bez zakupca, imovina postaje nelikvidan teret s visokim troškovima održavanja i poreza. U recesijskom scenariju za business turizam, brza preprodaja u roku 2-3 godine mogla bi rezultirati gubitkom 25-40% uloženog kapitala, a zastoji u stečajnom postupku mogu blokirati imovinu dodatnih 12-24 mjeseca.",
+  "discount_pct": 25.0,
+  "input_hash": "3eaa4d4759e3",
+  "scored_at": "2026-07-02T09:16:09.535567"
 }

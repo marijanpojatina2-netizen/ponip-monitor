@@ -1,16 +1,15 @@
 {
   "id": "58403",
-  "score_overall": 4.0,
+  "score_overall": 5.4,
   "score_lokacija": 5.5,
-  "score_roi": 5.5,
-  "score_stanje": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
   "recommendation": "watch",
-  "reasoning": "Pašnjak 1708 m2 u istoj k.o. Žedno kao i nekretnina 58397 - slična analiza, no pašnjak ima još nižu razvojnu vrijednost od šume. Geografska blizina Trogira daje određenu atraktivnost, ali poljoprivredno/pašnjačko zemljište bez potvrđene građevne namjene je spekulative investicija.",
+  "reasoning": "Pašnjak u Žednom kraj Splita ima solidan popust (40%, druga dražba) i blizinu velikog grada, ali radi se o sirovom zemljištu bez infrastrukture i nejasnog građevinskog potencijala. Vrijedi pratiti radi lokacije, ali prije ulaska treba provjeriti namjenu.",
   "flags": [
-    "pašnjak - minimalna razvojna vrijednost",
-    "ista k.o. kao 58397 - suvlasništvo ili susjedna čestica",
-    "ograničena likvidnost"
+    "provjeriti: građevinska namjena i komunalna infrastruktura"
   ],
-  "input_hash": "aeed90d897a7",
-  "scored_at": "2026-05-08T07:29:03.601321"
+  "discount_pct": 40.0,
+  "input_hash": "283b7ad54bf3",
+  "scored_at": "2026-07-02T09:00:23.472963"
 }

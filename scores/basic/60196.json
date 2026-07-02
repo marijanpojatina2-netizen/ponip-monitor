@@ -1,16 +1,16 @@
 {
   "id": "60196",
-  "score_overall": 4.0,
-  "score_lokacija": 4.0,
-  "score_roi": 4.0,
-  "score_stanje": 5.0,
+  "score_overall": 4.7,
+  "score_lokacija": 4.5,
+  "score_roi": 5.0,
+  "score_stanje": 4.5,
   "recommendation": "pass",
-  "reasoning": "Poslovna zgrada u manjem međimurskom selu s minimalnim popustom od 20% na prvoj dražbi i samo 1/2 suvlasničkog dijela nudi slab investicijski case bez jasnog izlaznog scenarija. Trnovec ne pokazuje trendove rasta potražnje za poslovnim prostorom.",
+  "reasoning": "Poslovna zgrada s dvorištem u Trnovcu kraj Čakovca, ali prodaje se samo 1/2 suvlasničkog dijela nekretnine što bitno otežava kontrolu i buduću prodaju. Popust od 20% na prvoj dražbi ne kompenzira dovoljno ograničenu likvidnost suvlasničkog udjela u manjem mjestu.",
   "flags": [
-    "suvlasništvo 1/2 dijela",
-    "manje naselje - ograničena potražnja za poslovnim prostorom",
-    "nepoznato stanje objekta - rizik skrivenih troškova"
+    "suvlasništvo - prodaje se samo 1/2 dijela nekretnine",
+    "provjeriti: stanje poslovne zgrade - nije navedeno u opisu"
   ],
-  "input_hash": "895633e12789",
-  "scored_at": "2026-05-08T07:28:30.926727"
+  "discount_pct": 20.0,
+  "input_hash": "9b6c8a0c4ad8",
+  "scored_at": "2026-07-02T08:57:47.046613"
 }

@@ -1,16 +1,15 @@
 {
   "id": "57443",
-  "score_overall": 4.0,
-  "score_lokacija": 2.0,
-  "score_roi": 5.5,
-  "score_stanje": 3.5,
-  "recommendation": "pass",
-  "reasoning": "Turanovac kraj Bjelovara - duboka ruralna Slavonija/Bilogora s 75% popustom što signalizira nultu tržišnu potražnju. Ekstremni popust nije prednost kad ne postoji kupac pri izlasku.",
+  "score_overall": 4.1,
+  "score_lokacija": 1.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Turanovac je duboko ruralna bilogorska lokacija s izraženom depopulacijom, no popust od 75% na trećoj dražbi čini ulaznu cijenu izrazito niskom. Izlazna likvidnost je vrlo upitna pa je preporuka praćenje, a ne aktivna licitacija.",
   "flags": [
-    "treća dražba - signal nulte potražnje",
-    "ruralno/depopulacijsko područje",
-    "stanje kuće nepoznato - vjerojatno zapušteno"
+    "provjeriti: stanje kuće-dvora i gospodarskih objekata nije opisano"
   ],
-  "input_hash": "72019ba6be95",
-  "scored_at": "2026-05-11T09:40:15.798491"
+  "discount_pct": 75.0,
+  "input_hash": "1196edc04b2c",
+  "scored_at": "2026-07-02T09:02:01.888883"
 }

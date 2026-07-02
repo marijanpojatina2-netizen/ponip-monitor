@@ -1,16 +1,16 @@
 {
   "id": "58519",
-  "score_overall": 3.5,
-  "score_lokacija": 3.5,
-  "score_roi": 5.0,
-  "score_stanje": 3.5,
+  "score_overall": 4.9,
+  "score_lokacija": 4.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
   "recommendation": "pass",
-  "reasoning": "Oranica male površine u Zagorju s 40% popustom zvuči cjenovno privlačno, no suvlasništvo 1/2 praktički blokira svaku autonomnu upotrebu ili preprodaju bez suglasnosti drugog suvlasnika. Niska likvidnost poljoprivrednog zemljišta u Zabok/Zlatar regiji eliminira realni investicijski scenarij.",
+  "reasoning": "Mala oranica od 446 m2 u Strmecu kod Zaboka nudi 40% popusta na drugoj dražbi, ali izuzetno nisku apsolutnu vrijednost i ograničenu iskoristivost kao čisto poljoprivredno zemljište. Nekretnina je u suvlasništvu dvoje ovršenika svaki u ½ dijela.",
   "flags": [
-    "suvlasništvo 1/2 - blokada autonomne upotrebe",
-    "oranica - niska tržišna likvidnost",
-    "Zabok/Zlatar - ograničena investicijska potražnja"
+    "mala parcela (446 m2)",
+    "provjeriti: pristup i namjena zemljišta"
   ],
-  "input_hash": "0412b1700bb6",
-  "scored_at": "2026-05-05T08:17:08.704945"
+  "discount_pct": 40.0,
+  "input_hash": "5493b771b839",
+  "scored_at": "2026-07-02T09:07:26.250866"
 }

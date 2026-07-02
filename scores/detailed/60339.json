@@ -1,69 +1,38 @@
 {
   "id": "60339",
-  "score_overall": 4.5,
-  "score_lokacija": 4.0,
+  "score_overall": 4.2,
+  "score_lokacija": 3.5,
   "score_roi": 5.0,
   "score_stanje": 3.5,
   "recommendation": "watch",
-  "reasoning": "Industrijska zgrada s dvorištem ukupne površine 10.530 m² u Bedekovčini (Krapinsko-zagorska županija) zanimljiv je zbog veličine i 25% popusta na prvoj dražbi, ali procijenjenih 288 EUR/m² (ukupna površina) za ovu lokaciju ostaje agresivno — tržišna vrijednost industrijskih nekretnina u Zabok/Krapina prstenu rijetko opravdava ovaj nivo. Jamčevina od 405.000 EUR ozbiljna je barijera i signal da ovaj deal nije za pasivnog investitora. Bez poznavanja veličine i starosti same zgrade nemoguće je procijeniti CAPEX potreban za operativnu sposobnost. Preporuča se razgledanje i uvid u dokumentaciju prije eventualnog ulaska.",
+  "reasoning": "Industrijska zgrada i dvorište (10.530 m2) u Bedekovčini, Krapinsko-zagorska županija — periferna lokacija bez turističkog ili snažnog urbanog potencijala, iako uz blizinu A2 autoceste Zagreb-Krapina-Macelj što daje određenu logističku vrijednost. Prva dražba s tek 25% popustom nudi umjeren, ne izniman ROI signal, a stečajni kontekst i nedostatak opisa stanja objekta povećavaju neizvjesnost. Riječ je o specifičnoj industrijskoj namjeni s ograničenim krugom kupaca, što produljuje vrijeme izlaska iz investicije.",
   "flags": [
-    "industrijska namjena — ograničen broj potencijalnih kupaca na izlazu",
-    "prva dražba — nema bonusa za ponovljenu dražbu, samo 25% popust",
-    "jamčevina 405.000 EUR — visoka likvidnosna barijera",
-    "opis ne navodi starost, stanje, infrastrukturu ni površinu zgrade zasebno",
-    "stečajna masa — mogući ekološki teeret ili dug za komunalije",
-    "neplodno industrijsko dvorište — ograničena konverzija ili razvoj",
-    "Bedekovčina — tanko lokalno tržište, dugi holding period pri eventualnoj preprodaji"
+    "stečajna prodaja - due diligence obavezan",
+    "provjeriti: stvarno stanje i tehnička ispravnost zgrade (nije opisano)",
+    "provjeriti: postojanje tereta, hipoteka ili drugih upisa na zk.ul. 3736",
+    "provjeriti: postoje li zakupci/korisnici prostora ili opreme unutar postrojenja",
+    "provjeriti: mogućnost prenamjene neplodnog industrijskog zemljišta",
+    "industrijska namjena - ograničen krug potencijalnih kupaca/likvidnost"
   ],
   "market_estimate": {
-    "eur_min": 1800000,
-    "eur_max": 3000000,
+    "eur_min": 2800000,
+    "eur_max": 4200000,
     "confidence": "low",
-    "basis": "Procjena temeljena na generalnom poznavanju tržišta: industrijsko zemljište u Krapinsko-zagorskoj oko 20-40 EUR/m², industrijska gradnja 500-700 EUR/m² rekonstrukcijske vrijednosti. Bez znanja stvarne površine zgrade i njenog stanja raspon je širok. Procijenjena vrijednost 4.050.000 EUR (385 EUR/m² ukupno) vjerojatno je bazirana na troškovnoj metodi ili neusporedivim komparabilima — nije odraz tržišne likvidnosti ovog pojasa. Web pretraživanje nije bilo dostupno za provjeru aktivnih oglasa."
+    "basis": "Web pretraga nije bila dostupna u ovoj sesiji (nedostaje pristup search alatu), stoga procjena nije potkrijepljena aktivnim oglasima. Raspon je izveden iz sudske procjene vrijednosti (4.05M EUR) i opće razine cijena industrijskih kompleksa u manjim mjestima Krapinsko-zagorske županije (tipično 150-350 EUR/m2 za izgrađeno industrijsko zemljište s objektima, ovisno o stanju). Preporuka: prije ponude nužno pribaviti neovisnu procjenu i teren."
   },
-  "comparables": [
-    {
-      "opis": "Industrijska hala ~2.500 m² + dvorište, Zabok okolica, prodaja",
-      "cijena": 680000,
-      "m2": 2500,
-      "izvor": "njuskalo.hr / nekretnine.net — generalna estimacija",
-      "url": "https://www.njuskalo.hr/poslovni-prostori-prodaja/krapinsko-zagorska"
-    },
-    {
-      "opis": "Industrijska zgrada ~5.000 m² + teren, Varaždin/okolica (usporedni pojas)",
-      "cijena": 1200000,
-      "m2": 5000,
-      "izvor": "nekretnine.net — tržišna estimacija",
-      "url": "https://www.nekretnine.net/stambeni-objekti/pretraga/?vrsta=2&regija=varazdinska"
-    },
-    {
-      "opis": "Logistički objekt ~3.000 m², Dugo Selo / Rugvica (Zagreb prsten — prime usporedba)",
-      "cijena": 1800000,
-      "m2": 3000,
-      "izvor": "CBRE / tržišni izvještaji 2024-2025",
-      "url": "https://www.cbre.hr/hr-hr/research-and-reports"
-    },
-    {
-      "opis": "Industrijska hala ~8.000 m², Jastrebarsko — sekundarni Zagreb prsten",
-      "cijena": 2200000,
-      "m2": 8000,
-      "izvor": "njuskalo.hr / estimacija",
-      "url": "https://www.njuskalo.hr/poslovni-prostori-prodaja/zagrebacka"
-    }
-  ],
-  "investment_strategy": "Jedina realna strategija je kupnja za vlastitu industrijsku/logističku upotrebu ili preprodaja industrijskom operateru s potrebom za prostorom u regiji. Iznajmljivanje je teoretski moguće (net yield 8-10% za industrijal u sekundarnoj lokaciji), ali pri startnoj cijeni 3,037.500 EUR godišnji najam bi trebao biti 240.000-300.000 EUR da bi yield bio prihvatljiv — nerealno za Bedekovčinu. Reno-flip nema smisla jer nema dovoljno dubine tržišta. Jedini upside je ako je zgrada u dobrom stanju i postoji identificirani industrijski korisnik koji želi kupiti/unajmiti — tada je deep_dive opravdan. Bez toga: watch.",
-  "entry_price_eur": 1800000,
+  "comparables": [],
+  "investment_strategy": "Razvoj/repozicioniranje za logistiku ili proizvodni najam — s obzirom na veličinu parcele (10.530 m2) i blizinu autoceste A2, najrealniji izlaz je iznajmljivanje ili prodaja logističko-proizvodnim tvrtkama nakon eventualnog manjeg ulaganja u infrastrukturu, a ne brzi flip zbog uskog kruga kupaca za industrijske nekretnine ove veličine.",
+  "entry_price_eur": 2200000,
   "detailed_risks": [
-    "Stečajna masa može imati ekološke terete (kontaminacija tla, azbest, opasni otpad) koji ne prestaju prodajom",
-    "Nepoznata veličina i starost zgrade — potencijalan CAPEX 500k-1M EUR za dovođenje u operativno stanje",
-    "Visoka koncentracija kapitala u nelikvidnoj regiji — exit može trajati 3-7 godina",
-    "Industrijska namjena ograničava refinanciranje hipotekom (banke su rezervirane prema industrijskim objektima van prime pojaseva)",
-    "Jamčevina 405.000 EUR je nereparabilan trošak ako analiza due diligence otkrije probleme nakon uplate",
-    "Procijenjenih 3,037.500 EUR nije opravdano bez detaljnog uvida u iznajmljivost — rizik da je tržišna vrijednost ispod startne cijene",
-    "Nema informacija o priključcima (struja, voda, plin, kanalizacija) ni o nosivosti podova i visini zgrade"
+    "Nepoznato stanje objekta - opis ne navodi je li zgrada u funkciji, prazna ili djelomično srušena",
+    "Stečajna prodaja nosi rizik neriješenih potraživanja trećih strana i mogućih upisanih tereta",
+    "Uska tržišna niša za industrijske nekretnine ove veličine u manjem mjestu produljuje vrijeme prodaje/izdavanja",
+    "Visoka jamčevina (405.000 EUR) i cjelokupni iznos zahtijevaju značajan kapital te ograničavaju broj konkurentnih ponuditelja, ali i otežavaju financiranje",
+    "Nedostatak informacija o statusu razgledavanja i tehničkoj dokumentaciji (kontakt samo preko stečajnog upravitelja u Zagrebu)"
   ],
-  "upside_scenario": "Ako je zgrada u solidnom stanju (npr. 4.000-6.000 m² korisne površine, vrata za kamione, 6m+ visina, priključci uredni) i postoji identificirani zakupac ili kupac u regiji (npr. lokalna manufacturing kompanija ili distribucijski centar), uz ulaz na drugoj dražbi (~2,27M EUR = 44% popust) deal postaje atraktivan. Tržište industrijskih nekretnina u Hrvatskoj raste zbog reshoring trenda i E-commerce logistike, a novi industrijski parkovi često se ne grade u ovim županijama — nema nove ponude. Za 3 godine vrijedno 2,5M-3,5M EUR u tom scenariju.",
-  "downside_scenario": "Zgrada je u lošem stanju (krov, instalacije), ekološki teret ili porezni dug otežava uknjižbu, kupac ne može naći zakupca ni kupca sljedećih 5 godina. Holding cost (porez, čuvanje, minimalno održavanje) 50-80k EUR godišnje. Realna tržišna vrijednost ispod 2M EUR. Ukupni gubitak u najgorem scenariju 1M+ EUR plus zamrznuta jamčevina u procesu.",
-  "input_hash": "56d5b9722f25",
-  "scored_at": "2026-05-21T09:40:05.118670"
+  "upside_scenario": "Ako je zgrada strukturno očuvana i dozvoljava brzu adaptaciju, investitor bi mogao kupiti na prvoj ili drugoj dražbi uz daljnji popust, iznajmiti prostor proizvodnoj/logističkoj tvrtki uz iskorištavanje blizine autoceste te ostvariti stabilan prinos od najma uz srednjoročno poviše vrijednosti zemljišta u zoni Bedekovčina-Zabok.",
+  "downside_scenario": "Ako dražba ne uspije, nekretnina ide na drugu/treću dražbu s dodatnim popustom (uobičajeno u stečajnim postupcima), gdje bi ROI profil postao privlačniji, ali uz rizik da objekt ostane dugoročno neprodan zbog niske potražnje za specifičnom industrijskom namjenom u ruralnom dijelu županije.",
+  "discount_pct": 25.0,
+  "input_hash": "17c633cba0be",
+  "scored_at": "2026-07-02T09:17:25.123272"
 }

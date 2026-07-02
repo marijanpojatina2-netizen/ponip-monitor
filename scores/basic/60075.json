@@ -1,16 +1,13 @@
 {
   "id": "60075",
-  "score_overall": 3.5,
-  "score_lokacija": 5.0,
-  "score_roi": 4.0,
-  "score_stanje": 2.0,
+  "score_overall": 4.1,
+  "score_lokacija": 4.5,
+  "score_roi": 4.5,
+  "score_stanje": 2.5,
   "recommendation": "watch",
-  "reasoning": "Isključivo šuma i oranica (10.437 m2, bez ikakvog objekta) u Pisarovini, ~35 km od Zagreba za 26.496 EUR (~2,5 EUR/m2) – blizina Zagreba daje land-banking potencijal ali šumske parcele imaju zakonska ograničenja sječe i gradnje koja blokiraju razvoj. Bez jasne kratkoročne strategije vrijedi pratiti za spekulativni dugotrajni ulog.",
-  "flags": [
-    "Isključivo šuma i oranica – bez ikakvog objekta",
-    "Šumske parcele podliježu strogim propisima o gradnji i sječi (Zakon o šumama)",
-    "Prva dražba – 20% popust nije dovoljno atraktivan za čisto zemljište"
-  ],
-  "input_hash": "8a4db14b6517",
-  "scored_at": "2026-05-05T08:12:54.344970"
+  "reasoning": "Riječ je isključivo o poljoprivrednom i šumskom zemljištu bez građevina u blizini Zagreba (Pisarovina), što daje dugoročni potencijal ali ograničenu kratkoročnu likvidnost. Popust od 20% na prvoj dražbi je standardan.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "4cf5ce57a883",
+  "scored_at": "2026-07-02T09:03:29.330583"
 }

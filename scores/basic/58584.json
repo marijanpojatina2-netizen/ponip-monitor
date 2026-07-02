@@ -1,16 +1,15 @@
 {
   "id": "58584",
-  "score_overall": 3.5,
+  "score_overall": 4.8,
   "score_lokacija": 2.5,
-  "score_roi": 4.5,
-  "score_stanje": 4.0,
-  "recommendation": "pass",
-  "reasoning": "Velika oranica u Županji s dobrim popustom (40%, druga dražba), no Županja je duboka ruralna Slavonija s gotovo nultom tržišnom likvidnošću za poljoprivredne parcele; suvlasnički udio dodatno komplicira izlaz.",
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Poljoprivredno zemljište (dvije čestice, ukupno 1,56 ha) kod Županje, 40% popust i druga dražba daju pristojan ROI, no slabija slavonska lokacija i prodaja samo 1/2 suvlasničkog dijela smanjuju atraktivnost. Prikladno eventualno za konsolidaciju poljoprivrednog zemljišta u regiji.",
   "flags": [
-    "suvlasnički udio 1/2",
-    "ruralna depopulacijska regija - minimalna likvidnost",
-    "oranica bez izgrađenog objekta"
+    "provjeriti: suvlasništvo - prodaje se samo 1/2 dio nekretnine"
   ],
-  "input_hash": "2bd339b49a5b",
-  "scored_at": "2026-05-08T07:30:03.796862"
+  "discount_pct": 40.0,
+  "input_hash": "15959f43843b",
+  "scored_at": "2026-07-02T09:06:09.208584"
 }

@@ -1,16 +1,13 @@
 {
   "id": "58529",
-  "score_overall": 3.0,
+  "score_overall": 4.9,
   "score_lokacija": 4.0,
-  "score_roi": 3.5,
-  "score_stanje": 2.5,
-  "recommendation": "pass",
-  "reasoning": "Identični suvlasnički i strukturni problem kao ID 58521 – isti ovršenici, ista k.o. Strmec, samo drugačija parcela (pašnjak + dvorište bez zgrade). Suvlasništvo 1/2 s pravom preče kupnje čini stjecanje nesigurnim, a bez objekta nema operativnog ROI-a.",
-  "flags": [
-    "Suvlasništvo 1/2 – pravo preče kupnje suvlasnika",
-    "Bez građevinskog objekta – dvorište bez kuće",
-    "Isti ovršenici kao ID 58521 – međusobno uvjetovane parcele"
-  ],
-  "input_hash": "21399c75c1d0",
-  "scored_at": "2026-05-05T08:12:54.344660"
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Pašnjak i dvorište u Strmcu (Zagorje) nude pristojan popust od 40% na drugoj dražbi, no radi se o praznom zemljištu bez objekta u ruralnom području s ograničenom likvidnošću. Suvlasništvo 1/2-1/2 između oboje ovršenika ne predstavlja pravni rizik ali smanjuje fleksibilnost raspolaganja.",
+  "flags": [],
+  "discount_pct": 40.0,
+  "input_hash": "1360201b8bff",
+  "scored_at": "2026-07-02T09:00:23.473563"
 }

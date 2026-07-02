@@ -1,17 +1,13 @@
 {
   "id": "60063",
-  "score_overall": 2.5,
-  "score_lokacija": 2.0,
-  "score_roi": 3.0,
+  "score_overall": 3.6,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
   "score_stanje": 3.5,
   "recommendation": "pass",
-  "reasoning": "Gospodarska zgrada u dubokoj Slavoniji (Slatina) s minimalnim 20% popustom na prvoj dražbi - depopulacijska regija s izuzetno niskom likvidnošću čini exit strategiju gotovo nemogućom.",
-  "flags": [
-    "gospodarska zgrada - nije stambena namjena",
-    "depopulacijska regija (Virovitica/Slatina)",
-    "niska tržišna likvidnost",
-    "prva dražba bez dodatnog popusta"
-  ],
-  "input_hash": "b7d5387d28e3",
-  "scored_at": "2026-05-05T08:10:25.921941"
+  "reasoning": "Gospodarska zgrada s dvorištem u k.o. Bistrica (Virovitičko-podravska županija) nalazi se u ruralnom, depopulacijskom području sa slabom likvidnošću tržišta. Popust od tek 20% na prvoj dražbi ne opravdava ulazak u ovako nisko atraktivnu lokaciju.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "de6bcd1c5216",
+  "scored_at": "2026-07-02T08:56:33.962869"
 }

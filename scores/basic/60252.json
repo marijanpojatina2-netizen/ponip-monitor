@@ -1,17 +1,15 @@
 {
   "id": "60252",
-  "score_overall": 2.0,
-  "score_lokacija": 3.0,
-  "score_roi": 3.0,
-  "score_stanje": 2.0,
-  "recommendation": "pass",
-  "reasoning": "Pola oranice od 944 m2 u Slavonskom Brodu - minimalna investicijska vrijednost za suvlasnički udio na gradskom/prigradskom zemljištu bez naznake razvojne namjene. Iznos od ~14k EUR za pola oranice u Slavoniji nema smisleni investicijski ROI scenarij.",
+  "score_overall": 4.8,
+  "score_lokacija": 4.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Oranica u Slavonskom Brodu na adresi Šubičeva, prodaje se samo 1/2 suvlasničkog dijela što otežava samostalno raspolaganje i smanjuje likvidnost. Popust od 20% na prvoj dražbi je umjeren, gradska lokacija donekle ublažava rizik.",
   "flags": [
-    "suvlasništvo 1/2 oranice",
-    "minimalna površina i vrijednost",
-    "samo oranica bez građevne namjene",
-    "slaba likvidnost"
+    "provjeriti: suvlasništvo - prodaje se samo 1/2 dio čestice, preostali suvlasnik može otežati korištenje"
   ],
-  "input_hash": "6d02b3d75de7",
-  "scored_at": "2026-05-08T07:29:03.602127"
+  "discount_pct": 20.0,
+  "input_hash": "81c5bf5adaad",
+  "scored_at": "2026-07-02T09:06:09.208146"
 }

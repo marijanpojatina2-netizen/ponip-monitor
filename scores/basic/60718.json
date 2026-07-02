@@ -1,0 +1,15 @@
+{
+  "id": "60718",
+  "score_overall": 4.5,
+  "score_lokacija": 3.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Mala seoska kuća u Zagorju (k.o. Đurmanec) s tek 20% popustom na prvoj dražbi, bez podataka o stanju objekta. Nizak apsolutni iznos i slaba likvidnost ruralnog tržišta ne opravdavaju aktivan ulazak.",
+  "flags": [
+    "provjeriti: stanje i useljenost nekretnine nije opisano u oglasu"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "74c35b0cc71d",
+  "scored_at": "2026-07-02T08:52:54.212906"
+}

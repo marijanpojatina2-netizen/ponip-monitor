@@ -1,16 +1,15 @@
 {
   "id": "60094",
-  "score_overall": 6.0,
-  "score_lokacija": 6.5,
+  "score_overall": 5.4,
+  "score_lokacija": 6.0,
   "score_roi": 6.0,
-  "score_stanje": 5.0,
-  "recommendation": "watch",
-  "reasoning": "Strateška pozicija u poslovnoj zoni UPU 23 uz koridor Rijeka-Trst-Ljubljana nudi razvojni potencijal, ali radi se o neizgrađenom zemljištu (livade/oranica) na prvoj dražbi s popustom od 25% što ne opravdava hitnu akciju. Razvoj zahtijeva kapital, graditeljsku dozvolu i duži vremenski horizont.",
+  "score_stanje": 3.0,
+  "recommendation": "bid",
+  "reasoning": "Zemljište u poslovnoj zoni Rupa na prometnom pravcu Rijeka-Trst-Ljubljana ima strateški potencijal za razvoj uz autocestu, uz solidnih 25% popusta na prvoj dražbi. Nedostatak objekata smanjuje ocjenu stanja, ali namjena zemljišta čini ga realnim kandidatom za licitaciju.",
   "flags": [
-    "neizgrađeno zemljište - dugi razvojni ciklus",
-    "tri odvojene čestice - fragmentirana imovina",
-    "potrebna provjera UPU namjene i građevinskih uvjeta"
+    "provjeriti: komunalna infrastruktura i uvjeti gradnje/priključci u poslovnoj zoni Rupa"
   ],
-  "input_hash": "4facd9ae9cb6",
-  "scored_at": "2026-05-08T07:28:30.925815"
+  "discount_pct": 25.0,
+  "input_hash": "36b59cf5649b",
+  "scored_at": "2026-07-02T08:52:54.213742"
 }

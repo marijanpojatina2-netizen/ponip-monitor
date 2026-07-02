@@ -1,16 +1,15 @@
 {
   "id": "58523",
-  "score_overall": 3.5,
-  "score_lokacija": 4.0,
-  "score_roi": 4.5,
+  "score_overall": 4.8,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
   "score_stanje": 3.0,
-  "recommendation": "pass",
-  "reasoning": "Pašnjak bez ikakvih objekata uz suvlasništvo 1/2 u Zagorju - čak i uz 40% popust na drugoj dražbi, ko-vlasništvo blokira slobodnu raspolagbu i ograničava svaki razvoj ili prodaju.",
+  "recommendation": "watch",
+  "reasoning": "Pašnjak od 2877 m2 u k.o. Strmec (Zagorje) prodaje se s velikim popustom od 40% na drugoj dražbi, no radi se o negrađevinskom zemljištu bez podataka o infrastrukturi ili mogućnosti gradnje. ROI ovisi isključivo o budućoj prenamjeni zemljišta, što zahtijeva provjeru.",
   "flags": [
-    "suvlasništvo 1/2 - potreban dogovor s ko-vlasnikom za svaku transakciju",
-    "samo pašnjak - bez objekata",
-    "ograničena mogućnost prenamjene"
+    "provjeriti: prostorno-planska namjena i mogućnost gradnje na pašnjaku"
   ],
-  "input_hash": "f89ebe6ad544",
-  "scored_at": "2026-05-05T08:10:25.922153"
+  "discount_pct": 40.0,
+  "input_hash": "623d7efaef8d",
+  "scored_at": "2026-07-02T08:56:33.963147"
 }

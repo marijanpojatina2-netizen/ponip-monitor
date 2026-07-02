@@ -1,16 +1,16 @@
 {
   "id": "58515",
-  "score_overall": 3.0,
-  "score_lokacija": 3.5,
-  "score_roi": 4.5,
+  "score_overall": 4.9,
+  "score_lokacija": 4.0,
+  "score_roi": 6.5,
   "score_stanje": 3.0,
   "recommendation": "pass",
-  "reasoning": "Pašnjak u istoj k.o. Strmec kao i #58519, iste problematike suvlasništva, pri čemu je pašnjak još niže kategorije i likvidnosti od oranice. Bez realnog scenarija monetizacije čak ni uz 40% popust.",
+  "reasoning": "Susjedna čestica pašnjaka od 388 m2 u istom Vižovlju kod Zaboka ima identičnu problematiku kao susjedna parcela - vrlo mala i niske apsolutne vrijednosti unatoč 40% popustu na drugoj dražbi. Bez građevine i uz suvlasništvo ½ dijela investicijski case je slab.",
   "flags": [
-    "suvlasništvo 1/2 - blokada autonomne upotrebe",
-    "pašnjak - najniža kategorija zemljišta po likvidnosti",
-    "Zabok/Zlatar - ograničena investicijska potražnja"
+    "mala parcela (388 m2)",
+    "provjeriti: pristup i namjena zemljišta"
   ],
-  "input_hash": "a64ba6d4fbd1",
-  "scored_at": "2026-05-05T08:17:08.705148"
+  "discount_pct": 40.0,
+  "input_hash": "99edb07e6460",
+  "scored_at": "2026-07-02T09:07:26.251145"
 }

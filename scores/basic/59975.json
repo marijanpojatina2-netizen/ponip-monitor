@@ -1,16 +1,13 @@
 {
   "id": "59975",
-  "score_overall": 3.5,
-  "score_lokacija": 4.0,
-  "score_roi": 3.5,
-  "score_stanje": 3.5,
-  "recommendation": "pass",
-  "reasoning": "Oranica od 6420m2 kod Ivanić-Grada ima prednost blizine Zagreba (cca 40km), ali kao golo poljoprivredno zemljište na prvoj dražbi s 20% popustom nema jasnog investicijskog profila - preskupo za čisto agrikulturnu upotrebu, a prenamjena je neizvjesna. Suvlasništvo između ovrhovoditelja i ovršenika unosi dodatnu pravnu kompleksnost.",
-  "flags": [
-    "suvlasništvo ovrhovoditelja i ovršenika - pravna kompleksnost",
-    "isključivo poljoprivredno zemljište - ograničenje namjene",
-    "bez izgrađene infrastrukture"
-  ],
-  "input_hash": "485f341a7dd7",
-  "scored_at": "2026-05-06T09:37:55.465036"
+  "score_overall": 4.4,
+  "score_lokacija": 4.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Oranica u Širincu blizu Ivanić-Grada ima korisnu blizinu Zagreba, no prva dražba s tek 20% popusta ne nudi dovoljnu sigurnosnu maržu za ulazak. Vrijedi pratiti do sljedeće dražbe kad bi popust mogao postati atraktivniji.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "9fef786e592e",
+  "scored_at": "2026-07-02T09:00:23.474512"
 }

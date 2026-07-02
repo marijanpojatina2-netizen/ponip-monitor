@@ -1,16 +1,15 @@
 {
   "id": "60198",
-  "score_overall": 3.5,
+  "score_overall": 4.0,
   "score_lokacija": 3.0,
-  "score_roi": 3.5,
+  "score_roi": 4.5,
   "score_stanje": 4.5,
-  "recommendation": "pass",
-  "reasoning": "Dvije kuće (93+57 m2) i gospodarska zgrada u ruralnom Hemuševcu kraj Preloga za ~30.800 EUR naizgled su jeftine, ali međimursko seosko tržište nema jasnih investicijskih pokretača ni turističke potražnje. Bez vidljive exit strategije za pasivnog investitora.",
+  "recommendation": "watch",
+  "reasoning": "Hemuševec kraj Preloga je ruralno naselje u ekonomski relativno jačem Međimurju, s dvije kuće i gospodarskom zgradom na parceli te standardnim popustom od 20% na prvoj dražbi. Nema izraženih prednosti niti rizika koji bi opravdali aktivniji pristup.",
   "flags": [
-    "ruralno Međimurje - seoska nekretnina bez investicijskog case-a",
-    "gospodarska zgrada - agro karakter imanja",
-    "niska tražnja za starijim seoskim nekretninama"
+    "provjeriti: stanje obje kuće i gospodarske zgrade nije detaljno opisano"
   ],
-  "input_hash": "89340a84b37f",
-  "scored_at": "2026-05-07T08:31:45.860999"
+  "discount_pct": 20.0,
+  "input_hash": "d85e35cd4971",
+  "scored_at": "2026-07-02T09:02:01.889083"
 }

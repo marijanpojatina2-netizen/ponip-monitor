@@ -1,16 +1,13 @@
 {
   "id": "60122",
-  "score_overall": 5.5,
+  "score_overall": 6.1,
   "score_lokacija": 6.5,
-  "score_roi": 5.5,
+  "score_roi": 6.0,
   "score_stanje": 5.5,
-  "recommendation": "watch",
-  "reasoning": "Treći stan (E-26, 78.35 m2) iz istog varaždinskog stečajnog postupka - Varaždin ima zdravo tržište najma (studenti, industrija), ali 25% popust na prvoj dražbi nije dovoljno atraktivan bez dodatnog due diligence-a.",
-  "flags": [
-    "stečajni postupak - moguće skrivene obveze",
-    "IV kat - provjeri lift",
-    "više stanova iz istog stečaja u istoj zgradi"
-  ],
-  "input_hash": "0838ae93fafe",
-  "scored_at": "2026-05-05T08:10:25.922466"
+  "recommendation": "bid",
+  "reasoning": "Treća jedinica iz iste stečajne rasprodaje zgrade u Varaždinu, S-26 stan od 78,35 m2 na IV katu i potkrovlju, uz identičan popust od 25% na prvoj dražbi. Dobra likvidnost Varaždina i standardno stanje opravdavaju aktivno praćenje i licitaciju.",
+  "flags": [],
+  "discount_pct": 25.0,
+  "input_hash": "64c307c36599",
+  "scored_at": "2026-07-02T08:56:33.963650"
 }

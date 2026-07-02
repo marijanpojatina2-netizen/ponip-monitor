@@ -1,16 +1,13 @@
 {
   "id": "58395",
-  "score_overall": 6.5,
-  "score_lokacija": 7.0,
-  "score_roi": 7.0,
-  "score_stanje": 4.0,
-  "recommendation": "deep_dive",
-  "reasoning": "Pašnjak na Čiovu (blizu Trogira) s 40% popustom na drugoj dražbi ima značajan turistički razvojni potencijal ako je parcela unutar građevinske zone GUP/UPU. Ključna provjera zoniranja je neophodna jer razlika između OPZ i građevinskog zemljišta dramatično mijenja vrijednost.",
-  "flags": [
-    "pašnjak - obavezna provjera građevinske zone",
-    "potencijalni problemi s pristupom i infrastrukturom",
-    "provjera tereta i eventualnih prava trećih"
-  ],
-  "input_hash": "304d47d6e5fd",
-  "scored_at": "2026-05-08T07:28:30.926292"
+  "score_overall": 4.6,
+  "score_lokacija": 3.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Pašnjak u ruralnom zaleđu Splita (Žedno, Cetinska krajina) bez infrastrukture i razvojnog potencijala. 40% popust i druga dražba poboljšavaju ROI, ali slaba likvidnost poljoprivrednog zemljišta preteže.",
+  "flags": [],
+  "discount_pct": 40.0,
+  "input_hash": "fa01a28ab1b4",
+  "scored_at": "2026-07-02T08:55:22.104764"
 }

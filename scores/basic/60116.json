@@ -1,16 +1,15 @@
 {
   "id": "60116",
-  "score_overall": 5.5,
+  "score_overall": 6.1,
   "score_lokacija": 6.5,
-  "score_roi": 5.5,
-  "score_stanje": 5.0,
+  "score_roi": 6.0,
+  "score_stanje": 5.5,
   "recommendation": "watch",
-  "reasoning": "Četvrti stan (E-25, 76.35 m2) u istom varaždinskom objektu - nešto manji od ostalih, neznatno niža početna cijena (83.850 EUR); razlozi za praćenje identični, a zanimljiviji postaje ako dođe do druge dražbe (40% popust).",
+  "reasoning": "Stan od 76 m2 u Varaždinu, prva dražba s umjerenim popustom od 25% - solidna regionalna lokacija ali bez posebnih ROI okidača. Opis ne navodi stanje ni eventualne terete pa treba dodatnu provjeru prije ozbiljnijeg koraka.",
   "flags": [
-    "stečajni postupak - moguće skrivene obveze",
-    "IV kat - provjeri lift",
-    "više stanova iz istog stečaja u istoj zgradi"
+    "provjeriti: stanje useljenosti i eventualni tereti - nije navedeno u opisu"
   ],
-  "input_hash": "37aecb54540a",
-  "scored_at": "2026-05-05T08:10:25.922615"
+  "discount_pct": 25.0,
+  "input_hash": "819fa194a063",
+  "scored_at": "2026-07-02T08:57:47.045429"
 }

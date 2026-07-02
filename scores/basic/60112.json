@@ -1,16 +1,13 @@
 {
   "id": "60112",
-  "score_overall": 4.5,
-  "score_lokacija": 5.0,
-  "score_roi": 4.0,
-  "score_stanje": 5.5,
-  "recommendation": "pass",
-  "reasoning": "Osijeksko tržište karakterizira niska likvidnost i slab kapitalni rast nekretnina, a popust od 20% na prvoj dražbi ne nudi investicijsku marginu. Periferna adresa (Plješevička) dodatno ograničava potencijal najma i kapitalne dobiti.",
-  "flags": [
-    "niska likvidnost - slavonsko tržište",
-    "periferna lokacija u Osijeku",
-    "slab kapitalni rast regije"
-  ],
-  "input_hash": "899b1ceb058e",
-  "scored_at": "2026-05-08T07:28:30.926507"
+  "score_overall": 4.4,
+  "score_lokacija": 4.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća s dvorištem u Osijeku, standardnog stanja, ali smještena u slabijoj slavonskoj regiji s ograničenom likvidnošću. Prva dražba i tek 20% popust ne nude izraženu priliku.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "f2e9ffaf087b",
+  "scored_at": "2026-07-02T08:55:22.105958"
 }

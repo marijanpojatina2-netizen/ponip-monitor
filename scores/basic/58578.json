@@ -1,15 +1,15 @@
 {
   "id": "58578",
-  "score_overall": 4.5,
-  "score_lokacija": 4.5,
-  "score_roi": 6.0,
-  "score_stanje": 4.0,
+  "score_overall": 5.1,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.5,
   "recommendation": "watch",
-  "reasoning": "40% popust u Zagorju za kuću s dvorištem od ~3.230 m2 (899 čhv) za svega 33.600 EUR je privlačna ulazna cijena; potencijal ruralnog turizma postoji ali je opis stanja objekta potpuno izostao što je rizik. Pregrada / Krapinsko-zagorska regija ima ograničenu likvidnost i spor rast vrijednosti.",
+  "reasoning": "Košnica kod Pregrade je ruralno zagorsko područje sa slabijom potražnjom, ali 40% popusta na drugoj dražbi za kuću s dvorištem od preko 3200 m2 čini omjer cijene i veličine zanimljivim. Stanje objekta nije opisano pa je potrebna provjera prije ozbiljnijeg koraka.",
   "flags": [
-    "Nema nijednog podatka o stanju i veličini objekta – nužna terenska provjera",
-    "Mjerna jedinica čhv (zastarjeli zapis) – parcela nije precizno opisana"
+    "provjeriti: stanje kuće i useljenost"
   ],
-  "input_hash": "bdf0ef21ee16",
-  "scored_at": "2026-05-05T08:12:54.344197"
+  "discount_pct": 40.0,
+  "input_hash": "610ef3ea5d85",
+  "scored_at": "2026-07-02T08:59:07.715318"
 }

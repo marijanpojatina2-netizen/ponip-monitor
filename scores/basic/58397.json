@@ -1,16 +1,16 @@
 {
   "id": "58397",
-  "score_overall": 4.5,
-  "score_lokacija": 5.5,
-  "score_roi": 6.0,
-  "score_stanje": 3.0,
-  "recommendation": "watch",
-  "reasoning": "Šuma od 2150 m2 u k.o. Žedno (Čiovo, blizina Trogira) ima potencijalnu razvojnu vrijednost na atraktivnoj lokaciji, ali šumsko zemljište ima ograničenu gradivnost i likvidnost. Popust 40% na drugoj dražbi daje određenu sigurnosnu marginu, no bez jasnog razvojnog potencijala ostaje spekulativan ulog.",
+  "score_overall": 4.2,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Riječ je o čistom šumskom zemljištu u Žednom bez ikakve građevine, a nadležnost Splitskog suda ne znači da je nekretnina uz obalu ili u urbanom području. 40% popusta na drugoj dražbi ne kompenzira nisku likvidnost i ograničenu razvojnu vrijednost šumskog zemljišta.",
   "flags": [
-    "šumsko zemljište - ograničena gradivnost",
-    "nejasna namjena/zoniranje",
-    "niska likvidnost za šume"
+    "provjeriti: točna geografska lokacija čestice (nadležnost suda nije indikator mjesta)",
+    "šumsko zemljište bez građevinske namjene"
   ],
-  "input_hash": "d3fa63c8ad1b",
-  "scored_at": "2026-05-08T07:29:03.601112"
+  "discount_pct": 40.0,
+  "input_hash": "5d4ca1a54172",
+  "scored_at": "2026-07-02T08:59:07.714890"
 }

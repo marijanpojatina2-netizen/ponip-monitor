@@ -1,16 +1,16 @@
 {
   "id": "58370",
-  "score_overall": 6.0,
-  "score_lokacija": 6.5,
-  "score_roi": 6.5,
+  "score_overall": 7.5,
+  "score_lokacija": 8.5,
+  "score_roi": 7.5,
   "score_stanje": 6.0,
-  "recommendation": "watch",
-  "reasoning": "Dobar 50% popust i potencijal za redevelopment sportsko-rekreacijskog kompleksa u Zagrebu; međutim, specijalizirana namjena, visoka jamčevina od 331k EUR i kompleksna izlazna strategija čine ovaj projekt prikladan samo za kapitalnog investitora s jasnim planom konverzije.",
+  "recommendation": "deep_dive",
+  "reasoning": "Veliki rekreacijsko-sportski kompleks u Zagrebu (Trešnjevka) s 50% popustom na drugoj dražbi predstavlja rijetku priliku velike vrijednosti u vrhunskoj lokaciji. Zahtijeva detaljnu analizu namjene, troškova održavanja i eventualnog zakupa prije odluke.",
   "flags": [
-    "specijalizirana namjena (sportska hala, teniski tereni – ograničena prenamjena)",
-    "visoka ulazna kapitalna barijera (jamčevina 331k EUR)",
-    "operativna kompleksnost pri upravljanju ili redevelopmentu"
+    "provjeriti: trenutna namjena i eventualni zakup sportsko-rekreacijskih objekata",
+    "provjeriti: troškovi održavanja i tehničko stanje velikog kompleksa"
   ],
-  "input_hash": "4b96f220a4ef",
-  "scored_at": "2026-05-11T09:37:23.744017"
+  "discount_pct": 50.0,
+  "input_hash": "0c5802b945b5",
+  "scored_at": "2026-07-02T08:52:54.213208"
 }

@@ -1,16 +1,13 @@
 {
   "id": "58399",
-  "score_overall": 5.0,
-  "score_lokacija": 7.0,
-  "score_roi": 5.5,
-  "score_stanje": 3.0,
-  "recommendation": "watch",
-  "reasoning": "Ista lokacija kao #58395 na Čiovu s istim popustom, ali šumsko zemljište ima izuzetno restriktivan zakonski okvir u Hrvatskoj (Zakon o šumama) koji praktički onemogućava građevinsku prenamjenu. Vrijednost je ograničena na ekološki/rekreacijski kontekst.",
-  "flags": [
-    "šuma - stroge restrikcije prenamjene po Zakonu o šumama",
-    "gradnja praktički nemoguća",
-    "slaba likvidnost šumskog zemljišta na otoku"
-  ],
-  "input_hash": "a30ae35d9929",
-  "scored_at": "2026-05-08T07:28:30.926403"
+  "score_overall": 4.5,
+  "score_lokacija": 3.0,
+  "score_roi": 6.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Šumsko zemljište u istom ruralnom području kao 58395, bez pristupa i infrastrukture, minimalna praktična iskoristivost. Visok nominalni popust ne kompenzira vrlo nisku likvidnost šume.",
+  "flags": [],
+  "discount_pct": 40.0,
+  "input_hash": "79c35e1903e0",
+  "scored_at": "2026-07-02T08:55:22.105184"
 }

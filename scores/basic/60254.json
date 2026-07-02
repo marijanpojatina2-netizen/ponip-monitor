@@ -1,17 +1,16 @@
 {
   "id": "60254",
-  "score_overall": 3.0,
-  "score_lokacija": 3.0,
-  "score_roi": 3.5,
-  "score_stanje": 4.0,
-  "recommendation": "pass",
-  "reasoning": "Pola kuće u Slavonskom Brodu u suvlasništvu - kupnja polovice nekretnine bez kontrole nad cijelim objektom izuzetno je problematična za svaki investicijski scenario. Slavonski Brod ima umjerenu potražnju, ali suvlasnički problemi i 20% popust čine ovu nekretninu investicijski neatraktivnom.",
+  "score_overall": 4.5,
+  "score_lokacija": 4.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Kuća u Osječkoj ulici u Slavonskom Brodu ima standardan profil s 20% popusta na prvoj dražbi, solidna ali ne izrazita ROI prilika. Prodaje se samo 1/2 suvlasničkog dijela, dok se komplementarna polovica prodaje na zasebnoj dražbi iste nekretnine (ID 60257).",
   "flags": [
-    "suvlasništvo 1/2 - ograničeno raspolaganje",
-    "nejasna situacija s drugim suvlasnikom (ovršenik)",
-    "samo 20% popust",
-    "Slavonski Brod - ograničena likvidnost"
+    "suvlasništvo - prodaje se samo 1/2 dijela nekretnine (drugi 1/2 dio na dražbi ID 60257)",
+    "provjeriti: stanje kuće nije detaljno opisano"
   ],
-  "input_hash": "2c6c8e0887aa",
-  "scored_at": "2026-05-08T07:29:03.601914"
+  "discount_pct": 20.0,
+  "input_hash": "999ac513cee3",
+  "scored_at": "2026-07-02T09:02:01.888588"
 }

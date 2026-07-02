@@ -1,16 +1,13 @@
 {
   "id": "58533",
-  "score_overall": 4.0,
+  "score_overall": 5.2,
   "score_lokacija": 4.0,
-  "score_roi": 5.0,
-  "score_stanje": 3.5,
-  "recommendation": "pass",
-  "reasoning": "Treći pašnjak u nizu iz iste k.o. Strmec - identični problemi suvlasništva i niske likvidnosti pašnjaka u Zagorju; 40% popust na drugoj dražbi ne nadoknađuje fundamentalne nedostatke investicijskog slučaja.",
-  "flags": [
-    "suvlasništvo 1/2 - kupuje se samo udio",
-    "pašnjak - niska likvidnost",
-    "ista k.o. kao ID 58517 i 58527 - potencijalne kumulativne vlasničke komplikacije"
-  ],
-  "input_hash": "06b0ed244d34",
-  "scored_at": "2026-05-05T08:14:54.822000"
+  "score_roi": 7.0,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Pašnjak Vižovlje u Zagorju s 40% popusta na drugoj dražbi nudi solidan ROI ali nisku apsolutnu vrijednost bez objekta na parceli. Oba suvlasnika su ovršenici pa se prodaje cjelokupna nekretnina bez dodatnog pravnog rizika oko diobe.",
+  "flags": [],
+  "discount_pct": 40.0,
+  "input_hash": "57665d476359",
+  "scored_at": "2026-07-02T09:04:50.997627"
 }

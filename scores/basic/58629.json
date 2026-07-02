@@ -1,16 +1,15 @@
 {
   "id": "58629",
-  "score_overall": 3.5,
-  "score_lokacija": 2.5,
-  "score_roi": 5.0,
-  "score_stanje": 4.0,
-  "recommendation": "pass",
-  "reasoning": "Ruralna Bjelovarsko-bilogorska županija (Velika Barna) - depopulacijsko područje s minimalnom likvidnošću tržišta nekretnina. Unatoč 40% popustu i pristojna veličina posjeda, izlazna strategija praktički ne postoji.",
+  "score_overall": 4.3,
+  "score_lokacija": 2.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Velika Barna kraj Grubišnog Polja je duboko ruralna, depopulacijska lokacija, ali popust od 40% na drugoj dražbi je značajan. Vrijedi pratiti radi cijene, no izlazna likvidnost ostaje upitna.",
   "flags": [
-    "ruralno depopulacijsko područje",
-    "slaba likvidnost tržišta",
-    "gospodarske zgrade - nepoznato stanje"
+    "provjeriti: stanje kuće i tri gospodarske zgrade nije opisano"
   ],
-  "input_hash": "641a466ce21e",
-  "scored_at": "2026-05-11T09:40:15.798389"
+  "discount_pct": 40.0,
+  "input_hash": "b9ca93276eb6",
+  "scored_at": "2026-07-02T09:02:01.888214"
 }

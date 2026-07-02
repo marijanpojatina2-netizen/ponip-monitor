@@ -1,16 +1,15 @@
 {
   "id": "58572",
-  "score_overall": 6.5,
-  "score_lokacija": 4.5,
-  "score_roi": 8.0,
-  "score_stanje": 5.0,
-  "recommendation": "deep_dive",
-  "reasoning": "Iznimno atraktivan popust od 50% na drugoj dražbi s poslovnom zgradom od 294m2 uključenom u cijenu predstavlja potencijalno izvanrednu vrijednost po m2. Ruralna lokacija u Marčeljima smanjuje likvidnost, ali niska ulazna cijena i poslovni objekt zaslužuju hitnu provjeru stanja i legalne dokumentacije.",
+  "score_overall": 6.2,
+  "score_lokacija": 5.5,
+  "score_roi": 7.5,
+  "score_stanje": 4.5,
+  "recommendation": "bid",
+  "reasoning": "Nekretnina u Marčeljima kraj Rijeke kombinira pašnjak i poslovnu zgradu uz vrlo povoljan popust od 50% na drugoj dražbi. Periferna lokacija smanjuje bodove, ali velik popust i veličina čestice čine ovo realnim kandidatom za licitaciju uz terensku provjeru stanja objekta.",
   "flags": [
-    "nepoznato stanje poslovne zgrade - obavezna inspekcija",
-    "ruralna lokacija Rijeka okrug - niža likvidnost",
-    "provjera statusa pašnjaka i moguće prenamjene"
+    "provjeriti: stanje i namjena poslovne zgrade na terenu"
   ],
-  "input_hash": "9a792f477373",
-  "scored_at": "2026-05-08T07:28:30.926174"
+  "discount_pct": 50.0,
+  "input_hash": "6b0a3c2553c1",
+  "scored_at": "2026-07-02T08:54:24.779847"
 }

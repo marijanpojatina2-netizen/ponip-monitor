@@ -1,16 +1,15 @@
 {
   "id": "58469",
-  "score_overall": 4.0,
+  "score_overall": 5.4,
   "score_lokacija": 4.5,
-  "score_roi": 4.5,
+  "score_roi": 6.5,
   "score_stanje": 4.5,
-  "recommendation": "pass",
-  "reasoning": "Podrum poslovni prostor 27m2 u Krapinskim Toplicama - zdravstveno-turistička lokacija ima određeni potencijal, ali podrum bez prirodnog osvjetljenja i samo 40% popust čine investicijski case marginalnim. Ograničena prenamjena i likvidnost.",
+  "recommendation": "watch",
+  "reasoning": "Mali poslovni prostor u podrumu u Krapinskim Toplicama ima ograničenu likvidnost unatoč solidnom popustu od 40% na drugoj dražbi. Bez podataka o trenutnoj namjeni i pristupačnosti riječ je o nišnom ulaganju.",
   "flags": [
-    "podrum - ograničena prenamjena i atraktivnost",
-    "suvlasnički omjer 288/10000 - minorna suvlasnička prava",
-    "poslovni prostor specijalizirane namjene (trgovina)"
+    "provjeriti: namjena i mogućnost korištenja poslovnog prostora u podrumu"
   ],
-  "input_hash": "b77ac331967e",
-  "scored_at": "2026-05-11T09:40:15.798768"
+  "discount_pct": 40.0,
+  "input_hash": "94b67856d852",
+  "scored_at": "2026-07-02T09:03:29.328925"
 }

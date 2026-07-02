@@ -1,17 +1,16 @@
 {
   "id": "60257",
-  "score_overall": 3.0,
-  "score_lokacija": 3.0,
-  "score_roi": 3.5,
-  "score_stanje": 4.0,
-  "recommendation": "pass",
-  "reasoning": "Identična nekretnina kao 60254 - drugi suvlasnički dio iste čestice kč.br. 6121 Osječka ulica. Jedina razlika je što se ovaj lot odnosi na suvlasništvo I ovršenika - zajedno s lotom 60254 čine cijelu nekretninu, što bi bila jedina situacija gdje oba lota dobivaju smisao.",
+  "score_overall": 4.5,
+  "score_lokacija": 4.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Identična nekretnina kao ID 60254 (ista kč.br. 6121, Osječka ulica, Slavonski Brod), ovdje se prodaje druga polovica suvlasništva uz isti popust od 20%. Ako investitor stekne oba dijela, ostvaruje puno vlasništvo nad cijelom nekretninom što bitno mijenja ROI računicu.",
   "flags": [
-    "suvlasništvo 1/2 - isti objekt kao 60254",
-    "kupnja oba lota jedini racionalni scenarij",
-    "koordinacijski rizik na licitaciji",
-    "samo 20% popust"
+    "suvlasništvo - prodaje se samo 1/2 dijela nekretnine (drugi 1/2 dio na dražbi ID 60254)",
+    "provjeriti: stanje kuće nije detaljno opisano"
   ],
-  "input_hash": "dda9a4931245",
-  "scored_at": "2026-05-08T07:29:03.602024"
+  "discount_pct": 20.0,
+  "input_hash": "52f15d9c5307",
+  "scored_at": "2026-07-02T09:02:01.888749"
 }
