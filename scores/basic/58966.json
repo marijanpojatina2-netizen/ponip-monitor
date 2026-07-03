@@ -1,17 +1,16 @@
 {
   "id": "58966",
-  "score_overall": 3.5,
-  "score_lokacija": 3.0,
-  "score_roi": 4.5,
-  "score_stanje": 4.0,
-  "recommendation": "pass",
-  "reasoning": "Industrijski kompleks u k.o. Buković (zaleđe Zadra, okolica Benkovca) - ruralna depopulacijska lokacija s minimalnom potražnjom za industrijskim prostorom bez ikakvog turističkog potencijala. 50% popust ne kompenzira strukturno slabu likvidnost industrijskog tržišta u dalmatinskom zaleđu.",
+  "score_overall": 5.2,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Veliki industrijski kompleks (skladišta, pogon drvne ambalaže) u k.o. Buković, ruralno zaleđe Zadra bez turističke vrijednosti lokacije. Popust od 50% na drugoj dražbi je atraktivan, ali nišna namjena i nepotpun opis stanja objekata smanjuju sigurnost procjene.",
   "flags": [
-    "ruralna lokacija - depopulacijsko područje dalmatinskog zaleđa",
-    "industrijska namjena bez alternative",
-    "pogon drvne ambalaže - moguća ekološka opterećenja",
-    "stečajni postupak"
+    "provjeriti: tehničko stanje objekata (opis nepotpun)",
+    "provjeriti: eventualna prava trećih/zakupi na proizvodnom pogonu"
   ],
-  "input_hash": "4e296e434b02",
-  "scored_at": "2026-05-22T09:00:13.111969"
+  "discount_pct": 50.0,
+  "input_hash": "419276fa56ae",
+  "scored_at": "2026-07-03T09:06:33.427110"
 }

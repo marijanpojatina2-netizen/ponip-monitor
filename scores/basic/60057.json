@@ -1,16 +1,16 @@
 {
   "id": "60057",
-  "score_overall": 5.5,
-  "score_lokacija": 9.0,
-  "score_roi": 4.5,
-  "score_stanje": 4.0,
+  "score_overall": 5.2,
+  "score_lokacija": 9.5,
+  "score_roi": 5.5,
+  "score_stanje": 4.5,
   "recommendation": "watch",
-  "reasoning": "Iznimna lokacija na otoku Visu (Ribarska ulica) s visokim turističkim potencijalom, ali aktivna zabilježba spora i dvostruka zaštita kao kulturno dobro drastično ograničavaju slobodu renovacije i nose pravni rizik. Svega 20% popusta na prvoj dražbi ne kompenzira kompleksnost naslova.",
+  "reasoning": "Kamena kuća na adresi Ribarska 7 na otoku Visu ima izuzetnu turističku lokaciju, ali status zaštićenog kulturnog dobra ograničava mogućnosti renovacije i gradnje, a popust od 20% na prvoj dražbi je umjeren. Ozbiljan minus je upisana zabilježba spora (Z-843/13) u zemljišnim knjigama koja predstavlja potvrđen pravni rizik.",
   "flags": [
-    "kulturno dobro / zaštita kao spomenik kulture – teška ograničenja renovacije, obvezna suglasnost konzervatorskog odjela",
-    "aktivna zabilježba spora (Z-843/13) – mogući pravni rizik pri stjecanju vlasništva",
-    "nejasna ukupna upotrebljiva površina vs. katastarski upis"
+    "sporno vlasništvo",
+    "zaštićeno kulturno dobro - ograničenja renovacije i gradnje"
   ],
-  "input_hash": "0d3e00087527",
-  "scored_at": "2026-04-27T08:21:25.043923"
+  "discount_pct": 20.0,
+  "input_hash": "b42dd7aaeab8",
+  "scored_at": "2026-07-03T09:10:40.871854"
 }

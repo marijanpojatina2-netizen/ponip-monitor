@@ -1,17 +1,15 @@
 {
   "id": "60262",
-  "score_overall": 6.5,
-  "score_lokacija": 7.5,
+  "score_overall": 6.9,
+  "score_lokacija": 8.5,
   "score_roi": 6.5,
   "score_stanje": 5.0,
   "recommendation": "deep_dive",
-  "reasoning": "Poslovna zgrada na 5967 m2 u Crikvenici (Kvarner obala) nudi realan potencijal prenamjene u turistički/ugostiteljski objekt uz 25% popusta od procjene i likvidnu obalnu lokaciju. Visoka kapitalna zahtjevnost i komercijalna namjena traže temeljitu due diligence.",
+  "reasoning": "Poslovna zgrada s 5967 m2 zemljišta u Crikvenici, vrlo traženoj kvarnerskoj turističkoj zoni, uz solidnu vrijednost od 1.13M EUR. Popust od 25% na prvoj dražbi je umjeren, ali veličina parcele i lokacija opravdavaju detaljniju analizu.",
   "flags": [
-    "poslovni objekt - komercijalna namjena, prenamjena neizvjesna",
-    "visoka jamčevina 113.000 EUR",
-    "Trgovački sud Bjelovar - vjerojatni stečajni postupak tvrtke",
-    "nepoznato stanje objekta"
+    "provjeriti: stanje i opterećenja poslovne zgrade"
   ],
-  "input_hash": "9cf1a6843a12",
-  "scored_at": "2026-05-13T08:43:10.640377"
+  "discount_pct": 25.0,
+  "input_hash": "0a167f6563c3",
+  "scored_at": "2026-07-03T09:07:50.837010"
 }

@@ -1,68 +1,36 @@
 {
   "id": "59038",
-  "score_overall": 3.0,
-  "score_lokacija": 5.5,
-  "score_roi": 2.0,
+  "score_overall": 6.3,
+  "score_lokacija": 6.0,
+  "score_roi": 7.5,
   "score_stanje": 4.0,
-  "recommendation": "pass",
-  "reasoning": "Industrijska nekretnina u Varaždinu (727 m² GBA, ~1.309 m² terena) startuje na 1.425.000 EUR, što implicira ~1.960 EUR/m² GBA — 3 do 5 puta više od tržišnih komparabilnih za industrijsko-skladišne objekte u Varaždinu (200-500 EUR/m²). Sudska procjena od 2.850.000 EUR izgleda značajno nadcijenjena, što potvrđuje i neuspjeh prve dražbe. Na aktualnoj početnoj cijeni investicijska logika ne postoji; property se može pratiti isključivo ako doživi treću/četvrtu dražbu s dramatično nižom startnom cijenom.",
+  "recommendation": "deep_dive",
+  "reasoning": "Industrijski kompleks na Zagrebačkoj ulici u Varaždinu (tri zgrade, ukupno ~727 m2 pod krovom, čestica 1018 m2) prodaje se u drugoj dražbi uz 50% popust od procijenjene vrijednosti od 2,85 mil EUR, što je znatan diskont za investitora. Varaždin je stabilno gospodarsko središte kontinentalne Hrvatske s razvijenom industrijskom zonom, ali lokacija nije premium turistička niti metropolska, a stanje objekata nije opisano pa se mora pretpostaviti da su starije, dijelom zastarjele industrijske građevine. Vrijednost transakcije (>500k EUR) i veličina popusta opravdavaju detaljniju due diligence analizu prije odluke o licitaciji, uključujući teren, uporabnu dozvolu i eventualne postojeće zakupe. Web pretraga tržišnih usporedivih oglasa nije bila moguća u ovoj sesiji (alat za pretragu nije odobren), stoga je procjena tržišne vrijednosti temeljena na općem poznavanju tržišta industrijskih nekretnina u Varaždinu, uz nisku pouzdanost.",
   "flags": [
-    "DRUGA DRAŽBA bez ponude na prvoj — tržište eksplicitno odbija sudsku procjenu od 2.85M EUR",
-    "Opis izuzetno štur — nema podataka o stanarima, prihodima, starosti objekta, infrastrukturi ni energetskom certifikatu",
-    "Stečajni postupak — dokumentacija i stanje objekata mogu biti nepotpuni ili oštećeni dugim periodom neaktivnosti",
-    "Implikirana cijena ~1.960 EUR/m² za industrijsku zgradu u Varaždinu drastično premašuje lokalne tržišne vrijednosti",
-    "Moguća ekološka opterećenja — starije industrijske lokacije u stečaju često nose troškove sanacije tla i asbesne izolacije",
-    "Tri odvojena objekta (69 + 627 + 31 m²) — fragmentirana struktura otežava upravljanje i preprodaju"
+    "provjeriti: web pretraga tržišta nije bila dostupna u ovoj analizi (alat nije odobren) - potrebna dodatna dubinska provjera",
+    "provjeriti: postoji li zakup/najam industrijskih zgrada od strane trećih strana",
+    "provjeriti: stvarno stanje i tehnička ispravnost triju industrijskih zgrada (nema opisa stanja)",
+    "provjeriti: postojanje strojeva/opreme koji nisu obuhvaćeni prodajom, i eventualne služnosti/instalacije na čestici",
+    "provjeriti: usklađenost namjene čestice s važećim prostornim planom za planiranu investicijsku svrhu"
   ],
   "market_estimate": {
-    "eur_min": 320000,
-    "eur_max": 680000,
+    "eur_min": 1100000,
+    "eur_max": 1700000,
     "confidence": "low",
-    "basis": "NAPOMENA: Live web pretraga portala (njuskalo.hr, nekretnine.net) nije bila dostupna u ovoj sesiji — procjena se temelji na znanju o tržištu do kolovoza 2025. Industrijske hale i skladišta u Varaždinu tipično se trguju po 200-500 EUR/m²; poslovni prostori u centru 600-1.000 EUR/m². Za 727 m² GBA + 1.309 m² terena uz Zagrebačku ulicu (prometna lokacija, ali industrijska namjena), tržišni raspon iznosi 320k-680k EUR. Sudska procjena od 2.85M EUR izgleda metodološki upitna — moguće je da uključuje strojeve/opremu koja nije predmet prodaje, ili pogrešnu kompenzaciju."
+    "basis": "Procjena temeljena na općem poznavanju tržišta industrijskih/poslovnih nekretnina u Varaždinu (tipične cijene starijih industrijskih objekata kontinentalne Hrvatske ~300-800 EUR/m2 GBP ovisno o stanju, plus vrijednost građevinskog zemljišta u gradskoj zoni). Nije bilo moguće provesti web pretragu za konkretne usporedive oglase u ovoj sesiji jer alat za pretragu nije bio odobren - preporuča se ponoviti analizu s dostupnim web pristupom prije konačne odluke."
   },
-  "comparables": [
-    {
-      "opis": "Industrijska hala s uredom, Varaždin okolica, 1.200 m², starija gradnja — procjena iz trening podataka",
-      "cijena": 480000,
-      "m2": 1200,
-      "izvor": "njuskalo.hr (procjena, nije verificirano live)",
-      "url": "https://www.njuskalo.hr/prodaja-poslovnih-prostora/varazdin?vrstaNekretnine[0]=hale-i-industrijski-prostori"
-    },
-    {
-      "opis": "Skladišni prostor Varaždin industrijska zona, 650 m² — procjena iz trening podataka",
-      "cijena": 290000,
-      "m2": 650,
-      "izvor": "nekretnine.net (procjena, nije verificirano live)",
-      "url": "https://www.nekretnine.net/stambeni_objekti/lista/?tip_oglasa=prodaja&lokacija=varazdinska-zupanija&vrsta=poslovni-prostori"
-    },
-    {
-      "opis": "Poslovni prostor/hala Čakovec (usporediva regija), 800 m²",
-      "cijena": 350000,
-      "m2": 800,
-      "izvor": "njuskalo.hr (procjena, nije verificirano live)",
-      "url": "https://www.njuskalo.hr/prodaja-poslovnih-prostora/cakovec"
-    },
-    {
-      "opis": "Industrijska zgrada Varaždin, sudska dražba (raniji slučaj) — referencna točka iz poznavanja tržišta",
-      "cijena": 220000,
-      "m2": 550,
-      "izvor": "e-oglasna.pravosudje.hr (procjena)",
-      "url": "https://e-oglasna.pravosudje.hr"
-    }
-  ],
-  "investment_strategy": "PASS na aktualnoj cijeni. Jedina teorski opravdana strategija bila bi: (a) čekati 3. ili 4. dražbu s početnom cijenom ispod 500k EUR, (b) kupiti za repurposing u logistički/skladišni prostor ili mini-poslovni park s podjelom na manje jedinice po 100-200 m², (c) alternativno — ako zoniranje dopušta — razvojni projekt mixed-use uz Zagrebačku ulicu. Na 1.425M EUR: sve yield kalkulacije (industrijski najam 4-8 EUR/m²/mj za Varaždin = max 35-70k EUR/god bruto = yield ~2.5-5% na startnu cijenu) pokazuju negativni spread prema trošku kapitala.",
-  "entry_price_eur": 480000,
+  "comparables": [],
+  "investment_strategy": "Reno-flip / iznajmljivanje: obzirom na industrijsku namjenu i gradsku lokaciju na glavnoj prometnici (Zagrebačka ulica), realna strategija je obnova i prilagodba objekata za logistiku, lakšu proizvodnju ili skladištenje te iznajmljivanje lokalnim poduzetnicima, uz mogućnost buduće preprodaje ako se poveća vrijednost zemljišta razvojem okolne infrastrukture.",
+  "entry_price_eur": 1200000,
   "detailed_risks": [
-    "Sudska procjena (2.85M EUR) višestruko iznad tržišnih komparabilnih — signal moguće metodološke greške, inflacije od strane dužnika, ili uključenosti imovine koja nije predmet prodaje",
-    "Tržišna nelikvidnost: industrijske nekretnine u Varaždinu imaju uski kupaški bazen, exit u roku 1-3 godine izrazito neizvjestan",
-    "Nepoznata ekološka situacija — stara industrijska lokacija, potencijalni troškovi remedijacije tla (dizeli, maziva, teški metali) koji mogu premašiti 100k-300k EUR",
-    "Bankarsko financiranje: kreditne institucije rijetko financiraju stečajne industrijske predmete bez čistog exit-a; kupac mora imati vlastiti kapital",
-    "Varaždin industrijski najam: dubina tržišta za objekte >500 m² iznajmljivanje je ograničena, velika poduzeća preferiraju novogradnju u industrijskim zonama",
-    "Fragmentiranost (3 odvojena objekta) čini refinanciranje, osiguranje i prodaju kompliciranijima",
-    "Pravo pregleda 'u dogovoru sa stečajnim upraviteljem' — ograničen due diligence, potencijalno skriveni fizički defekti"
+    "Nedostatak opisa tehničkog stanja triju industrijskih zgrada - mogući skriveni troškovi sanacije",
+    "Prodaja iz stečajnog postupka - moguća složenija pravna i tehnička dokumentacija, procjene se dobivaju tek na upit stečajnom upravitelju",
+    "Nepoznato postoji li aktivan zakupnik ili treća strana s pravom korištenja dijela kompleksa",
+    "Rizik precijenjene službene procjene (2,85 mil EUR) u odnosu na realnu tržišnu vrijednost sličnih industrijskih nekretnina u regiji"
   ],
-  "upside_scenario": "Ako je lokacija Zagrebačka 94 zaista prometno atraktivna (frontage na glavnoj cesti prema Zagrebu), a zoniranje dopušta mixed-use ili retail razvoj, uz ulaganje 400-600k EUR u renovaciju i prenamjenu, finalna vrijednost mogla bi doseći 1.2-1.8M EUR — ali samo u horizontu 4-6 godina, uz uspješno dobivanje građevinske dozvole i nalaz anchor stanara. Ovaj scenarij zahtijeva entry ispod 500k EUR da bi bio financijski opravdan.",
-  "downside_scenario": "Kupnja na 1.425M EUR, objekti prazni, tržište ne apsorbira po toj cijeni (već signalizirano). Troškovi održavanja, poreza i osiguranja 15-25k EUR/god. Ekološka sanacija 100-300k EUR. Preprodaja na tržišnim cijenama (320-680k EUR) znači realizirani gubitak od 750k-1.1M EUR. Blokirana likvidnost 2-5 godina uz moguće dodatne sudske postupke.",
-  "input_hash": "87ee4b4ae4f7",
-  "scored_at": "2026-05-22T09:11:58.541673"
+  "upside_scenario": "Ako se nakon due diligence potvrdi dobro stanje konstrukcije i čist pravni status, kupnja uz dodatni popust (treća dražba) omogućuje akviziciju po cijeni znatno ispod tržišne vrijednosti zemljišta i objekata, s mogućnošću brzog iznajmljivanja lokalnim proizvodnim/logističkim tvrtkama i ostvarenjem prinosa od 6-8% godišnje uz srednjoročnu prodaju uz profit od 20-30%.",
+  "downside_scenario": "Ako se utvrde ozbiljni konstrukcijski nedostaci, neusklađenost s prostornim planom ili postojeći zakupci s dugoročnim pravima, nekretnina ostaje neprodana i na trećoj/četvrtoj dražbi uz daljnji pad cijene, dok troškovi održavanja i pravnog raščišćavanja mogu premašiti očekivani ROI, čineći investiciju neisplativom bez daljnjeg diskonta.",
+  "discount_pct": 50.0,
+  "input_hash": "8c2728b761df",
+  "scored_at": "2026-07-03T09:16:14.945838"
 }

@@ -1,16 +1,13 @@
 {
   "id": "55973",
-  "score_overall": 3.0,
+  "score_overall": 4.2,
   "score_lokacija": 2.0,
-  "score_roi": 3.5,
-  "score_stanje": 4.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
   "recommendation": "pass",
-  "reasoning": "Pašnjak/livada u depopulacijskoj zoni Virovitice - unatoč 40% popustu na drugoj dražbi, apsolutna vrijednost od ~895 EUR i nikakav razvojni potencijal regije čine ovaj slučaj investicijski beznačajnim.",
-  "flags": [
-    "depopulacijska regija - Virovitica okolica",
-    "pašnjak bez razvojnog potencijala",
-    "minimalna apsolutna vrijednost"
-  ],
-  "input_hash": "e7873c14c05a",
-  "scored_at": "2026-05-08T07:30:03.797392"
+  "reasoning": "Mala parcela pašnjaka/livade u ruralnom, depopulacijskom području Virovitice s ograničenom likvidnošću tržišta. Unatoč solidnom popustu od 40% i drugoj dražbi, apsolutna vrijednost i lokacija ne daju realan investicijski case.",
+  "flags": [],
+  "discount_pct": 40.0,
+  "input_hash": "f48bd789ebc4",
+  "scored_at": "2026-07-03T09:03:42.951591"
 }

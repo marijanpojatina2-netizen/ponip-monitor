@@ -1,16 +1,16 @@
 {
   "id": "58921",
-  "score_overall": 7.5,
-  "score_lokacija": 7.0,
-  "score_roi": 8.0,
+  "score_overall": 8.5,
+  "score_lokacija": 9.0,
+  "score_roi": 8.5,
   "score_stanje": 7.5,
   "recommendation": "deep_dive",
-  "reasoning": "Funkcionalni apartmanski objekt s 8 apartmana, bazenom i 468m² bruto površine u turističkoj zoni Tribunja idealan za kratkoročni najam; 40% popust na drugoj dražbi s turističkim multiplikatorom čini ovo jednim od atraktivnijih lotova. Suvlasništka struktura (2x 1/2) zahtijeva provjeru jesu li oba udjela predmet prodaje ili samo jedan, što je ključno za investicijsku odluku.",
+  "reasoning": "Stambeni objekt s 8 apartmana i bazenom u Tribunju, vrhunskoj dalmatinskoj turističkoj lokaciji, uz 40% popust na drugoj dražbi predstavlja izniman investicijski potencijal za najam. Suvlasnički odnos (1/2 dijela) zahtijeva pravnu provjeru prije licitacije.",
   "flags": [
-    "suvlasništvo 1/2 - provjera prodaje li se cijela nekretnina ili samo jedan udio",
-    "provjera aktualnog statusa korištenja/zakupa apartmana",
-    "komunalna infrastruktura u Tribunju - provjera priključaka"
+    "provjeriti: prodaje li se cijela nekretnina ili samo suvlasnički dio (1/2)",
+    "provjeriti: legalnost/uporabnu dozvolu za apartmane"
   ],
-  "input_hash": "bac1cbe52b48",
-  "scored_at": "2026-05-22T09:02:16.008916"
+  "discount_pct": 40.0,
+  "input_hash": "af6d537d678e",
+  "scored_at": "2026-07-03T09:07:50.837763"
 }

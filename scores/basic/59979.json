@@ -1,12 +1,15 @@
 {
   "id": "59979",
-  "score_overall": 6.5,
-  "score_lokacija": 7.5,
-  "score_roi": 6.5,
-  "score_stanje": 5.5,
+  "score_overall": 7.3,
+  "score_lokacija": 8.5,
+  "score_roi": 7.0,
+  "score_stanje": 6.0,
   "recommendation": "bid",
-  "reasoning": "Trosobni stan u Puli s parkingom i spremništem pokriva sve kategorije istarskog kupca – parking u Puli vrijedi zasebno i podiže likvidnost; 25% popust na prvoj dražbi je iznadprosječan za istarsko tržište i daje realnu marginu čak i uz renovaciju. Pula bilježi snažan turistički najam i stabilan kapitalni rast.",
-  "flags": [],
-  "input_hash": "67448788e66b",
-  "scored_at": "2026-04-29T08:14:32.180672"
+  "reasoning": "Trosobni stan od 74,68 m2 s parkirnim mjestom i spremištem u Puli nudi atraktivnu obalnu istarsku lokaciju uz solidan popust od 25% na prvoj dražbi. Opis ne navodi ozbiljnije mane stanja, što ga čini realnim kandidatom za licitaciju.",
+  "flags": [
+    "provjeriti: status useljenosti/posjeda stana prije licitacije"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "693d41c17ef7",
+  "scored_at": "2026-07-03T09:14:57.145005"
 }

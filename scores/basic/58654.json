@@ -1,16 +1,15 @@
 {
   "id": "58654",
-  "score_overall": 2.5,
-  "score_lokacija": 3.5,
-  "score_roi": 2.5,
-  "score_stanje": 3.0,
-  "recommendation": "pass",
-  "reasoning": "Udio od samo 1/6 na 933 m2 oranice i livade praktički je neunovčiva imovina — šest suvlasnika na maloj parceli čini bilo kakvu dispoziciju gotovo nemogućom bez dugotrajnih sudskih postupaka. Najslabiji case od sva tri objekta usprkos jednakom postotnom popustu.",
+  "score_overall": 5.6,
+  "score_lokacija": 5.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Manji suvlasnički udio (1/6) oranice i livade u istom zaprešićkom području - dobra šira lokacija blizu Zagreba, ali izrazito mali suvlasnički udio dodatno smanjuje praktičnu iskoristivost i ROI. Ulazna cijena zanemariva (1404 EUR) pa je rizik ograničen.",
   "flags": [
-    "suvlasnički udio 1/6 — ekstremna fragmentacija vlasništva",
-    "poljoprivredno zemljište — oranica i livada, nema građevnog potencijala",
-    "praktički nemoguća likvidacija bez svih suvlasnika"
+    "provjeriti: suvlasnički odnosi - vrlo mali udio (1/6) otežava samostalno raspolaganje"
   ],
-  "input_hash": "a4b46a282e94",
-  "scored_at": "2026-05-11T09:42:15.045264"
+  "discount_pct": 40.0,
+  "input_hash": "015ede490282",
+  "scored_at": "2026-07-03T09:02:03.172556"
 }

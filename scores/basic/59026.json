@@ -1,16 +1,16 @@
 {
   "id": "59026",
-  "score_overall": 6.5,
+  "score_overall": 6.1,
   "score_lokacija": 5.5,
-  "score_roi": 8.0,
-  "score_stanje": 4.5,
+  "score_roi": 7.0,
+  "score_stanje": 5.0,
   "recommendation": "bid",
-  "reasoning": "Drugi po veličini lot iz varaždinskog stečaja - 17.313 m² land s ~4.430 m² mix skladišno-industrijskih kapaciteta za 755k EUR startne cijene (~127 EUR/m² s parcelom). Diverzificirani mix veličina zgrada pogoduje multi-tenant pristupu i distribuciji rizika, a cijena ostavlja prostor i za preprodaju.",
+  "reasoning": "Veliki industrijski kompleks u Varaždinu (Zagrebačka ulica, susjedna čestica prethodnom predmetu) s brojnim skladišnim i industrijskim zgradama, uz 50% popusta na drugoj dražbi. Regionalna lokacija i visok popust čine ovo realnim kandidatom za licitaciju, uz potrebnu provjeru stanja objekata.",
   "flags": [
-    "stečajni postupak",
-    "višestruki objekti - provjeriti strukturnu ispravnost",
-    "stanje objekata neispitano"
+    "provjeriti: tehničko stanje industrijskih i skladišnih zgrada",
+    "provjeriti: postojeći tereti na nekretnini"
   ],
-  "input_hash": "564b761b1006",
-  "scored_at": "2026-05-22T09:00:13.112285"
+  "discount_pct": 50.0,
+  "input_hash": "1d08afcc3b16",
+  "scored_at": "2026-07-03T09:06:33.428051"
 }

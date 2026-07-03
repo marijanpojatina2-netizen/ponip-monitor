@@ -1,0 +1,16 @@
+{
+  "id": "60835",
+  "score_overall": 3.4,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Stari Gradac kod Virovitice spada u depopulacijsko područje Slavonije s vrlo niskom likvidnošću nekretnina. Iako je apsolutna cijena niska, kombinacija ruralne lokacije i nepoznatog stanja starije seoske kuće ne opravdava aktivan interes.",
+  "flags": [
+    "provjeriti: stanje kuće i pratećih objekata (opis ne navodi detalje)",
+    "provjeriti: useljenost"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "6069a8d2ede4",
+  "scored_at": "2026-07-03T08:59:41.725182"
+}

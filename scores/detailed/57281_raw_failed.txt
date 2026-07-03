@@ -1,0 +1,6 @@
+WebSearch nije dopušten u ovoj sesiji, pa ne mogu istražiti stvarne tržišne podatke i usporedive oglase. Prije nego nastavim, javite mi želite li:
+
+1. Odobriti WebSearch/WebFetch (ako se pojavi prompt za dopuštenje, ili preko `/permissions`), pa ću napraviti punu analizu s realnim podacima, ili
+2. Da vratim JSON procjenu **isključivo na temelju opisa** (bez tržišnog istraživanja), uz `market_estimate.confidence: "low"` i jasnu napomenu da comparables nisu provjereni.
+
+S obzirom da je vrijednost nekretnine >500K EUR, protokol zahtijeva web istraživanje za pouzdanu procjenu — bez njega bih morao ili izmišljati brojke (što neću raditi) ili vratiti nisko-pouzdanu analizu. Kako želite nastaviti?

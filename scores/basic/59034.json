@@ -1,17 +1,16 @@
 {
   "id": "59034",
-  "score_overall": 5.0,
+  "score_overall": 6.1,
   "score_lokacija": 5.5,
   "score_roi": 7.0,
-  "score_stanje": 3.5,
-  "recommendation": "watch",
-  "reasoning": "Pretežno neizgrađena parcela od 18.532 m² (18.178 m² dvorište) s tehničkim objektima u Varaždinu za 880k EUR - potencijal kao razvojna ili brownfield parcela, ali minimalna izgrađenost znači velik investicijski zahvat za aktivaciju prihoda. Sinergijska vrijednost raste ako investitor preuzima i susjedne lotove iz istog stečaja.",
+  "score_stanje": 5.0,
+  "recommendation": "bid",
+  "reasoning": "Industrijski kompleks u Varaždinu (Zagrebačka ulica) na velikoj čestici od 18.532 m2 s više pomoćnih objekata, uz 50% popusta na drugoj dražbi što je snažan ROI signal. Varaždin kao regionalni centar osigurava bolju likvidnost od ruralnih lokacija, no stanje objekata nije opisano.",
   "flags": [
-    "pretežno neizgrađeno - nema prihoda od prvog dana",
-    "trafostanica - provjeriti vlasništvo i status",
-    "stečajni postupak",
-    "dugotrajnija aktivacija investicije"
+    "provjeriti: tehničko stanje trafostanice i pomoćnih zgrada",
+    "provjeriti: postojeći tereti na nekretnini"
   ],
-  "input_hash": "5f507c5bf814",
-  "scored_at": "2026-05-22T09:00:13.112075"
+  "discount_pct": 50.0,
+  "input_hash": "96dc2551e825",
+  "scored_at": "2026-07-03T09:06:33.427569"
 }

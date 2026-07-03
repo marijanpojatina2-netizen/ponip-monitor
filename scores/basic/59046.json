@@ -1,17 +1,15 @@
 {
   "id": "59046",
-  "score_overall": 6.5,
+  "score_overall": 6.2,
   "score_lokacija": 5.5,
   "score_roi": 8.0,
-  "score_stanje": 4.5,
-  "recommendation": "bid",
-  "reasoning": "Najniža barijera ulaska u varaždinskom stečajnom skupu - 490k EUR za 7.931 m² land s 14 industrijskih objekata (~3.700 m² izgrađeno, ~132 EUR/m² s parcelom). Fragmentirani mix manjih zgrada pogoduje multi-tenant rentabilnosti, a najmanji ticketsize čini ga dostupnim širem krugu investitora.",
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Veliki industrijski kompleks s brojnim starijim objektima u Varaždinu na drugoj dražbi uz 50% popust nudi visok nominalni ROI, ali brojnost i vjerojatna dotrajalost zgrada nose rizik skupe adaptacije ili rušenja. Potrebna je detaljna inspekcija prije ulaska.",
   "flags": [
-    "stečajni postupak",
-    "14 objekata - fragmentacija upravljanja",
-    "stariji mali objekti - nejednoliko stanje",
-    "stanje objekata neispitano"
+    "provjeriti: stanje brojnih industrijskih objekata i mogući troškovi rušenja/adaptacije"
   ],
-  "input_hash": "b7903a529cc2",
-  "scored_at": "2026-05-22T09:00:13.112395"
+  "discount_pct": 50.0,
+  "input_hash": "45ba7828995e",
+  "scored_at": "2026-07-03T09:07:50.837615"
 }

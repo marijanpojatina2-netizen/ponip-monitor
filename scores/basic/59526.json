@@ -1,12 +1,16 @@
 {
   "id": "59526",
-  "score_overall": 6.4,
-  "score_lokacija": 5.5,
-  "score_roi": 8.0,
-  "score_stanje": 4.5,
-  "recommendation": "deep_dive",
-  "reasoning": "Livada od 740 m² u Velikoj Gorici s procijenjenom vrijednošću 626.000 EUR (~846 EUR/m²) gotovo sigurno predstavlja građevinsko zemljište u urbanoj zoni — katastarski naziv 'livada' česta je pojava za parcele koje su zapravo u građevinskom pojasu. 40% popust na drugoj dražbi uz blizinu Zagreba i ZAG-a čini ovaj predmet prioritetom za hitnu provjeru UPU-a i GUP-a Velike Gorice.",
-  "flags": [],
-  "input_hash": "0714e82ca21f",
-  "scored_at": "2026-06-30T09:30:49.480230"
+  "score_overall": 5.2,
+  "score_lokacija": 5.0,
+  "score_roi": 6.5,
+  "score_stanje": 2.5,
+  "recommendation": "watch",
+  "reasoning": "Velika Gorica je dobro prometno povezana periferija Zagreba, no radi se o maloj livadi od 740 m2 bez izgrađenih objekata što ograničava neposrednu iskoristivost. Popust od 40% na drugoj dražbi je solidan, ali investicijski potencijal ovisi o budućoj promjeni namjene zemljišta.",
+  "flags": [
+    "provjeriti: namjena zemljišta i mogućnost gradnje",
+    "provjeriti: komunalna infrastruktura na parceli"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "6e0a5401e1c4",
+  "scored_at": "2026-07-03T09:09:08.922929"
 }

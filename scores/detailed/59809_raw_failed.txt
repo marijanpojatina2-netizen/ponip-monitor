@@ -1,0 +1,36 @@
+```json
+{
+  "id": "59809",
+  "score_overall": 5.0,
+  "score_lokacija": 6.5,
+  "score_roi": 5.0,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Radi se o suvlasničkim udjelima (npr. 119/729, 20/709) na više odvojenih k.č. poljoprivrednog zemljišta (oranice) u k.o. Stenjevec Jug, zapadni Zagreb - urbano područje s dugoročnim razvojnim potencijalom, ali opis dražbe je odsječen pa nije vidljiv potpuni popis čestica niti ukupna kvadratura vlasničkog udjela. Fragmentirano suvlasništvo bitno smanjuje likvidnost i otvara pitanje prava prvokupa ostalih suvlasnika te potrebe razvrgnuća suvlasništva prije realizacije vrijednosti. Popust od 25% na prvoj dražbi u stečajnom postupku nije dovoljno agresivan s obzirom na pravnu složenost i nepoznatu građevinsku namjenu zemljišta. Web pretraga tržišnih usporedivih oglasa u ovoj sesiji nije bila dostupna (nedostatak dozvole za alat), pa je procjena tržišne vrijednosti temeljena na općem poznavanju cijena zemljišta u zapadnom Zagrebu i treba se dodatno verificirati."],
+  "flags": [
+    "provjeriti: potpuni popis čestica i ukupna kvadratura vlasničkog udjela (opis dražbe je odsječen/nepotpun)",
+    "provjeriti: namjena zemljišta prema važećem GUP-u grada Zagreba (poljoprivredno vs. građevinsko)",
+    "provjeriti: pravo prvokupa ostalih suvlasnika na pojedinim zk. ulošcima",
+    "provjeriti: postojanje tereta, hipoteka ili sudskih sporova vezanih uz stečajnu masu",
+    "provjeriti: mogućnost i uvjeti razvrgnuća suvlasništva s ostalim suvlasnicima"
+  ],
+  "market_estimate": {
+    "eur_min": 1200000,
+    "eur_max": 2000000,
+    "confidence": "low",
+    "basis": "Procjena temeljena na općem poznavanju cijena zemljišta u zapadnom Zagrebu (Stenjevec, blizina zapadne obilaznice i Jankomirskog čvora); poljoprivredno zemljište bez potvrđene građevinske namjene obično se kreće znatno niže od cijena građevinskog zemljišta. Live web pretraga usporedivih oglasa nije bila dostupna u ovoj sesiji (alat WebSearch nije odobren), pa je pouzdanost procjene niska i zahtijeva dodatnu verifikaciju kroz nekretnine.net/njuskalo.hr te uvid u GUP."
+  },
+  "comparables": [],
+  "investment_strategy": "Zemljišna banka / dugoročno okrupnjavanje suvlasništva - realno jedina održiva strategija s obzirom na fragmentirano suvlasništvo na više čestica poljoprivrednog zemljišta unutar granica grada Zagreba. Kratkoročni flip nije izvediv zbog nužnosti rješavanja suvlasničkih odnosa; investitor treba računati na višegodišnji horizont do eventualne prenamjene u građevinsko zemljište i/ili otkupa udjela ostalih suvlasnika.",
+  "entry_price_eur": 1300000,
+  "detailed_risks": [
+    "Suvlasništvo u malim i različitim frakcijama (119/729, 20/709...) na više odvojenih čestica - vrlo ograničena likvidnost bez razvrgnuća suvlasništva",
+    "Opis predmeta prodaje je odsječen/nepotpun - nije vidljiv puni popis nekretnina uključenih u prodaju (peta čestica i dalje nedostaju)",
+    "Zemljište vođeno kao 'oranica' (poljoprivredna namjena) - neizvjesna građevinska namjena prema GUP-u",
+    "Stečajna prodaja - potreban dodatan pravni due diligence tereta i eventualnih sporova stečajne mase",
+    "Mogućnost zakonskog prava prvokupa ostalih suvlasnika otežava stjecanje punog vlasništva nad pojedinim česticama"
+  ],
+  "upside_scenario": "Ako grad Zagreb u sljedećim izmjenama GUP-a prenamijeni dio zemljišta u zoni Stenjevec u građevinsko zemljište, i investitor uspije konsolidirati suvlasničke udjele (otkupom od ostalih suvlasnika), vrijednost po m2 mogla bi višestruko narasti u odnosu na sadašnju poljoprivrednu procjenu, u skladu s cijenama građevinskog zemljišta u zapadnom Zagrebu.",
+  "downside_scenario": "Ako zemljište ostane u poljoprivrednoj namjeni i ostali suvlasnici odbijaju suradnju ili blokiraju razvrgnuće suvlasništva, kapital ostaje dugoročno nelikvidan bez tekućeg prihoda, a nekretnina bi se na eventualnoj drugoj/trećoj dražbi mogla dobiti uz znatno veći popust."
+}
+```

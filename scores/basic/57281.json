@@ -1,17 +1,16 @@
 {
   "id": "57281",
-  "score_overall": 6.0,
+  "score_overall": 6.1,
   "score_lokacija": 5.5,
   "score_roi": 8.0,
-  "score_stanje": 4.5,
-  "recommendation": "deep_dive",
-  "reasoning": "Kompleks nekretnina uz Sesvete (Zagreb) s 50% popustom na drugoj dražbi iznimno je atraktivan za investitora s kapitalom – potencijal za preprodaju ili razvoj na lokaciji blizu Zagreba je realan. Stečajni postupak i velik broj čestica zahtijevaju duboku pravnu i fizičku due diligence, no ulazna cijena od ~1.29M EUR daje ogroman prostor za marže.",
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Fragmentirane poljoprivredne čestice i stara kuća u k.o. Lužan kraj Sesveta (periferija Zagreba) nose visok ROI potencijal zbog 50% popusta na drugoj dražbi, ali stanje i iskoristivost zemljišta su upitni. Dio parcela čini močvara što ograničava vrijednost.",
   "flags": [
-    "stečaj – kompleksnija pravna situacija",
-    "visoka jamčevina 257k EUR – ograničen krug kupaca",
-    "mješoviti portfelj parcela – teže izlazno tržište",
-    "nepoznato stanje kuće i gospodarskih zgrada"
+    "provjeriti: fragmentiranost čestica i pristup pojedinim parcelama",
+    "provjeriti: dio zemljišta je močvara - ograničena iskoristivost"
   ],
-  "input_hash": "969baa22ce4d",
-  "scored_at": "2026-04-30T08:18:34.303705"
+  "discount_pct": 50.0,
+  "input_hash": "573c99a115f6",
+  "scored_at": "2026-07-03T09:04:59.920552"
 }

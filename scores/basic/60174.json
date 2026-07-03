@@ -1,16 +1,15 @@
 {
   "id": "60174",
-  "score_overall": 5.5,
+  "score_overall": 5.9,
   "score_lokacija": 6.0,
   "score_roi": 5.5,
-  "score_stanje": 7.0,
+  "score_stanje": 6.5,
   "recommendation": "watch",
-  "reasoning": "Relativno nova brodica (2019., Mercury 150KS) s realnim charter potencijalom u istarskim vodama; ipak pokretnina s ubrzanom depresijacijom, regulatornim zahtjevima za charter i logističkim troškovima čini ROI neizvjesnim.",
+  "reasoning": "Gliser iz 2019. s jakim vanbrodskim motorom u dobrom je stanju s obzirom na relativnu novost, a 25% popust na prvoj dražbi je povoljan za ovakav tip plovila. Kao pokretnina s nišnijim tržištem preprodaje zahtijeva tehnički pregled prije donošenja odluke o licitaciji.",
   "flags": [
-    "pokretnina – nema kapitalne aprecijacije",
-    "charter regulativa (licenciranje, osiguranje, luka)",
-    "troškovi veza i sezonskog održavanja"
+    "provjeriti: tehničko stanje trupa i motora, servisna povijest broda"
   ],
-  "input_hash": "bc1ca59ed732",
-  "scored_at": "2026-05-12T08:37:57.458008"
+  "discount_pct": 25.0,
+  "input_hash": "7735826d141d",
+  "scored_at": "2026-07-03T08:59:41.726643"
 }

@@ -1,17 +1,16 @@
 {
   "id": "56794",
-  "score_overall": 4.5,
+  "score_overall": 4.8,
   "score_lokacija": 5.0,
   "score_roi": 4.5,
   "score_stanje": 5.0,
   "recommendation": "watch",
-  "reasoning": "Poslovni prostor u Rakitju (industrijsko/ruralno područje blizu Samobora) s popustom od samo 20% na prvoj dražbi — likvidnost je ograničena jer se radi o 1/2 suvlasništva poslovne nekretnine što otežava upravljanje i prodaju. Industrijska namjena i lokacija izvan turističkih zona sužavaju kupovni bazen, ali Samobor/Zagreb blizina daje minimalnu likvidnost.",
+  "reasoning": "Rakitje je pristojna periferna lokacija blizu Zagreba, ali prodaje se samo 1/2 suvlasničkog dijela što bitno smanjuje likvidnost i ROI potencijal. Popust od 20% na prvoj dražbi nije dovoljan poticaj s obzirom na kompliciranu vlasničku strukturu.",
   "flags": [
-    "suvlasnički udio 1/2 — otežana samostalna raspolaganje",
-    "poslovna/industrijska namjena — ograničen investitorski interes",
-    "prva dražba — nema cjenovnog pritiska prema dolje",
-    "neodređena stvarna situacija na terenu"
+    "prodaje se samo 1/2 suvlasničkog dijela nekretnine",
+    "provjeriti: odnos sa suvlasnikom preostale 1/2"
   ],
-  "input_hash": "e5c386692d0f",
-  "scored_at": "2026-06-02T10:18:59.142320"
+  "discount_pct": 20.0,
+  "input_hash": "fbb3058de742",
+  "scored_at": "2026-07-03T09:13:54.062776"
 }

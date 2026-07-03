@@ -1,16 +1,15 @@
 {
   "id": "60248",
-  "score_overall": 3.0,
+  "score_overall": 3.9,
   "score_lokacija": 3.5,
-  "score_roi": 4.0,
-  "score_stanje": 2.5,
-  "recommendation": "pass",
-  "reasoning": "Sveti Križ Začretje je ruralno-suburbano područje niske likvidnosti, a opis je potpuno prazan – nepoznata vrsta objekta, površina i stanje čine realnu procjenu nemogućom; 25% popust ne opravdava informacijsku prazninu.",
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Sveti Križ Začretje je manje mjesto u Krapinsko-zagorskoj županiji, a opis stečajne nekretnine iznimno je oskudan bez naznake vrste i namjene objekta. Vrijednost od 635.700 EUR ukazuje na potencijalno značajan asset pa je vrijedno pratiti do dobivanja dodatne dokumentacije prije donošenja odluke.",
   "flags": [
-    "nema opisa objekta – nepoznata vrsta, površina, stanje",
-    "ruralna lokacija s niskom tržišnom potražnjom",
-    "stečajni predmet bez dokumentacijske transparentnosti"
+    "provjeriti: vrsta, namjena i stanje nekretnine (opis nepotpun, ne navodi tip objekta)"
   ],
-  "input_hash": "319c52836e12",
-  "scored_at": "2026-05-12T08:37:57.457703"
+  "discount_pct": 25.0,
+  "input_hash": "6f84b1954b0b",
+  "scored_at": "2026-07-03T08:59:41.726112"
 }

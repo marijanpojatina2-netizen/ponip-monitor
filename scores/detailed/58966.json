@@ -1,62 +1,37 @@
 {
   "id": "58966",
-  "score_overall": 4.0,
-  "score_lokacija": 3.0,
-  "score_roi": 6.0,
-  "score_stanje": 3.5,
+  "score_overall": 5.1,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.5,
   "recommendation": "watch",
-  "reasoning": "Industrijski kompleks (skladišta + pogon drvne ambalaže + manipulativni prostor) u k.o. Buković – Ravni Kotari, dalmatinsko zaleđe, ~25-30 km od Zadra bez izlaza na more. 50% popust na drugoj dražbi je atraktivan, ali radi se o specijaliziranoj industrijskoj imovini u depopulacijskom zaleđu s uskim tržištem kupaca. Ukupna izgrađena površina ~3.883 m² + ~9.000+ m² dvorišta/terre čini kompleks logistički interesantnim isključivo uz A1 pristup, ali exit strategija ostaje problematična. Stečajni kontekst povlači nepoznanice glede stanja objekta i eventualnih ekoloških opterećenja.",
+  "reasoning": "Riječ je o velikom industrijskom kompleksu (više skladišta, manipulativni prostor, pogon drvne ambalaže) u k.o. Buković kraj Benkovca, dakle u ruralnom, depopulacijskom zaleđu Zadarske županije, a ne na atraktivnoj obali. Nominalni popust od 50% na drugoj dražbi je vrlo velik, ali likvidnost tržišta za industrijske nekretnine te veličine i lokacije je slaba, pa je stvarni ROI neizvjestan i ovisi o pronalasku niche kupca (logistika, proizvodnja, poljoprivredna prerada). Stanje objekata nije jasno opisano pa se ne može potvrditi useljivost/funkcionalnost bez terenskog pregleda. Stečajna prodaja i veliki broj katastarskih čestica nose dodatni pravni i due-diligence rizik.",
   "flags": [
-    "Stečajni postupak – razlog prodaje nepoznat, moguće skrivene obveze",
-    "Pogon drvne ambalaže – potencijalna ekološka opterećenja (otpad, kemikalije, insekticidi za ambalažu)",
-    "Industrijska namjena – reprogramiranje u drugu namjenu zahtijeva skupu izmjenu GUP/DPU",
-    "Ruralno/hinterland – k.o. Buković nije turistička ni urbana lokacija, tržišna likvidnost vrlo niska",
-    "Opis je skraćen ('uprav...') – vjerojatno postoje dodatne čestice ili prava koja nisu navedena u sažetku",
-    "Razgledavanje 'uz prethodni dogovor' – otežan pristup, moguća aktivna industrijaska aktivnost ili zakup",
-    "Visoka jamčevina 220.434 EUR – visoka kapitalna barijera za ulaz"
+    "provjeriti: stanje i funkcionalnost industrijskih objekata (skladišta, pogon drvne ambalaže) prije kupnje",
+    "provjeriti: postoji li zakup/najam ili treće osobe u posjedu bilo koje od čestica",
+    "provjeriti: okolišna opterećenja tla s obzirom na dugogodišnju drvnu/industrijsku djelatnost",
+    "provjeriti: cjelovitost i stanje zemljišnoknjižnog uloška za sve navedene čestice (upisi tereta, služnosti)",
+    "provjeriti: dostupnost komunalne infrastrukture i pristupnih putova za sve parcele"
   ],
   "market_estimate": {
-    "eur_min": 600000,
-    "eur_max": 1100000,
+    "eur_min": 900000,
+    "eur_max": 1500000,
     "confidence": "low",
-    "basis": "Industrijska imovina u dalmatinskom zaleđu (Ravni Kotari/Benkovac area) postiže 150-350 EUR/m² izgrađene površine. Na ~3.883 m² izgrađenog to daje 582k-1.36M EUR; korekcija prema dolje zbog lokacije i specijalizirane namjene. Web pretraga nije bila dostupna – brojke su procjena bez aktualnih komparabila."
+    "basis": "Procjena temeljena na općem poznavanju tržišta industrijskih/skladišnih nekretnina u ruralnom zaleđu Zadarske županije (Benkovac i okolica), gdje su cijene znatno niže nego na obali zbog slabe potražnje i depopulacije; live pretraga oglasnika (nekretnine.net, njuskalo.hr) nije bila dostupna u ovoj sesiji zbog nedostatka pristupa web pretrazi, stoga je pouzdanost procjene niska."
   },
-  "comparables": [
-    {
-      "opis": "Industrijska hala + skladište, okolica Zadra (Galovac/Smokovič zona)",
-      "cijena": 850000,
-      "m2": 2800,
-      "izvor": "njuskalo.hr (procjena bez potvrde)",
-      "url": "https://www.njuskalo.hr/poslovni-prostori-prodaja/zadar"
-    },
-    {
-      "opis": "Proizvodni pogon s dvorištem, Benkovac-Knin koridor",
-      "cijena": 400000,
-      "m2": 2000,
-      "izvor": "nekretnine.net (procjena bez potvrde)",
-      "url": "https://www.nekretnine.net/pretraga/?tip=poslovni&lokacija=benkovac"
-    },
-    {
-      "opis": "Staro industrijsko postrojenje, Zadar županija zaleđe – FINA dražba",
-      "cijena": 520000,
-      "m2": null,
-      "izvor": "fina.hr e-dražbe (slični predmeti iz 2024-2025)",
-      "url": "https://edrazbe.fina.hr"
-    }
-  ],
-  "investment_strategy": "LOGISTIČKI/INDUSTRIJSKI ZAKUP ili PREPRODAJA strateškom kupcu – jedine realne opcije. (1) Kratkoročno: iznajmiti skladišne kapacitete lokalnim ili regionalnim logističarima/agrobiznisu (blizina A1 autoceste može biti argument). (2) Srednoročno: preprodaja industrijskom operateru koji treba gotov kompleks u Dalmaciji. (3) Razvoj nije realan bez izmjene prostorno-planske dokumentacije. Reno-flip nema smisla za industrijsku namjenu. Najlošija opcija je čekati rezoning – previše nesigurno u zaleđu.",
-  "entry_price_eur": 750000,
+  "comparables": [],
+  "investment_strategy": "Razvoj/preprodaja industrijskom ili poljoprivrednom investitoru koji traži veliki kompleks skladišnog i proizvodnog prostora po nižoj cijeni po m² nego na obali; iznajmljivanje pojedinih hala lokalnim poduzetnicima kao alternativna strategija ako se ne pronađe kupac za cijeli kompleks odjednom.",
+  "entry_price_eur": 900000,
   "detailed_risks": [
-    "Ekološki rizik: pogon drvne ambalaže može imati zagađenje tla (pesticidi, lužine, otapala) – due diligence ekološke studije obavezan",
-    "Pravni rizik: skraćeni opis ('uprav...') sugerira potencijalno kompleksnu strukturu prava – moguća služnosti, hipoteke, stanarska prava",
-    "Likvidnost: industrijska imovina u Bukoviću ima vrlo uzak bazen kupaca, exit može trajati 5+ godina",
-    "Tržišna vrijednost upitna: utvrđena vrijednost od 2.2M EUR na industrijskom objektu u hinterlandu zvuči precijenjeno – sudski vještaci katkad uzimaju knjigovodstvenu vrijednost",
-    "Infrastruktura: stariji industrijski objekti u zaleđu često imaju zastarjele instalacije (struja, voda, kanalizacija) – skupo za obnovu",
-    "Depopulacija: Ravni Kotari/Benkovac zona kontinuirano gubi stanovništvo i privrednu aktivnost",
-    "Visok kapital na ulasku: 220K EUR jamčevina + potencijalni troškovi renovacije/sanacije"
+    "Nizak stupanj likvidnosti - malo potencijalnih kupaca za industrijski kompleks te veličine u ruralnoj, depopulacijskoj zoni",
+    "Nepoznato stanje objekata (dob, održavanje, potreba za sanacijom krovišta/instalacija)",
+    "Fragmentirano vlasništvo na više katastarskih čestica otežava brzu i jednostavnu prodaju u dijelovima",
+    "Stečajni postupak - moguća dodatna kašnjenja i komplikacije oko primopredaje",
+    "Moguća potreba za dodatnim ulaganjem u infrastrukturu (struja, voda, pristupne ceste) za punu funkcionalnost"
   ],
-  "upside_scenario": "Logistička tvrtka ili agroprehrambeni operater (maslinovo ulje, vino, sušeno voće – sve raste u Dalmaciji) kupuje kompleks za vlastite potrebe ili zakup. Uz blizinu A1 i gotove ~3.900 m² natkrivenosti + 9.000 m² dvorišta, aktivni zakup od 8-12 EUR/m²/mj donosi ~375-560K EUR godišnje prihoda. ROI na ulaznu cijenu od 750K EUR iznosi 50-75% bruto kroz 2-3 godine, preprodaja industrijskom kupcu za 1.1-1.4M EUR.",
-  "downside_scenario": "Ekološka sanacija (ako postoji zagađenje) može koštati 200-500K EUR i zaustaviti svaku transakciju. Bez zakupnika kompleks propada (sigurnosni troškovi, komunalije, porez na nekretnine). Tržišna vrijednost u recesiji ili daljnjoj depopulaciji zaleđa pada ispod 500K EUR, a imovina postaje neizdiva. Kapital od 220K+ EUR je zamrznut bez prihoda.",
-  "input_hash": "4e296e434b02",
-  "scored_at": "2026-05-22T09:18:33.828001"
+  "upside_scenario": "Ako se pronađe industrijski/logistički investitor ili prerađivač poljoprivrednih proizvoda kojem odgovara veličina i lokacija (blizina Zadra i autoceste A1), moguće je iznajmljivanje ili preprodaja kompleksa uz značajnu maržu zbog niske ulazne cijene (50% popusta), s povratom investicije u roku 3-5 godina kroz najam skladišnih kapaciteta.",
+  "downside_scenario": "Ako se ne pronađe kupac/najmoprimac zbog slabe lokacije i specifične namjene objekata, nekretnina ostaje neaktivna imovina s troškovima održavanja i poreza, a treća dražba s dodatnim popustom postaje jedina realna prilika za izlazak uz gubitak dijela uloženog kapitala.",
+  "discount_pct": 50.0,
+  "input_hash": "419276fa56ae",
+  "scored_at": "2026-07-03T09:33:56.632833"
 }

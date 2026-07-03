@@ -1,57 +1,37 @@
 {
   "id": "59416",
-  "score_overall": 5.5,
-  "score_lokacija": 4.0,
-  "score_roi": 7.0,
+  "score_overall": 5.2,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
   "score_stanje": 5.0,
   "recommendation": "watch",
-  "reasoning": "Poslovno-proizvodna hala u Novskoj (9.492 m² ukupno: 3.268 m² hala + 6.224 m² dvorište) ima nominalnih 50% popusta od utvrđene vrijednosti, ali procijenjenih 2,1 mil. EUR za industrijsku lokaciju u Novskoj izgleda prema troškovnom pristupu, ne prema tržišnoj vrijednosti — realan tržišni raspon za industrijski kompleks ove veličine u Sisačko-moslavačkoj županiji je 650K–1,1 mil. EUR, što znači da je početna cijena od 1,05 mil. EUR na samoj gornjoj granici. Novska ima prednost položaja direktno uz autocestu A3 (koridor X), što je strateška prednost za logistiku i distribuciju, ali tržište je tanko i exit investicije otežan. Preporučuje se ulazak ispod 900K EUR ili čekanje na treću dražbu.",
+  "reasoning": "Industrijski kompleks (proizvodno-poslovna hala 3268 m2 + gospodarsko dvorište 6224 m2) u Novskoj, depopulacijskom području Sisačko-moslavačke županije s ograničenom likvidnošću tržišta nekretnina. Nominalni popust od 50% na drugu dražbu izgleda atraktivno, ali sudske procjene vrijednosti u stečajnim postupcima često su naduvane pa stvarni diskont prema realnoj tržišnoj vrijednosti može biti manji. Stanje objekta nije opisano (nepoznata dob, oprema, potres 2020. u regiji), a nedostatak podataka o mogućim teretima/zakupu zahtijeva due diligence prije licitacije. Potencijal postoji za specifičnog industrijskog kupca (blizina autoceste A3 i željeznice), ali ne za generičkog flip investitora.",
   "flags": [
-    "ograničena likvidnost tržišta — Novska je malo industrijsko tržište s uskim krugom kupaca",
-    "mogući appraisal inflacija — utvrđena vrijednost 2,1 mil. EUR temelji se vjerojatno na troškovnom pristupu, ne usporedivoj prodaji",
-    "stečajna imovina — moguće nevidljive hipoteke, ekološke obveze ili tereti nad imovinom"
+    "provjeriti: stvarno stanje objekta i opreme (dob, potreba sanacije, eventualna oštećenja od potresa 2020. u regiji)",
+    "provjeriti: postoji li zakup/najam ili treće strane s pravom korištenja hale",
+    "provjeriti: tereti i upisana prava trećih na zemljištu (z.k.ul.br. 3815 k.o. Novska)",
+    "provjeriti: realna tržišna vrijednost naspram sudske procjene (2.1M EUR može biti precijenjeno za stečajnu industrijsku imovinu u ovoj mikrolokaciji)",
+    "provjeriti: komunalna infrastruktura, priključci (struja, voda, plin) i njihova funkcionalnost"
   ],
   "market_estimate": {
-    "eur_min": 650000,
+    "eur_min": 700000,
     "eur_max": 1100000,
     "confidence": "low",
-    "basis": "Web pretraga bila nedostupna; procjena temeljena na regionalnim industrijskim cijenama u Sisačko-moslavačkoj županiji (100–200 EUR/m² ukupnog kompleksa, tj. 949K–1,9M EUR za 9.492 m²) korigiranom za limitiranu potražnju u Novskoj; hala 3.268 m² po 200–250 EUR/m² = 654K–817K EUR + dvorište; utvrđena vrijednost od 2,1 mil. EUR izgleda visoka za ovu lokaciju"
+    "basis": "Web pretraga tržišta nije bila dostupna u ovoj sesiji (nema pristupa alatu), pa je procjena temeljena na općem poznavanju tržišta industrijskih nekretnina u manjim gradovima kontinentalne Hrvatske (okvirno 150-250 EUR/m2 za funkcionalnu proizvodnu halu + industrijsko zemljište ~15-25 EUR/m2). Preporuka: prije ulaska obavezno pribaviti stvarne usporedive transakcije za Sisačko-moslavačku županiju."
   },
-  "comparables": [
-    {
-      "opis": "Industrijska hala ~3.000 m², Kutina — usporedivo tržište, 10 km od Novske; procijenjene transakcije u rasponu 150–250 EUR/m²",
-      "cijena": 600000,
-      "m2": 3000,
-      "izvor": "tržišna procjena bez web potvrde",
-      "url": "https://www.njuskalo.hr/poslovni-prostori/kutina"
-    },
-    {
-      "opis": "Stečajna hala Sisak — usporediva lokacija, Sisačko-moslavačka županija, prodane hale u rasponu 80–150 EUR/m² ukupne površine",
-      "cijena": 500000,
-      "m2": 5000,
-      "izvor": "tržišna procjena bez web potvrde",
-      "url": "https://www.nekretnine.net/poslovni-prostor/sisacko-moslavacka-zupanija/"
-    },
-    {
-      "opis": "Logistički centar uz A3 koridor (Slavonija) — hale uz autocestu postižu premiju 20–30% naspram bez direktnog pristupa",
-      "cijena": null,
-      "m2": null,
-      "izvor": "tržišna procjena bez web potvrde",
-      "url": "https://www.cbre.hr/hr-hr/research/croatia-market-reports"
-    }
-  ],
-  "investment_strategy": "Strateška operativna kupnja ili zakup: Nekretnina je najprikladnija za operativnog kupca (logistika, distribucija, laka proizvodnja) koji treba pristup autocesti A3 — Zagreb je 80 km, Slavonski Brod 60 km. Za finansijskog investitora ključni izazov je pronalazak zakupnika; hala od 3.268 m² zakupom po 3–5 EUR/m²/mj generira 9.800–16.300 EUR/mj (118K–196K EUR godišnje), što pri ulaznoj cijeni 900K EUR daje bruto prinos 13–22%. Alternativa je reno-flip konverzija dijela prostora u skladišne jedinice manjeg formata za najam (co-warehousing). Financijska investicija bez prethodno osiguranog zakupnika nije preporučljiva.",
+  "comparables": [],
+  "investment_strategy": "Namjenska kupnja za industrijskog/proizvodnog korisnika (logistika, proizvodnja) zbog blizine autoceste A3 i željezničke pruge Zagreb-Vinkovci — ne preporučuje se kao klasični reno-flip ili stambeni projekt zbog lokacije i namjene objekta.",
   "entry_price_eur": 900000,
   "detailed_risks": [
-    "Tržišna likvidnost — exit iz investicije u Novskoj može trajati 2–5 godina; kupci za industrijski prostor ove veličine su rijetki",
-    "Appraisal rizik — nominalni popust od 50% možda ne odražava stvarni tržišni popust; stvarna tržišna vrijednost mogla biti znatno ispod 2,1 mil. EUR",
-    "Vacancy rizik — pronalazak industrijskog zakupnika za 3.268 m² u malom gradu; period praznog hoda 6–24 mj realan",
-    "Stanje hale nepoznato — opis ne navodi godinu izgradnje, stanje krova i instalacija, eventualne ekološke terete (zagađenost tla tipična za industrijske lokacije u stečaju)",
-    "Demografski trend — Sisačko-moslavačka županija ima jedan od najvećih padova stanovništva u RH, što dugoročno smanjuje potražnju",
-    "Pravni status u stečaju — preporučuje se detaljna pravna due diligence kod stečajnog upravitelja radi utvrđivanja eventualnih tereta"
+    "Slaba likvidnost tržišta industrijskih nekretnina u depopulacijskom području",
+    "Nepoznato stanje krovišta, instalacija i konstrukcije proizvodne hale",
+    "Mogući dodatni troškovi sanacije nakon potresa 2020. (regija Sisačko-moslavačke županije)",
+    "Sudska procjena vrijednosti u stečaju može biti znatno iznad realne tržišne cijene",
+    "Ograničen krug potencijalnih kupaca (nišna industrijska namjena) otežava brzu preprodaju"
   ],
-  "upside_scenario": "Logistička ili distribucijska tvrtka uočava stratešku vrijednost položaja na A3 koridoru i zakupljuje halu po 4+ EUR/m²/mj — godišnji prihod 157K+ EUR. Uz ulaznu cijenu od 900K EUR to je ~17% bruto prinos; za 3 godine neto prinos po reinvestitiranju u renovaciju moguće 12–14%. Alternativno: industrijska zona Novske privlači stranog investitora (EU fondovi, greenfield), čime raste potražnja i vrijednost nekretnina u zoni.",
-  "downside_scenario": "Hala ostaje prazna 12–18+ mj bez pronađenog zakupnika. Troškovi održavanja, komunalni tereti i osiguranje teku bez prihoda. Prisilna re-prodaja ispod 700K EUR uz gubitak od 200K+ EUR na početnoj cijeni. Demografski i gospodarski pad regije dalje erodira vrijednost.",
-  "input_hash": "23b5be7e5932",
-  "scored_at": "2026-06-16T11:14:31.495866"
+  "upside_scenario": "Industrijski investitor ili logistička tvrtka kupuje po početnoj cijeni (1.05M EUR) radi blizine autoceste i željeznice, brzo pokreće proizvodnju/skladištenje uz umjerena ulaganja u sanaciju, ostvarujući stabilan prinos kroz zakup ili vlastito poslovanje u roku 1-2 godine.",
+  "downside_scenario": "Nema zainteresiranih kupaca na drugoj dražbi zbog niše namjene i lokacije, cijena dalje pada na trećoj/četvrtoj dražbi, a objekt ostaje dugoročno nezakupljen uz rastuće troškove održavanja i propadanja konstrukcije.",
+  "discount_pct": 50.0,
+  "input_hash": "a5cc11ba7207",
+  "scored_at": "2026-07-03T09:35:12.656120"
 }

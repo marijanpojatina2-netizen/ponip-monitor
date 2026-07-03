@@ -1,16 +1,16 @@
 {
   "id": "60335",
-  "score_overall": 5.5,
-  "score_lokacija": 7.0,
-  "score_roi": 5.0,
-  "score_stanje": 5.0,
+  "score_overall": 5.8,
+  "score_lokacija": 7.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.5,
   "recommendation": "watch",
-  "reasoning": "Poslovni prostor 122.95 m2 u Vukovarskoj ulici Zagreb ima dobru lokacijsku osnovu, ali 20% popust na prvoj dražbi daje ograničen ROI margin, a potkrovlje s kompleksnom suvlasničkom strukturom smanjuje atraktivnost i likvidnost. Yield od najma procjenjuje se na 3-4.5% što je ispod praga za agresivnu ponudu.",
+  "reasoning": "Ulica grada Vukovara u Trnju je solidna zagrebačka lokacija, no popust od svega 20% na prvoj dražbi ne ostavlja veliki ROI prostor za ulazak. Poslovni prostor u potkrovlju s malim suvlasničkim udjelom zahtijeva provjeru stanja i stvarne iskoristivosti prije odluke o licitaciji.",
   "flags": [
-    "suvlasnički udio 1126/100000 - kompleksna vlasnička struktura",
-    "potkrovlje poslovnog prostora - manji interes tržišta",
-    "visoka jamčevina 58.000 EUR ulazna barijera"
+    "provjeriti: stanje potkrovlja (izolacija, krovište)",
+    "provjeriti: zakup/korištenje poslovnog prostora"
   ],
-  "input_hash": "8ac522eeec47",
-  "scored_at": "2026-05-20T09:29:23.460945"
+  "discount_pct": 20.0,
+  "input_hash": "cfaa51c2d1ea",
+  "scored_at": "2026-07-03T09:09:08.923701"
 }

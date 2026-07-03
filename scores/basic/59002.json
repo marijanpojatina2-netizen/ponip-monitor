@@ -1,17 +1,16 @@
 {
   "id": "59002",
-  "score_overall": 6.5,
+  "score_overall": 6.3,
   "score_lokacija": 5.5,
-  "score_roi": 8.5,
+  "score_roi": 7.5,
   "score_stanje": 5.0,
-  "recommendation": "deep_dive",
-  "reasoning": "Najveći lot varaždinskog stečajnog paketa s 8075m² parcele i ukupno ~2975m² industrijskih zgrada na Zagrebačkoj ulici uz 50% popust - privlačan za logistiku, laki industrijski zakup ili redevelopment u industrijskom centru regije. Varaždin ima solidnu poslovnu klimu i A4 pristup, ali likvidnost industrijskog tržišta je umjerena pa izlazna strategija mora biti definirana unaprijed.",
+  "recommendation": "bid",
+  "reasoning": "Varaždin je solidan regionalni centar, a industrijski kompleks na Zagrebačkoj ulici s 50% popustom na drugoj dražbi nudi realan ROI potencijal za investitora orijentiranog na poslovne/proizvodne namjene. Veličina i broj zgrada (13 objekata) zahtijevaju provjeru tehničkog stanja prije ulaska.",
   "flags": [
-    "stečajna imovina - provjera svih tereta i hipoteka u ZK",
-    "industrijska namjena - provjera UPU prostorne zone",
-    "stanje zgrada nepoznato - potreban fizički obilazak",
-    "potencijalne ekološke obveze (industrijska upotreba)"
+    "provjeriti: tehničko stanje industrijskih zgrada",
+    "provjeriti: zakup/korištenje od trećih strana"
   ],
-  "input_hash": "7e9032b76216",
-  "scored_at": "2026-05-22T09:02:16.009245"
+  "discount_pct": 50.0,
+  "input_hash": "726917e122de",
+  "scored_at": "2026-07-03T09:09:08.922263"
 }

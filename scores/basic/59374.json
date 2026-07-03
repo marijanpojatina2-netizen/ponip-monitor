@@ -1,12 +1,16 @@
 {
   "id": "59374",
-  "score_overall": 7.4,
-  "score_lokacija": 7.0,
-  "score_roi": 8.5,
-  "score_stanje": 5.5,
-  "recommendation": "deep_dive",
-  "reasoning": "Industrijska zgrada 1753 m2 u k.o. Šarampov (Zagreb okolica) na 50% popusta — iznimna investicijska prilika u likvidnoj regiji. Potrebna due diligence provjera tereta i mogućnosti prenamjene.",
-  "flags": [],
-  "input_hash": "b950337998b5",
-  "scored_at": "2026-06-15T11:58:47.913709"
+  "score_overall": 5.8,
+  "score_lokacija": 4.0,
+  "score_roi": 7.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Industrijska zgrada i dvorište u Šarampovu uz 50% popust na drugoj dražbi izgledaju atraktivno cijenom, ali lokacija je ruralna i slabije povezana s većim tržištima. Nedostatak detalja o stanju objekta povećava rizik.",
+  "flags": [
+    "provjeriti: stanje i namjena industrijske zgrade",
+    "provjeriti: pristupnost i infrastrukturu lokacije Šarampov"
+  ],
+  "discount_pct": 50.0,
+  "input_hash": "1ccf3f2ded80",
+  "scored_at": "2026-07-03T09:07:50.837463"
 }

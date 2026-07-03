@@ -1,16 +1,15 @@
 {
   "id": "58387",
-  "score_overall": 6.5,
-  "score_lokacija": 8.0,
+  "score_overall": 7.3,
+  "score_lokacija": 8.5,
   "score_roi": 7.5,
-  "score_stanje": 4.5,
+  "score_stanje": 5.0,
   "recommendation": "deep_dive",
-  "reasoning": "Nova Ves u neposrednoj blizini Kaptola i Gornjeg Grada je premium lokacija s 40% popustom na drugoj dražbi, a omjer male kuće (61m²) i velikog dvorišta (268m²) otvara razvojni potencijal rekonstrukcije ili dogradnje. Nužna je detaljna provjera konzervatorskih ograničenja, građevinskih prava i tereta u ZK prije bilo kakvog koraka.",
+  "reasoning": "Kuća s dvorištem u Novoj Vesi u samom centru Zagreba uz 40% popust na drugoj dražbi je snažna investicijska prilika s visokom likvidnošću tržišta. Stanje objekta nije opisano pa je prije licitacije nužan uvid na terenu jer se radi o starijoj gradskoj kući.",
   "flags": [
-    "mala stambena površina 61m² uz 268m² dvorišta - neobičan omjer",
-    "blizina zaštićene povijesne jezgre - moguća konzervatorska ograničenja",
-    "pomoćne zgrade 19+9m² - nejasna namjena i stanje"
+    "provjeriti: stanje i useljivost kuće i pomoćnih zgrada"
   ],
-  "input_hash": "9fb446404bf4",
-  "scored_at": "2026-04-24T08:01:43.965278"
+  "discount_pct": 40.0,
+  "input_hash": "d5cae14e60a5",
+  "scored_at": "2026-07-03T09:10:40.869718"
 }

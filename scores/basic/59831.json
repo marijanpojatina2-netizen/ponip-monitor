@@ -1,17 +1,15 @@
 {
   "id": "59831",
-  "score_overall": 4.0,
-  "score_lokacija": 5.0,
-  "score_roi": 3.5,
-  "score_stanje": 3.0,
-  "recommendation": "pass",
-  "reasoning": "Oranica u perifernom dijelu Zagreba (I. Kozari put) po cijeni ~204 EUR/m2, što je visoko za neizgrađeno agrarno zemljište; samo 25% popusta na prvoj dražbi ne kompenzira rizik prenamjene i neizvjesnost razvoja.",
+  "score_overall": 5.0,
+  "score_lokacija": 6.0,
+  "score_roi": 5.5,
+  "score_stanje": 2.0,
+  "recommendation": "watch",
+  "reasoning": "Oranica unutar granica grada Zagreba (k.o. Grad Zagreb) ima dugoročni potencijal ako se pokaže građevinskom, no radi se o čistom zemljištu bez objekta i tek 25% popusta na prvoj dražbi. Vrijednost ključno ovisi o prostorno-planskoj namjeni koju treba provjeriti.",
   "flags": [
-    "oranica — potrebna prenamjena za gradnju",
-    "prva dražba, samo 25% popusta",
-    "visoka jedinična cijena za tip nekretnine",
-    "nema izgrađenog objekta"
+    "provjeriti: namjena zemljišta prema prostornom planu (građevinsko vs. poljoprivredno)"
   ],
-  "input_hash": "7af447b400b3",
-  "scored_at": "2026-04-21T07:48:22.606026"
+  "discount_pct": 25.0,
+  "input_hash": "31ca153db942",
+  "scored_at": "2026-07-03T09:11:49.096299"
 }

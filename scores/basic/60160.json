@@ -1,16 +1,15 @@
 {
   "id": "60160",
-  "score_overall": 3.0,
-  "score_lokacija": 3.0,
-  "score_roi": 3.0,
-  "score_stanje": 4.0,
+  "score_overall": 4.4,
+  "score_lokacija": 4.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
   "recommendation": "pass",
-  "reasoning": "Oranica u ruralnom Međimurju s nominalnom vrijednošću ispod 1.800 EUR i 20% popustom na prvoj dražbi - apsolutni iznosi su premali za ozbiljan investicijski angažman uz suvlasnički rizik.",
+  "reasoning": "Oranica u Selnici kraj Čakovca (Međimurje) na prvoj dražbi s tek 20% popusta i suvlasničkim 1/2 udjelom - kombinacija niskog popusta i suvlasništva daje slab ROI. Nema dovoljno prostora za profit dok se ne pojavi veći popust na sljedećim dražbama.",
   "flags": [
-    "suvlasnički udio 1/2",
-    "minimalna tržišna vrijednost",
-    "niska likvidnost"
+    "provjeriti: suvlasnički odnosi (1/2 dio) i interes drugog suvlasnika za otkup"
   ],
-  "input_hash": "ccd521f4061e",
-  "scored_at": "2026-05-08T07:30:03.797290"
+  "discount_pct": 20.0,
+  "input_hash": "3eda976cc864",
+  "scored_at": "2026-07-03T09:02:03.173169"
 }

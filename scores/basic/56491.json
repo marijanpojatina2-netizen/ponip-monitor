@@ -1,16 +1,16 @@
 {
   "id": "56491",
-  "score_overall": 5.0,
-  "score_lokacija": 5.0,
-  "score_roi": 4.5,
+  "score_overall": 5.8,
+  "score_lokacija": 5.5,
+  "score_roi": 6.5,
   "score_stanje": 5.0,
-  "recommendation": "watch",
-  "reasoning": "Zagreb adresa je pozitiv, ali Jakuševec/Hrelićka zavrtnica je marginalna zona blizu odlagališta otpada Jakuševac što značajno deprimira vrijednost i tržišnu likvidnost; 20% popust na prvoj dražbi nedovoljan je za taj mikrolokacijski rizik.",
+  "recommendation": "bid",
+  "reasoning": "Kuća s dvorištem u Zagrebu (k.o. Jakuševec) ima solidan ROI potencijal zahvaljujući snažnoj likvidnosti zagrebačkog tržišta i 20% popustu na prvoj dražbi, iako je mikrolokacija blizu bivšeg odlagališta otpada nešto manje atraktivna. Standardna zagrebačka kuća bez posebnih navoda o stanju čini ovo realnim kandidatom za licitaciju.",
   "flags": [
-    "blizina odlagališta otpada Jakuševac",
-    "industrijska/marginalna zona unutar Zagreba",
-    "nedovoljan opis stanja objekta"
+    "provjeriti: useljenost kuće",
+    "blizina zone bivšeg odlagališta Jakuševec (utjecaj na vrijednost)"
   ],
-  "input_hash": "e3827083c602",
-  "scored_at": "2026-05-12T08:37:57.457826"
+  "discount_pct": 20.0,
+  "input_hash": "5ac9b0623190",
+  "scored_at": "2026-07-03T08:59:41.726432"
 }

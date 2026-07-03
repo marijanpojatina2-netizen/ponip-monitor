@@ -1,16 +1,16 @@
 {
   "id": "59953",
-  "score_overall": 6.0,
+  "score_overall": 6.5,
   "score_lokacija": 8.5,
-  "score_roi": 5.0,
-  "score_stanje": 5.0,
-  "recommendation": "watch",
-  "reasoning": "Ilica 15 je jedna od najtraženijih komercijalnih adresa u Zagrebu s odličnim najamnim potencijalom, no prva dražba s tek 20% popustom ne nudi dovoljnu sigurnosnu marginu za ulaz. Pratiti do druge dražbe gdje bi popust od 40% opravdao visoku jamčevinu od 142.000 EUR.",
+  "score_roi": 5.5,
+  "score_stanje": 5.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Poslovni prostor na Ilici 15 u samom centru Zagreba je izuzetno rijetka i vrijedna lokacija s visokim potencijalom najma/preprodaje unatoč umjerenom popustu od 20% na prvoj dražbi. Neodređeni suvlasnički omjer etažnog vlasništva zahtijeva pravnu provjeru, ali prestižna lokacija opravdava detaljniju analizu.",
   "flags": [
-    "prva dražba - anticipirati viši popust u kasnijim rundama",
-    "visoka jamčevina 142.000 EUR - kapitalni zahtjev",
-    "etažno vlasništvo E-7 bez precizne m² definicije u opisu"
+    "provjeriti: neodređeni suvlasnički omjer etažnog vlasništva i stvarna mogućnost korištenja prostora",
+    "provjeriti: postojeći zakupci/najmoprimci u zgradi"
   ],
-  "input_hash": "c63d81d74795",
-  "scored_at": "2026-04-24T08:01:43.965024"
+  "discount_pct": 20.0,
+  "input_hash": "950b762e1d69",
+  "scored_at": "2026-07-03T09:06:33.428519"
 }

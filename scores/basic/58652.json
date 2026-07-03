@@ -1,16 +1,15 @@
 {
   "id": "58652",
-  "score_overall": 3.0,
-  "score_lokacija": 3.5,
-  "score_roi": 3.0,
-  "score_stanje": 3.0,
-  "recommendation": "pass",
-  "reasoning": "Suvlasnički udio 1/3 livade u ruralnom prigradskom pojasu Zaprešića nema realnog investicijskog potencijala — bez suglasnosti ostalih suvlasnika ne možeš ni prodati ni razviti, a likvidnost agrikulturnog zemljišta u toj zoni je minimalna. Popust od 40% zvuči atraktivno ali ne kompenzira pravnu i tržišnu nelikvidnost frakcijskog vlasništva.",
+  "score_overall": 5.7,
+  "score_lokacija": 5.0,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Livada u zaprešićkom području (Bistransko Podgorje) blizu Zagreba nudi bolju lokaciju od slavonskih parcela, ali radi se o suvlasničkom 1/3 dijelu što bitno otežava korištenje i preprodaju. Nizak ROI unatoč 40% popustu zbog problema likvidnosti suvlasništva.",
   "flags": [
-    "suvlasnički udio 1/3 — blokirano bez suglasnosti suvlasnika",
-    "poljoprivredno zemljište — ograničenja namjene i gradnje",
-    "niska tržišna likvidnost u regiji za ovu vrstu imovine"
+    "provjeriti: suvlasnički odnosi - mogućnost otkupa/diobe s ostalim suvlasnicima (1/3 dio)"
   ],
-  "input_hash": "3db86812bc35",
-  "scored_at": "2026-05-11T09:42:15.044994"
+  "discount_pct": 40.0,
+  "input_hash": "4cf45fc4358e",
+  "scored_at": "2026-07-03T09:02:03.172225"
 }

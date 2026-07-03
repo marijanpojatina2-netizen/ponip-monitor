@@ -1,17 +1,16 @@
 {
   "id": "59809",
-  "score_overall": 3.5,
-  "score_lokacija": 6.0,
-  "score_roi": 3.0,
-  "score_stanje": 4.0,
+  "score_overall": 4.9,
+  "score_lokacija": 6.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
   "recommendation": "pass",
-  "reasoning": "Suvlasnički udjeli 119/729 (~16%) i 20/709 (~3%) u oranicama Stenjevec čine izlaznu strategiju gotovo nemogućom bez prisilne diobe; startna cijena 1,79M EUR za fragmentirano agrarno suvlasništvo na periferiji Zagreba nema smisla za privatnog investitora.",
+  "reasoning": "Iako se zemljište nalazi u Zagrebu (Stenjevec Jug), radi se o nizu vrlo malih suvlasničkih udjela (npr. 119/729, 20/709) na poljoprivrednom zemljištu što bitno otežava samostalno raspolaganje i realizaciju vrijednosti. Popust od 25% ne kompenzira nisku likvidnost ovakve fragmentirane investicije.",
   "flags": [
-    "mali suvlasnički udjeli (119/729 i 20/709)",
-    "isključivo poljoprivredno zemljište bez objekta",
-    "složena suvlasnička struktura - prisilna dioba neizvjesna",
-    "visoka jamčevina 239K EUR"
+    "provjeriti: mogućnost samostalne prodaje/diobe malih suvlasničkih dijelova zemljišta",
+    "provjeriti: namjena zemljišta (oranica) i mogućnost gradnje"
   ],
-  "input_hash": "f0a47f0521dc",
-  "scored_at": "2026-04-22T07:31:15.505210"
+  "discount_pct": 25.0,
+  "input_hash": "0a73f62e3dff",
+  "scored_at": "2026-07-03T09:04:59.920953"
 }

@@ -1,17 +1,15 @@
 {
   "id": "59721",
-  "score_overall": 5.0,
-  "score_lokacija": 6.5,
-  "score_roi": 4.0,
-  "score_stanje": 4.5,
+  "score_overall": 6.4,
+  "score_lokacija": 8.5,
+  "score_roi": 5.5,
+  "score_stanje": 5.0,
   "recommendation": "watch",
-  "reasoning": "Kuća na Pagu je lokacijski interesantna, ali suvlasništvo po ½ je kritičan problem - bez suglasnosti suvlasnika nema slobodne prodaje ni najma, što drastično smanjuje likvidnost i ROI.",
+  "reasoning": "Kuća u Murvici na otoku Pagu ima izvrsnu turističku lokaciju, no radi se tek o prvoj dražbi s umjerenim popustom od 20%. Prodaje se samo suvlasnički dio od ½ nekretnine, što zahtijeva provjeru odnosa s drugim suvlasnikom prije ulaganja.",
   "flags": [
-    "SUVLASNIŠTVO 1/2 - bez pune kontrole nad nekretninom",
-    "bez suglasnosti drugog suvlasnika nema prodaje ni najma",
-    "Murvica - sezonska lokacija s ograničenim offseason tržištem",
-    "provjera tko je drugi suvlasnik i je li suradnja moguća"
+    "provjeriti: suvlasnički dio - prodaje se ½ nekretnine, drugi suvlasnik ostaje izvan ovrhe"
   ],
-  "input_hash": "049fb4c4fdb6",
-  "scored_at": "2026-04-20T12:41:35.306891"
+  "discount_pct": 20.0,
+  "input_hash": "7893203426e4",
+  "scored_at": "2026-07-03T09:12:44.645922"
 }

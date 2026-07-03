@@ -1,18 +1,16 @@
 {
   "id": "58970",
-  "score_overall": 5.0,
+  "score_overall": 6.5,
   "score_lokacija": 9.0,
-  "score_roi": 3.5,
-  "score_stanje": 1.5,
+  "score_roi": 6.5,
+  "score_stanje": 2.0,
   "recommendation": "watch",
-  "reasoning": "Lokacija na otoku Visu (60.522 m²) je iznimna, ali status zaštitne šume gotovo u potpunosti blokira razvoj - T1 namjena u PPUG-u kolidira sa šumskim statusom koji je nadređen i onemogućuje klasičnu turističku izgradnju. Isključivo za investitora s dubokim poznavanjem viške regulatornoknjižne situacije i apetitom za višegodišnji pravni proces.",
+  "reasoning": "Zemljište na otoku Visu je izuzetno tražena turistička lokacija, ali velik dio čestica ima status zaštitne šume s T1 namjenom što bitno ograničava mogućnost gradnje. Unatoč 40% popusta i drugoj dražbi, nemogućnost razvoja u kratkom/srednjem roku snižava realan ROI potencijal.",
   "flags": [
-    "zaštitna šuma - gradnja praktički nemoguća",
-    "T1 namjena u sukobu sa šumskim statusom",
-    "neizgrađeno i neobrađeno - nula prihoda",
-    "40% popust nedovoljan za kompenzaciju pravnog rizika",
-    "dugotrajni urbanistički/pravni proces nužan"
+    "zaštićena šuma na kat.čest. 7322/1 i 8419/4 - ograničena mogućnost gradnje",
+    "provjeriti: mogućnost buduće promjene namjene kroz PPUG"
   ],
-  "input_hash": "17225530efe6",
-  "scored_at": "2026-05-22T09:00:13.112180"
+  "discount_pct": 40.0,
+  "input_hash": "5fa145ed0be8",
+  "scored_at": "2026-07-03T09:06:33.427856"
 }

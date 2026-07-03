@@ -1,56 +1,35 @@
 {
   "id": "60015",
-  "score_overall": 5.0,
-  "score_lokacija": 5.5,
-  "score_roi": 5.0,
-  "score_stanje": 4.0,
-  "recommendation": "watch",
-  "reasoning": "Radi se o dva neizgrađena parcela ukupne površine 10.674 m² u k.o. Jankomir, klasificirana kao 'Oranica' (oranica/poljoprivredno zemljište), što je najkritičniji faktor za procjenu. Jankomir je aktivna zagrebačka industrijska/poslovna zona s dobrim prometnim vezama (blizina autoceste A3), no cijena od ~265 EUR/m² prema procjeni opravdana je jedino ako GUP/DPU dozvoljavaju komercijalnu ili stambenu izgradnju. Na prvoj dražbi s popustom od samo 20% i bez kumulativnih sniženja iz prethodnih krugova, investicijski slučaj nije uvjerljiv bez prethodne verifikacije prostornog plana. Ključni korak: provjera GUP-a Zagreb i DPU-a k.o. Jankomir za čestice 33/277 i 33/278 prije bilo kakve odluke o licitiranju.",
+  "score_overall": 5.3,
+  "score_lokacija": 6.5,
+  "score_roi": 5.5,
+  "score_stanje": 3.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Radi se o dvije susjedne čestice ukupno 10.674 m2 u k.o. Jankomir, zapadni Zagreb, u blizini čvora Jankomir (A3/obilaznica), Zagrebačkog velesajma i poslovno-trgovačke zone (IKEA, Bauhaus i dr.) - lokacija je prometno vrlo dobra ali je zemljište u zemljišnim knjigama upisano kao 'oranica', što znači da prava namjena (poslovna/građevinska vs. poljoprivredna) nije potvrđena iz opisa. Popust od 20% na prvoj dražbi je standardan i ne ukazuje na izniman ROI, a bez podatka o komunalnoj infrastrukturi i GUP statusu procjena stanja/razvojne spremnosti je niska. Zbog velike vrijednosti (>2,8 mil EUR) i realnog potencijala razvoja pored autocestovnog čvora, predmet zaslužuje detaljnu due diligence analizu prije odluke o licitaciji.",
   "flags": [
-    "Oranica — klasifikacija poljoprivrednog/oraničnog zemljišta: neizvjesna gradivost i prenamjena",
-    "Prva dražba — minimalni popust (20%), nema kumulativnih sniženja iz prethodnih krugova",
-    "Visoka jamčevina 283.000 EUR — velik kapital izložen riziku",
-    "Neizgrađeno zemljište — nema prihoda do završetka razvoja (2-5 godina)",
-    "Potrebna provjera GUP-a Zagreb i DPU-a za k.č.br. 33/277 i 33/278 k.o. Jankomir",
-    "Nepoznat status komunalne infrastrukture (priključci struja/voda/kanalizacija)",
-    "Obavezna provjera ZK uložaka 346 i 347 na terete, hipoteke i posebna ograničenja",
-    "Ekološki rizik — industrijska zona Jankomir: moguća onečišćenja tla (potrebna analiza tla)"
+    "provjeriti: prostorno-planska namjena zemljišta (GUP) - upisano kao oranica, nije potvrđeno je li građevinsko",
+    "provjeriti: komunalna infrastruktura i priključci (struja, voda, kanalizacija, pristupni put)",
+    "provjeriti: služnosti/prava puta s obzirom na blizinu autoceste i čvora Jankomir",
+    "provjeriti: postojanje tereta ili prava trećih u zemljišnim knjigama"
   ],
   "market_estimate": {
-    "eur_min": 1500000,
+    "eur_min": 1600000,
     "eur_max": 3200000,
     "confidence": "low",
-    "basis": "Raspon reflektira kritičnu neizvjesnost zoniranja: ako GUP klasificira čestice kao gradivo poslovno-industrijsko ili mješovito stambeno-poslovno, fair value je 180-300 EUR/m² (1,9-3,2M EUR); ako je čisto agriculturalno bez realnog potencijala prenamjene, tržišna vrijednost pada na 20-50 EUR/m² (210-530K EUR). Web pretraživanje nije bilo dostupno — komparativni podaci nisu live-verificirani."
+    "basis": "Web pretraga tržišta nije bila dostupna u ovoj sesiji; procjena se temelji na općem poznavanju cijena zemljišta u poslovnim/rubnim zonama Zagreba (okvirno 150-300 EUR/m2 ovisno o potvrđenoj namjeni), bez konkretnih usporedivih oglasa."
   },
-  "comparables": [
-    {
-      "opis": "Industrijsko-poslovno zemljište Jankomir/Remetinec, Zagreb — okvirne transakcije iz 2024-2025",
-      "cijena": 2000000,
-      "m2": 10000,
-      "izvor": "procjena na temelju tržišnog znanja",
-      "url": "N/A — web pretraživanje nije bilo dostupno"
-    },
-    {
-      "opis": "Agriculturalno/oraničarsko zemljište Zagreb rubne zone — tržišna referenca",
-      "cijena": 320000,
-      "m2": 10000,
-      "izvor": "procjena na temelju tržišnog znanja",
-      "url": "N/A — web pretraživanje nije bilo dostupno"
-    }
-  ],
-  "investment_strategy": "Razvoj — jedina strategija koja opravdava ulaznu cijenu je projektni razvoj: (a) logističko-skladišni/industrijski park ako GUP dozvoljava poslovnu namjenu (Jankomir ima snažnu potražnju za logistikom, blizina A3), ili (b) stambeno-poslovni kompleks ako GUP dozvoljava mješovitu namjenu. Iznajmljivanje moguće tek nakon izgradnje. Reno-flip irelevantno za neizgrađeno zemljište. Horizont 3-7 godina, značajan dodatni kapital za projektiranje i izgradnju.",
-  "entry_price_eur": 1850000,
+  "comparables": [],
+  "investment_strategy": "Razvoj / long-term land banking - ako se potvrdi da je zemljište planirano kao poslovno-građevinsko (blizina čvora Jankomir i poslovne zone), strategija bi bila kupnja i čekanje/iniciranje promjene namjene te prodaja ili zakup investitorima za logistiku/trgovinu; ako ostane poljoprivredno, ROI potencijal drastično pada.",
+  "entry_price_eur": 1900000,
   "detailed_risks": [
-    "Zoniranje — Oranica klasifikacija može u potpunosti blokirati profitabilnu gradnju; prenamjena može trajati 5+ godina",
-    "Likvidnosni rizik — zemlja ove vrijednosti u Jankomiru ima uzak krug B2B kupaca, izlaz nije brz ni siguran",
-    "Regulatorni rizik — GUP Zagreb u reviziji, izrada detaljnih planova je dugotrajna i neizvjesna",
-    "Kapitalni intenzitet — razvoj zahtijeva dodatno 500-2.000 EUR/m² za projektiranje i izgradnju",
-    "Ekološki rizik — blizina industrijske zone Jankomir: potrebna analiza tla i podzemnih voda",
-    "Pravni rizik — ovršni postupak može imati kompleksnu prošlost; provjera kompletne ZK istorije obavezna",
-    "Tržišni rizik — B2B potražnja za industrijskim/logističkim prostorom ciklička i ovisi o makroekonomskim kretanjima"
+    "Nesigurna urbanistička namjena (oranica u zk. knjigama) - moguće ograničenje gradnje",
+    "Nedostatak podataka o infrastrukturi i pristupu",
+    "Niža likvidnost tržišta za veće poljoprivredno/građevinsko zemljište u odnosu na stambene nekretnine",
+    "Dugotrajan proces ishođenja dozvola ako namjena nije riješena"
   ],
-  "upside_scenario": "Ako GUP/DPU klasificira čestice kao gradivo poslovno-industrijsko ili stambeno-poslovano zemljište, razvoj logističko-poslovnog parka (10.000+ m² BRP) ili stambenog kompleksa u roku 4-6 godina može generirati IRR od 15-25%. Jankomir ima solidnu B2B potražnju za logistično-skladišnim prostorima, blizina autoceste A3 je strateška prednost, a Zagreb općenito bilježi rast cijena nekretnina.",
-  "downside_scenario": "Ako je zemlja čisto agriculturalna bez realnog potencijala prenamjene ili ako GUP/DPU ne dozvoljava gradnju, tržišna vrijednost pada na 200-500K EUR. Investitor na dražbenoj cijeni 2,264M EUR gubi 1,7-2,0M EUR plus troškove due diligence i pravnih usluga. Prodaja na sekundarnom tržištu bila bi iznimno teška po ulaznoj cijeni.",
-  "input_hash": "175f5018f987",
-  "scored_at": "2026-04-28T08:26:21.125537"
+  "upside_scenario": "Ako se u roku 2-3 godine potvrdi/ishodi poslovno-građevinska namjena i priključci, vrijednost zemljišta uz autocestovni čvor Jankomir može značajno rasti (logistički/trgovački razvoj), potencijalno dvostruko u odnosu na ulaznu cijenu.",
+  "downside_scenario": "Ako namjena ostane poljoprivredna ili se pojave sporovi/tereti, zemljište ostaje nelikvidno i teško unovčivo, uz vezivanje kapitala bez prinosa godinama.",
+  "discount_pct": 20.0,
+  "input_hash": "80faacaf14e9",
+  "scored_at": "2026-07-03T09:17:37.422120"
 }

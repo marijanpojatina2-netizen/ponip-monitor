@@ -1,17 +1,16 @@
 {
   "id": "50801",
-  "score_overall": 3.0,
-  "score_lokacija": 2.0,
-  "score_roi": 5.5,
-  "score_stanje": 3.5,
-  "recommendation": "pass",
-  "reasoning": "Masivna investicija od 2.66M EUR u gotovo 100 hektara voćnjaka u ruralnoj depopulacijskoj Slavoniji nudi minimalnu likvidnost i zahtijeva specijaliziranog poljoprivrednog investitora; 50% popust ne kompenzira geografski, sektorski i likvidnosni rizik.",
+  "score_overall": 5.6,
+  "score_lokacija": 3.5,
+  "score_roi": 7.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Ogroman poljoprivredni kompleks voćnjaka (preko 98 ha, opis dodatno naveden kao skraćen) u Slavonskom Brodu nudi izniman popust od 50% na drugoj dražbi. Lokacija je slabije likvidna za investitora orijentiranog na klasični ROI, a stanje nasada i puni opseg nekretnine treba dodatno provjeriti.",
   "flags": [
-    "Specijalizirano poljoprivredno zemljište - voćnjaci bez stambenih objekata",
-    "Izrazito niska likvidnost - ruralna Slavonija",
-    "Ogromna jamčevina 532k EUR - visok cash outlay",
-    "Opis skraćen - nepoznate dodatne čestice i tereti"
+    "provjeriti: stanje i održavanje nasada",
+    "provjeriti: potpuni opis nekretnine (tekst opisa je odsječen/nepotpun)"
   ],
-  "input_hash": "d0b4d0e5eb40",
-  "scored_at": "2026-05-29T09:51:37.437743"
+  "discount_pct": 50.0,
+  "input_hash": "93eff6a0afaa",
+  "scored_at": "2026-07-03T09:03:42.952376"
 }

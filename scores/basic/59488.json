@@ -1,15 +1,16 @@
 {
   "id": "59488",
-  "score_overall": 4.5,
+  "score_overall": 4.7,
   "score_lokacija": 3.0,
-  "score_roi": 6.0,
-  "score_stanje": 4.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.5,
   "recommendation": "pass",
-  "reasoning": "Petrinja je depopulacijsko potresno područje s niskom tržišnom likvidnošću i ograničenim investicijskim potencijalom unatoč 40% popustu; prodaje se samo 1/2 suvlasničkog dijela što dodatno komplicira izlaznu strategiju. Stanje zgrada na potresnom terenu nepoznato i zahtijeva fizičku provjeru.",
+  "reasoning": "Petrinja je područje slabije likvidnosti dodatno pogođeno potresom 2020. godine, a predmet prodaje je tek suvlasnički dio 1/2 na više manjih čestica i zgrada što bitno otežava upravljanje i preprodaju cjeline. Unatoč 40% popustu na drugoj dražbi, kombinacija suvlasništva i neizvjesnog stanja objekata čini ovo slabim investicijskim slučajem.",
   "flags": [
-    "suvlasništvo 1/2",
-    "potresno područje - potresi 2020."
+    "suvlasništvo 1/2 dijela - ograničena kontrola nad cjelinom",
+    "provjeriti: stanje zgrada nakon potresa 2020"
   ],
-  "input_hash": "e623e5be3e4a",
-  "scored_at": "2026-06-22T11:50:06.033936"
+  "discount_pct": 40.0,
+  "input_hash": "dece7e773378",
+  "scored_at": "2026-07-03T09:09:08.923251"
 }

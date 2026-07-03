@@ -1,17 +1,17 @@
 {
   "id": "55814",
-  "score_overall": 4.0,
-  "score_lokacija": 2.0,
-  "score_roi": 5.0,
-  "score_stanje": 4.5,
-  "recommendation": "pass",
-  "reasoning": "Početna cijena od 1 EUR na četvrtoj dražbi zvuči atraktivno, ali kalibrator i linija za pakiranje jabuka su visoko specijalizirani strojevi vrijedni samo operateru koji ih može odmah koristiti u punoj produkciji. Prodaju se kao 'dijelovi', ne kompletna linija, što drastično smanjuje upotrebljivost i preprodajnu vrijednost.",
+  "score_overall": 4.6,
+  "score_lokacija": 3.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Ekstremni popust (100%, četvrta dražba) čini ulaz gotovo besplatnim, ali radi se o dijelovima industrijske linije za jabuke bez definirane lokacije i s rizikom nekompletnosti opreme. Likvidnost ovakve nišne pokretnine je upitna pa je potreban specijalizirani kupac.",
   "flags": [
-    "pokretnina – specijalizirana agroindustrijska oprema",
-    "prodaju se dijelovi, ne kompletna funkcionalna linija",
-    "tržište ograničeno: voćarstvo i prehrambena industrija",
-    "visoki troškovi demontaže, transporta i pohranjivanja"
+    "provjeriti: kompletnost i tehničko stanje strojeva",
+    "provjeriti: mogućnost demontaže i transporta",
+    "provjeriti: postojanje tržišta/kupca za rabljenu opremu"
   ],
-  "input_hash": "08203d8755ca",
-  "scored_at": "2026-04-19T20:37:08.368347"
+  "discount_pct": 100.0,
+  "input_hash": "dfa94e607641",
+  "scored_at": "2026-07-03T09:11:49.095421"
 }

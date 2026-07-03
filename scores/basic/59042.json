@@ -1,16 +1,16 @@
 {
   "id": "59042",
-  "score_overall": 4.5,
-  "score_lokacija": 5.5,
+  "score_overall": 6.4,
+  "score_lokacija": 5.0,
   "score_roi": 8.5,
-  "score_stanje": 2.5,
-  "recommendation": "watch",
-  "reasoning": "3495m² gotovo isključivo dvorišta s ukupno ~100m² minimalnih objekata - situacija identična lotu 59054, vrijednost je praktički samo u zemljištu a prinos od zakupa bez razvoja ne postoji. 50% popust je jedini argument, no bez operativnog potencijala ovaj lot ima smisla samo kao dopuna paketa susjednih lotova na Zagrebačkoj ulici.",
+  "score_stanje": 4.0,
+  "recommendation": "bid",
+  "reasoning": "Veliko zemljište (3495 m2) u Varaždinu uz 50% popusta na drugoj dražbi nudi izražen ROI, no manje pomoćne industrijske zgrade ukazuju na potrebu ulaganja ili rušenja. Stečajni postupak zahtijeva dodatnu pravnu provjeru tereta.",
   "flags": [
-    "minimalna izgradnja - 97% dvorište",
-    "stečajna imovina",
-    "samostalno slaba investicija - sinergija s 58990/58994/58998 jedini realni scenarij"
+    "provjeriti: stečajni postupak i eventualni dodatni tereti",
+    "provjeriti: stanje i uporabljivost industrijskih objekata"
   ],
-  "input_hash": "0f5de890a570",
-  "scored_at": "2026-05-22T09:02:16.009899"
+  "discount_pct": 50.0,
+  "input_hash": "7e39ac297251",
+  "scored_at": "2026-07-03T09:13:54.062458"
 }

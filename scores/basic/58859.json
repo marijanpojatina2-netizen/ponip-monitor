@@ -1,16 +1,15 @@
 {
   "id": "58859",
-  "score_overall": 4.5,
-  "score_lokacija": 3.0,
-  "score_roi": 6.0,
+  "score_overall": 5.1,
+  "score_lokacija": 2.0,
+  "score_roi": 8.0,
   "score_stanje": 4.0,
   "recommendation": "watch",
-  "reasoning": "Jedina nekretnina u skupini koja kombinira kuću s dvorištem i veliku parcelu (12.123 m²) uz 50% popust na stečajnoj dražbi - relativno zanimljiv case za agro/rural investitore; Oljasi je malo slavonsko selo pa je izlazna likvidnost ograničena, a stanje kuće iz opisa nije poznato.",
+  "reasoning": "Selo Oljasi kraj Osijeka je slabo razvijeno ruralno područje, no stečajna prodaja s popustom od 50% na drugoj dražbi i veliki posjed od preko 12.000 m2 čine ovo zanimljivim za dugoročnu zemljišnu investiciju. Stanje kuće nije potvrđeno pa je potrebna provjera na terenu prije odluke.",
   "flags": [
-    "Stečajni postupak - moguće skrivene obveze",
-    "Stanje objekta nepoznato",
-    "Ruralna lokacija - ograničena likvidnost resale"
+    "provjeriti: stvarno stanje kuće i mogućnost poljoprivredne ili građevinske iskoristivosti zemljišta"
   ],
-  "input_hash": "a9ec74cf6c59",
-  "scored_at": "2026-05-12T08:39:03.891660"
+  "discount_pct": 50.0,
+  "input_hash": "1f62bea684c5",
+  "scored_at": "2026-07-03T09:00:49.510592"
 }

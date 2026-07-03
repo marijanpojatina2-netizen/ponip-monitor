@@ -1,17 +1,15 @@
 {
   "id": "58840",
-  "score_overall": 3.5,
+  "score_overall": 4.6,
   "score_lokacija": 2.0,
-  "score_roi": 5.5,
+  "score_roi": 7.0,
   "score_stanje": 4.0,
-  "recommendation": "pass",
-  "reasoning": "Lipovac je depopulacijsko selo u Slavoniji uz granicu sa Srbijom gdje je tržišna likvidnost zanemariva; 40% popust i druga dražba privlačni su na papiru, ali bez realnog izlaznog kupca investicija ostaje trajno vezana.",
+  "recommendation": "watch",
+  "reasoning": "Lipovac je malo pogranično selo u depopulacijskom području istočne Slavonije s ograničenom potražnjom. Visok popust od 40% na drugoj dražbi čini cijenu atraktivnom, ali likvidnost i dugoročni ROI ostaju upitni zbog lokacije.",
   "flags": [
-    "depopulacijsko područje – trend iseljavanja",
-    "minimalna tržišna likvidnost",
-    "nema razvojnog potencijala regije",
-    "izlazna strategija praktično nepostojeća"
+    "provjeriti: stvarno stanje kuće i infrastrukture na terenu"
   ],
-  "input_hash": "4f77e8141939",
-  "scored_at": "2026-05-12T08:37:57.458349"
+  "discount_pct": 40.0,
+  "input_hash": "ef7f7381a82c",
+  "scored_at": "2026-07-03T09:00:49.510221"
 }

@@ -1,16 +1,16 @@
 {
   "id": "58334",
-  "score_overall": 4.2,
-  "score_lokacija": 2.5,
-  "score_roi": 6.0,
-  "score_stanje": 4.0,
-  "recommendation": "pass",
-  "reasoning": "Impresivan 50% popust na drugoj dražbi golemog industrijskog kompleksa (15.000+ m2 objekata + 10.000 m2 pašnjaka) u Orahovici je nominalno atraktivan, no Slavonija je krajnje nelikvidna regija za ovaj tip imovine i isključivo dolazi u obzir za specijaliziranog investitora s jasnim operativnim planom.",
+  "score_overall": 4.9,
+  "score_lokacija": 3.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Orahovica je manje mjesto u depopulacijskom području istočne Hrvatske pa je likvidnost velikog industrijsko-gospodarskog kompleksa upitna unatoč 50% popustu na drugoj dražbi. Kompleks (dvorište, parkiralište, upravna zgrada, gospodarske zgrade) traži vrlo specifičnog kupca s jasnom poslovnom namjenom.",
   "flags": [
-    "slaba tržišna likvidnost Slavonije za industrijske nekretnine",
-    "visoki troškovi prenamjene ili operativnog pokretanja",
-    "stečajni dužnik - provjeri moguće terete i dugove"
+    "provjeriti: stanje i funkcionalnost gospodarskih zgrada",
+    "provjeriti: postoji li zakupac/korisnik kompleksa"
   ],
-  "input_hash": "61a589025c31",
-  "scored_at": "2026-04-19T19:42:53.452607"
+  "discount_pct": 50.0,
+  "input_hash": "67253ba0a675",
+  "scored_at": "2026-07-03T09:09:08.921990"
 }

@@ -1,17 +1,16 @@
 {
   "id": "60502",
-  "score_overall": 3.0,
-  "score_lokacija": 2.0,
-  "score_roi": 4.0,
+  "score_overall": 3.7,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
   "score_stanje": 4.0,
   "recommendation": "pass",
-  "reasoning": "Viljevo je ruralna Slavonija s izrazitim depopulacijskim trendom i gotovo nultom potražnjom za komercijalnim objektima; 'čarda' kao tip nekretnine nema jasnu exit strategiju niti konverzijski potencijal koji bi opravdao ulaganje.",
+  "reasoning": "Ruralna lokacija u Viljevu kraj Valpova (depopulacijsko područje istočne Slavonije) uz tek 20% popusta na prvoj dražbi ne daje dovoljnu sigurnosnu maržu. Velika okućnica i 5 zgrada nose rizik značajnih troškova adaptacije bez jasne izlazne strategije.",
   "flags": [
-    "Slavonija - depopulacijsko područje",
-    "komercijalni objekt tipa čarda - niska prenamjenska likvidnost",
-    "prva dražba, samo 20% popusta",
-    "kompleks 5 zgrada - visoki troškovi održavanja/renovacije"
+    "provjeriti: stanje kuće i 5 pratećih zgrada",
+    "provjeriti: useljenost/posjed"
   ],
-  "input_hash": "6a2b6e9c1473",
-  "scored_at": "2026-06-08T10:49:20.842480"
+  "discount_pct": 20.0,
+  "input_hash": "bd23c8a3d2c6",
+  "scored_at": "2026-07-03T09:11:49.095701"
 }

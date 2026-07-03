@@ -1,17 +1,16 @@
 {
   "id": "58845",
-  "score_overall": 3.5,
-  "score_lokacija": 2.0,
-  "score_roi": 5.5,
-  "score_stanje": 3.5,
-  "recommendation": "pass",
-  "reasoning": "Bocanjevci je malo ruralno naselje u Valpovštini s vrlo slabom likvidnošću tržišta nekretnina i depopulacijskim trendovima, što drastično ograničava izlaznu strategiju. Popust od 40% na drugoj dražbi je tehnički atraktivan, ali je nerealno očekivati prodaju ili ozbiljan najam u toj mikrolokaciji.",
+  "score_overall": 4.8,
+  "score_lokacija": 3.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća s gospodarskim zgradama i okućnicom u selu Bocanjevci kraj Valpova, vrlo niska ulazna cijena (1547 EUR) i 40% popust na drugoj dražbi daju solidan ROI, ali stanje objekta nije opisano pa se pretpostavlja potreba renovacije. Ruralna slavonska lokacija ograničava dugoročnu likvidnost.",
   "flags": [
-    "ruralno depopulacijsko područje",
-    "niska likvidnost tržišta",
-    "Valpovština - otežana preprodaja",
-    "stanje nepoznato - vjerojatno potrebna obnova"
+    "provjeriti: stanje i useljivost kuće",
+    "provjeriti: postoji li stanar/korisnik nekretnine"
   ],
-  "input_hash": "73b88fbb23ec",
-  "scored_at": "2026-05-12T08:39:12.726710"
+  "discount_pct": 40.0,
+  "input_hash": "1dcf24ff3cc6",
+  "scored_at": "2026-07-03T09:02:03.171922"
 }

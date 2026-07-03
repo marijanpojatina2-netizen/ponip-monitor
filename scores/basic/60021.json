@@ -1,17 +1,15 @@
 {
   "id": "60021",
-  "score_overall": 3.0,
-  "score_lokacija": 2.5,
-  "score_roi": 3.0,
-  "score_stanje": 4.0,
+  "score_overall": 3.3,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
   "recommendation": "pass",
-  "reasoning": "Ruralna Slavonija (okolica Virovitice) spada u depopulacijska područja s izrazito niskom tržišnom likvidnošću i minimalnom potražnjom. Kombinacija 20% popusta na prvoj dražbi i nepovoljne makrolokacije ne gradi investicijski case ni za kratkoročni ni za dugoročni ROI.",
+  "reasoning": "Budrovac Lukački kod Virovitice spada u depopulacijsko ruralno područje sa slabom likvidnošću tržišta nekretnina. Popust od 20% na prvoj dražbi ne kompenzira slab lokacijski i razvojni potencijal poljoprivrednog imanja s gospodarskom zgradom.",
   "flags": [
-    "depopulacijsko područje - ruralna Slavonija",
-    "niska tržišna likvidnost regije",
-    "pretežno poljoprivredno zemljište (oranica, dvor, gospodarska zgrada)",
-    "ograničeni izlazni scenariji"
+    "provjeriti: stanje gospodarske zgrade i pristupni put"
   ],
-  "input_hash": "2f8d587e345b",
-  "scored_at": "2026-04-28T08:24:20.460261"
+  "discount_pct": 20.0,
+  "input_hash": "cad33fec1ab6",
+  "scored_at": "2026-07-03T09:13:54.063185"
 }

@@ -1,17 +1,15 @@
 {
   "id": "58871",
-  "score_overall": 2.0,
-  "score_lokacija": 3.0,
-  "score_roi": 2.5,
-  "score_stanje": 2.0,
-  "recommendation": "pass",
-  "reasoning": "Oznaka 'TURSKO GROBLJE' je kritičan red flag - takve parcele često imaju status kulturno-povijesne zaštite ili de facto zabranu izgradnje i preunamjene, čime se 50% popust u potpunosti poništava; apsolutno zahtijeva pravnu provjeru prije ikakvog interesa.",
+  "score_overall": 4.8,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Veća oranica (5274 m2) u istom ruralnom području k.o. Oljasi uz izraziti popust od 50% na drugoj dražbi, no slaba likvidnost slavonskog ruralnog zemljišta ograničava ROI. Zanimljivo isključivo kao jeftino zemljište za dugoročno držanje.",
   "flags": [
-    "KRITIČNO: Tursko groblje - mogući status kulturne zaštite",
-    "Stečajni postupak",
-    "De facto neupotrebljivo za izgradnju ili prenamjenu",
-    "Niska tržišna likvidnost čak i bez ovih ograničenja"
+    "provjeriti: naziv čestice 'Tursko groblje' - moguć poseban kulturno-povijesni status"
   ],
-  "input_hash": "86a00fba79ba",
-  "scored_at": "2026-05-12T08:39:03.892241"
+  "discount_pct": 50.0,
+  "input_hash": "f0761d04b8ad",
+  "scored_at": "2026-07-03T09:02:03.171459"
 }

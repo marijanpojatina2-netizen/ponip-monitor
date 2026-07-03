@@ -1,16 +1,15 @@
 {
   "id": "58613",
-  "score_overall": 3.5,
-  "score_lokacija": 2.5,
-  "score_roi": 5.0,
-  "score_stanje": 4.0,
+  "score_overall": 4.5,
+  "score_lokacija": 2.0,
+  "score_roi": 7.0,
+  "score_stanje": 3.5,
   "recommendation": "pass",
-  "reasoning": "Ruralna Slavonija (k.o. Starin, Slatina) s depopulacijskim trendom i minimalnom likvidnošću nekretnina; 40% popust i 2. dražba donose nešto bolji ROI potencijal, ali dominiraju oranice bez turističke ili razvojne perspektive.",
+  "reasoning": "Selo Starin kod Slatine spada u slabije razvijeno ruralno područje s izraženom depopulacijom, što ograničava potražnju. Iako je popust od 40% na drugoj dražbi značajan, kombinacija oranica i manje kuće nema jasan investicijski potencijal.",
   "flags": [
-    "Depopulacijsko područje - slaba likvidnost izlaza",
-    "Dominantno poljoprivredno zemljište - teška preunamjena",
-    "Stanje kuće nepoznato iz opisa"
+    "provjeriti: točno stanje kuće i iskoristivost poljoprivrednog zemljišta"
   ],
-  "input_hash": "0d69b9bd8470",
-  "scored_at": "2026-05-12T08:39:03.891450"
+  "discount_pct": 40.0,
+  "input_hash": "ca68d8ca03fc",
+  "scored_at": "2026-07-03T09:00:49.510433"
 }

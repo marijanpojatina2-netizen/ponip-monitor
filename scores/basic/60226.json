@@ -1,17 +1,15 @@
 {
   "id": "60226",
-  "score_overall": 2.5,
-  "score_lokacija": 5.0,
-  "score_roi": 4.0,
-  "score_stanje": 2.0,
+  "score_overall": 5.1,
+  "score_lokacija": 6.0,
+  "score_roi": 5.5,
+  "score_stanje": 2.5,
   "recommendation": "pass",
-  "reasoning": "Šuma i griža bez ikakve izgradnje na 1733m² - investicijska vrijednost gotovo u potpunosti ovisi o prostorno-planskoj namjeni parcele, koja nije navedena; 25% popust na prvoj dražbi bez poznatog potencijala razvoja ne opravdava ulazak. Niska likvidnost sirovog zemljišta u kategoriji šume i moguć daljnji pad cijene na sljedećim dražbama čine ovaj lot neprikladnim bez specifičnog strateškog interesa.",
+  "reasoning": "Neizgrađeno šumsko/kamenito zemljište u Viškovu kraj Rijeke ima pristojnu lokaciju, ali malu površinu i nepoznat građevinski status ograničavaju kratkoročni ROI. Bez jasne mogućnosti gradnje riječ je o slaboj investicijskoj prilici.",
   "flags": [
-    "neizgrađeno - šuma i griža bez objekta",
-    "nepoznata GUP/UPU namjena - kritično za bilo kakvu isplativost",
-    "prva dražba - cijena će vjerojatno pasti",
-    "ekstremno niska likvidnost"
+    "provjeriti: namjena zemljišta (šumsko/građevinsko) i mogućnost gradnje"
   ],
-  "input_hash": "9ada00a5b1d1",
-  "scored_at": "2026-05-22T09:02:16.009132"
+  "discount_pct": 25.0,
+  "input_hash": "0fdff95f04c8",
+  "scored_at": "2026-07-03T09:07:50.838192"
 }

@@ -1,0 +1,15 @@
+{
+  "id": "60807",
+  "score_overall": 3.6,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Pašnjak obrastao šumom izvan građevinskog područja kod Pazina, bez razvojnog potencijala i niske likvidnosti kao poljoprivredno/šumsko zemljište. Dodatno postoji neusklađenost stare i nove katastarske izmjere što povećava pravnu neizvjesnost.",
+  "flags": [
+    "provjeriti: neusklađenost katastarskih čestica (stara/nova izmjera - kč.br. 276/277)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "e24ebcc1cf8b",
+  "scored_at": "2026-07-03T08:59:41.724869"
+}

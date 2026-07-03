@@ -1,16 +1,16 @@
 {
   "id": "60488",
-  "score_overall": 3.0,
-  "score_lokacija": 4.5,
-  "score_roi": 2.5,
-  "score_stanje": 4.5,
-  "recommendation": "pass",
-  "reasoning": "Hotelska oprema i inventar kao pokretnine imaju brzu deprecijaciju i gotovo nultu samostalnu likvidnost bez operativnog hotelskog konteksta. Jedini smisao je kao dio paketa s nekretninom (ID 60488), ali kao zaseban lot nema investicijskog case-a.",
+  "score_overall": 5.9,
+  "score_lokacija": 6.0,
+  "score_roi": 5.5,
+  "score_stanje": 6.5,
+  "recommendation": "watch",
+  "reasoning": "Depadansa hotela u Dugopolju kraj Splita, poslovna zona uz dobru prometnu povezanost, ali popust od svega 25% na prvoj dražbi ne daje veliku sigurnosnu maržu. Predmet je formalno vođen kao pokretnina iako opis jasno navodi zgradu i zemljište, što treba razjasniti prije ulaska.",
   "flags": [
-    "pokretnina - brza deprecijacija",
-    "bez operativnog hotela praktički bezvrijedno",
-    "ovisnost o zasebnoj dražbi nekretnine"
+    "provjeriti: usklađenost vrste predmeta (upisano kao pokretnina, opis navodi nekretninu/zgradu)",
+    "provjeriti: pristupni putovi/služnosti jer se depadansa prodaje zasebno od glavne zgrade hotela"
   ],
-  "input_hash": "d88033ab3864",
-  "scored_at": "2026-05-28T09:59:31.807833"
+  "discount_pct": 25.0,
+  "input_hash": "58b6e3aa0d39",
+  "scored_at": "2026-07-03T09:04:59.919804"
 }

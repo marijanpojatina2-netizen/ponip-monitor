@@ -1,17 +1,16 @@
 {
   "id": "57260",
-  "score_overall": 3.0,
-  "score_lokacija": 2.0,
-  "score_roi": 5.0,
-  "score_stanje": 3.5,
-  "recommendation": "pass",
-  "reasoning": "Pitomača je depopulacijsko područje u Viroviticko-podravskoj županiji bez realnog tržišta za prodaju ili turistički najam, pa ni dramatičan popust od 75% na trećoj dražbi ne kompenzira strukturni problem likvidnosti. Procjena od 446.000 EUR za ovu lokaciju je upitna i signalizira moguće ozbiljne pravne ili fizičke tegobe nekretnine.",
+  "score_overall": 5.7,
+  "score_lokacija": 2.5,
+  "score_roi": 9.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća u Pitomači na trećoj dražbi s enormnim popustom od 75% ekonomski je vrlo jeftina (111.500 EUR za procjenu od 446.000 EUR), no radi se o depopulacijskom slavonskom području sa slabom likvidnošću i teškim izlaskom iz investicije. Stanje kuće nije opisano, a ponovljene neuspjele dražbe mogu upućivati na skriveni problem.",
   "flags": [
-    "depopulacijsko područje - minimalna likvidnost i izlazna strategija",
-    "treća dražba bez kupca - ozbiljan signal tržišta",
-    "sumnjivo visoka procjena 446K EUR za Pitomačku lokaciju",
-    "starinska mjerna jedinica čhv bez jasnog stambenog opisa"
+    "provjeriti: stanje kuće",
+    "provjeriti: razlog dvostrukog neuspjeha prethodnih dražbi"
   ],
-  "input_hash": "e5f7ec8b24b8",
-  "scored_at": "2026-04-24T08:01:43.965394"
+  "discount_pct": 75.0,
+  "input_hash": "5bce1db8451b",
+  "scored_at": "2026-07-03T09:10:40.871244"
 }

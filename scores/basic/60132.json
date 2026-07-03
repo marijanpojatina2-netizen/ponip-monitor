@@ -1,16 +1,15 @@
 {
   "id": "60132",
-  "score_overall": 2.5,
-  "score_lokacija": 4.5,
-  "score_roi": 3.0,
-  "score_stanje": 3.0,
-  "recommendation": "pass",
-  "reasoning": "Duplikat ID-a klasificiran kao pokretnina uz identičan opis nekretnine – nejasno što se zapravo prodaje; pokretnine imaju slabiji dugoročni ROI, a ovdje je predmet kupnje potpuno nedefiniran.",
+  "score_overall": 5.1,
+  "score_lokacija": 6.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Ova stavka je označena kao pokretnina, no opis je identičan hotelu u Dugopolju (nekretnina pod istim ID-em), što ukazuje na moguću grešku u podacima dražbe. Dok se nesklad ne razjasni, ROI i stanje procjenjuju se konzervativno niže zbog nesigurnosti oko stvarnog predmeta prodaje.",
   "flags": [
-    "duplikat ID-a s nekretninom 1",
-    "vrsta 'pokretnina' uz opis tipičan za nekretninu – nejasan predmet prodaje",
-    "suvlasnički udio u garažnom prostoru"
+    "provjeriti: nesklad opisa - stavka označena kao pokretnina ali opis odgovara nekretnini (hotel); moguća greška u podacima dražbe"
   ],
-  "input_hash": "7d053b550551",
-  "scored_at": "2026-05-12T08:37:57.457536"
+  "discount_pct": 25.0,
+  "input_hash": "3eaa4d4759e3",
+  "scored_at": "2026-07-03T08:59:41.725747"
 }

@@ -1,60 +1,37 @@
 {
   "id": "58525",
-  "score_overall": 2.5,
-  "score_lokacija": 3.5,
-  "score_roi": 2.0,
-  "score_stanje": 3.0,
-  "recommendation": "pass",
-  "reasoning": "Nekretnina se nalazi u selu Vižovlje kraj Zaboka (Krapinsko-zagorska županija) — kontinentalni Zagorje, bez turističkog potencijala i s ograničenom tržišnom likvidnošću. Ključni problem je drastično precijenjeni elaborat: 1.824.299 EUR za kuću od 309 m² u Zagorju implicira ~5.900 EUR/m², što odgovara razini Dubrovnika ili Splita — ne ruralnog Zagorja. Čak i uz 40% popusta, startna cijena od ~1,09 M EUR ostaje 2-3x iznad realnog tržišnog raspona za ovu lokaciju (~350.000–600.000 EUR za premium objekt). Bez podataka o razgledavanju i s nepoznatim stanjem, rizičan ulazak u precijenjenu dražbu.",
+  "score_overall": 5.1,
+  "score_lokacija": 4.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Nekretnina se nalazi u k.o. Strmec (Vižovlje), ruralno područje Hrvatskog zagorja u nadležnosti suda Zlatar/Zabok, bez turističke ili urbane premije. Procijenjena vrijednost od 1,82 mil. EUR za kuću od 309 m2 implicira cijenu od gotovo 5.900 EUR/m2, što je znatno iznad realnih tržišnih cijena za zagorske ruralne kuće (obično 600-1.500 EUR/m2) i ukazuje na moguću anomaliju procjene ili nepotpun opis obuhvata nekretnine (zemljište, gospodarske zgrade). Nema podataka o stanju nekretnine niti mogućnosti razgledavanja, a suvlasništvo dva ovršenika u 1/2 dijela dodatno komplicira transakciju. Popust od 40% na drugoj dražbi je solidan, ali visoka apsolutna cijena i nesigurnost oko stvarne vrijednosti nalažu oprez umjesto aktivnog ulaska.",
   "flags": [
-    "suvlasništvo — dva ovršenika po 1/2 (komplikacije pri preuzimanju posjeda)",
-    "nema podataka o razgledavanju — stanje objekta potpuno nepoznato",
-    "elaborat o procjeni vjerojatno značajno nadcijenjen (~5.900 EUR/m² za Zagorje nema tržišnog uporišta)",
-    "ograničena tržišna likvidnost Zagorja — prodaja/exit strategija otežana",
-    "opis potencijalno nepotpun — nejasno postoje li dodatne čestice ili sadržaji koji bi opravdali procjenu"
+    "provjeriti: velika neusklađenost procijenjene vrijednosti (1,82 mil EUR) s tipičnim cijenama nekretnina u ruralnom Zagorju - moguća anomalija u opisu ili obuhvatu nekretnine",
+    "provjeriti: stvarno stanje i namjena nekretnine (309 m2 - kuća ili uključeno i zemljište/gospodarski objekti)",
+    "provjeriti: nemoguće razgledavanje - nadležno tijelo nije dostavilo podatke o pristupu nekretnini",
+    "provjeriti: suvlasništvo dva ovršenika (prvoovršenik i drugoovršenik) u 1/2 dijela ponaosob - moguća pravna kompleksnost pri objedinjenoj prodaji cijele nekretnine",
+    "provjeriti: postojeća tržišna usporedba nije bilo moguće dohvatiti (web pretraga nedostupna u ovoj sesiji)"
   ],
   "market_estimate": {
-    "eur_min": 320000,
-    "eur_max": 580000,
-    "confidence": "medium",
-    "basis": "Kuće u okolici Zaboka i Krapinsko-zagorske županije realno se kreću 600–1.200 EUR/m² za standardne do kvalitetne objekte; luksuzne vile s bazenima i velikom okućnicom iznimno do 1.500 EUR/m². Za 309 m² to daje raspon 185.400–464.000 EUR. Gornja granica od 580.000 EUR pretpostavlja izuzetno stanje, bazen, veliku parcelu (>2.000 m²) i premijum finish koji iz opisa nisu potvrđeni."
+    "eur_min": 220000,
+    "eur_max": 480000,
+    "confidence": "low",
+    "basis": "Procjena temeljena na tipičnim cijenama stambenih nekretnina u ruralnim dijelovima Krapinsko-zagorske županije (okolica Zaboka/Zlatara), koje se uobičajeno kreću 600-1.500 EUR/m2 ovisno o stanju i infrastrukturi; web pretraga za konkretne aktivne oglase nije bila dostupna u ovoj sesiji pa je pouzdanost niska. Postoji značajan raskorak s navedenom sudskom procjenom od 1,82 mil. EUR, koji treba razjasniti prije bilo kakve ponude."
   },
-  "comparables": [
-    {
-      "opis": "Vila s bazenom, Zabok okolica, ~300 m², na parceli 1.500 m²",
-      "cijena": 420000,
-      "m2": 300,
-      "izvor": "njuskalo.hr (procjena na temelju tržišnih podataka 2024–2025)",
-      "url": "https://www.njuskalo.hr/prodaja-kuca/zabok"
-    },
-    {
-      "opis": "Kuća Krapinsko-zagorska županija, ~350 m², novogradnja/visokog standarda",
-      "cijena": 480000,
-      "m2": 350,
-      "izvor": "nekretnine.net (procjena na temelju tržišnih podataka 2024–2025)",
-      "url": "https://www.nekretnine.net/stambeni-objekti/kuce/krapinsko-zagorska-zupanija/"
-    },
-    {
-      "opis": "Zagorska vila/manor, ~400 m², agro-turizam potencijal, sa zemljištem",
-      "cijena": 550000,
-      "m2": 400,
-      "izvor": "century21.hr / lokalni agenti (gornji tržišni raspon za premijum Zagorje)",
-      "url": "https://www.century21.hr/prodaja/kuce/krapinsko-zagorska"
-    }
-  ],
-  "investment_strategy": "JEDINO moguća strategija: agro-turizam ili luksuzna ruralna vila za iznajmljivanje domaćim i stranim gostima (proximity uz Zabok, termalni turizam Krapinskih Toplica). Međutim, za ovu strategiju ulazna cijena mora biti max 400–500K EUR — što je daleko ispod startne cijene na dražbi. Preprodaja ili reno-flip nisu atraktivni jer lokalno tržište nema dubinu ni za 600K EUR transakciju.",
-  "entry_price_eur": 420000,
+  "comparables": [],
+  "investment_strategy": "Prije bilo kakvog angažmana potrebna je detaljna due diligence na terenu (uvid u zemljišne knjige, katastar, stvarnu površinu čestice i stanje objekta) jer trenutačni podaci ne opravdavaju navedenu procijenjenu vrijednost. Ako se nakon provjere pokaže da nekretnina uključuje veću građevinsku bruto površinu ili vrijedno zemljište, moguća je reno-flip ili razvojna strategija; u suprotnom, cijena čak i uz 40% popust ostaje precijenjena za ruralnu zagorsku lokaciju i preporuka je čekati daljnje dražbe (treću/četvrtu) s dodatnim padom cijene.",
+  "entry_price_eur": 300000,
   "detailed_risks": [
-    "Elaborat procjene je najvjerojatnije temeljen na netočnim pretpostavkama ili usporedivim tržištima — realna vrijednost je 3-4x niža od procijenjene",
-    "Startna cijena (1,09 M EUR) premašuje realnu tržišnu vrijednost za min. 500.000–700.000 EUR — gotovo sigurni kapitalni gubitak pri kupnji",
-    "Suvlasništvo dvaju ovršenika — moguće komplikacije pri preuzimanju vlasništva i praznog posjeda",
-    "Nema podataka o razgledavanju — kuća može biti devastirana, zauzeta ili s infrastrukturnim problemima",
-    "Zagorje ima negativan demografski trend — dugoročna likvidnost tržišta slaba",
-    "Ako je objekt u zakupu ili netko u njemu stanuje (iz opisa nije isključeno), deložacija u RH može trajati 2–4 godine",
-    "Potencijal za daljnje pada vrijednosti ako se otkriju skrivene mane (temeljni, statika, vlaga) jer stanje nije potvrđeno"
+    "Procijenjena vrijednost znatno odstupa od realnih tržišnih cijena u regiji, što povećava rizik precjenjivanja imovine",
+    "Nema informacija o fizičkom stanju objekta niti mogućnosti razgledavanja prije kupnje",
+    "Suvlasništvo dva ovršenika može zahtijevati dodatne pravne korake pri stjecanju punog vlasništva",
+    "Slaba likvidnost ruralnog tržišta nekretnina u Zagorju otežava brzu preprodaju",
+    "Nepotpun opis nekretnine (nejasno je li 309 m2 tlocrt kuće ili uključuje zemljište) onemogućuje pouzdanu procjenu"
   ],
-  "upside_scenario": "Ako nekretnina sadrži veliku parcelu (>5.000 m²), više pomoćnih objekata, bazen i luksuzni finish nevidljiv iz kratkog opisa — uz uspješnu konverziju u boutique agro-turizam ili wellness retreat, moguće je postići godišnji prihod 50.000–80.000 EUR i vrijednost 700.000–900.000 EUR za 3–5 godina. No bez razgledavanja i detaljnog uvida u vlasničke listove, ovaj scenarij je čisti spekulacija.",
-  "downside_scenario": "Ulaskom po startnoj cijeni (~1,09 M EUR) investitor instantno prima kapitalnog gubitka 500.000–700.000 EUR prema realnoj tržišnoj vrijednosti. Ako je objekt devastiran, zauzet ili postoje skrivene obveze, troškovi sanacije i pravne borbe mogu push total cost prema 1,3–1,5 M EUR uz minimalnu šansu povrata. Exit po ikojoj prihvatljivoj cijeni u Zagorju je izuzetno težak — potencijalno višegodišnji 'zarobljeni' kapital.",
-  "input_hash": "44eae0168c0e",
-  "scored_at": "2026-05-05T08:20:39.908277"
+  "upside_scenario": "Ako due diligence potvrdi da procjena odražava veću građevinsku površinu, dodatne parcele ili vrijedne gospodarske objekte, investitor bi po cijeni ispod 500.000 EUR mogao ostvariti značajan diskont i profitabilan reno-flip ili prodaju u sljedeće 2-3 godine, posebno ako se regija razvija zbog blizine autoceste prema Zagrebu.",
+  "downside_scenario": "Ako se na terenu utvrdi da je 309 m2 tek tlocrt skromne, dotrajale kuće bez značajnog zemljišta, trenutačna procjena i početna cijena od preko milijun eura čine ulaganje potpuno neisplativim, a nekretnina će vjerojatno proći kroz treću i četvrtu dražbu s daljnjim padom cijene prije nego što postane tržišno realna.",
+  "discount_pct": 40.0,
+  "input_hash": "04b66b161534",
+  "scored_at": "2026-07-03T09:36:48.865535"
 }

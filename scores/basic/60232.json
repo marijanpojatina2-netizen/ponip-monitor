@@ -1,16 +1,15 @@
 {
   "id": "60232",
-  "score_overall": 3.5,
-  "score_lokacija": 3.5,
-  "score_roi": 4.0,
-  "score_stanje": 4.0,
+  "score_overall": 3.3,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
   "recommendation": "pass",
-  "reasoning": "Beli Manastir nudi blago bolju lokaciju od okolnih sela, ali samo 20% popust na prvoj dražbi daje minimalan ROI cushion; oznaka 'zemljište pod zgradama' bez jasnog opisa objekta i voćnjak 4265 m² otvaraju pitanja namjene i stanja.",
+  "reasoning": "Beli Manastir je slabije razvijeno ruralno područje Baranje s ograničenom investicijskom potražnjom. Popust od svega 20% na prvoj dražbi ne pruža dovoljnu maržu s obzirom na lokaciju i nepoznato stanje zemljišta pod zgradama i voćnjaka.",
   "flags": [
-    "Samo 20% popust - 1. dražba, bez bonusa",
-    "Nejasna kategorija 'zemljište pod zgradama' - nepoznat objekt",
-    "Slaba likvidnost Baranje za nerezidencijalnu nekretninu"
+    "provjeriti: stanje zgrada na zemljištu i status voćnjaka"
   ],
-  "input_hash": "1f01e199b9ef",
-  "scored_at": "2026-05-12T08:39:03.891776"
+  "discount_pct": 20.0,
+  "input_hash": "99b0d435ab30",
+  "scored_at": "2026-07-03T09:00:49.510766"
 }

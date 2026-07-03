@@ -1,16 +1,16 @@
 {
   "id": "60363",
-  "score_overall": 5.5,
+  "score_overall": 6.1,
   "score_lokacija": 8.5,
-  "score_roi": 5.0,
+  "score_roi": 5.5,
   "score_stanje": 3.5,
   "recommendation": "watch",
-  "reasoning": "Hvar (Stari Grad) je vrhunska turistička lokacija koja opravdava visoku lokacijsku ocjenu, ali sve tri parcele su van građevinskog područja IV. kategorije što zabranjuje izgradnju pod trenutnim zoniranjem; suvlasnički udio 1/2 na jednoj i 18/19 na drugoj parceli unosi pravnu kompleksnost koja zahtijeva detaljnu due diligence prije ulaska.",
+  "reasoning": "Zemljište na otoku Hvaru (Stari Grad) je na odličnoj turističkoj lokaciji, ali radi se o pašnjaku/šumi izvan građevinskog područja što bitno ograničava razvojni potencijal i likvidnost. Prva dražba s tek 25% popusta i djelomični suvlasnički udjeli dodatno slabe investicijski case.",
   "flags": [
-    "van građevinskog područja - nije gradivo pod trenutnim GUP/PPUG",
-    "suvlasnički udio 18/19 (šuma) i 1/2 (pašnjak) - preostali suvlasnici ostaju",
-    "kategorija IV zemljišta - ograničena namjena korištenja"
+    "provjeriti: zemljište izvan građevinskog područja - ograničena mogućnost gradnje",
+    "provjeriti: prodaju se suvlasnički dijelovi (18/19 i 1/2), a ne cijele čestice"
   ],
-  "input_hash": "8f92d78019c8",
-  "scored_at": "2026-06-09T09:40:48.017553"
+  "discount_pct": 25.0,
+  "input_hash": "6de1c0d55f5b",
+  "scored_at": "2026-07-03T09:14:57.144723"
 }

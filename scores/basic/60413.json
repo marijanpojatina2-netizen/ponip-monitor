@@ -1,12 +1,15 @@
 {
   "id": "60413",
-  "score_overall": 6.0,
-  "score_lokacija": 6.5,
-  "score_roi": 6.0,
-  "score_stanje": 5.5,
-  "recommendation": "watch",
-  "reasoning": "Trosobni stan 99.59 m2 u Omišu (~2.620 EUR/m2) na prvoj dražbi s 20% popustom - Omiš ima solidan turistički potencijal i blizinu Splita, ali cijena po m2 nije atraktivna dovoljno za agresivnu ponudu bez uvida u konkretnu lokaciju i stanje unutar objekta.",
-  "flags": [],
-  "input_hash": "3dda101f6f27",
-  "scored_at": "2026-05-20T09:29:23.461177"
+  "score_overall": 6.5,
+  "score_lokacija": 8.0,
+  "score_roi": 5.5,
+  "score_stanje": 6.0,
+  "recommendation": "bid",
+  "reasoning": "Omiš je tražena turistička lokacija uz obalu s dobrim potencijalom za najam, trosoban stan od skoro 100 m2 je solidne veličine. Popust od 20% na prvoj dražbi je umjeren pa je realno da cijena dodatno padne na sljedećoj dražbi.",
+  "flags": [
+    "provjeriti: postoji li stanar ili zakupac u stanu"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "7d054ce67fe2",
+  "scored_at": "2026-07-03T09:13:54.062954"
 }

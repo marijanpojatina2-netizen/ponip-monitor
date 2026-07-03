@@ -1,16 +1,16 @@
 {
   "id": "59652",
-  "score_overall": 4.0,
-  "score_lokacija": 3.5,
-  "score_roi": 5.0,
-  "score_stanje": 4.5,
-  "recommendation": "pass",
-  "reasoning": "Industrijska zgrada u Maloj Švarči (Karlovac) s 25% popustom na prvoj dražbi nudi ograničen potencijal — industrijsko tržište Karlovca je plitko i likvidnost etažnog vlasništva u poslovnoj zgradi je upitna. Suvlasnički udio 477/1000 i specijalizirana namjena (radionice, skladišta) otežavaju exit strategiju.",
+  "score_overall": 4.9,
+  "score_lokacija": 5.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Industrijska zgrada u Karlovcu s detaljno opisanim radioničkim i skladišnim prostorima ukazuje na funkcionalan pogon, no radi se tek o suvlasničkom dijelu (477/1000) etažnog vlasništva na prvoj dražbi s tek 25% popusta. Niži popust i suvlasnička struktura smanjuju atraktivnost u odnosu na druge predmete.",
   "flags": [
-    "suvlasnički udio 477/1000 — nije 100% vlasništvo",
-    "industrijska/poslovna namjena — uski kupački krug",
-    "etažno vlasništvo u kompleksu — potencijalni suvlasnički sporovi"
+    "provjeriti: suvlasnički odnosi i mogućnost samostalnog korištenja/prodaje udjela",
+    "provjeriti: tehničko stanje strojarske opreme i instalacija"
   ],
-  "input_hash": "555b4a4e6aa8",
-  "scored_at": "2026-04-19T19:36:45.448559"
+  "discount_pct": 25.0,
+  "input_hash": "43879a6a8563",
+  "scored_at": "2026-07-03T09:06:33.428359"
 }

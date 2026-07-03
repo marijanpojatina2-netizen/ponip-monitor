@@ -1,69 +1,46 @@
 {
   "id": "59016",
-  "score_overall": 5.5,
-  "score_lokacija": 5.5,
-  "score_roi": 7.5,
-  "score_stanje": 4.0,
+  "score_overall": 6.3,
+  "score_lokacija": 6.5,
+  "score_roi": 7.0,
+  "score_stanje": 4.5,
   "recommendation": "deep_dive",
-  "reasoning": "Industrijski kompleks od ~10.379 m² zgrada (10 objekata) na 15.495 m² zemljišta u Varaždinu po početnoj cijeni od ~112 EUR/m² zgrada iznimno je jeftino za funkcionalni industrijski park uz A4 koridor. Varaždin je jak industrijski i logistički centar sjeverozapadne Hrvatske, ali nije turistička destinacija — dugoročni ROI ovisi isključivo o industrijskoj/logističkoj potražnji. Neuspjela prva dražba i 50% popust s procjene od 2.320.000 EUR nude veliku maržu sigurnosti, no nepoznato stanje stečajne mase, potencijalna ekološka opterećenja i niska likvidnost tržišta za ovako veliki kompleks zahtijevaju temeljitu dubinsku analizu prije bilo kakvog licitiranja.",
+  "reasoning": "Velik industrijski kompleks (15.495 m2 zemljišta, ~10.379 m2 objekata) na Zagrebačkoj ulici u Varaždinu, etabliranom regionalnom industrijskom centru s dobrom prometnom povezanošću (autocesta prema Zagrebu, blizina mađarske/slovenske granice). Druga dražba s 50% popustom od procjene daje solidan ROI potencijal, no riječ je o stečajnoj masi s više odvojenih objekata nepoznatog točnog stanja, što nosi rizik dodatnih ulaganja i otežane likvidnosti za ovako velik asset. Zbog visoke vrijednosti (2,32M EUR) i kompleksnosti (deset zgrada, stečajni kontekst) preporučuje se detaljna due diligence prije licitacije, uključujući uvid u dozvole, terete i eventualne zakupce.",
   "flags": [
-    "Stečajna masa — prodaja bez garancije stanja, bez regresnih prava",
-    "Stanje svih 10 zgrada nepoznato — procjena dostupna SAMO na pisani upit upravitelju",
-    "Neuspjela prva dražba — mogući signal skrivenih problema (neriješeni tereti, komunalni dugovi, sporovi)",
-    "Potencijalna ekološka kontaminacija tla i podzemnih voda (dugogodišnja industrijska upotreba)",
-    "Dio objekata minimalnih površina (61, 79, 89 m²) — vjerojatno pomoćni objekti lošeg stanja",
-    "Provjera građevinskih dozvola i legalnosti svih 10 objekata obavezna",
-    "Moguće hipoteke, komunalni dugovi i porezne obveze iz stečajnog postupka"
+    "provjeriti: uporabne/građevinske dozvole za sve industrijske objekte (10 zasebnih zgrada)",
+    "provjeriti: postoje li zakupci ili treće strane u sklopu stečajne mase",
+    "provjeriti: ekološka opterećenost/kontaminacija tla s obzirom na industrijsku namjenu",
+    "provjeriti: tereti, hipoteke i eventualni sporovi u zk. izvatku (zk.ul. 15377 k.o. Varaždin)",
+    "provjeriti: stvarno tehničko stanje i energetska učinkovitost objekata (opis ne navodi stanje)"
   ],
   "market_estimate": {
     "eur_min": 1400000,
-    "eur_max": 3000000,
-    "confidence": "medium",
-    "basis": "Industrijske nekretnine u Varaždinu i Varaždinskoj županiji: funkcionalne hale 180-300 EUR/m², oronule/za obnovu 80-150 EUR/m². Dvije najveće hale (3.374+3.157=6.531 m²) nose 60-70% vrijednosti. Zemljište u industrijskoj zoni uz A4: 50-100 EUR/m². Napomena: web pretraživanje komparabila nije bilo dostupno; procjena temeljena na poznavanju regionalnog tržišta do 2025."
+    "eur_max": 2400000,
+    "confidence": "low",
+    "basis": "WebSearch alat nije bio dostupan (uskraćena dozvola) pa nisu dohvaćeni stvarni tržišni oglasi. Procjena se temelji na sudskoj procjeni vrijednosti (2,32M EUR), tipičnim rasponima cijena industrijskih/proizvodnih hala u sekundarnim kontinentalnim gradovima Hrvatske (okvirno 150-300 EUR/m2 GBP za funkcionalne, ne-renovirane proizvodne prostore) i pozicioniranju Varaždina kao snažnog regionalnog industrijskog centra."
   },
   "comparables": [
     {
-      "opis": "Industrijska hala ~3.000 m², Varaždin industrijska zona, aktivna, dobar pristup",
-      "cijena": 540000,
-      "m2": 3000,
-      "izvor": "tržišna procjena (web nedostupan)",
-      "url": "N/A"
-    },
-    {
-      "opis": "Poslovni/skladišni prostor ~5.000 m², Varaždin okolica, starija gradnja",
-      "cijena": 750000,
-      "m2": 5000,
-      "izvor": "tržišna procjena (web nedostupan)",
-      "url": "N/A"
-    },
-    {
-      "opis": "Industrijski kompleks ~8.000 m² zgrada + 10.000 m² zemljišta, Čakovec",
-      "cijena": 1200000,
-      "m2": 8000,
-      "izvor": "tržišna procjena (web nedostupan)",
-      "url": "N/A"
-    },
-    {
-      "opis": "Industrijska parcela s halama, Varaždinska županija, uz autocestu A4",
-      "cijena": 900000,
-      "m2": 6000,
-      "izvor": "tržišna procjena (web nedostupan)",
-      "url": "N/A"
+      "opis": "Nije bilo moguće dohvatiti stvarne usporedive oglase jer WebSearch alat nije odobren u ovoj sesiji - preporuka je ručna provjera nekretnine.net, njuskalo.hr i lokalnih agencija za industrijske nekretnine u Varaždinu prije donošenja odluke",
+      "cijena": null,
+      "m2": null,
+      "izvor": "N/A",
+      "url": null
     }
   ],
-  "investment_strategy": "INDUSTRIJSKI NAJAM + SELEKTIVNA PREPRODAJA: Faza 1 (0-12 mj) — temeljita due diligence (ekološki elaborat, tehnički pregled svih zgrada, provjera dozvola); Faza 2 (12-24 mj) — iznajmiti dvije najveće hale (3.157+3.374=6.531 m²) logističkim ili distributivnim kompanijama uz A4 koridor po 3-5 EUR/m²/mj što daje 19.593-32.655 EUR/mj prihoda; Faza 3 — prodati manje zasebne objekte individualno (532, 405, 647 m²) za povrat dijela kapitala. Alternativa: prodaja cijelog kompleksa industrijskom investitoru ili fondu nakon stabilizacije zakupa.",
+  "investment_strategy": "razvoj / iznajmljivanje - s obzirom na veličinu kompleksa (10 zasebnih objekata) i prometnu poziciju, najrealnija strategija je repozicioniranje u multi-tenant industrijski/skladišni park (izdavanje pojedinačnih hala manjim proizvođačima/logistici) ili prodaja cijelog kompleksa logističkom operateru; čista preprodaja bez adaptacije nosi veći rizik zbog specifičnosti industrijske namjene.",
   "entry_price_eur": 1400000,
   "detailed_risks": [
-    "Ekološka sanacija tla — industrijska postrojenja gotovo redovito imaju onečišćenje ugljikovodicima, teškim metalima ili mazivima; sanacija može koštati 150.000-600.000 EUR ovisno o opsegu",
-    "Azbest u starijim industrijskim zgradama (1970-1990-e) — uklanjanje 20-80 EUR/m², a za 10.000+ m² zgrada to je ozbiljan trošak",
-    "Krovišta i instalacije — kritična stavka za stare industrijske objekte; obnova krovišta hale 3.374 m² može koštati 300.000+ EUR",
-    "Niska tržišna likvidnost — Varaždin nema duboko tržište kupaca za ovako veliki kompleks; izlazna strategija može trajati 4-8 godina",
-    "Neuspjela prva dražba sugerira potencijalne skrivene probleme s dokumentacijom ili teretima",
-    "GUP Varaždin provjera — nužno potvrditi industrijsku/poslovnu namjenu za sve čestice",
-    "Komunalni priključci i dugovi — provjera stanja priključaka struje, vode, plina i eventualnih neplaćenih računa"
+    "Stečajna masa - moguća pravna i vlasnička kompleksnost te dodatni troškovi pravnog uređenja",
+    "Deset odvojenih industrijskih objekata različite starosti i namjene - visok rizik skrivenih troškova sanacije/adaptacije",
+    "Moguća ekološka kontaminacija tla tipična za starije industrijske lokacije",
+    "Ograničen krug kupaca za asset ove vrijednosti (2,32M EUR) i veličine - nižа likvidnost pri prodaji",
+    "Procjena stanja nije dostupna u opisu - potrebno fizičko razgledavanje uz stečajnog upravitelja"
   ],
-  "upside_scenario": "Ako su zgrade u solidnom stanju (novi krovovi, funkcionalne instalacije): iznajmljivanje 60-70% kapaciteta (6.000-7.000 m²) logističkim/distributivnim tvrtkama uz A4 koridor daje 216.000-420.000 EUR godišnje prihoda. Na ulaganje od 1.160.000-1.400.000 EUR to je 15-30% godišnjeg yielda. U horizontu od 3-5 godina, uz rastući logistički pritisak na sjeverozapadnu Hrvatsku i eventualni ulazak institucionalnih investitora, tržišna vrijednost kompleksa mogla bi doseći 2.500.000-3.500.000 EUR uz exit multiplikator od 2,0-2,5x.",
-  "downside_scenario": "Ako ekološki elaborat pokaže onečišćenje tla i zgrade zahtijevaju temeljitu obnovu: ukupna investicija naraste na 2.200.000-3.000.000 EUR, dok tržišna apsorpcija ovako velikog kompleksa u regionalnom centru bez institucionalne potražnje može potrajati 5-10 godina. Rizik zamrzavanja kapitala visok; u najgorem scenariju moguć gubitak od 500.000-800.000 EUR u odnosu na uloženo.",
-  "input_hash": "bf362254e2fa",
-  "scored_at": "2026-05-22T09:16:55.608339"
+  "upside_scenario": "Uz kupnju blizu početne cijene (1,16-1,4M EUR) i uspješnu repozicioniranje u multi-tenant industrijski/skladišni prostor, vrijednost kompleksa u 2-3 godine može doseći ili premašiti procijenjenih 2,32M EUR, uz dodatni prihod od najma pojedinih hala malim i srednjim proizvođačima koji traže prostor uz autocestu.",
+  "downside_scenario": "Ako se ne proda na drugoj dražbi, slijedi treća dražba s daljnjim padom cijene (obično -20 do -30%), ali kompleks ostaje na tržištu dulje uz rizik propadanja objekata; ako se kupi bez adekvatne due diligence, troškovi ekološke sanacije, ishođenja dozvola ili uklanjanja preostalih zakupaca/tereta mogu značajno umanjiti ili poništiti marginu.",
+  "score_stanje_note": null,
+  "discount_pct": 50.0,
+  "input_hash": "79b801c857b9",
+  "scored_at": "2026-07-03T09:32:50.548343"
 }
