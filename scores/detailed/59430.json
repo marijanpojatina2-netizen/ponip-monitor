@@ -1,56 +1,36 @@
 {
   "id": "59430",
-  "score_overall": 6.6,
-  "score_lokacija": 6.0,
-  "score_roi": 8.0,
+  "score_overall": 5.6,
+  "score_lokacija": 5.0,
+  "score_roi": 6.5,
   "score_stanje": 4.5,
-  "recommendation": "deep_dive",
-  "reasoning": "Poslovna zgrada od 1.572 m² s dvorištem 1.236 m² u k.o. Varaždin (ukupna parcela 2.808 m²) po nabavnoj cijeni od ~331 EUR/m² poslovnog prostora — znatno ispod tržišnih razina za taj grad. Varaždin je stabilan regionalni centar s aktivnim industrijskim i poslovnim sektorom (blizina auto-ceste A4, razvijena SME baza), ali likvidnost za komercijalne objekte te veličine je umjerena. Opis iz dražbenog dokumenta ne otkriva stanje zgrade ni eventualne terete, što je ključni rizik koji se mora razriješiti razgledavanjem i provjera ulaganja. Kombinacija 50% popusta, druge dražbe i potencijala dvorišta za razvoj opravdava detaljnu analizu.",
+  "recommendation": "watch",
+  "reasoning": "Poslovna zgrada od 1572 m2 s dvorištem na parceli od 2808 m2 u Varaždinu, na drugoj dražbi s 50% popustom (520.000 EUR nasuprot procjeni od 1.040.000 EUR), što je solidan diskont ali ne i turistička lokacija visoke likvidnosti. Kućanska ulica upućuje na poslovno/industrijsku zonu grada, a ne centar, a stanje objekta nije opisano što je tipično za stečajne nekretnine i nosi rizik skrivenih troškova adaptacije. Velika čestica zemljišta daje potencijal za prenamjenu ili iznajmljivanje, ali kontinentalno tržište poslovnih nekretnina ima nižu likvidnost od obalnih lokacija. Bez potvrđenih pravnih ili stambenih rizika u opisu, glavni teret je due diligence oko stanja objekta i eventualnih tereta.",
   "flags": [
-    "stečajni postupak — moguće zaostale obveze (komunalije, porezi, hipoteke)",
-    "nepoznato stanje objekta — opis ne navodi uvjete"
+    "provjeriti: stanje objekta (stečajni dužnik, mogući zapušteni/oštećeni prostor)",
+    "provjeriti: postoji li zakup ili pravo trećih na nekretnini",
+    "provjeriti: namjena čestice i mogućnost prenamjene/gradnje",
+    "provjeriti: teret stečajnog postupka i eventualni sporovi vjerovnika"
   ],
   "market_estimate": {
-    "eur_min": 700000,
-    "eur_max": 1250000,
-    "confidence": "medium",
-    "basis": "Poslovne zgrade u Varaždinu (ured/maloprodaja) postižu 500–800 EUR/m² u solidnom stanju; industrijski/skladišni objekti 300–500 EUR/m². Za 1.572 m² u uredskom standardu raspon je 785k–1.26M EUR, što potvrđuje procjenu 1.04M EUR. Donji rub uzima u obzir mogućnost da je objekt bliži industrijskom tipu i zahtijeva rekonstrukciju. Tržišnih podataka za Kućansku ulicu specifično nije bilo moguće pribaviti u realnom vremenu (web pretraga bila nedostupna)."
+    "eur_min": 650000,
+    "eur_max": 900000,
+    "confidence": "low",
+    "basis": "WebSearch alat nije bio dostupan u ovoj sesiji (odbijeno odobrenje), stoga procjena nije potkrijepljena live oglasima. Raspon je izveden iz suđenske procjene (1.040.000 EUR, ~661 EUR/m2 za 1572 m2 zgrade) uz uobičajeni diskont od 15-35% koji se primjenjuje na poslovne/industrijske nekretnine u sekundarnim kontinentalnim gradovima poput Varaždina u odnosu na sudsku procjenu."
   },
-  "comparables": [
-    {
-      "opis": "Kategorija — poslovni prostori prodaja Varaždin (tržišni pregled, nije specifičan oglas)",
-      "cijena": null,
-      "m2": null,
-      "izvor": "njuskalo.hr",
-      "url": "https://www.njuskalo.hr/poslovni-prostori-prodaja/varazdin"
-    },
-    {
-      "opis": "Kategorija — poslovni objekti prodaja Varaždin (pregled aktivnih oglasa)",
-      "cijena": null,
-      "m2": null,
-      "izvor": "nekretnine.net",
-      "url": "https://www.nekretnine.net/stambeni-objekti/prodaja/varazdinsk"
-    },
-    {
-      "opis": "Kategorija — poslovni prostori prodaja, Varaždinsk. županija (pregled tržišta)",
-      "cijena": null,
-      "m2": null,
-      "izvor": "index.hr oglasi",
-      "url": "https://www.index.hr/oglasi/kategorija/poslovni-prostori/prodaja"
-    }
-  ],
-  "investment_strategy": "Primarna: komercijalni zakup — 1.572 m² poslovnog prostora može privući distribucijskog, maloprodajnog ili uredskog korisnika po 5–8 EUR/m²/mj → godišnji prihod 94k–151k EUR (gross yield 18–29% na nabavnu cijenu 520k EUR). Sekundarna: razvoj dvorišta — 1.236 m² dvorišta u k.o. Varaždin nudi potencijal dogradnje ili parkirne infrastrukture uz plaćanje urbanističkih uvjeta. Reno-flip kao treća opcija ako je zgrada zastarjela: ul. investicija 150–300k EUR, ciljana prodajna cijena 900k–1.1M EUR u 18–24 mj.",
-  "entry_price_eur": 650000,
+  "comparables": [],
+  "investment_strategy": "razvoj / iznajmljivanje - velika čestica (2808 m2) s postojećom poslovnom zgradom pogodna je za repozicioniranje u logistički, skladišni ili lakoindustrijski prostor za najam, ili djelomičnu prenamjenu uz manju investiciju u adaptaciju, uz iskorištavanje niže ulazne cijene s druge dražbe.",
+  "entry_price_eur": 480000,
   "detailed_risks": [
-    "Nepoznato stanje zgrade — bez tehničkog pregleda nemoguće procijeniti trošak sanacije; stečajni objekti često zanemareni",
-    "Zaostale obveze iz stečajnog postupka (komunalni dugovi, porezni tereti, hipoteke) — obavezna provjera ZK uloška 14794 i javnih evidencija",
-    "Komercijalne nekretnine >1.000 m² u Varaždinu imaju uži krug potencijalnih kupaca/stanara nego stambene — duži izlazni period",
-    "Prometna i zonska provjera Kućanske ulice neophodna (dostupnost HGV vozilima, pješačka zona, udaljenost od centra)",
-    "Visoka jamčevina od 104.000 EUR zahtijeva solidnu likvidnost; neuspjeh na dražbi znači gubitak vremena bez povrata troška due diligence",
-    "Urbanistički plan za dvorište (1.236 m²) — provjera dozvoljenosti dogradnje ili prenamjene"
+    "Nepoznato stanje objekta (stečajni dužnik, mogući zapušten ili tehnički zastarjeo prostor)",
+    "Niža likvidnost tržišta poslovnih nekretnina u kontinentalnoj Hrvatskoj naspram obale",
+    "Mogući dodatni troškovi due diligence oko stečajnog postupka i tereta u zemljišnim knjigama",
+    "Rizik neuspjele prodaje na drugoj dražbi i potreba čekanja treće/četvrte s dodatnim padom cijene ali i dužim vezanjem kapitala",
+    "Nepoznata trenutna namjena/dozvoljena gradnja na čestici, što utječe na scenarije prenamjene"
   ],
-  "upside_scenario": "Zgrada je u solidnom stanju (uredska ili maloprodajna namjena), odmah useljiva. Pronalazak dugoročnog stanara u roku 3–6 mj po 6,5 EUR/m²/mj → ~122k EUR/god → povrat investicije <5 godina. Alternativno, preprodaja nakon minimalne uređenosti (trošak <80k EUR) za 950k–1.1M EUR unutar 12–18 mj = realizirani profit 330k–480k EUR. Razvoj dvorišta dodaje 100k–200k EUR vrijednosti.",
-  "downside_scenario": "Zgrada je u lošem stanju i zahtijeva rekonstrukciju 300k+ EUR; tržište stanara sporo u Varaždinu za tu veličinu; vezani kapital >3 god; konačni ROI pada ispod 8% godišnje, što ne opravdava rizik i imobilizaciju 620k+ EUR kapitala. Ako se ne pronađe stanar, prinosi su 0 uz tekuće troškove.",
-  "input_hash": "3a0212a7c392",
-  "scored_at": "2026-06-15T12:13:30.868690"
+  "upside_scenario": "Uz umjerenu investiciju u adaptaciju, zgrada se iznajmljuje lokalnom poduzeću za skladišnu/proizvodnu djelatnost ili se prodaje bliže sudskoj procjeni (900.000-1.000.000 EUR) u roku 2-3 godine, uz rast potražnje za poslovnim prostorima u sjeverozapadnoj Hrvatskoj.",
+  "downside_scenario": "Nekretnina se ne proda na drugoj dražbi te ide na treću/četvrtu s daljnjim padom cijene, uz produljeno vezanje kapitala i eventualne dodatne troškove pravnog razrješenja stečajnih tereta prije mogućnosti komercijalizacije.",
+  "discount_pct": 50.0,
+  "input_hash": "e95b028d1c9f",
+  "scored_at": "2026-07-06T10:44:59.888397"
 }

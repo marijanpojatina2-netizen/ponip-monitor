@@ -1,16 +1,15 @@
 {
   "id": "60307",
-  "score_overall": 3.0,
-  "score_lokacija": 2.5,
-  "score_roi": 3.0,
-  "score_stanje": 4.5,
+  "score_overall": 4.7,
+  "score_lokacija": 3.5,
+  "score_roi": 5.5,
+  "score_stanje": 5.0,
   "recommendation": "pass",
-  "reasoning": "Gornji Karin je ruralno zaleđe Zadra s izraženim depopulacijskim trendom i minimalnom tržišnom potražnjom, a procjena od 210.000 EUR (~963 EUR/m2) izgleda znatno pregledana za tu mikrolokaciju. Popust od 25% u prvom krugu ne kompenzira strukturne rizike lokacije i gotovo nepostojeću likvidnost.",
+  "reasoning": "Gornji Karin (Bukovica, zaleđe Novigrada) je slabo naseljeno, depopulacijsko područje bez turističke potražnje, a popust od 25% na prvoj dražbi nije dovoljno atraktivan za taj rizik. Kuća 102 m2 na 218 m2 zemljišta je standardne veličine bez naznaka posebne vrijednosti.",
   "flags": [
-    "ruralno depopulacijsko područje - zaleđe Zadra",
-    "potencijalno pregledana vrijednost (~963 EUR/m2 za ruralni Karin)",
-    "niska tržišna likvidnost i potražnja"
+    "provjeriti: stanje kuće nije detaljno opisano u oglasu"
   ],
-  "input_hash": "1844d780e99b",
-  "scored_at": "2026-05-14T08:35:40.210046"
+  "discount_pct": 25.0,
+  "input_hash": "83d1b9606a08",
+  "scored_at": "2026-07-06T10:18:06.067507"
 }

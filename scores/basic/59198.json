@@ -1,0 +1,15 @@
+{
+  "id": "59198",
+  "score_overall": 4.4,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Skup poljoprivrednih čestica i gospodarskih zgrada u Prugovcu kod Đurđevca, ruralna podravska lokacija s izraženom depopulacijom i slabom likvidnošću tržišta. Iako je popust od 40% na drugoj dražbi visok, dominantno poljoprivredna namjena i nedostatak stambenog objekta znatno smanjuju ROI atraktivnost za investitora.",
+  "flags": [
+    "provjeriti: stanje gospodarskih zgrada i mogućnost poljoprivredne eksploatacije"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "2d429f25c236",
+  "scored_at": "2026-07-06T10:15:46.070001"
+}

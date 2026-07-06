@@ -1,16 +1,15 @@
 {
   "id": "60272",
-  "score_overall": 3.0,
-  "score_lokacija": 2.5,
-  "score_roi": 3.5,
+  "score_overall": 4.0,
+  "score_lokacija": 2.0,
+  "score_roi": 5.5,
   "score_stanje": 4.0,
-  "recommendation": "pass",
-  "reasoning": "Mala kuća (88 m2) s voćnjakom u depopulacijskom baranskom selu Čeminac uz svega 20% popusta nema prepoznatljiv investicijski scenarij ni u najmu ni u preprodaji. Baranja bilježi konstantan demografski pad i gotovo nepostojeće tržište nekretnina.",
+  "recommendation": "watch",
+  "reasoning": "Čeminac u Baranji je ruralno, depopulacijsko područje sa slabom potražnjom za stambenim nekretninama. Kombinacija kuće, dvorišta, oranice i voćnjaka (ukupno gotovo 5.800 m2) daje dodatnu vrijednost kroz poljoprivredno zemljište, što opravdava praćenje unatoč slaboj lokaciji.",
   "flags": [
-    "depopulacijska zona - Baranja/Beli Manastir",
-    "minimalna likvidnost - nema kupaca na izlazu",
-    "ruralna lokacija bez turističkog ni poslovnog potencijala"
+    "provjeriti: stanje kuće i infrastrukture"
   ],
-  "input_hash": "b478c26d395c",
-  "scored_at": "2026-05-13T08:43:10.640936"
+  "discount_pct": 20.0,
+  "input_hash": "d8cbfa530f42",
+  "scored_at": "2026-07-06T10:18:06.068447"
 }

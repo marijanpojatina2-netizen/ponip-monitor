@@ -1,16 +1,15 @@
 {
   "id": "60492",
-  "score_overall": 3.0,
-  "score_lokacija": 5.5,
-  "score_roi": 2.5,
-  "score_stanje": 3.0,
-  "recommendation": "pass",
-  "reasoning": "Dual ZK oznaka 'ULICA FUČEKI / LIVADA' gotovo sigurno označava parcelu predviđenu ili već upisanu kao javna prometna površina, što je fatalan rizik za svakog privatnog investitora; svega 20% popust na prvoj dražbi ne kompenzira tu neizvjesnost ni izdaleka.",
+  "score_overall": 4.8,
+  "score_lokacija": 4.5,
+  "score_roi": 5.5,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Zemljište (livada) u Sesvetskom Kraljevcu na periferiji Zagreba, prva dražba s 20% popustom, bez izgrađenih objekata i infrastrukture. Namjena čestice (poljoprivredna vs. građevinska) nije jasna iz opisa što je ključno za procjenu ROI-a.",
   "flags": [
-    "'ULICA FUČEKI' - gotovo sigurna prometna/javna namjena parcele",
-    "negradevno ako je javna cesta - nulta razvojna vrijednost",
-    "samo 20% popust za visokorizičnu nekretninu nepoznate namjene"
+    "provjeriti: namjena zemljišta (poljoprivredno ili građevinsko)"
   ],
-  "input_hash": "33a20dad08c6",
-  "scored_at": "2026-06-09T09:40:48.017938"
+  "discount_pct": 20.0,
+  "input_hash": "fe5dfe4e4f15",
+  "scored_at": "2026-07-06T10:29:43.475975"
 }

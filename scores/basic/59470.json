@@ -1,14 +1,15 @@
 {
   "id": "59470",
-  "score_overall": 3.8,
+  "score_overall": 4.8,
   "score_lokacija": 2.5,
-  "score_roi": 5.0,
-  "score_stanje": 3.5,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
   "recommendation": "pass",
-  "reasoning": "Farma muznih krava u ruralnoj Podravini (k.o. Pivnica, Virovitica) — popust je solidan ali specijalizirana namjena drastično sužava krug kupaca i exit strategije. Virovitičko-podravska županija bilježi depopulaciju i slabu tržišnu likvidnost nekretnina.",
+  "reasoning": "Poljoprivredno zemljište s farmom muznih krava u Pivnici kod Virovitice, druga dražba s 40% popusta i pripadajućim bonusom likvidnosti. Ruralna, depopulacijska lokacija i nišnost namjene (aktivna farma) znatno ograničavaju investicijski potencijal.",
   "flags": [
-    "specijalizirana namjena - farma muznih krava"
+    "provjeriti: je li farma u aktivnom pogonu/zakupu"
   ],
-  "input_hash": "6bdfdbaae913",
-  "scored_at": "2026-06-19T10:24:33.651120"
+  "discount_pct": 40.0,
+  "input_hash": "c4e8fad40946",
+  "scored_at": "2026-07-06T10:24:51.394154"
 }

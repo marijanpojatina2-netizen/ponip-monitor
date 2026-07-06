@@ -1,16 +1,15 @@
 {
   "id": "60453",
-  "score_overall": 3.5,
-  "score_lokacija": 2.5,
-  "score_roi": 7.0,
-  "score_stanje": 3.0,
-  "recommendation": "pass",
-  "reasoning": "Sedam zgrada na Kolodvorskoj ulici u Podravskoj Slatini čine masivnu industrijsko-komercijalnu masu u depopulacijskoj zoni bez realne potražnje; 40% popust i druga dražba statistički izgledaju dobro, no nelikvidnost lokacije i trošak sanacije višestrukih objekata čine exit investicije praktički nemogućim.",
+  "score_overall": 5.3,
+  "score_lokacija": 3.0,
+  "score_roi": 7.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Podravska Slatina je manje mjesto u depopulacijskoj regiji Slavonije, ali 40% popust na drugoj dražbi daje solidan ROI potencijal. Opis ne otkriva namjenu/stanje četiri odnosno tri zgrade pa je nužna dodatna provjera prije ozbiljnijeg koraka.",
   "flags": [
-    "depopulacijska zona - Podravska Slatina",
-    "7 zgrada - masivna sanacija i visoki operativni troškovi",
-    "Kolodvorska ul. - industrijski karakter bez potražnje za zakupom"
+    "provjeriti: namjena i stanje objekata na česticama"
   ],
-  "input_hash": "1e5af3c8f680",
-  "scored_at": "2026-06-01T11:29:44.602729"
+  "discount_pct": 40.0,
+  "input_hash": "08bf12bedb12",
+  "scored_at": "2026-07-06T10:20:59.740030"
 }

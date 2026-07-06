@@ -1,12 +1,15 @@
 {
   "id": "59386",
-  "score_overall": 7.3,
-  "score_lokacija": 7.0,
-  "score_roi": 8.5,
-  "score_stanje": 5.0,
+  "score_overall": 6.6,
+  "score_lokacija": 5.0,
+  "score_roi": 9.0,
+  "score_stanje": 4.0,
   "recommendation": "bid",
-  "reasoning": "Industrijska zgrada 867 m2 u k.o. Šarampov (Zagreb) na 50% popusta uz malu jamčevinu od 24.100 EUR — atraktivan entry za industrijsko/komercijalno ulaganje u zagrebačkoj zoni. Manji iznos kapitala u igri smanjuje rizik.",
-  "flags": [],
-  "input_hash": "faa3830d8c7d",
-  "scored_at": "2026-06-15T11:58:47.913983"
+  "reasoning": "Industrijska čestica u Šarampovu u blizini zagrebačke regije prodaje se s izuzetnih 50% popusta na drugoj dražbi, što je snažan ROI signal. Stanje i namjena starijih industrijskih zgrada nisu detaljno opisani, no omjer cijene i lokacije čini ovo realnim kandidatom za licitaciju.",
+  "flags": [
+    "provjeriti: namjena i legalnost industrijskih objekata"
+  ],
+  "discount_pct": 50.0,
+  "input_hash": "e3e3ac5805dd",
+  "scored_at": "2026-07-06T10:20:59.741208"
 }

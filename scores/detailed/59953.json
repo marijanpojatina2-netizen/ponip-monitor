@@ -1,69 +1,35 @@
 {
   "id": "59953",
-  "score_overall": 6.0,
-  "score_lokacija": 9.0,
-  "score_roi": 4.5,
-  "score_stanje": 5.0,
+  "score_overall": 7.5,
+  "score_lokacija": 9.5,
+  "score_roi": 6.5,
+  "score_stanje": 6.0,
   "recommendation": "deep_dive",
-  "reasoning": "Ilica 15 je jedna od najprestižnijih komercijalnih adresa u cijeloj Hrvatskoj — tik uz Trg bana Jelačića, u srži Zagreb centra. E-7 etažno vlasništvo (poslovni prostor 1. kat + terasa) nosi izniman lokacijski potencijal, ali ga ozbiljno opterećuju dva strukturna problema: (1) 'suvlasnički dio s neodređenim omjerom' koji u hrvatskom ZK pravu znači nedovršen kondominij i potencijalne dugotrajne sudske rasprave, i (2) samo 20% popust na prvoj dražbi — nedovoljan da kompenzira pravnu nesigurnost pri ovoj razini kapitala. Terasa uz 1. kat rijetka je vrijednost na Ilici i jedinstven je argument za premium najam ili ugostiteljstvo. Svaka ozbiljna analiza mora prvo utvrditi stvarnu površinu E-7, razriješiti pitanje omjera, te provjeriti postoji li najam ili stanovanje.",
+  "reasoning": "Ilica 15 je apsolutni prvi red zagrebačkog centra (blizina Trga bana Jelačića), što nekretninu čini iznimno likvidnom i atraktivnom bez obzira na tip prostora. Popust od 20% na prvoj dražbi je umjeren, ali za lokaciju ovog kalibra i dalje predstavlja realan ROI. Glavni upitnik je pravna struktura - suvlasnički dio s neodređenim omjerom etažnog vlasništva zahtijeva detaljnu pravnu due diligence prije licitacije. Vrijednost >500k EUR i kompleksnost slučaja opravdavaju detaljnu analizu prije donošenja odluke.",
   "flags": [
-    "KRITIČNO: 'suvlasnički dio s neodređenim omjerom' — ZK upis bez utvrđenog idealnog dijela; otežava uknjižbu, prodaju i raspodjelu troškova",
-    "Veličina E-7 nije eksplicitno navedena u opisu dražbe — neophodan uvid u ZK uložak 11269 i etažni elaborat",
-    "Zgrada mješovite uporabe — supostojanje s potencijalnim stambenim etažnim vlasnicima, složena uprava zgrade",
-    "Poslovni prostor na 1. katu — komercijalno manje atraktivan od prizemlja, niža spontana prohodnost",
-    "Jamčevina 142.000 EUR — visoki cash-out zahtjev, nepovratan u slučaju odustajanja",
-    "Prva dražba, 20% popust — minimalan popust za imovinu s ovako složenom pravnom pozadinom",
-    "Nije navedeno stanje, popratna dokumentacija, energetski certifikat"
+    "neodređen omjer suvlasništva (nedovršeno etažiranje jedinice E-7)",
+    "provjeriti: točna kvadratura i granice poslovnog prostora E-7 unutar zgrade (887 m2 čestica, 741 m2 zgrada - omjer nije naveden)",
+    "provjeriti: trenutna zauzetost/status najma poslovnog prostora (opis ne navodi je li prostor u zakupu ili prazan)",
+    "provjeriti: stanje uređenja i tehnička ispravnost prostora (opis ne opisuje stanje)"
   ],
   "market_estimate": {
-    "eur_min": 1100000,
+    "eur_min": 1300000,
     "eur_max": 1900000,
     "confidence": "low",
-    "basis": "Zagreb centar, Ilica 1-30, poslovni prostori na katovima: 3.500–5.500 EUR/m2 ovisno o stanju i etaži; gornji strop za prostor s terasom i premium uređenjem. Raspon je širok jer veličina E-7 nije poznata — procjena pretpostavlja 200–400 m2 neto površine. Uz neodređeni omjer, tržišna realizabilnost pada za 10–20% dok se pravni status ne regulira."
+    "basis": "Procjena temeljena na općem poznavanju tržišta poslovnog prostora na Ilici (prime retail/office koridor Zagreba) gdje se cijene za prizemne/prvi kat lokacije kreću i do 3.000-5.000 EUR/m2; live web pretraga usporedivih oglasa nije bila dostupna u ovoj sesiji pa je procjena okvirna i zahtijeva potvrdu prije licitacije."
   },
-  "comparables": [
-    {
-      "opis": "Poslovni prostor prizemlje, Ilica 5-15 zona, ~200 m2, razina trga",
-      "cijena": 1400000,
-      "m2": 200,
-      "izvor": "tržišna procjena (njuskalo.hr / nekretnine.net — web nedostupan)",
-      "url": "https://www.njuskalo.hr/poslovni-prostori-prodaja/zagreb-gornji-grad-medvescak"
-    },
-    {
-      "opis": "Poslovni prostor 1. kat, Ilica 30-50 zona, ~150 m2",
-      "cijena": 600000,
-      "m2": 150,
-      "izvor": "tržišna procjena bazirana na medijanu 4.000 EUR/m2 za 1. kat Ilice",
-      "url": "https://www.nekretnine.net/stambeni-objekti/poslovni-prostori/lista/zagreb/"
-    },
-    {
-      "opis": "Poslovni prostor s terasom, Zagreb centar, 300+ m2, premium lokacija",
-      "cijena": 1600000,
-      "m2": 320,
-      "izvor": "analogna transakcija, Zagreb centar 2024 (posrednici Century 21 / Kastel nekretnine)",
-      "url": "https://www.njuskalo.hr/poslovni-prostori-prodaja/zagreb-centar"
-    },
-    {
-      "opis": "FINA dražba — Petrinjska 33, poslovni prostor Zagreb centar, 180 m2",
-      "cijena": 720000,
-      "m2": 180,
-      "izvor": "FINA javna dražba 2024 (usporedni predmet)",
-      "url": "https://e-oglasna.fina.hr"
-    }
-  ],
-  "investment_strategy": "Premium komercijalni najam ili ugostiteljstvo (terasa): ako je prostor 250–400 m2, Ilica 15 s terasom može generirati 8.000–15.000 EUR/month bruto najma (restorani, luksuzni retail, ured A-lokacije). Gross yield: 8–12% pri entry 1,0–1,2M EUR. Alternativno, reno-flip uz razrješenje vlasničke strukture — stabilizacija + prodaja u 3–5 god. pri 15–25% aprecijaciji. Nije preporučljivo kao kratkoročni flip dok god nije razrješen neodređeni omjer jer je preprodaja ZK-blokirana.",
-  "entry_price_eur": 950000,
+  "comparables": [],
+  "investment_strategy": "Dugoročno iznajmljivanje poslovnog prostora u prime lokaciji (visoka i stabilna najamnina za centar Zagreba) ili preprodaja nakon razrješenja etažiranja i pravne situacije - preporuka je prvo riješiti/razjasniti suvlasnički omjer pa tek onda razmišljati o daljnjoj strategiji.",
+  "entry_price_eur": 1050000,
   "detailed_risks": [
-    "Neodređeni suvlasnički omjer: u praksi znači da kupac ne zna točan udio u zajedničkim dijelovima (krov, fasada, dvorište 146 m2); može biti predmet parnice godinama",
-    "Etažni elaborat: bez njega nije moguća uknjižba novog vlasnika kao etažnog vlasnika — treba provjeriti postoji li valjani elaborat",
-    "Skriveni zakup ili stanovanje: opis ne navodi slobodnost posjeda — 1. kat može biti u podnajmu ili čak u stanobraniteljevom korištenju",
-    "Horizontalna solarna ekspozicija: 1. kat Ilice često nema direktne sunčeve ekspozicije zbog visine susjednih zgrada — ograničava ugostiteljsku terasu",
-    "Troškovi etažiranja / uknjižbe: regulacija neodređenog omjera može koštati 20.000–50.000 EUR u pravnim i geodetskim troškovima",
-    "Likvidnost: visoka apsolutna cijena sužava krug kupaca; izlaz iz investicije može trajati 12–36 mjeseci",
-    "Refinanciranje: banke teže kreditiraju imovinu s nedefiniranim suvlasničkim omjerom — gotovinska transakcija vjerojatno neophodna"
+    "Nedefiniran suvlasnički omjer može zahtijevati dodatni pravni postupak (razvrgnuće/utvrđivanje omjera) prije nego što se prostor može slobodno koristiti ili dalje prodati",
+    "Nepoznata točna kvadratura i granice jedinice E-7 otežavaju preciznu procjenu vrijednosti po m2",
+    "Nema podataka o postojećim korisnicima/zakupcima - moguć rizik da netko već koristi prostor po ugovoru koji prelazi na novog vlasnika",
+    "Zgrada mješovite namjene s više suvlasnika povećava kompleksnost upravljanja i mogućih budućih sporova oko zajedničkih dijelova"
   ],
-  "upside_scenario": "Pravnim čišćenjem vlasničke strukture (6–12 mj.) i renovacijom za premium gastro-retail koncepta s terasom (investicija 200–400k EUR), prostor postiže 12.000–18.000 EUR/month najma. Uz kapitalizaciju 5–6%, tržišna vrijednost stabiliziranog assets skače na 2,4–4,3M EUR — potencijalni 2x na uloženi kapital u horizonte 3–5 godina. Terasa na Ilici 15 je rijedak asset koji nikad neće izgubiti potražnju.",
-  "downside_scenario": "Ako se neodređeni omjer pokaže nerješivim (npr. suprotstavlja se više nasljednika ili sporna procjena dioba), imovina je de facto neprenosiva. Ulagač ostaje s objektom koji ne može uknjižiti ni prodati, a zakupnina 1. kata nije pokriće za 1,1M+ uloženog kapitala. Prolongirani pravni postupak + nemogućnost refinanciranja = zamrznuti kapital 5+ godina.",
-  "input_hash": "c63d81d74795",
-  "scored_at": "2026-04-24T08:23:40.301231"
+  "upside_scenario": "Nakon pravnog razjašnjenja suvlasničkog omjera, prostor na Ilici 15 iznajmljuje se poslovnim korisnicima (banka, ured, trgovina) uz najamninu koja bi u 2-3 godine mogla vratiti značajan dio uloženog kapitala, uz mogući rast vrijednosti od 15-25% zbog stalne potražnje za prime lokacijama u centru Zagreba.",
+  "downside_scenario": "Ako se pravna situacija oko neodređenog suvlasničkog omjera pokaže složenijom ili spornom, prostor može ostati neiskoristiv/neprodajan godinama, blokirajući kapital i generirajući dodatne pravne troškove bez povrata.",
+  "discount_pct": 20.0,
+  "input_hash": "950b762e1d69",
+  "scored_at": "2026-07-06T10:40:31.330066"
 }

@@ -1,16 +1,15 @@
 {
   "id": "59834",
-  "score_overall": 3.5,
+  "score_overall": 4.3,
   "score_lokacija": 3.5,
-  "score_roi": 3.5,
+  "score_roi": 5.0,
   "score_stanje": 4.0,
-  "recommendation": "pass",
-  "reasoning": "Pretežno poljoprivredno imanje (oranica 8.932 m2 + kuća + gosp. zgrade) u selu Petrijanec kod Varaždina s minimalnim popustom 20% na prvoj dražbi; ruralna depopulacijska zona, slaba likvidnost, stanje objekata nespecificirano.",
+  "recommendation": "watch",
+  "reasoning": "Veća ruralna parcela s kućom i gospodarskim zgradama u Petrijancu kraj Varaždina, periferna lokacija slabije likvidnosti. Prva dražba s tek 20,3% popusta ne pruža dovoljnu maržu za rizik ruralnog objekta.",
   "flags": [
-    "oranica čini 90% površine – ograničena prenamjena",
-    "ruralna lokacija – slaba likvidnost i dugi horizont izlaza",
-    "gospodarske zgrade nespecificiranog stanja – potencijalno visoki troškovi"
+    "provjeriti: stanje kuće i gospodarskih zgrada"
   ],
-  "input_hash": "4dbb1cc3c43e",
-  "scored_at": "2026-04-20T13:09:07.448380"
+  "discount_pct": 20.3,
+  "input_hash": "fc044c0ead48",
+  "scored_at": "2026-07-06T10:23:27.414966"
 }

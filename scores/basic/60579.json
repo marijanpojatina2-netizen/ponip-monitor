@@ -1,16 +1,15 @@
 {
   "id": "60579",
-  "score_overall": 4.5,
-  "score_lokacija": 7.0,
-  "score_roi": 4.0,
-  "score_stanje": 4.0,
-  "recommendation": "pass",
-  "reasoning": "Zagreb lokacija je načelno pozitivna, ali naziv katastarske čestice 'KANALSKI PUT I. ODVOJAK' snažno implicira prometnu ili infrastrukturnu namjenu koja bi onemogućila svaki privatni razvoj; 25% popust na prvoj dražbi daleko je premala premija za ovakav rizik namjene.",
+  "score_overall": 5.4,
+  "score_lokacija": 6.0,
+  "score_roi": 6.0,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Nekretnina se prodaje putem Trgovačkog suda u Osijeku, no k.o. Grad Zagreb upućuje na stvarnu lokaciju u Zagrebu što zahtijeva provjeru. Mala površina (185 m2) i nejasna namjena (kanalski put, dijelom izgrađeno zemljište) ograničavaju iskoristivost unatoč pristojnom popustu od 25%.",
   "flags": [
-    "naziv 'KANALSKI PUT' - visoka vjerojatnost prometne/javne namjene čestice",
-    "obavezna provjera DPU/UPU namjene i ZK tereta prije bilo kakve ponude",
-    "mala parcela 185 m² s nejasnim građevinskim potencijalom"
+    "provjeriti: neusklađenost nadležnog suda (Osijek) i katastarske općine (Grad Zagreb) - potvrditi stvarnu lokaciju i namjenu"
   ],
-  "input_hash": "819fa8161c0a",
-  "scored_at": "2026-06-09T09:40:48.017753"
+  "discount_pct": 25.0,
+  "input_hash": "47c2ec48a2bd",
+  "scored_at": "2026-07-06T10:27:29.652073"
 }

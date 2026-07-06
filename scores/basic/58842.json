@@ -1,16 +1,15 @@
 {
   "id": "58842",
-  "score_overall": 3.0,
+  "score_overall": 4.9,
   "score_lokacija": 2.0,
-  "score_roi": 4.5,
-  "score_stanje": 3.0,
-  "recommendation": "pass",
-  "reasoning": "Pridvorje kod Đakova je duboka ruralna Slavonija bez tržišne likvidnosti, a dvije kuće i tri zgrade na 621 m² u takvom okruženju signaliziraju zapušteni seljački kompleks zahtjevnog renoviranja. 40% popust na drugoj dražbi nije dovoljan da pokrije troškove sanacije i nedostatak izlaznog tržišta.",
+  "score_roi": 7.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Pridvorje kod Đakova je ruralno područje sa slabom potražnjom, ali kompleks od dvije kuće i tri pomoćne zgrade na 621 m2 uz 40% popusta na drugoj dražbi nudi zanimljiv omjer cijene i obujma nekretnine. Stanje objekata nije jasno opisano pa je potrebna dodatna provjera prije licitacije.",
   "flags": [
-    "ruralna Slavonija - selo Pridvorje",
-    "više zapuštenih objekata (2 kuće + 3 zgrade)",
-    "niska tržišna likvidnost regije"
+    "provjeriti: stanje kuća i pomoćnih zgrada"
   ],
-  "input_hash": "adfbfda849c8",
-  "scored_at": "2026-05-15T08:47:07.826541"
+  "discount_pct": 40.0,
+  "input_hash": "51a6c1519cc9",
+  "scored_at": "2026-07-06T10:18:06.068808"
 }

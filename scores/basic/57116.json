@@ -1,16 +1,16 @@
 {
   "id": "57116",
-  "score_overall": 3.0,
-  "score_lokacija": 2.5,
-  "score_roi": 4.0,
-  "score_stanje": 3.0,
-  "recommendation": "pass",
-  "reasoning": "Oranica 8.521m2 u ruralnoj Slavoniji (Črnec Rugivački) s depopulacijom i minimalnom tržišnom likvidnošću — čak ni 75% popusta na trećoj dražbi ne čini ovo atraktivnim za investitora orijentiranog na povrat kapitalnog ulaganja.",
+  "score_overall": 4.6,
+  "score_lokacija": 3.0,
+  "score_roi": 7.0,
+  "score_stanje": 2.0,
+  "recommendation": "watch",
+  "reasoning": "Oranica u ruralnoj zoni kod Kloštra Ivanića (Leprovica) bez ikakve infrastrukture ili razvojnog potencijala kratkoročno. Popust od 75% na trećoj dražbi je izniman, ali likvidnost poljoprivrednog zemljišta u depopulacijskom području ostaje upitna.",
   "flags": [
-    "Slavonija — depopulacijsko područje, slaba likvidnost",
-    "isključivo poljoprivredno zemljište bez razvojnog potencijala",
-    "treća dražba — dugotrajni neuspjeh prodaje signalizira strukturni problem"
+    "provjeriti: namjena i pristupačnost zemljišta",
+    "provjeriti: razlog neuspjeha prethodne dvije dražbe"
   ],
-  "input_hash": "a33a96ab377d",
-  "scored_at": "2026-04-21T07:48:22.606363"
+  "discount_pct": 75.0,
+  "input_hash": "73c73cf8c4c5",
+  "scored_at": "2026-07-06T10:22:17.683333"
 }

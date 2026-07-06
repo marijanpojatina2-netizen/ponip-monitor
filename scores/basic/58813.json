@@ -1,16 +1,16 @@
 {
   "id": "58813",
-  "score_overall": 5.0,
-  "score_lokacija": 4.0,
-  "score_roi": 7.0,
-  "score_stanje": 3.5,
+  "score_overall": 4.6,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
   "recommendation": "watch",
-  "reasoning": "Treća dražba sa 75% popustom nudi odličnu ulaznu cijenu (69k EUR za zgradu + dvorište 3.682m2), ali Benkovac/Vukšić je unutrašnjost Dalmacije s ograničenim turističkim potencijalom što ozbiljno otežava exit strategiju.",
+  "reasoning": "Zgrada i dvorište u Vukšiću kraj Benkovca dostupni su uz ekstremnih 75% popusta na trećoj dražbi, no ruralna i ratom pogođena lokacija u unutrašnjosti Zadarske županije ukazuje na vrlo slabu potražnju i likvidnost. Nizak apsolutni iznos čini ulazak jeftinim, ali stvarnu tržišnu vrijednost i stanje treba temeljito provjeriti prije odluke.",
   "flags": [
-    "unutrašnjost Dalmacije — slabija likvidnost",
-    "4 katastarske čestice u 2 zk ulošca — pravna kompleksnost",
-    "stanje zgrade nepoznato, vjerojatno zahtijeva temeljitu obnovu"
+    "provjeriti: stvarna tržišna vrijednost i likvidnost (treća dražba, slabo razvijeno područje)",
+    "provjeriti: stanje zgrade"
   ],
-  "input_hash": "2d571d544522",
-  "scored_at": "2026-04-21T07:48:22.606149"
+  "discount_pct": 75.0,
+  "input_hash": "1f7b88c4a12f",
+  "scored_at": "2026-07-06T10:19:27.526142"
 }

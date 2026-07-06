@@ -1,15 +1,15 @@
 {
   "id": "58358",
-  "score_overall": 6.5,
-  "score_lokacija": 6.5,
+  "score_overall": 7.0,
+  "score_lokacija": 7.0,
   "score_roi": 8.0,
-  "score_stanje": 4.5,
-  "recommendation": "watch",
-  "reasoning": "Građevinsko zemljište 2740 m2 u Istri s 40% popustom na drugoj dražbi daje solidan ulaz s potencijalom razvoja, no neevidentirana služnost NN mreže u ZK zahtijeva pravnu provjeru prije licitacije.",
+  "score_stanje": 5.0,
+  "recommendation": "bid",
+  "reasoning": "Građevinsko zemljište u Marčani kraj Pule s 40% popusta na drugoj dražbi nudi dobar ROI potencijal u istarskoj zoni s turističkom potražnjom. Neevidentirani vod i stup na međi mogu utjecati na poziciju buduće gradnje pa je potrebna provjera prije gradnje.",
   "flags": [
-    "neevidentirana služnost NN mreže u zemljišnoj knjizi",
-    "golo zemljište bez objekta - trošak gradnje"
+    "neevidentirana služnost voda (dalekovod na međi)"
   ],
-  "input_hash": "1ff21bf70c2b",
-  "scored_at": "2026-04-20T13:36:26.408530"
+  "discount_pct": 40.0,
+  "input_hash": "41ae179c734d",
+  "scored_at": "2026-07-06T10:28:40.207693"
 }

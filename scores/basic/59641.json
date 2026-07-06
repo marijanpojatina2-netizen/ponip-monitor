@@ -1,0 +1,16 @@
+{
+  "id": "59641",
+  "score_overall": 4.7,
+  "score_lokacija": 3.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Oranica u Humu na Sutli nalazi se u ruralnom području Krapinsko-zagorske županije s niskom likvidnošću unatoč 40% popustu na drugoj dražbi. Malena poljoprivredna parcela bez razvojnog potencijala čini ovo slabim investicijskim slučajem.",
+  "flags": [
+    "provjeriti: pristupni put do parcele",
+    "provjeriti: poljoprivredna namjena/ograničenja gradnje"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "d85d8c73674f",
+  "scored_at": "2026-07-06T10:17:01.027435"
+}

@@ -1,12 +1,15 @@
 {
   "id": "60494",
-  "score_overall": 5.2,
-  "score_lokacija": 3.5,
-  "score_roi": 6.0,
-  "score_stanje": 6.5,
+  "score_overall": 4.8,
+  "score_lokacija": 4.0,
+  "score_roi": 5.0,
+  "score_stanje": 6.0,
   "recommendation": "watch",
-  "reasoning": "Funkcionalan poslovni prostor od ~182m² s recepcijom, šest ureda i parkirnim mjestima u centru Slavonskog Broda nudi prihvatljiv ROI za lokalnog korisnika ili investitora. Slavonsko tržište ograničava likvidnost i aprecijaciju, a 25% popust na prvoj dražbi je solidan ali ne izvanredan.",
-  "flags": [],
-  "input_hash": "78ed5f2f283a",
-  "scored_at": "2026-06-26T09:01:09.235224"
+  "reasoning": "Uređen poslovni prostor od 181,87 m2 u Slavonskom Brodu s parkirnim mjestom djeluje funkcionalno, no lokacija manjeg grada i tek 25% popusta na prvoj dražbi ograničavaju ROI. Prodaja dolazi iz stečajnog postupka što traži dodatnu provjeru uvjeta.",
+  "flags": [
+    "provjeriti: dodatni uvjeti i troškovi prodaje iz stečajnog postupka"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "dc618de390d8",
+  "scored_at": "2026-07-06T10:22:17.684480"
 }

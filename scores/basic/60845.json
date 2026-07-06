@@ -1,0 +1,15 @@
+{
+  "id": "60845",
+  "score_overall": 6.0,
+  "score_lokacija": 7.0,
+  "score_roi": 5.5,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Četverosobni stan u Zagrebu (Jakuševec/Sv. Rok) s 25% popustom na prvoj dražbi je solidna ali ne izrazito jeftina prilika. Opis nekretnine je dvosmislen (kombinira staru i novu zk. oznaku), što zahtijeva dodatnu provjeru prije ozbiljnog razmatranja.",
+  "flags": [
+    "provjeriti: nejasan/dvostruki opis nekretnine u zemljišnoknjižnoj dokumentaciji"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "097e346daf0b",
+  "scored_at": "2026-07-06T10:14:14.506469"
+}

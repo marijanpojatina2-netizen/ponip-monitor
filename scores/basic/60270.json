@@ -1,16 +1,15 @@
 {
   "id": "60270",
-  "score_overall": 3.0,
+  "score_overall": 3.9,
   "score_lokacija": 2.5,
-  "score_roi": 3.5,
+  "score_roi": 5.0,
   "score_stanje": 4.0,
   "recommendation": "pass",
-  "reasoning": "Donji Miholjac je depopulacijsko ruralno područje Slavonije s minimalnom tržišnom likvidnošću, a svega 20% popusta na prvoj dražbi ne opravdava ulazak. Kombinacija oranice, kuće i tri zgrade na toj lokaciji nema realnog izlaznog scenarija za investitora.",
+  "reasoning": "Donji Miholjac/Ivanovo je rubno, depopulacijsko područje istočne Slavonije sa slabom likvidnošću nekretnina. Kompleks oranica+kuća+3 zgrade ukazuje na stariji poljoprivredni sklop bez jasnih naznaka stanja ili potencijala za brz obrt.",
   "flags": [
-    "ruralna Slavonija - depopulacijsko područje",
-    "samo 20% popusta na prvoj dražbi",
-    "niska tržišna likvidnost regije"
+    "provjeriti: stanje kuće i pomoćnih zgrada"
   ],
-  "input_hash": "8b7310191846",
-  "scored_at": "2026-05-15T08:47:07.826080"
+  "discount_pct": 20.0,
+  "input_hash": "dc285384d771",
+  "scored_at": "2026-07-06T10:18:06.067972"
 }

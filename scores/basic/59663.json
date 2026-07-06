@@ -1,0 +1,15 @@
+{
+  "id": "59663",
+  "score_overall": 4.1,
+  "score_lokacija": 1.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Kuća s dvorištem i oranicom u selu Gaboš (Vukovarsko-srijemska županija), području s izrazitom depopulacijom i vrlo slabom likvidnošću tržišta nekretnina. Iako je popust od 40% na drugoj dražbi nominalno visok, slaba lokacija čini ROI potencijal upitnim za dugoročnu investiciju.",
+  "flags": [
+    "provjeriti: stanje objekta i mogućnost iznajmljivanja/prodaje u regiji"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "cc0d991ffe4c",
+  "scored_at": "2026-07-06T10:15:46.070489"
+}

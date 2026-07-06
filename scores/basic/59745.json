@@ -1,15 +1,15 @@
 {
   "id": "59745",
-  "score_overall": 7.5,
+  "score_overall": 6.8,
   "score_lokacija": 9.0,
-  "score_roi": 7.0,
-  "score_stanje": 5.0,
+  "score_roi": 6.0,
+  "score_stanje": 4.5,
   "recommendation": "deep_dive",
-  "reasoning": "Mali Lošinj je premium turistička destinacija s izvanredno visokim prinosom kratkoročnog najma - kuća 50 m2 s dvorištem 102 m2 na otoku ovog kalibra ima izniman dugoročni potencijal čak i uz nepoznato stanje i logistiku renoviranja; 20% popust je minimalan ali lokacija to apsolutno opravdava.",
+  "reasoning": "Kuća u Malom Lošinju, izrazito traženoj turističkoj destinaciji na otoku, ima veliki dugoročni ROI potencijal unatoč skromnom popustu od 20% na prvoj dražbi. Manja površina kuće (50 m2) i nedostatak opisa stanja upućuju na moguću potrebu renovacije, što opravdava detaljniju analizu.",
   "flags": [
-    "stanje kuće nepoznato - potencijalni renovacijski trošak",
-    "otoška logistika povećava trošak radova"
+    "provjeriti: stanje objekta i potreba za renovacijom"
   ],
-  "input_hash": "2e2abd5c6721",
-  "scored_at": "2026-04-20T13:02:52.787236"
+  "discount_pct": 20.0,
+  "input_hash": "d7b773f60e64",
+  "scored_at": "2026-07-06T10:22:17.684313"
 }

@@ -1,0 +1,16 @@
+{
+  "id": "59705",
+  "score_overall": 6.4,
+  "score_lokacija": 7.0,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Maslinik na otoku MalomIžu uz 40% popust i drugu dražbu daje solidan ROI potencijal, ali mala površina (301 m2) i status čistog poljoprivrednog zemljišta ograničavaju iskoristivost. Otočna lokacija je atraktivna, no infrastruktura i pristup na malim otocima poput Iža često su ograničavajući faktor.",
+  "flags": [
+    "provjeriti: pristup i infrastruktura (otok)",
+    "provjeriti: namjena zemljišta/mogućnost gradnje"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "90ab0c31c97e",
+  "scored_at": "2026-07-06T10:17:01.027108"
+}

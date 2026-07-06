@@ -1,12 +1,13 @@
 {
   "id": "59318",
-  "score_overall": 7.2,
-  "score_lokacija": 6.5,
-  "score_roi": 8.5,
+  "score_overall": 6.9,
+  "score_lokacija": 7.0,
+  "score_roi": 7.5,
   "score_stanje": 5.5,
   "recommendation": "bid",
-  "reasoning": "Poslovni lokal 114 m2 na drugoj dražbi s 40% popustom u Novom Zagrebu — izuzetno atraktivan ROI na likvidnom zagrebačkom tržištu uz veliku stambenu zonu koja jamči potražnju za najmom. Etažno vlasništvo standardna je pravna forma, bez vidljivih rizika u opisu.",
+  "reasoning": "Poslovni lokal od 114 m2 u Novom Zagrebu (Zaprudski otok) uz solidan gradski položaj i 40% popust na drugoj dražbi čini realan investicijski kandidat. Stanje prostora nije detaljno opisano pa se procjenjuje kao standardno.",
   "flags": [],
-  "input_hash": "ad056a71f248",
-  "scored_at": "2026-06-19T10:24:33.650963"
+  "discount_pct": 40.0,
+  "input_hash": "f1a885c11c25",
+  "scored_at": "2026-07-06T10:22:17.683818"
 }

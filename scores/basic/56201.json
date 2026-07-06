@@ -1,0 +1,16 @@
+{
+  "id": "56201",
+  "score_overall": 6.0,
+  "score_lokacija": 6.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Zemljište u mjestu Crno kod Zadra s dobrim popustom od 40% na drugoj dražbi, no radi se o neizgrađenom placu bez objekta što ograničava trenutnu iskoristivost. Prodaje se samo suvlasnički dio od 1/2, što bitno komplicira upravljanje i buduću prodaju cijele nekretnine.",
+  "flags": [
+    "suvlasnički dio (1/2)",
+    "provjeriti: komunalna infrastruktura i mogućnost gradnje na čestici"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "5254503fc841",
+  "scored_at": "2026-07-06T10:15:46.069629"
+}

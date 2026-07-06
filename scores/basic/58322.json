@@ -1,17 +1,15 @@
 {
   "id": "58322",
-  "score_overall": 2.5,
-  "score_lokacija": 1.5,
-  "score_roi": 4.0,
-  "score_stanje": 3.0,
+  "score_overall": 4.3,
+  "score_lokacija": 2.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.5,
   "recommendation": "pass",
-  "reasoning": "Jasenovac kao lokacija nosi iznimno tešku povijesnu i reputacijsku stigmu koja direktno urušava preprodajnu vrijednost i likvidnost; mala parcela s nejasnom gradnjom u ruralnom depopulacijskom području ne opravdava investiciju ni uz 40% popust na drugoj dražbi.",
+  "reasoning": "Manje parcele s kućom i gospodarskim zgradama u Jasenovcu, dubokoj depopulacijskoj zoni slabe likvidnosti. Unatoč 40% popustu i drugoj dražbi, slaba lokacija čini ROI upitnim.",
   "flags": [
-    "Jasenovac - teška povijesna stigma, dramatično sužava kupce",
-    "Ruralno depopulacijsko područje Sisačko-moslavačke županije",
-    "Izrazito mala parcela (2.107 m²) s nejasno opisanom gradnjom",
-    "Nema turističkog, razvojnog ni rentabilnog potencijala"
+    "provjeriti: stanje kuće i gospodarske zgrade"
   ],
-  "input_hash": "08af3176b565",
-  "scored_at": "2026-05-29T09:51:37.438150"
+  "discount_pct": 40.0,
+  "input_hash": "fe58bca64c0f",
+  "scored_at": "2026-07-06T10:23:27.414396"
 }

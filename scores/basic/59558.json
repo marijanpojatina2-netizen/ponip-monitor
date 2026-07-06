@@ -1,14 +1,15 @@
 {
   "id": "59558",
-  "score_overall": 5.6,
-  "score_lokacija": 5.5,
-  "score_roi": 6.0,
+  "score_overall": 6.2,
+  "score_lokacija": 4.5,
+  "score_roi": 8.0,
   "score_stanje": 5.0,
-  "recommendation": "watch",
-  "reasoning": "Pušća kraj Zaprešića je prihvatljiva rubna zagrebačka lokacija s 40% popustom, ali opis s dva parcijalna suvlasnička dijela (ovršenik 1 i ovršenik 3, svaki 1/2) sugerira složenu vlasničku strukturu koja zahtijeva provjeru postoje li i drugi suvlasnici koji nisu ovršenici. Kuća s gospodarskim zgradama i 1629m2 nudi potencijal uz razjašnjenje vlasništva.",
+  "recommendation": "bid",
+  "reasoning": "Kuća s gospodarskom zgradom i okućnicom u Pušći (Zaprešić) na drugoj dražbi s 40% popusta nudi izrazito povoljan omjer cijene i vrijednosti. Lokacija je ruralno-periferna pa je ROI vezan uz daljnji razvoj područja, a suvlasnički udio 1/2 zahtijeva provjeru.",
   "flags": [
-    "složena suvlasnička struktura (1/2 + 1/2 od dva ovršenika - nejasno ima li trećih suvlasnika)"
+    "provjeriti: pravo prvokupa suvlasnika (1/2 dijela)"
   ],
-  "input_hash": "32c24d7a54ce",
-  "scored_at": "2026-06-22T11:50:06.034514"
+  "discount_pct": 40.0,
+  "input_hash": "9c67d2259f15",
+  "scored_at": "2026-07-06T10:27:29.651895"
 }

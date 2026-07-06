@@ -1,16 +1,15 @@
 {
   "id": "59190",
-  "score_overall": 4.0,
-  "score_lokacija": 2.5,
-  "score_roi": 5.5,
-  "score_stanje": 4.0,
-  "recommendation": "pass",
-  "reasoning": "Industrijska nekretnina (gospodarska zgrada + silos) u ruralnom Koprivničkom Ivanu s kompleksnim suvlasničkim udjelom 6. suvlasnika od 102/200 dijela drastično sužava krug kupaca; unatoč solidnom popustu od 40% i drugoj dražbi, tržišna likvidnost za ovakvu imovinu na ovoj lokaciji je iznimno slaba.",
+  "score_overall": 5.3,
+  "score_lokacija": 4.0,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Industrijski kompleks u Koprivničkom Ivancu, druga dražba s 40% popusta, ali prodaje se tek 102/200 suvlasničkog dijela što bitno komplicira upravljanje i likvidnost. Lokacija je periferna uz manji grad, potreban je detaljan pravni due diligence prije daljnjeg koraka.",
   "flags": [
-    "suvlasnički udio – 6. suvlasnik od 102/200 dijela",
-    "industrijska zona u ruralnoj depopulacijskoj sredini",
-    "kompleksna suvlasnička struktura otežava uknjižbu i daljnju prodaju"
+    "provjeriti: upravljanje suvlasničkom nekretninom (samo 102/200 dijela)"
   ],
-  "input_hash": "97f7c41e05c1",
-  "scored_at": "2026-06-04T09:55:25.616645"
+  "discount_pct": 40.0,
+  "input_hash": "94c0f6ecb74e",
+  "scored_at": "2026-07-06T10:24:51.394421"
 }

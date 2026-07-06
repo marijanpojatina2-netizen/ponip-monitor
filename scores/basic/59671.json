@@ -1,0 +1,16 @@
+{
+  "id": "59671",
+  "score_overall": 4.6,
+  "score_lokacija": 3.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Riječ je o izrazito fragmentiranim suvlasničkim udjelima (3/4 i 3/8) na više malih poljoprivrednih čestica kod Karlovca, što drastično otežava konsolidaciju i realnu iskoristivost. Niska vrijednost i ruralna lokacija dodatno smanjuju investicijsku atraktivnost unatoč 40% popustu.",
+  "flags": [
+    "suvlasništvo - fragmentirani udjeli (3/4, 3/8)",
+    "provjeriti: mogućnost objedinjavanja ili diobe suvlasničke zajednice"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "edea870dead3",
+  "scored_at": "2026-07-06T10:17:01.027884"
+}

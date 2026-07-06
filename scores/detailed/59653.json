@@ -1,0 +1,37 @@
+{
+  "id": "59653",
+  "score_overall": 5.5,
+  "score_lokacija": 4.5,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Velika industrijska nekretnina (1.679,86 m2, trokatni poslovni prostor) u industrijskoj zoni Mala Švarča kraj Karlovca, uz 50% popusta na drugoj dražbi što je iznimno atraktivno za veličinu objekta. Lokacija je periferija manjeg grada s ograničenom likvidnošću za industrijske nekretnine, a suvlasnički dio 477/1000 u etažnom vlasništvu unosi dodatnu kompleksnost oko upravljanja i budućeg raspolaganja. Zbog visoke apsolutne vrijednosti (>500k EUR) i strukturne složenosti (suvlasništvo, stečajna prodaja, nepoznato stanje instalacija) predmet zaslužuje detaljnu due diligence prije bilo kakve odluke o licitaciji.",
+  "flags": [
+    "provjeriti: suvlasnički odnos 477/1000 i upravljanje etažnim vlasništvom (E-2)",
+    "provjeriti: postoji li trenutni korisnik/najmoprimac industrijskog prostora",
+    "provjeriti: stanje i funkcionalnost instalacija (trafostanica, kompresorska stanica, elektroradionica)",
+    "provjeriti: tereti i upisi u zk. ul. 1863 k.o. Mala Švarča osim stečaja",
+    "provjeriti: mogućnost namjenske promjene/rekonfiguracije prostora s obzirom na visoku specijalizaciju (radionice, alatnica, skladišta)"
+  ],
+  "market_estimate": {
+    "eur_min": 650000,
+    "eur_max": 1050000,
+    "confidence": "low",
+    "basis": "Web search alat nije bio dostupan u ovoj sesiji (odbijena dozvola), pa procjena nije potkrijepljena live oglasima. Temelji se na iskustvenom rasponu cijena industrijskih/proizvodnih prostora u Karlovcu i okolici (otprilike 350-650 EUR/m2 za funkcionalne starije industrijske objekte bez temeljite obnove), primijenjenom na neto površinu 1.679,86 m2. Utvrđena vrijednost suda (851 EUR/m2) djeluje optimistično za ovaj tip i lokaciju nekretnine."
+  },
+  "comparables": [],
+  "investment_strategy": "Iznajmljivanje proizvodno-skladišnog prostora lokalnim SME poduzećima (metaloprerađivačka/logistička djelatnost) uz minimalna ulaganja u infrastrukturu, s dugoročnim ciljem prodaje ili konverzije u multi-tenant logistički/proizvodni centar s obzirom na blizinu autoceste A1 (Zagreb-Karlovac-Rijeka/Split).",
+  "entry_price_eur": 620000,
+  "detailed_risks": [
+    "Suvlasnički dio (477/1000) može otežati samostalno raspolaganje i buduću prodaju cijele nekretnine",
+    "Stečajna prodaja - kupnja najvjerojatnije 'kao jest', bez jamstava prodavatelja",
+    "Uska baza kupaca za specijaliziran industrijski prostor ove veličine u Karlovcu, što produljuje vrijeme izlaska iz investicije",
+    "Moguća potreba značajnijih ulaganja u zastarjelu industrijsku infrastrukturu (trafo, kompresor) prije stavljanja u funkciju",
+    "Ako se ne proda ni na drugoj dražbi, slijedi treća/četvrta dražba s dodatnim vremenskim odmakom prije realizacije investicije"
+  ],
+  "upside_scenario": "Uz uspješnu identifikaciju industrijskog/logističkog najmoprimca i minimalna ulaganja u repariranje instalacija, prostor generira stabilan najam (procjena 2,5-4 EUR/m2/mjesec), uz mogućnost prodaje cijele nekretnine unutar 2-3 godine po vrijednosti bližoj utvrđenoj procjeni od 1,43 mil EUR ako se riješi pitanje suvlasništva.",
+  "downside_scenario": "Nekretnina ostaje neprodana i na trećoj/četvrtoj dražbi uz daljnje snižavanje cijene, suvlasnički odnosi blokiraju restrukturiranje ili prodaju cjeline, a slaba potražnja za specijaliziranim industrijskim prostorom u Karlovcu produljuje period bez prihoda i veže kapital investitora na neodređeno vrijeme.",
+  "discount_pct": 50.0,
+  "input_hash": "abc5b5cb0369",
+  "scored_at": "2026-07-06T10:39:10.738604"
+}

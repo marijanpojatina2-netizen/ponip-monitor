@@ -1,16 +1,15 @@
 {
   "id": "60573",
-  "score_overall": 3.5,
-  "score_lokacija": 4.5,
-  "score_roi": 3.0,
-  "score_stanje": 4.0,
+  "score_overall": 4.5,
+  "score_lokacija": 6.0,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
   "recommendation": "pass",
-  "reasoning": "Pašnjak 538 m2 u zaleđu Rijeke (Marčelji) bez ikakvog objekta — investicijski potencijal gotovo ne postoji bez ishođenja dozvola za gradnju, a 20% popust na prvoj dražbi nije dovoljan da kompenzira nelikvidnost i ograničenja namjene. Lokacija je geografski blizu Rijeke ali nema turističke ni razvojne prednosti.",
+  "reasoning": "Manja čestica pašnjaka od 538 m2 u Marčeljima kod Rijeke, uz dobru regionalnu lokaciju ali bez samostalne građevinske vrijednosti. Ograničena korisnost (vjerojatno zanimljivo tek susjednom vlasniku kuće) čini ROI slabim unatoč lokaciji.",
   "flags": [
-    "pašnjak bez objekta — ograničen razvoj bez građevnih dozvola",
-    "nema priključaka ni infrastrukture navedene",
-    "rubna zona bez jasnog investicijskog narativa"
+    "provjeriti: pristup/pravo prolaza do čestice (nalazi se pored kuće)"
   ],
-  "input_hash": "3f79fa7061c2",
-  "scored_at": "2026-06-10T09:55:18.921702"
+  "discount_pct": 20.0,
+  "input_hash": "fd7d3ed80d7b",
+  "scored_at": "2026-07-06T10:24:51.395484"
 }

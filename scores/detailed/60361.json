@@ -1,67 +1,36 @@
 {
   "id": "60361",
-  "score_overall": 6.0,
-  "score_lokacija": 6.5,
-  "score_roi": 6.5,
-  "score_stanje": 4.5,
+  "score_overall": 6.3,
+  "score_lokacija": 8.0,
+  "score_roi": 5.5,
+  "score_stanje": 5.0,
   "recommendation": "deep_dive",
-  "reasoning": "Nekretnina u Donjem Prekrižju (zapadna periferija Zagreba, Stenjevec zona) nudi rijetku kombinaciju: 390 m² stambene površine i iznimno veliku parcelu od 3.545 m² unutar gradskog pojasa, što je temeljni argument za detaljnu analizu. Početna cijena od 988.000 EUR (20% popust od procjene) potencijalno je ispod tržišne vrijednosti ako zoniranje dopušta razvoj ili parcelaciju. Kritična nepoznanica je stanje objekta — opis je minimalan bez ikakvih indicija o kvaliteti ili godini gradnje. Veličina investicije i tri odvojene čestice zahtijevaju ozbiljan ZK i arhitektonsko-urbanistički due diligence prije licitiranja.",
+  "reasoning": "Donje Prekrižje je brdska/vilinska zona sjevernog Zagreba (blizu Šestina, Tuškanca, Cmroka), tradicionalno tražena za obiteljske kuće s okućnicom, što nosi visoku lokacijsku ocjenu. Radi se o prvoj dražbi s minimalnim zakonskim popustom od 20%, pa ROI arbitraža nije velika, ali velika ukupna parcela (3545 m2 kroz tri čestice) uz kuću od 390 m2 nosi potencijal razvoja/parcelacije. Stanje objekta nije opisano pa se procjenjuje neutralno-umjereno uz obveznu fizičku inspekciju. Zbog visoke vrijednosti i brojnih nepoznanica (stanje, teret, useljenost) preporuča se detaljna due diligence prije licitacije.",
   "flags": [
-    "Stanje objekta nepoznato — opis ne navodi renoviranost, godinu gradnje ni infrastrukturni status",
-    "Zoniranje parcele 3.545 m² kritično nejasno — ključna razlika između GN (dozvoljena gradnja) i zelene/AG zone (nije)",
-    "Tri odvojene katastarske čestice (8578/3, 8578/6, 8578/7) — obavezna provjera svakog ZK-a na terete, hipoteke i stvarna prava koja ne prestaju prodajom",
-    "Prva dražba — nema cjenovnog bonusa, viši rizik konkurentnih ponuda na atraktivnoj lokaciji",
-    "Visoka jamčevina 123.500 EUR — značajan kapitalni zahtjev koji eliminira sitne investitore"
+    "provjeriti: stanuje li netko u stambenoj zgradi",
+    "provjeriti: postoje li tereti, hipoteke ili prava trećih koja ne prestaju prodajom",
+    "provjeriti: stvarno stanje i starost stambene i pomoćnih zgrada",
+    "provjeriti: mogućnost parcelacije/dogradnje na dvorišnim česticama"
   ],
   "market_estimate": {
     "eur_min": 1150000,
-    "eur_max": 1600000,
-    "confidence": "medium",
-    "basis": "Procjena na bazi poznatih tržišnih podataka za Zagreb zapad 2024-2025: kuće u Stenjevcu/Prekrižju postižu 1.800-2.500 EUR/m² (390 m² = 702k-975k EUR za građevinu). Zemljište 3.545 m² u urbanoj zoni Zagreba vrednuje se 100-200 EUR/m² za neizgrađene parcele, odnosno više uz razvojni potencijal (355k-710k EUR). Ukupni raspon: 1,05M-1,69M EUR. Procjena od 1,235M EUR od suda je blizu donje granice tržišne vrijednosti, što je konzervativno."
+    "eur_max": 1650000,
+    "confidence": "low",
+    "basis": "Procjena temeljena na poznavanju tržišta brdskih rezidencijalnih zona sjevernog Zagreba (Šestine, Tuškanac, Cmrok) i veličini parcele/objekta (3545 m2 zemljišta, 390 m2 stambene zgrade). Web pretraga za aktualne oglase i cijene po m² nije bila dostupna u ovoj sesiji (alat WebSearch nije odobren), stoga nema live usporedivih oglasa niti provjerenih URL-ova - preporuča se ručna provjera na nekretnine.net i njuskalo.hr prije donošenja odluke."
   },
-  "comparables": [
-    {
-      "opis": "Kuća cca 350 m², parcela 1.200 m², Stenjevec Zagreb — obiteljska kuća dobar standard",
-      "cijena": 870000,
-      "m2": 350,
-      "izvor": "njuskalo.hr (procjena iz baze znanja, live pristup nije bio dostupan)",
-      "url": "https://www.njuskalo.hr/prodaja-kuce/stenjevec"
-    },
-    {
-      "opis": "Kuća 400 m², parcela 2.000 m², Zagreb zapad — starija gradnja za renovaciju",
-      "cijena": 980000,
-      "m2": 400,
-      "izvor": "nekretnine.net (procjena iz baze znanja)",
-      "url": "https://www.nekretnine.net/pretraga/kuce/zagreb/zapad"
-    },
-    {
-      "opis": "Imanje s vilom 450 m², parcela 3.000 m², Podsused — renovirano, premium",
-      "cijena": 1450000,
-      "m2": 450,
-      "izvor": "njuskalo.hr (procjena iz baze znanja)",
-      "url": "https://www.njuskalo.hr/prodaja-kuce/podsused"
-    },
-    {
-      "opis": "Kuća 320 m², parcela 1.500 m², Donje Prekrižje zona — sličan profil",
-      "cijena": 850000,
-      "m2": 320,
-      "izvor": "crozilla.com (procjena iz baze znanja)",
-      "url": "https://www.crozilla.com/hr/search/kuče/zagreb"
-    }
-  ],
-  "investment_strategy": "Razvoj + reno-flip: Primarni investicijski teza leži u velikom urbano-perifernom zemljištu (3.545 m²). Ako GUP Zagreba dopušta parcelaciju, prodaja odvojene parcele ~1.500 m² može donijeti 200-300k EUR i pokriti dio ulaza. Renovacija postojeće 390 m² kuće u premium standard (est. 150-250k EUR) otvara exit na 1,5-1,8M EUR. Alternativno: dugoročni najam renoviranog objekta expat/diplomatskom tržištu (Zagreb ima aktivnu ambasadorsku potražnju) uz potencijalni prinos 4.000-6.500 EUR/mj. Ključni trigger: urbanistička provjera parcele PRIJE dražbe.",
-  "entry_price_eur": 1060000,
+  "comparables": [],
+  "investment_strategy": "razvoj + reno-flip: obnova postojeće stambene zgrade (390 m2) za prodaju/najam premium segmentu, uz mogućnost odvojene prodaje ili naknadne izgradnje na dodatnim dvorišnim česticama (kč.br. 8578/3 i 8578/7) ako urbanistički plan to dopušta",
+  "entry_price_eur": 900000,
   "detailed_risks": [
-    "Nepoznato fizičko stanje: objekt može zahtijevati 150-400k EUR renovacije što drastično mijenja ROI računicu",
-    "Zoniranje 3.545 m² parcele: ako je AG ili zaštićena zelena zona, razvojni potencijal pada na nulu",
-    "Likvidnost za nekretnine >1M EUR u zapadnom Zagrebu ograničena — exit može trajati 18-36 mj.",
-    "Tri katastarske čestice povećavaju kompleksnost transakcije i rizik od pojedinačnih tereta",
-    "Komunalna infrastruktura za parcelu ove veličine može biti nepotpuna (priključci, pristupni put)",
-    "Transakcijski troškovi na ovoj razini: ~3% PDV/PPT + javnobilježnički + sudski = 35-50k EUR dodatno",
-    "Dražbeni uvjeti ne dopuštaju uvjetovano nadmetanje — plaćate bez jamstava o stanju i slobodi od tereta"
+    "Nepoznato stanje objekta - moguća potreba za značajnom investicijom u obnovu",
+    "Nepoznata useljenost/posjed nekretnine u trenutku razgledavanja",
+    "Prva dražba - ograničen cjenovni popust (tek 20%), manji prostor za profit na kupovnoj cijeni",
+    "Rizik od skrivenih tereta u zemljišnim knjigama koji ne prestaju prodajom",
+    "Nema tržišnih podataka o aktualnim usporedivim transakcijama za potvrdu procjene"
   ],
-  "upside_scenario": "Zoniranje potvrdi razvojnu namjenu: parcelacija dijela zemljišta (~1.500 m²) generira 200-280k EUR prihoda. Renovacija kuće u 12-18 mj. za 180k EUR, exit cijena 1,7-1,9M EUR (kraj 2028). Ukupno uloženo ~1,24M EUR (dražba + renovacija), exit prinos 37-53%. Ili premium najam 5.500 EUR/mj. = prinos ~5,3% na ukupnu investiciju, uz dugoročnu aprecijaciju Zagreba.",
-  "downside_scenario": "Zoniranje ne dopušta razvoj, kuća zahtijeva temeljitu sanaciju (300k+ EUR), tržište usporava u 2027-2028. Ulaz 988k + renovacija 300k + troškovi 50k = 1,338M EUR. Exit na deprimiranom tržištu 1,15-1,25M EUR = gubitak 90-190k EUR plus oportunitetni trošak vezanog kapitala kroz 4-5 godina.",
-  "input_hash": "40deef78ee0f",
-  "scored_at": "2026-05-26T09:55:10.884954"
+  "upside_scenario": "Nakon fizičke provjere i uklanjanja pravnih rizika, obnova kuće i eventualna parcelacija/prodaja dijela zemljišta u traženoj zoni sjevernog Zagreba mogla bi ostvariti vrijednost od 1.5-2M EUR unutar 2-3 godine, uz jak potražni segment za obiteljske kuće s okućnicom u tom dijelu grada.",
+  "downside_scenario": "Ako se utvrde ozbiljni pravni tereti, useljena treća osoba koju je teško iseliti, ili je objekt u lošijem stanju nego pretpostavljeno, investicija zahtijeva dodatna sredstva i vrijeme za sudske postupke iseljenja/brisanja tereta, čime se ROI značajno smanjuje ili nestaje.",
+  "discount_pct": 20.0,
+  "input_hash": "352cddc30c5b",
+  "scored_at": "2026-07-06T10:42:01.765163"
 }

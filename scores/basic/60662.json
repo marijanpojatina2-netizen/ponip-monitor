@@ -1,12 +1,15 @@
 {
   "id": "60662",
-  "score_overall": 3.4,
-  "score_lokacija": 3.5,
-  "score_roi": 3.5,
+  "score_overall": 3.7,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
   "score_stanje": 3.0,
   "recommendation": "pass",
-  "reasoning": "Livada 5208 m2 u Velikom Trgovišću, identičan profil kao čkbr. 2372 iz iste z.k.ul. 2755 — 20% popust na prvoj dražbi bez ikakvog objekta ne opravdava angažman kapitala. Niska likvidnost i isključivo agrikulturna primjena čine investicijski case slabim.",
-  "flags": [],
-  "input_hash": "1e6335b4b6aa",
-  "scored_at": "2026-06-19T10:24:33.651451"
+  "reasoning": "Livada od 5208 m2 u Velikom Trgovišću (Zagorje) na prvoj dražbi s tek 20% popusta ne nudi atraktivan ulaz u ruralnom, poljoprivrednom području. Bez građevinskog potencijala i uz nizak popust, riječ je o slabom investicijskom slučaju.",
+  "flags": [
+    "provjeriti: mogućnost prenamjene u građevinsko zemljište"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "d9e1aea849e6",
+  "scored_at": "2026-07-06T10:28:40.210100"
 }

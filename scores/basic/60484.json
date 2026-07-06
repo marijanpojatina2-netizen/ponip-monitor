@@ -1,12 +1,15 @@
 {
   "id": "60484",
-  "score_overall": 4.8,
-  "score_lokacija": 4.5,
+  "score_overall": 4.7,
+  "score_lokacija": 4.0,
   "score_roi": 5.0,
   "score_stanje": 5.0,
   "recommendation": "watch",
-  "reasoning": "Poslovna zgrada 222 m2 s dvorištem od 1681 m2 u prigradskoj zoni Varaždina (k.o. Babinec) nudi solidnu ukupnu kvadraturu po relativno pristupačnoj cijeni, no popust od tek 20% na prvoj dražbi i periferijska lokacija ograničavaju investicijsku atraktivnost. Vrijedi pratiti za sljedeće krugove dražbe ili daljnji pad početne cijene.",
-  "flags": [],
-  "input_hash": "8418fe41c916",
-  "scored_at": "2026-06-25T08:57:52.216217"
+  "reasoning": "Poslovna zgrada s velikim dvorištem u selu Babinec kraj Varaždina, ruralna periferna lokacija ograničava likvidnost. Popust od 20% na prvoj dražbi je standardan, bez posebnih signala za brz ROI.",
+  "flags": [
+    "provjeriti: namjena i mogućnost prenamjene poslovne zgrade"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "4a7852975f0f",
+  "scored_at": "2026-07-06T10:26:21.331021"
 }

@@ -1,0 +1,15 @@
+{
+  "id": "60805",
+  "score_overall": 3.7,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Manja kuća s gospodarskom zgradom u Samatovcima kod Valpova, slavonsko selo sa slabom likvidnošću tržišta i tek 20% popusta na prvoj dražbi bez dodatnog bonusa. Nema podataka o stanju objekta, a niska lokacijska ocjena dodatno ograničava investicijski interes.",
+  "flags": [
+    "provjeriti: stanje kuće i gospodarske zgrade (nije opisano)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "212742161610",
+  "scored_at": "2026-07-06T10:15:46.070298"
+}

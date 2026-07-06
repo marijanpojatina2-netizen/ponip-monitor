@@ -1,0 +1,13 @@
+{
+  "id": "56693",
+  "score_overall": 4.8,
+  "score_lokacija": 5.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća u Vugrovcu kod Sesveta na periferiji Zagreba ima skroman popust od 20% na prvoj dražbi, što daje osrednji ROI potencijal. Lokacija i stanje su standardni za perifernu ruralnu zonu.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "1d12d1145a64",
+  "scored_at": "2026-07-06T10:14:14.506809"
+}

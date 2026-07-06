@@ -1,0 +1,16 @@
+{
+  "id": "60857",
+  "score_overall": 6.3,
+  "score_lokacija": 8.5,
+  "score_roi": 6.0,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Nekretnina se nalazi na otoku Viru, traženoj turističkoj lokaciji blizu Zadra, no predmet prodaje je samo gospodarska zgrada s dvorištem bez stambenog objekta. Popust od 20% na prvoj dražbi je umjeren, pa unatoč odličnoj lokaciji potencijal ovisi o mogućnosti pretvorbe ili dogradnje objekta.",
+  "flags": [
+    "provjeriti: mogućnost prenamjene/dogradnje gospodarske zgrade u stambeni prostor",
+    "provjeriti: komunalna infrastruktura na čestici"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "4aa50f9123d7",
+  "scored_at": "2026-07-06T10:15:46.070165"
+}

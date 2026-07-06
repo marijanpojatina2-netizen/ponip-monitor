@@ -1,12 +1,13 @@
 {
   "id": "60654",
-  "score_overall": 3.6,
-  "score_lokacija": 3.5,
-  "score_roi": 4.0,
-  "score_stanje": 3.0,
+  "score_overall": 4.0,
+  "score_lokacija": 4.0,
+  "score_roi": 5.0,
+  "score_stanje": 2.0,
   "recommendation": "pass",
-  "reasoning": "Livada bez ikakvog objekta u ruralnom Zagorju (Veliko Trgovišće) s tek 20% popusta na prvoj dražbi — niska likvidnost, uzak skup kupaca i nulti prinos bez gradnje čine investicijski case slabim. Agrarno zemljište u ovoj regiji nema značajnijeg potencijala rasta vrijednosti.",
+  "reasoning": "Radi se o čistoj livadi u Zagorju bez ikakve građevine, uz tek 20% popusta na prvoj dražbi što ne daje dovoljnu marginu. Nedostatak infrastrukture i objekta čini ovo slabim investicijskim slučajem.",
   "flags": [],
-  "input_hash": "6bc51df0da9b",
-  "scored_at": "2026-06-19T10:24:33.650717"
+  "discount_pct": 20.0,
+  "input_hash": "d258dce86762",
+  "scored_at": "2026-07-06T10:20:59.740269"
 }

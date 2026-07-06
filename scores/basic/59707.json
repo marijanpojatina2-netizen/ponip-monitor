@@ -1,0 +1,16 @@
+{
+  "id": "59707",
+  "score_overall": 6.4,
+  "score_lokacija": 7.0,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Slično kao susjedna čestica na MalomIžu, riječ je o maslinku manje površine (171 m2) uz istu dinamiku popusta i dražbe. Otočna lokacija nosi dugoročni potencijal, no radi se o čisto poljoprivrednom zemljištu bez izgrađenih objekata.",
+  "flags": [
+    "provjeriti: pristup i infrastruktura (otok)",
+    "provjeriti: namjena zemljišta/mogućnost gradnje"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "cbd2014d2b46",
+  "scored_at": "2026-07-06T10:17:01.027640"
+}

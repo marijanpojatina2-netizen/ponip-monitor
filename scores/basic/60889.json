@@ -1,0 +1,16 @@
+{
+  "id": "60889",
+  "score_overall": 6.2,
+  "score_lokacija": 8.5,
+  "score_roi": 6.5,
+  "score_stanje": 1.5,
+  "recommendation": "pass",
+  "reasoning": "Iako je lokacija na otoku Pagu izrazito atraktivna turistička zona, predmet prodaje je suvlasnički 1/2 dio mikroskopske parcele od svega 23 m2 što je praktički neupotrebljivo. Unatoč 40% popustu na drugoj dražbi, veličina i suvlasništvo čine realizaciju vrijednosti gotovo nemogućom.",
+  "flags": [
+    "suvlasništvo 1/2 dijela",
+    "provjeriti: praktična iskoristivost obzirom na mikro površinu (23 m2)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "200c167b6820",
+  "scored_at": "2026-07-06T10:17:01.028293"
+}

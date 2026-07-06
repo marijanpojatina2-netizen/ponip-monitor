@@ -1,0 +1,15 @@
+{
+  "id": "59685",
+  "score_overall": 5.0,
+  "score_lokacija": 3.0,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća s gospodarskom zgradom u Biovcu kod Valpova nudi visok popust od 40% na drugoj dražbi, ali slavonska ruralna lokacija znači slabu likvidnost i potražnju. Standardna kuća bez naznaka o potrebi većih zahvata, ali potencijal rasta vrijednosti ograničen regijom.",
+  "flags": [
+    "provjeriti: stanje objekta i useljivost (nije opisano u tekstu)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "172ac78c79d1",
+  "scored_at": "2026-07-06T10:15:46.069765"
+}

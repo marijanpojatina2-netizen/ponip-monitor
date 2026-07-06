@@ -1,16 +1,15 @@
 {
   "id": "60300",
-  "score_overall": 7.5,
+  "score_overall": 7.3,
   "score_lokacija": 8.5,
   "score_roi": 7.0,
-  "score_stanje": 5.5,
+  "score_stanje": 6.0,
   "recommendation": "deep_dive",
-  "reasoning": "Supetar na Braču je premium turistička destinacija s visokom tražnjom za kratkoročnim najmom (Airbnb/booking), a 25% popust na prvoj dražbi iz stečajnog postupka je solidan ulaz. Stečajni kontekst i prizemna pozicija zahtijevaju detaljnu provjeru pravnih tereta i fizičkog stanja objekta.",
+  "reasoning": "Supetar na otoku Brač je tražena turistička lokacija, a 25% popust uz prodaju iz stečaja stečajnog dužnika sugerira dobar ROI potencijal za trosobni stan s terasom. Vrijedi detaljnije provjeriti eventualne terete iz stečajnog postupka prije licitacije.",
   "flags": [
-    "stečajni postupak – mogući neupisani tereti ili dugovi prema zajednici",
-    "prizemlje – smanjena privatnost i poželjnost",
-    "stečajni sud u Varaždinu za imovinu na Braču – neobično, potrebna pravna provjera nadležnosti"
+    "provjeriti: eventualni tereti/potraživanja iz stečajnog postupka"
   ],
-  "input_hash": "c8cd74a33018",
-  "scored_at": "2026-05-27T09:41:37.853600"
+  "discount_pct": 25.0,
+  "input_hash": "fd94855643ae",
+  "scored_at": "2026-07-06T10:26:21.331384"
 }

@@ -1,0 +1,16 @@
+{
+  "id": "59653",
+  "score_overall": 6.0,
+  "score_lokacija": 4.5,
+  "score_roi": 7.5,
+  "score_stanje": 5.0,
+  "recommendation": "bid",
+  "reasoning": "Veliki industrijski kompleks u Karlovcu s 50% popustom na drugoj dražbi nudi solidan ROI, ali industrijska nekretnina ima ograničeniju likvidnost i nejasno stvarno stanje objekta iz opisa. Etažni suvlasnički dio 477/1000 je standardan obračun udjela, ne suvlasnički rizik.",
+  "flags": [
+    "provjeriti: trenutna namjena i tehničko stanje industrijskog kompleksa",
+    "provjeriti: postojanje zakupa ili korištenja od treće strane"
+  ],
+  "discount_pct": 50.0,
+  "input_hash": "abc5b5cb0369",
+  "scored_at": "2026-07-06T10:14:14.505957"
+}

@@ -1,15 +1,15 @@
 {
   "id": "59320",
-  "score_overall": 3.5,
-  "score_lokacija": 2.0,
-  "score_roi": 4.5,
-  "score_stanje": 5.0,
-  "recommendation": "pass",
-  "reasoning": "Drugi krug s 40% popustom i kombinacija oba suvlasnička udjela (61/100 + 39/100 = puno vlasništvo) su pozitivni faktori, ali Županja je depopulacijsko područje s praktički nepostojećim sekundarnim tržištem nekretnina što čini exit strategiju neostvarivom.",
+  "score_overall": 4.9,
+  "score_lokacija": 3.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Kuća s dvorištem u centru Županje (M. Marulića 25) na drugoj dražbi s 40% popusta nudi pristojan ROI za manju sredinu, no lokacija u istočnoj Slavoniji ograničava potražnju. Stanje kuće nije detaljno opisano pa je potrebna dodatna provjera prije ozbiljnijeg razmatranja.",
   "flags": [
-    "depopulacijska zona - Županja, Slavonija uz granicu BiH",
-    "minimalna tržišna likvidnost - dugoročno 'zaglavljeni' kapital"
+    "provjeriti: stanje kuće (nema detaljnog opisa)"
   ],
-  "input_hash": "a1933615072e",
-  "scored_at": "2026-06-09T09:40:48.017854"
+  "discount_pct": 40.0,
+  "input_hash": "a030f6004695",
+  "scored_at": "2026-07-06T10:28:40.209806"
 }

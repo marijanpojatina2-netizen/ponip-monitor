@@ -1,17 +1,13 @@
 {
   "id": "59842",
-  "score_overall": 4.0,
-  "score_lokacija": 5.0,
-  "score_roi": 3.5,
-  "score_stanje": 3.0,
-  "recommendation": "pass",
-  "reasoning": "Praktički identičan slučaj kao ID 59831 — oranica na I. Kozari putu po sličnoj jediničnoj cijeni s minimalnim popustom; bez potvrđenog zoniranja za gradnju ulaz u prvoj dražbi nije investicijski opravdan.",
-  "flags": [
-    "oranica — potrebna prenamjena za gradnju",
-    "prva dražba, samo 25% popusta",
-    "visoka cijena za agrarno zemljište",
-    "nema izgrađenog objekta"
-  ],
-  "input_hash": "daac8e81617c",
-  "scored_at": "2026-04-21T07:48:22.606258"
+  "score_overall": 5.3,
+  "score_lokacija": 6.0,
+  "score_roi": 6.0,
+  "score_stanje": 2.5,
+  "recommendation": "watch",
+  "reasoning": "Oranica na Kozarijevom putu nalazi se unutar grada Zagreba, što joj daje dugoročni potencijal razvoja unatoč trenutnoj poljoprivrednoj namjeni. Mali komad zemljišta bez građevine i tek 25% popusta na prvoj dražbi ograničavaju kratkoročni ROI.",
+  "flags": [],
+  "discount_pct": 25.0,
+  "input_hash": "e32cd8e8897b",
+  "scored_at": "2026-07-06T10:20:59.740789"
 }

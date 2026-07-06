@@ -1,17 +1,16 @@
 {
   "id": "59739",
-  "score_overall": 5.0,
-  "score_lokacija": 5.5,
-  "score_roi": 5.5,
+  "score_overall": 6.0,
+  "score_lokacija": 6.5,
+  "score_roi": 6.0,
   "score_stanje": 5.0,
   "recommendation": "watch",
-  "reasoning": "Obiteljska kuća u Zagrebu (Kozari Bok) s 20% popustom na prvoj dražbi daje solidnu polaznu točku, ali kompleksna ZK struktura s dva suvlasnička tijela (IX-2 i IX-3, svaki 1/2) i minimalnim udjelom na čestici (50/2885,6) zahtijeva pravnu provjeru vlasničke strukture. Kozari Bok je prometno dostupna ali manje atraktivna istok-periferija Zagreba s umjerenom potražnjom.",
+  "reasoning": "Obiteljska stambena zgrada u Kozarom boku (Zagreb, Dubrava) s 20% popustom na prvoj dražbi, solidna gradska lokacija ali bez podataka o stanju objekta. Nekretnina se sastoji od dva suvlasnička dijela (1/2 + 1/2) izgrađenih na tek razmjernom dijelu čestice zemljišta, što komplicira raspolaganje.",
   "flags": [
-    "kompleksna ZK struktura - dva suvlasnička tijela (IX-2 i IX-3)",
-    "minimalni zemljišni udio 50/2885,6 čestice - treba provjera suvlasnika",
-    "Kozari Bok - niža atraktivnost unutar Zagreba",
-    "potrebna pravna due diligence suvlasničkih odnosa"
+    "suvlasništvo - prodaju se dva suvlasnička dijela objekta (1/2 + 1/2)",
+    "provjeriti: razmjerni suvlasnički dio zemljišta (50/2885,6) i utjecaj na raspolaganje objektom"
   ],
-  "input_hash": "5dba87668c17",
-  "scored_at": "2026-04-28T08:24:20.460497"
+  "discount_pct": 20.0,
+  "input_hash": "f863d6567453",
+  "scored_at": "2026-07-06T10:29:43.476141"
 }

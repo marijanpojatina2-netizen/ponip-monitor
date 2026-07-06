@@ -1,17 +1,15 @@
 {
   "id": "58849",
-  "score_overall": 2.5,
-  "score_lokacija": 3.5,
-  "score_roi": 3.0,
-  "score_stanje": 2.0,
+  "score_overall": 4.5,
+  "score_lokacija": 3.0,
+  "score_roi": 6.5,
+  "score_stanje": 2.5,
   "recommendation": "pass",
-  "reasoning": "Suvlasnički udio oranice u Bizovcu predstavlja najkompleksniji pravni scenarij u skupini - izlaz iz suvlasništva zahtijeva ili suglasnost ostalih suvlasnika ili sudsku diobu, a tržišna vrijednost izoliranog udjela oranice je marginalna. Blizina Bizovačkih toplica nije dovoljna premija da opravda ovakvu pravnu strukturu.",
+  "reasoning": "Oranica u Bizovcu s 40% popusta na drugoj dražbi, no kupuje se samo idealni suvlasnički dio (2/4) što otežava kasnije raspolaganje i realizaciju vrijednosti. Nizak apsolutni iznos ne kompenzira nisku likvidnost i rizik vezan uz suvlasništvo.",
   "flags": [
-    "suvlasnički udio - 6. suvlasnik (2/4 dijela)",
-    "isključivo oranica - nema stambenog objekta",
-    "izlaz iz suvlasništva pravno kompleksan",
-    "niska likvidnost parcele bez cjelovitog vlasništva"
+    "provjeriti: kupnja idealnog suvlasničkog dijela (2/4) nekretnine"
   ],
-  "input_hash": "dea7f8d9db63",
-  "scored_at": "2026-05-15T08:47:07.826759"
+  "discount_pct": 40.0,
+  "input_hash": "033c567ca136",
+  "scored_at": "2026-07-06T10:19:27.525607"
 }

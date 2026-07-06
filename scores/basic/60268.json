@@ -1,16 +1,15 @@
 {
   "id": "60268",
-  "score_overall": 5.0,
-  "score_lokacija": 5.0,
+  "score_overall": 5.7,
+  "score_lokacija": 6.5,
   "score_roi": 5.5,
   "score_stanje": 4.5,
   "recommendation": "watch",
-  "reasoning": "Izuzetno niska ulazna cijena (16.720 EUR) za objekt u Osijeku nudi asimetričan rizik-prinos za kratkoročni najam ili preprodaju, no starost i nepoznato stanje objekta (64 m2) te skromna likvidnost osječkog tržišta zahtijevaju fizičan uvid prije svake odluke. Niski prag ulaska čini ga vrijednim praćenja.",
+  "reasoning": "Mala zgrada od 64 m2 u Osijeku, prva dražba s tek 20% popusta, ali gradska lokacija nudi solidnu likvidnost za daljnju prodaju ili najam. Nedostaje opis stanja objekta pa je potrebna dodatna provjera prije ozbiljnijeg angažmana.",
   "flags": [
-    "stariji objekt - nepoznato stanje, mogući značajni troškovi sanacije",
-    "ograničena likvidnost Osijeka - sporiji izlaz",
-    "malo tržište najma za ovaj tip objekta"
+    "provjeriti: stanje i namjenu građevine od 64 m2"
   ],
-  "input_hash": "ec0c82ff950f",
-  "scored_at": "2026-05-13T08:43:10.641045"
+  "discount_pct": 20.0,
+  "input_hash": "019f4c26c253",
+  "scored_at": "2026-07-06T10:19:27.525071"
 }

@@ -1,61 +1,38 @@
 {
   "id": "57281",
-  "score_overall": 5.0,
-  "score_lokacija": 4.5,
-  "score_roi": 7.0,
+  "score_overall": 5.5,
+  "score_lokacija": 5.5,
+  "score_roi": 6.5,
   "score_stanje": 3.5,
-  "recommendation": "deep_dive",
-  "reasoning": "Kompleks parcela u k.o. Lužan (okolica Sesveta, ~15 km od centra Zagreba) donosi 50%-tni popust na drugoj dražbi što je formalno atraktivno, ali apraised value od 2,57M EUR za pretežno kmetijsko zemljište + stariju farmu ostaje upitan bez potvrde zonacije. Procijenjenih 151 EUR/m² prosječne apraised vrijednosti sugerira da dio parcela ima građevinsku namjenu (GUP) — no to se ne može potvrditi iz opisa. Opis je prekinut s '...', pa ukupna površina, broj čestica i prava trećih ostaju nepoznanica. Na razini startne cijene od 1,29M EUR deal je realan samo ako due diligence potvrdi građevinski potencijal.",
+  "recommendation": "watch",
+  "reasoning": "Nekretnina se nalazi u k.o. Lužan, na području Zemljišnoknjižnog odjela Sesvete (periferija Grada Zagreba, područje Rugvica/Sesvete), a ne u Varaždinu gdje je sud samo nadležan zbog stečaja. Riječ je pretežno o fragmentiranom poljoprivrednom zemljištu (oranice, livada, močvara) uz jednu stariju kuću s gospodarskom zgradom, dvorištem i voćnjakom — bez naznaka renovacije ili posebne kvalitete objekta. Popust od 50% na drugoj dražbi je atraktivan, ali stvarni ROI ovisi presudno o namjeni zemljišta (poljoprivredno vs. građevinsko) koja iz opisa nije jasna, a opis nekretnine je i tekstualno odrezan pa nedostaje dio čestica. Zbog visoke ukupne vrijednosti (2,57M EUR) i neizvjesnosti oko namjene i likvidnosti ovakvog portfelja čestica, preporuka je pratiti dok se ne razjasni prenamjena/zoniranje, a ne odmah licitirati.",
   "flags": [
-    "opis prekinut s '...' — nepoznata ukupna površina, broj čestica i eventualne tercijarije",
-    "stečajna masa — moguće prioritetne hipoteke i tražbine koje konzumiraju dio vrijednosti",
-    "močvarne čestice (čkbr. 891, 890/4) — ekološke i zakonske restrikcije na gradnju i prenamjenu",
-    "mješoviti portfelj (oranica + livada + močvara) — velik dio niske tržišne vrijednosti",
-    "visoka jamčevina 257.340 EUR — blokira likvidnost, ograničava krug kupaca",
-    "razgledavanje isključivo po dogovoru — otežan fizički pregled stanja objekta"
+    "provjeriti: namjena zemljišta - poljoprivredno ili građevinsko/prenamjenjivo",
+    "provjeriti: cjelokupan opis nekretnine - tekst opisa je odrezan, moguće dodatne čestice i tereti",
+    "provjeriti: mogući zakup poljoprivrednog zemljišta od strane trećih osoba",
+    "provjeriti: stanje kuće br. 2 i gospodarske zgrade (dob, useljivost)",
+    "provjeriti: pristupni putevi i komunalna infrastruktura za fragmentirane čestice",
+    "stečajni postupak - kupnja iz stečajne mase, provjeriti terete u zk. izvatku"
   ],
   "market_estimate": {
-    "eur_min": 650000,
-    "eur_max": 1500000,
+    "eur_min": 1800000,
+    "eur_max": 2600000,
     "confidence": "low",
-    "basis": "Kmetijsko zemljište u sesvetskoj zoni: 5–25 EUR/m². Građevinsko zemljište u Sesvetama: 80–200 EUR/m². Stara obiteljska kuća s velikom okućnicom (5562 m²): 200–450K EUR. Ako je ~50% portfelja kmetijsko i ~50% građevinsko, ukupna tržišna vrijednost iznosi 700K–1,5M EUR. Raspon je širok zbog nepotpunog opisa i nepoznate zonacije; web pretraga nije bila dostupna za provjeru usporedivih transakcija."
+    "basis": "Procjena bez pristupa web pretrazi (alat nije odobren u ovoj sesiji); temelji se na općem poznavanju cijena poljoprivrednog i periurbanog zemljišta u pojasu Zagreb-Sesvete-Rugvica, gdje čisto poljoprivredno zemljište vrijedi tipično 1-4 EUR/m2, dok eventualno građevinsko/prenamjenjivo zemljište može vrijediti 15-50+ EUR/m2 - razlika je presudna i zahtijeva uvid u prostorni plan."
   },
-  "comparables": [
-    {
-      "opis": "Web pretraga nije bila dostupna — komparabilne aktivne ponude nisu potvrđene u realnom vremenu",
-      "cijena": null,
-      "m2": null,
-      "izvor": "N/A",
-      "url": "N/A"
-    },
-    {
-      "opis": "Tipična obiteljska kuća s velikom okućnicom (1000–3000 m²) u okolici Sesveta — procjena temeljena na poznavanju tržišta",
-      "cijena": 280000,
-      "m2": 150,
-      "izvor": "tržišna procjena",
-      "url": "https://www.njuskalo.hr/prodaja-kuca/sesvete"
-    },
-    {
-      "opis": "Građevinsko zemljište Sesvete/Dubrava — okvirna tržišna razina",
-      "cijena": 160000,
-      "m2": 1000,
-      "izvor": "tržišna procjena",
-      "url": "https://www.nekretnine.net/prodaja-zemljista/zagreb/sesvete"
-    }
-  ],
-  "investment_strategy": "Land banking + opcijski razvoj: primarni scenarij je provjera GUP-a Grada Zagreba za k.o. Lužan — ako su čestice u ili blizu zone mješovite namjene ili se očekuje proširenje, dugoročno držanje (3–7 god.) uz lobiranje za prenamjenu može biti profitabilno. Sekundarni scenarij: renovacija farmhouse objekta (1546 čhv ≈ 5562 m² parcela) za premium ruralno-suburbano iznajmljivanje ili reno-flip za segment koji traži veliku parcelu blizu Zagreba. Kmetijske čestice (oranica) mogu se privremeno zakupiti lokalnim farmerima (~500–1000 EUR/ha/god.) za minimalni cash flow.",
-  "entry_price_eur": 1286700,
+  "comparables": [],
+  "investment_strategy": "Ovisno o ishodu provjere namjene zemljišta: ako je dio čestica prenamjenjiv u građevinsko zemljište zbog blizine Zagreba/Sesveta, strategija je dugoročno držanje i razvoj (parcelacija i prodaja/gradnja); ako je isključivo poljoprivredno, realnija je strategija iznajmljivanja poljoprivrednicima ili preprodaje poljoprivrednog fonda uz minimalan capex na kuću.",
+  "entry_price_eur": 1500000,
   "detailed_risks": [
-    "Appraised value od 2,57M EUR potencijalno precijenjen — bez potvrđene građevinske namjene tržišna vrijednost može biti 40–70% niža od procjene",
-    "Opis prekinut s '...' — moguće dodatne hipoteke, sporovi vlasništva ili opterećenja na nelistiranim česticama",
-    "Močvarne parcele imaju ekološke i zakonske restrikcije (Zakon o vodama, zaštita vlažnih staništa) — prenamjena nemoguća bez složenih dozvola",
-    "Stečajni postupak: prioritetni vjerovnici (fiducijari, banke, država) mogu konzumirati dio prihoda od prodaje",
-    "Visoka jamčevina (257K EUR) blokira kapital na neodređeno ako se ne pobijedi na dražbi",
-    "Exit strategija ograničena — Sesvete/Lužan zona nema turističku tražnju, a domaće tržište za ovakve komplekse je usko",
-    "Dugoročna nelikvidnost: bez brze preprodaje, kapital je vezan minimalno 3–5 godina"
+    "Nepotpun opis - dio čestica i mogući tereti nisu vidljivi iz odrezanog teksta",
+    "Fragmentacija na više zk.ul. i katastarskih čestica otežava upravljanje i buduću prodaju",
+    "Nejasna namjena (poljoprivredno vs. građevinsko) izravno određuje realnu vrijednost, raspon procjene je vrlo širok",
+    "Kupnja iz stečajne mase - potrebna dodatna pravna provjera tereta i eventualnih sporova",
+    "Ruralna/periferna lokacija smanjuje likvidnost u odnosu na urbane nekretnine"
   ],
-  "upside_scenario": "GUP provjera potvrdi da su klučne čestice u k.o. Lužan označene za mješovitu ili stambenu namjenu. Investitor ulazi na 1,29M EUR, ishoduje lokacijsku dozvolu u 12–18 mj., subdivizira i prodaje parcele po 150–200 EUR/m² (8–12 parcela od 500–1000 m²). Ukupni prihod od prodaje: 1,8–2,5M EUR. Neto dobit (bez troškova izgradnje infrastrukture, poreza, agenata): 300–700K EUR u roku od 3 godina.",
-  "downside_scenario": "Sve čestice ostaju u kmetijskoj zoni bez perspektive prenamjene. Tržišna vrijednost pada na 400–650K EUR (kmetijsko zemljište + stara farma). Investitor koji je ušao na 1,29M EUR bilježi gubitak od 640–890K EUR. Stečajni postupak producira pravne troškove i blokade. Difficult exit — prodaja traje 2–4 godine, a konačna realizacija ispod uloženog.",
-  "input_hash": "969baa22ce4d",
-  "scored_at": "2026-04-30T08:22:53.844329"
+  "upside_scenario": "Ako se dio zemljišta pokaže prenamjenjivim u građevinsko zbog širenja Zagreba prema Sesvetama/Rugvici, vrijednost portfelja u 2-3 godine može značajno rasti (potencijalno +30-50%), posebno uz parcelaciju i prodaju manjih građevinskih parcela.",
+  "downside_scenario": "Ako je zemljište trajno poljoprivredne namjene bez šanse za prenamjenu, realna tržišna vrijednost može biti znatno niža od utvrđene procjene (2,57M EUR), a kuća zahtijeva dodatna ulaganja za useljivost - u tom slučaju investicija ostaje nelikvidna dugi niz godina uz nizak prinos od zakupa.",
+  "discount_pct": 50.0,
+  "input_hash": "573c99a115f6",
+  "scored_at": "2026-07-06T10:31:10.859850"
 }

@@ -1,16 +1,15 @@
 {
   "id": "60345",
-  "score_overall": 2.5,
-  "score_lokacija": 2.5,
-  "score_roi": 3.0,
-  "score_stanje": 4.0,
-  "recommendation": "pass",
-  "reasoning": "Ruralna Slavonija (Slobodnica, Slavonski Brod) s isključivo gospodarsko-industrijskom namjenom, samo 20% popusta u prvoj dražbi i nultom turističkom perspektivom. Niska tržišna likvidnost i specifična namjena eliminiaju ovo kao investicijsku opciju za standardnog investitora.",
+  "score_overall": 4.3,
+  "score_lokacija": 3.0,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Gospodarsko dvorište i zgrade u Slobodnici kraj Slavonskog Broda, slaba lokacija sa slabom likvidnošću tržišta. Prva dražba s tek 20% popusta ne opravdava rizik ruralno-industrijske zone.",
   "flags": [
-    "prva dražba - nema bonusa",
-    "gospodarska zgrada specijalizirane namjene",
-    "depopulacijsko ruralno područje"
+    "provjeriti: namjena i iskoristivost gospodarskih objekata"
   ],
-  "input_hash": "f824389f9461",
-  "scored_at": "2026-05-22T09:04:29.390762"
+  "discount_pct": 20.0,
+  "input_hash": "203988ab9472",
+  "scored_at": "2026-07-06T10:23:27.413713"
 }

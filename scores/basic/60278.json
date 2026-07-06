@@ -1,16 +1,15 @@
 {
   "id": "60278",
-  "score_overall": 2.5,
-  "score_lokacija": 2.0,
-  "score_roi": 2.5,
-  "score_stanje": 4.5,
+  "score_overall": 4.1,
+  "score_lokacija": 2.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
   "recommendation": "pass",
-  "reasoning": "Cerna kod Županje tipično je slavonsko depopulacijsko područje s vrlo niskom potražnjom i minimalnom likvidnošću, a minimalni popust od 20% u prvom krugu ne nudi investicijsku logiku. Bez turističkog ili razvojnog potencijala nema realnog izlaznog scenarija.",
+  "reasoning": "Cerna kod Županje spada u depopulacijsko područje Vukovarsko-srijemske županije sa slabom potražnjom za nekretninama. Popust od 20% na prvoj dražbi je standardan i ne kompenzira slabu lokaciju.",
   "flags": [
-    "ruralna Slavonija - depopulacijsko područje",
-    "minimalan popust 20% u prvom krugu",
-    "niska tržišna potražnja i likvidnost"
+    "provjeriti: stanje kuće nije opisano"
   ],
-  "input_hash": "2fafef8b6049",
-  "scored_at": "2026-05-14T08:35:40.210179"
+  "discount_pct": 20.0,
+  "input_hash": "6d52c31edc1e",
+  "scored_at": "2026-07-06T10:18:06.068137"
 }

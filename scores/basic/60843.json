@@ -1,0 +1,15 @@
+{
+  "id": "60843",
+  "score_overall": 6.0,
+  "score_lokacija": 6.5,
+  "score_roi": 5.5,
+  "score_stanje": 6.0,
+  "recommendation": "watch",
+  "reasoning": "Dvosobni stan u Jakuševcu (Novi Zagreb), solidna gradska lokacija ali rubna/industrijska zona uz prosječan popust od 25% na prvoj dražbi. Mala kvadratura i nedostatak podataka o stanju stana ograničavaju investicijsku privlačnost.",
+  "flags": [
+    "provjeriti: stanje i useljivost stana (nema podataka u opisu)"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "3d125138a17a",
+  "scored_at": "2026-07-06T10:15:46.069238"
+}

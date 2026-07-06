@@ -1,16 +1,15 @@
 {
   "id": "59252",
-  "score_overall": 2.5,
-  "score_lokacija": 2.0,
-  "score_roi": 4.5,
+  "score_overall": 4.8,
+  "score_lokacija": 2.5,
+  "score_roi": 7.5,
   "score_stanje": 3.0,
-  "recommendation": "pass",
-  "reasoning": "Staja i skladište u Pitomači nemaju jasnu stambenu ni turističku exit strategiju, a 40% popust na drugoj dražbi ne kompenzira izrazito slabo slavonsko tržište nekretnina i specifičnu namjenu objekta.",
+  "recommendation": "watch",
+  "reasoning": "Staja, skladište i dvorište u Pitomači nalaze se u ruralnom dijelu Slavonije sa slabom likvidnošću tržišta, ali 40% popust na drugoj dražbi čini cijenu vrlo povoljnom za nišnu poljoprivrednu/skladišnu namjenu. Vrijedi pratiti radi potencijalnih kupaca iz agrosektora.",
   "flags": [
-    "gospodarski objekt (staja/skladište) - ograničena prenamjenska vrijednost",
-    "Slavonija - depopulacijsko područje, niska likvidnost",
-    "bez stambene komponente"
+    "provjeriti: legalnost i namjena gospodarskih objekata"
   ],
-  "input_hash": "31a9f1dac356",
-  "scored_at": "2026-06-08T10:49:20.842786"
+  "discount_pct": 40.0,
+  "input_hash": "93a7132cd004",
+  "scored_at": "2026-07-06T10:20:59.740624"
 }

@@ -1,18 +1,15 @@
 {
   "id": "60093",
-  "score_overall": 3.0,
-  "score_lokacija": 4.5,
-  "score_roi": 3.0,
-  "score_stanje": 2.0,
+  "score_overall": 5.6,
+  "score_lokacija": 6.5,
+  "score_roi": 6.0,
+  "score_stanje": 3.0,
   "recommendation": "pass",
-  "reasoning": "Ilegalna gradnja potvrđena sudskim vještakom, uz fizičko zauzimanje 116 m2 susjedne čestice, stvara akutni pravni rizik rušenja ili prisilnog reguliranja koji eliminiira investicijsku vrijednost bez obzira na Osijek kao regionalnu lokaciju. Čak i s agresivnim popustom ova nekretnina zahtijeva pravni i građevinski trošak koji nije predvidiv.",
+  "reasoning": "Osijek je solidna gradska lokacija s dobrim popustom od 20%, ali sudski vještak izričito navodi da građevina nije legalna i da dio kuće te pomoćna zgrada zadiru na susjednu česticu. Legalizacija i rješavanje granice nose značajan trošak i pravnu neizvjesnost koja nadmašuje lokacijsku prednost.",
   "flags": [
-    "nekretnina NIJE LEGALNA po nalazu sudskog vještaka",
-    "116 m2 objekta nalazi se na susjednoj čestici kč. 10691/3",
-    "rizik rušenja ili prisilnog reguliranja",
-    "potencijalni spor s vlasnikom susjednog zemljišta",
-    "četiri zgrade - potencijalno višestruki bespravni objekti"
+    "nelegalna gradnja - dio objekta i dvorišta na susjednoj čestici (kč.br. 10691/3)"
   ],
-  "input_hash": "2f6316fbc850",
-  "scored_at": "2026-04-28T08:24:20.460385"
+  "discount_pct": 20.0,
+  "input_hash": "e7cb5b5d4a2f",
+  "scored_at": "2026-07-06T10:26:21.331218"
 }

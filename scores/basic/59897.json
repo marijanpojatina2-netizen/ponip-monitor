@@ -1,16 +1,13 @@
 {
   "id": "59897",
-  "score_overall": 3.5,
-  "score_lokacija": 3.5,
-  "score_roi": 4.0,
-  "score_stanje": 4.0,
+  "score_overall": 3.8,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
   "recommendation": "pass",
-  "reasoning": "Procjena od 195K EUR za objekt u Popovači (Moslavina) čini se znatno iznad tržišnih razina ove regije; uz svega 20% popusta u prvoj dražbi i 500m² neplodnog zemljišta ROI nema osnovu.",
-  "flags": [
-    "neplodno zemljište 500m²",
-    "niska likvidnost tržišta Moslavine",
-    "procjena vjerojatno nadcijenjena za lokaciju"
-  ],
-  "input_hash": "193ce68cfd30",
-  "scored_at": "2026-04-22T07:31:15.505555"
+  "reasoning": "Manja kuća s oranicom i dvorištem u Popovači, ruralno područje Sisačko-moslavačke županije sa slabijom likvidnošću tržišta. Prva dražba s tek 20% popusta ne kompenzira slabu lokaciju i vjerojatno loše stanje objekta.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "b1f2c9f6f551",
+  "scored_at": "2026-07-06T10:24:51.395043"
 }

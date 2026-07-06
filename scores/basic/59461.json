@@ -1,16 +1,16 @@
 {
   "id": "59461",
-  "score_overall": 3.0,
-  "score_lokacija": 3.5,
-  "score_roi": 3.0,
+  "score_overall": 4.3,
+  "score_lokacija": 4.5,
+  "score_roi": 4.5,
   "score_stanje": 3.5,
   "recommendation": "pass",
-  "reasoning": "Četiri katastarske čestice oranice ukupno ~1952 m² u Bjelovaru, čisto vlasništvo 1/1 na svakoj - administrativno uredno, ali investicijski neinteresantno. Prva dražba, 20% popust i isključivo poljoprivredna namjena bez blizine turističkih ili razvojnih zona.",
+  "reasoning": "Četiri parcele oranica na periferiji Bjelovara nude tek 20% popusta na prvoj dražbi, što uz ruralni karakter zemljišta ne opravdava aktivan ulazak. Ukupna površina od oko 3000 m2 je zanimljiva za buduću namjenu, no bez dodatnih podataka o infrastrukturi rizik ostaje visok.",
   "flags": [
-    "isključivo poljoprivredna namjena",
-    "fragmentirano u 4 čestice - složenija administracija",
-    "Bjelovar - ograničen razvojni potencijal"
+    "provjeriti: pristupni put i komunalna infrastruktura",
+    "provjeriti: mogućnost promjene namjene zemljišta"
   ],
-  "input_hash": "eaadd9f09d45",
-  "scored_at": "2026-04-23T08:04:52.248650"
+  "discount_pct": 20.0,
+  "input_hash": "3fc020dd7132",
+  "scored_at": "2026-07-06T10:17:01.028029"
 }

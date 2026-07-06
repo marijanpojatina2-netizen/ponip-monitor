@@ -1,14 +1,15 @@
 {
   "id": "59378",
-  "score_overall": 4.0,
-  "score_lokacija": 3.0,
-  "score_roi": 5.0,
-  "score_stanje": 3.5,
-  "recommendation": "pass",
-  "reasoning": "Parcela 1489 m2 u selu Đurmanec kraj Krapine s 40% popustom na drugoj dražbi — popust je dobar ali ruralna lokacija s minimalnom infrastrukturom ograničava likvidnost i rast vrijednosti. Opis ne navodi izričito objekt, a procijenjena vrijednost (~99 EUR/m2) sugerira eventualni neevidentirani sadržaj koji zahtijeva terensku provjeru.",
+  "score_overall": 5.0,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Zemljište u Đurmancu (Zagorje, blizu Krapine) na drugoj dražbi s 40% popusta, no bez podataka o objektu na parceli. Ruralna lokacija ograničava likvidnost, a nedostatak informacija o statusu i namjeni zemljišta traži dodatnu provjeru.",
   "flags": [
-    "nedovoljno podataka o objektu"
+    "provjeriti: namjena i status čestice (postoji li objekt)"
   ],
-  "input_hash": "bdb309bccefb",
-  "scored_at": "2026-06-19T10:24:33.651321"
+  "discount_pct": 40.0,
+  "input_hash": "632267979b9e",
+  "scored_at": "2026-07-06T10:28:40.209439"
 }
