@@ -1,12 +1,15 @@
 {
   "id": "60704",
-  "score_overall": 3.5,
-  "score_lokacija": 2.5,
-  "score_roi": 3.5,
-  "score_stanje": 5.0,
+  "score_overall": 3.6,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 4.5,
   "recommendation": "pass",
-  "reasoning": "Obiteljska kuća s voćnjakom u malom selu Roždanik kod Kutine; samo 20% popusta na prvoj dražbi u ruralnoj Moslavini s ograničenom potražnjom ne gradi uvjerljiv investicijski slučaj.",
-  "flags": [],
-  "input_hash": "7a69a41ebd30",
-  "scored_at": "2026-06-24T09:25:52.360103"
+  "reasoning": "Ruralno imanje u Roždaniku kraj Kutine (voćnjak, dvorište, kuća) nalazi se u slabije razvijenom, depopulacijskom području uz tek 20% popusta na prvoj dražbi, što daje slab investicijski case. Niska likvidnost regije i standardno stanje objekta ne opravdavaju aktivan angažman.",
+  "flags": [
+    "provjeriti: stanje kuće i gospodarskih zgrada"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "6336341aa063",
+  "scored_at": "2026-07-07T09:51:20.866643"
 }

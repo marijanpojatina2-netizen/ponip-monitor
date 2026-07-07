@@ -1,14 +1,15 @@
 {
   "id": "59588",
-  "score_overall": 4.2,
-  "score_lokacija": 5.0,
+  "score_overall": 5.3,
+  "score_lokacija": 4.0,
   "score_roi": 6.5,
   "score_stanje": 5.0,
   "recommendation": "watch",
-  "reasoning": "Dicmo-Kraj (zaleđe Splita, ~20km od centra) nudi solidan popust od 40% uz umjerenu lokacijsku poziciju, no neutvrdeni suvlasnički omjer etažnog vlasništva E-2 predstavlja ozbiljan pravni rizik koji zahtijeva dubinsku provjeru. Bez razrješenja vlasničkog pitanja licitacija nije preporučljiva.",
+  "reasoning": "Kuća u Dicmo-Kraju (dalmatinska zagora) s 40% popusta i drugom dražbom ima solidan ROI potencijal, a lokacija je bolja od kontinentalnih ruralnih područja zbog blizine Splita. Etažno vlasništvo s neodređenim suvlasničkim omjerom zahtijeva dodatnu pravnu provjeru prije ozbiljnog koraka.",
   "flags": [
-    "sporno vlasništvo"
+    "provjeriti: veličina i omjer suvlasničkog udjela u etažnom vlasništvu E-2"
   ],
-  "input_hash": "c6a65c14fbec",
-  "scored_at": "2026-06-29T10:54:05.081437"
+  "discount_pct": 40.0,
+  "input_hash": "c9c730321873",
+  "scored_at": "2026-07-07T09:51:20.865760"
 }

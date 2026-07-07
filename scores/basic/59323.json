@@ -1,15 +1,15 @@
 {
   "id": "59323",
-  "score_overall": 3.5,
-  "score_lokacija": 4.5,
-  "score_roi": 4.0,
-  "score_stanje": 4.5,
-  "recommendation": "pass",
-  "reasoning": "Čakovec nije turistička ni visoko likvidna tržišna lokacija, a 20% popust na prvoj dražbi ne nudi dovoljnu sigurnosnu marginu za investicijsku logiku. Nekretnina je mješovitog karaktera (pašnjak + stambeno) bez jasnog investicijskog narativa.",
+  "score_overall": 4.0,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Ruralna nekretnina u k.o. Ivanovec (Međimurje) s kućom i gospodarskim zgradama, ali opis sadrži neusklađene katastarske oznake između zemljišne knjige i posjedovnog lista što zahtijeva provjeru prije licitacije.",
   "flags": [
-    "pašnjak kao primarna katastar. oznaka – ograničenja korištenja",
-    "prva dražba – nije testirano tržištem"
+    "provjeriti: neusklađenost katastarskih čestica (zk.ul. vs posjedovni list)"
   ],
-  "input_hash": "a06fae39cba1",
-  "scored_at": "2026-04-30T08:18:34.303959"
+  "discount_pct": 20.0,
+  "input_hash": "61a052b50799",
+  "scored_at": "2026-07-07T09:41:20.446474"
 }

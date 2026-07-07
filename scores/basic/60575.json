@@ -1,16 +1,13 @@
 {
   "id": "60575",
-  "score_overall": 4.0,
-  "score_lokacija": 4.0,
-  "score_roi": 3.5,
+  "score_overall": 4.6,
+  "score_lokacija": 4.5,
+  "score_roi": 4.5,
   "score_stanje": 5.0,
-  "recommendation": "pass",
-  "reasoning": "Kuća s dvorištem 162 m2 i oranicom 334 m2 u Đakovu na centralnoj adresi — Slavonija s jasnim depopulacijskim trendom i ograničenom potražnjom čini investicijski case slabim, a popust 20% na prvoj dražbi ne otvara dovoljnu maržu za rizike rekonstrukcije i buduće prodaje. Isključivo za kupce koji traže stan za stanovanje, ne za investitore.",
-  "flags": [
-    "Slavonija — depopulacijski trend, slabiji investicijski market",
-    "mali stambeni objekt uz oranicu bez razvijenog narativa",
-    "20% popust na prvoj dražbi — nema margine sigurnosti"
-  ],
-  "input_hash": "71b4318b389d",
-  "scored_at": "2026-06-10T09:55:18.922014"
+  "recommendation": "watch",
+  "reasoning": "Kuća s oranicom u samom Đakovu (Tina Ujevića 5) nudi tek umjeren popust od 20% na prvoj dražbi. Lokacija manjeg slavonskog grada i standardno stanje nekretnine daju osrednji investicijski potencijal koji vrijedi pratiti bez aktivnog ulaska.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "20159053702b",
+  "scored_at": "2026-07-07T09:50:08.513695"
 }

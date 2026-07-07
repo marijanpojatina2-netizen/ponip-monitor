@@ -1,16 +1,15 @@
 {
   "id": "59911",
-  "score_overall": 5.0,
-  "score_lokacija": 6.0,
-  "score_roi": 5.5,
-  "score_stanje": 3.5,
+  "score_overall": 6.0,
+  "score_lokacija": 7.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
   "recommendation": "watch",
-  "reasoning": "Četiri livadne parcele ukupno 752m2 u k.o. Grad Zagreb po ~185 EUR/m2 - konzistentno s ostatkom zone 7793. Isti investicijski profil kao ID 59919 ali bez cjenovne premije, što ga čini relativno prihvatljivijim ako GUP potvrdi građevinsku namjenu.",
+  "reasoning": "Građevinsko zemljište (livada) u gradu Zagrebu bez izgrađenih objekata, prva dražba s 25% popustom - lokacija je vrijedna ali bez uvida u namjenu/mogućnost gradnje teško procijeniti stvarni ROI.",
   "flags": [
-    "četiri odvojene k.č. - provjeri mogućnost konsolidacije",
-    "livada - agrarno ograničenje",
-    "bez infrastrukture"
+    "provjeriti: namjena zemljišta i mogućnost gradnje"
   ],
-  "input_hash": "fd745fdbfbcb",
-  "scored_at": "2026-04-23T07:49:30.334706"
+  "discount_pct": 25.0,
+  "input_hash": "c50486ae3317",
+  "scored_at": "2026-07-07T09:41:20.446136"
 }

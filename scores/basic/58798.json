@@ -1,16 +1,13 @@
 {
   "id": "58798",
-  "score_overall": 2.0,
+  "score_overall": 4.2,
   "score_lokacija": 2.0,
-  "score_roi": 3.5,
-  "score_stanje": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
   "recommendation": "pass",
-  "reasoning": "Dvije livadne čestice (krč) ukupno ~3787 m2 u k.o. Glogovac, procijenjene na svega 1700 EUR što samo po sebi govori o marginalnoj vrijednosti lokacije. Oznaka 'krč' sugerira zaraslo/napušteno zemljište koje zahtijeva dodatna ulaganja u kultivaciju bez garantiranog povrata.",
-  "flags": [
-    "'krč' - zaraslo/napušteno zemljište, potrebna kultivacija",
-    "procjena <1800 EUR za 3787 m2 ukazuje na izuzetno slabu tržišnu vrijednost",
-    "depopulacijsko područje bez potražnje"
-  ],
-  "input_hash": "2e1639eec9d5",
-  "scored_at": "2026-05-18T09:58:21.598898"
+  "reasoning": "Ruralna livada u k.o. Glogovac (Podravina) bez ikakve građevine i zanemarive vrijednosti (1704 EUR); unatoč 40% popustu (druga dražba), likvidnost ovakvog malog poljoprivrednog zemljišta je vrlo niska.",
+  "flags": [],
+  "discount_pct": 40.0,
+  "input_hash": "9ed31d0ba786",
+  "scored_at": "2026-07-07T09:41:20.445516"
 }

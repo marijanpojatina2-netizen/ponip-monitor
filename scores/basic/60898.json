@@ -1,0 +1,15 @@
+{
+  "id": "60898",
+  "score_overall": 4.5,
+  "score_lokacija": 4.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Mali stan od 32,9 m2 s podrumskom ostavom u istoj zgradi kao nekretnina 60897, vrlo niske apsolutne vrijednosti što ograničava ROI potencijal za ozbiljniju investiciju. Prva dražba s tek 20% popusta ne opravdava trošak transakcije za ovako malu jedinicu.",
+  "flags": [
+    "provjeriti: etažno vlasništvo - ostali dijelovi iste zgrade u vlasništvu trećih"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "908b28d87b7f",
+  "scored_at": "2026-07-07T09:38:44.814297"
+}

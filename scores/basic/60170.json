@@ -1,17 +1,15 @@
 {
   "id": "60170",
-  "score_overall": 6.5,
-  "score_lokacija": 6.5,
+  "score_overall": 6.2,
+  "score_lokacija": 7.0,
   "score_roi": 6.0,
-  "score_stanje": 6.0,
-  "recommendation": "watch",
-  "reasoning": "Stan od 34 m2 na petom katu s natkrivenom terasom u istoj zgradi kao ID 60162 — viši kat i terasa povećavaju atraktivnost za kratkoročni najam (Airbnb) u blizini Splita i Trogira; popust 25% prihvatljiv ali ne izvanredan na prvoj dražbi. Isti pravni rizik neodređenog omjera etažnog vlasništva vrijedi i ovdje, no viši kat s terasom i sjever-jug orijentacija daju blagu prednost nad ID 60162.",
+  "score_stanje": 5.5,
+  "recommendation": "bid",
+  "reasoning": "Manji stan u Kaštel Gomilici, atraktivnoj obalnoj zoni blizu Splita s turističkim potencijalom, prodaje se na prvoj dražbi uz 25% popusta što je solidan ROI za likvidnu lokaciju. Veličina stana (34,85 m2) pogodna je za najam, a stanje se čini standardnim.",
   "flags": [
-    "neodređeni suvlasnički omjer (E-33) — isti pravni rizik kao E-13 u istoj zgradi",
-    "prva dražba — cijena još nije 'dražbena'",
-    "mala kvadratura (34 m2) ograničava fleksibilnost",
-    "provjeriti stanje zajedničkih dijelova zgrade i kondominija"
+    "provjeriti: postojanje dizala u zgradi (stan na petom katu)"
   ],
-  "input_hash": "aabda981c37d",
-  "scored_at": "2026-06-02T10:18:59.142813"
+  "discount_pct": 25.0,
+  "input_hash": "04edca675330",
+  "scored_at": "2026-07-07T09:51:20.865952"
 }

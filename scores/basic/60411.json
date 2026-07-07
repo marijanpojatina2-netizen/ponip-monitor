@@ -1,16 +1,15 @@
 {
   "id": "60411",
-  "score_overall": 3.5,
+  "score_overall": 4.1,
   "score_lokacija": 4.5,
-  "score_roi": 4.0,
-  "score_stanje": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 2.5,
   "recommendation": "pass",
-  "reasoning": "Čista oranica bez objekata na rubu Slavonskog Broda nudi vrlo ograničen investicijski potencijal – bez zgrade nema ni najma ni prenamjene bez dugog postupka. Popust od svega 20% na prvoj dražbi ne kompenzira slabu likvidnost slavonskog tržišta.",
+  "reasoning": "Radi se o čistoj oranici na periferiji Slavonskog Broda bez izgrađenog objekta, a popust od 20% na prvoj dražbi je slab za ROI. Bez građevine investicijski potencijal je nizak osim ako se ne planira buduća gradnja, što treba dodatno provjeriti.",
   "flags": [
-    "samo građevinsko/poljoprivredno zemljište bez objekata",
-    "slaba likvidnost regije",
-    "nema prihoda od najma"
+    "provjeriti: namjena zemljišta / mogućnost gradnje"
   ],
-  "input_hash": "6ed721db5c0f",
-  "scored_at": "2026-05-29T09:53:08.256550"
+  "discount_pct": 20.0,
+  "input_hash": "18798ed109b8",
+  "scored_at": "2026-07-07T09:52:13.773906"
 }

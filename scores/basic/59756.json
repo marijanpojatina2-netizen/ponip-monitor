@@ -1,0 +1,15 @@
+{
+  "id": "59756",
+  "score_overall": 6.8,
+  "score_lokacija": 6.5,
+  "score_roi": 7.5,
+  "score_stanje": 5.5,
+  "recommendation": "bid",
+  "reasoning": "Manji apartman C u istoj zgradi kao ID 59760, ista lokacija i isti povoljan popust od 40% na drugoj dražbi. Manja površina (53 m2) smanjuje apsolutni potencijal prihoda ali ROI omjer ostaje dobar.",
+  "flags": [
+    "provjeriti: stanje objekta (nema podataka u opisu)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "d4c2fe8d2549",
+  "scored_at": "2026-07-07T09:37:29.389174"
+}

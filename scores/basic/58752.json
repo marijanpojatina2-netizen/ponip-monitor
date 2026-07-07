@@ -1,16 +1,13 @@
 {
   "id": "58752",
-  "score_overall": 2.5,
+  "score_overall": 4.0,
   "score_lokacija": 2.0,
-  "score_roi": 4.0,
-  "score_stanje": 3.5,
+  "score_roi": 6.5,
+  "score_stanje": 2.0,
   "recommendation": "pass",
-  "reasoning": "Dvorišna čestica od 111 m2 u Bakovčica selu za početnih 351 EUR zanimljiva je jedino kao prilog susjednoj čestici (moguća sinergija s ID 58750 koje ima dvorište u istom selu). Samostalno nema gotovo nikakvu investicijsku vrijednost - premala, bez objekta, ruralna lokacija.",
-  "flags": [
-    "111 m2 dvorišta bez izgrađenog objekta - nije samostalno iskoristivo",
-    "vrijednost samo kao dopuna susjednoj čestici",
-    "marginalna tržišna likvidnost"
-  ],
-  "input_hash": "8eae8e3ac9dc",
-  "scored_at": "2026-05-18T09:58:21.599003"
+  "reasoning": "Sitna čestica dvorišta od svega 111 m2 bez objekta u ruralnom području Koprivnice, vrijednost zanemariva (586 EUR); investicijski potpuno nezanimljivo unatoč popustu.",
+  "flags": [],
+  "discount_pct": 40.0,
+  "input_hash": "266d9c52810c",
+  "scored_at": "2026-07-07T09:41:20.445895"
 }

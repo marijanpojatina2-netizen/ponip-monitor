@@ -1,16 +1,15 @@
 {
   "id": "58750",
-  "score_overall": 3.0,
-  "score_lokacija": 2.0,
-  "score_roi": 4.5,
-  "score_stanje": 3.5,
+  "score_overall": 4.7,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
+  "score_stanje": 2.5,
   "recommendation": "pass",
-  "reasoning": "Čestica s tovilištem i dvorištem (565 m2) u selu Bakovčica nudi nešto više od čiste livade, ali lokacija u ruralnoj Podravini i namjena (stočarski objekt) drastično sužavaju krug kupaca. Bez poznavanja stanja objekta na terenu i mogućnosti prenamjene, rizik je nerazmjeran potencijalnoj dobiti.",
+  "reasoning": "Mala parcela s tovilištem i dvorištem od 565 m2 u Glogovcu poljoprivredno-stočarske je namjene. Nizak iznos i ruralna lokacija ograničavaju investicijski interes.",
   "flags": [
-    "tovilište - specifična poljoprivredna namjena, teška prenamjena",
-    "ruralno selo bez razvojne perspektive",
-    "nejasno fizičko stanje objekata na čestici"
+    "provjeriti: stanje i namjena tovilišta"
   ],
-  "input_hash": "eef3545f349f",
-  "scored_at": "2026-05-18T09:58:21.598672"
+  "discount_pct": 40.0,
+  "input_hash": "3b09aad6b480",
+  "scored_at": "2026-07-07T09:39:57.935938"
 }

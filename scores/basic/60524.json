@@ -1,0 +1,16 @@
+{
+  "id": "60524",
+  "score_overall": 6.2,
+  "score_lokacija": 8.5,
+  "score_roi": 5.5,
+  "score_stanje": 4.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Otok Cres, adresa u starogradskoj jezgri - vrlo tražena lokacija unatoč maloj kvadraturi (32 m2) i vjerojatno starijoj/trošnijoj gradnji. Neodređeni suvlasnički omjeri između tri etažna dijela zahtijevaju pravnu provjeru prije ulaska u licitaciju.",
+  "flags": [
+    "neodređen suvlasnički omjer (E-1/E-2/E-3)",
+    "provjeriti: stanje objekta i potreba renovacije (stara kuća, mala kvadratura)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "bda0563287d6",
+  "scored_at": "2026-07-07T09:37:29.389338"
+}

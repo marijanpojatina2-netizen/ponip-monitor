@@ -1,14 +1,13 @@
 {
   "id": "59550",
-  "score_overall": 4.5,
+  "score_overall": 5.0,
   "score_lokacija": 3.5,
-  "score_roi": 5.5,
-  "score_stanje": 4.0,
-  "recommendation": "pass",
-  "reasoning": "Livada 4845m² u ruralnom Zagorju (k.o. Sveti Križ Začretje) bez izgrađene infrastrukture i s ograničenim razvojnim potencijalom. Popust od 40% ne kompenzira slabu tržišnu likvidnost i usku namjenu poljoprivrednog zemljišta.",
-  "flags": [
-    "poljoprivredno zemljište bez građevinskog potencijala"
-  ],
-  "input_hash": "1caabb7aec80",
-  "scored_at": "2026-06-29T10:54:05.081005"
+  "score_roi": 7.0,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Radi se isključivo o livadi od 4845 m2 u ruralnom Zagorju (Sveti Križ Začretje) bez izgrađenih objekata, pa je lokacijska i uporabna vrijednost ograničena. Visok popust od 40% na drugoj dražbi ukazuje na slab interes tržišta, ali čini ulaznu cijenu po m2 vrlo povoljnom za dugoročno poljoprivredno ili zemljišno ulaganje.",
+  "flags": [],
+  "discount_pct": 40.0,
+  "input_hash": "76586e5d4a64",
+  "scored_at": "2026-07-07T09:42:21.615571"
 }

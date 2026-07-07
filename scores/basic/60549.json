@@ -1,15 +1,15 @@
 {
   "id": "60549",
-  "score_overall": 3.5,
+  "score_overall": 4.2,
   "score_lokacija": 3.0,
-  "score_roi": 3.5,
-  "score_stanje": 5.0,
+  "score_roi": 5.0,
+  "score_stanje": 4.5,
   "recommendation": "pass",
-  "reasoning": "Ruralna kuća s okućnicom i oranicama (~5.100 m² ukupno) u Gornjoj Pačetini kraj Krapine uz samo 20% popusta na prvoj dražbi nema investicijsku privlačnost; tržišna dubina je zanemariva i realna exit strategija gotovo ne postoji.",
+  "reasoning": "Kuća s oranicom u Gornjoj Pačetini (Zagorje) ima veliku ukupnu površinu, no ruralna lokacija i suvlasništvo dvoje ovršenika u omjeru 1/2:1/2 nose rizik spora oko diobe. Popust od 20% na prvoj dražbi ne opravdava ulazak s obzirom na slab investicijski profil.",
   "flags": [
-    "ruralno područje Zagorje - minimalna tržišna likvidnost",
-    "svega 20% popust na prvoj dražbi - nema margin of safety"
+    "provjeriti: suvlasništvo dva ovršenika (1/2+1/2) - mogući spor oko diobe"
   ],
-  "input_hash": "d11d9581d5aa",
-  "scored_at": "2026-06-09T09:40:48.018089"
+  "discount_pct": 20.0,
+  "input_hash": "4c3c49920b22",
+  "scored_at": "2026-07-07T09:48:49.689564"
 }

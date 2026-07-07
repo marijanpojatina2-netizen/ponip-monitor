@@ -1,14 +1,13 @@
 {
   "id": "59529",
-  "score_overall": 5.5,
-  "score_lokacija": 7.0,
+  "score_overall": 5.7,
+  "score_lokacija": 7.5,
   "score_roi": 4.5,
   "score_stanje": 5.0,
   "recommendation": "watch",
-  "reasoning": "Trnje je solidna zagrebačka lokacija blizu centra s dobrom likvidnošću, ali svega 20% popust na prvoj dražbi i tek 32 m2 stana čine investicijski slučaj rubnim.",
-  "flags": [
-    "mali stan 32 m2 - uzak bazen kupaca/najmoprimaca"
-  ],
-  "input_hash": "a63a4633538c",
-  "scored_at": "2026-04-20T14:15:52.853145"
+  "reasoning": "Stan u zagrebačkom Trnju ima izvrsnu lokaciju, ali mali popust od 20% na prvoj dražbi i malena površina od 32,35 m2 ograničavaju ROI potencijal. Standardno stanje bez posebnih naznaka o obnovi.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "85710bee009f",
+  "scored_at": "2026-07-07T09:47:35.401702"
 }

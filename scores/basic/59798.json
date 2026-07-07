@@ -1,0 +1,15 @@
+{
+  "id": "59798",
+  "score_overall": 6.5,
+  "score_lokacija": 8.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "bid",
+  "reasoning": "Lokacija u Punatu na Krku je vrhunska turistička zona, a druga dražba s 50% popusta i ulaznom cijenom od svega 569 EUR čini rizik zanemarivim. Radi se tek o parkirnoj čestici od 11 m2 bez objekta, pa je vrijednost najveća u kombinaciji sa susjednom nekretninom.",
+  "flags": [
+    "provjeriti: povezanost i pristup s obzirom da čestica služi kao parkiralište susjednog objekta"
+  ],
+  "discount_pct": 50.0,
+  "input_hash": "20ad8df99911",
+  "scored_at": "2026-07-07T09:38:44.814438"
+}

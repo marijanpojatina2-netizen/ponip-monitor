@@ -1,0 +1,15 @@
+{
+  "id": "60809",
+  "score_overall": 5.6,
+  "score_lokacija": 6.0,
+  "score_roi": 5.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća u Markuševcu, sjeveroistočna periferija Zagreba - solidna lokacija ali ne vrhunska, popust od 20% na prvoj dražbi je standardan. Nema podataka o stanju objekta niti o eventualnim rizicima u opisu.",
+  "flags": [
+    "provjeriti: stanje objekta (nema podataka u opisu)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "f5d7a52ba70f",
+  "scored_at": "2026-07-07T09:37:29.388749"
+}

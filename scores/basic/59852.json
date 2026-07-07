@@ -1,15 +1,15 @@
 {
   "id": "59852",
   "score_overall": 6.5,
-  "score_lokacija": 7.0,
-  "score_roi": 7.0,
+  "score_lokacija": 8.0,
+  "score_roi": 6.5,
   "score_stanje": 4.0,
   "recommendation": "deep_dive",
-  "reasoning": "Parcela 430 m2 uz Radničku cestu - primarne poslovne osi Zagreba - s 25% popustom može imati iznimnu razvojnu vrijednost; ako GUP dopušta poslovnu ili mješovitu gradnju, cijena od 204 EUR/m2 drastično je ispod tržišnog potencijala. Obvezna hitna provjera GUP namjene i koeficijenta izgradivosti.",
+  "reasoning": "Zemljište na Radničkoj cesti u Zagrebu je u vrlo traženoj poslovnoj zoni uz popust od 25% na prvoj dražbi, što daje značajan potencijal za land banking ili razvoj. Katastarska oznaka oranica u urbanoj poslovnoj zoni zahtijeva provjeru prostornog plana i mogućnosti gradnje.",
   "flags": [
-    "oranica - kritična provjera GUP namjene (K1/K2/mješovita?)",
-    "bez izgrađenog objekta - čisto razvojno/spekulativna investicija"
+    "provjeriti: namjena zemljišta prema prostornom planu (oranica u poslovnoj zoni)"
   ],
-  "input_hash": "f908f3c03eea",
-  "scored_at": "2026-04-21T07:50:50.787212"
+  "discount_pct": 25.0,
+  "input_hash": "a20c5fce3fae",
+  "scored_at": "2026-07-07T09:44:26.029462"
 }

@@ -1,16 +1,13 @@
 {
   "id": "58768",
-  "score_overall": 2.0,
-  "score_lokacija": 2.0,
-  "score_roi": 3.5,
-  "score_stanje": 2.5,
+  "score_overall": 4.6,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
+  "score_stanje": 2.0,
   "recommendation": "pass",
-  "reasoning": "Dvije livadne čestice ukupno ~4880 m2 u Stanjovici bez ikakve izgrađenosti predstavljaju čisto poljoprivredno zemljište s minimalnom investicijskom vrijednošću. Visoka apsolutna površina ne kompenzira lošu lokaciju i gotovo nepostojeću tržišnu likvidnost za ovu vrstu imovine.",
-  "flags": [
-    "isključivo livade - nema građevinskog potencijala",
-    "Stanjovica - malo ruralno naselje bez perspektive rasta vrijednosti",
-    "niska likvidnost, otežana preprodaja"
-  ],
-  "input_hash": "8f04917e31a2",
-  "scored_at": "2026-05-18T09:58:21.598790"
+  "reasoning": "Livada od 4880 m2 u Glogovcu bez objekata i infrastrukture. Nizak ulog uz 40% popust ne kompenzira slabu lokaciju i likvidnost.",
+  "flags": [],
+  "discount_pct": 40.0,
+  "input_hash": "a9a2d381ce52",
+  "scored_at": "2026-07-07T09:39:57.936257"
 }

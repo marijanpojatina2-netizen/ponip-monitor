@@ -1,14 +1,16 @@
 {
   "id": "60724",
-  "score_overall": 4.1,
+  "score_overall": 3.8,
   "score_lokacija": 3.0,
-  "score_roi": 4.5,
+  "score_roi": 4.0,
   "score_stanje": 5.0,
   "recommendation": "pass",
-  "reasoning": "Tri CNC industrijska stroja iz stečaja s 25% popustom — isključivo nišno tržište rabljene opreme bez veze s nekretninama; bez specijaliziranog industrijskog znanja nema osnove za pouzdanu procjenu realne tržišne vrijednosti strojeva.",
+  "reasoning": "Radi se o pokretninama (CNC strojevi), a ne nekretnini, što smanjuje dugoročni ROI potencijal i zahtijeva specijalizirano tržište kupaca. Stanje i starost strojeva nisu navedeni u opisu.",
   "flags": [
-    "pokretnina – industrijski strojevi (nije nekretnina)"
+    "provjeriti: stanje i godina proizvodnje CNC strojeva",
+    "provjeriti: tržište za preprodaju industrijske opreme"
   ],
-  "input_hash": "599d2572c4cf",
-  "scored_at": "2026-06-24T09:25:52.359965"
+  "discount_pct": 25.0,
+  "input_hash": "0456b132c3aa",
+  "scored_at": "2026-07-07T09:44:26.029621"
 }

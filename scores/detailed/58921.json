@@ -1,67 +1,36 @@
 {
   "id": "58921",
-  "score_overall": 6.5,
-  "score_lokacija": 7.5,
-  "score_roi": 7.0,
-  "score_stanje": 5.0,
+  "score_overall": 7.9,
+  "score_lokacija": 8.5,
+  "score_roi": 8.0,
+  "score_stanje": 6.5,
   "recommendation": "deep_dive",
-  "reasoning": "Tribunj je atraktivna dalmatinska obalna destinacija blizu Vodica i Šibenika s dobrim turističkim prometom — lokacija opravdava interes. Kompleks od 8 apartmana s bazenom na ~468m2 bruto površine po početnoj cijeni 576K EUR (40% popust, druga dražba) nudi izuzetan ROI potencijal uz internu stopu povrata od potencijalno 10–15%. Međutim, tri kritična crvena zastavica ozbiljno kompliciraju deal: (1) sud eksplicitno prijeti policijskim prisilom za samo razgledavanje, što signalizira aktivni posjedovni otpor, (2) drastična diskrepancija između 110m2 u zemljišnoj knjizi i 468m2 stvarne površine gotovo sigurno ukazuje na bespravnu nadogradnju, i (3) suvlasnički razdor 1/2–1/2 dodaje sloj emotivnog i pravnog kompleksiteta. Vrijednost je realno tamo, ali ulaz bez temeljite pravne due diligence bio bi hazard.",
+  "reasoning": "Stambeni objekt s 8 apartmana (468,65 m2 bruto) i bazenom u Tribunju, traženoj turističkoj mikrolokaciji uz Vodice i Šibenik, na drugoj dražbi s 40% popustom predstavlja potencijalno vrlo isplativu priliku za turistički najam. Nedostaju podaci o točnom stanju/godini objekta i legalnosti apartmana, a suvlasništvo dviju stranaka (1/2:1/2) traži pravnu provjeru prije licitacije. Napomena o mogućem angažiranju ovršitelja i policije pri razgledavanju upućuje na moguć otpor postojećih vlasnika, što povećava rizik due diligence procesa.",
   "flags": [
-    "KRITIČNO — POSJEDOVNI OTPOR: Sud najavljuje angažiranje ovršitelja I POLICIJE za razgledavanje; stranke aktivno blokiraju pristup objektu — visok rizik produljenog ovršnog postupka preuzimanja posjeda (6–18 mj.)",
-    "SUVLASNIŠTVO 1/2 – 1/2 u sporu: Dražba pokrenuta radi prisilne diobe, emocionalno angažirani vlasnici mogu opstruirati primopredaju svim dostupnim pravnim sredstvima",
-    "KRITIČNO — DISKREPANCIJA POVRŠINA: Zemljišna knjiga bilježi 'kuća i dvor 110 m2', stvarna bruto površina iznosi 468,65 m2 — razlika od ~358 m2 gotovo sigurno predstavlja bespravnu gradnju bez građevinske/uporabne dozvole",
-    "4 apartmana u prizemlju na footprintu ~110 m2 (≈27 m2 po apartmanu) — neuobičajena gustoća, upućuje na naknadno pregrađivanje bez potvrde etažnog plana",
-    "Nadležnost Stalna služba u Kninu (ne Šibenik) za nekretninu u Tribunju — provjeriti ima li posebnih administrativnih implikacija na rokove i procedure",
-    "Objekt nije moguće razgledati uobičajenim putem — kupac ulazi 'slijepo' bez uvida u stvarno stanje unutrašnjosti"
+    "provjeriti: prodaje li se cijela nekretnina ili samo suvlasnički dio (1/2)",
+    "provjeriti: legalnost/uporabna dozvola za 8 apartmana i njihovu turističku kategorizaciju",
+    "provjeriti: mogućnost da bivši vlasnici ili treće osobe borave u nekretnini i ometaju razgledavanje/primopredaju",
+    "provjeriti: status oranice 542 m2 u sklopu čestice (poljoprivredna namjena vs. građevinsko zemljište)"
   ],
   "market_estimate": {
-    "eur_min": 950000,
-    "eur_max": 1350000,
-    "confidence": "medium",
-    "basis": "Tribunj–Vodice koridor 2024–2025: apartmani s turističkim potencijalom u blizini mora 2.500–3.500 EUR/m2 neto korisne površine. Procjena: ~380 m2 neto × 2.800 EUR/m2 = 1.064.000 EUR bazni scenarij. Premium za gotovi kompleks s bazenom, 8 jedinica i velikim dvorištem (1.142 m2 ukupno) daje gornji raspon do 1.35M EUR. Sudska procjena od 960.218 EUR konzervativna je i vjerojatno već diskontira pravne rizike. Pouzdanost 'medium' jer web pretraga nije bila dostupna za verifikaciju živih oglasa."
+    "eur_min": 900000,
+    "eur_max": 1300000,
+    "confidence": "low",
+    "basis": "Web pretraga nije bila dostupna u ovoj sesiji pa procjena nije potkrijepljena aktualnim oglasima. Temelji se na općem poznavanju tržišta apartmanskih kuća namijenjenih turističkom najmu na mikrolokaciji Vodice/Tribunj (okvirno 2.500-3.500 EUR/m2 bruto za objekte prilagođene iznajmljivanju), primijenjeno na 468,65 m2 bruto uz dodatnu vrijednost zemljišta (1142 m2) i bazena. Sudska procjena od 960.219 EUR uzeta je kao referentna donja granica raspona."
   },
-  "comparables": [
-    {
-      "opis": "Apartmanska kuća, Vodice, 6 stambenih jedinica, 400 m2, bazen, 100 m od mora — tražena zona",
-      "cijena": 1200000,
-      "m2": 400,
-      "izvor": "nekretnine.net (tržišna procjena bez live pretrage)",
-      "url": "https://www.nekretnine.net/stambeni_objekti/kuce/vodice/"
-    },
-    {
-      "opis": "Turistička kuća za iznajmljivanje, okolica Šibenika, 5 apartmana, 320 m2, bez bazena",
-      "cijena": 780000,
-      "m2": 320,
-      "izvor": "njuskalo.hr (tržišna procjena bez live pretrage)",
-      "url": "https://www.njuskalo.hr/prodaja-kuce/sibensko-kninska-zupanija"
-    },
-    {
-      "opis": "Pansion/apartmanska kuća, Pirovac–Tribunj zona, 450 m2, 7 apartmana, uređen vrt",
-      "cijena": 1050000,
-      "m2": 450,
-      "izvor": "index.hr oglasi (tržišna procjena bez live pretrage)",
-      "url": "https://oglasi.index.hr/pretraga?tip=prodaja&vrsta=kuce&lokacija=sibensko-kninska"
-    },
-    {
-      "opis": "Apartmanski kompleks, Primošten (premijska lokacija 20 km južno), 500 m2, bazen, etažirano",
-      "cijena": 1500000,
-      "m2": 500,
-      "izvor": "nekretnine.net (tržišna procjena bez live pretrage)",
-      "url": "https://www.nekretnine.net/stambeni_objekti/kuce/primosten/"
-    }
-  ],
-  "investment_strategy": "KRATKOROČNO IZNAJMLJIVANJE (Airbnb / Booking.com) kao primarna strategija: 8 apartmana s bazenom u turističkoj destinaciji — optimalan asset za turistički najam. Procijenjeni prihod: 8 apt × prosječno 750 EUR/tjedan × 13 tjedana aktivne sezone = ~78.000 EUR bruto; uz produljenje sezone (ramen sezone i jesenski gosti za Krku) može doseći 90–100K EUR bruto. Nakon troškova upravljanja, komunalija i održavanja (35%) neto ~50–65K EUR godišnje. Na entry cijeni 630K EUR + 80K EUR ulaganja u uređenje (ukupno ~710K EUR) = godišnji ROI 7–9%. Alternativna exit strategija: preprodaja cijelog kompleksa kao gotovog turističkog objekta institucionalnom kupcu ili stranom investitoru za 1.1–1.35M EUR u horizontu 3–5 godina, uz kapitalnu dobit od 400–650K EUR.",
-  "entry_price_eur": 625000,
+  "comparables": [],
+  "investment_strategy": "iznajmljivanje - objekt je već fizički podijeljen na 8 apartmana pogodnih za sezonski turistički najam u traženoj destinaciji; alternativno reno-flip (manji facelift + legalizacija) prije daljnje prodaje ili prodaje pojedinačnih apartmanskih jedinica ako je moguća pravna diobavost.",
+  "entry_price_eur": 650000,
   "detailed_risks": [
-    "Bespravna gradnja (visoka vjerojatnost): Razlika 110 m2 (ZK) vs 468 m2 (stvarnost) znači da etaže vjerojatno nemaju građevinsku/uporabnu dozvolu — bez legalizacije nema zakonskog turističkog iznajmljivanja; legalizacija po Zakonu o nezakonito izgrađenim zgradama moguća za objekte sagrađene do 21.06.2011., ali nije zagarantirana (trošak 20–60K EUR, trajanje 1–3 godine)",
-    "Posjedovni problem: Fizičko preuzimanje uz policijsku asistenciju moguće, ali svaki žalba ili tužba stranaka može blokirati posjed 6–24 mj. — kapital vezan bez prihoda",
-    "Etažni plan: 8 apartmana vjerojatno nije uknjiženo kao 8 posebnih vlasničkih dijelova; novi etažni elaborat i upis potrebni (5–20K EUR, 6–12 mj.) — otežana prodaja pojedinih jedinica",
-    "Skriveni troškovi ulaska: Jamčevina 96.021 EUR odmah blokira kapital; sudski troškovi, porez na promet nekretnina (3%), odvjetnički honorari = ukupno 30–50K EUR dodatno",
-    "Tržišna likvidnost: Tribunj nije Hvar ni Dubrovnik — sezona 12–14 tjedana, prodaja cijelog kompleksa može trajati 18–36 mj. za pronalazak pravog kupca",
-    "Nepoznato stanje unutrašnjosti: Bez mogućnosti razgledavanja ne može se procijeniti stvarni trošak renovacije (može biti 50K ili 200K EUR ovisno o stanju)"
+    "Suvlasništvo dviju stranaka po 1/2 dijela - nejasno prodaje li se cijela nekretnina ili samo jedan dio",
+    "Nema podataka o godini gradnje/zadnjoj renovaciji objekta u opisu",
+    "Najava angažmana ovršitelja i policije za razgledavanje upućuje na moguć otpor/spor s postojećim korisnicima",
+    "Mogući nedostatak uporabne dozvole ili legalizacije za sve 4+2+2 apartmanske jedinice",
+    "Oranica 542 m2 unutar čestice može imati poljoprivrednu namjenu koja ograničava daljnju gradnju/širenje kapaciteta"
   ],
-  "upside_scenario": "Legalizacija prolazi glatko (objekt sagrađen prije 2011., u skladu s PPU-om), posjed mirno preuzet u 4–6 mj., uređenje 8 apartmana za 80K EUR završeno do sezone 2027. Objekt generira 90K+ EUR bruto godišnje, tržišna vrijednost raste na 1.2–1.4M EUR do 2028–2029 zbog rasta turizma na šibenskom primorju i ograničene nove ponude. Ukupni povrat na investiciju 80–120% u 5 godina uz kombinirani najam + kapitalna dobit.",
-  "downside_scenario": "Legalizacija odbijena (prekoračenje GBP-a, nesklad s prostornim planom ili zona posebne zaštite), objekt nema i ne može dobiti uporabnu dozvolu. Posjedovni postupak traje 18+ mj., pravni troškovi kumuliraju. Na kraju se objekt prodaje 'kao što je' potencijalnom kupcu koji želi land value — vrijednost same parcele 1.142 m2 u Tribunju možda 200–350K EUR. Ukupni gubitak: 300–400K EUR uključujući uloženi kapital, propuštenu dobit i troškove postupka.",
-  "input_hash": "bac1cbe52b48",
-  "scored_at": "2026-05-22T09:32:28.429992"
+  "upside_scenario": "Uz uspješno razrješenje suvlasničkih i pravnih pitanja te potvrdu legalnosti apartmana, investitor uz minimalna ulaganja može odmah pokrenuti sezonski najam u traženoj destinaciji, s mogućim godišnjim prinosom 8-12% na uloženi kapital i rastom vrijednosti nekretnine u 2-3 godine paralelno s nastavkom rasta turizma na srednjem Jadranu.",
+  "downside_scenario": "Ako se ispostavi da se prodaje samo suvlasnički udio, ili se otkriju neriješeni sporovi, nelegalizirani dijelovi objekta ili osobe koje odbijaju iseliti, investicija se blokira dugotrajnim sudskim postupcima, a troškovi legalizacije i pravnih radnji mogu značajno umanjiti očekivanu maržu.",
+  "discount_pct": 40.0,
+  "input_hash": "af6d537d678e",
+  "scored_at": "2026-07-07T09:56:19.579299"
 }

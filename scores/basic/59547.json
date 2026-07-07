@@ -1,12 +1,15 @@
 {
   "id": "59547",
-  "score_overall": 4.0,
-  "score_lokacija": 2.0,
-  "score_roi": 5.0,
+  "score_overall": 4.8,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
   "score_stanje": 5.0,
-  "recommendation": "pass",
-  "reasoning": "Nuštar (Vukovarsko-srijemska županija) spada u jedno od najtežih tržišta nekretnina u Hrvatskoj s jakim depopulacijskim trendovima i gotovo nepostojećom investicijskom potražnjom. Popust od 40% nije dovoljan da kompenzira teškoće pri eventualnoj preprodaji ili iznajmljivanju.",
-  "flags": [],
-  "input_hash": "e89a648f03a3",
-  "scored_at": "2026-06-29T10:54:05.081312"
+  "recommendation": "watch",
+  "reasoning": "Kuća i dvor u Nuštru uz 40% popust i drugu dražbu daje solidan ROI potencijal, ali ruralna slavonska lokacija s depopulacijom ograničava likvidnost izlaska. Stanje nekretnine nije opisano pa treba dodatnu provjeru prije ozbiljnijeg koraka.",
+  "flags": [
+    "provjeriti: stanje nekretnine i eventualna opterećenja"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "a6a3a68773c8",
+  "scored_at": "2026-07-07T09:51:20.864884"
 }

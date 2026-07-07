@@ -1,15 +1,15 @@
 {
   "id": "59777",
-  "score_overall": 5.5,
-  "score_lokacija": 5.5,
-  "score_roi": 6.0,
-  "score_stanje": 5.0,
+  "score_overall": 6.0,
+  "score_lokacija": 6.5,
+  "score_roi": 5.5,
+  "score_stanje": 6.0,
   "recommendation": "watch",
-  "reasoning": "Stan 55.50 m2 na E-2 katu po najnižoj cijeni u Viškovo grupi (~1.858 EUR/m2, početna 103.134 EUR) nudi relativno bolji ROI potencijal unutar serije, ali niža etaža umanjuje preprodajnu premiju; ako se potvrdi novo stanje zgrade (developerski stečaj), može prerasti u bid kandidata.",
+  "reasoning": "Stan u Viškovu, uz Rijeku, solidna prigradska lokacija s dobrom potražnjom; popust od 20% na prvoj dražbi je umjeren pa nema izraženog cjenovnog viška vrijednosti.",
   "flags": [
-    "5 stanova iz iste zgrade prodano istovremeno - provjeri razlog",
-    "niža etaža E-2 - manji interes kupaca"
+    "provjeriti: useljenost/zauzetost nekretnine"
   ],
-  "input_hash": "efa41c33864a",
-  "scored_at": "2026-05-20T09:29:23.462045"
+  "discount_pct": 20.0,
+  "input_hash": "6b66092cb8bb",
+  "scored_at": "2026-07-07T09:43:17.459825"
 }

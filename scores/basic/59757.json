@@ -1,15 +1,15 @@
 {
   "id": "59757",
-  "score_overall": 4.5,
-  "score_lokacija": 4.0,
-  "score_roi": 4.5,
-  "score_stanje": 5.0,
-  "recommendation": "pass",
-  "reasoning": "Jakuševec je jedna od slabijih lokacija u Zagrebu (blizina bivšeg odlagališta, slaba reputacija zone) a 20% popust na prvoj dražbi ne kompenzira lokacijski hendikep; potkrovlje donosi strukturne rizike (toplinska izolacija, krovne propusnosti) i slabu atraktivnost za najam. Investicijski case slab.",
+  "score_overall": 5.8,
+  "score_lokacija": 6.5,
+  "score_roi": 5.5,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Dvosobni stan u potkrovlju u Zagrebu (Kamenarka) sa spremištem i parkirnim mjestom ima solidnu lokaciju i standardne karakteristike; popust od 20% na prvoj dražbi ne daje izraženu cjenovnu prednost.",
   "flags": [
-    "potkrovlje - toplinska izolacija i krovne propusnosti",
-    "Jakuševec - slabija lokacijska reputacija"
+    "provjeriti: useljenost/zauzetost"
   ],
-  "input_hash": "ba130fa138d7",
-  "scored_at": "2026-04-21T07:50:50.786988"
+  "discount_pct": 20.0,
+  "input_hash": "3377f40322dc",
+  "scored_at": "2026-07-07T09:43:17.460696"
 }

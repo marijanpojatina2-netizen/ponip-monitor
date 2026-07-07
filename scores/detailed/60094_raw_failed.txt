@@ -1,0 +1,6 @@
+Nemam odobrenje za web pretragu u ovoj sesiji, pa ne mogu dohvatiti stvarne tržišne podatke/komparable za Rupu. Mogu:
+
+1. Nastaviti i dovršiti JSON procjenu isključivo na temelju danog opisa i moje stručne procjene (bez `comparables` s pravim URL-ovima, uz `confidence: "low"`), ili
+2. Pričekati da odobriš WebSearch alat pa napraviti punu analizu s pravim brojkama.
+
+Kako želiš da nastavim?

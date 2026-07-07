@@ -1,12 +1,13 @@
 {
   "id": "60722",
-  "score_overall": 4.5,
-  "score_lokacija": 5.0,
-  "score_roi": 4.0,
-  "score_stanje": 5.0,
-  "recommendation": "watch",
-  "reasoning": "Stambena kuća u Čakovcu — solidna lokacija za regionalni centar Međimurja s aktivnijim tržištem nekretnina, ali samo 20% popusta na prvoj dražbi bez ikakvog detalja o stanju ne opravdava aktivnu ponudu bez fizičkog pregleda.",
+  "score_overall": 5.7,
+  "score_lokacija": 5.5,
+  "score_roi": 6.0,
+  "score_stanje": 5.5,
+  "recommendation": "bid",
+  "reasoning": "Kuća u Čakovcu, regionalnom središtu Međimurja sa umjerenom potražnjom, prodaje se na prvoj dražbi s 20% popusta. Suvlasništvo je podijeljeno ravnopravno između dva ovršenika bez zadržavanja udjela trećih strana, što pojednostavljuje stjecanje pune vlasničke pozicije.",
   "flags": [],
-  "input_hash": "24b0c3707f21",
-  "scored_at": "2026-06-24T09:25:52.359822"
+  "discount_pct": 20.0,
+  "input_hash": "ddd5e3a90582",
+  "scored_at": "2026-07-07T09:42:21.615424"
 }

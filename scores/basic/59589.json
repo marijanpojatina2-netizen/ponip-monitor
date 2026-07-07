@@ -1,15 +1,16 @@
 {
   "id": "59589",
-  "score_overall": 6.8,
-  "score_lokacija": 5.5,
+  "score_overall": 6.9,
+  "score_lokacija": 6.5,
   "score_roi": 9.0,
-  "score_stanje": 4.0,
+  "score_stanje": 3.0,
   "recommendation": "deep_dive",
-  "reasoning": "Treća dražba s 50% popustom na oranicu 3987m2 uz jezero Rakitje na rubnom dijelu Zagreba (Lučko) predstavlja izvanredan financijski ulaz; ključno je provjeriti urbanistički status i mogućnost prenamjene jer je katastarski klasifikacija 'oranica' ograničavajuća. Blizina Zagreba i jezera čini ovu česticu spekulativno vrlo zanimljivom.",
+  "reasoning": "Zemljište uz jezero Rakitje kraj Zagreba, tražena rekreacijska zona blizu grada, na trećoj dražbi s izuzetnim popustom od 50%. Radi se o neizgrađenom oranici pa treba provjeriti mogućnost prenamjene i komunalnu infrastrukturu prije ozbiljnijeg koraka.",
   "flags": [
-    "poljoprivredno zemljište - rizik nedobivanja građevinske dozvole",
-    "nejasna identifikacija čestice (stara kč. br. 4434, nova kč. br. 296)"
+    "provjeriti: namjena zemljišta (oranica) i mogućnost prenamjene/gradnje",
+    "provjeriti: komunalna infrastruktura i pristup"
   ],
-  "input_hash": "0d3b43f51094",
-  "scored_at": "2026-06-22T11:50:06.034657"
+  "discount_pct": 50.0,
+  "input_hash": "a3bba229968e",
+  "scored_at": "2026-07-07T09:50:08.512880"
 }

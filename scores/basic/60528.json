@@ -1,15 +1,13 @@
 {
   "id": "60528",
-  "score_overall": 4.0,
-  "score_lokacija": 3.5,
-  "score_roi": 4.5,
-  "score_stanje": 3.5,
-  "recommendation": "pass",
-  "reasoning": "Kuća iz 1955. u Zaboku s 20% popustom nudi ograničen investicijski potencijal u regiji s niskom likvidnošću i stagnantnim demografskim trendovima, a drvena stolarija i stara konstrukcija impliciraju znatan trošak renovacije koji erodira popust. Nema jasne exit strategije uz zadovoljavajući prinos.",
-  "flags": [
-    "stara gradnja ~1955. - drvena stolarija, visoki troškovi renovacije",
-    "20% popust na prvoj dražbi - nedovoljan za stariju nekretninu u slabijoj regiji"
-  ],
-  "input_hash": "dce48a4fdb82",
-  "scored_at": "2026-05-28T09:59:31.808126"
+  "score_overall": 4.6,
+  "score_lokacija": 4.5,
+  "score_roi": 5.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Zabok je manji grad kontinentalne Hrvatske sa umjerenom likvidnošću, a kuća iz 1955./67. s drvenom stolarijom i običnim staklom traži temeljitiju obnovu. Popust od 20% na prvoj dražbi ne daje dovoljnu sigurnosnu marginu za agresivniju ponudu.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "8ceb085e6015",
+  "scored_at": "2026-07-07T09:47:35.400823"
 }

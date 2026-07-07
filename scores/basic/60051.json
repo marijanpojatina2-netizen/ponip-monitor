@@ -1,16 +1,15 @@
 {
   "id": "60051",
   "score_overall": 6.0,
-  "score_lokacija": 7.0,
-  "score_roi": 5.5,
+  "score_lokacija": 6.5,
+  "score_roi": 6.0,
   "score_stanje": 5.0,
   "recommendation": "watch",
-  "reasoning": "Kuća 169m2 u Zagrebu s 20% popustom nudi dobru lokacijsku osnovu i likvidnost; međutim, ovrhovoditelj drži 6/8 vlasništva što je iznimno neobična struktura koja zahtijeva detaljnu pravnu analizu prije bilo kakve odluke.",
+  "reasoning": "Kuća u Zagrebu (Vrapče Novo) s umjerenim popustom od 20%, lokacija urbana ali periferna u odnosu na centar. Složena suvlasnička struktura (6/8, 1/8, 1/8) nosi rizik da se prodaje samo manjinski dio nekretnine, što bitno mijenja investicijsku sliku.",
   "flags": [
-    "ovrhovoditelj vlasnik 6/8 dijela - atipična i rizična struktura",
-    "nejasno što se točno prodaje i tko dobiva prihod",
-    "obvezna pravna due diligence oko suvlasničke diobe"
+    "provjeriti: opseg prodaje - moguće da se prodaje samo suvlasnički dio ovršenika (1/8)"
   ],
-  "input_hash": "410aface6fe2",
-  "scored_at": "2026-06-11T10:21:11.265844"
+  "discount_pct": 20.0,
+  "input_hash": "aca126674fc3",
+  "scored_at": "2026-07-07T09:50:08.512313"
 }

@@ -1,16 +1,16 @@
 {
   "id": "59848",
-  "score_overall": 5.5,
-  "score_lokacija": 6.0,
+  "score_overall": 5.0,
+  "score_lokacija": 5.5,
   "score_roi": 5.5,
-  "score_stanje": 4.0,
-  "recommendation": "watch",
-  "reasoning": "Parcela oranice 659 m2 u k.o. Grad Zagreb s 25% popustom ima razvojni potencijal koji je u potpunosti ovisan o GUP namjeni - bez te provjere investicija je čisto spekulativna. Sama po sebi ne generira prihod ni vrijednost bez odobrenja za gradnju.",
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica u Zagrebu bez informacija o pristupu, komunalijama ili građevinskoj namjeni predstavlja neizvjesnu investiciju unatoč gradskoj lokaciji; stanje zemljišta kao neizgrađene parcele slabi ROI case.",
   "flags": [
-    "oranica - provjera GUP/prostornog plana obavezna",
-    "nema izgrađenog objekta",
-    "srodna čestica s k.č. 7073/9 (PUT) iz iste zk.ul."
+    "provjeriti: namjena zemljišta (poljoprivredno/građevinsko)",
+    "provjeriti: pristup parceli"
   ],
-  "input_hash": "ee0f3b91d068",
-  "scored_at": "2026-04-21T07:50:50.787093"
+  "discount_pct": 25.0,
+  "input_hash": "e503aef2c38b",
+  "scored_at": "2026-07-07T09:43:17.461062"
 }

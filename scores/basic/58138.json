@@ -1,17 +1,15 @@
 {
   "id": "58138",
-  "score_overall": 2.0,
+  "score_overall": 4.2,
   "score_lokacija": 2.5,
-  "score_roi": 3.5,
-  "score_stanje": 1.5,
+  "score_roi": 6.5,
+  "score_stanje": 2.0,
   "recommendation": "pass",
-  "reasoning": "Oranica u k.o. Koreničani (Daruvar) s višestrukim suvlasnicima - prodaje se 9/15 dijela, a ovrhovoditelj posjeduje 6/15, što je izuzetno kompleksna vlasnička struktura. Depopulacijska Slavonija i fragmentirano vlasništvo čine ovo neinteresantnim.",
+  "reasoning": "Velika njiva od 11067 m2 u ruralnim Koreničanima (Bjelovarsko-bilogorska županija) prodaje se u cijelosti kombinacijom udjela više ovršenika i ovrhovoditelja. Depopulacijsko područje i nedostatak infrastrukture ograničavaju likvidnost unatoč niskoj cijeni.",
   "flags": [
-    "višestruki ovršenici + ovrhovoditelj kao suvlasnik",
-    "prodaje se udio u parceli (9/15)",
-    "depopulacijsko područje",
-    "samo oranica bez objekta"
+    "provjeriti: povijest suvlasničkih udjela u zemljišnim knjigama"
   ],
-  "input_hash": "3b8cd2273df9",
-  "scored_at": "2026-05-18T09:57:57.748893"
+  "discount_pct": 40.0,
+  "input_hash": "f0304de0a453",
+  "scored_at": "2026-07-07T09:39:57.934252"
 }

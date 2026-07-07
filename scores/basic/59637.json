@@ -1,14 +1,15 @@
 {
   "id": "59637",
-  "score_overall": 4.2,
-  "score_lokacija": 2.0,
-  "score_roi": 5.5,
-  "score_stanje": 5.0,
-  "recommendation": "pass",
-  "reasoning": "Babina Greda je ruralno slavonsko selo s izrazito niskom likvidnošću tržišta i snažnim demografskim padom — ni izniman popust od 50% ne opravdava ulazak bez jasne izlazne strategije. Stečajni kontekst može produljiti administrativni postupak preuzimanja.",
+  "score_overall": 4.6,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Stambena zgrada 179 m2 s dvorištem u Babinoj Gredi, ruralnom području Vukovarsko-srijemske županije s izraženom depopulacijom, prodaje se s velikim popustom od 50% na drugoj dražbi u stečajnom postupku. Nedostatak opisa stanja objekta i slaba likvidnost regije ograničavaju stvarni ROI potencijal.",
   "flags": [
-    "stečajni postupak"
+    "provjeriti: stanje i useljivost objekta (nedostaje detaljan opis)"
   ],
-  "input_hash": "5a7239fac021",
-  "scored_at": "2026-06-29T10:54:05.081175"
+  "discount_pct": 50.0,
+  "input_hash": "a650212a9505",
+  "scored_at": "2026-07-07T09:46:17.515481"
 }

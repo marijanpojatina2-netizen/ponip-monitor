@@ -1,16 +1,15 @@
 {
   "id": "56741",
-  "score_overall": 6.0,
-  "score_lokacija": 6.0,
+  "score_overall": 6.8,
+  "score_lokacija": 6.5,
   "score_roi": 8.5,
-  "score_stanje": 2.5,
+  "score_stanje": 3.5,
   "recommendation": "deep_dive",
-  "reasoning": "Oranica 229 m2 u k.o. Donje Vrapče (Zagreb-zapad) na trećoj dražbi za 24.900 EUR je potencijalno iznimna šansa za špekulativnu gradnju, ali sve ovisi o GUP namjeni i komunalnoj opremljenosti parcele.",
+  "reasoning": "Oranica u Donjem Vrapču unutar Zagreba na trećoj dražbi s izuzetnih 75% popusta predstavlja iznimno povoljnu priliku za stjecanje zemljišta unutar grada. Radi se o nezgrađenom zemljištu male površine (229 m2) pa vrijedi detaljno provjeriti namjenu i mogućnost gradnje prije ponude.",
   "flags": [
-    "samo oranica - nepoznata građevinska namjena po GUP-u",
-    "229 m2 je mali komad za samostalnu gradnju",
-    "treća dražba bez kupca - istražiti razlog"
+    "provjeriti: namjena i mogućnost gradnje na maloj parceli oranice"
   ],
-  "input_hash": "d8cdcaa7faf9",
-  "scored_at": "2026-04-20T14:15:52.853354"
+  "discount_pct": 75.0,
+  "input_hash": "0a1f164af72b",
+  "scored_at": "2026-07-07T09:47:35.401885"
 }

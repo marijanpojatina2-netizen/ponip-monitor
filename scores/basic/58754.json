@@ -1,15 +1,15 @@
 {
   "id": "58754",
-  "score_overall": 3.5,
-  "score_lokacija": 3.5,
-  "score_roi": 5.5,
-  "score_stanje": 3.0,
-  "recommendation": "pass",
-  "reasoning": "Dvorište s dvjema gospodarskim zgradama (ukupno 151 m2 + 1027 m2 dvorišta) u k.o. Bakovčica ima određen potencijal za adaptaciju, ali gospodarske zgrade zahtijevaju značajna ulaganja. Lokacija i likvidnost regije ostaju slabi.",
+  "score_overall": 5.3,
+  "score_lokacija": 4.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Dvorište s dvije gospodarske zgrade u Bakovčici, blizu Koprivnice, nudi nešto veći potencijal zbog postojećih objekata u odnosu na golo zemljište. Stanje zgrada nije detaljno opisano pa je potreban uvid prije eventualne licitacije.",
   "flags": [
-    "gospodarske zgrade - potrebna adaptacija",
-    "slaba likvidnost Koprivničke regije"
+    "provjeriti: stanje i legalnost gospodarskih zgrada"
   ],
-  "input_hash": "9a7bca0a032c",
-  "scored_at": "2026-05-18T09:57:57.749006"
+  "discount_pct": 40.0,
+  "input_hash": "1f4dcfbc71f0",
+  "scored_at": "2026-07-07T09:39:57.934576"
 }

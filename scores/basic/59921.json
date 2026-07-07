@@ -1,16 +1,16 @@
 {
   "id": "59921",
-  "score_overall": 5.0,
+  "score_overall": 5.2,
   "score_lokacija": 6.0,
   "score_roi": 5.5,
-  "score_stanje": 3.5,
+  "score_stanje": 3.0,
   "recommendation": "watch",
-  "reasoning": "Tri livadne parcele 665m2 u istoj zoni k.č.br. 7793, cijena identična susjednoj 59911. Sve tri Zagreb-livada nekretnine (59919, 59911, 59921) treba promatrati zajedno - potencijal postoji samo uz potvrdu GUP-a o prenamjeni.",
+  "reasoning": "Zemljište (livada) u Zagrebu bez podataka o namjeni i infrastrukturi nosi rizik neizvjesnosti razvoja; lokacija unutar grada je zanimljiva ali bez potvrde građevinskog potencijala ROI ostaje spekulativan.",
   "flags": [
-    "livada - agrarno ograničenje",
-    "tri odvojene k.č.",
-    "bez građevine"
+    "provjeriti: namjena zemljišta i mogućnost gradnje",
+    "provjeriti: pristup/komunalna infrastruktura"
   ],
-  "input_hash": "1f4c6e298cb8",
-  "scored_at": "2026-04-23T07:49:30.334863"
+  "discount_pct": 25.0,
+  "input_hash": "1673c5d11ef6",
+  "scored_at": "2026-07-07T09:43:17.460510"
 }

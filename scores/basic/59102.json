@@ -1,17 +1,15 @@
 {
   "id": "59102",
-  "score_overall": 5.0,
-  "score_lokacija": 6.5,
-  "score_roi": 5.5,
-  "score_stanje": 3.0,
+  "score_overall": 6.3,
+  "score_lokacija": 7.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.5,
   "recommendation": "watch",
-  "reasoning": "Šestine je prestižna lokacija iznad Zagreba s visokim vrijednostima rezidencijalnog zemljišta i blizinom Sljemena, ali kupnja 1/2 dijela voćnjaka bez ikakvih objekata nosi pravni rizik suglasnosti suvlasnika i neizvjestan razvoj u restriktivnoj zelenoj zoni; vrijedi pratiti radi mogućeg rezone-a ili suvlasničkog dogovora.",
+  "reasoning": "Voćnjak u zagrebačkim Šestinama ima traženu lokaciju i solidan popust od 40% na drugoj dražbi, ali radi se o nezgrađenom zemljištu i prodaje se samo 1/2 suvlasničkog dijela. Potrebno je provjeriti mogućnost razvrgnuća suvlasništva prije ulaganja.",
   "flags": [
-    "Samo 1/2 dijela nekretnine - potrebna suglasnost suvlasnika za sve odluke",
-    "Voćnjak bez objekata - gradnja ograničena zelenom zonom i PPU-om",
-    "Stara mjerna jedinica čhv - mala efektivna površina ~280 m²",
-    "Bez ikakvih prihoda dok traje razvoj ili pregovori"
+    "provjeriti: prodaje se samo 1/2 suvlasničkog dijela nekretnine"
   ],
-  "input_hash": "824885a6f34d",
-  "scored_at": "2026-05-29T09:51:37.438643"
+  "discount_pct": 40.0,
+  "input_hash": "ee178298ed39",
+  "scored_at": "2026-07-07T09:47:35.402162"
 }

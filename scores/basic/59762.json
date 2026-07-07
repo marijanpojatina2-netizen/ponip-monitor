@@ -1,0 +1,16 @@
+{
+  "id": "59762",
+  "score_overall": 5.5,
+  "score_lokacija": 6.0,
+  "score_roi": 6.5,
+  "score_stanje": 2.5,
+  "recommendation": "watch",
+  "reasoning": "Livada uz stambene objekte u Klenovici, druga dražba s 40% popusta daje dobar nominalni ROI ali radi se o neizgrađenom zemljištu bez vlastite građevine. Prodaje se tek 1/2 suvlasničkog dijela čestice pa je potrebna provjera mogućnosti gradnje i stvarne korisnosti udjela.",
+  "flags": [
+    "suvlasnički dio (1/2) zemljišta, nije stambeni objekt",
+    "provjeriti: mogućnost gradnje/uporabe udjela u čestici"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "7befaee33794",
+  "scored_at": "2026-07-07T09:37:29.389916"
+}

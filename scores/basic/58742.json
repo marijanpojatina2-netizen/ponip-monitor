@@ -1,16 +1,15 @@
 {
   "id": "58742",
-  "score_overall": 2.5,
-  "score_lokacija": 3.5,
-  "score_roi": 4.5,
-  "score_stanje": 2.0,
-  "recommendation": "pass",
-  "reasoning": "Oranica od 7112 m2 u k.o. Bakovčica bez ikakvih objekata ima vrlo ograničen investicijski potencijal za urbanog investitora. Poljoprivredna namjena ograničava prenamjenu, a tržište za takve parcele u Koprivničkoj regiji je usko.",
+  "score_overall": 5.1,
+  "score_lokacija": 4.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Oranica od 7112 m2 u Bakovčici, periferiji Koprivnice, s 40% popustom na drugoj dražbi. Zemljište bez infrastrukture nudi ograničen ROI dok se ne provjeri mogućnost prenamjene.",
   "flags": [
-    "čisto poljoprivredno zemljište",
-    "oranica - prenamjena ograničena",
-    "nema objekata"
+    "provjeriti: mogućnost prenamjene zemljišta u građevinsko"
   ],
-  "input_hash": "10e1b141ac5c",
-  "scored_at": "2026-05-18T09:57:57.748788"
+  "discount_pct": 40.0,
+  "input_hash": "276c2131e671",
+  "scored_at": "2026-07-07T09:39:57.933807"
 }

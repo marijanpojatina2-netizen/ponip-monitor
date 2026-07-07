@@ -1,14 +1,16 @@
 {
   "id": "59440",
-  "score_overall": 4.5,
-  "score_lokacija": 3.5,
-  "score_roi": 5.0,
-  "score_stanje": 5.0,
-  "recommendation": "pass",
-  "reasoning": "Virovitica je manji slavonski grad s niskom tržišnom likvidnošću i ograničenim potencijalom rasta cijena nekretnina; 40% popust ne kompenzira strukturne slabosti regije. Četiri suvlasnika-ovršenika povećavaju procesni rizik.",
+  "score_overall": 5.0,
+  "score_lokacija": 3.0,
+  "score_roi": 7.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Naselje Trojstvo kraj Virovitice je slabija kontinentalna lokacija, no 40% popusta na drugoj dražbi ide u prilog ROI-u za malu kuću na 17 čhv. Suvlasništvo četiri ovršenika na ravne dijelove nosi pravnu nejasnoću oko toga prodaje li se cijela nekretnina ili idealni dio.",
   "flags": [
-    "4 suvlasnika-ovršenika na ravne dijelove"
+    "provjeriti: suvlasništvo više ovršenika (I-IV) - prodaje li se cijela nekretnina ili idealni dio",
+    "provjeriti: stanje objekta (opis ne navodi stanje/useljivost)"
   ],
-  "input_hash": "562e5c80753c",
-  "scored_at": "2026-06-22T11:50:06.034787"
+  "discount_pct": 40.0,
+  "input_hash": "d54b325bfe47",
+  "scored_at": "2026-07-07T09:52:13.774300"
 }

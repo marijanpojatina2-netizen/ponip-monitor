@@ -1,16 +1,15 @@
 {
   "id": "59949",
-  "score_overall": 4.0,
-  "score_lokacija": 5.0,
-  "score_roi": 3.5,
+  "score_overall": 5.2,
+  "score_lokacija": 5.5,
+  "score_roi": 5.0,
   "score_stanje": 5.0,
-  "recommendation": "pass",
-  "reasoning": "Stan od 40,74m² u potkrovlju u Osijeku uz samo 20% popusta u prvoj dražbi nije atraktivan sam po sebi, ali ključni problem je suvlasništvo ovrhovoditelja i ovršenika - na dražbi se prodaje samo 1/2 dijela, čime kupac ulazi u prisilno suvlasništvo.",
+  "recommendation": "watch",
+  "reasoning": "Manji stan u potkrovlju u Osijeku nudi tek 20% popusta na prvoj dražbi, što je skromniji ROI za veći grad s umjerenom likvidnošću. Suvlasništvo ovrhovoditelja i ovršenika svaki u 1/2 dijela zahtijeva provjeru opsega i uvjeta prodaje udjela.",
   "flags": [
-    "prodaje se samo 1/2 dijela stana",
-    "potkrovlje - moguća termička ograničenja",
-    "suvlasništvo s bivšim ovrhovoditeljem nakon kupnje"
+    "provjeriti: suvlasništvo ovrhovoditelja u 1/2 dijela i opseg prodaje udjela ovršenika"
   ],
-  "input_hash": "e181dfb1d41c",
-  "scored_at": "2026-04-22T07:31:15.505650"
+  "discount_pct": 20.0,
+  "input_hash": "9d598ae7bfef",
+  "scored_at": "2026-07-07T09:51:20.866160"
 }

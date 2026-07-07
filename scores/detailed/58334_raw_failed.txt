@@ -1,0 +1,37 @@
+Napomena: WebSearch alat nije odobren u ovoj sesiji, pa analiza niže počiva na stručnoj procjeni bez live tržišnih podataka — to je izričito naznačeno u `confidence` i `basis` polju, a nisam izmišljao URL-ove/oglase koje nisam stvarno dohvatio.
+
+```json
+{
+  "id": "58334",
+  "score_overall": 4.5,
+  "score_lokacija": 3.5,
+  "score_roi": 6.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Veliki poslovno-industrijski kompleks (ukupno ~25.588 m2 zemljišta uz nekoliko gospodarskih zgrada) u Orahovici, ruralnom području Virovitičko-podravske županije s ograničenom tržišnom likvidnošću i slabijom investicijskom potražnjom. Druga dražba s 50% popustom čini ulaznu cijenu po m2 vrlo povoljnom, ali opis ne otkriva stvarno stanje objekata niti postoji li aktivna namjena/zakup, što nosi rizik. Zbog nedostatka detalja o stanju građevina i niske likvidnosti lokacije preporuka je pratiti i provesti due diligence prije eventualne ponude.",
+  "flags": [
+    "provjeriti: stvarno stanje i uporabljivost gospodarskih zgrada (nema opisa razine održavanja)",
+    "provjeriti: komunalni priključci i pristupna infrastruktura na lokaciji",
+    "provjeriti: namjena/zoniranje čestice 'pašnjak' (kč.br. 4942) za eventualnu prenamjenu",
+    "provjeriti: postoji li tekući zakup/najam dijela kompleksa s obzirom na stečajni status"
+  ],
+  "market_estimate": {
+    "eur_min": 550000,
+    "eur_max": 750000,
+    "confidence": "low",
+    "basis": "Procjena temeljena isključivo na sudskoj utvrđenoj vrijednosti (844.000 EUR) i tipičnim rasponima cijena industrijskog/poslovnog zemljišta u ruralnim dijelovima Slavonije/Podravine (grubo 15-25 EUR/m2 za zemljište plus vrijednost građevina); live tržišni oglasi i usporedivi primjeri nisu bili dostupni jer web pretraga nije bila odobrena u ovoj sesiji.",
+  },
+  "comparables": [],
+  "investment_strategy": "razvoj/najam - kompleks je prevelik i previše specifičan (industrijsko-poslovna namjena, dvorište, parkiralište, gospodarske zgrade) za klasičnu preprodaju stambenog tipa; realniji scenariji su akvizicija za vlastitu proizvodnu/logističku djelatnost, iznajmljivanje skladišnog prostora lokalnim poduzetnicima, ili dugoročno zemljišno bankarstvo (uklj. mogućnost solarne elektrane na pašnjaku od 10.365 m2) uz nisku ulaznu cijenu.",
+  "entry_price_eur": 320000,
+  "detailed_risks": [
+    "Slaba likvidnost tržišta nekretnina u Orahovici i okolici - mali broj potencijalnih kupaca za ovakav tip nekretnine",
+    "Nepoznato stvarno stanje četiri gospodarske zgrade (67-1114 m2) - mogući dodatni troškovi sanacije",
+    "Stečajni postupak može kriti dodatne terete ili sporove oko imovine koji nisu eksplicitno navedeni u opisu",
+    "Razgledavanje samo uz dogovor sa stečajnim upraviteljem - otežana neovisna procjena stanja prije kupnje",
+    "Dvije odvojene katastarske čestice (zk.ul. 841 i 840) mogu imati različit tretman kod prodaje/prenamjene"
+  ],
+  "upside_scenario": "Ako se objekti pokažu strukturno očuvanima i lokalna uprava odobri fleksibilnu prenamjenu, kompleks bi za 2-3 godine mogao poslužiti kao regionalni logistički/proizvodni pogon ili solarna elektrana na pašnjaku, uz vrijednost blizu ili iznad sudske procjene od 844.000 EUR nakon manjih ulaganja.",
+  "downside_scenario": "Ako se na razgledavanju utvrdi ruševno stanje zgrada ili se pojave pravni tereti iz stečaja, nekretnina može ostati neprodana i na trećoj/četvrtoj dražbi uz daljnji pad cijene, uz visok rizik da kapital ostane 'zaključan' u nelikvidnoj imovini bez jasnog izlaza."
+}
+```

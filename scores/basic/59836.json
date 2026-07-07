@@ -1,15 +1,13 @@
 {
   "id": "59836",
-  "score_overall": 6.0,
-  "score_lokacija": 5.5,
-  "score_roi": 7.5,
-  "score_stanje": 4.0,
+  "score_overall": 6.5,
+  "score_lokacija": 6.5,
+  "score_roi": 7.0,
+  "score_stanje": 5.5,
   "recommendation": "bid",
-  "reasoning": "Kuća 99 m2 s dvorištem 373 m2 u Zagrebu (Kozari put/Dugave) na prvoj dražbi za ~98k EUR iznimna je vrijednost - cijena ~988 EUR/m2 stanambene površine naspram tržišnih 1.800-2.500 EUR u toj zoni. Renovacija je neophodna ali marža je dovoljna za solidan flip ili dugoročni najam.",
-  "flags": [
-    "stanje kuće nepoznato - vjerojatno starija gradnja",
-    "potencijalno veći renovacijski troškovi"
-  ],
-  "input_hash": "08791b9f2b6a",
-  "scored_at": "2026-04-21T07:50:50.786873"
+  "reasoning": "Kuća u Zagrebu (Kozari put, periferno područje grada) uz solidnih 25% popusta od procjene na prvoj dražbi. Manja kuća sa pomoćnim objektom na relativno velikoj parceli od 479 m2 nudi dobar potencijal za renovaciju ili nadogradnju u glavnom gradu.",
+  "flags": [],
+  "discount_pct": 25.0,
+  "input_hash": "d62b65bcfd6c",
+  "scored_at": "2026-07-07T09:42:21.615066"
 }

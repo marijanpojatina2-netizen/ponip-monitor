@@ -1,16 +1,13 @@
 {
   "id": "60546",
-  "score_overall": 3.0,
+  "score_overall": 3.9,
   "score_lokacija": 2.5,
-  "score_roi": 3.0,
-  "score_stanje": 4.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
   "recommendation": "pass",
-  "reasoning": "Ruralni imanski kompleks u Maglenči kraj Bjelovara s agrarnim karakterom i višestrukim objektima — unatoč solidnoj ukupnoj površini, regija bilježi depopulaciju i ekstremno slabu likvidnost nekretnina, dok 20% popust na prvoj dražbi nije kompenzacijsko. Bez jasne turističke ili razvojne priče nema realne exit strategije.",
-  "flags": [
-    "depopulacijska zona — Bjelovar county, ruralno",
-    "agrarni karakter (voćnjak, spremlište mehanizacije, gospodarska zgrada)",
-    "slaba tržišna likvidnost — dugo stajanje na tržištu"
-  ],
-  "input_hash": "7b90807817ec",
-  "scored_at": "2026-06-10T09:55:18.921927"
+  "reasoning": "Seosko imanje u Maglenči kraj Bjelovara s tek 20% popusta na prvoj dražbi, izrazito slaba lokacija za investicijski povrat. Kompletan gospodarski kompleks djeluje očuvano, no regija ne opravdava aktivan angažman.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "cf02d3833bd7",
+  "scored_at": "2026-07-07T09:50:08.513505"
 }

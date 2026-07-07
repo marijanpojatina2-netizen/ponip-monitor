@@ -1,15 +1,15 @@
 {
   "id": "59246",
-  "score_overall": 4.5,
-  "score_lokacija": 3.0,
-  "score_roi": 6.0,
+  "score_overall": 5.3,
+  "score_lokacija": 4.0,
+  "score_roi": 6.5,
   "score_stanje": 5.0,
-  "recommendation": "watch",
-  "reasoning": "Poslovni prostor 109 m² u Slavonskom Brodu uz 40% popust i drugi krug dražbe nudi prihvatljiv entry od ~67.500 EUR, ali komercijalni prostori u Slavoniji imaju nisku potražnju za najam/prodaju; relevantno samo za investitore s lokalnom mrežom ili konkretnom operativnom namjenom.",
+  "recommendation": "pass",
+  "reasoning": "Poslovni prostor od 109,27 m2 u Slavonskom Brodu prodaje se u svega 1/17 suvlasničkog dijela, što praktički onemogućuje samostalno korištenje ili preprodaju. Unatoč nominalno velikom popustu od 40% na drugoj dražbi, likvidnost ovakvog udjela je vrlo niska.",
   "flags": [
-    "poslovni prostor u slabijoj regiji - ograničena potražnja i visoka vacancy mogućnost",
-    "Slavonski Brod - ispodprosječna likvidnost komercijalnih nekretnina"
+    "minoritetni suvlasnički udio (1/17) - otežana prodaja i korištenje bez suglasnosti ostalih suvlasnika"
   ],
-  "input_hash": "7021a76f70aa",
-  "scored_at": "2026-06-09T09:40:48.018019"
+  "discount_pct": 40.0,
+  "input_hash": "c2981c6c49a7",
+  "scored_at": "2026-07-07T09:46:17.515272"
 }

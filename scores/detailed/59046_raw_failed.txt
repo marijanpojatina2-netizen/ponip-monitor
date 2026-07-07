@@ -1,0 +1,42 @@
+Web pretraga nije odobrena (permission denied), pa nastavljam analizu na temelju stručnog poznavanja tržišta industrijskih nekretnina u Varaždinu — market_estimate će imati nižu pouzdanost bez svježih online komparabli.
+
+```json
+{
+  "id": "59046",
+  "score_overall": 6.0,
+  "score_lokacija": 6.0,
+  "score_roi": 7.5,
+  "score_stanje": 4.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Veliki industrijski kompleks (13 objekata, ukupno cca 3.700 m2 pod krovom, cca 7.900 m2 zemljišta) na Zagrebačkoj ulici u Varaždinu, gradu s dugom industrijskom tradicijom i dobrom prometnom povezanošću prema Zagrebu i granici sa Slovenijom. Druga dražba s početnom cijenom od 50% procijenjene vrijednosti (490.000 EUR naspram 980.000 EUR) daje značajan ROI potencijal, ali stanje objekata i postojanje eventualnih tereta/zakupa nisu poznati iz opisa pa je nužan detaljan due diligence prije licitacije. Zbog veličine transakcije (>500k EUR procijenjene vrijednosti) i kompleksnosti (više građevina, stečajni postupak) predmet zaslužuje temeljitu analizu prije odluke o ulaganju.";
+  "flags": [
+    "provjeriti: postoji li aktivan zakup/najam dijela kompleksa (uobičajeno za proizvodne pogone u stečaju koji su nastavili raditi tijekom postupka)",
+    "provjeriti: ekološka kontaminacija tla s obzirom na dugogodišnju industrijsku namjenu",
+    "provjeriti: stanje i funkcionalnost instalacija (struja, voda, plin, kanalizacija) nakon perioda mirovanja pogona",
+    "provjeriti: legalnost i uporabne dozvole za sve navedene objekte, posebice manje pomoćne zgrade (15 m2)",
+    "provjeriti: pristupni putovi, služnosti i eventualna ograničenja korištenja zemljišta",
+    "provjeriti: postojeći tereti u zk. izvatku koji ne prestaju prodajom u stečaju"
+  ],
+  "market_estimate": {
+    "eur_min": 850000,
+    "eur_max": 1150000,
+    "confidence": "low",
+    "basis": "Procjena temeljem stručnog iskustva s industrijskim nekretninama u Varaždinu (bez pristupa web pretrazi u ovoj sesiji) — cca 3.700 m2 građevina starije industrijske gradnje uz cca 7.900 m2 zemljišta u industrijskoj zoni; okvirno 250-350 EUR/m2 za objekte plus vrijednost zemljišta. Raspon je širok jer stanje objekata nije potvrđeno u opisu."
+  },
+  "comparables": [],
+  "investment_strategy": "Reno-flip / iznajmljivanje: s obzirom na broj odvojenih manjih i većih hala (od 15 m2 do 1.247 m2), najrealniji pristup je podjela kompleksa na više najamnih jedinica za skladišnu/laku proizvodnu djelatnost lokalnim SME poduzetnicima, uz mogućnost naknadne prodaje cijelog kompleksa jednom logističkom/proizvodnom kupcu ako se postigne stabilan najam.",
+  "entry_price_eur": 650000,
+  "detailed_risks": [
+    "Nepoznato stanje krovišta, instalacija i konstrukcije 13 objekata različite starosti i namjene",
+    "Mogući trošak sanacije okoliša (industrijsko zemljište, potencijalno onečišćenje tla)",
+    "Niža likvidnost industrijskih nekretnina u odnosu na stambene - prodaja/najam mogu potrajati dulje",
+    "Rizik da se na drugoj dražbi pojavi konkurencija koja podigne cijenu blizu procijenjene vrijednosti (980.000 EUR)",
+    "Trošak eventualne parcelizacije/odvajanja objekata radi zasebnog najma ili prodaje",
+    "Komunikacija i uvid u dokumentaciju isključivo putem stečajnog upravitelja - ograničen pristup razgledavanju prije kupnje"
+  ],
+  "upside_scenario": "Ako due diligence potvrdi čisto vlasništvo i prihvatljivo stanje instalacija, investitor kupuje kompleks po cijeni bliskoj početnoj (490.000-650.000 EUR), ulaže umjereno u sanaciju i unutar 2-3 godine ostvaruje najam od 5-8 manjih zakupaca uz prinos od 8-10% godišnje, s mogućnošću prodaje cijelog kompleksa za 1,2-1,5 mil. EUR kad se stabilizira najam.",
+  "downside_scenario": "Ako se otkrije ekološka kontaminacija, visoki troškovi sanacije instalacija ili slaba potražnja za industrijskim prostorom u regiji, imovina ostaje djelomično prazna, generira troškove održavanja bez prihoda, a izlazna prodaja bi mogla biti ispod kupovne cijene uvećane za uložena sredstva u obnovu."
+}
+```
+
+**Napomena:** WebSearch dozvola nije odobrena u ovoj sesiji, pa tržišna procjena i usporedive nekretnine nisu potkrijepljene stvarnim online oglasima — `confidence: "low"` i prazan `comparables` niz to odražavaju. Ako želiš čvršće brojke, mogu ponoviti analizu uz odobren pristup web pretrazi.

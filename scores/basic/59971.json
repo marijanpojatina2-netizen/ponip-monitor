@@ -1,16 +1,13 @@
 {
   "id": "59971",
-  "score_overall": 3.0,
-  "score_lokacija": 3.5,
-  "score_roi": 4.0,
+  "score_overall": 3.9,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
   "score_stanje": 4.0,
   "recommendation": "pass",
-  "reasoning": "Popovača je manja kontinentalna lokacija bez turistskog potencijala i s ograničenom tržišnom likvidnošću nekretnina, a 20% popust na prvoj dražbi ne kompenzira investicijski rizik. Kombinacija oranice i kuće u ovoj regiji nema jasnog kratkoročnog ni dugoročnog ROI scenarija.",
-  "flags": [
-    "inland lokacija niske likvidnosti",
-    "mješovita namjena parcela (oranica + stambeno)",
-    "prva dražba bez tržišne verifikacije"
-  ],
-  "input_hash": "4ed8b225fb21",
-  "scored_at": "2026-04-30T08:18:34.304167"
+  "reasoning": "Nekretnina u Popovači (Sisačko-moslavačka županija) nalazi se u ruralnom području slabije likvidnosti i potražnje. Iako je popust standardnih 20% i uključuje veću poljoprivrednu površinu, ograničena tržišna atraktivnost regije smanjuje investicijski potencijal.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "1f36dfab8537",
+  "scored_at": "2026-07-07T09:42:21.615268"
 }
