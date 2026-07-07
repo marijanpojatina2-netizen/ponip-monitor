@@ -431,7 +431,7 @@
         const tr=document.createElement("tr");tr.className=r.key+(i===0?" posfirst":"");
         tr.innerHTML=`
           <td class="pos-cell">${i===0?p.key:""}</td>
-          <td><span class="role-dot role-${r.key}"></span><span class="nm ${pl.name?'':'empty'}" id="nm-${key}">${pl.name||r.label}</span></td>
+          <td><span class="role-dot role-${r.key}"></span><span class="nm ${pl.name?'':'empty'}" id="nm-${key}">${escAttr(pl.name)||r.label}</span></td>
           <td class="num"><input class="money" data-key="${key}" data-f="salary" value="${pl.salary||''}" placeholder="0"></td>
           <td>${taxSelect(key,pl.tax)}</td>
           <td class="num"><select class="months" data-key="${key}" data-f="months"><option value="9" ${pl.months==9?'selected':''}>9</option><option value="10" ${pl.months==10?'selected':''}>10</option></select></td>
@@ -568,7 +568,12 @@
 
     document.getElementById("lkBtn").addEventListener("click",doLogin);
     document.getElementById("lkPass").addEventListener("keydown",e=>{if(e.key==="Enter")doLogin();});
-    document.getElementById("btnLogout").addEventListener("click",()=>fb.signOut(fb.auth));
+    document.getElementById("btnLogout").addEventListener("click",()=>{
+      // odjava briše lokalnu kopiju — na dijeljenom računalu ne ostaje ništa
+      localStorage.removeItem(STORE_KEY);
+      state=blank();render();
+      fb.signOut(fb.auth);
+    });
 
     fb.onAuth(auth,user=>{
       if(user){
