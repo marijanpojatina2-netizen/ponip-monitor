@@ -1,14 +1,15 @@
 {
   "id": "60813",
-  "score_overall": 5.0,
-  "score_lokacija": 6.0,
-  "score_roi": 5.0,
-  "score_stanje": 3.5,
+  "score_overall": 5.3,
+  "score_lokacija": 7.0,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
   "recommendation": "pass",
-  "reasoning": "Manja čestica dvorišta (93 m2) u istoj ulici kao i nekretnina 60829, ali s višom cijenom po m2 (~645 EUR/m2) i još izraženijim ograničenjem samostalne funkcionalnosti zbog malene površine. Investicijski potencijal slab bez jasne mogućnosti zasebnog razvoja.",
+  "reasoning": "Dvorišna čestica od svega 93 m2 u Zagrebu (Bužanova ulica) ima dobru lokaciju, ali minimalna površina bez pristupa vjerojatno onemogućuje samostalnu gradnju ili smislenu uporabu izvan prodaje susjednom vlasniku. Popust od 25% ne mijenja nišni karakter ove imovine iz stečajne mase.",
   "flags": [
-    "upitna samostalna uporabivost (oznaka: dvorište)"
+    "provjeriti: pristup čestici i mogućnost samostalnog korištenja/gradnje na 93 m2"
   ],
-  "input_hash": "c17026ca4476",
-  "scored_at": "2026-07-01T09:41:32.874813"
+  "discount_pct": 25.0,
+  "input_hash": "41d83ea41f01",
+  "scored_at": "2026-07-08T08:26:55.242743"
 }

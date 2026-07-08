@@ -1,16 +1,15 @@
 {
   "id": "58374",
-  "score_overall": 2.5,
+  "score_overall": 4.6,
   "score_lokacija": 2.0,
-  "score_roi": 3.5,
-  "score_stanje": 3.0,
-  "recommendation": "pass",
-  "reasoning": "Negoslavci su ruralno slavonsko selo u poslijeratnoj okolici Vukovara s ekstremno niskom likvidnošću i demografskim padom – realni izlazni scenarij praktički ne postoji. 40% popust i 2. dražba ne mijenjaju investicijsku logiku u regiji bez potražnje.",
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća s okućnicom u Negoslavcima kraj Vukovara na drugoj dražbi s 40% popusta nudi nominalno dobar ROI, no radi se o demografski ugroženom području sa slabom likvidnošću tržišta. Preporuka je praćenje zbog niske izvjesnosti brze preprodaje unatoč atraktivnoj cijeni.",
   "flags": [
-    "poslijeratno područje Vukovara – demografski i ekonomski pad",
-    "ruralna depopulacijska zona",
-    "gotovo nulta tržišna likvidnost"
+    "provjeriti: stvarno stanje objekta i naseljenost okolnog područja"
   ],
-  "input_hash": "496ed38111bf",
-  "scored_at": "2026-04-21T13:20:23.522690"
+  "discount_pct": 40.0,
+  "input_hash": "77b33b0677d4",
+  "scored_at": "2026-07-08T08:35:35.027314"
 }

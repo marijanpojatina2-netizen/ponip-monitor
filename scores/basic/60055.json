@@ -1,17 +1,16 @@
 {
   "id": "60055",
-  "score_overall": 5.5,
+  "score_overall": 6.1,
   "score_lokacija": 7.5,
   "score_roi": 5.5,
-  "score_stanje": 4.5,
-  "recommendation": "watch",
-  "reasoning": "Tisno/Murter je odlična turistička lokacija s jakim sezonskim potencijalom, no prodaje se samo 1/2 dijela kuće od svega 41 m2 ukupne površine – efektivno ~20 m2, s nepraktičnim tlocrtom (zasebne prostorije spojene stubištem). Uz samo 20% popust na prvoj dražbi, rizik co-ownership strukture i minimalna korisna površina čine ovaj ulog špekulativnim bez prethodnog dogovora s drugim suvlasnikom.",
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Tisno je tražena turistička zona uz more (blizu Vodica i Murtera) što nosi visok dugoročni potencijal unatoč maloj kući od 41 m2. Prodaje se samo 1/2 suvlasničkog dijela uz neobičnu konfiguraciju s pristupom preko stubišta na drugoj čestici, pa zaslužuje detaljnu pravnu i tehničku analizu prije licitacije.",
   "flags": [
-    "1/2 dijela vlasništva – bez suglasnosti suvlasnika ograničeno korištenje",
-    "efektivno ~20 m2 – ispod minimuma za turistički najam",
-    "neuobičajeni tlocrt (odvojene prostorije)",
-    "prva dražba – bez tržišne redukcije"
+    "provjeriti: prodaje se samo 1/2 suvlasničkog dijela nekretnine",
+    "provjeriti: pristup/služnost preko stubišta koje se nalazi na drugoj katastarskoj čestici"
   ],
-  "input_hash": "92dcbee1af25",
-  "scored_at": "2026-04-30T08:18:34.304376"
+  "discount_pct": 20.0,
+  "input_hash": "37df2be5513a",
+  "scored_at": "2026-07-08T08:31:07.282554"
 }

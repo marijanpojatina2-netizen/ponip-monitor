@@ -1,15 +1,15 @@
 {
   "id": "59192",
-  "score_overall": 5.0,
-  "score_lokacija": 4.0,
-  "score_roi": 6.5,
+  "score_overall": 5.8,
+  "score_lokacija": 4.5,
+  "score_roi": 7.5,
   "score_stanje": 4.0,
-  "recommendation": "watch",
-  "reasoning": "Kuća s dvorištem 906 m² u Rakovcu (Vrbovec, ~35 km od Zagreba) uz 40% popust i drugi krug nudi nizak entry od ~35.500 EUR koji pruža prostor za renovaciju; tržište Vrbovca je ograničeno, ali blizina Zagreba osigurava minimalnu sigurnosnu mrežu za dugoročno držanje ili iznajmljivanje.",
+  "recommendation": "bid",
+  "reasoning": "Rakovec kod Vrbovca je periferija zagrebačke regije, uz 40% popusta na drugoj dražbi što ukazuje na dobar ROI potencijal. Stanje kuće nije detaljno opisano pa treba provjeriti prije licitacije.",
   "flags": [
-    "stanje nekretnine nepoznato - vjerojatno potrebna značajna renovacija",
-    "ograničena likvidnost Vrbovec/Rakovec mikro-tržišta"
+    "provjeriti: stanje objekta"
   ],
-  "input_hash": "47025b68e6d1",
-  "scored_at": "2026-06-09T09:40:48.018159"
+  "discount_pct": 40.0,
+  "input_hash": "89041f810489",
+  "scored_at": "2026-07-08T08:28:18.436134"
 }

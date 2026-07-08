@@ -1,12 +1,13 @@
 {
   "id": "60290",
-  "score_overall": 6.5,
-  "score_lokacija": 6.0,
-  "score_roi": 6.5,
-  "score_stanje": 7.5,
-  "recommendation": "bid",
-  "reasoning": "Dva garažna mjesta u stambenom kompleksu zapadnog Zagreba (Stenjevec) nude stabilan pasivni prihod kroz najam uz solidnu likvidnost i jasan exit prema stanarima zgrade. Popust 25% od procjene, niska jamčevina i minimalni troškovi upravljanja čine ovu investiciju pristupačnom s niskim rizicima.",
+  "score_overall": 6.4,
+  "score_lokacija": 7.0,
+  "score_roi": 6.0,
+  "score_stanje": 6.0,
+  "recommendation": "watch",
+  "reasoning": "Dva parkirna garažna mjesta u Zagrebu (Stenjevec) nude stabilnu, ali nišnu investiciju uz umjeren popust od 25% na prvoj dražbi. Dobra lokacija, ali ograničen potencijal rasta vrijednosti.",
   "flags": [],
-  "input_hash": "4fd6f4b1f5b3",
-  "scored_at": "2026-05-20T09:32:40.832967"
+  "discount_pct": 25.0,
+  "input_hash": "61cc2e3bc290",
+  "scored_at": "2026-07-08T08:29:39.017681"
 }

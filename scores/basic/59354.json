@@ -1,12 +1,13 @@
 {
   "id": "59354",
-  "score_overall": 4.8,
-  "score_lokacija": 3.0,
-  "score_roi": 7.0,
-  "score_stanje": 3.0,
-  "recommendation": "watch",
-  "reasoning": "Jedina nekretnina u ovoj grupi s kućom i 40%-tnim popustom na drugoj dražbi — ROI potencijal je solidan, ali Bosiljevo (ruralna Karlovačka županija) je duboka periferija s minimalnom likvidnošću i bez turističke vrijednosti. Vrijedi pratiti do terenske provjere stanja objekta.",
+  "score_overall": 4.5,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Ruralna kuća s vinogradom u Bosiljevu (Karlovačka županija) uz 40% popusta na drugoj dražbi, no slaba i depopulacijska lokacija s niskom likvidnošću bitno ograničava investicijski potencijal.",
   "flags": [],
-  "input_hash": "b6e05ef02cdd",
-  "scored_at": "2026-06-19T10:26:46.388722"
+  "discount_pct": 40.0,
+  "input_hash": "841667f02ba6",
+  "scored_at": "2026-07-08T08:36:50.147321"
 }

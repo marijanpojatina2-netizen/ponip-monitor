@@ -1,16 +1,15 @@
 {
   "id": "59224",
-  "score_overall": 2.5,
-  "score_lokacija": 2.5,
-  "score_roi": 4.0,
-  "score_stanje": 2.5,
+  "score_overall": 4.4,
+  "score_lokacija": 3.0,
+  "score_roi": 6.5,
+  "score_stanje": 2.0,
   "recommendation": "pass",
-  "reasoning": "Tri čestice poljoprivrednog i neplodnog zemljišta u ruralnom karlovačkom zaleđu bez ikakvog objekta, s ograničenim razvojnim potencijalom i slabim tržištem - 40% popust ne mijenja fundamentalno slabu investicijsku priču.",
+  "reasoning": "Svetičko Hrašće kod Karlovca je slaba ruralna lokacija s fragmentiranim malim poljoprivrednim parcelama bez ikakvog objekta. Unatoč 40% popustu na drugoj dražbi, niska likvidnost i usitnjenost čestica čine ROI upitnim.",
   "flags": [
-    "samo poljoprivredno i neplodno zemljište - bez objekata",
-    "tri odvojene čestice u istom ZK uložku - administrativna kompleksnost",
-    "ruralno, depopulacijsko područje Karlovačke županije"
+    "provjeriti: fragmentirane poljoprivredne parcele - niska likvidnost"
   ],
-  "input_hash": "819d269220c7",
-  "scored_at": "2026-06-08T10:49:20.843007"
+  "discount_pct": 40.0,
+  "input_hash": "d377e76de431",
+  "scored_at": "2026-07-08T08:34:12.192693"
 }

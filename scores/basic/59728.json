@@ -1,16 +1,15 @@
 {
   "id": "59728",
-  "score_overall": 3.0,
+  "score_overall": 3.9,
   "score_lokacija": 2.5,
-  "score_roi": 3.0,
+  "score_roi": 5.0,
   "score_stanje": 4.0,
   "recommendation": "pass",
-  "reasoning": "Fragmentirani posjed s dvije kuće (45m2 + 139m2) i više čestica u Nuštaru u depopulacijskoj slavonskoj regiji; 20% popust na prvoj dražbi i niska likvidnost čine investicijski slučaj neuvjerljivim.",
+  "reasoning": "Nekretnina u Nuštru je ruralna slavonska lokacija s tek 20% popusta na prvoj dražbi, što uz nepoznato stanje dviju manjih kuća daje slab ROI profil. Kompleksna struktura više čestica dodatno otežava upravljanje.",
   "flags": [
-    "fragmentirani posjed (više kč.br. i dva zk.ul.)",
-    "depopulacijsko područje - Vukovar-Srijem",
-    "niska likvidnost"
+    "provjeriti: stanje objekata (dvije kuće)"
   ],
-  "input_hash": "2e905705e091",
-  "scored_at": "2026-04-21T10:58:21.564644"
+  "discount_pct": 20.0,
+  "input_hash": "ac9048fda97c",
+  "scored_at": "2026-07-08T08:28:18.435935"
 }

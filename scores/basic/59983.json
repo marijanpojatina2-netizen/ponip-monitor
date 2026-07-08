@@ -1,16 +1,15 @@
 {
   "id": "59983",
-  "score_overall": 3.5,
+  "score_overall": 4.6,
   "score_lokacija": 4.5,
-  "score_roi": 3.5,
-  "score_stanje": 3.0,
+  "score_roi": 5.0,
+  "score_stanje": 4.0,
   "recommendation": "pass",
-  "reasoning": "Gospodarska i pomoćna zgrada s okućnicom u ruralnom dijelu Zagrebačke županije (Kupinec/Maretići) ima određenu atraktivnost blizine Zagreba, ali nerezidencijalna namjena, nepoznato stanje objekta i samo 20% popusta na prvoj dražbi čine investicijski case preslabim.",
+  "reasoning": "Kupinec je ruralno područje jugozapadno od Zagreba s ograničenom likvidnošću, a popust od tek 20% na prvoj dražbi ne kompenzira taj rizik. Radi se o gospodarskoj i pomoćnoj zgradi, a ne stambenom objektu, što dodatno sužava krug kupaca.",
   "flags": [
-    "nerezidencijalna namjena – gospodarska zgrada",
-    "prva dražba – minimalan popust bez bonusa",
-    "stanje objekta potpuno nepoznato iz opisa"
+    "provjeriti: namjena i stanje gospodarske zgrade"
   ],
-  "input_hash": "c11f30fa5abf",
-  "scored_at": "2026-04-24T08:04:31.657233"
+  "discount_pct": 20.0,
+  "input_hash": "024f1745a696",
+  "scored_at": "2026-07-08T08:34:12.192409"
 }

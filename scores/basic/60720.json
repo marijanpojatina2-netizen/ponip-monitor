@@ -1,12 +1,15 @@
 {
   "id": "60720",
-  "score_overall": 2.5,
-  "score_lokacija": 1.5,
-  "score_roi": 2.5,
+  "score_overall": 3.8,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
   "score_stanje": 4.5,
   "recommendation": "pass",
-  "reasoning": "Kuća s pomoćnim zgradama u Čađavici kod Slatine u srcu slavonske depopulacijske zone; 20% popusta na prvoj dražbi nikako ne kompenzira strukturno slabo investicijsko tržište s minimalnom potražnjom i negativnim demografskim trendom.",
-  "flags": [],
-  "input_hash": "74d20dc4f802",
-  "scored_at": "2026-06-24T09:25:52.360387"
+  "reasoning": "Ruralna lokacija u Čađavici (depopulacijsko područje Virovitičko-podravske županije) uz tek 20% popusta na prvoj dražbi ne nudi atraktivan omjer rizika i prinosa. Kompleks od kuće, gospodarskih zgrada i dvije odvojene katastarske čestice zahtijeva dodatnu provjeru usklađenosti evidencija.",
+  "flags": [
+    "provjeriti: usklađenost katastarskih čestica (2424 i 472/3) sa zk. stanjem"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "28a042890b4b",
+  "scored_at": "2026-07-08T08:32:45.562275"
 }

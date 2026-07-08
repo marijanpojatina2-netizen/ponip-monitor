@@ -1,17 +1,15 @@
 {
   "id": "59821",
-  "score_overall": 3.5,
-  "score_lokacija": 5.5,
-  "score_roi": 4.0,
-  "score_stanje": 3.0,
-  "recommendation": "pass",
-  "reasoning": "Pašnjak u nagibu prema moru u Senju zvuči atraktivno, ali bez građevinske dozvole i promjene namjene (pašnjak → građevinsko) ovo je špekulativna kupnja uz 20% popust koji ne kompenzira rizik. Senj nema razinu turističke potražnje koja bi opravdala razvoj.",
+  "score_overall": 5.1,
+  "score_lokacija": 6.0,
+  "score_roi": 5.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Pašnjak u sjevernom dijelu Senja s pogledom prema moru nalazi se u zanimljivoj priobalnoj zoni Kvarnera, no trenutna namjena zemljišta (pašnjak, neizgrađeno) ograničava neposrednu iskoristivost. Popust od 20% na prvoj dražbi je umjeren, a vrijednost ovisi o mogućnosti buduće prenamjene u građevinsko zemljište.",
   "flags": [
-    "pašnjak – potrebna promjena namjene za gradnju",
-    "teren u nagibu – skuplja i zahtjevnija gradnja",
-    "neizgrađeno i neograđeno",
-    "Senj – ograničena turistička potražnja"
+    "provjeriti: mogućnost prenamjene zemljišta iz pašnjaka u građevinsko"
   ],
-  "input_hash": "2ef4dacb2c70",
-  "scored_at": "2026-04-21T10:56:10.272723"
+  "discount_pct": 20.0,
+  "input_hash": "d8571ca4fc7d",
+  "scored_at": "2026-07-08T08:26:55.242587"
 }

@@ -1,12 +1,13 @@
 {
   "id": "60587",
-  "score_overall": 3.1,
-  "score_lokacija": 2.0,
-  "score_roi": 3.5,
-  "score_stanje": 4.0,
-  "recommendation": "pass",
-  "reasoning": "Kuća 125 m2 u Donjim Andrijevcima (Slavonski Brod okolica, ruralno) na 20% popusta — izrazito nisko-likvidno tržište, minimalni investicijski interes, ograničen exit. Premali popust za kompenzaciju lokacijskog rizika.",
+  "score_overall": 4.0,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Donji Andrijevci je ruralno područje kraj Slavonskog Broda sa slabijom likvidnošću tržišta, a popust od 20% na prvoj dražbi ne kompenzira slabu lokaciju. Kuća s okućnicom je standardne veličine ali stanje objekta nije detaljno opisano.",
   "flags": [],
-  "input_hash": "71779a946875",
-  "scored_at": "2026-06-15T11:58:47.914297"
+  "discount_pct": 20.0,
+  "input_hash": "35fcfb9eff4b",
+  "scored_at": "2026-07-08T08:38:03.523715"
 }

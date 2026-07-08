@@ -1,16 +1,15 @@
 {
   "id": "59907",
-  "score_overall": 3.5,
-  "score_lokacija": 4.5,
-  "score_roi": 3.5,
-  "score_stanje": 4.5,
-  "recommendation": "pass",
-  "reasoning": "Osijek prizemni stan s 20% popustom na prvoj dražbi ima ograničen investicijski potencijal; nejasno je prodaju li se sve suvlasničke čestice zajedno ili samo udjeli ovršenika što bitno utječe na ulaznu cijenu i operabilnost.",
+  "score_overall": 5.6,
+  "score_lokacija": 6.0,
+  "score_roi": 5.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Manji stan (38,86 m2) u Osijeku uz 20% popusta na prvoj dražbi ima solidnu urbanu likvidnost, ali suvlasništvo četiriju strana (uključujući ovrhovoditelja) komplicira preuzimanje cijele nekretnine.",
   "flags": [
-    "nejasna struktura prodaje - suvlasništvo 4 osobe (ovrhovoditelj + 3 ovršenika)",
-    "prizemlje - niža tržišna atraktivnost i vrijednost",
-    "Osijek/Slavonija - ograničena likvidnost stambenog tržišta"
+    "provjeriti: suvlasnički odnosi - četiri suvlasnika (ovrhovoditelj 1/6, ovršenici 3/6, 1/6, 1/6)"
   ],
-  "input_hash": "01546fcff1f5",
-  "scored_at": "2026-04-21T07:54:05.150702"
+  "discount_pct": 20.0,
+  "input_hash": "ec636e45b238",
+  "scored_at": "2026-07-08T08:36:50.146711"
 }

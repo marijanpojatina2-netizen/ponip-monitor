@@ -1,62 +1,38 @@
 {
   "id": "58334",
-  "score_overall": 2.5,
-  "score_lokacija": 2.0,
-  "score_roi": 3.5,
+  "score_overall": 4.5,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
   "score_stanje": 3.5,
-  "recommendation": "pass",
-  "reasoning": "Orahovica je mali, demografski iscrpljeni grad u Virovitičko-podravskoj županiji s oko 6.000 stanovnika i gotovo nepostojećim tržištem komercijalnih/industrijskih nekretnina. Procjena suda od 844.000 EUR za industrijsku kompleks u takvoj mikrolokaciji snažno indicira precijenjenu sudsku procjenu — nominalni popust od 50% vjerovatno ne odražava stvarni diskont u odnosu na realne tržišne vrijednosti. Pool potencijalnih kupaca za ~2.400 m² industrijskih zgrada u gradu te veličine praktički ne postoji, a exit strategije su krajnje ograničene.",
+  "recommendation": "watch",
+  "reasoning": "Veliki poslovno-gospodarski kompleks (15.223 m2 dvorište/zgrade + 10.365 m2 pašnjak) u Orahovici, malom gradu u Virovitičko-podravskoj županiji s izraženom depopulacijom i slabom likvidnošću tržišta nekretnina. Popust od 50% na drugoj dražbi je atraktivan, ali opis ne navodi stanje objekata (moguće starije, neuseljive/industrijske građevine) niti namjenu, što nosi rizik naknadnih ulaganja. Zbog niske lokacijske ocjene i neizvjesnosti oko iskoristivosti kompleksa preporuka je promatranje, uz mogućnost čekanja treće dražbe za dodatni popust.",
   "flags": [
-    "Kritično niska likvidnost — Orahovica nema aktivno tržište industrijskih/komercijalnih nekretnina",
-    "Sudska procjena od 844.000 EUR vjerojatno značajno nadcijenjena za ovu mikrolokaciju",
-    "Potencijalna ekološka kontaminacija tla i objekata (bivši industrijski kompleks, nepoznata povijest korištenja)",
-    "Visoki tekući troškovi održavanja kompleksa od ~2.596 m² građevina i 25.000+ m² zemljišta",
-    "Demografsko iseljavanje regije — pad potražnje za nekretninama i uslugama dugoročno",
-    "Stečajni postupak — potrebna detaljna provjera upisanih tereta, hipoteka i prava trećih"
+    "provjeriti: stanje i statika objekata (u opisu nema podataka o renovaciji/useljivosti)",
+    "provjeriti: namjena i mogućnost legalizacije/uporabne dozvole za gospodarske zgrade",
+    "provjeriti: postoji li ekološko opterećenje tla (bivši industrijski/gospodarski kompleks)",
+    "provjeriti: urbanistički status i mogućnost promjene namjene pašnjaka (kč. 4942)",
+    "provjeriti: postojanje tereta, služnosti ili prava trećih na nekretnini (stečajna masa)"
   ],
   "market_estimate": {
-    "eur_min": 90000,
-    "eur_max": 220000,
+    "eur_min": 380000,
+    "eur_max": 550000,
     "confidence": "low",
-    "basis": "Procjena temeljena na poznavanju slavonskog industrijskog tržišta: ~2.400 m² industrijskih zgrada u Slavoniji realno 20-45 EUR/m² (52k-108k EUR), dvorište i parkiralište 12.627 m² po 3-8 EUR/m² (38k-101k EUR), pašnjak 10.365 m² po 1-2 EUR/m² (10k-21k EUR). Usporedive transakcije u Orahovici i okolici izuzetno rijetke, što drastično snižava pouzdanost procjene. Web pretraga nije bila dostupna za verifikaciju aktualnih oglasa."
+    "basis": "Web pretraga nije bila dostupna u ovoj sesiji pa procjena nije potkrijepljena live oglasima. Temelji se na općem poznavanju tržišta manjih slavonskih gradova (Orahovica, ~4.500 stanovnika) gdje su poslovno-industrijski kompleksi niske likvidnosti i cijene zemljišta/objekata znatno niže od službene procjene suda; službena procjena od 844.000 EUR vjerojatno odražava knjigovodstvenu/građevinsku vrijednost objekata, a ne realnu tržišnu potražnju u regiji."
   },
-  "comparables": [
-    {
-      "opis": "Industrijska hala s okućnicom, Virovitica — usporediva lokacija u istoj županiji",
-      "cijena": 180000,
-      "m2": 1200,
-      "izvor": "njuskalo.hr (okvirna procjena na temelju regionalnih podataka)",
-      "url": "https://www.njuskalo.hr/prodaja-poslovnih-prostora/viroviticko-podravska"
-    },
-    {
-      "opis": "Poslovni/industrijski kompleks, Slavonija — generalno tržište",
-      "cijena": 250000,
-      "m2": 2000,
-      "izvor": "nekretnine.net (okvirna procjena slavonskog industrijskog segmenta)",
-      "url": "https://www.nekretnine.net/prodaja/poslovni-prostori/slavonija"
-    },
-    {
-      "opis": "Napomena: Web pretraga nije bila dostupna — gornji komparabili su aproksimacije na temelju poznavanja tržišta, ne verificirani aktivni oglasi",
-      "cijena": null,
-      "m2": null,
-      "izvor": "interni benchmark",
-      "url": ""
-    }
-  ],
-  "investment_strategy": "JEDINA potencijalno smislena strategija je repurposing u agropreradu (skladišta, sušionice, hladnjače za voćarstvo/povrtlarstvo koje postoji u regiji) ili energetika (solarni park na pašnjaku 10.365 m² + krovovi hala). Međutim, obje strategije zahtijevaju specijaliziranog operatora s regionalnim kontaktima i znanjem, visoke inicijalne investicije u sanaciju, te višegodišnji horizont bez garantiranog povrata. Klasična preprodaja, reno-flip ili iznajmljivanje standardnom zakupcu nisu realni exitovi za ovu lokaciju i tipologiju.",
-  "entry_price_eur": 150000,
+  "comparables": [],
+  "investment_strategy": "Reno-flip nije primaran jer je riječ o gospodarsko-industrijskom kompleksu, ne stambenoj nekretnini. Realnija strategija je kupnja radi iznajmljivanja lokalnim poslovnim subjektima (skladište, proizvodni pogon, poljoprivredna djelatnost) ili prenamjena velike ravne parcele (ukupno cca 2,5 ha) za fotonaponsku elektranu, uz prethodnu provjeru mrežnog priključka i urbanističkih uvjeta. Kupnja radi brze preprodaje nije preporučljiva zbog niske likvidnosti lokalnog tržišta.",
+  "entry_price_eur": 350000,
   "detailed_risks": [
-    "Tržišna vrijednost vjerojatno 90-220k EUR — početna cijena dražbe od 422k EUR je iznad realnog tržišnog raspona",
-    "Ekološka odgovornost: stari industrijski kompleksi u HR često imaju onečišćenje tla (goriva, maziva, kemikalije) — sanacija može koštati 50-200k+ EUR",
-    "Nema realnih zakupaca u Orahovici za ~2.400 m² industrijskog prostora — praznina generira negativni cash flow od 1. dana",
-    "Građevinska dozvola za promjenu namjene u Slavoniji može biti dugotrajna (2-4 god.) i skupa administrativno",
-    "Demografski trend: Virovitičko-podravska županjia izgubila ~15-20% stanovništva od 2001., trend se nastavlja — smanjuje buduću potražnju",
-    "Složenost transakcije: dva zasebna zk.ul. (841 i 840), stečajni postupak — pravni i administrativni troškovi 15-30k EUR",
-    "Visoki troškovi komunalija i osiguranja za neaktivni kompleks te veličine (~10-20k EUR godišnje)",
-    "Nepoznato stanje infrastrukture: struja, voda, kanalizacija, grijanje — vjerojatno zastarjelo i nefunkcionalno"
+    "Nepoznato stanje objekata - opis navodi samo kvadrature bez ocjene stanja, moguća potreba za značajnim ulaganjem",
+    "Vrlo slaba likvidnost tržišta nekretnina u Orahovici i okolici - dugo vrijeme do prodaje/iznajmljivanja",
+    "Moguća potreba ishođenja/legalizacije uporabnih dozvola za gospodarske zgrade",
+    "Rizik ekološkog opterećenja tla s obzirom na moguću prijašnju industrijsku namjenu",
+    "Stečajni postupak - dodatna pravna provjera tereta i eventualnih potraživanja trećih strana",
+    "Razgledavanje uz dogovor sa stečajnim upraviteljem ukazuje na ograničen pristup informacijama prije kupnje"
   ],
-  "upside_scenario": "Ako investitor ima specijalizirane kontakte (agroindustrijska tvrtka, logistički operater, RES developer za solarni park), moguće je kupiti na dražbi za 200-300k EUR, uložiti 100-200k EUR u sanaciju i prilagodbu, te iznajmiti specijaliziranom korisniku za 3-6k EUR/mj. — povrat investicije 7-12 godina. Alternativno, solarni projekt na pašnjaku (10.365 m² ≈ ~0,5 MW) uz feed-in potporu može donijeti pozitivan ROI uz drugačiji financijski model.",
-  "downside_scenario": "Nekretnina stoji prazna godinama bez zakupca — troškovi čuvanja, komunalija i ovrhe kumuliraju. Bez strateškog kupca, jedina opcija je daljnja prodaja ispod tržišne vrijednosti (moguće 50-80k EUR za parcelizaciju). Investitor zareza gubitak od 300k+ EUR plus troškove transakcije i održavanja. Ekološki problem može izazvati i zakonsku odgovornost novog vlasnika.",
-  "input_hash": "61a589025c31",
-  "scored_at": "2026-04-21T13:50:55.229396"
+  "upside_scenario": "Ako se kompleks uspješno prenamjeni u skladišno-logistički ili poljoprivredni pogon uz iskorištavanje EU fondova za ruralni razvoj, ili ako se dio zemljišta iskoristi za solarnu elektranu, vrijednost može narasti 20-40% u 2-3 godine kroz stabilan najam ili prodaju investitoru u obnovljivim izvorima energije.",
+  "downside_scenario": "Ako se ne pronađe kupac/najmoprimac zbog niske potražnje u regiji, nekretnina ostaje neiskorištena imovina s tekućim troškovima (porezi, održavanje, osiguranje), a na eventualnoj trećoj dražbi cijena bi mogla dodatno pasti za 25-30% bez značajnog povećanja interesa kupaca.",
+  "discount_pct": 50.0,
+  "input_hash": "67253ba0a675",
+  "scored_at": "2026-07-08T08:45:37.236986"
 }

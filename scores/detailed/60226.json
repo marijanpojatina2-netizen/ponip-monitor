@@ -1,61 +1,36 @@
 {
   "id": "60226",
-  "score_overall": 2.0,
-  "score_lokacija": 6.0,
-  "score_roi": 1.5,
-  "score_stanje": 2.0,
-  "recommendation": "pass",
-  "reasoning": "Dvije katastarske čestice ukupno 1.733 m² klasificirane kao 'griža, šuma' — kategorije koje su u pravilu NEGRADEVNO zemljište prema hrvatskim prostornim planovima, što čini sudsku procjenu od 860.230 EUR (≈496 EUR/m²) iznimno sumnjivom jer je to cjenovni razred građevinskih parcela u Viškovu, a ne šumskog i kamenitog tla. Početna cijena od 645.172 EUR na prvoj dražbi bez ikakve napomene o građevinskoj dozvoli ili GUP-u koji bi klasificirao parcelu kao građevinsku gotovo sigurno znači katastrofalan omjer rizika i potencijalne zarade. Lokacija Viškova kao prigradskog naselja uz Rijeku je solidna, ali to ne može opravdati ovakvu valuaciju za negradevno tlo. Preporuka je bezuvjetni pass dok se ne verificira zoniranje putem eNekretnine i GUP-a Općine Viškovo.",
+  "score_overall": 5.5,
+  "score_lokacija": 6.5,
+  "score_roi": 5.5,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Zemljište se nalazi u Viškovu, jednom od najbrže rastućih prigradskih naselja Rijeke s dobrom prometnom povezanošću i stalnom potražnjom za stambenom izgradnjom, što opravdava solidnu lokacijsku ocjenu. Procijenjena cijena od ~496 EUR/m2 za dvije čestice ukupno 1733 m2 neuobičajeno je visoka za nekretninu opisanu kao 'griža, šuma', što upućuje na mogućnost da je zemljište zapravo predviđeno kao građevinsko u prostornom planu, no to nije potvrđeno u opisu. Riječ je o prvoj dražbi s tek 25% popusta (stečajna prodaja), što ne predstavlja izniman ROI dok se ne razjasni namjena zemljišta i eventualno pričeka daljnji pad cijene na sljedećim dražbama. Fizičko stanje (neizgrađeno, kamenito, obraslo šumom) zahtijeva značajna ulaganja prije bilo kakve gradnje ili preprodaje.",
   "flags": [
-    "KRITIČNO: 'griža, šuma' — obje kategorije su standardno negradevno zemljište u RH; gradnja nije moguća bez prethodne izmjene prostornog plana",
-    "Procjenjena vrijednost (496 EUR/m²) odgovara cijeni građevinskih parcela u Viškovu — ozbiljna sumnja u ispravnost sudske procjene",
-    "Nema spomena građevinske dozvole, lokacijske informacije niti GUP-a koji bi parcelu klasificirao kao gradevnu",
-    "Prva dražba — nema dodatnog popusta koji bi barem djelomično kompenzirao rizik",
-    "Jamčevina 86.023 EUR je blokirana čim se prijavi licitacija — visok oportunitetni trošak uz minimalan upside",
-    "Ukupna površina 1.733 m² dijeli se na dvije čestice što komplicira eventualni razvoj (potrebna parcelacija ili spajanje)"
+    "provjeriti: stvarna namjena zemljišta u prostornom/detaljnom planu uređenja Viškovo (šuma/poljoprivredno vs. građevinsko)",
+    "provjeriti: pristup parceli i komunalna infrastruktura (struja, voda, kanalizacija, pristupni put)",
+    "provjeriti: tereti i upisi u zemljišnoknjižnom izvatku (stečajna prodaja)",
+    "provjeriti: troškovi eventualnog spajanja/parcelacije dviju čestica (kč.br. 3791/1 i 3791/2)"
   ],
   "market_estimate": {
-    "eur_min": 12000,
-    "eur_max": 70000,
+    "eur_min": 500000,
+    "eur_max": 850000,
     "confidence": "low",
-    "basis": "Negradevno šumsko i kamenito tlo (griža+šuma) u Primorsko-goranskoj županiji realno vrijedi 5-40 EUR/m². Za 1.733 m² to iznosi 8.600-69.000 EUR. Jedino ako GUP Općine Viškovo klasificira ove čestice kao gradevno zemljište ili postoji realna perspektiva prenamjene, vrijednost bi mogla doseći 100-250 EUR/m² (173.000-433.000 EUR), što je i dalje daleko ispod početne cijene dražbe. Confidence je 'low' jer zoniranje nije verificirano web pretragom zbog tehničkih ograničenja sesije."
+    "basis": "Procjena temeljena na općem poznavanju tržišta zemljišta u Viškovu kao traženom prigradskom području Rijeke; nije bilo moguće dohvatiti konkretne aktivne oglase ili recentne transakcije putem web pretrage u ovoj sesiji, stoga je raspon širok i pouzdanost niska."
   },
-  "comparables": [
-    {
-      "opis": "Procijenjene cijene negradevnog šumskog zemljišta u PGŽ (interno znanje tržišta)",
-      "cijena": 25,
-      "m2": 1,
-      "izvor": "stručna procjena tržišta PGŽ 2024-2025",
-      "url": "https://www.nekretnine.net/stambeni-objekti/zemljista/viškovo/"
-    },
-    {
-      "opis": "Gradevinske parcele Viškovo — prosječna tržišna cijena za usporedbu (gradevno!)",
-      "cijena": 200,
-      "m2": 1,
-      "izvor": "tržišni prosjek njuskalo.hr / nekretnine.net 2024-2025",
-      "url": "https://www.njuskalo.hr/prodaja-zemljista/viskovo"
-    },
-    {
-      "opis": "Šuma/pašnjak Primorje — referentni raspon za negradevno tlo",
-      "cijena": 15,
-      "m2": 1,
-      "izvor": "procjena na temelju transakcija PGŽ 2023-2025",
-      "url": "https://www.njuskalo.hr/prodaja-zemljista/primorje"
-    }
-  ],
-  "investment_strategy": "NEMA SMISLENE STRATEGIJE pri trenutnoj cijeni. Teorijski: ako bi se post-kupnje uspjelo ishoditi prenamjenu u gradevno zemljište (izmjena i dopuna GUP-a Općine Viškovo), parcele bi se mogle prodati kao gradevno tlo po 150-250 EUR/m², ali taj proces traje 3-7 godina, iznimno je neizvjestan, skup i politički ovisan. Bez verificiranog građevinskog statusa ovo je zemlja s negativnim ROI-om. Razvoj je jedina hipotetska strategija, ali nije realna pri ovoj ulaznoj cijeni.",
-  "entry_price_eur": 45000,
+  "comparables": [],
+  "investment_strategy": "Razvoj / land banking — kupnja uz uvjet prethodne provjere namjene zemljišta; ako se potvrdi građevinska namjena, ishoditi dozvolu i graditi stambene jedinice ili preprodati developeru uz profit od rastuće potražnje u Viškovu; ako namjena ostane poljoprivredna/šumska, strategija se svodi na dugoročno čekanje promjene plana (visok rizik, ne preporučuje se za kratkoročni ROI).",
+  "entry_price_eur": 560000,
   "detailed_risks": [
-    "Negradevno tlo: bez izmjene GUP-a ili PPUG-a Rijeke/Viškova nije moguće graditi — cijela transakcija nema exit strategiju",
-    "Sudska procjena iznimno vjerojatno pogrešna ili bazirana na pogrešnoj GUP-klasifikaciji — investor može platiti 645K za tlo koje vrijedi 20-50K",
-    "Šuma: Zakon o šumama RH propisuje stroge uvjete promjene namjene, javni interes i naknadu šumskom fondu",
-    "Griža (kamenjara): čak i uz prenamjenu, troškovi uređenja terena (betoniranje, infrastruktura) mogu biti prohibitivni",
-    "Likvidnost: negradevno šumsko/kamenjaro tlo ima izrazito uski krug kupaca, prodaja može trajati godinama",
-    "Pristup i komunalna infrastruktura: opis ne spominje priključke (struja, voda, cesta) — dodatni troškovi nepoznati",
-    "Jamčevina 86.023 EUR: visok oportunitetni trošak za due diligence koji bi trebao prethoditi licitaciji, a ne slijediti je"
+    "Nejasna namjena zemljišta (opis navodi šumu/kamenjar, a cijena implicira mogući građevinski status) — bez potvrde nosi visok rizik precjenjivanja",
+    "Stečajna prodaja preko stečajnog upravitelja — mogući dodatni administrativni koraci i rizik skrivenih tereta",
+    "Dvije odvojene katastarske čestice mogu zahtijevati dodatne troškove parcelacije/spajanja za jedinstven građevinski projekt",
+    "Nema podataka o infrastrukturi i pristupu na parceli",
+    "Prva dražba s tek 25% popusta ne nudi veliku sigurnosnu maržu ako se ROI pretpostavke ne ostvare"
   ],
-  "upside_scenario": "U iznimno optimističnom scenariju: GUP Viškova ili izmjena prostornog plana do 2027-2028 reklasificira čestice kao mješovito/stambeno građevinsko zemljište. Uz Viškovo kao traženu lokaciju (blizina Rijeke, dobra prometna veza), 1.733 m² građevinskog tla moglo bi doseći 200-280 EUR/m² = 346.000-485.000 EUR tržišne vrijednosti. Profit pri ulasku od 45K: višestruk. Međutim — vjerovatnost ovog scenarija bez prethodno verificiranih signala je ispod 10%.",
-  "downside_scenario": "Investor pobijedi dražbu po početnoj cijeni 645.172 EUR. GUP potvrdi negradevni status. Pokušaj prodaje negradevnog tla PGŽ tržištu: 30.000-60.000 EUR realnih ponuda. Gubitak 580.000-615.000 EUR (90% uloženог kapitala). Čak i uz sudsku žalbu na procjenu, povrat uloženog novca nije zajamčen — stečajni postupak je završen, nekretnina je prodata.",
-  "input_hash": "9ada00a5b1d1",
-  "scored_at": "2026-05-22T09:35:35.585709"
+  "upside_scenario": "Ako se u naredna 2-3 mjeseca potvrdi da je zemljište u DPU-u Viškovo klasificirano kao građevinsko, investitor može uz umjerena ulaganja u komunalnu infrastrukturu i ishođenje dozvole realizirati stambeni projekt (kuće/manje stambene jedinice) i ostvariti rast vrijednosti od 30-50% unutar 2-3 godine, potaknut kontinuiranim rastom stanovništva Viškova kao satelitskog naselja Rijeke.",
+  "downside_scenario": "Ako zemljište ostane u poljoprivrednoj/šumskoj namjeni bez realne mogućnosti promjene plana, likvidnost ostaje vrlo niska, teško ga je preprodati uz profit, a uloženi kapital (jamčevina + kupoprodajna cijena) ostaje zamrznut u nisko-vrijednoj imovini bez jasnog izlaza.",
+  "discount_pct": 25.0,
+  "input_hash": "0fdff95f04c8",
+  "scored_at": "2026-07-08T08:44:17.544802"
 }

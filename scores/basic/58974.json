@@ -1,17 +1,16 @@
 {
   "id": "58974",
-  "score_overall": 6.0,
-  "score_lokacija": 7.5,
-  "score_roi": 6.0,
-  "score_stanje": 4.5,
+  "score_overall": 7.5,
+  "score_lokacija": 8.0,
+  "score_roi": 7.5,
+  "score_stanje": 6.5,
   "recommendation": "deep_dive",
-  "reasoning": "Vodice - turistička destinacija s niskom apsolutnom cijenom, prizemnim stambenim objektom i vanjskim bazenom, ali iznimno kompleksna struktura s višestrukim suvlasničkim udjelima (7/40, 81/1480, 54/960) i lokacijom van građevinskog područja zahtijeva ozbiljnu pravnu analizu prije ikakve odluke.",
+  "reasoning": "Kompleks nekretnina u Vodicama (kuća s bazenom, pomoćni objekti, maslinici) u traženoj dalmatinskoj turističkoj zoni uz 40% popust na drugoj dražbi ima izražen ROI potencijal. Prodaja se odnosi na suvlasničke idealne dijelove više čestica (npr. 7/40, 81/1480), što zahtijeva detaljnu pravnu provjeru prije licitiranja.",
   "flags": [
-    "suvlasnički udio 7/40 - ograničeno raspolaganje bez suglasnosti ostalih suvlasnika",
-    "van građevinskog područja - zabrana gradnje/rekonstrukcije",
-    "sportsko-rekreacijska zona - namjenska ograničenja",
-    "višestruke čestice s različitim suvlasničkim omjerima - opis se prekida, moguće još čestica"
+    "provjeriti: prodaja suvlasničkih idealnih dijelova na više čestica - kompleksna struktura vlasništva",
+    "provjeriti: stanje stambenog objekta i bazena"
   ],
-  "input_hash": "c33660537270",
-  "scored_at": "2026-05-25T10:02:21.942544"
+  "discount_pct": 40.0,
+  "input_hash": "6ca335388edb",
+  "scored_at": "2026-07-08T08:26:55.242425"
 }

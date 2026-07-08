@@ -1,12 +1,17 @@
 {
   "id": "60686",
-  "score_overall": 3.1,
+  "score_overall": 3.2,
   "score_lokacija": 2.0,
-  "score_roi": 4.0,
-  "score_stanje": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 2.5,
   "recommendation": "pass",
-  "reasoning": "Pretežito poljoprivredno zemljište (oranice, šume, livade) u k.o. Sibenik kod Grubišnog Polja — zona snažne depopulacije s minimalnom tržišnom likvidnošću i nultim turističkim potencijalom. Popust od svega 20% na prvoj dražbi potpuno je neadekvatan za ovako slabu lokaciju bez ikakvog razvojnog impulsa.",
-  "flags": [],
-  "input_hash": "a3c5ba460591",
-  "scored_at": "2026-06-24T09:27:38.289592"
+  "reasoning": "Fragmentirani sitni parceli šume, oranica i livada u ruralnom dijelu Bjelovarsko-bilogorske županije, kuća je zapravo tek pretežiti dio gospodarske građevine u zajedništvu s drugima. Popust od svega 20% na prvoj dražbi uz nisku likvidnost i rascjepkano vlasništvo čini ovo slabim investicijskim slučajem.",
+  "flags": [
+    "k.o. Sibenik odnosi se na ruralno naselje u Bjelovarsko-bilogorskoj županiji, NIJE grad Šibenik na obali",
+    "kuća je samo pretežiti/suvlasnički dio gospodarske građevine, ne cijela nekretnina",
+    "provjeriti: točan raspored i pristupačnost brojnih razdvojenih čestica"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "01e3d1d06f6e",
+  "scored_at": "2026-07-08T08:35:35.027677"
 }

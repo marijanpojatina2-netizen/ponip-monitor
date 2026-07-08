@@ -1,12 +1,13 @@
 {
   "id": "60656",
-  "score_overall": 4.0,
-  "score_lokacija": 4.0,
-  "score_roi": 5.0,
+  "score_overall": 3.6,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
   "score_stanje": 2.0,
   "recommendation": "pass",
-  "reasoning": "Livada 2269 m² u k.o. Veliko Trgovišće, dio istog zeml.-knj. uloška kao ostale Zagorje parcele u ovoj dražbi. Čisto agrarna nekretnina bez objekta, 20% popust na prvoj dražbi nije dovoljan za ovu vrstu i lokaciju.",
+  "reasoning": "Livada u Velikom Trgovišću, ruralno zagorsko područje sa slabom likvidnošću i bez razvojnog potencijala. Popust od 20% ne opravdava ulazak s obzirom na neizgrađeno zemljište i slabu lokaciju.",
   "flags": [],
-  "input_hash": "87046f7b8dff",
-  "scored_at": "2026-06-19T10:26:46.388481"
+  "discount_pct": 20.0,
+  "input_hash": "17126f4afd8b",
+  "scored_at": "2026-07-08T08:25:33.381385"
 }

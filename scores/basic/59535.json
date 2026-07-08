@@ -1,12 +1,13 @@
 {
   "id": "59535",
-  "score_overall": 3.1,
+  "score_overall": 4.4,
   "score_lokacija": 2.0,
-  "score_roi": 3.5,
+  "score_roi": 6.5,
   "score_stanje": 4.0,
   "recommendation": "pass",
-  "reasoning": "Negoslavci su malo ruralno naselje u depopulacijskom dijelu Vukovarsko-srijemske županije s praktički nepostojećim sekundarnim tržištem nekretnina. Popust od 40% ne kompenzira izostanak potražnje ni mogućnost izlaza iz investicije.",
+  "reasoning": "Negoslavci kraj Vukovara spadaju u depopulacijsko područje s vrlo slabom potražnjom na tržištu nekretnina unatoč 40% popusta na drugoj dražbi. Kuća s dvorištem i oranicom je solidne veličine, ali regionalna likvidnost čini ROI upitnim.",
   "flags": [],
-  "input_hash": "b5c33746f7de",
-  "scored_at": "2026-06-22T11:52:05.080253"
+  "discount_pct": 40.0,
+  "input_hash": "e3b3f55ab0e3",
+  "scored_at": "2026-07-08T08:38:03.525427"
 }

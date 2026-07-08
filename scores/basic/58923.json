@@ -1,15 +1,15 @@
 {
   "id": "58923",
-  "score_overall": 3.0,
-  "score_lokacija": 2.5,
-  "score_roi": 4.0,
-  "score_stanje": 4.0,
-  "recommendation": "pass",
-  "reasoning": "Novo Selo u okolici Siska je ruralano depopulacijsko područje s minimalnom tržišnom potražnjom i niskim prinosima od najma; 40% popust ne kompenzira strukturno slabu lokaciju. Bez turizma i bez urbanog oslonca, kapitalana aprecijacija praktički nemoguća.",
+  "score_overall": 5.6,
+  "score_lokacija": 3.5,
+  "score_roi": 7.5,
+  "score_stanje": 5.0,
+  "recommendation": "bid",
+  "reasoning": "Kompleks kuća, gospodarska zgrada i oranica u Novom Selu (Sisak) u punom vlasništvu (1/1) uz 40% popusta na drugoj dražbi predstavlja solidnu ROI priliku uz nizak ulazni trošak. Lokacija je slabija (regija pogođena potresima), ali potpuno vlasništvo pojednostavljuje transakciju.",
   "flags": [
-    "depopulacijsko ruralno područje - Sisak okolica",
-    "niska likvidnost izlaza"
+    "provjeriti: stanje objekata s obzirom na potresnu ugroženost regije"
   ],
-  "input_hash": "3f9863a9dc0b",
-  "scored_at": "2026-05-22T09:04:29.390988"
+  "discount_pct": 40.0,
+  "input_hash": "b83b7e7688e6",
+  "scored_at": "2026-07-08T08:24:20.550562"
 }

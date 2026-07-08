@@ -1,12 +1,13 @@
 {
   "id": "60668",
-  "score_overall": 3.8,
-  "score_lokacija": 4.0,
+  "score_overall": 3.9,
+  "score_lokacija": 3.5,
   "score_roi": 4.5,
-  "score_stanje": 2.0,
+  "score_stanje": 3.0,
   "recommendation": "pass",
-  "reasoning": "Livada 939 m² u k.o. Veliko Trgovišće, bez objekta i s 20% popustom na prvoj dražbi. Premala parcela za samostalan razvoj, neatraktivna likvidnosno — nema komercijalnog opravdanja.",
+  "reasoning": "Livada od 939 m2 u Velikom Trgovišću (Zagorje) na prvoj dražbi s 20% popusta je nisko vrijedna investicija bez razvojnog potencijala. Ruralna lokacija dodatno ograničava buduću likvidnost.",
   "flags": [],
-  "input_hash": "79bc22805737",
-  "scored_at": "2026-06-19T10:26:46.388840"
+  "discount_pct": 20.0,
+  "input_hash": "e6387a51fb31",
+  "scored_at": "2026-07-08T08:39:07.038685"
 }

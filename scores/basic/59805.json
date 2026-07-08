@@ -1,16 +1,16 @@
 {
   "id": "59805",
-  "score_overall": 3.5,
-  "score_lokacija": 3.5,
-  "score_roi": 4.0,
+  "score_overall": 4.5,
+  "score_lokacija": 4.0,
+  "score_roi": 5.0,
   "score_stanje": 4.0,
-  "recommendation": "pass",
-  "reasoning": "Tavanski prostor od 59,65 m2 u Ivancu (manji grad Varaždinske županije) nudi slabu likvidnost i zahtijeva adaptaciju — 25% popust i stečajni postupak ne mijenjaju temeljno slab investicijski case. Tržište Ivanca je plitko i izlaz bi bio neizvjestan.",
+  "recommendation": "watch",
+  "reasoning": "Tavanski/potkrovni prostor u zgradi mješovite namjene u Ivancu, stečajna prodaja s 25% popusta daje nešto bolji ROI, no manji grad i nejasna dovršenost prostora ograničavaju privlačnost. Zahtijeva provjeru stanja i mogućnosti stanovanja.",
   "flags": [
-    "tavanski prostor – nije klasičan stan, potrebna adaptacija",
-    "Ivanec – slabija likvidnost tržišta",
-    "stečajni postupak – kompleksniji postupak preuzimanja"
+    "provjeriti: dovršenost i namjena potkrovnog prostora",
+    "provjeriti: dodatni troškovi/obveze iz stečajnog postupka"
   ],
-  "input_hash": "4e50101176c7",
-  "scored_at": "2026-04-21T11:04:57.505333"
+  "discount_pct": 25.0,
+  "input_hash": "44c14438c231",
+  "scored_at": "2026-07-08T08:31:07.282396"
 }

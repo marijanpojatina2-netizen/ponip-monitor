@@ -1,63 +1,37 @@
 {
   "id": "57333",
-  "score_overall": 2.5,
+  "score_overall": 4.1,
   "score_lokacija": 1.5,
-  "score_roi": 4.0,
-  "score_stanje": 2.0,
-  "recommendation": "pass",
-  "reasoning": "Bivši željezniški kolodvor u Štikadi (općina Gračac, Zadarska županija) smješten je u jednoj od najdepopulacijanijih mikrolokacija u Hrvatskoj — ruralna Lika bez turističke obale, bez gradskog gravitacijskog centra. Utvrđena vrijednost od 670K EUR temelji se na troškovnoj metodi, a realna tržišna vrijednost višestruko je niža; to potvrđuje i treća uzastopna dražba koja signalizira dva tržišna odbijanja na višim cijenama. Konverzija bivše željezničke infrastrukture nosi ozbiljna urbanistička i regulatorna ograničenja, a izlazna strategija (preprodaja, zakup, turizam) praktički ne postoji u ovoj mikrolokaciji. Čak i uz 75% popust, kapital je zamrznut bez jasnog puta do povrata.",
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Riječ je o bivšoj kolodvorskoj zgradi i kolodvorskom kompleksu (2100 m2) u Štikadi kod Gračaca, izrazito ruralnom i depopuliranom području nekadašnje Krajine bez realnog stambenog ili turističkog tržišta. Popust od 75% na trećoj dražbi izgleda atraktivno nominalno, ali procijenjena vrijednost od 669.960 EUR vjerojatno odražava knjigovodstvenu/infrastrukturnu vrijednost bivšeg HŽ objekta, a ne realnu tržišnu cijenu u ovom kraju. Nekretnina bi mogla imati smisla samo kao špekulativna kupnja zemljišta/objekta za industrijsku, logističku ili energetsku namjenu (npr. solarna elektrana), uz vrlo nisku likvidnost izlaska. Bez uvida u stvarno stanje objekta i eventualne služnosti vezane uz bivšu željezničku infrastrukturu, preporuka je promatrati, ne aktivno licitirati bez terenske due diligence.",
   "flags": [
-    "Treća dražba — tržište dva puta odbilo imovinu po višim cijenama (167K nije pronašlo kupca ni na 1. ni na 2. dražbi implicitno)",
-    "Bivša željeznička infrastruktura — moguća pravna ograničenja prenamjene, servisne služnosti HŽ Infrastrukture",
-    "Mikrolokacija Štikada/Gračac — jedna od najdepopulacijanijih zona u RH, negativni demografski trend",
-    "Utvrđena vrijednost (319 EUR/m²) ne odražava tržišnu realnost — bazirana na troškovnoj metodi",
-    "Nepoznato stanje objekta — bez uvida nemoguće procijeniti opseg i trošak radova",
-    "Potencijalni ekološki teret tipičan za željezničke lokacije (maziva, goriva, azbest u staroj gradnji)",
-    "Nema podataka o komunalnoj infrastrukturi (priključci vode, struje, kanalizacije)"
+    "provjeriti: postojanje služnosti/infrastrukturnih prava HŽ Infrastrukture ili drugih javnih tijela na kolodvorskom zemljištu",
+    "provjeriti: stvarno fizičko stanje zgrade (napuštenost, oštećenja, krov, instalacije)",
+    "provjeriti: mogućnost promjene namjene zemljišta/objekta u prostornom planu (iz infrastrukturne u drugu namjenu)",
+    "provjeriti: dostupnost komunalne infrastrukture (struja, voda, pristupni put) na lokaciji",
+    "provjeriti: stvarno stanje posjeda na terenu prije kupnje"
   ],
   "market_estimate": {
-    "eur_min": 35000,
-    "eur_max": 110000,
+    "eur_min": 80000,
+    "eur_max": 180000,
     "confidence": "low",
-    "basis": "Ruralna Lika (Gračac zona): industrijski/komercijalni prostor trguje 15–50 EUR/m², stambeni 200–350 EUR/m². Za bivši kolodvor specifične namjene i ograničene prenamjene, realna tržišna vrijednost procjenjuje se na 35–110K EUR — višestruko ispod utvrđenih 670K. Web pretraga komparabilnih oglasa nije bila dostupna; procjena bazirana na poznavanju transakcija u depopulacijskim zonama Like i Slavonije."
+    "basis": "Procjena bez pristupa web pretrazi; temelji se na općem poznavanju tržišta ruralnih/depopuliranih područja Like i sličnih napuštenih infrastrukturnih objekata bivše HŽ mreže, gdje se realne transakcijske cijene kreću bitno ispod sudske procjene vrijednosti."
   },
-  "comparables": [
-    {
-      "opis": "Stambeno-poslovna zgrada, Gračac — analogon manjeg komercijalnog prostora u gradu",
-      "cijena": 60000,
-      "m2": 400,
-      "izvor": "procjena bazirana na poznatim transakcijama u Gračacu",
-      "url": "N/A — web pretraga nedostupna; preporučiti ručnu provjeru na njuskalo.hr/nekretnine.net"
-    },
-    {
-      "opis": "Bivši industrijski/komunalni objekt u depopulacijskoj zoni Like (generički analogon)",
-      "cijena": 42000,
-      "m2": 2100,
-      "izvor": "procjena analognih prodaja industrijskih zgrada u ruralnoj Lici i Slavoniji",
-      "url": "N/A — web pretraga nedostupna"
-    },
-    {
-      "opis": "Kolodvorska zgrada prenamjenjena u hostel/kafić (Slovenija/Slovenija analogon) — pokazuje potencijal, ali zahtijeva turističku regiju",
-      "cijena": 350000,
-      "m2": 800,
-      "izvor": "poznati primjeri prenamjene kolodvora u turistički smještaj",
-      "url": "N/A"
-    }
-  ],
-  "investment_strategy": "Nema standardne strategije s pozitivnim ROI: iznajmljivanje nije realno (nulta potražnja), preprodaja upitna (nema tržišta), turistička prenamjena suviše je daleko od turističkih tokova (Plitvice ~90 km, Paklenica ~70 km, Jadran ~120 km). Jedina nišna opcija: skladište/logistika uz autocestni čvor A1 (Gračac-Brušane), ali zahtijeva specijaliziranog industrijskog kupca. Teorijski reno-flip za eko-camp/adventure turizam u NP Velebit koridoru ima horizont >10 godina i ekstremno visoku neizvjesnost — nije preporučljivo bez duboke provjere regulatorne situacije.",
-  "entry_price_eur": 90000,
+  "comparables": [],
+  "investment_strategy": "Zemljišno-imovinska špekulacija / promjena namjene: s obzirom na veličinu kompleksa (2100 m2 objekt na 2100 m2 čestice) i lošu lokaciju za stanovanje ili turizam, jedina realna strategija je dugoročno držanje uz pokušaj repozicioniranja u industrijsku, logističku ili energetsku (solarnu) namjenu, ili prodaja natrag javnom/infrastrukturnom subjektu.",
+  "entry_price_eur": 140000,
   "detailed_risks": [
-    "Nulta tržišna likvidnost — pronalaženje kupca ili zakupca može potrajati 5–15 godina ili nikad",
-    "Regulatorna ograničenja: prenamjena bivše željezničke infrastrukture zahtijeva izmjenu UPU/GUP, što može biti nemoguće ili dugotrajno",
-    "Trošak rekonstrukcije 2100 m² u Lici: min. 300–500 EUR/m² = 630K–1.05M EUR — višestruko iznad tržišne vrijednosti",
-    "Demografski kolaps regije: Gračac je izgubio >60% stanovništva od 1991., trend se nastavlja",
-    "Jamčevina 66.996 EUR (40% od početne cijene) — nepovratna u slučaju odustajanja od plaćanja",
-    "Moguće servituti ili prava prolaza u korist HŽ Infrastrukture d.o.o. koja ne prestaju prodajom",
-    "Ekološki rizik: stare željezničke lokacije često imaju kontaminaciju tla gorivima i mazivima",
-    "Komunalni priključci: u ruralnoj Lici često neadekvatni za veliku zgradu, reconnection skup"
+    "Ekstremno nizak potražni interes zbog depopulacije i udaljenosti od urbanih centara",
+    "Moguće postojanje javnopravnih tereta/služnosti vezanih uz bivšu željezničku infrastrukturu",
+    "Nepoznato stvarno stanje objekta (dugotrajno napuštanje kolodvorskih zgrada na ovoj pruzi je uobičajeno)",
+    "Vrlo niska likvidnost - teško izlaz/preprodaja u doglednom roku",
+    "Rizik daljnjeg pada cijene na eventualnoj četvrtoj dražbi ako se ne proda"
   ],
-  "upside_scenario": "Kupovina na aukcijskoj cijeni ~167K EUR od strane investitora s konkretnim planom: prenamjena u adventure/eko-resort blizu Velebita (ukoliko UPU dozvoljava), ulaganje 300–400K EUR u renovaciju, kapacitet 20–30 ležajeva + event prostor. U optimističnom scenariju (rast ruralnog turizma, EU fondovi za revitalizaciju), vrijednost objekta 2028–2030: 600–900K EUR, prihod od najma 60–120K EUR/god. Ukupni ulaz ~500–570K EUR, potencijalni multiplier 1.2–1.5x u 5–7 godina — marginalano prihvatljivo samo uz EU subvencije.",
-  "downside_scenario": "Kupovina bez konkretnog plana i tima za provedbu: kapital od 167K+ EUR zamrznut u nelikvidnoj imovini bez prihoda. Troškovi održavanja, komunalni doprinosi i porezi na nekretnine nastavljaju se akumulirati. Pokušaj preprodaje rezultira tržišnom cijenom ispod 100K EUR (tj. gubitkom). U najgorem slučaju, ekološke obveze sanacije (ako postoje) prelaze vrijednost imovine. Investicija se može tretirati kao potpuni otpis.",
-  "input_hash": "2d1d39059dd5",
-  "scored_at": "2026-05-05T08:23:19.667289"
+  "upside_scenario": "Ako se uspije promijeniti namjena zemljišta i objekt iskoristi za industrijsko/logističko skladištenje ili solarnu elektranu uz nisku ulaznu cijenu (ispod 150.000 EUR), moguć je značajan postotni dobitak pri budućoj prodaji specijaliziranom kupcu (energetska tvrtka, poljoprivredni ili logistički investitor) u roku 2-3 godine.",
+  "downside_scenario": "Ako ne postoji potražnja ni na ovoj cijeni, nekretnina ide na četvrtu dražbu uz daljnji pad cijene, investitor ostaje s nelikvidnom imovinom bez prihoda i s troškovima održavanja/osiguranja, uz mogući spor oko služnosti vezanih uz bivšu prugu.",
+  "discount_pct": 75.0,
+  "input_hash": "23eddd5cb3aa",
+  "scored_at": "2026-07-08T08:48:55.395882"
 }

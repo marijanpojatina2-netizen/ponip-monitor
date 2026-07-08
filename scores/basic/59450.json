@@ -1,12 +1,15 @@
 {
   "id": "59450",
-  "score_overall": 5.0,
+  "score_overall": 5.4,
   "score_lokacija": 3.5,
-  "score_roi": 6.5,
-  "score_stanje": 4.0,
+  "score_roi": 7.0,
+  "score_stanje": 5.0,
   "recommendation": "watch",
-  "reasoning": "Dvije parcele 661 m2 u Gospodarskoj zoni Đuro Đaković Slavonski Brod na 50% popusta — industrijska zona daje određeni potencijal, ali Slavonski Brod slaba likvidnost i male parcele ograničavaju exit. Pratiti ako se jave industrijski kupci iz zone.",
-  "flags": [],
-  "input_hash": "a645d2d92215",
-  "scored_at": "2026-06-15T11:58:47.914420"
+  "reasoning": "Građevinsko zemljište u poslovnoj zoni Slavonskog Broda uz visok popust od 50% i drugu dražbu, ali lokacija je slabijeg boniteta (periferna Slavonija) i nema podataka o infrastrukturnoj opremljenosti čestica. ROI potencijal solidan zbog cijene, no likvidnost poslovnog zemljišta u ovoj regiji ostaje upitna.",
+  "flags": [
+    "provjeriti: infrastrukturna opremljenost i komunalni status čestica u poslovnoj zoni"
+  ],
+  "discount_pct": 50.0,
+  "input_hash": "56ed263bbc8a",
+  "scored_at": "2026-07-08T08:39:52.771097"
 }

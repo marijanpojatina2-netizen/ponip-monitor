@@ -1,16 +1,15 @@
 {
   "id": "58304",
-  "score_overall": 6.0,
-  "score_lokacija": 4.5,
+  "score_overall": 5.7,
+  "score_lokacija": 4.0,
   "score_roi": 8.5,
-  "score_stanje": 4.5,
+  "score_stanje": 2.5,
   "recommendation": "deep_dive",
-  "reasoning": "50% popust na drugoj dražbi u stečajnom postupku za kuću s dvorištem kraj Ivanić Grada (~35km od Zagreba) izniman je ulazni omjer koji otvara realnu margin of safety čak i uz renovaciju. Stečajni kontekst nosi pravne rizike tereta i izlučnih prava koje hitno treba verificirati kod odvjetnika.",
+  "reasoning": "Druga dražba s 50% popusta na procjenu čini ovo izuzetno zanimljivim ROI kandidatom unatoč perifernoj lokaciji u Križu. Naziv čestice 'kućište' sugerira mogući ruševni ili nedovršen objekt pa je nužna provjera stvarnog stanja na terenu.",
   "flags": [
-    "stečajni dužnik - obavezna pravna provjera razlučnih/izlučnih prava i tereta",
-    "nepoznato stanje objekta",
-    "oranica uz imanje - provjera namjene i mogućnosti izgradnje"
+    "provjeriti: stvarno stanje objekta (naziv 'kućište' upućuje na moguću ruševinu)"
   ],
-  "input_hash": "300dbed5d202",
-  "scored_at": "2026-04-21T10:54:40.922970"
+  "discount_pct": 50.0,
+  "input_hash": "f5a00c1ea17f",
+  "scored_at": "2026-07-08T08:25:33.380975"
 }

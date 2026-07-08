@@ -1,16 +1,17 @@
 {
   "id": "60464",
-  "score_overall": 4.0,
-  "score_lokacija": 6.5,
-  "score_roi": 3.5,
-  "score_stanje": 3.5,
-  "recommendation": "pass",
-  "reasoning": "Istarska lokacija blizu Ližnjana ima potencijal, ali nekretnina 'nije uknjižena u zemljišnu knjigu' što je ozbiljan pravni red flag koji može blokirati financiranje i dalju prodaju. Djelomično dovršen objekt (temelji + prizemna zgrada) nosi neizvjesne troškove dovršetka i uknjižbe.",
+  "score_overall": 6.1,
+  "score_lokacija": 8.5,
+  "score_roi": 6.0,
+  "score_stanje": 2.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Lokacija u Šišanu kraj Pule (Istra) je izuzetno tražena, no predmet prodaje su tek temelji i nedovršeni zidovi budućeg objekta, uz izričitu napomenu da nekretnina nije uknjižena u zemljišne knjige. Zbog rijetkosti lokacije vrijedi detaljna pravna i tehnička due diligence prije odluke.",
   "flags": [
-    "nije uknjiženo u zemljišnu knjigu - kritičan pravni rizik",
-    "djelomično izgrađen objekt - nepoznati troškovi dovršetka",
-    "neizvjesnost uspjeha uknjižbe nakon kupnje"
+    "nekretnina nije uknjižena u zemljišne knjige",
+    "nerealizirani/nedovršeni objekt - potrebna dodatna investicija za dovršetak gradnje",
+    "provjeriti: uvjeti legalizacije i mogućnost dovršetka gradnje"
   ],
-  "input_hash": "f4b94a7a3170",
-  "scored_at": "2026-05-26T09:52:03.476316"
+  "discount_pct": 20.0,
+  "input_hash": "60f8744dae01",
+  "scored_at": "2026-07-08T08:24:20.550410"
 }

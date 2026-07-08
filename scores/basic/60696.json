@@ -1,12 +1,13 @@
 {
   "id": "60696",
-  "score_overall": 2.9,
+  "score_overall": 3.0,
   "score_lokacija": 2.0,
-  "score_roi": 3.5,
-  "score_stanje": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 1.5,
   "recommendation": "pass",
-  "reasoning": "Isključivo poljoprivredno zemljište (oranice, livade, voćnjak) u istoj k.o. Sibenik, Grubišno Polje — identičan depopulacijski profil kao ID 60686 i 60710 iz ove grupe. Minimalni popust od 20% na prvoj dražbi nema investicijskog opravdanja u ovako nelikvidnom i demografski slabom tržištu.",
+  "reasoning": "Riječ je o nizu fragmentiranih poljoprivrednih čestica (oranice, livade) u ruralnom području Grubišnog Polja bez ikakvog objekta, što bitno otežava likvidnost i buduću prodaju. Popust od 20% na prvoj dražbi ne opravdava rizik ulaganja u rascjepkano zemljište u depopulacijskom kraju.",
   "flags": [],
-  "input_hash": "312862aebac4",
-  "scored_at": "2026-06-24T09:27:38.290074"
+  "discount_pct": 20.0,
+  "input_hash": "b9cfee16b8ef",
+  "scored_at": "2026-07-08T08:38:03.524800"
 }

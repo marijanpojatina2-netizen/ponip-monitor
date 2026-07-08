@@ -1,16 +1,15 @@
 {
   "id": "59126",
-  "score_overall": 3.5,
-  "score_lokacija": 4.0,
-  "score_roi": 4.5,
+  "score_overall": 5.2,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
   "score_stanje": 5.0,
-  "recommendation": "pass",
-  "reasoning": "Suvlasnički udio 2/6 je kritičan red flag – bez suglasnosti ostalih suvlasnika nekretnina se ne može prodati, iznajmiti ni renovirati na normalan način. 40% popust ne kompenzira dugotrajni pravni rizik i slabu pregovaračku poziciju.",
+  "recommendation": "watch",
+  "reasoning": "Visok popust od 40% na drugoj dražbi za obiteljsku kuću s pomoćnim zgradama u Slanju kraj Varaždina, no predmet prodaje je samo 2/6 idealnog dijela što bitno ograničava samostalno korištenje i daljnju prodaju.",
   "flags": [
-    "suvlasništvo 2/6 – bez kontrole nad nekretninom",
-    "ruralno selo u varaždinskom kraju, ograničena potražnja",
-    "moguće sporne relacije s ostalim suvlasnicima"
+    "provjeriti: predmet prodaje je samo 2/6 idealnog dijela nekretnine - suvlasništvo s trećim osobama"
   ],
-  "input_hash": "f8b96003a7fd",
-  "scored_at": "2026-05-29T09:53:08.257019"
+  "discount_pct": 40.0,
+  "input_hash": "a95140a5527b",
+  "scored_at": "2026-07-08T08:36:50.146872"
 }

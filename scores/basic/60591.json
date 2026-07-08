@@ -1,14 +1,15 @@
 {
   "id": "60591",
-  "score_overall": 3.4,
-  "score_lokacija": 3.0,
-  "score_roi": 3.5,
+  "score_overall": 4.5,
+  "score_lokacija": 4.0,
+  "score_roi": 5.0,
   "score_stanje": 4.0,
-  "recommendation": "pass",
-  "reasoning": "Pilana i oranica u ruralnom Međimurju (Gornji Hrašćan) iznimno su niche — krug potencijalnih kupaca svodi se na aktivne drvoprerađivače, a bez te specifične namjene objekt nema alternativnog korištenja. 20% popust na prvoj dražbi daleko je od razine koja bi opravdala ovakav rizik nelikvidnosti.",
+  "recommendation": "watch",
+  "reasoning": "Gospodarska zgrada (pilana) s oranicom kraj Čakovca ima nišnu namjenu i slabiju likvidnost na tržištu, uz standardan popust od 20% na prvoj dražbi. Bez dodatnih podataka o tehničkom stanju pilane teško je procijeniti realan trošak dovođenja u funkciju.",
   "flags": [
-    "specifična industrijska namjena"
+    "provjeriti: tehničko stanje i namjena gospodarske zgrade (pilana)"
   ],
-  "input_hash": "92344ba433aa",
-  "scored_at": "2026-06-12T10:08:18.929385"
+  "discount_pct": 20.0,
+  "input_hash": "f6452d98a605",
+  "scored_at": "2026-07-08T08:32:45.562437"
 }

@@ -1,16 +1,15 @@
 {
   "id": "60367",
-  "score_overall": 6.0,
-  "score_lokacija": 6.5,
+  "score_overall": 5.6,
+  "score_lokacija": 5.5,
   "score_roi": 5.5,
   "score_stanje": 6.0,
   "recommendation": "watch",
-  "reasoning": "Poslovni prostor 25,76 m2 s parking mjestom u Sesvetama (Zagreb) — lokacija u rastućem dijelu Zagreba s dobrom prometnom povezanošću daje likvidnosnu prednost i mogućnost iznajmljivanja, a 50.240 EUR početna cijena je realna za tržište. Mali kvadrat ograničava namjenu i tip zakupca, suvlasnička dinamika zgrade zahtijeva provjeru poslovnika i troškova upravljanja.",
+  "reasoning": "Sesvete je periferija Zagreba s umjerenom potražnjom, a radi se o malom poslovnom prostoru (25,76 m2) s parkirnim mjestom uz popust od tek 20% na prvoj dražbi. Etažno vlasništvo i mala površina ograničavaju krug kupaca pa je riječ o nišnoj investiciji bez izraženog ROI potencijala.",
   "flags": [
-    "mali poslovni prostor 25,76 m2 — ograničena namjena i tip stanara",
-    "suvlasnički udio 676/10000 — potrebno provjeriti etažni akt i troškove zajedničkih dijelova",
-    "mješovita zgrada — upitna kvaliteta susjednih sadržaja i pristupačnost"
+    "provjeriti: namjena i mogućnost samostalnog iznajmljivanja poslovnog prostora"
   ],
-  "input_hash": "4dd55a79998e",
-  "scored_at": "2026-06-10T09:55:18.922120"
+  "discount_pct": 20.0,
+  "input_hash": "8f5d655680a0",
+  "scored_at": "2026-07-08T08:26:55.241070"
 }

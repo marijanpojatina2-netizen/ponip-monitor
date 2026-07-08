@@ -1,64 +1,35 @@
 {
   "id": "59526",
-  "score_overall": 6.1,
-  "score_lokacija": 5.0,
-  "score_roi": 7.5,
-  "score_stanje": 5.0,
+  "score_overall": 5.6,
+  "score_lokacija": 5.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
   "recommendation": "deep_dive",
-  "reasoning": "Parcela 740 m² livade u Čužićevoj ulici, Velika Gorica otvara atraktivan popust od 40% na procijenjenih 626.000 EUR (846 EUR/m²), što implicira da je procjenitelj vidio građevinsku ili mješovitu namjenu — u suprotnom vrijednost agrikulturnog zemljišta u Turopolju iznosi tek 30–80 EUR/m². Velika Gorica je solidni sekundarni grad uz Zagreb i aerodrom Pleso, s realnom razvojnom dinamikom, ali nije visoko likvidno tržište. Ključni neodgovoreni rizik je status parcele u GUP-u/UPU-u Velika Gorica: bez provjere zone, inicijalna cijena od 375.600 EUR može biti dramatično precjenjena ili pak prava kupovina — isključivo due diligence odlučuje.",
+  "reasoning": "Neusklađenost katastarske oznake 'livada' (740 m2) s procijenjenom vrijednošću od 626.000 EUR (~846 EUR/m2) upućuje da je riječ o zemljištu s građevinskim potencijalom u rastućem satelitskom gradu Zagreba, no to nije potvrđeno u opisu. Druga dražba s 40% popustom (efektivno 507 EUR/m2) čini ulaz potencijalno atraktivnim ako se zoning potvrdi. Bez podataka o infrastrukturi, pristupu i teretima, rizik je previsok za izravnu ponudu bez dubinske provjere.",
   "flags": [
-    "nepoznata namjena u prostornom planu (livada — nije potvrđena građevinska zona; provjera GUP/UPU k.o. Velika Gorica obavezna)",
-    "blizina aerodroma Zagreb Pleso — potencijalna zona ograničenja visine gradnje i buke (ICAO zona)",
-    "visoka procjena 846 EUR/m² bez objašnjenja u opisu — rizik precijenjenog sudskog vještačenja"
+    "provjeriti: zonska namjena / građevinska dozvola za k.č. 3623/1 (upisano kao livada, procjena odgovara građevinskom zemljištu)",
+    "provjeriti: komunalna infrastruktura i pristupni put (struja, voda, kanalizacija)",
+    "provjeriti: postojanje tereta, služnosti ili spora u zk izvatku"
   ],
   "market_estimate": {
-    "eur_min": 180000,
-    "eur_max": 370000,
+    "eur_min": 130000,
+    "eur_max": 320000,
     "confidence": "low",
-    "basis": "Građevinske infill parcele u Velikoj Gorici (stambena zona, komunalno opremljene) prodaju se 250–450 EUR/m², što za 740 m² daje 185.000–333.000 EUR; u slučaju poslovne/mješovite zone uz prometnu cestu gornja granica može doseći 370.000 EUR. Ako je parcela agrikulturna, tržišna vrijednost pada ispod 60.000 EUR. Raspon je iznimno širok upravo zbog nepoznate GUP namjene."
+    "basis": "Nema pristupa web pretraživanju u ovoj sesiji. Procjena temeljena na općem poznavanju cijena građevinskog zemljišta u Velikoj Gorici (satelitski grad Zagreba, rast zbog blizine zračne luke i zagrebačke metropolitanske zone), okvirno 150-400 EUR/m2 za manje urbane parcele — znatno niže od sudske procjene, što dodatno naglašava potrebu terenske i katastarsko-planske provjere."
   },
-  "comparables": [
-    {
-      "opis": "Građevinsko zemljište Velika Gorica, stambena zona, ~800 m², komunalno opremljeno",
-      "cijena": 240000,
-      "m2": 800,
-      "izvor": "njuskalo.hr (tržišna procjena, prosjek 2024–2025)",
-      "url": "https://www.njuskalo.hr/prodaja-zemljista/velika-gorica"
-    },
-    {
-      "opis": "Zemljište Velika Gorica centar/bliže, ~600 m², stambeno",
-      "cijena": 180000,
-      "m2": 600,
-      "izvor": "nekretnine.net (tržišna procjena, prosjek 2024–2025)",
-      "url": "https://www.nekretnine.net/stambeni_objekti/zemljista/lista/grad_velika-gorica/"
-    },
-    {
-      "opis": "Poslovno/mješovito zemljište uz airport road Velika Gorica, ~1000 m²",
-      "cijena": 420000,
-      "m2": 1000,
-      "izvor": "Procjena — poslovne lokacije uz Veliku Goricu / airport koridor",
-      "url": "https://www.njuskalo.hr/prodaja-zemljista/velika-gorica?vrstaNekretnine=poslovni-prostor"
-    },
-    {
-      "opis": "Agrikulturno/livada Turopolje regija, ~1000 m², bez građevinske namjene",
-      "cijena": 45000,
-      "m2": 1000,
-      "izvor": "Njuskalo / agro oglasi Turopolje (downside scenario)",
-      "url": "https://www.njuskalo.hr/prodaja-zemljista/turopolje"
-    }
-  ],
-  "investment_strategy": "Razvoj + preprodaja developeru — ako GUP potvrdi stambenu ili mješovitu/poslovnu namjenu, 740 m² u Velikoj Gorici dovoljna je osnova za izgradnju višestambene zgrade (3–5 stanova) ili poslovnog objekta uz airport koridor. Optimalna strategija: kupnja na dražbi uz uvjet prethodno pribavljenog uvjerenja o namjeni (pribaviti od Grada Velika Gorica, Odsjek za prostorno uređenje, tel. 01/6224-600), pa ili razvoj vlastitim kapacitetima ili flip parcele developeru uz 20–35% marže. Čisto iznajmljivanje bez gradnje ekonomski je neopravdano pri ovoj cijeni.",
-  "entry_price_eur": 375600,
+  "comparables": [],
+  "investment_strategy": "razvoj — kupnja sirovog zemljišta uz preduvjet potvrde građevinske namjene (GUP), zatim izgradnja objekta za prodaju/najam ili preprodaja kao 'spremno za gradnju' zemljište; bez potvrde zoninga ovo nije flip nego dugoročni hold s visokim rizikom.",
+  "entry_price_eur": 200000,
   "detailed_risks": [
-    "Parcela 'livada' u ZK — agrikulturna namjena u GUP-u smanjila bi tržišnu vrijednost s potencijalnih 300K+ na ispod 60.000 EUR; ulaz na aukciji bez provjere = egzistencijalni gubitak",
-    "Aerodrom Zagreb Pleso: Čužićeva ulica Velika Gorica može biti u ICAO zoni ograničenja visine ili buke — moguća zabrana stambene gradnje iznad određene katnosti",
-    "Sudska procjena 626.000 EUR (846 EUR/m²) statistički je visoka za Veliku Goricu bez dokumentiranog GUP-a — rizik precijenjenog vještačenja koji ne odražava tržišnu realnost",
-    "Velika Gorica: likvidnost parcela usporena — prosječno 12–24 mjeseca do prodaje razvojnog projekta",
-    "Nepoznata komunalna opremljenost: priključci vode, struje, kanalizacije i pristupne ceste mogu dodati 20.000–60.000 EUR troškova",
-    "Moguće skrivene hipoteke ili tereti na zk.ul. 6654 koji nisu eksplicitno navedeni u opisu aukcije — pregled ZK lista obavezan"
+    "Katastarska kultura 'livada' uz nepotvrđenu građevinsku namjenu — ako zemljište ostane poljoprivredno, realna vrijednost je red veličine niža",
+    "Opis ne navodi pristupni put, komunalnu infrastrukturu niti zonski status",
+    "Nema podataka o eventualnim teretima/služnostima u zk izvatku",
+    "Mogućnost da druga dražba ne uspije pa cijena dodatno padne na trećoj/četvrtoj dražbi, ali i rizik da se ponuda ne pojavi zbog nejasnog statusa",
+    "Osjetljivost tržišta zemljišta u Velikoj Gorici na kamatne stope i tempo urbanizacije"
   ],
-  "upside_scenario": "GUP/UPU potvrdi mješovitu ili stambenu-B zonu: investitor kupuje na aukciji za 375.600 EUR (minimalnu cijenu), ishoduje građevinsku dozvolu za npr. stambeno-poslovnu zgradu 4 etaže (~1.200 m² BRP), gradi za ~1.000 EUR/m² = 1,2 M EUR, prodaje stanove po 2.200–2.800 EUR/m² (Velika Gorica standard 2025–2026) = prihod 2,6–3,4 M EUR. Bruto marža 1,0–1,8 M EUR uz ROI 65–100% u 3–4 godine.",
-  "downside_scenario": "Provjera GUP-a pokaže agrikulturnu ili zaštitnu zonu, ili ICAO buka-zona blokira rezidencijalnu namjenu. Tržišna vrijednost parcele pada na 40.000–70.000 EUR. Investitor koji je platio 375.600 EUR bilježi gubitak od 300.000+ EUR bez realne opcije povrata u razumnom horizontu; promjena namjene (prenamjena agrikulturnog u građevinsko) u RH traje 5–10 godina i nije zajamčena.",
-  "input_hash": "0714e82ca21f",
-  "scored_at": "2026-06-30T09:32:58.417959"
+  "upside_scenario": "Ako se u sljedećih 2-3 godine potvrdi da je parcela unutar građevinskog područja GUP-a Velike Gorice s riješenom infrastrukturom, investitor gradi ili preprodaje zemljište uz procijenjeni profit od 30-50% zbog nastavka širenja zagrebačke metropolitanske zone prema jugu.",
+  "downside_scenario": "Ako zemljište ostane u poljoprivrednoj namjeni bez realne šanse za promjenu, tržišna vrijednost pada na razinu poljoprivrednog zemljišta (nekoliko EUR/m2), a uloženi kapital i jamčevina postaju teško unovčivi uz dugotrajnu blokadu kapitala.",
+  "discount_pct": 40.0,
+  "input_hash": "6e0a5401e1c4",
+  "scored_at": "2026-07-08T08:51:00.684293"
 }

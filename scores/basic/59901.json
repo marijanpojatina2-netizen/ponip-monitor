@@ -1,16 +1,15 @@
 {
   "id": "59901",
-  "score_overall": 3.0,
-  "score_lokacija": 2.5,
-  "score_roi": 4.0,
+  "score_overall": 3.9,
+  "score_lokacija": 3.0,
+  "score_roi": 5.0,
   "score_stanje": 3.0,
-  "recommendation": "pass",
-  "reasoning": "Oranica 4,685 ha u Moslavini Podravskoj za ~6.400 EUR/ha je tržišno cijenjena za agrarno zemljište Slavonije, ali nema investicijskog potencijala izvan primarne poljoprivrede. Likvidnost praktički ne postoji.",
+  "recommendation": "watch",
+  "reasoning": "Velika oranica od 4,68 ha u Podravini, ruralno i slabije naseljeno područje s ograničenom likvidnošću tržišta nekretnina. Površina parcele može biti zanimljiva isključivo agro-investitorima, inače slab investicijski case.",
   "flags": [
-    "čisto ruralno - Moslavina Podravska",
-    "isključivo agro investicija bez razvojnog potencijala",
-    "minimalna tržišna likvidnost"
+    "provjeriti: mogućnost poljoprivredne obrade i pristup parceli"
   ],
-  "input_hash": "0102b3fc214e",
-  "scored_at": "2026-04-23T07:49:30.335190"
+  "discount_pct": 20.0,
+  "input_hash": "e3029f8efccb",
+  "scored_at": "2026-07-08T08:35:35.026239"
 }

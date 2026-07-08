@@ -1,14 +1,16 @@
 {
   "id": "59518",
-  "score_overall": 3.7,
+  "score_overall": 4.7,
   "score_lokacija": 2.5,
-  "score_roi": 4.5,
-  "score_stanje": 4.0,
-  "recommendation": "pass",
-  "reasoning": "Vukovar je depopulacijska zona s minimalnom tržišnom likvidnošću, a suvlasništvo u 5/12 dijela dodatno komplicira prodaju, uknjižbu i svako buduće raspolaganje nekretninom. Unatoč 40% popustu, investicijski potencijal je vrlo ograničen.",
+  "score_roi": 6.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Vukovar je slabija istočnoslavonska lokacija s niskom likvidnošću unatoč 40% popustu na drugoj dražbi. Suvlasništvo ovršenika u samo 5/12 dijela dodatno komplicira upravljanje i preprodaju.",
   "flags": [
-    "suvlasničkih 5/12 dijela — otežana prodaja i uknjižba"
+    "suvlasništvo 5/12 dijela ovršenika",
+    "provjeriti: stanje objekta (nije opisano)"
   ],
-  "input_hash": "44e06a058953",
-  "scored_at": "2026-06-22T11:52:05.080119"
+  "discount_pct": 40.0,
+  "input_hash": "fa13663c1b79",
+  "scored_at": "2026-07-08T08:34:12.191376"
 }

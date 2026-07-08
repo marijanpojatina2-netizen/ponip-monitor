@@ -1,15 +1,15 @@
 {
   "id": "59006",
-  "score_overall": 3.0,
-  "score_lokacija": 2.5,
-  "score_roi": 4.5,
-  "score_stanje": 4.0,
-  "recommendation": "pass",
-  "reasoning": "Nuštar kraj Vinkovaca je istočnoslavonska lokacija s negativnim demografskim trendovima i gotovo nikakvom turističkom ili tržišnom perspektivom; 40% popust u drugoj dražbi ne mijenja strukturnu slabost regije. Potrebna provjera prodaje li se cijela nekretnina ili samo 3x1/3.",
+  "score_overall": 4.9,
+  "score_lokacija": 3.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Kuća i dvor u Nuštru (Slavonija) nude visok popust od 40% na drugoj dražbi, no ruralna lokacija s niskom likvidnošću i depopulacijom bitno ograničava investicijski potencijal. Stanje nekretnine nije detaljno opisano pa treba pretpostaviti potrebu za ulaganjem u obnovu.",
   "flags": [
-    "3 suvlasnika po 1/3 - provjeri opseg dražbe",
-    "Eastern Slavonija - najniža tržišna likvidnost u HR"
+    "provjeriti: stanje objekta i mogući troškovi obnove"
   ],
-  "input_hash": "f5c4d8667c76",
-  "scored_at": "2026-05-22T09:04:29.391089"
+  "discount_pct": 40.0,
+  "input_hash": "560d44f8d7c0",
+  "scored_at": "2026-07-08T08:26:55.241967"
 }

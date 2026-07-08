@@ -1,15 +1,15 @@
 {
   "id": "60548",
-  "score_overall": 3.5,
+  "score_overall": 3.9,
   "score_lokacija": 3.0,
-  "score_roi": 3.5,
-  "score_stanje": 4.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
   "recommendation": "pass",
-  "reasoning": "Ruralna lokacija u Poljani kod Novog Marofa s fragmentiranim parcelama (4 zasebne k.č. u 2 zk uloška) i skromnim tržišnim potencijalom – jedini scenarij rentabilnosti bio bi agro-turistički zakup ili vikend-tržište, što je spekulativno.",
+  "reasoning": "Kuća i poljoprivredno zemljište u zaseoku Poljana kod Novog Marofa nalaze se u ruralnom, slabije razvijenom području kontinentalne Hrvatske s niskom likvidnošću. Popust od svega 20% na prvoj dražbi ne kompenzira slabu lokaciju niti nepoznato stanje objekta.",
   "flags": [
-    "fragmentirane parcele – 4 k.č. u 2 različita zk uloška",
-    "ruralno Zagorje – slaba likvidnost i mala potražnja"
+    "provjeriti: stanje kuće i iskoristivost poljoprivrednih čestica"
   ],
-  "input_hash": "8b34138b458c",
-  "scored_at": "2026-06-04T09:55:25.617471"
+  "discount_pct": 20.0,
+  "input_hash": "18bda523639d",
+  "scored_at": "2026-07-08T08:26:55.242253"
 }

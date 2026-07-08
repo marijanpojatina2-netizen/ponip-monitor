@@ -1,16 +1,15 @@
 {
   "id": "60244",
-  "score_overall": 5.5,
-  "score_lokacija": 6.5,
-  "score_roi": 5.5,
+  "score_overall": 7.3,
+  "score_lokacija": 8.5,
+  "score_roi": 7.5,
   "score_stanje": 5.0,
-  "recommendation": "watch",
-  "reasoning": "Građevinsko zemljište na Braču (k.o. Nerežišća) ima solidnu turističku lokacijsku premiju, ali Nerežišća su unutrašnjost otoka bez direktnog morskog pristupa što značajno smanjuje vrijednost u odnosu na obalne lokacije. Popust od 25% na prvoj dražbi je umjeren, a neizgrađeno zemljište nosi rizik ishođenja dozvola i komunalnog opremanja što produžuje investicijski horizont.",
+  "recommendation": "deep_dive",
+  "reasoning": "Građevinsko zemljište na Braču (Nerežišća) uz 25% popust na prvoj dražbi predstavlja atraktivnu priliku u visoko traženoj turističkoj zoni s dobrim dugoročnim ROI potencijalom. Kao neizgrađeno zemljište zahtijeva provjeru infrastrukture i uvjeta gradnje prije ulaganja.",
   "flags": [
-    "građevinsko zemljište - nema objekta, potrebna gradnja",
-    "k.o. Nerežišća - unutrašnjost Brača, nije obalna lokacija",
-    "1900 m2 - provjeriti GUP/UPU ograničenja i koeficijent iskoristivosti"
+    "provjeriti: komunalna infrastruktura i uvjeti gradnje na parceli"
   ],
-  "input_hash": "7fc178c078af",
-  "scored_at": "2026-06-03T10:53:39.616700"
+  "discount_pct": 25.0,
+  "input_hash": "a00bf233a2a7",
+  "scored_at": "2026-07-08T08:26:55.241710"
 }

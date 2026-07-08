@@ -1,12 +1,15 @@
 {
   "id": "60821",
-  "score_overall": 6.2,
-  "score_lokacija": 6.5,
-  "score_roi": 6.5,
-  "score_stanje": 5.0,
-  "recommendation": "bid",
-  "reasoning": "Voćnjak od 248 m2 u k.o. Remete (poznato, atraktivnije podsljemensko područje Zagreba) po vrlo niskoj cijeni od ~131 EUR/m2, što uz solidnu veličinu čestice daje dobar omjer cijene i potencijala za buduću gradnju ili preprodaju. Prva dražba s 25% popusta ostavlja prostora za daljnji pad cijene ako ne bude interesa.",
-  "flags": [],
-  "input_hash": "132b6b164c98",
-  "scored_at": "2026-07-01T09:41:32.874927"
+  "score_overall": 5.3,
+  "score_lokacija": 7.0,
+  "score_roi": 5.0,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Mala parcela voćnjaka (248 m2) u atraktivnom zagrebačkom području Remete, no bez građevine, uz umjeren popust od 25% ROI je ograničen. Prodaja u stečajnom postupku traži dodatnu pravnu provjeru tereta.",
+  "flags": [
+    "provjeriti: stečajni postupak stečajnog dužnika - eventualni tereti i ograničenja"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "27c8f760038d",
+  "scored_at": "2026-07-08T08:36:50.146551"
 }

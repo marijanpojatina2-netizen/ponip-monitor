@@ -1,12 +1,15 @@
 {
   "id": "60660",
-  "score_overall": 4.0,
-  "score_lokacija": 4.0,
-  "score_roi": 5.0,
-  "score_stanje": 2.0,
+  "score_overall": 3.9,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
   "recommendation": "pass",
-  "reasoning": "Livada 2528 m² iz iste z.k.ul. 2755 k.o. Veliko Trgovišće, identičan investicijski profil susjednim parcelama ove dražbe. Bez objekta i s minimalnim popustom nema opravdanog investicijskog ulaza.",
-  "flags": [],
-  "input_hash": "a247651a285f",
-  "scored_at": "2026-06-19T10:26:46.388352"
+  "reasoning": "Predmet je isključivo livada u Velikom Trgovišću (Zagorje) bez ikakvog objekta, na prvoj dražbi s tek 20% popusta, što daje slab investicijski case. Nema stambene ni komercijalne vrijednosti bez dodatne investicije u gradnju.",
+  "flags": [
+    "provjeriti: namjena zemljišta i mogućnost gradnje/promjene namjene"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "60b9d986ada8",
+  "scored_at": "2026-07-08T08:24:20.550218"
 }

@@ -1,60 +1,44 @@
 {
   "id": "60094",
-  "score_overall": 5.0,
+  "score_overall": 5.1,
   "score_lokacija": 5.5,
   "score_roi": 5.5,
-  "score_stanje": 3.0,
+  "score_stanje": 3.5,
   "recommendation": "watch",
-  "reasoning": "Tri katastarske čestice ukupno 8.844 m² u poslovnoj zoni Rupa (UPU 23, K11) imaju stratešku lokaciju uz autocestu A7 (Rijeka–Rupa) i državnu cestu D8 tik uz slovensku granicu — idealan koridor za logistiku i skladišta prema Trstu i Ljubljani. Popust od 25% na procjenu daje ulaznu cijenu ~58,9 EUR/m², što je prihvatljivo za neizgrađeno komercijalno zemljište u ovoj regiji. Međutim, radi se isključivo o neizgrađenom terenu (livade, oranica) bez ikakvog objekta ili infrastrukture, što zahtijeva višegodišnji razvoj i kapital daleko iznad kupovne cijene. Za generičkog investitora projekt je prespecijaliziran i nelikvidan; za logističku kompaniju ili industrijskog developera s jasnim planom gradnje ovo je konkretan kandidat za due diligence.",
+  "reasoning": "Tri katastarske čestice ukupno 8.844 m² u poslovnoj zoni Rupa (UPU 23, K11), na strateškoj poziciji uz čvor autoceste A7 Rijeka-Rupa i granični prijelaz sa Slovenijom - dobra prometna pozicija za logistiku, skladištenje ili graničnu/tranzitnu trgovinu. Popust od 25% na prvoj dražbi je umjeren (ne izniman), a zemljište je trenutno neizgrađeno poljoprivredno zemljište (livada/oranica) koje tek treba komunalno opremiti i formalno privesti planiranoj poslovnoj namjeni. Krug potencijalnih kupaca je uzak (developeri logističkih/trgovačkih zona), što smanjuje likvidnost unatoč dobroj lokaciji uz prometnicu. Bez dodatne verifikacije infrastrukture i pravnog statusa čestica riječ je o špekulativnom razvojnom ulaganju, ne o gotovom proizvodu.",
   "flags": [
-    "Isključivo neizgrađeno zemljište — nema objekata, nema komunalne infrastrukture",
-    "Tri odvojene katastarske čestice (zk.ul. 852, 971, 1067) — spajanje/parcelacija je uvjet za gradnju",
-    "Stečajni postupak — moguće skrivene tražbine, hipoteke ili tereti na česticama",
-    "Zoniranje K (mješovita poslovna namjena) — stambena uporaba nije moguća",
-    "Prva dražba bez bonusa višestrukih dražbi",
-    "Niche lokacija — ograničen bazen krajnjih kupaca, izražena nelikvidnost"
+    "provjeriti: komunalna infrastruktura i priključci (struja, voda, odvodnja, pristupne ceste) unutar poslovne zone Rupa",
+    "provjeriti: usklađenost katastarske namjene (livada/oranica) s planiranom poslovnom namjenom K prema UPU 23 i postupak prenamjene zemljišta",
+    "provjeriti: status i međuodnos triju odvojenih zk.ul./čestica (731/1, 736/1, 733) - eventualna potreba parcelacije/komasacije za jedinstven investicijski projekt",
+    "provjeriti: postojanje tereta, služnosti ili ograničenja vezanih uz blizinu granice, D8 i autoceste A7"
   ],
   "market_estimate": {
-    "eur_min": 500000,
-    "eur_max": 720000,
+    "eur_min": 550000,
+    "eur_max": 750000,
     "confidence": "low",
-    "basis": "Web pretraga nije bila dostupna. Procjena temeljena na poznatim transakcijama poslovnih zona uz autoceste u Primorju: neizgrađeno komercijalno/industrijsko zemljište u PGŽ kreće se 50–100 EUR/m² ovisno o lokaciji, priključcima i dokumentaciji. Sudska procjena 78,5 EUR/m² je u sredini raspona, što znači da procjenitelj nije agresivno vrednovao. Tržišna vrijednost blizu procjene uz popust koji čini ulaz razumnim, ali ne spektakularnim."
+    "basis": "Web pretraga nije bila dostupna u ovoj sesiji pa procjena nije potvrđena aktualnim oglasima. Temelji se na tipičnim cijenama neopremljenog poslovnog zemljišta u PGŽ (okvirno 50-90 EUR/m2 za zone s planiranom, ali djelomično razvijenom infrastrukturom), uvećanim zbog strateške pozicije uz granični prijelaz Rupa i čvor autoceste Rijeka-Trst-Ljubljana. Procijenjena vrijednost suda (694.000 EUR, ~78,5 EUR/m2) je unutar ove realne raspone."
   },
   "comparables": [
     {
-      "opis": "Industrijsko-poslovno zemljište, Kukuljanovo (poslovna zona kraj Rijeke), ~8.500 m²",
-      "cijena": 595000,
-      "m2": 8500,
-      "izvor": "njuskalo.hr (procjena iz pamćenja tržišnih oglasa 2024-2025)",
-      "url": "https://www.njuskalo.hr/prodaja-zemljista/poslovne-zone-primorje"
-    },
-    {
-      "opis": "Poslovna zona Matulji, neizgrađena parcela uz A7, ~6.000 m²",
-      "cijena": 420000,
-      "m2": 6000,
-      "izvor": "nekretnine.net (procjena)",
-      "url": "https://www.nekretnine.net/stambeni-objekti/zemljista/lista/tip-poslovnog-prostora-industrijsko/"
-    },
-    {
-      "opis": "Logistički park Škrljevo (Rijeka), komercijalna parcela uz AC",
-      "cijena": 680000,
-      "m2": 9200,
-      "izvor": "CBRE Croatia / JLL Adriatic (tržišni izvještaj 2025)",
-      "url": "https://www.cbre.hr/research-and-reports"
+      "opis": "Poslovno zemljište u zonama uz granične prijelaze/autocestu u PGŽ i Istri (opća tržišna razina, nije specifičan oglas)",
+      "cijena": null,
+      "m2": null,
+      "izvor": "procjena na temelju općeg poznavanja tržišta - nije potvrđeno web pretragom",
+      "url": null
     }
   ],
-  "investment_strategy": "RAZVOJ LOGISTIKE ILI LAND BANKING: Primarni scenarij je akvizicija radi razvoja logističkog/skladišnog objekta (5.000–7.000 m² GBP) koristeći strateški položaj uz A7 i graničnu blizinu Šapjana. Koridor Rijeka–Ljubljana–Trst bilježi rast logističke potražnje (lučki promet Rijeke +15% 2023-2025). Sekundarni scenarij je land banking — kupnja i preprodaja logističkoj kompaniji (DHL, GLS, DB Schenker, Waberer's) ili REIT-u koji razvija Jadransko-baltički koridor, u horizontu 3–5 godina. Nije prikladno za rezidencijalni razvoj, kratkotrajni najam ni brzo preseljenje kapitala.",
-  "entry_price_eur": 480000,
+  "investment_strategy": "razvoj/land banking - zemljište zadržati i pripremiti (riješiti prenamjenu i komunalno opremanje) za prodaju logističkom, trgovačkom ili tranzitnom investitoru (skladišni kompleks, granični duty-free/trgovački sadržaj, benzinska postaja) koji cilja poziciju uz A7 i granični prijelaz Rupa; ne preporučuje se kratkoročni flip zbog niske trenutne likvidnosti neopremljenog zemljišta.",
+  "entry_price_eur": 470000,
   "detailed_risks": [
-    "Komunalna infrastruktura: priključenje struje, vode, kanalizacije i internog pristupnog puta može koštati 150.000–350.000 EUR dodatno",
-    "Ishođenje građevinske dozvole za poslovni objekt u RH: realno 2–4 godine uz izmjenu UPU-a ako sadašnji plan ne dopušta željenu namjenu",
-    "Tri odvojene čestice otežavaju jedinstven projekt — potrebna geodetska elaboracija spajanja i suglasnost ureda za katastar",
-    "Stečajni postupak: obvezna provjera ZK izvadaka za eventualne hipoteke, zabilježbe spora ili stvarna prava trećih",
-    "Ograničena likvidnost: komercijalno zemljište ove veličine u Rupi može čekati kupca 2–5 godina bez aktivnog marketinga prema industrijskim investitorima",
-    "Makro rizik: usporavanje EU fondova ili regulatorna kašnjenja mogu prolongirati logistički razvoj u ovoj zoni"
+    "Zemljište je u katastru vođeno kao poljoprivredno (livada/oranica) unatoč planiranoj poslovnoj namjeni - prenamjena može potrajati i nije zajamčena",
+    "Nema podataka o razini komunalnog opremanja zone (struja, voda, kanalizacija, pristupne ceste)",
+    "Tri odvojene katastarske čestice/zk uloška - moguća potreba parcelacije, komasacije ili usklađenja granica",
+    "Stečajna prodaja - obavezan due diligence tereta, upisanih prava i eventualnih sporova prije licitacije",
+    "Uzak krug potencijalnih kupaca (logistika/trgovina) smanjuje likvidnost i otežava brz izlaz iz investicije"
   ],
-  "upside_scenario": "Akvizicija za 480–520k EUR + 200–300k EUR infrastruktura/dozvole = ukupna investicija ~700–820k EUR. Logistički objekt 6.000 m² GBP s dugoročnim najmom (NNN ugovor) procijenjen na 5,5–6% cap rate = vrijednost objekta 1,4–1,8M EUR u horizontu 4–5 godina. ROI 70–120% uz leverage, ili preprodaja zemljišta s dozvolama za 950–1.100k EUR ako development nije u planu.",
-  "downside_scenario": "Neuspješan razvoj ili izostanak industrijskog kupca: land banking se proteže 7+ godina, zoniranje se ne razvija prema planu, a tržište stagnira. Prodaja na sekundarnom tržištu po 45–55 EUR/m² = 397–486k EUR — gubitak 5–20% nominalno, realno 25–35% kad se uračunaju oportunitetni trošak kapitala, porezi i troškovi transakcije.",
-  "input_hash": "4facd9ae9cb6",
-  "scored_at": "2026-05-08T07:32:04.874499"
+  "upside_scenario": "Uz uspješnu prenamjenu zemljišta i osiguran pristup komunalnoj infrastrukturi, pozicija uz izlaz autoceste A7 i granični prijelaz Rupa može privući logističkog ili trgovačkog investitora, s preprodajom u rasponu 100-150 EUR/m2 (cca 880.000 - 1.320.000 EUR) u roku 2-3 godine, uz ROI od 50-80% nakon troškova opremanja.",
+  "downside_scenario": "Ako se prenamjena zemljišta ili komunalno opremanje pokažu sporima ili neizvedivima u razumnom roku, ili se pojave neriješeni tereti iz stečajnog postupka, zemljište ostaje nelikvidna, neplodonosna imovina bez najma/prihoda, s ograničenim brojem kupaca i teškim izlazom iz pozicije čak i uz dodatno sniženje cijene.",
+  "discount_pct": 25.0,
+  "input_hash": "36b59cf5649b",
+  "scored_at": "2026-07-08T08:47:32.008300"
 }

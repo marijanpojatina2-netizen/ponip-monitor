@@ -1,12 +1,13 @@
 {
   "id": "59850",
-  "score_overall": 4.5,
+  "score_overall": 5.2,
   "score_lokacija": 4.5,
-  "score_roi": 4.5,
-  "score_stanje": 5.0,
+  "score_roi": 5.5,
+  "score_stanje": 5.5,
   "recommendation": "watch",
-  "reasoning": "Prelog je manji međimurski grad s ograničenom tržišnom likvidnošću; kuća 100m2 s gospodarskim objektom i voćnjakom solidna je za stanovanje ali bez snažnog investicijskog katalizatora. Samo 20% popusta na prvoj dražbi ne kompenzira slabu potražnju u regiji.",
+  "reasoning": "Stambena i gospodarska zgrada s voćnjakom u Prelogu (Međimurje) uz popust od 20% na prvoj dražbi predstavlja standardnu, ali ne izrazito atraktivnu priliku. Lokacija i ROI su umjereni.",
   "flags": [],
-  "input_hash": "9f95e0f1a9e6",
-  "scored_at": "2026-04-21T11:02:50.933422"
+  "discount_pct": 20.0,
+  "input_hash": "d49d22d656f9",
+  "scored_at": "2026-07-08T08:29:39.017846"
 }

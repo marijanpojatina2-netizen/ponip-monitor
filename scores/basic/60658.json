@@ -1,12 +1,13 @@
 {
   "id": "60658",
-  "score_overall": 4.0,
-  "score_lokacija": 4.0,
-  "score_roi": 5.0,
+  "score_overall": 3.6,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
   "score_stanje": 2.0,
   "recommendation": "pass",
-  "reasoning": "Livada 2219 m² u k.o. Veliko Trgovišće, identičan profil ostatku serije iz iste z.k.ul. 2755. Bez razvojnog potencijala i s popustom na donjoj granici 20-40% raspona uz nisku regionalnu likvidnost — pass.",
+  "reasoning": "Susjedna čestica istoj livadi u Velikom Trgovišću (isti zk.ul. 2755), identična ruralna lokacija i slab investicijski profil. Popust od 20% nije dovoljan poticaj za neizgrađeno poljoprivredno zemljište u slabo likvidnoj regiji.",
   "flags": [],
-  "input_hash": "be6fa0138856",
-  "scored_at": "2026-06-19T10:26:46.388604"
+  "discount_pct": 20.0,
+  "input_hash": "0726154fd17b",
+  "scored_at": "2026-07-08T08:25:33.381553"
 }

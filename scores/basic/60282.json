@@ -1,16 +1,13 @@
 {
   "id": "60282",
-  "score_overall": 3.0,
-  "score_lokacija": 4.0,
-  "score_roi": 3.0,
+  "score_overall": 5.0,
+  "score_lokacija": 6.5,
+  "score_roi": 5.0,
   "score_stanje": 2.5,
-  "recommendation": "pass",
-  "reasoning": "Pašnjak male površine (~349 m²) u Prizni - mjestašcu koje je isključivo trajektno pristanište prema Jablancu bez ikakve turističke infrastrukture ili razvojnog potencijala. Bez gradivne namjene i uz izoliranu lokaciju nema investicijskog case-a.",
-  "flags": [
-    "pašnjak bez gradivnog potencijala",
-    "Prizna - samo trajektno pristanište, bez infrastrukture",
-    "mala površina ~349 m²"
-  ],
-  "input_hash": "ecd0f7e8603b",
-  "scored_at": "2026-05-20T09:32:40.833079"
+  "recommendation": "watch",
+  "reasoning": "Prizna je obalna lokacija uz trajektnu vezu za Rab u sklopu jadranske magistrale, što joj daje solidan turistički potencijal unatoč tome što je formalno nadležan sud u Crikvenici. Radi se tek o manjem pašnjaku (97 čhv) bez objekta, pa je razvojni potencijal ograničen samo na zemljište.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "9cf38ef43d46",
+  "scored_at": "2026-07-08T08:38:03.524170"
 }

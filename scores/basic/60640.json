@@ -1,14 +1,15 @@
 {
   "id": "60640",
-  "score_overall": 4.5,
-  "score_lokacija": 5.0,
-  "score_roi": 4.0,
-  "score_stanje": 5.0,
-  "recommendation": "pass",
-  "reasoning": "Čakovec kao sjedište Međimurske županije nudi relativno dobru lokaciju, ali predmet prodaje je samo 1/2 suvlasničkog dijela (3. suvlasnički dio) što rezultira iznimno složenom vlasničkom strukturom koja praktički blokira samostalne dispozicije. Uz samo 20% popust, pravna kompleksnost daleko nadmašuje potencijalnu korist.",
+  "score_overall": 5.1,
+  "score_lokacija": 5.5,
+  "score_roi": 5.0,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Kuća na adresi Preloška 42 u samom Čakovcu ima solidnu lokacijsku vrijednost kao sjedište Međimurske županije, no prodaje se samo 1/2 suvlasničkog dijela ovršenika (Grad Čakovec), što komplicira stjecanje pune raspoloživosti nekretnine. Popust od 20% na prvoj dražbi je standardan za regiju.",
   "flags": [
-    "suvlasništvo (1/2 dijela, 3. suvlasnički dio — izrazito složena vlasnička struktura)"
+    "prodaje se samo 1/2 suvlasničkog dijela nekretnine"
   ],
-  "input_hash": "c31f4a232300",
-  "scored_at": "2026-06-16T11:08:10.239147"
+  "discount_pct": 20.0,
+  "input_hash": "6e0677ddcf5f",
+  "scored_at": "2026-07-08T08:32:45.562733"
 }

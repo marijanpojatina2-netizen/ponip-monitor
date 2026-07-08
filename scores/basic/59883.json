@@ -1,16 +1,14 @@
 {
   "id": "59883",
   "score_overall": 4.5,
-  "score_lokacija": 5.0,
-  "score_roi": 4.5,
-  "score_stanje": 4.0,
+  "score_lokacija": 4.0,
+  "score_roi": 5.0,
+  "score_stanje": 4.5,
   "recommendation": "watch",
-  "reasoning": "Kuća s dvorištem, vinogradom i voćnjakom u Međimurju nudi potencijal za ruralni turizam i vinarstvo jer je Međimurje jedna od ekonomski zdravijih kontinentalnih županija, no opis je minimalan, stanje kuće nepoznato, a 20% popusta na prvoj dražbi ne oduševljava.",
-  "flags": [
-    "stanje objekta nepoznato – nema opisa habitabilnosti",
-    "stari katastarski zapisi (mjera čhv) – moguće nejasnoće u knjigama",
-    "agrotourizam potencijal neizvjestan bez dokumentacije GUP-a"
-  ],
-  "input_hash": "9c773d97bd49",
-  "scored_at": "2026-04-24T08:04:31.657406"
+  "reasoning": "III Brežni Kotar je manje mjesto u Međimurju s umjerenom likvidnošću, a popust od 20% na prvoj dražbi daje tek prosječan ROI. Kuća s vinogradom i voćnjakom čini standardnu ruralnu nekretninu bez posebnih dodatnih vrijednosti.",
+  "recommendation2": null,
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "b83a916011b3",
+  "scored_at": "2026-07-08T08:38:03.524519"
 }

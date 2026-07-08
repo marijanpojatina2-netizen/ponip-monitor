@@ -1,17 +1,15 @@
 {
   "id": "60451",
-  "score_overall": 3.5,
-  "score_lokacija": 3.0,
+  "score_overall": 3.3,
+  "score_lokacija": 2.0,
   "score_roi": 4.5,
-  "score_stanje": 4.0,
+  "score_stanje": 3.0,
   "recommendation": "pass",
-  "reasoning": "Kuća s dvorištem u selu Dubovik kod Slavonskog Broda — samo 20% popust na prvoj dražbi, duboka Slavonija s izrazito slabom potražnjom i depopulacijom; investicijski case praktički ne postoji bez značajnog diskonta.",
+  "reasoning": "Kuća s dvorištem u selu Dubovik kraj Slavonskog Broda nalazi se u ruralnom, depopulacijskom području sa slabom likvidnošću, a popust od tek 20% na prvoj dražbi ne kompenzira slab lokacijski potencijal. Opis ne daje detalje o stanju objekta, što upućuje na vjerojatnu potrebu značajnijeg ulaganja.",
   "flags": [
-    "prva dražba - minimalni popust 20%",
-    "depopulacijsko područje Slavonije",
-    "selo - ekstremno niska likvidnost",
-    "stara kuća nepoznatog stanja"
+    "provjeriti: stvarno stanje i useljivost kuće - opis ne sadrži detalje"
   ],
-  "input_hash": "5eca1a09c933",
-  "scored_at": "2026-06-01T11:30:14.531478"
+  "discount_pct": 20.0,
+  "input_hash": "0f965c211d93",
+  "scored_at": "2026-07-08T08:39:52.771756"
 }

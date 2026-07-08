@@ -1,12 +1,15 @@
 {
   "id": "60486",
-  "score_overall": 3.2,
-  "score_lokacija": 3.0,
-  "score_roi": 3.5,
+  "score_overall": 4.0,
+  "score_lokacija": 4.0,
+  "score_roi": 4.5,
   "score_stanje": 3.0,
   "recommendation": "pass",
-  "reasoning": "Čista oranica u ruralnom Gornjem Muću, dalmatinskom zaleđu Splita; samo 20% popusta na prvoj dražbi za golo poljoprivredno zemljište bez građevinskog ni izravnog turističkog potencijala ne gradi investicijski case.",
-  "flags": [],
-  "input_hash": "805b9a97a0c0",
-  "scored_at": "2026-06-24T09:25:52.360622"
+  "reasoning": "Oranica u Gornjem Muću, brdovito ruralno zaleđe Splita bez razvijene infrastrukture i bez izgrađenosti. Popust od 20% na prvoj dražbi nije dovoljno atraktivan za čisto poljoprivredno zemljište.",
+  "flags": [
+    "provjeriti: namjena i pristupačnost zemljišta (oranica, poljoprivredna namjena)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "42bb51f34315",
+  "scored_at": "2026-07-08T08:35:35.025917"
 }

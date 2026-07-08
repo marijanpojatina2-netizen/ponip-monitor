@@ -1,16 +1,16 @@
 {
   "id": "58411",
-  "score_overall": 3.5,
-  "score_lokacija": 4.0,
-  "score_roi": 5.5,
-  "score_stanje": 4.5,
-  "recommendation": "pass",
-  "reasoning": "40% popust na drugoj dražbi uz nisku apsolutnu cijenu (~23.5k EUR) privlači pažnju, ali ključni crveni alarm je što nekretninu prodaju u suvlasništvu ovrhovoditeljica i ovršenica – tj. dvije strane u sudskom sporu su suvlasnici, što ukazuje na visok potencijal za daljnje pravne komplikacije. Ruralna Breznica kod Varaždina nema investicijskog potencijala koji bi opravdao preuzimanje tog rizika.",
+  "score_overall": 5.2,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Breznica kod Varaždina je slabija ruralna lokacija, no 40% popust na drugoj dražbi za kuću i dvorište daje pristojan ROI potencijal. Suvlasništvo je podijeljeno između ovrhovoditeljice i ovršenice što je neuobičajena konstelacija koju treba dodatno razjasniti.",
   "flags": [
-    "suvlasništvo stranaka u sporu (ovrhovoditeljica + ovršenica) – visoki pravni rizik",
-    "ruralna lokacija niske likvidnosti",
-    "mala površina (97 m2 kuće + 180 m2 dvorište)"
+    "suvlasništvo ovrhovoditeljice i ovršenice",
+    "provjeriti: dinamika zajedničkog vlasništva"
   ],
-  "input_hash": "57a98fd54641",
-  "scored_at": "2026-04-30T08:18:34.304569"
+  "discount_pct": 40.0,
+  "input_hash": "4b3bd51b0d14",
+  "scored_at": "2026-07-08T08:34:12.192933"
 }

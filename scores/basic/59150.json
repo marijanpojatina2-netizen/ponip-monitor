@@ -1,16 +1,16 @@
 {
   "id": "59150",
-  "score_overall": 3.0,
+  "score_overall": 4.6,
   "score_lokacija": 2.5,
-  "score_roi": 5.5,
-  "score_stanje": 4.5,
-  "recommendation": "pass",
-  "reasoning": "Marinci kraj Vinkovaca su duboka depopulacijska Slavonija s gotovo nultom likvidnošću tržišta nekretnina – čak ni 40% popust ne može kompenzirati rizik da nekretnina ostane u portfelju godinama bez kupca. Ovo je tipičan slučaj gdje cijena ne reflektira stvarnu tržišnu nemogućnost izlaza.",
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća s dvorištem i oranicom u Marincima kod Vinkovaca uz 40% popust na drugoj dražbi nudi zanimljiv ROI zbog kombinacije objekta i zemljišta, no depopulacijsko slavonsko područje nosi rizik slabe likvidnosti. Stanje kuće nije opisano pa je potrebna dodatna provjera.",
   "flags": [
-    "izrazita depopulacijska zona, Vinkovci hinterland",
-    "ekstremno niska tržišna likvidnost",
-    "dugi izlazni horizont bez realnog kupca"
+    "provjeriti: stanje kuće",
+    "provjeriti: useljenost"
   ],
-  "input_hash": "e7b7ffc9cef6",
-  "scored_at": "2026-05-29T09:53:08.257218"
+  "discount_pct": 40.0,
+  "input_hash": "c26172e7a383",
+  "scored_at": "2026-07-08T08:39:07.039139"
 }

@@ -1,15 +1,16 @@
 {
   "id": "60569",
-  "score_overall": 3.5,
-  "score_lokacija": 3.0,
-  "score_roi": 4.0,
-  "score_stanje": 4.5,
-  "recommendation": "pass",
-  "reasoning": "Mješovita parcela (livada + kuća + dvorište, 734 m²) u Veleškovcu pokraj Karlovca uz 25% popust na prvoj dražbi ne nudi dovoljan risk/reward profil za investitora; seoska lokacija s niskom likvidnošću i mješovitom namjenom ne opravdava angažman kapitala.",
+  "score_overall": 4.2,
+  "score_lokacija": 2.5,
+  "score_roi": 5.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Nekretnina u k.o. Veleškovec ruralna je i malog opsega, no 25% popusta na prvoj dražbi daje umjeren ROI potencijal. Nadležnost suda (Zagreb/Karlovac) ne odgovara očekivanoj lokaciji čestice pa je potrebna provjera stvarnog položaja i stanja objekta.",
   "flags": [
-    "ruralna lokacija - nizak likviditet Karlovac okolica",
-    "mješovita namjena parcele (livada + kuća) otežava jednostavnu procjenu i marketing"
+    "provjeriti: točna lokacija nekretnine (nadležnost suda ne upućuje jasno na k.o. Veleškovec)",
+    "provjeriti: stanje objekta"
   ],
-  "input_hash": "11dd451eb43e",
-  "scored_at": "2026-06-09T09:40:48.018237"
+  "discount_pct": 25.0,
+  "input_hash": "d6f69919d1d4",
+  "scored_at": "2026-07-08T08:28:18.436932"
 }

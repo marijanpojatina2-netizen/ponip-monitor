@@ -1,16 +1,13 @@
 {
   "id": "59228",
-  "score_overall": 4.5,
+  "score_overall": 5.1,
   "score_lokacija": 3.5,
-  "score_roi": 7.0,
+  "score_roi": 6.5,
   "score_stanje": 4.5,
   "recommendation": "watch",
-  "reasoning": "Gospić nudi 40% popust i drugu dražbu što je solidna matematika, ali lička regija ima jednu od najnižih likvidnosti nekretnina u RH s minimalnom potražnjom i teškim exit scenarijem; prati za treću dražbu ili pad cijene, no aktivno licitiranje zahtijeva specifičnu lokalnu strategiju.",
-  "flags": [
-    "Gospić - izrazito niska tržišna likvidnost",
-    "Lika - demografski pad i ekonomska stagnacija",
-    "stanje kuće nije opisano u detaljima"
-  ],
-  "input_hash": "d861d21a643e",
-  "scored_at": "2026-06-01T11:29:44.603070"
+  "reasoning": "Kuća s dvorištem i oranicom u Gospiću uz popust od 40% na drugoj dražbi djeluje privlačno na papiru, ali slaba likvidnost regije Like ograničava realni investicijski potencijal.",
+  "flags": [],
+  "discount_pct": 40.0,
+  "input_hash": "e2672cc2e6d8",
+  "scored_at": "2026-07-08T08:29:39.018610"
 }

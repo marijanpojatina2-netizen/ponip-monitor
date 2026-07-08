@@ -1,12 +1,13 @@
 {
   "id": "59560",
-  "score_overall": 4.3,
-  "score_lokacija": 3.5,
-  "score_roi": 5.5,
-  "score_stanje": 3.0,
+  "score_overall": 4.4,
+  "score_lokacija": 3.0,
+  "score_roi": 6.5,
+  "score_stanje": 2.0,
   "recommendation": "pass",
-  "reasoning": "Livada u Svetom Križu Začretje — ruralno Zagorje bez turističkog ili urbanog potencijala; 40% popust je graničan ali nelikvidna poljoprivredna parcela bez građevinskog potencijala drastično ograničava izlaznu strategiju.",
+  "reasoning": "Livada bez ikakve izgrađenosti u Svetom Križu Začretju, ruralno zagorsko područje. Unatoč 40% popustu na drugoj dražbi, mala površina i nedostatak objekta ograničavaju investicijski potencijal.",
   "flags": [],
-  "input_hash": "932785547b6e",
-  "scored_at": "2026-06-29T10:55:43.086056"
+  "discount_pct": 40.0,
+  "input_hash": "30344cfc629d",
+  "scored_at": "2026-07-08T08:35:35.027947"
 }

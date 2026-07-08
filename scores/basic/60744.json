@@ -1,12 +1,15 @@
 {
   "id": "60744",
-  "score_overall": 4.4,
-  "score_lokacija": 4.5,
-  "score_roi": 4.0,
-  "score_stanje": 5.0,
+  "score_overall": 4.5,
+  "score_lokacija": 4.0,
+  "score_roi": 5.0,
+  "score_stanje": 4.5,
   "recommendation": "watch",
-  "reasoning": "Kuća s dvorištem u Kutini (vlasništvo 1/1, 1782 m² čestica) pruža čistu vlasničku strukturu i solidan stambeni objekt, ali Kutina je manji industrijski grad s ograničenim potencijalom rasta cijena i slabijom likvidnošću. Samo 20% popust na prvoj dražbi ne opravdava aktivno licitiranje bez daljnje provjere stanja objekta.",
-  "flags": [],
-  "input_hash": "12aa66307d66",
-  "scored_at": "2026-06-24T09:27:38.289814"
+  "reasoning": "Kuća s okućnicom i oranicom u Kutini (1782 m2) u punom vlasništvu ovršenika, ali popust od svega 20% na prvoj dražbi u slabije likvidnoj lokaciji ne nudi jak ROI. Stanje objekta nije detaljno opisano pa ga treba provjeriti na terenu.",
+  "flags": [
+    "provjeriti: stanje objekta (nije opisano u oglasu)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "6fa958f81bac",
+  "scored_at": "2026-07-08T08:36:50.146070"
 }

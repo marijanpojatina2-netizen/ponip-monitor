@@ -1,16 +1,16 @@
 {
   "id": "58507",
-  "score_overall": 3.5,
-  "score_lokacija": 2.5,
-  "score_roi": 4.5,
-  "score_stanje": 4.0,
-  "recommendation": "pass",
-  "reasoning": "Baranjsko-slavonska lokacija s pretežno oranicama i šumom u depopulacijskom području oko Belog Manastira nudi vrlo nisku likvidnost i minimalnu potražnju investitora. Unatoč 40% popustu na drugoj dražbi, tip i lokacija nekretnine ne opravdavaju angažman.",
+  "score_overall": 4.3,
+  "score_lokacija": 2.0,
+  "score_roi": 7.0,
+  "score_stanje": 2.5,
+  "recommendation": "watch",
+  "reasoning": "Veliko poljoprivredno-šumsko zemljište u Baranji (depopulacijsko područje) bez građevina, ali 40% popusta na drugoj dražbi čini ga zanimljivim isključivo kao jeftina zemljišna akvizicija za dugoročno land-banking. Slaba likvidnost regije ograničava realan ROI unatoč niskoj cijeni.",
   "flags": [
-    "suvlasništvo I i II ovrhovoditelja i ovršenika – kompleksna vlasnička struktura",
-    "pretežno poljoprivredno i šumsko zemljište bez razvojnog potencijala",
-    "depopulacijsko područje Baranje – niska likvidnost izlaza"
+    "provjeriti: suvlasništvo više strana (I. i II. ovrhovoditelj i ovršenik)",
+    "provjeriti: nekretnine se prodaju isključivo kao skupni predmet (nije moguća parcijalna kupnja)"
   ],
-  "input_hash": "d7b9e6be7037",
-  "scored_at": "2026-04-24T08:04:31.656885"
+  "discount_pct": 40.0,
+  "input_hash": "1af8fc7b7300",
+  "scored_at": "2026-07-08T08:31:07.282700"
 }

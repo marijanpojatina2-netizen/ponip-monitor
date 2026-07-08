@@ -1,16 +1,13 @@
 {
   "id": "60440",
-  "score_overall": 5.0,
+  "score_overall": 5.6,
   "score_lokacija": 3.5,
   "score_roi": 7.5,
-  "score_stanje": 4.5,
-  "recommendation": "watch",
-  "reasoning": "Kuća 140 m² s okućnicom 1675 m² u Radoboju nudi izuzetno nisku startnu cijenu (~22K EUR) zahvaljujući kombinaciji 40% popusta i druge dražbe, što je financijski zanimljivo. Ruralna Zagorsaka lokacija s depopulacijskim trendom ozbiljno limitira exit strategije i aprecijaciju vrijednosti.",
-  "flags": [
-    "ruralna lokacija - ograničena likvidnost i potražnja",
-    "starija kuća - vjerojatno potrebna značajna obnova",
-    "depopulacijska tendencija Krapinskog područja"
-  ],
-  "input_hash": "47a428574916",
-  "scored_at": "2026-05-26T09:52:03.476478"
+  "score_stanje": 5.0,
+  "recommendation": "bid",
+  "reasoning": "Kuća s dvorištem i voćnjakom u Radoboju kraj Krapine, druga dražba s 40% popusta daje solidan ROI potencijal. Lokacija je ruralna ali blizu manjeg grada, a stanje objekta prema opisu standardno.",
+  "flags": [],
+  "discount_pct": 40.0,
+  "input_hash": "3227c3dc56de",
+  "scored_at": "2026-07-08T08:35:35.027074"
 }

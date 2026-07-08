@@ -1,14 +1,13 @@
 {
   "id": "59659",
-  "score_overall": 4.8,
-  "score_lokacija": 4.5,
-  "score_roi": 5.5,
-  "score_stanje": 4.0,
-  "recommendation": "watch",
-  "reasoning": "Kuća 110 m² s 2600 m² okućnice u k.o. Strmec (blizina Zaboka) s 40% popustom na drugoj dražbi donosi skroman potencijal za Zagorje. Suvlasništvo 4 ovršenika u nejednakim udjelima (8/24, 14/24, 1/24, 1/24) unosi pravnu složenost i može otežati ili usporiti stjecanje čiste vlasničke strukture.",
-  "flags": [
-    "suvlasništvo (4 ovršenika)"
-  ],
-  "input_hash": "3a2c634c2932",
-  "scored_at": "2026-06-30T09:30:49.480754"
+  "score_overall": 5.8,
+  "score_lokacija": 3.5,
+  "score_roi": 8.0,
+  "score_stanje": 5.0,
+  "recommendation": "bid",
+  "reasoning": "Kuća od 110 m2 s okućnicom u Strmecu (Zagorje) prodaje se u punom vlasništvu (zbroj svih suvlasničkih dijelova iznosi 1/1) na drugoj dražbi uz visok popust od 40%, što daje dobru ROI maržu. Ruralna lokacija ograničava potencijal rasta cijene, ali odsutnost vlasničkih komplikacija čini ovo realnim kandidatom za licitaciju.",
+  "flags": [],
+  "discount_pct": 40.0,
+  "input_hash": "d51c12e7d08e",
+  "scored_at": "2026-07-08T08:32:45.563066"
 }

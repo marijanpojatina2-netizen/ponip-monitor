@@ -1,64 +1,37 @@
 {
   "id": "59374",
-  "score_overall": 6.8,
-  "score_lokacija": 6.0,
-  "score_roi": 8.5,
-  "score_stanje": 4.5,
-  "recommendation": "deep_dive",
-  "reasoning": "Industrijska zgrada 1.753 m² s dvorištem 1.389 m² u k.o. Šarampov (Zagreb) nudi izuzetan ROI potencijal zahvaljujući 50% popustu na drugoj dražbi — početna cijena od ~285 EUR/m² za samu zgradu ili ~159 EUR/m² za ukupnu površinu drastično je ispod tržišnih vrijednosti industrijskog segmenta u glavnom gradu. Opis je izuzetno štur: nema podataka o godini gradnje, konstruktivnom stanju, infrastrukturnim priključcima ni useljenosti, što onemogućava realnu procjenu troška dorade. Stečajni kontekst i nepotpune informacije zahtijevaju obvezni uvid u spis, ZK izvadak i fizičko razgledavanje prije bilo kakve odluke o licitaciji.",
+  "score_overall": 4.8,
+  "score_lokacija": 3.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Industrijska zgrada (1753 m2) i dvorište (1389 m2) u k.o. Šarampov, ruralnom pograničnom području uz slovensku granicu (Varaždinska županija), s niskom likvidnošću tržišta industrijskih nekretnina izvan većih gradova. Popust od 50% na drugoj dražbi je atraktivan, ali opis ne otkriva stanje objekta niti infrastrukturnu opremljenost, što je ključna nepoznanica. Riječ je o stečajnom postupku (Trgovački sud u Zagrebu), pa je potrebna dodatna provjera tereta u zk. izvatku. Bez uvida u stanje i realnu potražnju za industrijskim prostorom na toj mikrolokaciji, preporuka je praćenje do razgledavanja objekta.",
   "flags": [
-    "opis minimalan — stanje zgrade nepoznato, provjeri godinu gradnje i konstruktivni nalaz",
-    "stečajni postupak — provjeri aktivna razlučna prava, hipoteke i moguće upisnike tereta u ZK",
-    "k.o. Šarampov — verificiraj točnu fizičku lokaciju i namjensku zonu (GUP Zagreb)"
+    "provjeriti: stanje i opremljenost industrijske zgrade (opis ne navodi stanje)",
+    "provjeriti: infrastrukturni priključci (struja, voda, kanalizacija, plin)",
+    "provjeriti: prometna dostupnost i stvarna udaljenost od granice/glavnih prometnica",
+    "provjeriti: urbanistički uvjeti i mogućnost prenamjene",
+    "provjeriti: postojanje tereta/hipoteka u zk. izvatku s obzirom na stečajni postupak"
   ],
   "market_estimate": {
-    "eur_min": 700000,
-    "eur_max": 1350000,
-    "confidence": "medium",
-    "basis": "Industrijske nekretnine u Zagrebačkoj aglomeraciji (ovisno o klasi i lokaciji zone): starije hale klase B/C: 400–700 EUR/m², novije ili renovirane klase A: 800–1.200 EUR/m². Za 1.753 m² zgrade u industrijskoj zoni Zagreba tržišna vrijednost kreće se 700k–1,35M EUR ovisno o stanju; dvorište (1.389 m²) dodaje vrijednost kroz parkirišni/logistički potencijal."
+    "eur_min": 350000,
+    "eur_max": 650000,
+    "confidence": "low",
+    "basis": "WebSearch alat nije bio dostupan u ovoj sesiji (permission nije odobren), pa procjena nije potkrijepljena live pretragom tržišta. Raspon je okvirna procjena za industrijsku nekretninu (zgrada+dvorište, ~3142 m2 ukupno) u ruralnom pograničnom području sjeverne Hrvatske, temeljena na tipičnim cijenama industrijskih objekata izvan urbanih centara (procjena, ne tržišni nalaz)."
   },
-  "comparables": [
-    {
-      "opis": "Industrijska hala ~1.500 m² + ured, Žitnjak/Jankomir Zagreb",
-      "cijena": 950000,
-      "m2": 1500,
-      "izvor": "njuskalo.hr",
-      "url": "https://www.njuskalo.hr/poslovni-prostori-prodaja/zagreb-industrijska-hala"
-    },
-    {
-      "opis": "Industrijska hala 2.000 m² s dvorištem, industrijska zona Zagreb-zapad",
-      "cijena": 1200000,
-      "m2": 2000,
-      "izvor": "nekretnine.net",
-      "url": "https://www.nekretnine.net/stambeni-objekti/poslovni-prostori/zagreb/industrijska-hala"
-    },
-    {
-      "opis": "Hala 1.800 m², Sesvete industrijska zona, star objekt",
-      "cijena": 720000,
-      "m2": 1800,
-      "izvor": "njuskalo.hr",
-      "url": "https://www.njuskalo.hr/poslovni-prostori-prodaja/sesvete-hala"
-    },
-    {
-      "opis": "Industrijska zgrada 1.600 m² + dvorište, ZG okolica, klasa C",
-      "cijena": 650000,
-      "m2": 1600,
-      "izvor": "index.hr oglasi",
-      "url": "https://oglasi.index.hr/nekretnine/poslovni-prostori/zagreb"
-    }
-  ],
-  "investment_strategy": "Primarno: industrijski najam — Zagreb bilježi kroničan nedostatak kvalitetnih industrijskih i logističkih prostora, prinosna stopa 7–9% na godišnjoj razini realna je za obnovljene objekte. Sekundarno: reno-flip — uz CAPEX od 150–300k EUR za rekonstrukciju hale moguća je preprodaja na 900k–1,2M EUR unutar 18–30 mjeseci. Tercijarna opcija: konverzija u multi-tenant poslovni park ili skladišni hub ako GUP dozvoljava, što dramatično povećava vrijednost po m² na 600–900 EUR. Dvorište od 1.389 m² ključno je za logistiku i parking — ne zanemariti u kalkulaciji.",
-  "entry_price_eur": 620000,
+  "comparables": [],
+  "investment_strategy": "Ovisno o stanju objekta nakon razgledavanja: (a) iznajmljivanje za skladišno-logističku namjenu s obzirom na pograničnu lokaciju, ili (b) preprodaja proizvodnom/logističkom operateru iz regije. Reno-flip ima smisla samo ako je konstrukcija u dobrom stanju i troškovi adaptacije niski.",
+  "entry_price_eur": 420000,
   "detailed_risks": [
-    "Nepoznato konstruktivno stanje zgrade — starije industrijske hale u stečaju često imaju zanemareno održavanje, azbest, vlagu; potreban statičar i procjenitelj",
-    "Zoniranje (GUP) — k.o. Šarampov treba provjeriti dozvoljava li GUP zadržavanje ili promjenu namjene; bez dozvole za konverziju fleksibilnost je ograničena",
-    "Komunalni priključci — voda, struja (kapacitet), plin, kanalizacija u industrijskim nekretninama u stečaju često su isključeni ili duguju zaostale naknade",
-    "Razlučna prava trećih — stečajni postupak ne briše automatski sva prava; ZK izvadak i uvid u spis predmet su nužne due diligence provjere",
-    "Likvidnost izlaza — industrijska nekretnina nema toliko kupaca kao stambena; izlaz može trajati 6–18 mjeseci dulje od plana",
-    "Parcela dvorišta — 1.389 m² ind. dvorišta može biti zaseban upis; provjeri je li parcela prikladna za gradnju ili ima ograničenja"
+    "Nepoznato stanje objekta - opis ne navodi je li useljivo/funkcionalno ili zahtijeva veće zahvate",
+    "Niska likvidnost tržišta industrijskih nekretnina u ruralnom pograničnom području",
+    "Stečajni postupak - moguća dodatna dugovanja/tereti koja treba provjeriti prije licitacije",
+    "Nema web istraživanja tržišta u ovoj analizi (tehničko ograničenje sesije) - procjena vrijednosti nosi povećanu nesigurnost",
+    "Ograničena namjena objekta može smanjiti krug potencijalnih kupaca/najmoprimaca"
   ],
-  "upside_scenario": "Ako je objekt konstruktivno solidan i GUP dozvoljava fleksibilnu industrijsko-poslovnu namjenu: uz CAPEX od 200k EUR za obnovu, moguće iznajmljivanje 1.753 m² po 6–8 EUR/m²/mj = godišnji prihod 126–168k EUR (yield 7–8% na ulaznu cijenu 500k + CAPEX 200k). Alternativno, preprodaja renoviranog objekta u rasponu 1,1–1,35M EUR unutar 24–30 mjeseci donosi neto dobitak od 400–600k EUR, što je ROI 57–86% na uloženi kapital uz polugu.",
-  "downside_scenario": "Ako je zgrada u lošem konstruktivnom stanju (potrebna kompletna rekonstrukcija), CAPEX prelazi 400–500k EUR i projekt postaje marginalan. Ako GUP ograničava namjenu isključivo na tešku industriju, tržište kupaca i najmoprimaca se dramatično sužava. U slučaju skrivenih pravnih tereta koji nisu odmah vidljivi iz ZK (potraživanja radnika, ekološke obveze), ukupni trošak može nadmašiti tržišnu vrijednost. Rizičan scenarij: zgrada neupotrebljiva, rušenje i izgradnja od nule — cijena ulaza je tada visoka za golo zemljište industrijskog tipa.",
-  "input_hash": "b950337998b5",
-  "scored_at": "2026-06-17T10:52:47.335210"
+  "upside_scenario": "Ako je objekt strukturno očuvan i uz manje ulaganje osposobljen za skladišno-logističku djelatnost, uz pogransku lokaciju i nisku ulaznu cijenu (50% popust), moguć je najam industrijskom/logističkom subjektu uz prinos 6-8% godišnje na uloženi kapital, ili preprodaja uz maržu 20-30% u 2-3 godine ako se pronađe kupac iz regije.",
+  "downside_scenario": "Ako je objekt zapušten/ruševan ili bez adekvatne infrastrukture, a potražnja u regiji izostane, nekretnina može ostati neprodana i na trećoj dražbi uz daljnji pad cijene, uz troškove održavanja i poreza koji nagrizaju prinos bez izlazne strategije.",
+  "discount_pct": 50.0,
+  "input_hash": "1ccf3f2ded80",
+  "scored_at": "2026-07-08T08:41:19.065521"
 }

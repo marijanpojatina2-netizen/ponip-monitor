@@ -1,12 +1,15 @@
 {
   "id": "59751",
-  "score_overall": 4.5,
+  "score_overall": 4.8,
   "score_lokacija": 4.5,
-  "score_roi": 4.5,
-  "score_stanje": 4.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
   "recommendation": "watch",
-  "reasoning": "Kuća s okućnicom u Kuršancu blizu Čakovca – solidna Međimurska lokacija ali bez turističkog ili snažnog investicijskog potencijala. Tek 20% popusta na prvoj dražbi nedovoljno kompenzira regionalnu likvidnost i ograničenu potražnju.",
-  "flags": [],
-  "input_hash": "0d7f2e8a676c",
-  "scored_at": "2026-04-21T11:09:43.618326"
+  "reasoning": "Kuća s dvorom u Kuršancu (periferija Čakovca), standardna manja lokacija uz umjeren popust od 20% na prvoj dražbi. Suvlasništvo je podijeljeno između dva ovršenika (bez trećih strana) što je manji pravni rizik, ali stanje kuće nije opisano.",
+  "flags": [
+    "provjeriti: stanje kuće nije detaljno opisano u oglasu"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "c88a97b41ba7",
+  "scored_at": "2026-07-08T08:31:07.282843"
 }

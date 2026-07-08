@@ -1,16 +1,15 @@
 {
   "id": "59803",
-  "score_overall": 3.5,
-  "score_lokacija": 4.0,
-  "score_roi": 3.5,
-  "score_stanje": 4.0,
-  "recommendation": "pass",
-  "reasoning": "Kuća i dvorište 370m² u selu Vrtnjakovec kraj Zaboka za 29,9K EUR zvuči jeftino, ali suvlasništvo 1/2 u prvoj dražbi s 20% popustom u tanko likvidnoj regiji Zagorja daje slab investicijski case.",
+  "score_overall": 4.6,
+  "score_lokacija": 4.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća u Vrtnjakovcu blizu Zaboka, solidna lokacija u Zagorju uz standardno stanje objekta. Kupuje se samo polovica suvlasničkog dijela što bitno smanjuje likvidnost i komplicira budući raspolaganje nekretninom.",
   "flags": [
-    "suvlasništvo - samo 1/2 dijela",
-    "niska likvidnost tržišta Zagorja",
-    "nepoznato stanje objekta"
+    "kupnja samo 1/2 suvlasničkog dijela nekretnine (preostali dio u vlasništvu treće osobe)"
   ],
-  "input_hash": "7bc15407390d",
-  "scored_at": "2026-04-22T07:31:15.505774"
+  "discount_pct": 20.0,
+  "input_hash": "1ee1614521e7",
+  "scored_at": "2026-07-08T08:35:35.026605"
 }

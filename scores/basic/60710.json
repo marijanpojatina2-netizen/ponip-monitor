@@ -1,12 +1,13 @@
 {
   "id": "60710",
-  "score_overall": 2.9,
-  "score_lokacija": 2.0,
-  "score_roi": 3.5,
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
   "score_stanje": 3.0,
   "recommendation": "pass",
-  "reasoning": "Treća uzastopna parcela šume, oranica i livada u k.o. Sibenik, Grubišno Polje — isti depopulacijski, ruralni profil bez objekata i bez razvojnog potencijala. Popust od 20% na prvoj dražbi u kombinaciji s najnižom tržišnom likvidnošću u regiji čini ovaj predmet potpuno neatraktivnim.",
+  "reasoning": "Riječ je o k.o. Sibenik u Bjelovarsko-bilogorskoj županiji (kod Grubišnog Polja), ne o obalnom Šibeniku - radi se o tri veće poljoprivredne/šumske parcele (ukupno ~4,8 ha) u depopulacijskom ruralnom području. Popust od 20% na prvoj dražbi ne kompenzira slabu likvidnost i lokaciju.",
   "flags": [],
-  "input_hash": "da31b549318d",
-  "scored_at": "2026-06-24T09:27:38.290354"
+  "discount_pct": 20.0,
+  "input_hash": "084b63e54f4f",
+  "scored_at": "2026-07-08T08:39:07.039327"
 }
