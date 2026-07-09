@@ -1,12 +1,15 @@
 {
   "id": "57925",
-  "score_overall": 5.3,
-  "score_lokacija": 4.5,
-  "score_roi": 7.0,
+  "score_overall": 6.4,
+  "score_lokacija": 5.0,
+  "score_roi": 9.0,
   "score_stanje": 3.0,
-  "recommendation": "watch",
-  "reasoning": "Oranica i pašnjak (~5720 m2) u Poljani Čičkoj na trećoj stečajnoj dražbi s 75% popustom; najmanji komad iz ovog stečajnog klastera, a pašnjački dio dodatno ograničava konverzijski potencijal u usporedbi s čistim oranicama.",
-  "flags": [],
-  "input_hash": "2eb84929e2f1",
-  "scored_at": "2026-06-29T10:55:43.086975"
+  "recommendation": "deep_dive",
+  "reasoning": "Poljoprivredno zemljište kod Velike Gorice (periferija Zagreba) na trećoj dražbi s izuzetnim popustom od 75% od procjene, što je snažan ROI signal. Stečajna prodaja bez naznaka pravnih tereta, zemljište bez objekata pa je stanje nisko relevantno.",
+  "flags": [
+    "provjeriti: pristup i status stečajne mase"
+  ],
+  "discount_pct": 75.0,
+  "input_hash": "1720e2d24f18",
+  "scored_at": "2026-07-09T09:46:54.140010"
 }

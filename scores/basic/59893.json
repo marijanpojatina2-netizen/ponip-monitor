@@ -1,16 +1,15 @@
 {
   "id": "59893",
-  "score_overall": 3.5,
-  "score_lokacija": 4.5,
-  "score_roi": 4.0,
-  "score_stanje": 4.5,
-  "recommendation": "pass",
-  "reasoning": "Livada s ribnjačkim elementom u Jalšovcu može imati niše (ribolovna prava, ekološka poljoprivreda), ali 20% popusta na prvoj dražbi ne opravdava ulazak bez dublje analize vodnih prava. Specijalizirana imovina s ograničenom kupovnom bazom.",
+  "score_overall": 4.6,
+  "score_lokacija": 5.0,
+  "score_roi": 5.0,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Livada/ribnjak u Jalšovcu kod Čakovca na prvoj dražbi s tek 20% popusta, umjerena regionalna likvidnost Međimurja. Zemljište bez objekata, potencijal ograničen na dugoročno poljoprivredno korištenje.",
   "flags": [
-    "ribnjak - mogući posebni uvjeti vodnih/ribolovnih prava",
-    "specijalizirana namjena - uska kupovna baza",
-    "prva dražba"
+    "provjeriti: hidrološki status ribnjaka i dozvole"
   ],
-  "input_hash": "cf3b909e7cae",
-  "scored_at": "2026-04-24T08:05:49.853114"
+  "discount_pct": 20.0,
+  "input_hash": "3ca55a1dbb06",
+  "scored_at": "2026-07-09T09:46:54.140204"
 }

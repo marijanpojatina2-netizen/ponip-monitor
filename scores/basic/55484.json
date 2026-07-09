@@ -1,14 +1,15 @@
 {
   "id": "55484",
-  "score_overall": 4.3,
-  "score_lokacija": 2.5,
-  "score_roi": 5.5,
-  "score_stanje": 5.0,
+  "score_overall": 4.4,
+  "score_lokacija": 2.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
   "recommendation": "pass",
-  "reasoning": "Oranica od 933 čhv u k.o. Pitomača donosi 40% popust i drugu dražbu što je ROI-pozitivno, ali isključivo poljoprivredna namjena u depopulacijskom slavonskom ruralnom okruženju s minimalnom tržišnom likvidnošću daje slab investicijski case za tipičnog investitora. Prihvatljivo jedino za agrarnu konsolidaciju okolnih površina.",
+  "reasoning": "Oranica u Pitomači, dubokoj slavonsko-podravskoj ruralnoj zoni s depopulacijom, unatoč 40% popustu i drugoj dražbi likvidnost je vrlo upitna. Poljoprivredno zemljište bez razvojnog potencijala u ovom području rijetko privlači kupce.",
   "flags": [
-    "isključivo oranica (bez objekta, samo poljoprivredna namjena)"
+    "provjeriti: pristup i komunalna infrastruktura zemljišta"
   ],
-  "input_hash": "4b3ce1d5ebca",
-  "scored_at": "2026-06-16T11:08:10.239288"
+  "discount_pct": 40.0,
+  "input_hash": "3386064de93e",
+  "scored_at": "2026-07-09T09:37:55.383884"
 }

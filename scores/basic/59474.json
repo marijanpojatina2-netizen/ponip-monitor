@@ -1,12 +1,15 @@
 {
   "id": "59474",
-  "score_overall": 3.8,
-  "score_lokacija": 2.0,
-  "score_roi": 5.0,
-  "score_stanje": 4.0,
-  "recommendation": "pass",
-  "reasoning": "Susjedna livada 8658 m² (čkbr. 416) u k.o. Suhopolje — identičan investicijski profil kao ID 59472 s kojim dijeli lokaciju, istog ovršenika i istu regiju bez potražnje. Ima smisla razmatrati isključivo u paketu s čkbr. 415 za kupca koji ima jasnu namjenu za konsolidiranu parcelu.",
-  "flags": [],
-  "input_hash": "dcdc65a68ef9",
-  "scored_at": "2026-06-30T09:30:49.481001"
+  "score_overall": 4.8,
+  "score_lokacija": 2.5,
+  "score_roi": 7.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Livada od 8658 m2 u k.o. Suhopolje dio je poljoprivrednog a dio građevinskog zemljišta, uz visok popust od 40% na drugoj dražbi što podiže ROI potencijal. Ruralna virovitička lokacija i nejasan status prenamjene ograničavaju atraktivnost bez daljnje provjere.",
+  "flags": [
+    "provjeriti: točna namjena zemljišta (poljoprivredno/građevinsko) i mogućnost prenamjene"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "4e824bfe3efd",
+  "scored_at": "2026-07-09T09:39:14.615095"
 }

@@ -1,16 +1,16 @@
 {
   "id": "60476",
-  "score_overall": 2.5,
-  "score_lokacija": 2.5,
-  "score_roi": 3.0,
-  "score_stanje": 4.0,
+  "score_overall": 4.0,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 4.5,
   "recommendation": "pass",
-  "reasoning": "Suvlasništvo 3/6 dijela kuće u Vukovaru kombinira dva kritična negativna faktora - frakcijsko vlasništvo koje drastično otežava raspolaganje i prodaju te slabu vukovarsku mikrotržišnu likvidnost. Investicijski case ne postoji bez suglasnosti ostalih suvlasnika.",
+  "reasoning": "Kuća u Vukovaru s niskom likvidnošću tržišta i prodajom samo suvlasničkog dijela smanjuje investicijsku privlačnost. Popust od 20% na prvoj dražbi nije dovoljan poticaj s obzirom na slab lokacijski potencijal.",
   "flags": [
-    "suvlasništvo 3/6 - nije puno vlasništvo, exit otežan",
-    "Vukovar - ekonomski deprimirana regija, nizak investorski interes",
-    "frakcijsko vlasništvo zahtijeva sporazum s ostalim suvlasnicima"
+    "suvlasnički dio (3/6) - pravo prvokupa ostalih suvlasnika",
+    "provjeriti: stanje objekta (nema podataka o uređenosti)"
   ],
-  "input_hash": "2b8d1d5888f0",
-  "scored_at": "2026-05-28T09:59:31.808416"
+  "discount_pct": 20.0,
+  "input_hash": "2eab227b4c0e",
+  "scored_at": "2026-07-09T09:36:53.185472"
 }

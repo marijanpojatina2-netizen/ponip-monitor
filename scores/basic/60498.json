@@ -1,12 +1,16 @@
 {
   "id": "60498",
-  "score_overall": 4.5,
-  "score_lokacija": 3.5,
+  "score_overall": 5.0,
+  "score_lokacija": 5.0,
   "score_roi": 4.5,
-  "score_stanje": 6.5,
-  "recommendation": "pass",
-  "reasoning": "Garažno parkirno mjesto od ~10m² u Slavonskom Brodu ima izrazito ograničen investicijski potencijal s niskim prinosima od najma i slabom aprecijacijom. Jedina logika je paketna kupnja uz poslovni prostor ID 60494 u istoj zgradi.",
-  "flags": [],
-  "input_hash": "de85e2478509",
-  "scored_at": "2026-06-26T09:01:09.235882"
+  "score_stanje": 6.0,
+  "recommendation": "watch",
+  "reasoning": "Parkirališno mjesto u centru Slavonskog Broda, funkcionalno i u postojećoj zgradi etažnog vlasništva, ali riječ je o vrlo maloj i uskoj investicijskoj niši s ograničenom likvidnošću. Popust od 25% na prvoj dražbi ne mijenja bitno nisku apsolutnu vrijednost ulaganja.",
+  "flags": [
+    "etažno vlasništvo - provjeriti troškove održavanja zgrade/upravitelja",
+    "mala niša (parkirno mjesto) - ograničena likvidnost i tržište kupaca"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "0691d667a4e9",
+  "scored_at": "2026-07-09T09:47:55.727494"
 }

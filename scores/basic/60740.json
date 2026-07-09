@@ -1,12 +1,16 @@
 {
   "id": "60740",
-  "score_overall": 2.6,
-  "score_lokacija": 2.0,
-  "score_roi": 3.0,
-  "score_stanje": 3.0,
+  "score_overall": 3.7,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
   "recommendation": "pass",
-  "reasoning": "Pet parcela potkućnice, oranica i livada (~14.480 m2) u k.o. Sibenik — sve bez objekata, ruralno depopulacijsko područje uz Grubišno Polje. Nema investicijskog temelja uz samo 20% popusta na prvoj dražbi.",
-  "flags": [],
-  "input_hash": "ba00f387025e",
-  "scored_at": "2026-06-24T09:28:52.669769"
+  "reasoning": "Riječ je o poljoprivrednom zemljištu (oranice, livade) bez objekata u nadležnosti suda u Grubišnom Polju, dakle ruralno područje Bjelovarsko-bilogorske županije, a ne primorski Šibenik unatoč istoimenom nazivu k.o. Velika ukupna površina (~14.5k m2) po niskoj cijeni po m2 nudi jeftin ulaz, ali likvidnost poljoprivrednog zemljišta u depopulacijskom kraju je slaba.",
+  "flags": [
+    "provjeriti: stvarna mikrolokacija - naziv k.o. 'Sibenik' odnosi se na lokalitet u Bjelovarsko-bilogorskoj županiji, ne na primorski Šibenik",
+    "provjeriti: pristupni put i komunalna infrastruktura zemljišta"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "ecd0fb7064d6",
+  "scored_at": "2026-07-09T09:50:51.443554"
 }

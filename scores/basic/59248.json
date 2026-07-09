@@ -1,17 +1,16 @@
 {
   "id": "59248",
-  "score_overall": 2.0,
-  "score_lokacija": 1.5,
-  "score_roi": 4.0,
-  "score_stanje": 2.0,
-  "recommendation": "pass",
-  "reasoning": "Mala kuća od 57m2 s ruševinom u ruralnoj Slavoniji blizu Vinkovaca nema investicijski potencijal koji bi opravdao čak i nisku apsolutnu cijenu od ~9k EUR, uzimajući u obzir troškove sanacije i nultu tržišnu potražnju.",
+  "score_overall": 4.4,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća s pomoćnom zgradom i dijelom ruševine u Vinkovcima (Podgrađe), druga dražba s 40% popusta poboljšava ROI profil, ali depopulacijska Slavonija i djelomično ruševno stanje ograničavaju atraktivnost. Puno vlasništvo je prednost u odnosu na ostale nekretnine u ovom setu.",
   "flags": [
-    "ruševina na parceli",
-    "kuća 57m2 - preveliki troškovi renovacije vs. tržišna vrijednost",
-    "Slavonija ruralno - ekstremno depopulacijsko područje",
-    "Podgrađe Nova - minimalna potražnja"
+    "djelomična ruševina na parceli (17 m2)",
+    "provjeriti: stanje glavne kuće i pomoćne zgrade prije licitacije"
   ],
-  "input_hash": "93cf26fa0877",
-  "scored_at": "2026-06-08T10:49:20.843081"
+  "discount_pct": 40.0,
+  "input_hash": "52abad5316c7",
+  "scored_at": "2026-07-09T09:42:59.341822"
 }

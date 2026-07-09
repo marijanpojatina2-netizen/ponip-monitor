@@ -1,12 +1,15 @@
 {
   "id": "59332",
-  "score_overall": 3.8,
-  "score_lokacija": 2.0,
-  "score_roi": 5.0,
-  "score_stanje": 4.0,
+  "score_overall": 4.5,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.5,
   "recommendation": "pass",
-  "reasoning": "Seoska kuća u Cigleniku (Oriovac, Slavonski Brod) s 40% popustom i drugom dražbom — popust je jedina privlačna strana, ali ruralna Slavonija s izraženim depopulacijskim trendom gotovo u potpunosti isključuje mogućnost preprodaje ili dugoročnog najma.",
-  "flags": [],
-  "input_hash": "29d697e6c77c",
-  "scored_at": "2026-06-12T10:08:18.929529"
+  "reasoning": "Kuća i dvorište u selu Ciglenik kod Oriovca s 40% popusta na drugoj dražbi daje dobar nominalni discount, ali ruralna slavonska lokacija ima slabu likvidnost i ograničenu potražnju. Stanje kuće nepoznato, vjerojatno zahtijeva veće ulaganje.",
+  "flags": [
+    "provjeriti: stanje kuće i eventualno stanovanje ovršenika"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "f2c399459806",
+  "scored_at": "2026-07-09T09:35:38.928634"
 }

@@ -1,14 +1,16 @@
 {
   "id": "60790",
-  "score_overall": 3.2,
-  "score_lokacija": 2.5,
-  "score_roi": 3.5,
-  "score_stanje": 4.0,
+  "score_overall": 4.0,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 4.5,
   "recommendation": "pass",
-  "reasoning": "Suvlasnički udio od 1/2 u kući u Novoj Gradiški stvara kompleksnu pravnu situaciju s potencijalnom blokadom od drugog suvlasnika, bez mogućnosti samostalnog raspolaganja. Nizak popust od 20% na prvoj dražbi i slaba lokacija ne opravdavaju investiciju.",
+  "reasoning": "Kuća i dvorište u Novoj Gradišci, manjem gradu sa slabijom potražnjom, prodaje se kao suvlasnički dio što otežava izlaznu strategiju. Standardan popust od 20% na prvoj dražbi ne kompenzira nisku likvidnost regije.",
   "flags": [
-    "suvlasnički udio 1/2 — otežana realizacija i prodaja"
+    "suvlasnički dio (1/2) - pravo prvokupa ostalih suvlasnika",
+    "provjeriti: stanje objekta (nema detalja o uređenosti)"
   ],
-  "input_hash": "05901a4fb3b3",
-  "scored_at": "2026-06-26T09:01:09.235754"
+  "discount_pct": 20.0,
+  "input_hash": "438b299a174f",
+  "scored_at": "2026-07-09T09:36:53.185746"
 }

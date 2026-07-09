@@ -1,0 +1,15 @@
+{
+  "id": "60913",
+  "score_overall": 6.7,
+  "score_lokacija": 7.0,
+  "score_roi": 7.0,
+  "score_stanje": 5.5,
+  "recommendation": "bid",
+  "reasoning": "Dvosobni stan u Zagrebu (Jakuševec) uz 25% popust na prvoj dražbi je solidan gradski kandidat s dobrom likvidnošću tržišta. Stanje i veličina (48 m2) su standardni za daljnji rentanje ili preprodaju.",
+  "flags": [
+    "provjeriti: postoji li stanar u stanu"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "3d125138a17a",
+  "scored_at": "2026-07-09T09:35:38.927974"
+}

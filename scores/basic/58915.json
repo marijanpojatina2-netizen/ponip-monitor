@@ -1,15 +1,17 @@
 {
   "id": "58915",
-  "score_overall": 6.0,
-  "score_lokacija": 5.5,
-  "score_roi": 7.5,
-  "score_stanje": 5.0,
+  "score_overall": 7.3,
+  "score_lokacija": 6.5,
+  "score_roi": 8.5,
+  "score_stanje": 6.0,
   "recommendation": "bid",
-  "reasoning": "Poslovni lokal 23.88m² u istoj zgradi kao ID 58911 s identičnom logikom - 7.165 EUR ulazna cijena uz 50% popust na drugoj dražbi čini ga jednim od cjenovno najpristupačnijih slučajeva.",
+  "reasoning": "Poslovni prostor (lokal) u etažnom vlasništvu u k.o. Sesvete Novo (Zagreb), s izuzetnim popustom od 50% na drugoj dražbi - najbolja kombinacija lokacije i cijene u ovom setu. Mala površina (23,88 m2) uz zagrebačku lokaciju sugerira dobar potencijal za najam ili preprodaju.",
   "flags": [
-    "stanje lokala nije opisano - obavezna provjera",
-    "ista zgrada kao ID 58911 - razmotriti kombiniranu kupnju oba lokala"
+    "provjeriti: trenutna namjena i stanje poslovnog prostora",
+    "provjeriti: postojeći zakup/najmoprimac u lokalu",
+    "provjeriti: visina režija/pričuve za etažno vlasništvo (E-69)"
   ],
-  "input_hash": "8113fef720b8",
-  "scored_at": "2026-05-19T09:40:13.343554"
+  "discount_pct": 50.0,
+  "input_hash": "8c5983ee44e1",
+  "scored_at": "2026-07-09T09:42:59.342005"
 }

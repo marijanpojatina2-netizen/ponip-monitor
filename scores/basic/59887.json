@@ -1,16 +1,15 @@
 {
   "id": "59887",
-  "score_overall": 3.5,
-  "score_lokacija": 4.5,
-  "score_roi": 4.0,
-  "score_stanje": 4.0,
+  "score_overall": 3.9,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
   "recommendation": "pass",
-  "reasoning": "Poljoprivredno zemljište (oranica) u Jalšovcu kod Čakovca s minimalnim popustom od 20% na prvoj dražbi - nema dovoljno razloga za ulaganje. Međimurje je solidna regija ali ova vrsta nekretnine nema turistički ni razvojni potencijal za stranog investitora.",
+  "reasoning": "Oranica u Jalšovcu kraj Čakovca nalazi se u ruralnom dijelu Međimurja s ograničenom likvidnošću. Prva dražba s tek 20% popusta ne nudi dovoljno atraktivan ROI za čisto poljoprivredno zemljište.",
   "flags": [
-    "isključivo poljoprivredna namjena",
-    "prva dražba - bez cjenovnog bonusa",
-    "niska likvidnost za ovu vrstu imovine"
+    "provjeriti: planska namjena i pristup čestici"
   ],
-  "input_hash": "5f0d8920ca18",
-  "scored_at": "2026-04-24T08:05:49.853022"
+  "discount_pct": 20.0,
+  "input_hash": "76524bbd2d32",
+  "scored_at": "2026-07-09T09:41:34.565126"
 }

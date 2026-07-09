@@ -1,17 +1,16 @@
 {
   "id": "60079",
-  "score_overall": 2.0,
-  "score_lokacija": 1.5,
-  "score_roi": 2.0,
+  "score_overall": 4.1,
+  "score_lokacija": 3.0,
+  "score_roi": 5.0,
   "score_stanje": 4.0,
   "recommendation": "pass",
-  "reasoning": "Podravska Slatina jedno je od najslabijih tržišta nekretnina u Hrvatskoj s izraženom depopulacijom i gotovo nultom likvidnošću, a kupnja samo ½ suvlasničkog dijela za 11.360 EUR donosi kompleksne pravne odnose i praktičnu nemogućnost normalnog upravljanja nekretninom.",
+  "reasoning": "Kuća s dvorištem u Podravskoj Slatini u suvlasništvu 1/2, prva dražba s tek 20% popusta. Slavonska depopulacijska lokacija i manjinski udio suvlasništva smanjuju investicijsku privlačnost.",
   "flags": [
-    "suvlasništvo samo ½ dijela - suvlasnik nije ovrhovoditelj",
-    "Podravska Slatina - depopulacijsko područje Slavonije",
-    "izrazito niska tržišna likvidnost",
-    "nedovoljan opis stanja objekta"
+    "suvlasništvo 1/2",
+    "provjeriti: stanje nekretnine (nema detalja u opisu)"
   ],
-  "input_hash": "7bdfdfafda77",
-  "scored_at": "2026-05-01T08:10:04.279341"
+  "discount_pct": 20.0,
+  "input_hash": "5a8b7790afc2",
+  "scored_at": "2026-07-09T09:42:59.342241"
 }

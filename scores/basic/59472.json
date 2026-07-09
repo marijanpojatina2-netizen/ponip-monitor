@@ -1,12 +1,15 @@
 {
   "id": "59472",
-  "score_overall": 3.8,
-  "score_lokacija": 2.0,
-  "score_roi": 5.0,
-  "score_stanje": 4.0,
-  "recommendation": "pass",
-  "reasoning": "Mješovito agro/građevinsko zemljište 11.143 m² kraj Suhopolja nudi 40% popust, ali Virovitičko-podravska županija spada u tržišta s najnižom likvidnošću i najslabijom potražnjom u cijeloj Hrvatskoj. Procjena od 25.000 EUR odražava minimalnu realnu tržišnu vrijednost, a izlazna strategija gotovo ne postoji.",
-  "flags": [],
-  "input_hash": "74e28fdb533c",
-  "scored_at": "2026-06-30T09:30:49.480885"
+  "score_overall": 4.4,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Veliko zemljište u Suhopolju (11143 m2) s dijelom građevinske namjene i 40% popustom na drugoj dražbi nudi zanimljiv omjer cijene i površine, ali ruralna lokacija u Podravini ograničava likvidnost. Vrijedi pratiti razvoj cijene do sljedeće dražbe.",
+  "flags": [
+    "provjeriti: točan omjer građevinskog i poljoprivrednog dijela zemljišta"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "0d0c7b5ff58f",
+  "scored_at": "2026-07-09T09:35:38.928803"
 }

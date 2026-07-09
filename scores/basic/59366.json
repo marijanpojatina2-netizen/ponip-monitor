@@ -1,12 +1,15 @@
 {
   "id": "59366",
-  "score_overall": 3.1,
-  "score_lokacija": 2.0,
-  "score_roi": 3.5,
-  "score_stanje": 4.0,
+  "score_overall": 4.5,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.5,
+  "reasoning": "Slaba lokacija u depopulacijskom području Virovitičko-podravske županije umanjuje dugoročni potencijal unatoč solidnom popustu od 40% na drugoj dražbi. Opis kuće ne otkriva stanje objekta pa je realna vrijednost upitna.",
   "recommendation": "pass",
-  "reasoning": "Rušani su ruralno naselje u Virovitičko-podravskoj županiji s jakim depopulacijskim trendovima i minimalnom potražnjom za nekretninama. Popust od 40% ne mijenja temeljni problem odsutnog tržišta kupaca u ovoj regiji.",
-  "flags": [],
-  "input_hash": "43c13ffb82c2",
-  "scored_at": "2026-06-22T11:52:05.080625"
+  "flags": [
+    "provjeriti: stanje i useljivost kuće"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "683dc99a66c8",
+  "scored_at": "2026-07-09T09:40:23.505014"
 }

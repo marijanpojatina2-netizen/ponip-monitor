@@ -1,16 +1,15 @@
 {
   "id": "59060",
-  "score_overall": 3.5,
-  "score_lokacija": 5.0,
-  "score_roi": 4.0,
-  "score_stanje": 3.0,
-  "recommendation": "pass",
-  "reasoning": "Donja Stubica pruža geografsku prednost blizine Zagreba, ali 1/4 suvlasničkog dijela šume i oranice bez ikakvog stambenog objekta eliminira realan investicijski slučaj - isključivo špekulativna kupovina s minimalnim unovčivim povratom.",
+  "score_overall": 5.5,
+  "score_lokacija": 4.5,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Šuma i oranica u k.o. Donja Stubica (Zagorje) imaju umjereno zanimljivu lokaciju blizu Zagreba, a popust od 40% na drugoj dražbi izgleda povoljno, no predmet prodaje je samo 1/4 idealnog suvlasničkog dijela što bitno otežava upravljanje i realizaciju investicije. Bez dogovora s ostalim suvlasnicima likvidnost ovakvog udjela je vrlo niska.",
   "flags": [
-    "1/4 idealnog suvlasničkog dijela",
-    "šuma i oranica - bez stambenog objekta",
-    "neprikladno za turistički ili najamni prihod"
+    "provjeriti: kupnja samo 1/4 idealnog suvlasničkog dijela - provjeriti ostale suvlasnike i mogućnost diobe ili prodaje cjeline"
   ],
-  "input_hash": "155ee01703fe",
-  "scored_at": "2026-05-22T09:06:35.679740"
+  "discount_pct": 40.0,
+  "input_hash": "f7119149c04f",
+  "scored_at": "2026-07-09T09:45:42.215450"
 }

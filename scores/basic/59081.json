@@ -1,17 +1,15 @@
 {
   "id": "59081",
-  "score_overall": 2.5,
-  "score_lokacija": 2.0,
-  "score_roi": 4.5,
+  "score_overall": 3.9,
+  "score_lokacija": 1.5,
+  "score_roi": 6.5,
   "score_stanje": 2.0,
   "recommendation": "pass",
-  "reasoning": "Šuma i pašnjak ukupno ~23.000m2 u k.o. Živaja (depopulacijsko ruralno područje) — 50% popust privlačan ali likvidnost zemljišta ove namjene izvan turističkih zona je minimalna. Bez jasne exit strategije ili specifičnog razloga za posjedovanje šumskog i pašnjačkog zemljišta ovo je spekulativna investicija s dugim horizontom.",
+  "reasoning": "Šuma i pašnjak u k.o. Živaja, područje Banovine s izraženom depopulacijom i vrlo niskom likvidnošću. Unatoč 50% popustu na drugoj dražbi, sirovo neizgrađeno zemljište u nepoželjnoj regiji ne opravdava aktivan angažman.",
   "flags": [
-    "šuma i pašnjak — ograničena namjena, teška konverzija",
-    "k.o. Živaja — ruralno, depopulacijsko područje",
-    "više katastarskih čestica u različitim z.k. ulošcima — kompleksnost uknjižbe",
-    "minimalna tržišna likvidnost"
+    "provjeriti: pristupni putevi i granice parcela"
   ],
-  "input_hash": "02db81a57759",
-  "scored_at": "2026-06-09T09:41:06.046437"
+  "discount_pct": 50.0,
+  "input_hash": "e61a412181be",
+  "scored_at": "2026-07-09T09:46:54.141400"
 }

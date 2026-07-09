@@ -1,14 +1,15 @@
 {
   "id": "60601",
-  "score_overall": 3.9,
-  "score_lokacija": 5.0,
-  "score_roi": 3.5,
-  "score_stanje": 3.0,
-  "recommendation": "pass",
-  "reasoning": "Žlebnica pašnjak (uvala/jaruga) od 1035 m2 u Granešini Nova je periferni dio Zagreba s vrlo ograničenom namjenom i minimalnim potencijalom za izgradnju ili prihod. Čak i uz lokaciju u Gradu Zagrebu, specifičnost terena i namjena eliminiraju investicijsku atraktivnost.",
+  "score_overall": 5.7,
+  "score_lokacija": 6.5,
+  "score_roi": 6.0,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Pašnjak u Granešinoj Novoj unutar zagrebačkog područja ima vrijednu lokaciju blizu grada, prva dražba s 20% popustom i punim vlasništvom djeluje solidno. Radi se o neizgrađenom zemljištu pa vrijednost ovisi o statusu gradivosti.",
   "flags": [
-    "žlebnica — ograničena namjena i gradivost"
+    "provjeriti: namjena zemljišta i mogućnost gradnje prema prostornom planu"
   ],
-  "input_hash": "a174703c974a",
-  "scored_at": "2026-06-17T10:50:54.108599"
+  "discount_pct": 20.0,
+  "input_hash": "f565b6de15ec",
+  "scored_at": "2026-07-09T09:37:55.385225"
 }

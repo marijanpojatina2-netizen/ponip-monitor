@@ -1,15 +1,16 @@
 {
   "id": "58911",
-  "score_overall": 6.0,
-  "score_lokacija": 5.5,
-  "score_roi": 7.5,
+  "score_overall": 7.1,
+  "score_lokacija": 6.5,
+  "score_roi": 8.5,
   "score_stanje": 5.0,
   "recommendation": "bid",
-  "reasoning": "Poslovni lokal 28.79m² u k.o. Sesvete Novo za ~8.600 EUR početne cijene (50% popust, druga dražba) - iznimno niska ulazna cijena za prigradsko zagrebačko tržište s realnim najamnim potencijalom.",
+  "reasoning": "Mali poslovni lokal (28,79 m2) u Sesvetama (Zagreb) na drugoj dražbi s izuzetnim popustom od 50% predstavlja nisku ulaznu cijenu za urbanu zagrebačku lokaciju s dobrom likvidnošću. Niska apsolutna vrijednost ulaganja i visok diskont čine ovo realnim kandidatom za licitaciju, uz provjeru trenutnog statusa najma.",
   "flags": [
-    "stanje lokala nije opisano - obavezna provjera na terenu prije licitacije",
-    "mala površina 28.79m² sužava krug potencijalnih zakupnika"
+    "provjeriti: je li lokal u zakupu/najmu",
+    "provjeriti: stvarno stanje i namjena poslovnog prostora"
   ],
-  "input_hash": "b372e799f10b",
-  "scored_at": "2026-05-19T09:40:13.343470"
+  "discount_pct": 50.0,
+  "input_hash": "2083bba87996",
+  "scored_at": "2026-07-09T09:40:23.506231"
 }

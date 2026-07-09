@@ -1,17 +1,15 @@
 {
   "id": "59180",
-  "score_overall": 3.0,
+  "score_overall": 4.5,
   "score_lokacija": 2.5,
-  "score_roi": 6.0,
-  "score_stanje": 3.0,
-  "recommendation": "pass",
-  "reasoning": "Gospodarska zgrada 61m² s dvorištem u Moslavini Podravskoj — 50% popust zvuči privlačno ali lokacija (seosko Podravlje, depopulacija) čini izlaz iz investicije gotovo nemogućim; gospodarski objekt teško prenamjeniti bez velikih troškova.",
+  "score_roi": 6.5,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Podravska ruralna lokacija (Moslavina Podravska) je slaba, no druga dražba s 50% popustom i niska ulazna cijena (6.510 EUR) daju zanimljiv ROI za jeftinu akviziciju dvorišta s gospodarskom zgradom. Namjena i stanje same zgrade zahtijevaju provjeru prije ulaganja.",
   "flags": [
-    "gospodarska zgrada - ograničena prenamjena",
-    "izrazito depopulacijsko područje",
-    "minimalna likvidnost tržišta",
-    "stanje nepoznato, vjerojatno zapušteno"
+    "provjeriti: namjena i građevinsko stanje gospodarske zgrade, uporabna dozvola"
   ],
-  "input_hash": "d33fd3344d93",
-  "scored_at": "2026-06-01T11:30:14.531561"
+  "discount_pct": 50.0,
+  "input_hash": "5caa337df527",
+  "scored_at": "2026-07-09T09:44:29.776824"
 }

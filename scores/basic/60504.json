@@ -1,12 +1,15 @@
 {
   "id": "60504",
-  "score_overall": 4.5,
-  "score_lokacija": 3.5,
-  "score_roi": 4.5,
-  "score_stanje": 6.5,
-  "recommendation": "pass",
-  "reasoning": "Garažno parkirno mjesto od ~8m² u istoj zgradi na Nikoli Zrinskog 67, identičnih investicijskih karakteristika kao ID 60498. Samostalna kupnja bez poslovnog prostora u zgradi nema investicijskog smisla na slavonskom tržištu.",
-  "flags": [],
-  "input_hash": "29e1052b4ac4",
-  "scored_at": "2026-06-26T09:01:09.235998"
+  "score_overall": 5.2,
+  "score_lokacija": 5.0,
+  "score_roi": 5.0,
+  "score_stanje": 6.0,
+  "recommendation": "watch",
+  "reasoning": "Malo parkirališno mjesto (8.35 m2) u etažnom vlasništvu u centru Slavonskog Broda, prodaje se u stečajnom postupku uz 25% popusta - nizak ulazni ticket s mogućnošću najma, ali ograničen tržišni interes za samostalnu preprodaju parkirnog mjesta. Nema naznaka fizičkih ili pravnih problema u opisu.",
+  "flags": [
+    "provjeriti: uvjeti odvojene prodaje/najma parkirnog mjesta prema pravilima suvlasnika zgrade"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "67c1b8116e64",
+  "scored_at": "2026-07-09T09:50:51.443813"
 }

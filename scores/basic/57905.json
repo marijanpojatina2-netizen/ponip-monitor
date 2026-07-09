@@ -1,12 +1,15 @@
 {
   "id": "57905",
-  "score_overall": 5.4,
-  "score_lokacija": 4.5,
-  "score_roi": 7.0,
-  "score_stanje": 3.5,
-  "recommendation": "watch",
-  "reasoning": "Mješovita parcela 4852 m2 (livada, oranica, voćnjak) u Bukevju blizu Velike Gorice s 75% popustom na trećoj dražbi; voćnjak je blagi plus za raznolikost namjene, ali sve ostaje unutar niske likvidnosti ruralnog neizgrađenog zemljišta.",
-  "flags": [],
-  "input_hash": "2edd647065ba",
-  "scored_at": "2026-06-29T10:55:43.086777"
+  "score_overall": 6.6,
+  "score_lokacija": 5.0,
+  "score_roi": 8.5,
+  "score_stanje": 5.0,
+  "recommendation": "bid",
+  "reasoning": "Kao i kod susjedne nekretnine u istom stečajnom postupku, zemljište u k.o. Bukevje kraj Velike Gorice na periferiji Zagreba dolazi uz izniman popust od 75% na trećoj dražbi, što ga čini zanimljivim za akumulaciju zemljišta u toj zoni. Mala ukupna vrijednost znači i nizak apsolutni ulog uz potencijalno visok povrat.",
+  "flags": [
+    "provjeriti: tereti i uknjižbe u stečajnom postupku"
+  ],
+  "discount_pct": 75.0,
+  "input_hash": "fb058930c8db",
+  "scored_at": "2026-07-09T09:45:42.215092"
 }

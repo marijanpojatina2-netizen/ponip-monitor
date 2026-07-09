@@ -1,12 +1,15 @@
 {
   "id": "57921",
-  "score_overall": 5.0,
-  "score_lokacija": 3.5,
-  "score_roi": 7.5,
-  "score_stanje": 2.0,
-  "recommendation": "watch",
-  "reasoning": "Oranica u k.o. Drnek (Velika Gorica) — periferija Zagreba s ograničenom likvidnošću za poljoprivredno zemljište; 75% popust na trećoj dražbi privlačan ali realna upotrebna vrijednost niska. Investicijski potencijal jedino kroz preprodaju ili dugoročno čekanje promjene namjene.",
-  "flags": [],
-  "input_hash": "c0a098e92cf6",
-  "scored_at": "2026-06-29T10:56:06.606630"
+  "score_overall": 6.6,
+  "score_lokacija": 6.0,
+  "score_roi": 9.0,
+  "score_stanje": 2.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Treća dražba s izuzetnim popustom od 75% i solidna površina zemljišta blizu Velike Gorice (Zagrebačka regija) čine ovo iznimno povoljnom prilikom za daljnju analizu. Prodaja iz stečajne mase obično nosi čišći pravni status, no vrijedi provjeriti eventualne terete prije licitacije.",
+  "flags": [
+    "provjeriti: pravno stanje u stečajnom postupku (potencijalni tereti/troškovi mase)"
+  ],
+  "discount_pct": 75.0,
+  "input_hash": "0d327499d6d2",
+  "scored_at": "2026-07-09T09:49:35.370313"
 }

@@ -1,16 +1,15 @@
 {
   "id": "60454",
-  "score_overall": 2.0,
-  "score_lokacija": 2.0,
-  "score_roi": 2.5,
-  "score_stanje": 3.5,
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
   "recommendation": "pass",
-  "reasoning": "Udio 4/24 u oranici od ~12.891 m² u ruralnoj Slavoniji blizu Otoka predstavlja gotovo najgori mogući investicijski scenarij - frakcijsko suvlasništvo na agrarnom zemljištu u depopulacijskoj zoni bez tržišne likvidnosti i bez realne exit strategije. Monetizacija jedino kroz zakup, uz minimalne prinose.",
+  "reasoning": "Oranica u Otoku kraj Vinkovaca u slabijoj slavonskoj zoni s prvom dražbom i tek 20% popusta ima nizak ROI potencijal. Prodaje se samo mali suvlasnički dio (4/24), što dodatno otežava stjecanje stvarne koristi od nekretnine.",
   "flags": [
-    "4/24 frakcijsko suvlasništvo - izrazito ograničeno raspolaganje",
-    "samo poljoprivredno zemljište (oranica) - nema konverzijskog potencijala",
-    "ruralna Slavonija - depopulacija, nema exit strategije"
+    "kupnja samo 4/24 suvlasničkog dijela (mali idealni dio)"
   ],
-  "input_hash": "9c3e35dd885d",
-  "scored_at": "2026-05-28T09:59:31.808502"
+  "discount_pct": 20.0,
+  "input_hash": "a1590aaee9cc",
+  "scored_at": "2026-07-09T09:41:34.565503"
 }

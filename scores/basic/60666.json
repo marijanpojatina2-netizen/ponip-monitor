@@ -1,12 +1,15 @@
 {
   "id": "60666",
-  "score_overall": 3.8,
+  "score_overall": 4.0,
   "score_lokacija": 4.0,
   "score_roi": 4.5,
-  "score_stanje": 2.0,
+  "score_stanje": 3.0,
   "recommendation": "pass",
-  "reasoning": "Najmanji komad livade u nizu (489 m²) iz k.o. Veliko Trgovišće — premala za samostalnu razvojnu vrijednost, 20% popust na prvoj dražbi za agrarno tržište Zagorja nije atraktivno. Najslabiji investicijski slučaj u ovoj grupi.",
-  "flags": [],
-  "input_hash": "fec0a29e1521",
-  "scored_at": "2026-06-19T10:26:46.389089"
+  "reasoning": "Livada od 489 m2 u ruralnom dijelu Zagorja (Veliko Trgovišće), bez infrastrukture i s tek 20% popusta na prvoj dražbi. Mala vrijednost i slaba likvidnost čine ovo marginalnim ulaganjem bez jasnog izlaza.",
+  "flags": [
+    "provjeriti: pristup zemljištu i komunalna infrastruktura"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "863e9bdff434",
+  "scored_at": "2026-07-09T09:44:29.775563"
 }

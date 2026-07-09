@@ -1,12 +1,16 @@
 {
   "id": "60742",
-  "score_overall": 3.0,
-  "score_lokacija": 2.0,
-  "score_roi": 3.5,
-  "score_stanje": 3.5,
+  "score_overall": 4.1,
+  "score_lokacija": 3.0,
+  "score_roi": 5.0,
+  "score_stanje": 4.0,
   "recommendation": "pass",
-  "reasoning": "Kombinirani lot u k.o. Sibenik uključuje česticu kčbr. 54/4 s oznakom 'voćnjak, kuća i dvorište' (~1.237 m2) što donosi manji plus, no stanje kuće nije poznato i vjerojatno zahtijeva renovaciju. Lokacija u depopulacijskom pojasu Grubišnog Polja i dalje dominantno sputava ROI i likvidnost.",
-  "flags": [],
-  "input_hash": "e37a31259eb7",
-  "scored_at": "2026-06-24T09:28:52.669656"
+  "reasoning": "Nekretnina se nalazi u ruralnom području Bjelovarsko-bilogorske županije s niskom likvidnošću, unatoč solidnoj ukupnoj površini zemljišta i uključenoj kući. Naziv k.o. 'Sibenik' pod ovim sudom je neuobičajen i zahtijeva provjeru stvarne lokacije prije daljnje analize.",
+  "flags": [
+    "provjeriti: k.o. naziv 'Sibenik' pod sudom Bjelovar/Grubišno Polje - vjerojatno nije grad Šibenik, provjeriti stvarnu lokaciju",
+    "provjeriti: stanje kuće (stanje nepoznato iz opisa)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "8eac8545b0e5",
+  "scored_at": "2026-07-09T09:49:35.368740"
 }

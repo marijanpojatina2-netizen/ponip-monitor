@@ -1,61 +1,35 @@
 {
   "id": "60146",
-  "score_overall": 3.0,
-  "score_lokacija": 2.0,
-  "score_roi": 3.5,
-  "score_stanje": 4.0,
-  "recommendation": "pass",
-  "reasoning": "Miholjački Poreč je malo ruralno naselje u depopulacijskoj zoni Slavonije, ~30 km od Osijeka, s iznimno niskom likvidnošću komercijalnih nekretnina. Utvrđena vrijednost od 521.000 EUR za poslovnu zgradu u selu vjerojatno odražava troškovnu procjenu, a ne realnu tržišnu vrijednost, što znači da 25% popust prve dražbe ne nudi pravi sigurnosni jastuk. Izlazna strategija je kritično ograničena: nema turizma, slaba industrija, uski krug potencijalnih kupaca (poljoprivredni subjekti, lokalni poduzetnici). Ulazna cijena od 390.750 EUR čini ovaj deal neatraktivnim za gotovo svaki investicijski profil.",
+  "score_overall": 3.8,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Riječ je o velikom poslovnom kompleksu (poslovna zgrada 1057 m2 + dvorišna zgrada 165 m2 na 8611 m2 zemljišta) u Miholjačkom Poreču kraj Donjeg Miholjca, dubokoj Slavoniji s izraženom depopulacijom i slabom likvidnošću tržišta nekretnina. Popust od 25% na prvoj dražbi je tek prosječan i ne kompenzira dovoljno rizik teške preprodaje ili iznajmljivanja u regiji sa slabom potražnjom za industrijskim prostorom. Opis ne otkriva stvarno stanje objekta niti postojanje zakupa, što zahtijeva fizički obilazak prije bilo kakve ponude. Potencijal postoji jedino za nišnog kupca (agro-prerada, skladištenje, lokalni proizvođač) uz vrlo nisku ulaznu cijenu po m2.",
   "flags": [
-    "Depopulacijska zona — Slavonija bilježi kontinuirani pad broja stanovnika i gospodarsku stagnaciju",
-    "Visoka utvrđena vrijednost (521.000 EUR) u niveliqidnom tržištu — procjena vjerojatno troškovnom metodom, ne usporedbenom",
-    "Prva dražba bez daljnjih pojeftinjenja — daleko od minimalnog atraktivnog popusta za ovu regiju (potrebno 40%+)",
-    "Poslovna zgrada u seoskoj mikrolokaciji — niche kupci, dugo stajanje na tržištu",
-    "Stečajni predmet Trg. suda Varaždin, a imovina u Osječko-baranjskoj — administrativna kompleksnost",
-    "Nepoznato stanje zgrade — bez fotografija i izvješća o stanju konstrukcije"
+    "provjeriti: stvarno tehničko stanje poslovne i dvorišne zgrade (opis ne navodi stanje)",
+    "provjeriti: postoji li zakupac/koristi li netko prostor trenutno",
+    "provjeriti: teret i upisana prava u zk. izvatku s obzirom na stečajni postupak",
+    "provjeriti: dostupnost priključaka (struja, voda, plin) i industrijska namjena čestice"
   ],
   "market_estimate": {
-    "eur_min": 120000,
-    "eur_max": 220000,
+    "eur_min": 250000,
+    "eur_max": 450000,
     "confidence": "low",
-    "basis": "Industrijske/poslovne zgrade u ruralnoj Slavoniji tipično se realiziraju 80–150 EUR/m² građevine (1.222 m² = ~100.000–183.000 EUR), dok neizgrađeno dvorište (7.389 m²) nosi 3–8 EUR/m² (~22.000–59.000 EUR). Ukupna tržišna vrijednost realno 120.000–220.000 EUR, daleko ispod procjene od 521.000 EUR. Napomena: web pretraživanje nije bilo dostupno, procjena bazirana na stručnom poznavanju regionalnog tržišta."
+    "basis": "Procjena bazirana na općem poznavanju tržišta poslovnih/industrijskih nekretnina u ruralnoj Slavoniji (tipično 60-150 EUR/m2 za starije poslovne objekte bez punog uvida u stanje); nije potvrđeno uživo pretraženim oglasima jer WebSearch alat nije bio dostupan u ovoj sesiji."
   },
-  "comparables": [
-    {
-      "opis": "Poslovna zgrada ~900 m² + 5.000 m² dvorišta, Đakovo (Slavonija, veći grad od Donjeg Miholjca)",
-      "cijena": 185000,
-      "m2": 900,
-      "izvor": "njuskalo.hr (procjena temeljem poznatih transakcija u regiji)",
-      "url": "https://www.njuskalo.hr/prodaja-poslovnih-prostora/slavonija"
-    },
-    {
-      "opis": "Industrijska hala ~1.200 m², Valpovo (15 km od Donjeg Miholjca)",
-      "cijena": 160000,
-      "m2": 1200,
-      "izvor": "nekretnine.net (procjena — web nije bio dostupan za live provjeru)",
-      "url": "https://www.nekretnine.net/pretraga/prodaja/poslovni-prostor/slavonija"
-    },
-    {
-      "opis": "Seosko imanje s gospodarskim zgradama, Osječko-baranjska županija, ~8.000 m² ukupno",
-      "cijena": 95000,
-      "m2": null,
-      "izvor": "njuskalo.hr (procjena — live podaci nisu bili dostupni)",
-      "url": "https://www.njuskalo.hr/prodaja-kuca/osjecko-baranjska-zupanija"
-    }
-  ],
-  "investment_strategy": "Jedina potencijalno smislena strategija je industrijska/poljoprivredna prenamjena — npr. skladište za žitarice, hladnjača, obrtna radionica. Prenamjena u stambenu svrhu ekonomski neopravdana. Iznajmljivanje moguće jedino lokalnim poduzetnicima uz najamnine 2–5 EUR/m²/mj (bruto prinos ~2–3% na ulaznu cijenu), što je neprihvatljivo za investicijsku logiku. Reno-flip nema izlazno tržište. Razvoj (rezidencijalni projekt) nema potražnju. Zaključak: nema realne komercijalne investicijske strategije po ovoj cijeni.",
-  "entry_price_eur": 160000,
+  "comparables": [],
+  "investment_strategy": "Reno-flip/iznajmljivanje niskog rizika: kupnja po dubokom diskontu s ciljem prenamjene za skladišni/proizvodni prostor i dugoročni najam lokalnom poduzetniku (agro-prerada, logistika), uz svijest da je izlazak/preprodaja u regiji spor i ograničen na uzak krug kupaca.",
+  "entry_price_eur": 280000,
   "detailed_risks": [
-    "Realna tržišna vrijednost potencijalno 2.5× niža od procjene — kupac na prvoj dražbi plaća premiju bez pokrića",
-    "Vrlo niska likvidnost: prodaja u budućnosti može trajati 3–7+ godina ili biti neostvariva bez drastičnog sniženja",
-    "Nepoznato stanje konstrukcije — poslovne zgrade iz jugoslavenskog perioda često zahtijevaju 200–500 EUR/m² sanacije",
-    "Visoka jamčevina (52.100 EUR) zamrzava kapital bez adekvatnog potencijala povrata",
-    "Bez provjere tereta (aktivna prava, hipoteke, komunalni dugovi) — stečajni predmeti mogu imati skrivene terete",
-    "Demografski trend: Donji Miholjac gubi 1,5–2% stanovništva godišnje — dugoročni pritisak na sve cijene nekretnina u regiji",
-    "Energetska učinkovitost starije poslovne zgrade vjerojatno loša — visoki operativni troškovi"
+    "Nepoznato stanje objekata - moguća potreba za značajnim capexom",
+    "Depopulacijska ruralna lokacija sa slabom potražnjom za poslovnim prostorom",
+    "Nizak stupanj likvidnosti - teško i sporo naći kupca ili najmoprimca",
+    "Stečajni postupak - potreban dodatni pravni due diligence oko tereta i eventualnih trećih prava"
   ],
-  "upside_scenario": "Ako postoji specifični industrijski kupac (npr. lokalna prehrambena tvrtka, logistički operator, ili poljoprivrednik s potrebom za skladištem) koji plaća 150.000–200.000 EUR, i ako se ulazi po cijeni ispod 160.000 EUR (tek na 3.–4. dražbi uz ~70% popust), moguć je brzi flip unutar 12 mjeseci. Alternativno, energetska kriza i rast ruralnog turizma u Slavoniji (Drava park, Kopački rit) dugoročno bi mogli povećati interes za veće nekretnine, ali horizont bi bio 7–10 godina.",
-  "downside_scenario": "Kupac plati 390.750 EUR i ne može realizirati nikakvu izlaznu strategiju — nekretnina ostaje prazna, akumulira troškove održavanja i poreze, a realna prodajna cijena pada prema 100.000–150.000 EUR na tržištu. Gubitak 60–70% uloženog kapitala u realnom scenariju uz holding period od 5+ godina. Najgori scenarij: strukturalni problemi zgrade zahtijevaju hitne investicije, objekt postaje financijska obveza.",
-  "input_hash": "61c2851e5617",
-  "scored_at": "2026-05-06T09:39:27.129324"
+  "upside_scenario": "Ako se u regiji Donjeg Miholjca ojača agro-prerađivački ili logistički sektor (blizina granice s Mađarskom, poljoprivredno zaleđe), objekt se uz umjerenu investiciju u sanaciju može iznajmiti lokalnom proizvođaču po 2-3 EUR/m2/mj, generirajući solidan cash-flow uz nisku ulaznu cijenu.",
+  "downside_scenario": "Ako se ne pronađe nišni kupac ili zakupac, imovina ostaje neaktivna uz troškove održavanja i poreza, a na drugoj/trećoj dražbi cijena dodatno pada 20-30%, produžavajući period do izlaska iz investicije na više godina.",
+  "discount_pct": 25.0,
+  "input_hash": "f76bf71ce16b",
+  "scored_at": "2026-07-09T09:58:22.144115"
 }

@@ -1,12 +1,13 @@
 {
   "id": "59398",
-  "score_overall": 7.0,
+  "score_overall": 6.8,
   "score_lokacija": 7.5,
-  "score_roi": 8.0,
-  "score_stanje": 4.0,
-  "recommendation": "deep_dive",
-  "reasoning": "Oranica 2.220 m2 u k.o. Sv. Ivan, nadležnost suda u Poreču — srce istarskog turističkog pojasa s visokom likvidnošću i potražnjom; 40% popust na drugoj dražbi čini cijenu iznimno atraktivnom. Ključno je provjeriti mogućnost prenamjene u građevinsku namjenu i sve terete u zk.ul. 4004.",
+  "score_roi": 7.0,
+  "score_stanje": 5.0,
+  "recommendation": "bid",
+  "reasoning": "Nekretnina se nalazi u k.o. Sv. Ivan u blizini Poreča, dakle u traženoj istarskoj turističkoj zoni, što joj daje značajnu dugoročnu vrijednost unatoč tome što je trenutno riječ o oranici. Popust od 40% na drugoj dražbi dodatno poboljšava ROI profil.",
   "flags": [],
-  "input_hash": "cba028aee0de",
-  "scored_at": "2026-06-24T09:28:52.669426"
+  "discount_pct": 40.0,
+  "input_hash": "c5364051ef07",
+  "scored_at": "2026-07-09T09:45:42.214118"
 }

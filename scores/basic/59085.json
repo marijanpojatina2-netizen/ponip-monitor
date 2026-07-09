@@ -1,17 +1,15 @@
 {
   "id": "59085",
-  "score_overall": 2.5,
-  "score_lokacija": 2.0,
-  "score_roi": 4.5,
-  "score_stanje": 2.0,
-  "recommendation": "pass",
-  "reasoning": "Pašnjak 10.477m2 u istoj k.o. Živaja kao prethodni lot — isti problemi s lokacijom i namjenom, 50% popust ne kompenzira strukturalnu neatraktivnost investicije. Jedina potencijalna sinergija je kombinirana kupnja s ID 59081 radi veće parcele, ali ni to ne mijenja temeljni investicijski case.",
+  "score_overall": 4.5,
+  "score_lokacija": 2.5,
+  "score_roi": 7.0,
+  "score_stanje": 2.5,
+  "recommendation": "watch",
+  "reasoning": "Sud (Trgovački sud u Zagrebu) predstavlja samo nadležnost - stvarna lokacija je selo Živaja u Sisačko-moslavačkoj županiji, ruralno i slabo likvidno područje. Popust od 50% na drugoj dražbi je vrlo atraktivan za pašnjak, pa vrijedi pratiti unatoč slaboj lokaciji.",
   "flags": [
-    "pašnjak — poljoprivredna namjena, ograničena prenamjena",
-    "k.o. Živaja — ruralno, depopulacijsko područje",
-    "minimalna tržišna likvidnost",
-    "sinergija samo uz ID 59081"
+    "provjeriti: sud (Trgovački sud u Zagrebu) je nadležnost, stvarna lokacija je k.o. Živaja u Sisačko-moslavačkoj županiji"
   ],
-  "input_hash": "151fea72825a",
-  "scored_at": "2026-06-09T09:41:06.046539"
+  "discount_pct": 50.0,
+  "input_hash": "84407bd1e093",
+  "scored_at": "2026-07-09T09:47:55.726733"
 }

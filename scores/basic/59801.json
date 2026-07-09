@@ -1,16 +1,15 @@
 {
   "id": "59801",
-  "score_overall": 2.5,
+  "score_overall": 4.4,
   "score_lokacija": 4.0,
-  "score_roi": 2.0,
-  "score_stanje": 4.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
   "recommendation": "pass",
-  "reasoning": "Kupovina 1/8 suvlasničkog dijela kuće u Sračincu je praktički beskorisna bez suradnje preostalih 7/8 vlasnika; bez kontrole nad nekretninom i bez mogućnosti samostalnog korištenja nema investicijskog case-a bez obzira na lokaciju.",
+  "reasoning": "Kuća i dvorište u Sračincu (periferija Varaždina) prodaje se kao 1/8 suvlasničkog dijela, što drastično ograničava iskoristivost i likvidnost ulaganja. Popust od 20% na prvoj dražbi je standardan, ali nedovoljan da nadoknadi rizik ulaska u suvlasništvo s nepoznatim brojem drugih vlasnika.",
   "flags": [
-    "samo 1/8 suvlasničkog dijela - neoperabilno bez ostalih suvlasnika",
-    "bez kontrole i bez prava samostalnog korištenja",
-    "nema realne exit strategije osim prodaje istom suvlasniku"
+    "provjeriti: suvlasnički dio 1/8 - provjeriti ostale suvlasnike i realnu mogućnost diobe ili otkupa udjela"
   ],
-  "input_hash": "cabab4ea3b66",
-  "scored_at": "2026-04-21T07:54:05.151033"
+  "discount_pct": 20.0,
+  "input_hash": "e5aee88e988a",
+  "scored_at": "2026-07-09T09:50:51.443091"
 }

@@ -1,12 +1,15 @@
 {
   "id": "57929",
-  "score_overall": 5.6,
-  "score_lokacija": 4.5,
-  "score_roi": 7.5,
+  "score_overall": 5.5,
+  "score_lokacija": 5.0,
+  "score_roi": 7.0,
   "score_stanje": 3.0,
   "recommendation": "watch",
-  "reasoning": "Livada ~1,08 ha u Poljani Čičkoj (blizu Velike Gorice, ~25 km od Zagreba) s iznimnih 75% popusta na trećoj dražbi nudi spekulativni land-banking potencijal u zagrebačkoj periferiji; ograničava isključivo ruralna lokacija i agrar namjena.",
-  "flags": [],
-  "input_hash": "40e0ce1c3da5",
-  "scored_at": "2026-06-29T10:55:43.086430"
+  "reasoning": "Fragmentirane livade u Poljani Čički kraj Velike Gorice, blizina Zagreba daje solidnu likvidnost unatoč tome što je riječ o čistom poljoprivrednom zemljištu bez objekta. Treća dražba i 75% popusta čine ROI atraktivnim, ali male i razdvojene čestice ograničavaju upotrebljivost.",
+  "flags": [
+    "provjeriti: pristup i granice fragmentiranih čestica"
+  ],
+  "discount_pct": 75.0,
+  "input_hash": "c92db8d4fe6c",
+  "scored_at": "2026-07-09T09:41:34.563774"
 }

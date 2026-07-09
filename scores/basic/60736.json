@@ -1,12 +1,15 @@
 {
   "id": "60736",
-  "score_overall": 2.6,
-  "score_lokacija": 2.0,
-  "score_roi": 3.0,
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
   "score_stanje": 3.0,
   "recommendation": "pass",
-  "reasoning": "Potkućnice, oranice i livade (~18.660 m2) u k.o. Sibenik kraj Grubišnog Polja — depopulacijska ruralna zona bez tržišne potražnje za nekretninama. Standardna prva dražba s 20% popustom ne nudi dovoljnu premiju za rizik illikiidnog tržišta.",
-  "flags": [],
-  "input_hash": "bf3171123219",
-  "scored_at": "2026-06-24T09:28:52.669541"
+  "reasoning": "Ime k.o. Sibenik može zavarati - sud (Grubišno Polje) upućuje na ruralno selo u Bjelovarsko-bilogorskoj županiji, ne na grad Šibenik na moru. Samo poljoprivredno zemljište bez objekta, popust tek 20% na prvoj dražbi, slaba likvidnost.",
+  "flags": [
+    "provjeriti: k.o. Šibenik je vjerojatno lokalno selo u Bjelovarsko-bilogorskoj županiji, ne grad Šibenik na moru"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "dcba33f266bd",
+  "scored_at": "2026-07-09T09:47:55.725643"
 }

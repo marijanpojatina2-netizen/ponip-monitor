@@ -1,16 +1,16 @@
 {
   "id": "58847",
-  "score_overall": 3.0,
-  "score_lokacija": 2.5,
-  "score_roi": 4.5,
-  "score_stanje": 4.0,
+  "score_overall": 4.9,
+  "score_lokacija": 3.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.5,
   "recommendation": "pass",
-  "reasoning": "Solidni popust i kompaktna kuća od 101m2 u Slavoniji nisu dostatni jer 1/2 suvlasničkog dijela uz minimalnu potražnju u Satnici čini izlaz iz investicije gotovo nemogućim u razumnom roku.",
+  "reasoning": "Kuća i zemljište u Satnici kraj Valpova u slabijoj slavonskoj zoni, druga dražba s 40% popusta je umjeren ROI za regiju niske likvidnosti. Prodaje se samo 1/2 suvlasničkog dijela što bitno komplicira stjecanje pune kontrole nad nekretninom.",
   "flags": [
-    "1/2 suvlasničkog dijela",
-    "ruralna Slavonija - Valpovo okolica",
-    "niska tržišna potražnja za suvlasničkim udjelima"
+    "kupnja samo 1/2 suvlasničkog dijela",
+    "provjeriti: stanje kuće"
   ],
-  "input_hash": "4be1e023bcc0",
-  "scored_at": "2026-05-22T09:06:35.679379"
+  "discount_pct": 40.0,
+  "input_hash": "817d646513a6",
+  "scored_at": "2026-07-09T09:41:34.564606"
 }

@@ -1,17 +1,17 @@
 {
   "id": "52991",
-  "score_overall": 3.0,
-  "score_lokacija": 3.5,
-  "score_roi": 3.5,
-  "score_stanje": 3.0,
+  "score_overall": 4.2,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 2.0,
   "recommendation": "pass",
-  "reasoning": "Dalmatinska unutrašnjost kod Knina nije turistički atraktivna destinacija, a fragmentirani paket od više suvlasničkih udjela 1/2 na raznim parcelama bez stambenog objekta multiplicira pravni rizik i teškoće izlaza.",
+  "reasoning": "Nekretnina je zapravo skup fragmentiranih poljoprivrednih čestica (pašnjak, vinograd, građevinsko zemljište) u ruralnom zaleđu Knina, s ovršenikom suvlasnikom u 1/2 dijela na više čestica. Nizak potencijal razvoja i otežana likvidnost čine ovo slabim ROI kandidatom unatoč 40% popustu.",
   "flags": [
-    "više suvlasničkih udjela 1/2 na fragmentiranim parcelama",
-    "bez stambenog objekta",
-    "Knin hinterland - slab turistički potencijal",
-    "složena vlasnička struktura"
+    "suvlasništvo 1/2 na više čestica",
+    "fragmentirano vlasništvo (više k.č. u jednom paketu)",
+    "provjeriti: mogućnost fizičke diobe/izlučenja idealnih dijelova"
   ],
-  "input_hash": "424c1d87493c",
-  "scored_at": "2026-05-22T09:06:35.679491"
+  "discount_pct": 40.0,
+  "input_hash": "466227d7bba3",
+  "scored_at": "2026-07-09T09:42:59.340686"
 }

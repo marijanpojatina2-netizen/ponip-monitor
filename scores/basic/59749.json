@@ -1,16 +1,15 @@
 {
   "id": "59749",
-  "score_overall": 2.5,
+  "score_overall": 3.8,
   "score_lokacija": 2.0,
-  "score_roi": 2.5,
+  "score_roi": 5.0,
   "score_stanje": 4.0,
   "recommendation": "pass",
-  "reasoning": "Trnovitički Popovac (okolica Garešnice) je ruralno, demografski iscrpljeno područje s praktički nepostojećom tržišnom likvidnošću nekretnina. Apsolutan iznos od ~12.000 EUR možda djeluje nisko, ali nema realnog izlaznog scenarija koji bi generirao pozitivan ROI u razumnom vremenskom okviru.",
+  "reasoning": "Kuća u malom selu u depopulacijskom području Bjelovarsko-bilogorske županije, prva dražba s tek 20% popusta. Slaba likvidnost regije i nedostatak informacija o stanju objekta čine ovo niskoprioritetnim ulaganjem.",
   "flags": [
-    "ruralno depopulacijsko područje središnje Hrvatske",
-    "Garešnica - minimalna tržišna aktivnost nekretnina",
-    "bez turističke ni poslovne perspektive"
+    "provjeriti: stanje nekretnine (nema detalja u opisu)"
   ],
-  "input_hash": "d985b828531f",
-  "scored_at": "2026-04-28T08:24:20.460604"
+  "discount_pct": 20.0,
+  "input_hash": "c38e450e0ddd",
+  "scored_at": "2026-07-09T09:42:59.341618"
 }

@@ -1,17 +1,16 @@
 {
   "id": "59963",
   "score_overall": 6.0,
-  "score_lokacija": 8.5,
-  "score_roi": 5.5,
-  "score_stanje": 4.0,
-  "recommendation": "deep_dive",
-  "reasoning": "Treća parcela istog bloka u Rovinju (921 m2, k.č. 4889/2) dijeli premium lokaciju ali pristup isključivo makadamskim i poljskim putem umanjuje njenu samosatalnu vrijednost u odnosu na 59967 i 59969 koje imaju regulirani pristupni put; i dalje zaslužuje analizu kao dio paketa.",
+  "score_lokacija": 9.0,
+  "score_roi": 5.0,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Vrhunska lokacija u Rovinju (Monsego) daje dugoročni potencijal, ali radi se o pašnjaku s tek 20% popusta na prvoj dražbi bez naznake građevinske namjene. Prije ulaganja nužno provjeriti urbanistički status jer sirovo poljoprivredno zemljište bez prava gradnje bitno ograničava ROI.",
   "flags": [
-    "pristup samo makadamskim i poljskim putem – ograničava samostalni razvoj",
-    "katastarska namjena pašnjak – iste restrikcije",
-    "isti vlasnik/zk.ul. 23383 – samo paketna kupnja ima smisla",
-    "prva dražba – 20% popust"
+    "provjeriti: mogućnost gradnje/promjena namjene zemljišta (trenutno pašnjak)",
+    "provjeriti: komunalna infrastruktura i pristup"
   ],
-  "input_hash": "3b44f1be53cc",
-  "scored_at": "2026-04-24T08:04:31.657649"
+  "discount_pct": 20.0,
+  "input_hash": "ecf12e625c1e",
+  "scored_at": "2026-07-09T09:40:23.504432"
 }

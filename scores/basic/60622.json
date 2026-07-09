@@ -1,12 +1,16 @@
 {
   "id": "60622",
-  "score_overall": 2.6,
-  "score_lokacija": 2.0,
-  "score_roi": 3.0,
-  "score_stanje": 3.0,
-  "recommendation": "pass",
-  "reasoning": "Rašenica je depopulacijsko ruralno selo u Bjelovar-bilogorskoj županiji s praktički nultom likvidnošću nekretnina; stara seoska kuća s košarom i štagljem zahtijeva temeljitu obnovu, a 20% popust na prvoj dražbi ne kompenzira odsutnost bilo kakvog izlaznog scenarija.",
-  "flags": [],
-  "input_hash": "2ab5817ddb7a",
-  "scored_at": "2026-06-19T10:27:22.458814"
+  "score_overall": 3.6,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Ruralno selo u Bilogori s postojećom starom kućom, štalom i štagljem daje nešto veću iskoristivost od čiste zemlje, ali prva dražba s tek 20% popusta i slaba lokacija ograničavaju povrat. Stanje objekta iz opisa nije jasno pa treba provjeriti useljivost.",
+  "flags": [
+    "provjeriti: stanje i useljivost stare kuće",
+    "provjeriti: prijavljeno stanovanje/boravak u objektu"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "2fb1d98a8da0",
+  "scored_at": "2026-07-09T09:44:29.776564"
 }

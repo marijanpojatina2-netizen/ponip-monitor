@@ -1,16 +1,16 @@
 {
   "id": "59058",
-  "score_overall": 3.0,
+  "score_overall": 5.5,
   "score_lokacija": 5.0,
-  "score_roi": 3.5,
+  "score_roi": 6.5,
   "score_stanje": 4.0,
   "recommendation": "pass",
-  "reasoning": "Zagorska lokacija blizu Zagreba donosi lokacijsku prednost, no 1/4 idealnog suvlasničkog dijela čini upravljanje i daljnju prodaju iznimno kompleksnom bez suglasnosti ostalih suvlasnika; efektivni ROI znatno niži od oglašenih 40%.",
+  "reasoning": "Kuća i oranica u Donjoj Stubici u blizini Zagreba imaju solidnu lokaciju, ali predmet prodaje je tek 1/4 suvlasničkog dijela što drastično otežava upravljanje i daljnju prodaju. Fragmentirano vlasništvo čini ROI vrlo neizvjesnim unatoč nominalno visokom popustu.",
   "flags": [
-    "1/4 idealnog suvlasničkog dijela - niska likvidnost",
-    "potrebna suglasnost suvlasnika za svaku transakciju",
-    "efektivna cijena nekonkurentna za manjinski udio"
+    "suvlasnički dio 1/4 - otežana likvidnost i upravljanje",
+    "provjeriti: stanje kuće i odnos s ostalim suvlasnicima"
   ],
-  "input_hash": "e297aa4d39d5",
-  "scored_at": "2026-05-22T09:06:35.679156"
+  "discount_pct": 40.0,
+  "input_hash": "2825fdeafadc",
+  "scored_at": "2026-07-09T09:37:55.384291"
 }

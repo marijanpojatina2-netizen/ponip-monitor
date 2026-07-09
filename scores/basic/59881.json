@@ -1,16 +1,15 @@
 {
   "id": "59881",
-  "score_overall": 4.0,
-  "score_lokacija": 4.5,
-  "score_roi": 4.0,
-  "score_stanje": 4.5,
-  "recommendation": "pass",
-  "reasoning": "Međimurski vinograd ima određenu romantiku i regija ima vinarsku tradiciju, ali 20% popusta na prvoj dražbi čini ulaz ekonomski neopravdanim za pasivnog investitora bez znanja vinarstva. Potencijal postoji samo uz aktivno upravljanje i iskustvo u vinogradarstvu.",
+  "score_overall": 5.2,
+  "score_lokacija": 5.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Vinograd 'Banfi' u Brežnom Kotaru kod Čakovca, međimurska vinogradarska regija ima određenu tržišnu privlačnost. Popust od tek 20% na prvoj dražbi ne daje snažan ROI signal za odmah aktivnu licitaciju.",
   "flags": [
-    "specijalizirana namjena - zahtijeva aktivno upravljanje vinogradom",
-    "prva dražba bez popusta na dražbu",
-    "niche tržište preprodaje"
+    "provjeriti: stanje nasada i produktivnost vinograda"
   ],
-  "input_hash": "0b94f2b856ea",
-  "scored_at": "2026-04-24T08:05:49.853200"
+  "discount_pct": 20.0,
+  "input_hash": "78c22e3275c9",
+  "scored_at": "2026-07-09T09:46:54.141725"
 }

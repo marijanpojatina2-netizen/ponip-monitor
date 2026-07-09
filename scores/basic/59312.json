@@ -1,14 +1,16 @@
 {
   "id": "59312",
-  "score_overall": 2.8,
-  "score_lokacija": 3.5,
-  "score_roi": 5.5,
+  "score_overall": 4.9,
+  "score_lokacija": 4.0,
+  "score_roi": 6.5,
   "score_stanje": 3.0,
-  "recommendation": "pass",
-  "reasoning": "Voćnjak u k.o. Martinuševec (Čakovec, Međimurje) — samo 1/2 suvlasničkog udjela čini likvidaciju otežanom, a ruralna mikrolokacija nudi slab dugoročni ROI. Suvlasništvo povećava pravnu i prodajnu kompleksnost.",
+  "recommendation": "watch",
+  "reasoning": "Voćnjak u Međimurju uz solidan popust od 40% na drugoj dražbi, ali prodaje se samo 1/2 suvlasničkog dijela što bitno otežava upravljanje i daljnju prodaju. Bez objekta, čisto poljoprivredno zemljište.",
   "flags": [
-    "sporno vlasništvo"
+    "suvlasništvo 1/2 dijela - otežano upravljanje/prodaja",
+    "provjeriti: status i vlasnika preostale 1/2 suvlasničkog dijela"
   ],
-  "input_hash": "0497fb11c4bd",
-  "scored_at": "2026-06-15T11:59:10.564087"
+  "discount_pct": 40.0,
+  "input_hash": "a51972b5e55e",
+  "scored_at": "2026-07-09T09:47:55.725932"
 }

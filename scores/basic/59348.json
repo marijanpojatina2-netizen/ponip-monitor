@@ -1,12 +1,13 @@
 {
   "id": "59348",
-  "score_overall": 4.3,
-  "score_lokacija": 3.5,
-  "score_roi": 5.5,
-  "score_stanje": 3.0,
-  "recommendation": "pass",
-  "reasoning": "Oranica 1306 m2 u k.o. Ljubešćica (okolica Varaždina) — mala parcela na ruralnoj lokaciji s niskom tržišnom potražnjom. Popust od 40% ne kompenzira slab temeljni investicijski potencijal.",
+  "score_overall": 4.6,
+  "score_lokacija": 3.0,
+  "score_roi": 7.0,
+  "score_stanje": 2.0,
+  "recommendation": "watch",
+  "reasoning": "Oranica u Ljubešćici kraj Varaždina nudi visok popust od 40% na drugoj dražbi, što je snažan ROI signal, no ruralna kontinentalna lokacija i nedostatak infrastrukture ograničavaju likvidnost. Zemljište bez objekata pogodno je jedino za dugoročno bankiranje zemljišta.",
   "flags": [],
-  "input_hash": "62679ac79c2f",
-  "scored_at": "2026-06-15T11:59:10.564261"
+  "discount_pct": 40.0,
+  "input_hash": "8198a94764c7",
+  "scored_at": "2026-07-09T09:49:35.369550"
 }

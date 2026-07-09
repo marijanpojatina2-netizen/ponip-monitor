@@ -1,16 +1,16 @@
 {
   "id": "60766",
-  "score_overall": 4.1,
-  "score_lokacija": 7.0,
-  "score_roi": 4.5,
-  "score_stanje": 3.0,
-  "recommendation": "pass",
-  "reasoning": "Istranska lokacija (Vodnjan) je atraktivna, no predmet prodaje je lokalna asfaltna cesta — infrastrukturna čestica s minimalnom mogućnošću komercijalizacije ili prenamjene. Suvlasničkih 1/2 dijela uz specifičnu namjenu i vjerojatna stvarna prava prolaza čine ovu nekretninu neprikladnom za investiciju.",
+  "score_overall": 6.8,
+  "score_lokacija": 7.5,
+  "score_roi": 7.0,
+  "score_stanje": 5.0,
+  "recommendation": "bid",
+  "reasoning": "Zemljište uz asfaltiranu cestu u Vodnjanu (Istra) s 25% popustom nudi solidan ROI unatoč prodaji samo polovice suvlasničkog dijela. Lokacija je tražena, ali potrebna je provjera prava prvokupa drugog suvlasnika.",
   "flags": [
-    "suvlasničkih 1/2 dijela",
-    "lokalna cesta — ograničena upotrebljivost",
-    "prava koja ne prestaju prodajom"
+    "suvlasnički dio (1/2) - pravo prvokupa ostalih suvlasnika",
+    "provjeriti: namjena i gradivost zemljišta"
   ],
-  "input_hash": "4afe7ebbcf80",
-  "scored_at": "2026-06-22T11:52:05.080393"
+  "discount_pct": 25.0,
+  "input_hash": "ba9b912de4d2",
+  "scored_at": "2026-07-09T09:36:53.186818"
 }

@@ -1,16 +1,16 @@
 {
   "id": "59965",
   "score_overall": 6.0,
-  "score_lokacija": 8.5,
+  "score_lokacija": 9.0,
   "score_roi": 5.0,
-  "score_stanje": 4.0,
+  "score_stanje": 3.0,
   "recommendation": "watch",
-  "reasoning": "Rovinj je premium turistička destinacija i lokacija nosi veliku težinu, ali radi se o pašnjaku bez objekata pa je ključna provjera zoninga - ako je građevinsko zemljište drastično raste vrijednost, inače je upitno. Samo 20% popusta na prvoj dražbi nije dovoljno za agresivan ulaz bez potvrđene namjene.",
+  "reasoning": "Susjedna čestica istog vlasnika u Rovinju (Monsego), identični parametri kao k.č. 4889/2 - odlična lokacija, ali status zemljišta (pašnjak) i skroman popust od 20% traže oprez. Kombinacija obje susjedne čestice mogla bi povećati vrijednost ako se riješi pitanje namjene.",
   "flags": [
-    "pašnjak - potrebna hitna provjera prostornog plana i zoninga",
-    "nema građevinskog objekta",
-    "prva dražba bez bonusa"
+    "provjeriti: mogućnost gradnje/promjena namjene zemljišta (trenutno pašnjak)",
+    "provjeriti: komunalna infrastruktura i pristup"
   ],
-  "input_hash": "79bc07b23091",
-  "scored_at": "2026-04-24T08:05:49.852638"
+  "discount_pct": 20.0,
+  "input_hash": "0970a0a71dde",
+  "scored_at": "2026-07-09T09:40:23.504728"
 }

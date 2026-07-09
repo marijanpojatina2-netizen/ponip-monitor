@@ -1,16 +1,13 @@
 {
   "id": "59895",
-  "score_overall": 3.5,
+  "score_overall": 4.0,
   "score_lokacija": 4.0,
-  "score_roi": 4.0,
-  "score_stanje": 4.0,
-  "recommendation": "pass",
-  "reasoning": "Oranica u Jalšovcu u punom vlasništvu 1/1 je čista nekretnina bez suvlasničkih komplikacija, ali 20% popusta na prvoj dražbi za agricolturno zemljište niske likvidnosti ne donosi dovoljan investicijski margin. Bez razvoja ili konverzije namjene ROI je minimalan.",
-  "flags": [
-    "isključivo poljoprivredna namjena",
-    "prva dražba - bez bonusa na cijenu",
-    "niska potražnja za ovom vrstom zemljišta"
-  ],
-  "input_hash": "7ce511b81b3e",
-  "scored_at": "2026-04-24T08:05:49.853369"
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Oranica u Jalšovcu kraj Čakovca u punom vlasništvu ovršenika (1/1), što je čišći slučaj od susjedne susjedne parcele s više suvlasnika. Popust od 20% na prvoj dražbi je umjeren, zemljište bez objekta.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "fafef8fdec1b",
+  "scored_at": "2026-07-09T09:47:55.727137"
 }

@@ -1,16 +1,16 @@
 {
   "id": "60031",
-  "score_overall": 2.5,
-  "score_lokacija": 5.0,
-  "score_roi": 3.5,
-  "score_stanje": 3.0,
+  "score_overall": 4.3,
+  "score_lokacija": 5.5,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
   "recommendation": "pass",
-  "reasoning": "Parcel 81 m2 na Zagrebačkoj ulici u Varaždinu, katastarska oznaka 'ulica' – iste restrikcije kao srodne čestice 3924/24 i 3924/21; mali i izoliran parcel bez objekta čini investicijsku priču gotovo nepostojećom. Jedina vrijednost bila bi u konsolidaciji sa susjednim parcelama.",
+  "reasoning": "Zemljište od 81 m2 u Zagrebačkoj ulici u Varaždinu vodi se u naravi kao 'ulica', što znači da nema samostalnu građevinsku ili stambenu vrijednost unatoč dobroj gradskoj lokaciji. Interes za takvo zemljište realno postoji jedino kod susjednih vlasnika ili grada, pa je ROI potencijal za tipičnog investitora nizak.",
   "flags": [
-    "katastarska oznaka 'ulica' – ograničena gradivnost",
-    "mali parcel 81 m2 bez samostalne investicijske vrijednosti",
-    "vrijednost jedino u konsolidaciji s parcelama 3924/24 i 3924/21"
+    "zemljište u naravi 'ulica' - bez samostalne građevinske vrijednosti prema opisu",
+    "provjeriti: mogućnost prenamjene zemljišta u građevinsko ili interes susjednih vlasnika/grada za otkup"
   ],
-  "input_hash": "e18425d31d70",
-  "scored_at": "2026-04-27T08:21:25.044693"
+  "discount_pct": 25.0,
+  "input_hash": "8c83df87df93",
+  "scored_at": "2026-07-09T09:50:51.444192"
 }

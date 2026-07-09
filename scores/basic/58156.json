@@ -1,17 +1,15 @@
 {
   "id": "58156",
-  "score_overall": 2.0,
-  "score_lokacija": 1.5,
-  "score_roi": 3.5,
-  "score_stanje": 3.0,
-  "recommendation": "pass",
-  "reasoning": "Gotovo 21.000 m2 oranice u Plaškom (Lika) za 6.800 EUR zvuči jeftino, ali Lika je demografski kolaps zona bez tržišta nekretnina i bez ikakve perspektive za dugoročnu kapitalnu aprecijaciju ili rentabilno korištenje.",
+  "score_overall": 4.5,
+  "score_lokacija": 2.0,
+  "score_roi": 7.0,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Iako je nadležan Trgovački sud u Zagrebu, nekretnina se nalazi u Plaškom (Lika, depopulacijsko područje), što bitno smanjuje atraktivnost lokacije. Druga dražba s 50% popustom i velika površina od 2 ha čine ROI potencijal solidnim, ali uz nisku likvidnost regije.",
   "flags": [
-    "Plaški/Lika - jedna od najdepopuliranijih zona Hrvatske",
-    "samo oranica bez ikakvih objekata",
-    "minimalna do nulta tržišna likvidnost",
-    "50% popust indicira da nema interesa tržišta"
+    "provjeriti: dostupnost, pristupni putovi i stvarno stanje zemljišta u depopulacijskom području"
   ],
-  "input_hash": "e92c1bafa4c2",
-  "scored_at": "2026-06-08T10:49:20.843183"
+  "discount_pct": 50.0,
+  "input_hash": "d959913cf805",
+  "scored_at": "2026-07-09T09:44:29.776382"
 }

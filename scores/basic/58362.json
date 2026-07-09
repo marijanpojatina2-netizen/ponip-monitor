@@ -1,16 +1,15 @@
 {
   "id": "58362",
-  "score_overall": 3.0,
-  "score_lokacija": 2.0,
-  "score_roi": 5.0,
+  "score_overall": 4.4,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
   "score_stanje": 3.0,
   "recommendation": "pass",
-  "reasoning": "40% popust i druga dražba su teorijski atraktivni ulazni parametri, ali Đakovo je ruralna depopulacijska Slavonija s minimalnom likvidnošću za poljoprivredno zemljište; 7+ suvlasnika bez konsenzusa čini exit praktički nemogućim.",
+  "reasoning": "Ruralna oranica kod Đakova s niskom likvidnošću, a prodaje se tek suvlasnički udio ovršenika (30/224) uz šest drugih suvlasnika, što komplicira stjecanje pune raspoložive nekretnine. Popust od 40% djelomično kompenzira rizik, ali fragmentirano vlasništvo bitno otežava izlaznu strategiju.",
   "flags": [
-    "kompleksno suvlasništvo - 8 osoba bez jasnog većinskog vlasnika",
-    "ruralno poljoprivredno zemljište - minimalna tržišna likvidnost",
-    "Slavonija depopulacijsko područje - loš dugoročni trend"
+    "provjeriti: suvlasnički udjeli (više ovršenika) i mogućnost fizičke diobe ili prodaje cijele nekretnine"
   ],
-  "input_hash": "f04c08382f6e",
-  "scored_at": "2026-04-21T07:54:05.150922"
+  "discount_pct": 40.0,
+  "input_hash": "0ddb3040e0f6",
+  "scored_at": "2026-07-09T09:40:23.505345"
 }

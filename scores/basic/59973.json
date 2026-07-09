@@ -1,16 +1,13 @@
 {
   "id": "59973",
-  "score_overall": 2.0,
+  "score_overall": 3.8,
   "score_lokacija": 2.0,
-  "score_roi": 3.0,
-  "score_stanje": 5.0,
+  "score_roi": 5.5,
+  "score_stanje": 3.0,
   "recommendation": "pass",
-  "reasoning": "Oranica 13.498 m2 u Račinovcima kod Županje – depopulacijska zona istočne Slavonije s minimalnim potencijalom rasta vrijednosti i izrazito niskom tržišnom likvidnošću. Popust od 20% na prvoj dražbi je potpuno nedostatan za takav rizik i lokaciju.",
-  "flags": [
-    "depopulacijska zona – Županjska Posavina, negativni demografski trend",
-    "poljoprivredno zemljište bez infrastrukturnog ili razvojnog potencijala",
-    "20% popust na prvoj dražbi – nedostatan za ulaz u slabu regiju"
-  ],
-  "input_hash": "2cb672e8e4a4",
-  "scored_at": "2026-04-27T08:21:25.044592"
+  "reasoning": "Oranica od 13498 m2 u k.o. Račinovci nalazi se u dubokoj slavonskoj ruralnoj zoni s izraženom depopulacijom i slabom likvidnošću tržišta. Popust od 20% na prvoj dražbi nije dovoljan poticaj s obzirom na nisku potražnju za poljoprivrednim zemljištem u regiji.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "232b74e73d57",
+  "scored_at": "2026-07-09T09:39:14.614562"
 }

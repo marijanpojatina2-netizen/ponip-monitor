@@ -1,16 +1,16 @@
 {
   "id": "60593",
-  "score_overall": 3.0,
-  "score_lokacija": 3.5,
-  "score_roi": 3.0,
-  "score_stanje": 4.0,
-  "recommendation": "pass",
-  "reasoning": "Samo 1/2 suvlasničkog udjela ruralne kuće u Prekopi kod Čakovca - investitor ne dobiva kontrolu nad nekretninom, a ruralno međimursko tržište je nelikvidno; izlaz iz investicije bez suglasnosti suvlasnika praktički je nemoguć.",
+  "score_overall": 4.8,
+  "score_lokacija": 5.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća u Prekopi kraj Čakovca na prvoj dražbi s 20% popustom ima pristojnu regionalnu lokaciju, no radi se o 1/2 suvlasničkog dijela što komplicira izlaznu strategiju. Vrijedi pratiti do eventualne treće dražbe za bolji popust.",
   "flags": [
-    "samo 1/2 suvlasnički udio - bez kontrole, bez autonomne prodaje",
-    "ruralno Međimurje - niska potražnja i likvidnost",
-    "suradnja s drugim suvlasnikom uvjet za svaki korak"
+    "suvlasnički dio 1/2 - otežana prodaja/upravljanje",
+    "provjeriti: stanje nekretnine i useljenost"
   ],
-  "input_hash": "910cfb03bb45",
-  "scored_at": "2026-06-11T10:21:11.265996"
+  "discount_pct": 20.0,
+  "input_hash": "f6cb48e6423c",
+  "scored_at": "2026-07-09T09:37:55.384531"
 }

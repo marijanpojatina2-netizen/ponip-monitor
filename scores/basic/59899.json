@@ -1,17 +1,16 @@
 {
   "id": "59899",
-  "score_overall": 2.5,
+  "score_overall": 4.0,
   "score_lokacija": 4.0,
-  "score_roi": 3.0,
-  "score_stanje": 4.0,
-  "recommendation": "pass",
-  "reasoning": "Prodaje se samo 9/16 suvlasničkog udjela što praktično znači zajednički ulaz s nepoznatim suvlasnicima - bez njihove suglasnosti nema razvoja, prodaje ni refinanciranja. Apsolutni show-stopper koji nadmašuje svaku drugu analizu čak i uz povoljnu cijenu.",
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Oranica u Jalšovcu kraj Čakovca, solidnija lokacija u Međimurju, ali prodaje se samo 9/16 suvlasničkog dijela što komplicira upravljanje i buduću prodaju. Popust tek 20% na prvoj dražbi.",
   "flags": [
-    "KRITIČNO: suvlasništvo 9/16 - ostali suvlasnici nepoznati",
-    "nemoguć razvoj bez suglasnosti svih suvlasnika",
-    "izrazito otežana preprodaja i financiranje",
-    "prva dražba"
+    "suvlasništvo 9/16 dijela (5. suvlasnički dio) - otežana prodaja/upravljanje",
+    "provjeriti: status ostalih suvlasnika i mogućnost diobe nekretnine"
   ],
-  "input_hash": "70bcabda7c2b",
-  "scored_at": "2026-04-24T08:05:49.853293"
+  "discount_pct": 20.0,
+  "input_hash": "d937f65043e0",
+  "scored_at": "2026-07-09T09:47:55.726940"
 }

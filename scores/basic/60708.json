@@ -1,12 +1,15 @@
 {
   "id": "60708",
-  "score_overall": 2.6,
-  "score_lokacija": 2.0,
-  "score_roi": 3.0,
-  "score_stanje": 3.0,
+  "score_overall": 3.9,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
   "recommendation": "pass",
-  "reasoning": "Tri oranice (~23.250 m2) u k.o. Sibenik, Grubišno Polje — sve čisto poljoprivredno zemljište bez objekata u ruralnoj depopulacijskoj zoni. Popust 20% na prvoj dražbi i slaba potražnja za agrikulturnim zemljištem čine ovaj lot neatraktivnim.",
-  "flags": [],
-  "input_hash": "909e27128f86",
-  "scored_at": "2026-06-24T09:28:52.669304"
+  "reasoning": "Unatoč imenu k.o. 'Sibenik', nadležnost suda (Grubišno Polje) upućuje na ruralnu Bjelovarsko-bilogorsku županiju, a ne na obalni Šibenik - popust od tek 20% na prvoj dražbi ne kompenzira slabu likvidnost poljoprivrednog zemljišta u depopulacijskom području.",
+  "flags": [
+    "provjeriti: k.o. 'Sibenik' je vjerojatno lokalni naziv unutar nadležnosti suda u Grubišnom Polju, a ne grad Šibenik na moru"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "6e6452623fb1",
+  "scored_at": "2026-07-09T09:45:42.213659"
 }

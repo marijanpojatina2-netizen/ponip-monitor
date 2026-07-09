@@ -1,15 +1,15 @@
 {
   "id": "58927",
-  "score_overall": 3.0,
-  "score_lokacija": 2.0,
-  "score_roi": 5.5,
-  "score_stanje": 4.0,
+  "score_overall": 4.5,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.5,
   "recommendation": "pass",
-  "reasoning": "Ruralna slavonska lokacija s negativnim demografskim trendom eliminira investicijski potencijal unatoč solidnom popustu od 40% na drugoj dražbi; likvidnost pri izlazu iz investicije bila bi ekstremno niska.",
+  "reasoning": "Kuća s dvorom i oranicom u Slakovcima kod Vinkovaca uz 40% popusta na drugoj dražbi donosi dobar nominalni discount, ali slavonska ruralna lokacija znači slabu potražnju i otežanu preprodaju. Stanje objekta je nepoznato i vjerojatno zahtijeva ulaganje.",
   "flags": [
-    "ruralna Slavonija - depopulacijska zona",
-    "niska tržišna likvidnost - Vinkovci okolica"
+    "provjeriti: stanje kuće i eventualno stanovanje ovršenika"
   ],
-  "input_hash": "cb18ef5c3f90",
-  "scored_at": "2026-05-22T09:06:35.678944"
+  "discount_pct": 40.0,
+  "input_hash": "b094311ab07b",
+  "scored_at": "2026-07-09T09:35:38.929396"
 }

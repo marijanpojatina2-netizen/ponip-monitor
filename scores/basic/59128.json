@@ -1,16 +1,16 @@
 {
   "id": "59128",
-  "score_overall": 2.0,
-  "score_lokacija": 1.5,
-  "score_roi": 3.5,
+  "score_overall": 4.6,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
   "score_stanje": 4.0,
   "recommendation": "pass",
-  "reasoning": "Mikleuš kraj Slatine je među najslabijim lokacijama u Hrvatskoj za investiciju – duboka ruralna Slavonija s masovnim iseljavanjem i nultim potražnjom. Suvlasništvo 4/9 dodaje pravnu kompleksnost, a ukupna vrijednost od ~6.500 EUR ne opravdava ni troškove due diligence postupka.",
+  "reasoning": "Ruralna Slavonija (Virovitičko-podravska), kuća i poljoprivredno zemljište u Mikleušu bez detalja o stanju objekta. Ovršenik posjeduje tek 4/9 suvlasničkog dijela što bitno komplicira stjecanje pune kontrole nad nekretninom.",
   "flags": [
-    "suvlasništvo 4/9 – bez kontrole nad nekretninom",
-    "Mikleuš/Slatina – duboka depopulacijska zona, Virovitičko-podravska županija",
-    "izlaz iz investicije praktički nemoguć u razumnom roku"
+    "suvlasništvo ovršenika 4/9 dijela",
+    "provjeriti: stanje i useljivost kuće"
   ],
-  "input_hash": "868e00fdfd7a",
-  "scored_at": "2026-05-29T09:53:08.257382"
+  "discount_pct": 40.0,
+  "input_hash": "05cf8b5aa660",
+  "scored_at": "2026-07-09T09:46:54.139694"
 }

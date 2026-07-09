@@ -1,16 +1,15 @@
 {
   "id": "59733",
-  "score_overall": 3.0,
+  "score_overall": 3.6,
   "score_lokacija": 2.5,
-  "score_roi": 3.5,
+  "score_roi": 4.5,
   "score_stanje": 3.5,
   "recommendation": "pass",
-  "reasoning": "Ruralna unutrašnjost Dalmacije (Koritna, Sinj područje) s pretežno oraničnim zemljištem i neopisanom kućom - slaba lokacija bez turističkog ni urbanog potencijala. Svega 20% popust na prvoj dražbi ne opravdava ulaz u depopulacijsko područje.",
+  "reasoning": "Ruralna nekretnina u k.o. Koritna (Brodsko-posavska županija) s oranicama i kućom - slaba potražnja i depopulacijsko područje ograničavaju ROI. Veća ukupna površina je plus, ali lokacija i nepoznato stanje objekta drže ocjenu nisko.",
   "flags": [
-    "ruralno depopulacijsko područje",
-    "pretežno oranica bez opisanog stanja kuće",
-    "slaba tržišna likvidnost"
+    "provjeriti: stanje kuće i infrastrukturna opremljenost"
   ],
-  "input_hash": "e44b76c07424",
-  "scored_at": "2026-04-21T13:34:55.352877"
+  "discount_pct": 20.0,
+  "input_hash": "e09a8e3f5c1b",
+  "scored_at": "2026-07-09T09:36:53.185927"
 }

@@ -1,12 +1,15 @@
 {
   "id": "60682",
-  "score_overall": 2.6,
-  "score_lokacija": 2.0,
-  "score_roi": 3.0,
-  "score_stanje": 3.0,
+  "score_overall": 3.7,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
   "recommendation": "pass",
-  "reasoning": "Dvije oranice (~25.450 m2) u k.o. Sibenik kraj Grubišnog Polja — duboka slavonska unutrašnjost s izrazitom depopulacijom i minimalnom tržišnom likvidnošću. Bez objekata, samo 20% popusta na prvoj dražbi — investicijski slučaj ne postoji.",
-  "flags": [],
-  "input_hash": "9104d85882a4",
-  "scored_at": "2026-06-24T09:28:52.669147"
+  "reasoning": "K.o. 'Sibenik' ovdje je ruralno naselje u Bjelovarsko-bilogorskoj županiji, a ne grad Šibenik na moru - lokacija je slaba, depopulacijsko područje. Dvije velike oranice (ukupno 2,5 ha) daju poljoprivrednu vrijednost, ali uz nisku likvidnost tržišta.",
+  "flags": [
+    "provjeriti: k.o. naziv 'Sibenik' odnosi se na ruralno naselje kraj Grubišnog Polja, NE na grad Šibenik"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "e38687bb691e",
+  "scored_at": "2026-07-09T09:44:29.775844"
 }

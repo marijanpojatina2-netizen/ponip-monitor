@@ -1,16 +1,17 @@
 {
   "id": "59482",
-  "score_overall": 2.4,
-  "score_lokacija": 3.0,
-  "score_roi": 4.0,
+  "score_overall": 4.8,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
   "score_stanje": 3.0,
-  "recommendation": "pass",
-  "reasoning": "Specifična industrijska namjena (trafostanica i radionica) u Petrinji uz suvlasničkih 1/2 dijela i potencijalno aktivnu upotrebu trafostanice od strane elektrodistributera stvara višestruke pravne i komercijalne rizike koje je gotovo nemoguće razriješiti bez dugotrajnih postupaka. Investicijska vrijednost je minimalna.",
+  "recommendation": "watch",
+  "reasoning": "Radi se o industrijskoj nekretnini (trafostanica i radiona) u Petrinji u suvlasništvu 1/2, s ograničenom namjenom za daljnju preprodaju. Visok popust (40%) i druga dražba djelomično kompenziraju nišnu namjenu i rizik potresne štete u regiji.",
   "flags": [
-    "suvlasničkih 1/2 dijela",
-    "prava koja ne prestaju prodajom",
-    "industrijska namjena — trafostanica"
+    "suvlasništvo 1/2",
+    "provjeriti: potresna šteta na objektima (Petrinja 2020.)",
+    "provjeriti: namjena i moguća prenamjena trafostanice/radionice"
   ],
-  "input_hash": "089414bae119",
-  "scored_at": "2026-06-22T11:52:05.080757"
+  "discount_pct": 40.0,
+  "input_hash": "c6d6ddfec441",
+  "scored_at": "2026-07-09T09:42:59.340999"
 }

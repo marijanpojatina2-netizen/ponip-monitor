@@ -1,17 +1,13 @@
 {
   "id": "60403",
-  "score_overall": 2.5,
-  "score_lokacija": 2.0,
-  "score_roi": 3.0,
-  "score_stanje": 3.5,
-  "recommendation": "pass",
-  "reasoning": "Kombinacija minimalnog popusta od 20% na prvoj dražbi, ruralne baranjske lokacije i potpunog izostanka stambenog objekta čini ovu investiciju neprihvatljivom; isključivo agrikulturno zemljište bez prihvatne infrastrukture.",
-  "flags": [
-    "1. dražba - minimalni popust",
-    "bez stambenog objekta",
-    "ruralna Baranja - depopulacijska zona",
-    "isključivo vinograd i voćnjak"
-  ],
-  "input_hash": "08a58e3fa79b",
-  "scored_at": "2026-05-22T09:06:35.679269"
+  "score_overall": 4.1,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Vinograd i voćnjak u Kotlini (Baranja) nude nešto veću vrijednost stanja zbog poljoprivredne produktivnosti tipične za baranjski vinogorski kraj, no lokacija je ruralna i slabije likvidna. Popust od samo 20% na prvoj dražbi ne daje dovoljnu sigurnosnu maržu za agresivniju ponudu.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "04fd8c4ec6ea",
+  "scored_at": "2026-07-09T09:40:23.506487"
 }

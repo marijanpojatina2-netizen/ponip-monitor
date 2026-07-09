@@ -1,16 +1,15 @@
 {
   "id": "58308",
-  "score_overall": 4.5,
-  "score_lokacija": 2.5,
-  "score_roi": 7.0,
+  "score_overall": 5.0,
+  "score_lokacija": 2.0,
+  "score_roi": 7.5,
   "score_stanje": 4.5,
   "recommendation": "watch",
-  "reasoning": "40% popust na drugoj dražbi daje solidan financijski ulaz ispod tržišta, ali ruralna lokacija Skenderovci (Požeška kotlina) s niskom likvidnošću značajno otežava exit strategiju; vrijedi pratiti ako cijena ne poraste.",
+  "reasoning": "Izgrađeno zemljište s dvorištem u Skenderovcima (Požega) ima visok popust od 40% na drugoj dražbi, a spomen postojećeg objekta sugerira mogući potencijal za obnovu. Duboko ruralna lokacija s vjerojatnom depopulacijom bitno ograničava ROI unatoč povoljnoj cijeni.",
   "flags": [
-    "ruralna lokacija Požeška kotlina",
-    "slaba tržišna likvidnost",
-    "nejasno stanje objekta iz opisa"
+    "provjeriti: stanje i useljivost objekta na izgrađenom zemljištu"
   ],
-  "input_hash": "4a738ac04ca6",
-  "scored_at": "2026-04-21T13:36:27.163151"
+  "discount_pct": 40.0,
+  "input_hash": "b0a49a708bf0",
+  "scored_at": "2026-07-09T09:39:14.615304"
 }

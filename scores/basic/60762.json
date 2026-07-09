@@ -1,15 +1,15 @@
 {
   "id": "60762",
-  "score_overall": 4.9,
+  "score_overall": 4.6,
   "score_lokacija": 6.0,
   "score_roi": 4.5,
-  "score_stanje": 4.0,
-  "recommendation": "pass",
-  "reasoning": "Istranska lokacija (Svetvinčenat / Juršići) nudi geografski potencijal, ali oranica od svega 288 m2 u suvlasništvu 2/4 dijela praktički nema razvojnog potencijala niti dovoljan volumen za smislenu investicijsku premisu.",
+  "score_stanje": 2.5,
+  "recommendation": "watch",
+  "reasoning": "Radi se o suvlasničkom dijelu (2/4) male oranice u unutrašnjosti Istre, što uz atraktivnost regije nosi i komplikacije oko raspolaganja bez suglasnosti ili sudske diobe. Popust od 25% je solidan, ali mala površina i suvlasništvo ograničavaju praktičnu iskoristivost.",
   "flags": [
-    "suvlasničkih 2/4 dijela",
-    "oranica — ograničena prenamjena"
+    "provjeriti: suvlasnički dio (2/4) - potrebna suglasnost ili sudska dioba za samostalno raspolaganje"
   ],
-  "input_hash": "b45c2798c274",
-  "scored_at": "2026-06-22T11:52:05.081123"
+  "discount_pct": 25.0,
+  "input_hash": "d95480658804",
+  "scored_at": "2026-07-09T09:49:35.369374"
 }

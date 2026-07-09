@@ -1,17 +1,16 @@
 {
   "id": "59945",
-  "score_overall": 4.0,
-  "score_lokacija": 7.5,
-  "score_roi": 3.0,
-  "score_stanje": 3.0,
-  "recommendation": "pass",
-  "reasoning": "Lokacija na Rabu je atraktivna turistička destinacija, ali predmet prodaje je samo 3/12 (25%) idealnog suvlasničkog dijela pašnjaka bez ikakve izgradnje - bez suglasnosti preostalih 75% suvlasnika nemoguće je legalno razviti nekretninu. Suvlasnički udio pašnjaka na otoku privlačna je priča na papiru, ali praktički neupotrebljiva investicija.",
+  "score_overall": 6.3,
+  "score_lokacija": 9.0,
+  "score_roi": 6.0,
+  "score_stanje": 2.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Nekretnina se nalazi na otoku Rabu, vrhunskoj turističkoj lokaciji, što joj daje visok dugoročni potencijal unatoč tome što je riječ o 3/12 suvlasničkog dijela neizgrađenog pašnjaka. Zbog atraktivnosti lokacije vrijedi detaljnije istražiti mogućnost otkupa udjela ostalih suvlasnika i namjenu zemljišta prije licitacije.",
   "flags": [
-    "samo 3/12 (25%) suvlasničkog udjela - nema kontrole nad nekretninom",
-    "pašnjak - agrarna namjena, bez građevinskih prava",
-    "razvoj nemoguć bez suglasnosti 100% suvlasnika",
-    "nema postojećeg objekta"
+    "provjeriti: suvlasništvo - 3/12 idealni dio, pravo prvokupa ostalih suvlasnika",
+    "provjeriti: namjena zemljišta (pašnjak) i mogućnost prenamjene/gradnje"
   ],
-  "input_hash": "d7648192fbff",
-  "scored_at": "2026-04-28T08:24:20.460712"
+  "discount_pct": 20.0,
+  "input_hash": "a6efae0f220a",
+  "scored_at": "2026-07-09T09:44:29.777345"
 }

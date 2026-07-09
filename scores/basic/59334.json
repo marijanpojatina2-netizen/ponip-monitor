@@ -1,12 +1,15 @@
 {
   "id": "59334",
-  "score_overall": 4.5,
-  "score_lokacija": 2.0,
-  "score_roi": 7.0,
-  "score_stanje": 3.5,
-  "recommendation": "pass",
-  "reasoning": "Kuća u selu Ciglenik kod Oriovca — depopulacijsko ruralno područje istočne Slavonije s minimalnom tržišnom likvidnošću. Popust 40% i niska apsolutna cijena (~6.200 EUR) jedini su aduti, ali bez realne perspektive iznajmljivanja ili preprodaje.",
-  "flags": [],
-  "input_hash": "5f64f4593022",
-  "scored_at": "2026-06-12T10:08:32.572624"
+  "score_overall": 4.6,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća s dvorištem u Cigleniku kraj Oriovca, ruralna Slavonija sa slabijom likvidnošću tržišta. Popust od 40% na drugoj dražbi je solidan, ali lokacija ograničava dugoročni ROI potencijal.",
+  "flags": [
+    "provjeriti: stanje i useljivost kuće"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "1d4ee5952174",
+  "scored_at": "2026-07-09T09:46:54.141027"
 }
