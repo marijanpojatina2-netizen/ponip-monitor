@@ -1,17 +1,15 @@
 {
   "id": "60315",
-  "score_overall": 2.0,
-  "score_lokacija": 1.5,
-  "score_roi": 3.0,
-  "score_stanje": 4.0,
+  "score_overall": 3.7,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
   "recommendation": "pass",
-  "reasoning": "Oranica u k.o. Draž (Baranja) - duboka depopulacijska zona uz granicu s Mađarskom, minimalna likvidnost tržišta. Suvlasništvo 3 ovršenika komplicira uknjižbu, popust svega 20% na prvoj dražbi ne opravdava rizik.",
+  "reasoning": "Mala oranica od 773 m2 u Draž s tek 20% popusta na prvoj dražbi, u slabo naseljenom pograničnom području Baranje. Isti zemljišnoknjižni uložak kao ID 60313 upućuje na mogućnost zajedničkog stjecanja radi konsolidacije.",
   "flags": [
-    "suvlasništvo 3 ovršenika - kompleksna uknjižba",
-    "k.o. Draž - ekstremno niska likvidnost",
-    "poljoprivredno zemljište bez razvojnog potencijala",
-    "Baranja - depopulacijska zona"
+    "provjeriti: isti predmet ovrhe kao ID 60313 (zk.ul. 2515) - moguće zajedničko stjecanje"
   ],
-  "input_hash": "8baed38bacf8",
-  "scored_at": "2026-05-19T09:40:30.510216"
+  "discount_pct": 20.0,
+  "input_hash": "38dd7f791c8d",
+  "scored_at": "2026-07-10T09:32:13.629046"
 }

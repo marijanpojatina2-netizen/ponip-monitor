@@ -1,16 +1,13 @@
 {
   "id": "59905",
-  "score_overall": 3.0,
+  "score_overall": 3.3,
   "score_lokacija": 2.0,
-  "score_roi": 3.0,
-  "score_stanje": 4.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
   "recommendation": "pass",
-  "reasoning": "Ista katastarska općina kao ID 59903, isti rizici – ruralna Slavonija s minimalnom potražnjom za poljoprivrednim zemljištem od strane vanjskih investitora. 4503m2 oranice uz 20% popust ne gradi investicijski slučaj.",
-  "flags": [
-    "depopulacijsko područje",
-    "niska tržišna likvidnost",
-    "moguće iste stranke u ovršnom postupku kao 59903"
-  ],
-  "input_hash": "acc183baee1e",
-  "scored_at": "2026-04-23T07:50:48.963719"
+  "reasoning": "Isto ruralno područje Moslavine Podravske (Osječko-baranjska županija) sa slabom likvidnošću i niskim investicijskim potencijalom. Popust od samo 20% na prvoj dražbi za neizgrađenu oranicu ne pruža dovoljnu maržu za ROI.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "9bc23360b4ea",
+  "scored_at": "2026-07-10T09:40:07.571671"
 }

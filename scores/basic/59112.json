@@ -1,12 +1,13 @@
 {
   "id": "59112",
-  "score_overall": 4.7,
-  "score_lokacija": 4.5,
-  "score_roi": 5.5,
-  "score_stanje": 3.0,
-  "recommendation": "pass",
-  "reasoning": "Oranica 3575 m2 u k.o. Šašinovec — treća parcela iz istog zk.ul. 8410 s identičnim profilom rizika; moguće zanimljivo kao paket s ID 59116 i 59110, ali individualno slab case.",
+  "score_overall": 5.6,
+  "score_lokacija": 5.0,
+  "score_roi": 7.5,
+  "score_stanje": 2.5,
+  "recommendation": "bid",
+  "reasoning": "Oranica od 3575 m2 u Šašinovcu (Sesvete/Zagreb periferija), vlasništvo ovršenika u cijelosti, s 40% popusta na drugoj dražbi - gotovo identičan profil kao susjedna čestica u istom katastru. Dobar omjer cijene i blizine Zagreba za zemljišnu banku.",
   "flags": [],
-  "input_hash": "6c95459d2e24",
-  "scored_at": "2026-06-15T11:59:10.564833"
+  "discount_pct": 40.0,
+  "input_hash": "c36c3c0b8987",
+  "scored_at": "2026-07-10T09:37:10.146481"
 }

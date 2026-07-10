@@ -1,12 +1,15 @@
 {
   "id": "59250",
-  "score_overall": 4.0,
-  "score_lokacija": 3.5,
-  "score_roi": 5.0,
-  "score_stanje": 2.5,
-  "recommendation": "watch",
-  "reasoning": "Livadna čestica 2140 m2 u k.o. Šašinovec — profil gotovo identičan ID 59104, bez stambenih objekata i s uskim kupačkim tržištem za livade ove veličine. Popust i jednostavno vlasništvo pozitivni, no tržišna likvidnost ostaje ključni ograničavajući faktor.",
-  "flags": [],
-  "input_hash": "f2a5246b7d84",
-  "scored_at": "2026-06-15T12:01:35.809858"
+  "score_overall": 6.2,
+  "score_lokacija": 6.0,
+  "score_roi": 7.0,
+  "score_stanje": 5.0,
+  "recommendation": "bid",
+  "reasoning": "Livada u Šašinovcu na periferiji Sesveta, dakle unutar šireg zagrebačkog urbanog područja s dobrom likvidnošću i potencijalom rasta vrijednosti zemljišta. Popust od 40% na drugoj dražbi uz relativno veću površinu (2140 m2) čini ovo realnim kandidatom za licitaciju.",
+  "flags": [
+    "provjeriti: namjena zemljišta (poljoprivredno vs. građevinsko)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "059815f8593c",
+  "scored_at": "2026-07-10T09:41:13.829490"
 }

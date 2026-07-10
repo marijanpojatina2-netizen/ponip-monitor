@@ -1,17 +1,15 @@
 {
   "id": "59889",
-  "score_overall": 3.0,
-  "score_lokacija": 4.0,
-  "score_roi": 3.5,
-  "score_stanje": 4.0,
+  "score_overall": 3.3,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
   "recommendation": "pass",
-  "reasoning": "Šuma Rimščak površine ~1268 čhv s 20% popusta na prvoj dražbi je najslabiji investicijski slučaj u ovom skupu - šumsko zemljište ima stroga ograničenja korištenja i gotovo nikakav turistički ili razvojni potencijal. Eventualni prihod od sječe simboličan je u ovoj veličini.",
+  "reasoning": "Šumsko zemljište u Međimurju, ruralna lokacija slabe likvidnosti za investicijski ROI, bez ikakve infrastrukture ili razvojnog potencijala. Popust od 20% na prvoj dražbi nije dovoljan poticaj s obzirom na namjenu.",
   "flags": [
-    "šuma - stroga zakonska ograničenja sječe i korištenja",
-    "minimalni prihodni potencijal",
-    "prva dražba bez cjenovnog bonusa",
-    "najslabija likvidnost od svih ponuđenih"
+    "provjeriti: šumskogospodarska osnova i pristupni put do parcele"
   ],
-  "input_hash": "c47305d1d378",
-  "scored_at": "2026-04-24T08:05:49.853451"
+  "discount_pct": 20.0,
+  "input_hash": "0add2e638ee3",
+  "scored_at": "2026-07-10T09:36:04.731212"
 }

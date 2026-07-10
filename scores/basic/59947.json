@@ -1,18 +1,16 @@
 {
   "id": "59947",
-  "score_overall": 3.0,
-  "score_lokacija": 7.5,
-  "score_roi": 2.0,
-  "score_stanje": 2.5,
-  "recommendation": "pass",
-  "reasoning": "Rab kao lokacija ocjenjujem visoko, ali 3/12 udjela na 270 m2 puta i maslinika praktički je bez ikakve upotrebne vrijednosti - 'put' komponenta sugerira prometnu funkciju čestice što dodatno ograničava raspolaganje. Uz suvlasnički problem isti kao i kod ID 59945, ovo je jedino 'lokacijska priča' bez ikakve realne investicijske supstance.",
+  "score_overall": 6.0,
+  "score_lokacija": 9.0,
+  "score_roi": 5.0,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Lokacija na Rabu je vrhunska turistička zona s visokom potencijalnom vrijednošću, no popust od svega 20% na prvoj dražbi i sitna površina (270 m2) smanjuju ROI. Radi se o 3/12 idealnog suvlasničkog dijela puta i maslinika, što je vrlo ograničeno samostalno upotrebljivo unatoč atraktivnoj lokaciji.",
   "flags": [
-    "samo 3/12 (25%) suvlasničkog udjela",
-    "'put' - moguća prometna/javna namjena čestice",
-    "maslinik - agrarna namjena",
-    "270 m2 ukupno - iznimno mala i nerazvojna parcela",
-    "praktički nemoguće valorizirati bez 100% vlasništva"
+    "provjeriti: mali idealni (3/12) suvlasnički dio – ograničena mogućnost samostalnog raspolaganja",
+    "provjeriti: namjena čestice (poljoprivredno/maslinik, ne građevinsko zemljište)"
   ],
-  "input_hash": "02166401fcd0",
-  "scored_at": "2026-04-28T08:24:20.460931"
+  "discount_pct": 20.0,
+  "input_hash": "59ae83aa13c8",
+  "scored_at": "2026-07-10T09:40:07.570427"
 }

@@ -1,16 +1,15 @@
 {
   "id": "59891",
   "score_overall": 3.5,
-  "score_lokacija": 4.0,
-  "score_roi": 3.5,
-  "score_stanje": 4.5,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
   "recommendation": "pass",
-  "reasoning": "Šumska parcela u Međimurju nosi zakonska ograničenja razvoja i minimalnu komercijalnu iskoristivost; 20% popust na prvoj dražbi daleko je ispod praga koji bi opravdao ulazak u ovako specifičan i nelikvidan asset.",
+  "reasoning": "Šumsko zemljište u ruralnom Međimurju s malim popustom od 20% na prvoj dražbi ne nudi dovoljan margin za rizik. Niska likvidnost šumskog zemljišta i nepostojanje infrastrukture čine ROI slab.",
   "flags": [
-    "šumsko zemljište - zakonska ograničenja sječe i razvoja",
-    "ograničena komercijalna primjena",
-    "prva dražba - minimalni popust"
+    "provjeriti: pristupni put i katastarska usklađenost"
   ],
-  "input_hash": "d69075aa4cac",
-  "scored_at": "2026-04-24T08:07:33.972455"
+  "discount_pct": 20.0,
+  "input_hash": "39489adec944",
+  "scored_at": "2026-07-10T09:42:09.739932"
 }

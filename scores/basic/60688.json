@@ -1,12 +1,15 @@
 {
   "id": "60688",
-  "score_overall": 3.4,
-  "score_lokacija": 3.0,
-  "score_roi": 4.0,
+  "score_overall": 3.9,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
   "score_stanje": 3.0,
   "recommendation": "pass",
-  "reasoning": "Mala livada od 1960 m2 kod Lovrečana (Zlatar Bistrica) minimalne tržišne vrijednosti bez ikakvog turističkog ili razvojnog potencijala; 25% popust na prvoj dražbi ne kompenzira ruralnu lokaciju i izrazitu nelikvidnost ovog mikrotržišta.",
-  "flags": [],
-  "input_hash": "6a458d774f89",
-  "scored_at": "2026-06-16T11:09:25.481550"
+  "reasoning": "Livada u Lovrečanu (Zlatar Bistrica) je ruralno zemljište niske likvidnosti unatoč stečajnoj prodaji i 25% popustu. Nema naznaka razvojnog potencijala niti infrastrukture u blizini.",
+  "flags": [
+    "provjeriti: mogućnost promjene namjene zemljišta"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "1b729eafe6fb",
+  "scored_at": "2026-07-10T09:42:09.740314"
 }

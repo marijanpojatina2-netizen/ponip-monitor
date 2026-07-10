@@ -1,17 +1,15 @@
 {
   "id": "60422",
-  "score_overall": 2.5,
-  "score_lokacija": 2.0,
-  "score_roi": 3.0,
-  "score_stanje": 3.5,
-  "recommendation": "pass",
-  "reasoning": "Gradište kod Županje je ruralno slavonsko naselje s negativnim demografskim trendom i minimalnom potražnjom za nekretninama, a popust od samo 20% na prvoj dražbi ne kompenzira strukturalnu slabost lokacije. Cijena od ~1.576 EUR za kuću s dvorištem zvuči privlačno nominalno, ali apsolutni iznosi u ovoj regiji ne garantiraju unovčivost ni uz daljnje sniženje.",
+  "score_overall": 3.7,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća i dvorište na trgu u Gradištu kraj Županje nude realnu nekretninu (ne samo zemljište), no vrlo niska procijenjena vrijednost (1970 EUR) ukazuje na loše stanje objekta. Samo 20% popusta na prvoj dražbi i nedostatak podataka o useljenosti zahtijevaju oprez i due diligence.",
   "flags": [
-    "depopulacijsko područje - Vukovarsko-srijemska županija",
-    "prva dražba - minimalan popust, bez bonusa",
-    "nema opisa stanja objekta",
-    "niska regionalna likvidnost"
+    "provjeriti: useljenost i stanje objekta"
   ],
-  "input_hash": "809832c41415",
-  "scored_at": "2026-05-25T10:02:50.220261"
+  "discount_pct": 20.0,
+  "input_hash": "46ce833f7202",
+  "scored_at": "2026-07-10T09:43:50.123445"
 }

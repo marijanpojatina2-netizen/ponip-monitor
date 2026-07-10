@@ -1,16 +1,13 @@
 {
   "id": "60359",
-  "score_overall": 2.0,
-  "score_lokacija": 1.5,
-  "score_roi": 3.0,
-  "score_stanje": 4.0,
+  "score_overall": 3.4,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 2.5,
   "recommendation": "pass",
-  "reasoning": "Oranica Kišfalubi Heđ, 4.462 m2 — oranice imaju nešto bolju likvidnost od voćnjaka/vinograda jer ne zahtijevaju specijaliziranu obradu, no Baranja ostaje tržište bez investicijskog interesa. Popust 20% na prvoj dražbi nedovoljan.",
-  "flags": [
-    "ruralno/depopulacijsko područje",
-    "oranica — nešto likvidnija ali i dalje slabo tržište",
-    "Baranja — ograničeno tržište kupaca"
-  ],
-  "input_hash": "f10230b76717",
-  "scored_at": "2026-05-22T09:07:06.509493"
+  "reasoning": "Oranica kod Belog Manastira, ruralno depopulacijsko područje slabe likvidnosti, a popust od svega 20% na prvoj dražbi ne kompenzira slab lokacijski potencijal. Nema naznaka razvojnog potencijala niti dodatne vrijednosti.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "b1acea51f35b",
+  "scored_at": "2026-07-10T09:44:53.870689"
 }

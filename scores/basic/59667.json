@@ -1,12 +1,15 @@
 {
   "id": "59667",
-  "score_overall": 3.3,
+  "score_overall": 4.3,
   "score_lokacija": 2.0,
-  "score_roi": 4.0,
-  "score_stanje": 4.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.5,
   "recommendation": "pass",
-  "reasoning": "Livada Podkućnica 1170 čhv u k.o. Šimljana (isti zk.ul. 383 kao ID 59669) s početnom cijenom od svega 1.314 EUR nema samostalni investicijski smisao. Marginalna apsolutna vrijednost u depopulacijskom dijelu Bjelovarsko-bilogorske županije bez tržišne potražnje i izlazne strategije.",
-  "flags": [],
-  "input_hash": "9ea586c7ae4a",
-  "scored_at": "2026-06-30T09:30:49.481125"
+  "reasoning": "Mala poljoprivredna čestica (livada podkućnica) u dubokoj ruralnoj zoni Bjelovarsko-bilogorske županije s izraženom depopulacijom. Unatoč popustu od 40% i drugoj dražbi, niska apsolutna vrijednost i slaba likvidnost tržišta ograničavaju ROI potencijal.",
+  "flags": [
+    "provjeriti: komunalna infrastruktura i pristup čestici"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "267c3383e3c2",
+  "scored_at": "2026-07-10T09:43:50.121724"
 }

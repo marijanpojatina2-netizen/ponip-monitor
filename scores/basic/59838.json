@@ -1,16 +1,16 @@
 {
   "id": "59838",
-  "score_overall": 3.5,
-  "score_lokacija": 7.0,
-  "score_roi": 2.5,
+  "score_overall": 5.9,
+  "score_lokacija": 8.5,
+  "score_roi": 5.5,
   "score_stanje": 2.5,
-  "recommendation": "pass",
-  "reasoning": "Atraktivna Rab lokacija nije dovoljna kompenzacija za 136 m2 pašnjaka bez građevnih prava uz tek 20% popust na prvoj dražbi - parcela je premala bez jasne exit strategije osim eventualne konsolidacije sa susjednim česticama.",
+  "recommendation": "watch",
+  "reasoning": "Supetarska Draga na otoku Rabu je vrlo tražena turistička lokacija, no radi se o maloj čestici pašnjaka od svega 136 m2 bez izgrađenih objekata. Popust od 20% na prvoj dražbi je standardan, a praktična vrijednost jako ovisi o mogućnosti gradnje ili spajanja s okolnim parcelama.",
   "flags": [
-    "pašnjak - nije građevno zemljište, rezoniranje iznimno teško",
-    "136 m2 premalo za agro-turizam ili bilo kakav razvoj",
-    "bez poznatih građevnih prava ili UPU povoljnosti"
+    "provjeriti: gradivost čestice (pašnjak) i urbanističku namjenu",
+    "provjeriti: pristup i mogućnost samostalnog korištenja obzirom na malu površinu"
   ],
-  "input_hash": "4b1961a97417",
-  "scored_at": "2026-04-21T07:54:05.151140"
+  "discount_pct": 20.0,
+  "input_hash": "a9e6c6688675",
+  "scored_at": "2026-07-10T09:34:58.996772"
 }

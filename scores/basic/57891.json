@@ -1,12 +1,16 @@
 {
   "id": "57891",
-  "score_overall": 4.9,
-  "score_lokacija": 3.5,
-  "score_roi": 7.0,
-  "score_stanje": 2.5,
-  "recommendation": "watch",
-  "reasoning": "Dvije čestice livada/oranica u k.o. Bukevje ~3363 m2 — manji paket od ID 57901 u istoj katastarskoj općini s jednakim popustom; apsolutan iznos ulaganja minimalan (935 EUR) što smanjuje rizik. Ista ograničenja likvidnosti kao susjedne parcele.",
-  "flags": [],
-  "input_hash": "676d0c8994ad",
-  "scored_at": "2026-06-29T10:56:06.607097"
+  "score_overall": 6.6,
+  "score_lokacija": 6.0,
+  "score_roi": 8.5,
+  "score_stanje": 3.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Zemljište u Bukevju kraj Velike Gorice (blizina Zagreba i zračne luke) prodaje se na trećoj dražbi uz izniman popust od 75% od procjene, što je izrazito atraktivna cijena za likvidnije zagrebačko tržište. Radi se o stečajnoj masi pa zaslužuje detaljniju provjeru tereta i razloga za dosadašnje neuspjele dražbe prije licitacije.",
+  "flags": [
+    "provjeriti: razlog neuspjeha prethodne dvije dražbe i eventualni tereti iz stečajnog postupka",
+    "neizgrađeno poljoprivredno zemljište"
+  ],
+  "discount_pct": 75.0,
+  "input_hash": "9353ee31ea7c",
+  "scored_at": "2026-07-10T09:38:29.703957"
 }

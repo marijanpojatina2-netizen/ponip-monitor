@@ -1,12 +1,16 @@
 {
   "id": "57917",
-  "score_overall": 5.1,
-  "score_lokacija": 3.5,
-  "score_roi": 7.5,
-  "score_stanje": 2.5,
-  "recommendation": "watch",
-  "reasoning": "Livada u k.o. Veleševec (Velika Gorica) površine ~5900 m2 — nešto veća parcela s marginalnim potencijalom za poljoprivredu ili špekulativnu preprodaju; 75% popust na trećoj dražbi jedina prava prednost. Likvidnost za livade u ovoj zoni je slaba.",
-  "flags": [],
-  "input_hash": "1e86e86da523",
-  "scored_at": "2026-06-29T10:56:06.606854"
+  "score_overall": 6.3,
+  "score_lokacija": 5.5,
+  "score_roi": 8.5,
+  "score_stanje": 3.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Veleševec kod Velike Gorice je u gravitacijskom području Zagreba, a treća dražba s 75% popusta od procjene donosi izniman ROI potencijal za veću livadu od 5891 m2. Riječ je o stečajnoj prodaji pa treba provjeriti terete i stvarnu građevinsku namjenu prije licitiranja.",
+  "flags": [
+    "provjeriti: mogućnost gradnje/promjene namjene livade",
+    "provjeriti: postojanje tereta i statusa iz stečajnog postupka"
+  ],
+  "discount_pct": 75.0,
+  "input_hash": "8592bfdafe23",
+  "scored_at": "2026-07-10T09:34:58.996601"
 }

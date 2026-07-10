@@ -1,17 +1,16 @@
 {
   "id": "58891",
-  "score_overall": 1.5,
-  "score_lokacija": 1.5,
-  "score_roi": 2.5,
-  "score_stanje": 2.5,
+  "score_overall": 4.2,
+  "score_lokacija": 2.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
   "recommendation": "pass",
-  "reasoning": "Moslavina Podravska je duboka slavonska ruralna zona s izrazitom depopulacijom i gotovo nultom likvidnošću, a predmet je samo 1/12 suvlasničkog udjela što praktički onemogućuje samostalno raspolaganje nekretninom ili njenu prodaju bez suglasnosti suvlasnika. Unatoč 40% popustu i drugoj dražbi, kombinacija mikrolokacije i fragmentiranog vlasništva čini ovaj slučaj investicijski bezvrijednim.",
+  "reasoning": "Ruralna Slavonija (Moslavina Podravska kraj Valpova), depopulacijsko područje slabe likvidnosti unatoč 40% popustu i drugoj dražbi. Predmet je tek 1/12 idealnog suvlasničkog dijela zemljišta s neopisanim stanjem objekta, što drastično ograničava realnu upotrebljivost.",
   "flags": [
-    "suvlasništvo - samo 1/12 dijela",
-    "teško raspolaganje bez suglasnosti ostalih suvlasnika",
-    "depopulacijsko ruralno područje - nulta likvidnost",
-    "nema opisa stanja zgrade"
+    "provjeriti: kupnja idealnog (1/12) suvlasničkog dijela – otežano raspolaganje i realizacija",
+    "provjeriti: stanje/postojanje zgrade nije opisano"
   ],
-  "input_hash": "960e2f27aaae",
-  "scored_at": "2026-05-25T10:02:50.220056"
+  "discount_pct": 40.0,
+  "input_hash": "c7e43593e6b3",
+  "scored_at": "2026-07-10T09:40:07.569632"
 }

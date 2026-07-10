@@ -1,16 +1,15 @@
 {
   "id": "58457",
-  "score_overall": 3.5,
+  "score_overall": 5.2,
   "score_lokacija": 3.5,
-  "score_roi": 4.0,
-  "score_stanje": 4.5,
-  "recommendation": "pass",
-  "reasoning": "Stambena kuća s gospodarskim objektom u Polčecu kraj Varaždina mogla bi biti korisna, ali je predmet prodaje samo 1/4 suvlasničkog udjela ukupne vrijednosti ~2.200 EUR – premala apsolutna vrijednost i prevelik pravni rizik suvlasništva za ozbiljnog investitora. Ruralna lokacija bez turističkog ili razvojnog potencijala.",
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Ruralno naselje Sveti Petar u okolici Varaždina, umjeren interes uz 40% popust i drugu dražbu, ali slabija likvidnost regije. Predmet uključuje kuću i gospodarsku zgradu što ukazuje na standardno stanje, no prodaje se samo 1/4 idealnog dijela.",
   "flags": [
-    "suvlasništvo – 1/4 dijela",
-    "ruralna lokacija bez razvojnog potencijala",
-    "niska apsolutna vrijednost (2.222 EUR)"
+    "provjeriti: kupnja idealnog (1/4) suvlasničkog dijela"
   ],
-  "input_hash": "8a9fc1a98bd9",
-  "scored_at": "2026-04-30T08:19:30.477622"
+  "discount_pct": 40.0,
+  "input_hash": "f1673fdfe25a",
+  "scored_at": "2026-07-10T09:40:07.570036"
 }

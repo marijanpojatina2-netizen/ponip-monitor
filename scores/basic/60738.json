@@ -1,12 +1,13 @@
 {
   "id": "60738",
-  "score_overall": 2.6,
+  "score_overall": 4.0,
   "score_lokacija": 2.0,
-  "score_roi": 3.0,
-  "score_stanje": 3.0,
-  "recommendation": "pass",
-  "reasoning": "Livada i oranica (~12.600 m2) u k.o. Sibenik kraj Grubišnog Polja — čisto agrikulturno zemljište bez objekata u nelikvidnoj ruralnoj zoni s negativnim demografskim trendom. Prva dražba s 20% popustom ne pruža dovoljan investicijski poticaj.",
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Veće poljoprivredne parcele (livada i oranica, ukupno preko 12.500 m2) u k.o. Sibenik kraj Grubišnog Polja (Bjelovarsko-bilogorska županija, ne grad Šibenik na moru), zanimljive za agregaciju poljoprivrednog zemljišta. Ruralna lokacija i tek 20% popust na prvoj dražbi ograničavaju ROI.",
   "flags": [],
-  "input_hash": "022b7148c4ef",
-  "scored_at": "2026-06-24T09:28:52.669884"
+  "discount_pct": 20.0,
+  "input_hash": "9d285f03316a",
+  "scored_at": "2026-07-10T09:33:49.551111"
 }

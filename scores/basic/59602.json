@@ -1,0 +1,15 @@
+{
+  "id": "59602",
+  "score_overall": 4.6,
+  "score_lokacija": 2.0,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Dvije parcele (oranica/vinograd i livada) u Turnašici bez objekata, slična situacija kao susjedna nekretnina iz istog katastra. Solidan popust od 40%, no riječ je o niskovrijednom poljoprivrednom zemljištu s ograničenom likvidnošću.",
+  "flags": [
+    "provjeriti: pristup i granice parcele"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "b09ac88199a3",
+  "scored_at": "2026-07-10T09:32:13.628398"
+}

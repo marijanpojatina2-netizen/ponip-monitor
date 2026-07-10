@@ -1,17 +1,13 @@
 {
   "id": "59176",
-  "score_overall": 2.0,
+  "score_overall": 5.1,
   "score_lokacija": 2.0,
-  "score_roi": 5.5,
-  "score_stanje": 2.0,
-  "recommendation": "pass",
-  "reasoning": "Poljoprivredne oranice ~1.5 jutara u k.o. Mikleuš (zapadna Slavonija) — 50% popust ali čista poljoprivredna zemlja u depopulacijskoj zoni bez turističkog ili razvojnog potencijala; prihod od iznajmljivanja farmerima marginalan.",
-  "flags": [
-    "samo oranice - nema objekta",
-    "depopulacijska zona zapadne Slavonije",
-    "nula turistički/investicijski potencijal",
-    "arhaične mjerne jedinice - provjeri točnu površinu"
-  ],
-  "input_hash": "a92aabbbbba8",
-  "scored_at": "2026-06-01T11:30:14.531635"
+  "score_roi": 7.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Oranice u Mikleušu (Virovitičko-podravska županija) nude izniman popust od 50% na drugoj dražbi, što je snažan ROI signal. No slaba ruralna lokacija u dubljoj Slavoniji i ograničena likvidnost poljoprivrednog zemljišta traže oprez.",
+  "flags": [],
+  "discount_pct": 50.0,
+  "input_hash": "8c3c93eedd29",
+  "scored_at": "2026-07-10T09:33:49.550852"
 }

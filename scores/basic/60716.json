@@ -1,12 +1,13 @@
 {
   "id": "60716",
-  "score_overall": 2.9,
+  "score_overall": 3.6,
   "score_lokacija": 2.0,
-  "score_roi": 3.5,
+  "score_roi": 5.0,
   "score_stanje": 3.0,
   "recommendation": "pass",
-  "reasoning": "Oranica 11103 m2 u k.o. Sibenik kod Grubišnog Polja — ruralna Bilogora, depopulacijsko područje s minimalnom potražnjom za poljoprivrednim zemljištem. Samo 20% popust na prvoj dražbi ne kompenzira slabu lokaciju i ograničen investicijski potencijal.",
+  "reasoning": "K.o. Šibenik ovdje je selo kraj Grubišnog Polja u Bilogori, a ne obalni grad Šibenik - riječ je o depopulacijskom ruralnom području s ograničenom likvidnošću. Oranica od 1,1 ha uz 20% popusta na prvoj dražbi ima tek umjerenu poljoprivrednu vrijednost.",
   "flags": [],
-  "input_hash": "9cbdbe5b3e43",
-  "scored_at": "2026-06-24T09:30:16.730744"
+  "discount_pct": 20.0,
+  "input_hash": "8073c05386a5",
+  "scored_at": "2026-07-10T09:34:58.997463"
 }

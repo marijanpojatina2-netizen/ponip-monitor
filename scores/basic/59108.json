@@ -1,12 +1,15 @@
 {
   "id": "59108",
-  "score_overall": 4.0,
-  "score_lokacija": 3.5,
-  "score_roi": 5.0,
-  "score_stanje": 2.5,
-  "recommendation": "watch",
-  "reasoning": "Oranična čestica 1780 m2 u k.o. Šašinovec, vlasništvo ovršenika u cijelosti — srednja veličina bez posebnih prednosti u odnosu na ostale čestice iz iste k.o. Relevantno jedino za investitora koji pakira više šašinovečkih čestica radi konsolidacije, inače ograničen case.",
-  "flags": [],
-  "input_hash": "ac0231f574c1",
-  "scored_at": "2026-06-15T12:01:35.809988"
+  "score_overall": 6.1,
+  "score_lokacija": 5.5,
+  "score_roi": 7.5,
+  "score_stanje": 4.0,
+  "recommendation": "bid",
+  "reasoning": "Oranica u Šašinovcu blizu Sesveta/Dugog Sela na drugoj dražbi s 40% popustom nudi solidan ROI uz blizinu Zagreba i potencijal buduće promjene namjene. Veličina od 1780 m2 daje dovoljno prostora za zemljišnu investiciju ili buduću gradnju.",
+  "flags": [
+    "provjeriti: urbanistički plan i mogućnost promjene namjene u građevinsko zemljište"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "bd342437f501",
+  "scored_at": "2026-07-10T09:42:09.741404"
 }

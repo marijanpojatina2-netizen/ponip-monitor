@@ -1,16 +1,15 @@
 {
   "id": "59879",
-  "score_overall": 4.5,
+  "score_overall": 4.3,
   "score_lokacija": 4.0,
   "score_roi": 4.5,
-  "score_stanje": 5.0,
-  "recommendation": "watch",
-  "reasoning": "Vinograd u Brežni Kotaru (Međimurje) s određenim potencijalom za agro-turizam i vinarstvo, ali 20% popust na prvoj dražbi nije investicijski atraktivan; vrijedi pratiti do sljedeće dražbe s višim popustom.",
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Manji vinograd 'Banfi' u Međimurju (Brežni Kotar) ima nišnu vrijednost za vinogradarstvo, no bez podataka o kvaliteti nasada i uz standardan 20%-tni popust na prvoj dražbi nije poseban ROI signal. Lokacija je ruralna iako u relativno naseljenoj županiji.",
   "flags": [
-    "vinogradačko zemljište - niska likvidnost",
-    "prva dražba - minimalni popust od 20%",
-    "nema podataka o komunalnoj infrastrukturi"
+    "provjeriti: stanje i starost vinogradarskog nasada na terenu"
   ],
-  "input_hash": "6c2fcb68fd35",
-  "scored_at": "2026-04-24T08:07:33.972010"
+  "discount_pct": 20.0,
+  "input_hash": "4789287d0dce",
+  "scored_at": "2026-07-10T09:38:29.702805"
 }

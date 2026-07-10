@@ -1,16 +1,13 @@
 {
   "id": "59903",
-  "score_overall": 3.0,
-  "score_lokacija": 2.0,
-  "score_roi": 3.0,
-  "score_stanje": 4.0,
+  "score_overall": 3.4,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 2.5,
   "recommendation": "pass",
-  "reasoning": "Moslavina Podravska je depopulacijsko ruralno područje s vrlo niskom likvidnošću tržišta – čak ni 20% popust ne čini oranicu od 6676m2 atraktivnom za investitora orijentiranog na prinos. Izlazna strategija gotovo ne postoji.",
-  "flags": [
-    "depopulacijsko područje",
-    "niska tržišna likvidnost",
-    "samo kupac iz okoline ima realan interes"
-  ],
-  "input_hash": "847671e4a127",
-  "scored_at": "2026-04-23T07:50:48.963595"
+  "reasoning": "Oranica od 6676 m2 u Moslavini Podravskoj kraj Valpova nalazi se u ruralnom, depopulacijskom području istočne Hrvatske s ograničenom likvidnošću. Popust je tek 20% na prvoj dražbi što ne kompenzira slabu lokaciju.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "4dd4f840c74c",
+  "scored_at": "2026-07-10T09:37:10.146085"
 }

@@ -1,17 +1,15 @@
 {
   "id": "60313",
-  "score_overall": 2.0,
-  "score_lokacija": 1.5,
-  "score_roi": 3.0,
-  "score_stanje": 4.0,
+  "score_overall": 3.7,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
   "recommendation": "pass",
-  "reasoning": "Identična situacija kao 60315 - ista zemljišnoknjižna uložak, isti ovršenici, ista lokacija k.o. Draž. Marginalno veća parcela (866m²) ne mijenja investicijski case - nema potražnje za oranicama u Baranji po tržišnoj cijeni.",
+  "reasoning": "Mala oranica od 866 m2 u Draž s tek 20% popusta na prvoj dražbi, u istom katastru kao susjedna čestica ID 60315. Bez objekata i uz nisku apsolutnu vrijednost, riječ je o slabom samostalnom investicijskom slučaju.",
   "flags": [
-    "suvlasništvo 3 ovršenika - isti zk.ul. kao 60315",
-    "k.o. Draž - ekstremno niska likvidnost",
-    "paket s 60315/60317/60319 - vjerojatno isti predmet",
-    "Baranja - depopulacijska zona"
+    "provjeriti: isti predmet ovrhe kao ID 60315 (zk.ul. 2515) - moguće zajedničko stjecanje"
   ],
-  "input_hash": "ee0012db9dc5",
-  "scored_at": "2026-05-19T09:40:30.510452"
+  "discount_pct": 20.0,
+  "input_hash": "0dcc2b5f2385",
+  "scored_at": "2026-07-10T09:32:13.629403"
 }

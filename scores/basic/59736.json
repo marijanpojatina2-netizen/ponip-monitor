@@ -1,0 +1,15 @@
+{
+  "id": "59736",
+  "score_overall": 4.6,
+  "score_lokacija": 2.0,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Livada od 3417 m2 u Koritni prodaje se putem javnog bilježnika uz 40% popust na drugoj dražbi, što uz relativno veću površinu čini ulaznu cijenu vrlo niskom. Nema građevina niti podataka o infrastrukturi ili pristupu, pa je riječ o čisto zemljišnoj/spekulativnoj investiciji.",
+  "flags": [
+    "provjeriti: pristup parceli i infrastruktura"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "5098a9368d98",
+  "scored_at": "2026-07-10T09:32:13.628590"
+}

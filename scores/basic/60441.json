@@ -1,16 +1,15 @@
 {
   "id": "60441",
-  "score_overall": 2.5,
-  "score_lokacija": 2.0,
-  "score_roi": 3.5,
-  "score_stanje": 4.0,
+  "score_overall": 3.8,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.5,
   "recommendation": "pass",
-  "reasoning": "Vinograd u k.o. Novo Selište - poljoprivredno zemljište s minimalnom investicijskom atraktivnošću obzirom na lokaciju u sisačkom zaleđu. Bez ozbiljne vinogradarske infrastrukture i tržišta, 20% popust na prvoj dražbi nije dovoljan incentiv.",
+  "reasoning": "Vinograd u Novom Selištu kod Siska s tek 20% popusta na prvoj dražbi u ekonomski oslabljenom, depopulacijskom području. Bez veće dražbe ili većeg popusta ovo je slab investicijski slučaj, a stanje vinograda nije poznato.",
   "flags": [
-    "isključivo poljoprivredno zemljište",
-    "nema građevinskog potencijala bez prenamjene",
-    "ruralno područje - niska potražnja"
+    "provjeriti: stanje vinograda (obrađenost ili zapuštenost)"
   ],
-  "input_hash": "d5232d671d0d",
-  "scored_at": "2026-05-26T09:52:21.587693"
+  "discount_pct": 20.0,
+  "input_hash": "2b1589dd8e81",
+  "scored_at": "2026-07-10T09:33:49.550982"
 }

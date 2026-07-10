@@ -1,16 +1,15 @@
 {
   "id": "58413",
-  "score_overall": 3.5,
-  "score_lokacija": 6.5,
-  "score_roi": 3.0,
-  "score_stanje": 3.0,
-  "recommendation": "pass",
-  "reasoning": "Kaštel Sućurac ima dobru lokacijsku bazu blizu Splita, ali suvlasnički udio 16/864 znači efektivnih svega 37,87 m2 šume - nemoguće ishoditi dozvolu za gradnju, nemoguće samostalno prodati ili koristiti bez suglasnosti 863 ostalih dijelova. 40% popust ne kompenzira strukturalnu neupotrebljivost.",
+  "score_overall": 6.0,
+  "score_lokacija": 7.5,
+  "score_roi": 6.5,
+  "score_stanje": 2.0,
+  "recommendation": "watch",
+  "reasoning": "Šumska čestica u Kaštel Sućurcu blizu Splita ima odličnu lokaciju u traženoj dalmatinskoj zoni, no radi se tek o suvlasničkom dijelu (16/864), što odgovara svega ~38 m2 stvarne koristi. Fragmentirano vlasništvo bitno ograničava likvidnost i praktičnu iskoristivost unatoč popustu od 40%.",
   "flags": [
-    "suvlasništvo 16/864 - ekstremno fragmentirano vlasništvo",
-    "efektivno 37.87 m2 šume bez građevinskih prava",
-    "šuma - nema prihoda ni razvojnog potencijala"
+    "provjeriti: utrživost suvlasničkog dijela (16/864)"
   ],
-  "input_hash": "52f651fd3934",
-  "scored_at": "2026-05-05T08:17:08.705669"
+  "discount_pct": 40.0,
+  "input_hash": "71b713cc0d5c",
+  "scored_at": "2026-07-10T09:43:50.122580"
 }

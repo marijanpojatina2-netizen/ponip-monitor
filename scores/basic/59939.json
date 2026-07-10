@@ -1,17 +1,16 @@
 {
   "id": "59939",
-  "score_overall": 4.0,
-  "score_lokacija": 7.0,
-  "score_roi": 3.5,
-  "score_stanje": 4.0,
-  "recommendation": "pass",
-  "reasoning": "Maslinik u Palitu na Rabu ima određenu romantičnu vrijednost, no 3/12 udjela u masliniku od 411m2 je operativno beskoristan - premala površina za profitabilnu maslinarsku proizvodnju i suvlasništvo komplicira svaki zahvat. Popust 20% ne kompenzira strukturne probleme suvlasničkog udjela.",
+  "score_overall": 6.0,
+  "score_lokacija": 8.5,
+  "score_roi": 5.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Maslinik u Palitu na otoku Rabu ima izvrsnu turističku lokaciju, no radi se tek o 3/12 idealnog suvlasničkog dijela malog zemljišta bez objekta, što bitno ograničava kontrolu i likvidnost ulaganja. Vrijedi pratiti zbog lokacije, ali suvlasništvo je značajna prepreka za aktivnu licitaciju.",
   "flags": [
-    "suvlasnički udio 3/12 - otežana raspolaganje",
-    "maslinik zahtijeva suglasnost suvlasnika za bilo kakve radove",
-    "premala površina za ekonomski isplativu obradu",
-    "potencijalni problem ishođenja suglasnosti za prodaju ili gradnju"
+    "manjinski suvlasnički udio (3/12) - ograničena kontrola i mogućnost raspolaganja",
+    "provjeriti: mogućnost i uvjete fizičke ili sudske diobe suvlasničke zajednice"
   ],
-  "input_hash": "c413edece210",
-  "scored_at": "2026-04-28T08:24:36.634389"
+  "discount_pct": 20.0,
+  "input_hash": "bebe5810b2ab",
+  "scored_at": "2026-07-10T09:45:34.900601"
 }

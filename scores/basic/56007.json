@@ -1,16 +1,16 @@
 {
   "id": "56007",
-  "score_overall": 3.0,
-  "score_lokacija": 7.5,
-  "score_roi": 2.5,
-  "score_stanje": 2.0,
-  "recommendation": "pass",
-  "reasoning": "Rovinjsko Selo je atraktivna istranska lokacija i cijena od 1 EUR uz gotovo 100% popust privlači pozornost, no udio 2/24 u 288 m2 prilaznog puta stambenoj zgradi nema nikakvu autonomnu komercijalnu vrijednost. Četvrta uzastopna dražba bez ijednog kupca govori sama za sebe.",
+  "score_overall": 6.2,
+  "score_lokacija": 8.5,
+  "score_roi": 6.5,
+  "score_stanje": 1.5,
+  "recommendation": "watch",
+  "reasoning": "Istarska lokacija (Rovinjsko Selo) je vrlo tražena, a početna cijena od 1 EUR na četvrtoj dražbi čini ulaz gotovo besplatan. Radi se tek o udjelu 2/24 u pristupnom putu, dakle bez samostalne razvojne vrijednosti, ali može biti zanimljivo kao pregovaračka pozicija prema vlasnicima susjedne stambene zgrade.",
   "flags": [
-    "udio 2/24 prilaznog puta - nema autonomne vrijednosti",
-    "četvrta dražba - bez tržišnog interesa",
-    "prava pristupa suvlasnika ne prestaju prodajom"
+    "provjeriti: svrhu i korisnost malog udjela u pristupnom putu",
+    "provjeriti: postoje li prava služnosti/pristupa koja ne prestaju prodajom"
   ],
-  "input_hash": "62d9fbfeaa3f",
-  "scored_at": "2026-05-05T08:17:08.705783"
+  "discount_pct": 99.9,
+  "input_hash": "f8b64fd09e7f",
+  "scored_at": "2026-07-10T09:44:53.871282"
 }

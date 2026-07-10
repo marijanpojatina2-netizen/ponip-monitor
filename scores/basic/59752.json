@@ -1,0 +1,15 @@
+{
+  "id": "59752",
+  "score_overall": 5.1,
+  "score_lokacija": 4.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Kuća u Kuršancu kraj Čakovca, ruralnija periferna lokacija s ograničenim ROI potencijalom unatoč 40% popustu i niskoj apsolutnoj vrijednosti. Prodaje se samo 1/2 suvlasničkog dijela što značajno kompliciira stjecanje pune kontrole nad nekretninom.",
+  "flags": [
+    "provjeriti: suvlasništvo 1/2 dijela nekretnine - ostatak u vlasništvu treće osobe, moguća komplikacija oko diobe/korištenja"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "d4438dfe111d",
+  "scored_at": "2026-07-10T09:30:37.579996"
+}

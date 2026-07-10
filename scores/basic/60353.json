@@ -1,17 +1,13 @@
 {
   "id": "60353",
-  "score_overall": 1.5,
-  "score_lokacija": 1.5,
-  "score_roi": 2.5,
-  "score_stanje": 2.0,
+  "score_overall": 3.0,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 1.5,
   "recommendation": "pass",
-  "reasoning": "Trstik (močvarno/barskoземljište) Alšo Rit — najslabiji predmet u grupi; trstik ima minimalne mogućnosti iskorištavanja, gotovo nultу tržišnu likvidnost i potencijalne ekološke/regulatorne restrikcije. Izbjegavati bez iznimke.",
-  "flags": [
-    "trstik/barskoземljište — gotovo nulta upotrebna vrijednost",
-    "ruralno/depopulacijsko područje",
-    "regulatorne restrikcije moguće (zaštićeni biotop)",
-    "ekstremno niska likvidnost"
-  ],
-  "input_hash": "b80adfc1db36",
-  "scored_at": "2026-05-22T09:07:06.509655"
+  "reasoning": "Trstik (močvarno zemljište) u Baranji, k.o. Kotlina, nema praktičnu građevinsku ni poljoprivrednu iskoristivost, a lokacija je ruralna i slabo likvidna. Samo 20% popusta na prvoj dražbi ne kompenzira nisku korisnost i vrijednost predmeta.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "1ccd1440a6da",
+  "scored_at": "2026-07-10T09:45:34.900350"
 }

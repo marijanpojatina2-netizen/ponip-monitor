@@ -1,0 +1,15 @@
+{
+  "id": "59794",
+  "score_overall": 5.1,
+  "score_lokacija": 4.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Manja kuća s dvorištem u Stubičkoj Slatini (Zagorje), ruralno područje s ograničenom likvidnošću tržišta, ali 50% popust i druga dražba poboljšavaju ROI profil. Vrijednost transakcije je niska pa je rizik ograničen za probni ulazak na tržište.",
+  "flags": [
+    "provjeriti: trenutno stanje objekta i useljivost"
+  ],
+  "discount_pct": 50.0,
+  "input_hash": "4e91c7795bc6",
+  "scored_at": "2026-07-10T09:30:37.579590"
+}

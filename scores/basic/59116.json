@@ -1,12 +1,13 @@
 {
   "id": "59116",
-  "score_overall": 4.9,
-  "score_lokacija": 4.5,
-  "score_roi": 6.0,
-  "score_stanje": 3.0,
-  "recommendation": "watch",
-  "reasoning": "Šuma 3669 m2 u k.o. Šašinovec (Dugo Selo) — blizina Zagreba daje određenu vrijednost, no šumsko zemljište ima ograničenu prenamjenu i nižu likvidnost. Drugi po redu dražbe uz 40% popust može biti interesantno za portfolio agrarnih nekretnina.",
+  "score_overall": 6.5,
+  "score_lokacija": 5.5,
+  "score_roi": 8.0,
+  "score_stanje": 5.0,
+  "recommendation": "bid",
+  "reasoning": "Šumsko zemljište u Šašinovcu, na periferiji Zagreba (Sesvete), s izvrsnim popustom od 40% na drugoj dražbi ukazuje na solidan ROI. Blizina Zagreba osigurava bolju dugoročnu likvidnost od prosječne poljoprivredne/šumske parcele.",
   "flags": [],
-  "input_hash": "15ddac3ca975",
-  "scored_at": "2026-06-15T11:59:10.564385"
+  "discount_pct": 40.0,
+  "input_hash": "1f4230f877cf",
+  "scored_at": "2026-07-10T09:33:49.550420"
 }

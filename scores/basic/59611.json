@@ -1,16 +1,16 @@
 {
   "id": "59611",
-  "score_overall": 3.0,
-  "score_lokacija": 6.5,
-  "score_roi": 2.0,
-  "score_stanje": 2.0,
-  "recommendation": "pass",
-  "reasoning": "Oranica 91 m2 na Rabu je najslabiji predmet od tri Rab parcele - lokacija otoka ne kompenzira minimalnu površinu oranice bez ikakvog razvojnog potencijala uz svega 20% ulaznog popusta na prvoj dražbi.",
+  "score_overall": 5.9,
+  "score_lokacija": 8.5,
+  "score_roi": 5.5,
+  "score_stanje": 2.5,
+  "recommendation": "watch",
+  "reasoning": "Lokacija na otoku Rabu (Supetarska Draga) je izuzetno tražena turistička zona, ali čestica je oranica od svega 91 m2 što ozbiljno ograničava samostalnu gradivost. Vrijedi pratiti radi mogućeg spajanja sa susjednim česticama, no samostalna investicija ima ograničen smisao.",
   "flags": [
-    "oranica - nije građevno zemljište",
-    "91 m2 apsolutni minimum - bez razvojnog potencijala",
-    "isti zk.ul. 1633 kao 59613 - parcele su susjedne ali zajedno i dalje premale"
+    "provjeriti: gradivost i mogućnost spajanja s okolnim česticama",
+    "provjeriti: urbanistički status (je li unutar građevinskog područja)"
   ],
-  "input_hash": "73c12589b342",
-  "scored_at": "2026-04-21T07:54:05.151447"
+  "discount_pct": 20.0,
+  "input_hash": "62a2d7981a1c",
+  "scored_at": "2026-07-10T09:42:09.740524"
 }

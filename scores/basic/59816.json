@@ -1,0 +1,16 @@
+{
+  "id": "59816",
+  "score_overall": 5.3,
+  "score_lokacija": 5.5,
+  "score_roi": 6.5,
+  "score_stanje": 2.5,
+  "recommendation": "watch",
+  "reasoning": "Susjedna čestica istog kompleksa pašnjaka u Senju (ista k.o., ista ulica) uz identičan 40% popust - vjerojatno dio šire prodaje više susjednih parcela istog ovršenika što otvara mogućnost objedinjene kupnje. Namjena zemljišta i infrastruktura ostaju neprovjereni faktori rizika.",
+  "flags": [
+    "provjeriti: namjena zemljišta (pašnjak) i mogućnost prenamjene za gradnju",
+    "provjeriti: mogućnost objedinjene kupnje sa susjednim česticama 301/34, 301/45"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "8c0529c90482",
+  "scored_at": "2026-07-10T09:30:37.579447"
+}

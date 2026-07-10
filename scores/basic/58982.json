@@ -1,0 +1,15 @@
+{
+  "id": "58982",
+  "score_overall": 6.2,
+  "score_lokacija": 6.5,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća s dvorištem u Samoboru, atraktivnom satelitskom gradu blizu Zagreba, uz solidan 40% popust od procjene. Stanje nekretnine nije detaljno opisano pa je potrebna dodatna provjera prije donošenja odluke o licitaciji.",
+  "flags": [
+    "provjeriti: trenutno stanje i useljivost objekta"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "7515fa731a39",
+  "scored_at": "2026-07-10T09:30:37.578939"
+}

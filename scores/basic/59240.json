@@ -1,12 +1,15 @@
 {
   "id": "59240",
-  "score_overall": 3.8,
-  "score_lokacija": 3.5,
-  "score_roi": 4.5,
+  "score_overall": 5.3,
+  "score_lokacija": 5.5,
+  "score_roi": 6.5,
   "score_stanje": 2.5,
   "recommendation": "watch",
-  "reasoning": "Oranična čestica 1496 m2 u k.o. Šašinovec — manja površina s nešto slabijim potencijalom od većih čestica iz iste k.o.; tržište za individualne oranice ove veličine u Dugom Selu iznimno tanko. Zanimljivo jedino kao dio paketa susjednih čestica iz iste katastarske općine.",
-  "flags": [],
-  "input_hash": "7011a7745f95",
-  "scored_at": "2026-06-15T12:01:35.810260"
+  "reasoning": "Oranica u Šašinovcu, na periferiji Zagreba (Sesvete), uz 40% popust i drugu dražbu što daje solidan ROI potencijal za sitan ulog. Radi se o goloj poljoprivrednoj čestici bez infrastrukture pa je prava vrijednost ovisna o budućoj mogućnosti prenamjene.",
+  "flags": [
+    "provjeriti: mogućnost prenamjene zemljišta (građevinsko vs poljoprivredno)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "598cb5be64d6",
+  "scored_at": "2026-07-10T09:44:53.870245"
 }

@@ -1,15 +1,13 @@
 {
   "id": "59875",
-  "score_overall": 4.5,
-  "score_lokacija": 4.0,
-  "score_roi": 4.5,
+  "score_overall": 4.8,
+  "score_lokacija": 4.5,
+  "score_roi": 5.0,
   "score_stanje": 5.0,
   "recommendation": "watch",
-  "reasoning": "Vinograd i voćnjak u Brežni Kotaru (Međimurje) nudi blago bolji potencijal od čistog vinograda zbog kombinirane namjene, no 20% popust na prvoj dražbi ostaje nedovoljan; pratiti do niže startne cijene.",
-  "flags": [
-    "vinogradačko zemljište - ograničena likvidnost",
-    "prva dražba - minimalni popust od 20%"
-  ],
-  "input_hash": "8e992b5353d5",
-  "scored_at": "2026-04-24T08:07:33.972358"
+  "reasoning": "Vinograd i voćnjak u Međimurju, regiji poznatoj po vinogradarstvu i blizini Čakovca, što daje solidnu poljoprivrednu i turističku podlogu. Popust je standardnih 20% na prvoj dražbi pa trenutno nema izraženog cjenovnog poticaja za ulazak.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "249af8667380",
+  "scored_at": "2026-07-10T09:41:13.828723"
 }

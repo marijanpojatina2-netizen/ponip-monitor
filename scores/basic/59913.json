@@ -1,16 +1,15 @@
 {
   "id": "59913",
-  "score_overall": 4.0,
-  "score_lokacija": 5.5,
-  "score_roi": 3.5,
-  "score_stanje": 3.0,
-  "recommendation": "pass",
-  "reasoning": "Šestine je solidan dio Zagreba, ali 28m2 voćnjaka nema realnog investicijskog potencijala – parcela je premala za bilo kakav razvoj ili preprodaju s ozbiljnim maržama. 25% popust ne nadoknađuje mikrolokalitet i gotovo nultu likvidnost.",
+  "score_overall": 4.9,
+  "score_lokacija": 7.0,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
+  "recommendation": "watch",
+  "reasoning": "Šestine su atraktivan dio Zagreba, ali čestica voćnjaka od svega 28 m2 praktički nema samostalnu upotrebnu vrijednost i najvjerojatnije je zanimljiva jedino susjednim vlasnicima. Popust od 25% je solidan, no mali obujam transakcije ograničava ROI potencijal za investitora.",
   "flags": [
-    "premala parcela (28m2)",
-    "voćnjak – nema građevinskog potencijala",
-    "teško prodivo kao samostalna čestica"
+    "provjeriti: mogućnost samostalnog korištenja ili spajanja čestice od 28 m2 sa susjednim zemljištem"
   ],
-  "input_hash": "cbcff971388e",
-  "scored_at": "2026-04-23T07:50:48.963385"
+  "discount_pct": 25.0,
+  "input_hash": "1a2d7cca34b2",
+  "scored_at": "2026-07-10T09:34:58.997076"
 }

@@ -1,16 +1,15 @@
 {
   "id": "60351",
-  "score_overall": 2.0,
-  "score_lokacija": 1.5,
-  "score_roi": 3.0,
+  "score_overall": 3.4,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
   "score_stanje": 3.5,
   "recommendation": "pass",
-  "reasoning": "Voćnjak Šuba Alja, 2.714 m2, k.o. Kotlina — najmanji voćnjak u grupi uz jednaki popust i jednako slabe tržišne fundamentale. Početna cijena ispod 1.700 EUR ne čini ga atraktivnim jer troškovi eventualnog upravljanja ili transakcije premašuju potencijal.",
+  "reasoning": "Voćnjak u Baranji (k.o. Kotlina) nalazi se u dubokoj ruralnoj i depopulacijskoj zoni s vrlo slabom likvidnošću tržišta. Popust od svega 20% na prvoj dražbi dodatno smanjuje investicijsku privlačnost.",
   "flags": [
-    "ruralno/depopulacijsko područje",
-    "poljoprivredno zemljište — niska likvidnost",
-    "mali posjed — ekonomija obima ne funkcionira"
+    "provjeriti: pristup i realnu namjenu voćnjaka"
   ],
-  "input_hash": "fd4546aea348",
-  "scored_at": "2026-05-22T09:07:06.509370"
+  "discount_pct": 20.0,
+  "input_hash": "65037a66cef8",
+  "scored_at": "2026-07-10T09:43:50.122346"
 }

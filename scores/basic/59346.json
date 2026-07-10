@@ -1,12 +1,13 @@
 {
   "id": "59346",
-  "score_overall": 4.0,
-  "score_lokacija": 3.5,
-  "score_roi": 5.0,
+  "score_overall": 5.0,
+  "score_lokacija": 4.0,
+  "score_roi": 7.0,
   "score_stanje": 2.5,
-  "recommendation": "pass",
-  "reasoning": "Sitna oranica 203 čhv (~720 m2) u k.o. Ljubešćica — minimalna tržišna vrijednost i izrazito mala parcela bez realnog investicijskog potencijala. Transakcijski troškovi mogu premašiti dobit.",
+  "recommendation": "watch",
+  "reasoning": "Manja oranica (cca 731 m2) u k.o. Ljubešćica kraj Varaždina s 40% popusta na drugoj dražbi nudi solidan ROI, no lokacija je ruralna i sekundarna u odnosu na veće gradove. Nekretnina bez objekta, isključivo poljoprivredno zemljište ograničenog interesa za investitore.",
   "flags": [],
-  "input_hash": "d1d6d8eeb8d7",
-  "scored_at": "2026-06-15T11:59:10.564946"
+  "discount_pct": 40.0,
+  "input_hash": "90af317b38a0",
+  "scored_at": "2026-07-10T09:37:10.146636"
 }

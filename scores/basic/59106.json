@@ -1,12 +1,15 @@
 {
   "id": "59106",
-  "score_overall": 3.8,
-  "score_lokacija": 3.5,
-  "score_roi": 4.5,
-  "score_stanje": 2.5,
-  "recommendation": "pass",
-  "reasoning": "Najmanja čestica u skupini — svega 1043 m2 šumskog/loznog tla u ruralnom k.o. Šašinovec; apsolutna vrijednost (2169 EUR procjena) premala da opravda transakcijske troškove i dugoročno čekanje promjene namjene. Bez strateškog razloga za konsolidaciju investicijski case ne postoji.",
-  "flags": [],
-  "input_hash": "7d4f62467d3f",
-  "scored_at": "2026-06-15T12:01:35.810101"
+  "score_overall": 5.6,
+  "score_lokacija": 6.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Šumska čestica u Šašinovcu, dijelu Sesveta unutar Grada Zagreba, ima potencijal zbog blizine metropole, no radi se o maloj i nerazvijenoj parceli. Popust od 40% na drugoj dražbi djeluje privlačno, ali namjena i mogućnost gradnje na šumskom zemljištu zahtijevaju provjeru.",
+  "flags": [
+    "provjeriti: mogućnost gradnje/namjena šumskog zemljišta"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "bfbf0e96ccc1",
+  "scored_at": "2026-07-10T09:43:50.122071"
 }

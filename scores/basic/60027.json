@@ -1,16 +1,15 @@
 {
   "id": "60027",
-  "score_overall": 1.5,
-  "score_lokacija": 4.5,
-  "score_roi": 1.0,
-  "score_stanje": 1.0,
+  "score_overall": 4.4,
+  "score_lokacija": 6.0,
+  "score_roi": 4.5,
+  "score_stanje": 1.5,
   "recommendation": "pass",
-  "reasoning": "Identičan slučaj kao ID 60039 - cestovna čestica od svega 23 m2 bez ikakve investicijske vrijednosti; čak i u Varaždinu ovakva čestica nema praktične primjene.",
+  "reasoning": "Identično kao kod susjedne čestice u Zagrebačkoj ulici, radi se o zemljištu upisanom kao 'ulica' od 23 m2 bez samostalne građevinske vrijednosti. Dobra lokacija u Varaždinu ne kompenzira nedostatak realne investicijske svrhe.",
   "flags": [
-    "ulica/javna cesta - neupotrebljivo",
-    "samo 23 m2 javne površine",
-    "nema investicijskog potencijala"
+    "provjeriti: stvarna namjena i mogućnost otkupa od strane susjeda/grada"
   ],
-  "input_hash": "65bf39e2a257",
-  "scored_at": "2026-04-27T08:23:08.929031"
+  "discount_pct": 25.0,
+  "input_hash": "6181ed673de0",
+  "scored_at": "2026-07-10T09:42:09.741632"
 }

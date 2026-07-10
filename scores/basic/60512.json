@@ -1,12 +1,15 @@
 {
   "id": "60512",
-  "score_overall": 4.5,
-  "score_lokacija": 3.5,
+  "score_overall": 4.7,
+  "score_lokacija": 4.5,
   "score_roi": 4.5,
-  "score_stanje": 6.0,
-  "recommendation": "pass",
-  "reasoning": "Najmanje garažno parkirno mjesto u skupini (5.4m²) na Nikoli Zrinskog 67 s najnižom apsolutnom vrijednošću od svega ~5.000 EUR — likvidnost ovako malih garažnih jedinica u Slavoniji je izrazito niska. Nema investicijskog smisla bez konteksta korištenja u istoj zgradi.",
-  "flags": [],
-  "input_hash": "97a9c59f3708",
-  "scored_at": "2026-06-26T09:01:09.236394"
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Parkirališno mjesto od 5,40 m2 u Slavonskom Brodu, prodaje se u stečajnom postupku uz 25% popusta, no radi se o niskovrijednoj i nisko-likvidnoj imovini s ograničenim tržištem kupaca. Stanje objekta (garaža u zgradi) pretpostavlja se funkcionalnim.",
+  "flags": [
+    "provjeriti: postojeći tereti i status etažnog vlasništva u stečajnom postupku"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "796247eebbe7",
+  "scored_at": "2026-07-10T09:36:04.732499"
 }

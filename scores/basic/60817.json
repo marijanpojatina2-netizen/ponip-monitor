@@ -1,12 +1,15 @@
 {
   "id": "60817",
-  "score_overall": 3.3,
-  "score_lokacija": 6.0,
-  "score_roi": 2.0,
-  "score_stanje": 1.5,
+  "score_overall": 4.9,
+  "score_lokacija": 7.0,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
   "recommendation": "pass",
-  "reasoning": "Sitna čestica voćnjaka od svega 18 m2 u k.o. Remete, praktički neupotrebljiva kao samostalna investicija osim eventualno vlasniku susjedne čestice. Unatoč dobroj lokaciji, mikroskopska površina onemogućuje smislen ROI za vanjskog investitora.",
-  "flags": [],
-  "input_hash": "5387b16db854",
-  "scored_at": "2026-07-01T09:41:32.875013"
+  "reasoning": "Iako je lokacija u Remetama (Zagreb) atraktivna, ukupna površina od samo 18 m2 razdijeljena na dvije mikročestice čini nekretninu praktički neupotrebljivom za samostalan razvoj. Stečajna prodaja i 25% popust ne kompenziraju nedostatak razvojnog potencijala.",
+  "flags": [
+    "provjeriti: mogućnost priključenja česticama susjednih vlasnika"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "d939f6adaca2",
+  "scored_at": "2026-07-10T09:42:09.740758"
 }

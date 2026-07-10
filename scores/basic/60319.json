@@ -1,18 +1,15 @@
 {
   "id": "60319",
-  "score_overall": 1.0,
-  "score_lokacija": 1.5,
-  "score_roi": 2.0,
-  "score_stanje": 3.0,
+  "score_overall": 3.1,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
   "recommendation": "pass",
-  "reasoning": "Najslabija čestica od svih četiriju - samo 110m² oranice s atributom VODNOG DOBRA što znači zakonska ograničenja korištenja i potencijalne obveze prema Hrvatskim vodama. Simbolična cijena od 311 EUR ne kompenzira pravnu složenost i potpunu nelikvidnost.",
+  "reasoning": "Sitna parcela (110 m2) oranice u Draž koja ima svojstvo vodnog dobra, što bitno ograničava privatno korištenje i budući promet nekretninom. Ruralna lokacija i minimalna vrijednost dodatno čine ovo neatraktivnim.",
   "flags": [
-    "VODNO DOBRO - zakonska ograničenja korištenja",
-    "suvlasništvo 3 ovršenika",
-    "110m² - ekonomski beznačajna površina",
-    "obveze prema Hrvatskim vodama moguće",
-    "k.o. Draž - nulta likvidnost"
+    "vodno dobro - ograničeno privatno korištenje i promet"
   ],
-  "input_hash": "08e5dae80687",
-  "scored_at": "2026-05-19T09:40:30.510646"
+  "discount_pct": 20.0,
+  "input_hash": "9e4325ed8465",
+  "scored_at": "2026-07-10T09:33:49.550220"
 }

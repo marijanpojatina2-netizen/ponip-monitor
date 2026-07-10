@@ -1,16 +1,16 @@
 {
   "id": "60428",
-  "score_overall": 5.0,
+  "score_overall": 5.2,
   "score_lokacija": 7.0,
-  "score_roi": 4.5,
-  "score_stanje": 3.5,
+  "score_roi": 5.0,
+  "score_stanje": 2.5,
   "recommendation": "watch",
-  "reasoning": "Voćnjak 55m2 na k.o. Murter Betina - izvrsna turistička otočna lokacija uz nisku apsolutnu ulaznu cijenu (~3.700 EUR), ali ekstremno mala parcela bez poznatog građevinskog statusa čini korisnost upitnom bez uvida u katastar i prostorni plan.",
+  "reasoning": "Vrlo mala čestica voćnjaka (55 m2) uz nesklad između navedene adrese (Donje Nerezine) i katastarske općine (Murter Betina) u opisu, što upućuje na tursitički atraktivnu zonu ali uz nejasnoću lokacije. Popust je skroman (25%) na prvoj dražbi, a mala površina ograničava samostalnu upotrebljivost.",
   "flags": [
-    "svega 55m2 - mikroparcelacija bez samostalne gradnje",
-    "nejasan građevinski status voćnjaka na otoku",
-    "vrijedi samo ako je adjacent uz veću parcelu investitora"
+    "provjeriti: nesklad adrese (Donje Nerezine) i upisane k.o. (Murter Betina)",
+    "provjeriti: mala površina (55 m2) - ograničena samostalna iskoristivost"
   ],
-  "input_hash": "b5783e14011e",
-  "scored_at": "2026-06-11T10:21:11.266210"
+  "discount_pct": 25.0,
+  "input_hash": "3143017f15fb",
+  "scored_at": "2026-07-10T09:37:10.145352"
 }

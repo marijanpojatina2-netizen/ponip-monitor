@@ -1,14 +1,16 @@
 {
   "id": "59408",
-  "score_overall": 5.8,
-  "score_lokacija": 7.0,
-  "score_roi": 6.0,
+  "score_overall": 6.5,
+  "score_lokacija": 8.0,
+  "score_roi": 7.0,
   "score_stanje": 3.0,
-  "recommendation": "watch",
-  "reasoning": "Pašnjak u k.o. Sv. Ivan kraj Poreča, Istra — tražena turistička lokacija s 40% popustom na drugoj dražbi i niskim apsolutnim ulaganjem (~2064 EUR). Suvlasništvo 1/2 i pašnjačka namjena ograničavaju samostalnu upotrebu.",
+  "recommendation": "bid",
+  "reasoning": "Istarska lokacija kraj Poreča (k.o. Sv. Ivan) nosi visoku tržišnu vrijednost, a 40% popust uz drugu dražbu daju solidan ROI potencijal. Predmet je pašnjak bez građevina te samo 1/2 idealnog dijela, pa je nužna provjera namjene zemljišta prije ulaska.",
   "flags": [
-    "suvlasništvo 1/2"
+    "provjeriti: kupnja idealnog (1/2) suvlasničkog dijela",
+    "provjeriti: namjena zemljišta (pašnjak – poljoprivredna zona)"
   ],
-  "input_hash": "2d369dccc3fc",
-  "scored_at": "2026-06-24T09:30:16.732705"
+  "discount_pct": 40.0,
+  "input_hash": "b5c3c798aa66",
+  "scored_at": "2026-07-10T09:40:07.570597"
 }

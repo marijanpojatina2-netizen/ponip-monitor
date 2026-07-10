@@ -1,17 +1,16 @@
 {
   "id": "60369",
-  "score_overall": 1.5,
-  "score_lokacija": 1.5,
-  "score_roi": 3.0,
-  "score_stanje": 3.0,
+  "score_overall": 3.6,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
   "recommendation": "pass",
-  "reasoning": "Kuća od 73 m² u Glini s procjenom 5.100 EUR signalizira jedno od najtežih mikromarketa u Hrvatskoj - potresno pogođeno područje (2020.), izrazita depopulacija Sisačko-moslavačke županije i gotovo nulta tržišna likvidnost. Čak i uz 20% popust, realna tržišna vrijednost i mogućnost prodaje su upitne.",
+  "reasoning": "Kuća s dvorištem u Glini, gospodarski slabijem području pogođenom potresom 2020. godine, uz slabu likvidnost tržišta nekretnina. Popust od 20% na prvoj dražbi ne kompenzira rizike lokacije i moguća oštećenja objekta.",
   "flags": [
-    "Glina - potresno područje 2020. (stambeni fond oštećen)",
-    "ekstremna depopulacija - Sisačko-moslavačka županija",
-    "tržišna vrijednost upitna - 5.100 EUR za kuću 73m²",
-    "praktički nula likvidnosti na izlazu"
+    "provjeriti: strukturalna oštećenja objekta nakon potresa u Glini 2020.",
+    "provjeriti: stanje kuće nije detaljno opisano u dokumentaciji"
   ],
-  "input_hash": "cc5298bf64a7",
-  "scored_at": "2026-05-28T09:59:31.808594"
+  "discount_pct": 20.0,
+  "input_hash": "1282c590571d",
+  "scored_at": "2026-07-10T09:36:04.732292"
 }

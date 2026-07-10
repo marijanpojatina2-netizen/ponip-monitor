@@ -1,0 +1,38 @@
+{
+  "id": "59495",
+  "score_overall": 6.2,
+  "score_lokacija": 7.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Radi se o velikoj cjelini šume i pašnjaka (ukupno 710.296 m2 / 71 ha) na otoku Pagu, k.o. Pag, prodanoj u stečaju na drugoj dražbi s 50% popustom. Procijenjena vrijednost od 8.125.000 EUR implicira ~11,4 EUR/m2 za šumsko/pašnjačko zemljište, što je neuobičajeno visoko za tu klasu zemljišta i upućuje na mogući skriveni razvojni/urbanistički potencijal (ili precijenjenu procjenu) koji treba nužno provjeriti prije licitacije. Lokacija na atraktivnom otoku nosi dugoročni potencijal, ali bez informacije o pristupu, infrastrukturi i urbanističkom statusu radi se o visokorizičnom, nelikvidnom ulaganju velike vrijednosti koje zaslužuje detaljan due diligence, a ne trenutačnu ponudu.",
+  "flags": [
+    "provjeriti: opravdanost procijenjene vrijednosti (11+ EUR/m2 neuobičajeno visoko za šumu/pašnjak, moguć razvojni potencijal ili precjena)",
+    "provjeriti: urbanistički status i mogućnost prenamjene/gradnje (GUP/PPU)",
+    "provjeriti: pristup i infrastruktura (put, struja, voda) do parcela Ogradica do Lokunja i Rebarsko",
+    "provjeriti: tereti, služnosti i prava trećih u zemljišnim knjigama (stečajna prodaja, kupnja 'kakvo jest gdje jest')",
+    "provjeriti: postoji li koncesija, zaštita prirode (Natura 2000) ili druga ograničenja korištenja na k.č. u k.o. Pag",
+    "niska likvidnost - prodaja 71 ha nerazvijenog zemljišta kao jedinstvene cjeline sužava krug kupaca"
+  ],
+  "market_estimate": {
+    "eur_min": 900000,
+    "eur_max": 3800000,
+    "confidence": "low",
+    "basis": "Web pretraga nije bila dostupna u ovoj sesiji pa procjena počiva na općem poznavanju tržišta: šumsko/pašnjačko zemljište bez izgrađevinskog statusa u Hrvatskoj tipično se kreće 0,3-3 EUR/m2, uz mogući premium za lokaciju na turistički atraktivnom otoku Pag ako postoji razvojni potencijal koji treba provjeriti. Raspon je znatno ispod početne cijene dražbe (4.062.500 EUR / 5,72 EUR/m2), što je ključni signal za deep dive prije ponude."
+  },
+  "comparables": [],
+  "investment_strategy": "razvoj (dugoročno) - zemljište nema smisla kao brzi flip; jedina realna ROI priča je stjecanje po niskoj cijeni po m2 uz naknadnu prenamjenu/uklapanje u urbanistički plan (turizam, vjetroelektrane, poljoprivreda velikih razmjera) ili prodaju investitoru s vizijom razvoja na Pagu. Bez potvrđenog razvojnog potencijala, ulaganje se ne isplati na temelju same poljoprivredne/šumske vrijednosti.",
+  "entry_price_eur": 1200000,
+  "detailed_risks": [
+    "Enormna razlika između tipične cijene šumskog/pašnjačkog zemljišta i procijenjene vrijednosti (8,125 mil. EUR) - moguća precjena ili nepoznat faktor vrijednosti koji nije vidljiv iz opisa",
+    "Stečajna prodaja - imovina se kupuje u zatečenom pravnom stanju, bez jamstava prodavatelja",
+    "Nema podataka o pristupnim putevima, komunalnoj infrastrukturi ni urbanističkoj namjeni tri parcele",
+    "Velika, teško djeljiva cjelina (71 ha) smanjuje broj potencijalnih kupaca i otežava izlaznu strategiju",
+    "Razgledavanje samo po dogovoru (telefonski) - otežana due diligence prije dražbe"
+  ],
+  "upside_scenario": "Ako se u narednih 2-3 godine potvrdi da zemljište ulazi u plan proširenja turističke/građevinske zone otoka Paga (ili ima potencijal za vjetroelektranu/solarni park/veliku poljoprivrednu investiciju), vrijednost bi mogla premašiti i procijenjenih 8,125 mil. EUR, čime bi kupnja po startnoj cijeni od 4,06 mil. EUR donijela izniman povrat.",
+  "downside_scenario": "Ako je riječ o čistom šumsko-pašnjačkom zemljištu bez ikakvog razvojnog potencijala, realna tržišna vrijednost je vjerojatno tek djelić procijenjene (900k-2 mil. EUR raspon), pristupni putevi i infrastruktura možda ne postoje, a imovina ostaje nelikvidna desetljećima - kupac bi platio višestruko iznad stvarne vrijednosti i teško bi je unovčio.",
+  "discount_pct": 50.0,
+  "input_hash": "df301b34ad44",
+  "scored_at": "2026-07-10T09:47:14.639055"
+}

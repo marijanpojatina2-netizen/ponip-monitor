@@ -1,16 +1,16 @@
 {
   "id": "60389",
-  "score_overall": 2.5,
-  "score_lokacija": 1.5,
-  "score_roi": 3.5,
+  "score_overall": 3.7,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
   "score_stanje": 4.0,
   "recommendation": "pass",
-  "reasoning": "Vinograd u k.o. Kotlina (Beli Manastir, Baranja) — depopulacijska ruralna regija s izrazito niskom likvidnošću poljoprivrednog zemljišta. Popust od 20% na prvoj dražbi nedovoljan da kompenzira slabu potražnju i ograničene izlazne strategije.",
+  "reasoning": "Vinograd 'Sarheđ' u Baranji (Beli Manastir) nalazi se u pograničnom, demografski slabom području Slavonije s niskom likvidnošću tržišta nekretnina. Popust od 20% na prvoj dražbi ne opravdava rizik ulaganja u ovakvu lokaciju.",
   "flags": [
-    "ruralno/depopulacijsko područje",
-    "poljoprivredno zemljište — niska likvidnost",
-    "Baranja — ograničeno tržište kupaca"
+    "provjeriti: stanje vinogradarskog nasada na terenu",
+    "ruralno pogranično područje s padom stanovništva"
   ],
-  "input_hash": "b35c32cba677",
-  "scored_at": "2026-05-22T09:07:06.507773"
+  "discount_pct": 20.0,
+  "input_hash": "907a094ae710",
+  "scored_at": "2026-07-10T09:38:29.703082"
 }

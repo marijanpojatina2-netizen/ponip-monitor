@@ -1,17 +1,16 @@
 {
   "id": "59825",
-  "score_overall": 2.5,
-  "score_lokacija": 3.5,
-  "score_roi": 2.0,
-  "score_stanje": 3.5,
-  "recommendation": "pass",
-  "reasoning": "Predmet prodaje je pravo građenja, a ne vlasništvo nekretnine - kupac ne stječe vlasništvo nad zemljištem ni objektima, već samo vremenski ograničeno pravo što je izrazito složen i rizičan pravni instrument. Zbelava je ruralna periferija Varaždina, a iznos od ~3.400 EUR sugerira da tržište već reflektira ograničenu vrijednost ovog prava.",
+  "score_overall": 4.9,
+  "score_lokacija": 5.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Kompleks s kućom, poslovnom, pomoćnom i gospodarskom zgradom u okolici Varaždina nudi solidnu iskoristivost, ali predmet prodaje je pravo građenja a ne puno vlasništvo zemljišta, što bitno mijenja pravni i vremenski okvir ulaganja. Popust od 20% na prvoj dražbi je standardan i ne signalizira posebnu priliku.",
   "flags": [
-    "PRAVO GRAĐENJA - ne vlasništvo, vremenski ograničeno",
-    "zemlja ostaje u vlasništvu trećih osoba",
-    "složen pravni status s neizvjesnim ishodom po isteku prava",
-    "Zbelava - niska tržišna likvidnost"
+    "provjeriti: pravo građenja je vremenski ograničeno pravo na tuđem zemljištu, nije puno vlasništvo nad čkbr. 313",
+    "provjeriti: trenutno stanje i useljivost objekata"
   ],
-  "input_hash": "0c0a1265b109",
-  "scored_at": "2026-04-28T08:24:20.460819"
+  "discount_pct": 20.0,
+  "input_hash": "b8a0d7edb43c",
+  "scored_at": "2026-07-10T09:38:29.702558"
 }

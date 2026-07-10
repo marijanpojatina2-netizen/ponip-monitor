@@ -1,12 +1,15 @@
 {
   "id": "59110",
-  "score_overall": 4.7,
-  "score_lokacija": 4.5,
-  "score_roi": 5.5,
+  "score_overall": 5.9,
+  "score_lokacija": 5.5,
+  "score_roi": 7.5,
   "score_stanje": 3.0,
-  "recommendation": "pass",
-  "reasoning": "Oranica 4226 m2 u k.o. Šašinovec — manja vrijednost parcele uz skromnu likvidnost poljoprivrednog tržišta periferije Zagreba. Bez jasnog exitnog scenarija osim daljnje preprodaje.",
-  "flags": [],
-  "input_hash": "f68a997c1c5d",
-  "scored_at": "2026-06-15T11:59:10.564504"
+  "recommendation": "bid",
+  "reasoning": "Oranica na periferiji Zagreba (Šašinovec, blizu Sesveta) s solidnom veličinom (4226 m2) i 40% popustom na drugoj dražbi nudi dobar ROI potencijal za dugoročno držanje uz širenje grada. Zemljište bez objekta, ali lokacija blizu Zagreba nosi razvojni potencijal.",
+  "flags": [
+    "provjeriti: namjena zemljišta prema važećem prostornom planu (poljoprivredno vs. građevinsko)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "37aa15faa47f",
+  "scored_at": "2026-07-10T09:36:04.731598"
 }

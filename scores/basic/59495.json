@@ -1,0 +1,16 @@
+{
+  "id": "59495",
+  "score_overall": 6.5,
+  "score_lokacija": 8.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Veliki kompleks šume i pašnjaka (71 ha) na otoku Pagu s 50% popustom i vrlo visokom apsolutnom vrijednošću (8,1M EUR procjena) - lokacija je vrhunska, ali namjena zemljišta (šuma/pašnjak) ograničava neposredni razvojni potencijal dok se ne provjeri mogućnost prenamjene. Prodaje se kao jedinstvena cjelina što zahtijeva velik kapital i temeljitu due diligence prije licitacije.",
+  "flags": [
+    "provjeriti: namjena zemljišta (šuma/pašnjak) i mogućnost prenamjene u građevinsko",
+    "prodaje se kao jedinstvena cjelina - visok ulog"
+  ],
+  "discount_pct": 50.0,
+  "input_hash": "df301b34ad44",
+  "scored_at": "2026-07-10T09:30:37.578407"
+}

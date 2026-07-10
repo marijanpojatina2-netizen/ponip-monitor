@@ -1,0 +1,16 @@
+{
+  "id": "59814",
+  "score_overall": 5.3,
+  "score_lokacija": 5.5,
+  "score_roi": 6.5,
+  "score_stanje": 2.5,
+  "recommendation": "watch",
+  "reasoning": "Neizgrađeno zemljište (pašnjak) u Senju s pogledom prema moru, uz 40% popust - lokacija je zanimljiva za dugoročni land banking ali namjena čestice ograničava trenutnu gradnju. Nema infrastrukture niti urbanističke dokumentacije spomenute u opisu.",
+  "flags": [
+    "provjeriti: namjena zemljišta (pašnjak) i mogućnost prenamjene za gradnju",
+    "provjeriti: postojanje pristupa infrastrukturi (voda, struja, cesta)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "724d811a7764",
+  "scored_at": "2026-07-10T09:30:37.579203"
+}

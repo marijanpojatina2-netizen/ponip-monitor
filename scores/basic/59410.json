@@ -1,14 +1,15 @@
 {
   "id": "59410",
-  "score_overall": 5.8,
-  "score_lokacija": 7.0,
-  "score_roi": 6.0,
-  "score_stanje": 3.0,
-  "recommendation": "watch",
-  "reasoning": "Šuma u k.o. Sv. Ivan blizu Poreča u Istri — odlična lokacija u traženom turističkom pojasu s 40% popustom na drugoj dražbi. Suvlasnički udio 1/2 i šumska namjena otežavaju raspolaganje, ali istarsko zemljište na ovom pragu ima špekulativan potencijal.",
+  "score_overall": 6.8,
+  "score_lokacija": 8.5,
+  "score_roi": 7.5,
+  "score_stanje": 2.5,
+  "recommendation": "bid",
+  "reasoning": "Šumska čestica u k.o. Sv. Ivan kraj Poreča nalazi se u vrlo traženoj istarskoj zoni, uz 40% popusta na drugoj dražbi što je izraziti ROI potencijal. Prodaje se tek 1/2 suvlasničkog dijela što zahtijeva dogovor s drugim suvlasnikom prije realizacije pune vrijednosti.",
   "flags": [
-    "suvlasništvo 1/2"
+    "provjeriti: suvlasnički dio 1/2 - potrebna suglasnost ili dioba s drugim suvlasnikom"
   ],
-  "input_hash": "611a161e2504",
-  "scored_at": "2026-06-24T09:30:16.731096"
+  "discount_pct": 40.0,
+  "input_hash": "3000a8ee9de8",
+  "scored_at": "2026-07-10T09:37:10.146303"
 }

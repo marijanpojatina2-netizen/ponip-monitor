@@ -1,12 +1,16 @@
 {
   "id": "60712",
-  "score_overall": 2.6,
+  "score_overall": 3.3,
   "score_lokacija": 2.0,
-  "score_roi": 3.0,
+  "score_roi": 4.5,
   "score_stanje": 3.0,
   "recommendation": "pass",
-  "reasoning": "Skup manjih parcela (šuma + oranice, ukupno ~8000 m2) u k.o. Sibenik kod Grubišnog Polja — depopulacijsko ruralno područje bez investicijskog interesa. 20% popust na prvoj dražbi nezadovoljavajući za ovakvu lokaciju.",
-  "flags": [],
-  "input_hash": "8aee6df439b1",
-  "scored_at": "2026-06-24T09:30:16.731218"
+  "reasoning": "K.o. Sibenik kraj Grubišnog Polja (Bjelovarsko-bilogorska županija) je ruralno depopulacijsko područje bez ikakvih objekata, samo šuma i oranice; popust od svega 20% na prvoj dražbi ne kompenzira slabu likvidnost tržišta.",
+  "flags": [
+    "provjeriti: k.o. Sibenik je selo kraj Grubišnog Polja, nije priobalni Šibenik - lako za zabunu",
+    "neizgrađeno zemljište bez infrastrukture"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "20e52f816634",
+  "scored_at": "2026-07-10T09:38:29.702274"
 }

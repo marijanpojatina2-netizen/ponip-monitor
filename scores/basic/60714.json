@@ -1,12 +1,16 @@
 {
   "id": "60714",
-  "score_overall": 2.6,
+  "score_overall": 3.3,
   "score_lokacija": 2.0,
-  "score_roi": 3.0,
+  "score_roi": 4.5,
   "score_stanje": 3.0,
   "recommendation": "pass",
-  "reasoning": "Livade i oranice (~7100 m2) u k.o. Sibenik (Grubišno Polje) — isti depopulacijski kontekst kao okolne nekretnine iz istog sela. Lokacija bez razvojne perspektive, a 20% popust na prvoj dražbi nedovoljan.",
-  "flags": [],
-  "input_hash": "52b6d6a90279",
-  "scored_at": "2026-06-24T09:30:16.731367"
+  "reasoning": "Ista ruralna lokacija kao i susjedna nekretnina (k.o. Sibenik, Grubišno Polje) - sitne parcele livada i oranica bez objekata u depopulacijskom području. Popust od 20% na prvoj dražbi ne nudi dovoljnu maržu za slabu likvidnost ovog tržišta.",
+  "flags": [
+    "provjeriti: k.o. Sibenik je selo kraj Grubišnog Polja, nije priobalni Šibenik",
+    "neizgrađeno zemljište, sitne rascjepkane čestice"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "f317da191e9b",
+  "scored_at": "2026-07-10T09:38:29.703748"
 }

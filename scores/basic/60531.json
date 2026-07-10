@@ -1,17 +1,15 @@
 {
   "id": "60531",
-  "score_overall": 4.0,
-  "score_lokacija": 6.0,
-  "score_roi": 4.5,
-  "score_stanje": 3.0,
-  "recommendation": "pass",
-  "reasoning": "Dvorišna čestica od svega 36m2 u k.o. Šestine (Zagreb) bez građevine ima vrlo ograničenu upotrebnu vrijednost i praktički nultu likvidnost kao samostalna parcela. Popust od 40% na procjenu zvuči privlačno, ali apsolutna vrijednost od ~3.000 EUR uz neizvjesnost gradnje i moguću otežanu preprodaju čini ovaj lot slabim investicijskim kandidatom.",
+  "score_overall": 6.0,
+  "score_lokacija": 7.5,
+  "score_roi": 6.5,
+  "score_stanje": 2.0,
+  "recommendation": "watch",
+  "reasoning": "Šestinski vrh je tražena zagrebačka lokacija što diže vrijednost, a 40% popusta na drugoj dražbi je dodatni poticaj. Radi se tek o dvorištu od 36 m2 bez objekta, pa je samostalna upotreba ograničena i zanimljivija je kao dokup uz susjednu parcelu.",
   "flags": [
-    "samo zemljište 36m2 - nema objekta",
-    "dvorišna čestica - ograničena samostalna upotreба",
-    "niska apsolutna vrijednost ali i likvidnost",
-    "nejasno da li postoji mogućnost gradnje"
+    "provjeriti: mogućnost spajanja s/kupnje susjedne parcele s obzirom na vrlo malu površinu"
   ],
-  "input_hash": "6089e5cb6c93",
-  "scored_at": "2026-05-29T09:53:18.544157"
+  "discount_pct": 40.0,
+  "input_hash": "79fc1ecf87f0",
+  "scored_at": "2026-07-10T09:36:04.732032"
 }

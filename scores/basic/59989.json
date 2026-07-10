@@ -1,16 +1,16 @@
 {
   "id": "59989",
-  "score_overall": 3.5,
-  "score_lokacija": 5.5,
-  "score_roi": 3.5,
-  "score_stanje": 4.5,
-  "recommendation": "pass",
-  "reasoning": "Gornje Vrapče je rubna zagrebačka lokacija s određenim potencijalom, ali suvlasnički udio 481/2898 (~16,6%) čini ovu nekretninu praktički neupravljivom bez suglasnosti ostalih suvlasnika. Kombinacija prvog roka, skromnog popusta od 20% i minornog suvlasničkog dijela eliminira investicijski smisao.",
+  "score_overall": 5.3,
+  "score_lokacija": 6.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Gornje Vrapče je solidna zagrebačka lokacija, ali predmet prodaje je tek suvlasnički dio 481/2898 kuće i vinograda što bitno otežava samostalno korištenje ili preprodaju. Popust je tek 20% na prvoj dražbi pa ROI nije naročito atraktivan uz ovakvu pravnu kompliciranost.",
   "flags": [
-    "suvlasnički udio ~16,6% (481/2898)",
-    "koordinacija s ostalim suvlasnicima nužna za svaku odluku",
-    "vinograd kao dio parcele - moguća agrarna ograničenja"
+    "suvlasnički dio 481/2898 (manjinski udio)",
+    "provjeriti: mogućnost fizičke diobe/korištenja nekretnine s obzirom na suvlasnički udio"
   ],
-  "input_hash": "bd4f43567b17",
-  "scored_at": "2026-04-29T08:15:10.935682"
+  "discount_pct": 20.0,
+  "input_hash": "e26aad8bd1d2",
+  "scored_at": "2026-07-10T09:34:58.996102"
 }

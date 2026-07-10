@@ -1,16 +1,15 @@
 {
   "id": "60023",
-  "score_overall": 2.0,
-  "score_lokacija": 5.0,
-  "score_roi": 3.0,
-  "score_stanje": 3.0,
+  "score_overall": 4.6,
+  "score_lokacija": 6.5,
+  "score_roi": 4.5,
+  "score_stanje": 1.5,
   "recommendation": "pass",
-  "reasoning": "Najmanji od tri srodna parcela na Zagrebačkoj ulici u Varaždinu – svega 34 m2 katastarski klasificirano kao 'ulica', s početnom cijenom 2.400 EUR. Bez konsolidacije svih triju čestica i prenamjene nema realne investicijske priče.",
+  "reasoning": "Iako se nekretnina nalazi u samom Varaždinu, radi se o sitnoj (34 m2) uličnoj/prometnoj čestici bez samostalne gospodarske upotrebe, što jako ograničava ROI unatoč pristojnom popustu od 25%. Realna potražnja praktički postoji samo kod susjednih vlasnika radi konsolidacije zemljišta.",
   "flags": [
-    "katastarska oznaka 'ulica' – ograničena gradivnost",
-    "premali parcel 34 m2 – nema autonomne vrijednosti",
-    "trijaž: kupnja ima smisla samo uz čestice 3924/24 i 3924/18"
+    "provjeriti: namjena čestice – prometna/ulična površina s ograničenom samostalnom vrijednošću"
   ],
-  "input_hash": "3e03621dc717",
-  "scored_at": "2026-04-27T08:21:25.044799"
+  "discount_pct": 25.0,
+  "input_hash": "8e1ed4f2b969",
+  "scored_at": "2026-07-10T09:40:07.571365"
 }

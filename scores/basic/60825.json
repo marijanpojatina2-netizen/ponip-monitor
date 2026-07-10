@@ -1,14 +1,16 @@
 {
   "id": "60825",
-  "score_overall": 2.8,
-  "score_lokacija": 6.0,
-  "score_roi": 1.0,
-  "score_stanje": 1.0,
+  "score_overall": 4.8,
+  "score_lokacija": 7.0,
+  "score_roi": 4.5,
+  "score_stanje": 1.5,
   "recommendation": "pass",
-  "reasoning": "Predmet prodaje je suvlasnički udio (20123/25000) na mikročestici od svega 14 m2 u k.o. Remete, što je gotovo bezvrijedno kao samostalna investicija i dodatno kompliciraju odnosi sa suvlasnicima. Iznimno nizak investicijski potencijal unatoč dobroj lokaciji.",
+  "reasoning": "Iako je lokacija (Remete, Zagreb) atraktivna, radi se o suvlasničkom dijelu mikroskopne čestice od 14 m2 iz stečajne mase, praktički neupotrebljivoj samostalno. ROI je upitan jer takav fragment teško ima samostalnu tržišnu vrijednost ili priliv likvidnosti.",
   "flags": [
-    "suvlasništvo - frakcijski udio (upravljanje/prodaja ovisi o drugim suvlasnicima)"
+    "provjeriti: suvlasnički udio i praktična iskoristivost čestice od 14 m2",
+    "provjeriti: povezanost s većom susjednom nekretninom"
   ],
-  "input_hash": "834ccc42381a",
-  "scored_at": "2026-07-01T09:41:32.875099"
+  "discount_pct": 25.0,
+  "input_hash": "9d4b49b34a3b",
+  "scored_at": "2026-07-10T09:44:53.870972"
 }

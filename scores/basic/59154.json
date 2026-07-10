@@ -1,15 +1,15 @@
 {
   "id": "59154",
-  "score_overall": 5.1,
+  "score_overall": 5.6,
   "score_lokacija": 7.0,
-  "score_roi": 5.0,
-  "score_stanje": 2.0,
-  "recommendation": "watch",
-  "reasoning": "Katastarska čestica označena kao PUT (pristupni put) od 31 m2 u atraktivnim Šestinama (Zagreb) s 50% popustom — lokacija je izvrsna, ali namjena 'PUT' isključuje samostalni razvoj ili stanovanje. Strateška vrijednost postoji jedino uz vlasništvo ili planiranu kupnju susjednih čestica.",
+  "score_roi": 6.5,
+  "score_stanje": 1.0,
+  "recommendation": "pass",
+  "reasoning": "Šestine su tražena zagrebačka lokacija, no predmet prodaje je tek 31 m2 puta bez samostalne razvojne funkcije, što jako ograničava praktičnu iskoristivost unatoč 50% popustu. ROI ovisi gotovo isključivo o mogućem interesu susjednih vlasnika za pristup.",
   "flags": [
-    "PUT - bez građevinskog potencijala",
-    "potencijalna prava prolaza trećih"
+    "provjeriti: namjenu i pristupna prava čestice (put)"
   ],
-  "input_hash": "587817412ab0",
-  "scored_at": "2026-06-22T11:52:52.859706"
+  "discount_pct": 50.0,
+  "input_hash": "f54ede7a6766",
+  "scored_at": "2026-07-10T09:44:53.871795"
 }

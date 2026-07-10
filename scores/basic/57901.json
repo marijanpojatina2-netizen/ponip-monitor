@@ -1,12 +1,15 @@
 {
   "id": "57901",
-  "score_overall": 5.1,
-  "score_lokacija": 3.5,
-  "score_roi": 7.5,
+  "score_overall": 5.9,
+  "score_lokacija": 4.5,
+  "score_roi": 8.5,
   "score_stanje": 2.5,
-  "recommendation": "watch",
-  "reasoning": "Tri katastarske čestice (livada/oranica/pašnjak) u k.o. Bukevje ukupno ~4500 m2 — paket je zanimljiv zbog veličine i 75% popusta na trećoj dražbi, ali lokacija Bukevje/Velika Gorica ograničava likvidnost. Potencijal eventualno kao dio veće agrarne ili razvojne akvizicije.",
-  "flags": [],
-  "input_hash": "55158d7999a8",
-  "scored_at": "2026-06-29T10:56:06.606979"
+  "recommendation": "bid",
+  "reasoning": "Poljoprivredno zemljište (tri čestice, 4521 m2) u Bukevju kraj Velike Gorice, na periferiji Zagreba, uz izuzetno visok popust od 75% na trećoj dražbi. Sirovo zemljište bez razvijene infrastrukture, ali cijena i blizina Zagreba čine ga zanimljivim za dugoročnu špekulaciju.",
+  "flags": [
+    "provjeriti: namjena i pristupnost triju čestica različitih kultura (livada/oranica/pašnjak)"
+  ],
+  "discount_pct": 75.0,
+  "input_hash": "9f3676ec0d94",
+  "scored_at": "2026-07-10T09:37:10.145035"
 }

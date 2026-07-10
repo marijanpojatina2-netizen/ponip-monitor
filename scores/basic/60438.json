@@ -1,17 +1,15 @@
 {
   "id": "60438",
-  "score_overall": 2.5,
-  "score_lokacija": 2.5,
-  "score_roi": 4.0,
-  "score_stanje": 3.5,
+  "score_overall": 3.3,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
   "recommendation": "pass",
-  "reasoning": "Identična situacija kao ID 60436 — susjedna šumska čestica iste površine i cijene u k.o. Bršljanica; jedina razlika je broj čestice, sve napomene o šumskim propisima i slaboj lokaciji jednako se primjenjuju.",
+  "reasoning": "Identična situacija kao susjedna čestica 848/57 - šumsko zemljište u Bršljanici s istim slabim lokacijskim i ROI parametrima. Dvije susjedne čestice iz iste dražbe mogle bi se razmotriti zajedno radi veće ukupne površine, no to bitno ne mijenja investicijsku sliku.",
   "flags": [
-    "šumsko zemljište - posebni propisi",
-    "prva dražba, mali popust",
-    "potencijalno iste stranke kao 60436 - provjeri vlasničku strukturu",
-    "Garešnica zona - nulta likvidnost"
+    "provjeriti: pristupni put do šumske čestice"
   ],
-  "input_hash": "d371af48bf62",
-  "scored_at": "2026-06-01T11:30:14.531778"
+  "discount_pct": 20.0,
+  "input_hash": "acdd4e029025",
+  "scored_at": "2026-07-10T09:43:50.123283"
 }

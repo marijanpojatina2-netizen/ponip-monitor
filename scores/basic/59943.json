@@ -1,16 +1,16 @@
 {
   "id": "59943",
-  "score_overall": 3.5,
-  "score_lokacija": 7.0,
-  "score_roi": 3.0,
-  "score_stanje": 3.0,
-  "recommendation": "pass",
-  "reasoning": "Lokacija Rab je turistički atraktivna, ali predmet je 3/12 suvlasničkog dijela pašnjaka bez ikakve izgrađene infrastrukture - praktički neiskoristivo bez suglasnosti ostalih suvlasnika. Popust od 20% na prvoj dražbi nije dovoljno atraktivan za ovakav parcijalni udio u neizgrađenom pašnjaku.",
+  "score_overall": 6.1,
+  "score_lokacija": 9.0,
+  "score_roi": 5.0,
+  "score_stanje": 3.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Pašnjak na otoku Rabu ima izuzetno atraktivnu lokaciju s visokim turističkim potencijalom, no radi se tek o 3/12 idealnog suvlasničkog dijela što bitno otežava samostalno raspolaganje i razvoj. Zbog rijetkosti zemljišta na Rabu vrijedi detaljna pravna provjera unatoč složenosti suvlasništva.",
   "flags": [
-    "suvlasnički udio 3/12 - otežana raspolaganje bez suglasnosti ostalih suvlasnika",
-    "neizgrađen pašnjak - nema prihoda niti jasne namjene",
-    "mala površina 784m2 u djelomičnom udjelu - ograničene mogućnosti razvoja"
+    "suvlasništvo (3/12 idealnog dijela)",
+    "provjeriti: mogućnost razvrgnuća suvlasništva ili otkupa preostalih dijelova"
   ],
-  "input_hash": "f71319f7e240",
-  "scored_at": "2026-04-28T08:24:36.634177"
+  "discount_pct": 20.0,
+  "input_hash": "5675fe963051",
+  "scored_at": "2026-07-10T09:41:13.828898"
 }

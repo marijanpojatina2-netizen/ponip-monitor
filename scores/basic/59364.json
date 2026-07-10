@@ -1,12 +1,13 @@
 {
   "id": "59364",
-  "score_overall": 2.6,
+  "score_overall": 4.4,
   "score_lokacija": 2.0,
-  "score_roi": 3.0,
-  "score_stanje": 3.0,
-  "recommendation": "pass",
-  "reasoning": "Mala oranica od 935 m2 u slaboj slavonskoj regiji (Rušani kraj Virovitice) s gotovo nepostojećom potražnjom i vrlo niskom likvidnošću tržišta. Unatoč 40% popustu od procjene, apsolutna vrijednost i lokacija ne opravdavaju investicijski interes.",
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Oranica u ruralnom području Virovitičko-podravske županije, slabijeg tržišta nekretnina, no 40% popust na drugoj dražbi znatno poboljšava omjer cijene i vrijednosti. Zbog niske apsolutne vrijednosti moguć je oportunistički ulazak uz nizak kapitalni rizik.",
   "flags": [],
-  "input_hash": "d96c2d4cb245",
-  "scored_at": "2026-06-22T11:52:52.859559"
+  "discount_pct": 40.0,
+  "input_hash": "aeb1075f7510",
+  "scored_at": "2026-07-10T09:41:13.829317"
 }
