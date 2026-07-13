@@ -1,17 +1,15 @@
 {
   "id": "58467",
-  "score_overall": 2.5,
-  "score_lokacija": 2.5,
-  "score_roi": 3.0,
-  "score_stanje": 4.0,
-  "recommendation": "pass",
-  "reasoning": "Najmanji predmet u skupini (1633 m2, dvije čestice spojene), 2/5 suvlasnički udio, Oputina/Perenci — minimalna ukupna vrijednost parcele čini transakcijske troškove i pravni rizik suvlasništva nerazmjerno visokim u odnosu na potencijalni povrat.",
+  "score_overall": 4.6,
+  "score_lokacija": 3.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Oranice u k.o. Perenci kraj Požege, druga dražba s 40% popusta uz suvlasnički dio 2/5 koji je razmjerno veći od ostalih promatranih udjela. Ruralna slavonska lokacija ograničava dugoročni ROI potencijal pa je preporuka praćenje.",
   "flags": [
-    "suvlasnički udio 2/5",
-    "dvije čestice spojene u jedan predmet — kompleksnija struktura",
-    "ruralna depopulacijska zona — Slavonija",
-    "isti zk.ul. 1615"
+    "provjeriti: suvlasnički dio 2/5 - pravo prvokupa ostalih suvlasnika"
   ],
-  "input_hash": "1e1df1d3d265",
-  "scored_at": "2026-05-05T08:18:30.323669"
+  "discount_pct": 40.0,
+  "input_hash": "50ba240126e3",
+  "scored_at": "2026-07-13T09:28:01.820002"
 }

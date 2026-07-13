@@ -1,12 +1,15 @@
 {
   "id": "60684",
-  "score_overall": 2.6,
+  "score_overall": 3.3,
   "score_lokacija": 2.0,
-  "score_roi": 3.0,
+  "score_roi": 4.5,
   "score_stanje": 3.0,
   "recommendation": "pass",
-  "reasoning": "Oranica 780m2 u k.o. Sibenik pod nadležnošću suda u Grubišnom Polju — ruralno depopulacijsko područje Bjelovarsko-bilogorske županije bez turističkog ni razvojnog potencijala. Popust svega 20% na ukupnu vrijednost od 420 EUR čini transakcijske troškove (uknjižba, putni troškovi) neisplativima.",
-  "flags": [],
-  "input_hash": "85263b83658d",
-  "scored_at": "2026-06-24T09:30:58.941866"
+  "reasoning": "Oranica u k.o. Šibenik kraj Grubišnog Polja (nije obalni Šibenik) na prvoj dražbi s tek 20% popusta, bez dodatnog ROI bonusa treće dražbe. Ruralna slavonska lokacija i slab popust čine slučaj investicijski neatraktivnim.",
+  "flags": [
+    "provjeriti: pristup do čestice"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "1d9ed07e3e5f",
+  "scored_at": "2026-07-13T09:28:01.819397"
 }

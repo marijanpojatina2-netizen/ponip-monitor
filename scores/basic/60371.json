@@ -1,17 +1,16 @@
 {
   "id": "60371",
-  "score_overall": 1.0,
-  "score_lokacija": 1.5,
-  "score_roi": 1.5,
-  "score_stanje": 1.0,
+  "score_overall": 3.0,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 1.5,
   "recommendation": "pass",
-  "reasoning": "Radi se o katastarski evidentiranoj cesti i putu (kčbr. 48, k.o. Kotlina, Beli Manastir area) površine 188 m2 – javno dobro ili prometna infrastruktura koje gotovo nikad nije moguće staviti u komercijalnu upotrebu niti izgraditi. Procjenjena vrijednost od 77 EUR govori sama za sebe – nema investicijskog potencijala.",
+  "reasoning": "Parcela je u naravi cesta i put površine 188 m2 te nema samostalnu investicijsku vrijednost. Ima smisla jedino ako investitor već posjeduje ili licitira susjedne Kotlina čestice radi pristupa.",
   "flags": [
-    "predmet je cesta/put – ograničena upotrebljivost",
-    "k.o. Kotlina (Beli Manastir) – depopulacijsko područje istočne Slavonije",
-    "simbolična vrijednost (77 EUR) – likvidnost praktički nulta",
-    "pravni status javne ceste može onemogućiti privatno raspolaganje"
+    "provjeriti: namjena - cesta/put, ograničena samostalna upotrebljivost",
+    "provjeriti: mogućnost objedinjavanja s ostalim Kotlina parcelama"
   ],
-  "input_hash": "d8eb2187edec",
-  "scored_at": "2026-05-22T09:07:42.890135"
+  "discount_pct": 20.0,
+  "input_hash": "dfc528ec4d87",
+  "scored_at": "2026-07-13T09:24:57.966112"
 }

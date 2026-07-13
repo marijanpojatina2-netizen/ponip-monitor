@@ -1,17 +1,16 @@
 {
   "id": "59941",
-  "score_overall": 3.0,
-  "score_lokacija": 7.0,
-  "score_roi": 2.5,
+  "score_overall": 6.4,
+  "score_lokacija": 9.0,
+  "score_roi": 6.0,
   "score_stanje": 3.0,
-  "recommendation": "pass",
-  "reasoning": "Najmanji i najslabiji od tri predmeta - 3/12 pašnjaka od svega 374m2 na Rabu, bez ikakvih izgrađenih sadržaja i s istim problemom suvlasničke strukture. Uz popust od samo 20% na prvoj dražbi, investicijski potencijal je minimalan bez jasne strategije konsolidacije vlasništva.",
+  "recommendation": "watch",
+  "reasoning": "Radi se o 3/12 idealnog dijela pašnjaka na otoku Rabu, vrhunskoj turističkoj lokaciji, po vrlo niskoj cijeni za taj kraj, no suvlasništvo i poljoprivredna namjena bitno ograničavaju likvidnost i mogućnost samostalne gradnje. Zaslužuje pažnju zbog lokacije, ali zahtijeva pravnu provjeru prije licitacije.",
   "flags": [
-    "suvlasnički udio 3/12 - najproblematičniji aspekt",
-    "neizgrađen pašnjak 374m2 - iznimno mala parcela",
-    "bez prihoda i bez razvojnog potencijala kao samostalna investicija",
-    "ista zk. ul. 8057 kao i ostala dva predmeta - moguće konsolidacijska prilika samo ako se kupe svi"
+    "provjeriti: suvlasnički omjer 3/12 i mogućnost fizičke diobe ili prodaje udjela",
+    "provjeriti: namjenu zemljišta (pašnjak) i mogućnost promjene u građevinsko"
   ],
-  "input_hash": "a8631a771c8f",
-  "scored_at": "2026-04-28T08:24:36.634502"
+  "discount_pct": 20.0,
+  "input_hash": "04e8f7c97989",
+  "scored_at": "2026-07-13T09:24:57.966484"
 }

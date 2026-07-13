@@ -1,0 +1,17 @@
+{
+  "id": "60880",
+  "score_overall": 4.8,
+  "score_lokacija": 4.0,
+  "score_roi": 6.0,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Cjelovita čestica od 3403 m2 (VALIČKA i ORANICA) u k.o. Kupinec, ruralno područje Zagrebačke županije bez podataka o infrastrukturi. Dio je serije susjednih čestica (6739/2-6) pa postoji potencijal objedinjavanja u veću parcelu, no popust od tek 20% na prvoj dražbi ne daje veliku sigurnosnu maržu.",
+  "flags": [
+    "provjeriti: mogućnost objedinjavanja sa susjednim česticama k.č. 6739/2-6 (ista k.o., naziv VALIČKA)",
+    "provjeriti: pristupni put i komunalnu infrastrukturu",
+    "provjeriti: namjenu zemljišta prema prostornom planu"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "cd8fecb03bb7",
+  "scored_at": "2026-07-13T09:22:44.965559"
+}

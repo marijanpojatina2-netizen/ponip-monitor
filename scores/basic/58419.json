@@ -1,16 +1,15 @@
 {
   "id": "58419",
-  "score_overall": 2.0,
-  "score_lokacija": 2.5,
-  "score_roi": 2.0,
-  "score_stanje": 3.5,
-  "recommendation": "pass",
-  "reasoning": "Obrađena oranica u Hrastovcu je funkcionalna, ali 1/4 suvlasničkog udjela s početnom cijenom 232 EUR nema investicijsku logiku – transakcijski troškovi i pravna kompleksnost daleko premašuju potencijalnu korist. Lokacija bez turističkog ili razvijenog tržišta nekretnina.",
+  "score_overall": 4.9,
+  "score_lokacija": 4.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Oranica i livada u Hrastovcu, k.o. Sveti Petar kraj Varaždina, druga dražba s 40% popusta uz suvlasnički dio 1/4. Slično ostalim varaždinskim poljoprivrednim udjelima, mala vrijednost i necjelovito vlasništvo opravdavaju samo praćenje.",
   "flags": [
-    "suvlasništvo – 1/4 dijela",
-    "isključivo poljoprivredno zemljište",
-    "zanemariva apsolutna vrijednost (~232 EUR)"
+    "provjeriti: suvlasnički dio 1/4 - pravo prvokupa ostalih suvlasnika"
   ],
-  "input_hash": "d1760fbd1ace",
-  "scored_at": "2026-04-30T08:19:30.477903"
+  "discount_pct": 40.0,
+  "input_hash": "d91cf66abd49",
+  "scored_at": "2026-07-13T09:28:01.820556"
 }

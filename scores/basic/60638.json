@@ -1,12 +1,16 @@
 {
   "id": "60638",
-  "score_overall": 1.9,
-  "score_lokacija": 2.0,
-  "score_roi": 2.0,
-  "score_stanje": 1.5,
-  "recommendation": "pass",
-  "reasoning": "Procijenjena vrijednost od samo 389 EUR za potkućnicu s dvorištem od 687m2 u selu Subocka gotovo sigurno ukazuje na ruševno ili neupotrebljivo stanje objekta; lokacija u zaleđu Daruvara bez turističkog ili komercijalnog potencijala čini ovu nekretninu praktički neutržnom.",
-  "flags": [],
-  "input_hash": "6b31f5a35967",
-  "scored_at": "2026-06-19T10:27:22.459213"
+  "score_overall": 3.9,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Jedina stvarna stambena nekretnina (potkućnica - kuća i dvorište) među promatranim predmetima, u punom vlasništvu ovršenika bez suvlasničkog opterećenja, uz izrazito nisku apsolutnu cijenu unatoč tek 20% popusta na prvoj dražbi. Zbog neuobičajeno niske cijene za objekt s kućom vrijedi detaljnije provjeriti stanje i useljivost prije odluke o licitaciji.",
+  "flags": [
+    "provjeriti: stanje i useljivost objekta",
+    "provjeriti: je li netko useljen u kuću"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "a614b3d0568d",
+  "scored_at": "2026-07-13T09:28:01.820352"
 }

@@ -1,16 +1,15 @@
 {
   "id": "60393",
-  "score_overall": 2.5,
-  "score_lokacija": 2.0,
-  "score_roi": 3.5,
-  "score_stanje": 5.0,
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
   "recommendation": "pass",
-  "reasoning": "Identičan profil kao ID 60387 – oranica u istoj k.o. Kotlina, isti popust, ista jurisdikcija. Bez sinergijskog efekta ukoliko se ne kupuje više parcela zajedno za konsolidaciju, ali čak i tada ROI ostaje upitan u ovoj regiji.",
+  "reasoning": "Još jedna oranica u nizu čestica k.o. Kotlina, vjerojatno dio raspada iste ovršne mase; niska apsolutna vrijednost i slaba likvidnost tržišta. Nema posebnih prednosti u odnosu na susjedne parcele.",
   "flags": [
-    "ruralno područje – depopulacijska zona",
-    "poljoprivredno zemljište – ograničena prenamjena",
-    "niska likvidnost tržišta Beli Manastir"
+    "provjeriti: pristupni put i katastarsku česticu"
   ],
-  "input_hash": "3c1362b76b11",
-  "scored_at": "2026-05-22T09:07:34.862066"
+  "discount_pct": 20.0,
+  "input_hash": "9bc728fae946",
+  "scored_at": "2026-07-13T09:23:35.581397"
 }

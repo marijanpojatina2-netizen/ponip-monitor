@@ -1,17 +1,15 @@
 {
   "id": "58618",
-  "score_overall": 3.0,
+  "score_overall": 5.1,
   "score_lokacija": 6.0,
-  "score_roi": 3.0,
-  "score_stanje": 3.0,
-  "recommendation": "pass",
-  "reasoning": "Vinodolska općina blizu Crikvenice ima turističku perspektivu, no predmet prodaje je samo 1/5 neizgrađenog dvorišta (efektivno ~116 m²) po cijeni od 844 EUR - uz suvlasnički udio koji onemogućuje gradnju bez suglasnosti preostalih 4/5 vlasnika. Predjel Štale južno od Bribira je ruralna lokacija bez jasnog razvojnog puta.",
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Bribir kod Crikvenice u Vinodolskoj općini ima solidan turistički potencijal kvarnerskog zaleđa, a radi se o neizgrađenom građevinskom zemljištu što daje razvojnu vrijednost. Prva dražba s tek 20% popusta i prodaja samo 1/5 suvlasničkog dijela smanjuju ROI atraktivnost pa je za sada bolje samo pratiti.",
   "flags": [
-    "1/5 suvlasnički udio neizgrađenog zemljišta",
-    "gradnja nemoguća bez suglasnosti ostalih suvlasnika",
-    "neizgrađeno - nema infrastrukture ni komunalija",
-    "ruralni predio Štale - ograničena potražnja"
+    "suvlasnički dio 1/5 - prodaje se samo dio nekretnine"
   ],
-  "input_hash": "29e7441c7ec8",
-  "scored_at": "2026-04-29T08:15:10.936067"
+  "discount_pct": 20.0,
+  "input_hash": "bfe7b770641b",
+  "scored_at": "2026-07-13T09:26:04.797783"
 }

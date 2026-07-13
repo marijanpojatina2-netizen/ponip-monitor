@@ -1,0 +1,16 @@
+{
+  "id": "60864",
+  "score_overall": 4.0,
+  "score_lokacija": 4.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Kupuje se tek idealni suvlasnički dio (59940/231772, ~26%) velike ruralne parcele u Kupincu, što komplicira upravljanje i buduću prodaju cijele nekretnine. Slaba likvidnost poljoprivrednog zemljišta uz djelomično vlasništvo čini ovo slabim investicijskim slučajem unatoč niskoj ulaznoj cijeni.",
+  "flags": [
+    "provjeriti: suvlasnički (idealni) dio - dijeljeno vlasništvo s ostalim suvlasnicima",
+    "provjeriti: pravo prvokupa za poljoprivredno zemljište"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "cdeaba24e9da",
+  "scored_at": "2026-07-13T09:21:33.646986"
+}

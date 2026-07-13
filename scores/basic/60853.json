@@ -1,0 +1,15 @@
+{
+  "id": "60853",
+  "score_overall": 3.6,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Obiteljska kuća s pomoćnim objektima na 2331 m2 u Potnjanima kraj Đakova, apsolutno vrlo jeftina, ali smještena u depopulacijskom području Slavonije sa slabom likvidnošću tržišta nekretnina. Popust od 20% ne kompenzira nisku potražnju i sporu preprodaju u regiji.",
+  "flags": [
+    "provjeriti: stanje i starost pomoćnih objekata (garaža, nadstrešnica, pomoćna zgrada)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "06adfb389f07",
+  "scored_at": "2026-07-13T09:21:33.647474"
+}

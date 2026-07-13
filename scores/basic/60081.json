@@ -1,14 +1,16 @@
 {
   "id": "60081",
-  "score_overall": 2.7,
-  "score_lokacija": 3.5,
-  "score_roi": 2.5,
+  "score_overall": 3.8,
+  "score_lokacija": 4.0,
+  "score_roi": 4.5,
   "score_stanje": 2.0,
   "recommendation": "pass",
-  "reasoning": "Šibensko zaleđe (k.o. Velika Glava) daje određenu lokacijsku premiju, ali vlasnički udio 12/1200 (1/100) čini parcelaciju i samostalnu upotrebu praktično nemogućom bez dogovora s ostalih ~99 suvlasnika. Potpuno zapušteno zemljište obraslo šumom bez ikakve infrastrukture.",
+  "reasoning": "Mikroskopski suvlasnički udio (12/1200, ~1%) zapuštenog poljoprivrednog zemljišta u unutrašnjosti šibenskog zaleđa (Velika Glava), bez infrastrukture i s posušenim voćkama. Prva dražba s tek 20% popusta i zanemariva apsolutna vrijednost (369 EUR) čine ovo praktički nezanimljivim za investiciju.",
   "flags": [
-    "suvlasništvo — sitni udio (12/1200)"
+    "provjeriti: mikro-suvlasnički udio (1%) - otežana samostalna prodaja/korištenje",
+    "provjeriti: pravo prvokupa ostalih suvlasnika"
   ],
-  "input_hash": "db3b4316acb5",
-  "scored_at": "2026-06-24T09:30:58.942155"
+  "discount_pct": 20.0,
+  "input_hash": "98abe274b479",
+  "scored_at": "2026-07-13T09:29:12.678833"
 }

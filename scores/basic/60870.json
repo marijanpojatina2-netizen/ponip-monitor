@@ -1,0 +1,15 @@
+{
+  "id": "60870",
+  "score_overall": 4.0,
+  "score_lokacija": 4.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Veliko šumsko-oranično zemljište (16,9 ha) u Kupincu, ruralnom području podno Zagreba, s tek 20% popusta na prvoj dražbi. Dugoročni potencijal land-bankinga postoji zbog blizine Zagreba, ali likvidnost poljoprivrednog/šumskog zemljišta je niska i prodaja može biti spora.",
+  "flags": [
+    "provjeriti: pravo prvokupa za poljoprivredno/šumsko zemljište (Zakon o poljoprivrednom zemljištu)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "eef74c6b1bf0",
+  "scored_at": "2026-07-13T09:21:33.646128"
+}

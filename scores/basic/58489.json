@@ -1,16 +1,15 @@
 {
   "id": "58489",
-  "score_overall": 2.0,
-  "score_lokacija": 1.5,
-  "score_roi": 3.0,
-  "score_stanje": 3.0,
+  "score_overall": 4.4,
+  "score_lokacija": 2.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
   "recommendation": "pass",
-  "reasoning": "Oranica 1489 m2 u k.o. Perenci (Straševica) s 2/5 suvlasništva – nešto veća parcela ali isti strukturni problemi kao ostale čestice iz ovog seta. Požeška kotlina nema turističku ni razvojnu atraktivnost, a suvlasnička struktura dodatno otežava svaku realizaciju investicijskog potencijala.",
+  "reasoning": "Oranica srednje veličine (1489 m2, suvlasnički dio 2/5) u K.O. Perenci, druga dražba s 40% popustom. Ruralna, depopulacijska lokacija i zanemariva apsolutna vrijednost ograničavaju stvarni investicijski interes.",
   "flags": [
-    "suvlasništvo 2/5",
-    "ruralno/depopulacijsko područje",
-    "oranica bez razvojne perspektive"
+    "provjeriti: suvlasnički dio 2/5 - pravo prvokupa ostalih suvlasnika"
   ],
-  "input_hash": "7b2b16275b76",
-  "scored_at": "2026-05-05T08:18:49.031057"
+  "discount_pct": 40.0,
+  "input_hash": "a24ab4a9314f",
+  "scored_at": "2026-07-13T09:29:12.680261"
 }

@@ -1,14 +1,15 @@
 {
   "id": "59480",
-  "score_overall": 1.8,
-  "score_lokacija": 1.5,
-  "score_roi": 2.0,
-  "score_stanje": 2.0,
+  "score_overall": 4.6,
+  "score_lokacija": 3.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
   "recommendation": "pass",
-  "reasoning": "Dvorišne čestice u Petrinji (područje teško pogođeno potresom 2020., izrazita depopulacija) ukupne procijenjene vrijednosti 99 EUR — transakcijski troškovi i pravni postupak premašuju bilo kakvu realnu korist. Suvlasništvo 1/2 bez ikakvog objekta dodatno čini ovu imovinu bezvrijednom za investitora.",
+  "reasoning": "Dva mala dvorišna parcela (37 i 66 m2) u Petrinji, području pogođenom potresom 2020. i slabijom gospodarskom dinamikom. Vrijednost predmeta je zanemariva (99 EUR), a radi se tek o dvorištu, ne o građevini ili poljoprivrednoj površini s jasnom namjenom.",
   "flags": [
-    "suvlasništvo 1/2"
+    "provjeriti: prodaje se samo suvlasnički dio (1/2) - ograničena samostalna upotrebljivost"
   ],
-  "input_hash": "4a80e02b71fa",
-  "scored_at": "2026-06-22T11:52:52.859900"
+  "discount_pct": 40.0,
+  "input_hash": "d8d278aeb923",
+  "scored_at": "2026-07-13T09:30:18.491110"
 }

@@ -1,17 +1,15 @@
 {
   "id": "57866",
-  "score_overall": 2.5,
-  "score_lokacija": 3.0,
-  "score_roi": 2.5,
-  "score_stanje": 2.0,
-  "recommendation": "pass",
-  "reasoning": "Livada (travnjak) bez građevinskog objekta u ruralnoj zoni Bistranskog Podgorja – minimalna tržišna potražnja i upitna mogućnost izgradnje; popust od svega 20% na prvoj dražbi ne opravdava rizik nelikvidnosti poljoprivrednog zemljišta blizu Samobora. Apsolutna vrijednost od 460 EUR odražava gotovo nulti investicijski interes tržišta.",
+  "score_overall": 4.4,
+  "score_lokacija": 5.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Livada u k.o. Bistransko Podgorje, sličan profil kao susjedna čestica pašnjaka s blažom lokacijskom prednošću zbog blizine Zagreba, ali vrlo mala vrijednost ograničava značaj samostalne investicije. Ima smisla pratiti zajedno sa susjednom parcelom radi potencijalnog spajanja.",
   "flags": [
-    "livada/poljoprivredno zemljište bez objekta",
-    "bez informacija o građevinskoj namjeni",
-    "izrazito niska apsolutna vrijednost – signal slabe likvidnosti",
-    "prva dražba bez bonusa"
+    "provjeriti: mogućnost prenamjene u građevinsko zemljište"
   ],
-  "input_hash": "c140701e08b3",
-  "scored_at": "2026-05-21T09:36:55.412049"
+  "discount_pct": 20.0,
+  "input_hash": "e93f4b9a59c3",
+  "scored_at": "2026-07-13T09:23:35.582108"
 }

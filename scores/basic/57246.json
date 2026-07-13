@@ -1,16 +1,15 @@
 {
   "id": "57246",
-  "score_overall": 3.0,
-  "score_lokacija": 2.0,
-  "score_roi": 4.0,
-  "score_stanje": 4.5,
-  "recommendation": "pass",
-  "reasoning": "Iako treća dražba donosi 75% popust, suvlasnički udio 2/8 na oranici u ruralnoj Slavoniji nema realnog investicijskog smisla - nema objekta ni razvojnog potencijala koji bi opravdao kompleksnost suvlasničkih odnosa.",
+  "score_overall": 4.4,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Isti slavonski lokalitet Detkovac i isti suvlasnički predmet kao susjedna čestica, no ovdje je riječ isključivo o oranici bez stambenog objekta, što smanjuje razvojni potencijal. Treći krug dražbe s 75% popusta daje nisku ulaznu cijenu, ali fragmentirano vlasništvo (2/8) i slaba likvidnost regije ograničavaju stvarni ROI.",
   "flags": [
-    "suvlasnički udio 2/8 - ograničeno raspolaganje",
-    "ruralni Detkovac - depopulacijska zona",
-    "samo oranica - bez razvojnog potencijala"
+    "suvlasnički dio 2/8 - prodaje se samo dio nekretnine"
   ],
-  "input_hash": "35d709ea4bce",
-  "scored_at": "2026-04-24T08:07:33.972964"
+  "discount_pct": 75.0,
+  "input_hash": "ac3489d3798a",
+  "scored_at": "2026-07-13T09:26:04.798329"
 }

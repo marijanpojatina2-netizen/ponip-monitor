@@ -1,12 +1,13 @@
 {
   "id": "59330",
-  "score_overall": 3.1,
-  "score_lokacija": 2.0,
-  "score_roi": 4.5,
-  "score_stanje": 2.0,
-  "recommendation": "pass",
-  "reasoning": "Vrt 74 čhv uz kuću u selu Ciglenik — najmanji i najnelikvidniji predmet u seriji, početna cijena ~364 EUR gotovo bez ikakvog investicijskog potencijala. Ima smisla jedino kao prilog uz kupnju susjedne čestice.",
+  "score_overall": 5.0,
+  "score_lokacija": 3.0,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Manji vrt uz kuću u selu Ciglenik (Oriovac) s punim vlasništvom ovršenika, bez suvlasničkih komplikacija, i 40% popusta na drugoj dražbi daje najbolji omjer cijena/rizik u ovom setu. Ipak ostaje riječ o maloj, niskolikvidnoj ruralnoj parceli bez stambenog objekta.",
   "flags": [],
-  "input_hash": "7345d53e1349",
-  "scored_at": "2026-06-12T10:08:32.573215"
+  "discount_pct": 40.0,
+  "input_hash": "29e2582df40b",
+  "scored_at": "2026-07-13T09:27:01.011714"
 }

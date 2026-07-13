@@ -1,17 +1,16 @@
 {
   "id": "58495",
-  "score_overall": 1.5,
-  "score_lokacija": 1.5,
-  "score_roi": 2.5,
-  "score_stanje": 2.5,
+  "score_overall": 4.2,
+  "score_lokacija": 2.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
   "recommendation": "pass",
-  "reasoning": "Svega 200 m2 oranice u k.o. Perenci s 2/5 suvlasničkim udjelom – efektivna površina kojom investitor raspolaže iznosi 80 m2 poljoprivrednog zemljišta u ruralnoj Slavoniji/Požegi bez ikakve razvojne perspektive. Troškovi dražbe, poreza i uknjižbe realno premašuju tržišnu vrijednost.",
+  "reasoning": "Vrlo mala oranica (200 m2, suvlasnički dio 2/5) u ruralnoj K.O. Perenci, druga dražba s 40% popustom, no minijaturna površina čini parcelu ekonomski gotovo neupotrebljivom samostalno. Zanemariva apsolutna vrijednost isključuje ozbiljan ROI.",
   "flags": [
-    "suvlasništvo 2/5 – blokada raspolaganja",
-    "minimalna parcela 200 m2",
-    "ruralno/depopulacijsko područje",
-    "nema građevnog potencijala"
+    "provjeriti: suvlasnički dio 2/5 - pravo prvokupa ostalih suvlasnika",
+    "mikro-čestica (200 m2) - ograničena samostalna upotrebljivost"
   ],
-  "input_hash": "62e74f0865eb",
-  "scored_at": "2026-05-05T08:18:49.030947"
+  "discount_pct": 40.0,
+  "input_hash": "458ec3566957",
+  "scored_at": "2026-07-13T09:29:12.680079"
 }

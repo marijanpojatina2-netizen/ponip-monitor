@@ -1,17 +1,16 @@
 {
   "id": "57242",
-  "score_overall": 3.5,
-  "score_lokacija": 2.0,
-  "score_roi": 5.0,
-  "score_stanje": 3.0,
+  "score_overall": 4.6,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
   "recommendation": "watch",
-  "reasoning": "Treća dražba s 75% popustom i kućno-dvorišnom cjelinom zvuči atraktivno, ali suvlasnički udio 2/8 praktički onemogućuje samostalno raspolaganje bez suglasnosti ostalih suvlasnika; jedina strategija izlaza je prisilna dioba ili otkup ostalih udjela.",
+  "reasoning": "Detkovac kod Virovitice je slaba slavonska lokacija, ali treća dražba s 75% popusta čini ulaznu cijenu vrlo niskom za parcelu koja uključuje kuću-dvor, oranicu i livadu. Prodaje se samo 2/8 suvlasnički dio pa realizacija ovisi o dogovoru s ostalim suvlasnicima, a stanje kuće nije opisano.",
   "flags": [
-    "suvlasnički udio 2/8 - ograničeno raspolaganje",
-    "potrebna suglasnost ostalih suvlasnika za svaki zahvat",
-    "stanje kuće/dvora nepoznato iz opisa",
-    "ruralni Detkovac - niska likvidnost"
+    "suvlasnički dio 2/8 - prodaje se samo dio nekretnine",
+    "provjeriti: stanje kuće na dvorištu"
   ],
-  "input_hash": "3ddca1d7b640",
-  "scored_at": "2026-04-24T08:07:33.972873"
+  "discount_pct": 75.0,
+  "input_hash": "066e1dcaa2f1",
+  "scored_at": "2026-07-13T09:26:04.798055"
 }

@@ -1,17 +1,15 @@
 {
   "id": "58485",
-  "score_overall": 3.0,
-  "score_lokacija": 2.5,
-  "score_roi": 3.5,
-  "score_stanje": 3.5,
+  "score_overall": 4.8,
+  "score_lokacija": 3.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
   "recommendation": "pass",
-  "reasoning": "Livada (lošija kategorija od oranice za ag. prihod) u Perencima s 2/5 suvlasničkim udjelom — tržišna vrijednost livade u ovoj regiji iznimno niska. Kombinacija vrste zemljišta, suvlasništva i depopulacijske Slavonije čini ovaj predmet investicijski neatraktivnim.",
+  "reasoning": "Livada u ruralnom kraju kod Požege (k.o. Perenci), suvlasništvo ovršenika u tek 2/5 dijela uz vrlo nisku apsolutnu vrijednost. Slaba likvidnost regije i manjinski udio ograničavaju stvarni ROI potencijal.",
   "flags": [
-    "suvlasnički udio 2/5",
-    "livada — niža ag. vrijednost od oranice",
-    "ruralna depopulacijska zona — Slavonija",
-    "isti zk.ul. 1615"
+    "provjeriti: suvlasništvo ovršenika u 2/5 dijela"
   ],
-  "input_hash": "855da70c1dd8",
-  "scored_at": "2026-05-05T08:18:30.323324"
+  "discount_pct": 40.0,
+  "input_hash": "c116cd0a45ec",
+  "scored_at": "2026-07-13T09:27:01.010166"
 }

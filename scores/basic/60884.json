@@ -1,0 +1,15 @@
+{
+  "id": "60884",
+  "score_overall": 4.0,
+  "score_lokacija": 4.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Čestica od 186 m2 (VALIČKA i ORANICA) ima zanemarivu samostalnu vrijednost (324 EUR) i smisao ima jedino u sklopu objedinjavanja sa susjednim parcelama iz iste serije. Transakcijski troškovi dražbe vjerojatno nadmašuju očekivanu korist od izoliranog stjecanja.",
+  "flags": [
+    "provjeriti: mogućnost objedinjavanja sa susjednim česticama k.č. 6739/2-6 (mala samostalna vrijednost)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "7da7e970d00b",
+  "scored_at": "2026-07-13T09:22:44.967051"
+}

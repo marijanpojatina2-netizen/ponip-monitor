@@ -1,16 +1,15 @@
 {
   "id": "60373",
-  "score_overall": 2.5,
-  "score_lokacija": 2.0,
-  "score_roi": 3.5,
-  "score_stanje": 5.0,
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
   "recommendation": "pass",
-  "reasoning": "Oranica 1653 m2 u istoj k.o. Kotlina kao ostale parcele iz ovog seta – isti negativni lokacijski faktori i ista ograničenja. Jedini potencijal bio bi paket-kupnja više susjednih parcela za konsolidaciju, ali tržišna perspektiva ostaje slaba.",
+  "reasoning": "Oranica u sklopu iste grupe čestica k.o. Kotlina, s tipično niskom vrijednošću i slabom likvidnošću ruralnog baranjskog tržišta. Standardnih 20% popusta na prvoj dražbi nije dovoljno za privlačan investicijski case.",
   "flags": [
-    "ruralno područje – depopulacijska zona",
-    "poljoprivredno zemljište",
-    "niska likvidnost tržišta"
+    "provjeriti: pristupni put i katastarsku česticu"
   ],
-  "input_hash": "0eecc89ae74c",
-  "scored_at": "2026-05-22T09:07:34.862289"
+  "discount_pct": 20.0,
+  "input_hash": "67056ffbcf52",
+  "scored_at": "2026-07-13T09:23:35.581932"
 }

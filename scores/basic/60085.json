@@ -1,14 +1,16 @@
 {
   "id": "60085",
-  "score_overall": 2.7,
-  "score_lokacija": 3.5,
-  "score_roi": 2.5,
+  "score_overall": 3.8,
+  "score_lokacija": 4.0,
+  "score_roi": 4.5,
   "score_stanje": 2.0,
   "recommendation": "pass",
-  "reasoning": "Udio 6/240 (1/40) u zapuštenoj čestici k.o. Velika Glava — ista klasa rizika kao prethodne dvije nekretnine iz istog ZU područja. Niska vrijednost (286 EUR), 20% popust i manjinski udio bez ikakve poluge za realizaciju vrijednosti.",
+  "reasoning": "Vrlo mali suvlasnički udio (6/240, 2.5%) zapuštenog zemljišta obraslog šumom u K.O. Velika Glava, prva dražba s tek 20% popusta. Nizak potencijal zbog fragmentiranog vlasništva i zanemarive vrijednosti.",
   "flags": [
-    "suvlasništvo — sitni udio (6/240)"
+    "provjeriti: suvlasnički udio (2.5%) - otežana samostalna prodaja/korištenje",
+    "provjeriti: pravo prvokupa ostalih suvlasnika"
   ],
-  "input_hash": "8712dc50a123",
-  "scored_at": "2026-06-24T09:30:58.942490"
+  "discount_pct": 20.0,
+  "input_hash": "3365e8459ac8",
+  "scored_at": "2026-07-13T09:29:12.679484"
 }

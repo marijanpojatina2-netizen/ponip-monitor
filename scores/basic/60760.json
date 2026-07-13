@@ -1,14 +1,16 @@
 {
   "id": "60760",
-  "score_overall": 1.2,
-  "score_lokacija": 2.0,
-  "score_roi": 2.5,
-  "score_stanje": 2.0,
+  "score_overall": 3.2,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 1.5,
   "recommendation": "pass",
-  "reasoning": "Mikročestica od 227 m2 uz prugu bez pristupa i okružena zapuštenim parcelama u k.o. Sirova Katalena — nominalna vrijednost 66 EUR govori sve; nema praktičnog investicijskog scenarija. Apsolutni pass.",
+  "reasoning": "Zapuštena livada uz prugu u Sirovoj Kataleni bez vidljivog pristupnog puta, okružena jednako zapuštenim parcelama - slaba iskoristivost. Popust od svega 20% na prvoj dražbi ne kompenzira lošu lokaciju, stanje i problem pristupa.",
   "flags": [
-    "prava koja ne prestaju prodajom"
+    "nema vidljivog pristupnog puta nekretnini",
+    "provjeriti: stvarna mogućnost pristupa/pravni put do parcele"
   ],
-  "input_hash": "42cad15d9baf",
-  "scored_at": "2026-06-29T10:56:06.607568"
+  "discount_pct": 20.0,
+  "input_hash": "57a1f67de25e",
+  "scored_at": "2026-07-13T09:30:18.491412"
 }

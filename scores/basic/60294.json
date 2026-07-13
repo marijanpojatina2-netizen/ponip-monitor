@@ -1,17 +1,16 @@
 {
   "id": "60294",
-  "score_overall": 1.5,
-  "score_lokacija": 1.5,
-  "score_roi": 1.5,
-  "score_stanje": 2.0,
-  "recommendation": "pass",
-  "reasoning": "Suha Katalena kraj Đurđevca duboko je depopulacijsko ruralno područje Podravine bez turističkog ili razvojnog potencijala; predmet je samo dvorište s nadstrešnicom (bez stambene jedinice), a 20%-tni popust na prvoj dražbi ne kompenzira strukturalnu nelikvidnost regije. Praktički nema izlazne strategije ni za najam ni za preprodaju.",
+  "score_overall": 3.9,
+  "score_lokacija": 3.0,
+  "score_roi": 5.0,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Objekt s nadstrešnicom i dvorištem u Suhoj Kataleni kraj Đurđevca po iznimno niskoj procijenjenoj vrijednosti za nekretninu s građevinskim elementima, što izaziva sumnju u realno stanje. Vrijedi provjeriti teren prije bilo kakve odluke.",
   "flags": [
-    "bez stambenog objekta (samo dvorište + nadstrešnica 11 m²)",
-    "depopulacijsko područje Slavonije/Podravine",
-    "izrazito slaba regionalna likvidnost",
-    "apsolutna vrijednost 372 EUR – tržišni signal zanemarivog interesa"
+    "provjeriti: razlog izrazito niske procjene vrijednosti",
+    "provjeriti: stvarno stanje objekta/nadstrešnice na terenu"
   ],
-  "input_hash": "8eb0b7ab3537",
-  "scored_at": "2026-05-21T09:36:55.412281"
+  "discount_pct": 20.0,
+  "input_hash": "89887cd4f5a1",
+  "scored_at": "2026-07-13T09:24:57.965323"
 }

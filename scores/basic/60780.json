@@ -1,12 +1,13 @@
 {
   "id": "60780",
-  "score_overall": 2.5,
-  "score_lokacija": 1.5,
-  "score_roi": 3.5,
-  "score_stanje": 2.0,
-  "recommendation": "pass",
-  "reasoning": "Oranica u Jasinju (k.o. Oprisavci) površine ~2145 m2 u slavonskom ruralnom pojasu bez turističkog ni razvojnog potencijala. Prva dražba s minimalnim popustom od 20% ne nudi dovoljnu maržu sigurnosti za nelikvidno poljoprivredno zemljište.",
+  "score_overall": 4.1,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Manja oranica u ruralnom kraju k.o. Oprisavci kod Slavonskog Broda, puno vlasništvo ovršenika bez naznačenih strukturnih ili pristupnih problema. Prva dražba s tek 20% popusta i niska likvidnost ruralnog zemljišta ograničavaju ROI, no bez potvrđenih rizika za promatranje.",
   "flags": [],
-  "input_hash": "8f38ae68c85f",
-  "scored_at": "2026-06-26T09:01:21.989315"
+  "discount_pct": 20.0,
+  "input_hash": "4ae01d6ced5b",
+  "scored_at": "2026-07-13T09:27:01.010958"
 }

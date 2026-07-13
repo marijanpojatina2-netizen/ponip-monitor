@@ -1,17 +1,16 @@
 {
   "id": "58445",
-  "score_overall": 1.5,
-  "score_lokacija": 3.0,
-  "score_roi": 1.5,
-  "score_stanje": 2.5,
-  "recommendation": "pass",
-  "reasoning": "Mikroudjel od 1/16 zapuštenog vinograda s klijetom u Radovanici – apsolutna vrijednost svega 243 EUR i praktički nemoguće samostalno koristiti ili prodati bez suglasnosti 15 ostalih suvlasnika. Zapuštenost i stanje armaturnih stupova dodatan su trošak.",
+  "score_overall": 5.2,
+  "score_lokacija": 4.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Djelomično zapušten vinograd s klijeti u k.o. Bolfan kraj Varaždina, druga dražba s 40% popusta, ali radi se o vrlo malom suvlasničkom dijelu 1/16. Nizak stupanj vlasništva i zapušteno stanje smanjuju investicijsku privlačnost.",
   "flags": [
-    "mikroudjel – 1/16 dijela",
-    "zapušteni vinograd",
-    "nemoguće samostalno koristiti bez ostalih suvlasnika",
-    "trošak sanacije premašuje vrijednost"
+    "provjeriti: suvlasnički dio 1/16 - vrlo mali udio, pravo prvokupa ostalih suvlasnika",
+    "provjeriti: stanje klijeti i armaturnih stupova"
   ],
-  "input_hash": "2d465c6a70f9",
-  "scored_at": "2026-04-30T08:19:30.477818"
+  "discount_pct": 40.0,
+  "input_hash": "327ca90b16e4",
+  "scored_at": "2026-07-13T09:28:01.819710"
 }

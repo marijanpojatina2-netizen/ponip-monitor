@@ -1,12 +1,15 @@
 {
   "id": "60786",
-  "score_overall": 1.7,
-  "score_lokacija": 1.5,
-  "score_roi": 2.0,
-  "score_stanje": 1.5,
+  "score_overall": 3.1,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
   "recommendation": "pass",
-  "reasoning": "Mikroparcela oranice od svega 42 m2 u k.o. Oprisavci — praktično bezvrijedan komad zemljišta bez ikakve investicijske svrhe. Apsolutna vrijednost od 16,72 EUR govori sama za sebe; nema smislene primjene ni exit strategije.",
-  "flags": [],
-  "input_hash": "29553e97a2e3",
-  "scored_at": "2026-06-26T09:01:21.989439"
+  "reasoning": "Oranica u Oprisavcima (Slavonski Brod) veličine svega 42 m2 nema praktičnu samostalnu ekonomsku primjenu. Nizak popust od 20% na prvoj dražbi i mikroskopska vrijednost (16.72 EUR procjene) čine slučaj potpuno nezanimljivim za ozbiljnu investiciju.",
+  "flags": [
+    "provjeriti: iznimno mala površina (42 m2) - upitna ekonomska isplativost samostalne transakcije"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "d7fe25b91017",
+  "scored_at": "2026-07-13T09:30:18.491958"
 }

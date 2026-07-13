@@ -1,0 +1,15 @@
+{
+  "id": "60876",
+  "score_overall": 4.0,
+  "score_lokacija": 4.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Susjedna čestica istog kompleksa u Kupincu, slična površina (15,9 ha) i identična struktura popusta od 20%. Isti profil rizika i potencijala kao susjedna nekretnina - zanimljivo jedino u sklopu šireg land-banking pristupa.",
+  "flags": [
+    "provjeriti: pravo prvokupa za poljoprivredno/šumsko zemljište (Zakon o poljoprivrednom zemljištu)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "7c470c0588f5",
+  "scored_at": "2026-07-13T09:21:33.646410"
+}

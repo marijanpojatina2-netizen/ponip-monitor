@@ -1,0 +1,15 @@
+{
+  "id": "60886",
+  "score_overall": 4.0,
+  "score_lokacija": 4.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Vrlo mala čestica od svega 249 m2 (VALIČKA i ORANICA), praktički bez samostalne uporabne vrijednosti, zanimljiva jedino ako investitor cilja objedinjavanje cijele serije čestica 6739/2-6. Niska apsolutna vrijednost (433 EUR) znači i nisku maržu za pokrivanje transakcijskih troškova.",
+  "flags": [
+    "provjeriti: mogućnost objedinjavanja sa susjednim česticama k.č. 6739/2-6 (mala samostalna vrijednost)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "6869e4788f7b",
+  "scored_at": "2026-07-13T09:22:44.966835"
+}

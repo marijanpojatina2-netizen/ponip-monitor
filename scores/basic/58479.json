@@ -1,17 +1,15 @@
 {
   "id": "58479",
-  "score_overall": 1.5,
-  "score_lokacija": 1.5,
-  "score_roi": 2.5,
-  "score_stanje": 2.5,
+  "score_overall": 4.4,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
   "recommendation": "pass",
-  "reasoning": "Livada 795 m2 u k.o. Perenci s 2/5 suvlasničkim udjelom i početnom cijenom od 76 EUR – čak i uz 40% popusta nema investicijskog smisla jer je likvidacija ovakvog udjela na ruralnom tržištu praktički nemoguća. Kategorija livada donosi još niži prinos od oranice u ovoj regiji.",
+  "reasoning": "Livada od 795 m2 u Perencima (Požeština), ruralno depopulacijsko područje s niskom likvidnošću tržišta zemljišta. Iznimno niska apsolutna vrijednost (127 EUR) čini transakcijske troškove nerazmjernima potencijalnoj dobiti unatoč 40% popusta na drugoj dražbi.",
   "flags": [
-    "suvlasništvo 2/5",
-    "livada – najniža kategorija poljoprivrednog zemljišta",
-    "ruralno/depopulacijsko područje",
-    "minimalna apsolutna vrijednost – troškovi > prinos"
+    "provjeriti: prodaje se samo suvlasnički dio (2/5) - ograničena likvidnost i mogućnost realizacije"
   ],
-  "input_hash": "deb44394bfd2",
-  "scored_at": "2026-05-05T08:18:49.031164"
+  "discount_pct": 40.0,
+  "input_hash": "3a7e3b75928d",
+  "scored_at": "2026-07-13T09:30:18.490729"
 }

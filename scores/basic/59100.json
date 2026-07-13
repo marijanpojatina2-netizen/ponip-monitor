@@ -1,16 +1,16 @@
 {
   "id": "59100",
-  "score_overall": 2.0,
-  "score_lokacija": 1.5,
-  "score_roi": 2.5,
-  "score_stanje": 3.0,
+  "score_overall": 4.6,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
   "recommendation": "pass",
-  "reasoning": "Početna cijena od 695 EUR govori sama za sebe – manjinski suvlasnički udio 10/42 na nekretnini u slavonskom selu Otoku bez ikakve tržišne potražnje ne predstavlja realnu investicijsku priložnost čak ni uz popust od 40% i drugu dražbu.",
+  "reasoning": "Otok kraj Vinkovaca je slabija slavonska lokacija, a prodaje se tek suvlasnički dio 10/42 na više čestica (kanal, kuća i dvor, oranica) što otežava realizaciju investicije. 40% popust i druga dražba djelomično ublažavaju nisku vrijednost, ali ukupni iznos i udio čine ovo marginalnim slučajem.",
   "flags": [
-    "suvlasnički udio 10/42 – manjinsko vlasništvo bez kontrole nad nekretninom",
-    "depopulacijska Slavonija – Otok kod Vinkovaca",
-    "simbolična tržišna vrijednost, nema realnog izlaza"
+    "suvlasnički dio 10/42 - prodaje se samo dio nekretnine",
+    "provjeriti: stanje kuće i mogućnost fizičke diobe/nagodbe sa suvlasnicima"
   ],
-  "input_hash": "0ca7c5fb6a03",
-  "scored_at": "2026-06-04T09:55:25.617691"
+  "discount_pct": 40.0,
+  "input_hash": "fe1cffc8f11b",
+  "scored_at": "2026-07-13T09:26:04.796858"
 }

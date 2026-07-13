@@ -1,0 +1,16 @@
+{
+  "id": "60874",
+  "score_overall": 4.6,
+  "score_lokacija": 4.0,
+  "score_roi": 5.5,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Samostalna čestica od 2118 m2 (BRATINSKI LUG i ORANICA) u istom ruralnom k.o. Kupinec, bez susjednih čestica iz iste serije pa nema sinergije objedinjavanja. Standardan poljoprivredni/šumski teren s ograničenom likvidnošću i umjerenim popustom od 20%.",
+  "flags": [
+    "provjeriti: pristupni put i komunalnu infrastrukturu",
+    "provjeriti: namjenu zemljišta prema prostornom planu"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "2d6b03e1a11b",
+  "scored_at": "2026-07-13T09:22:44.965813"
+}

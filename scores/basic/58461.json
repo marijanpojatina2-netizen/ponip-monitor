@@ -1,17 +1,15 @@
 {
   "id": "58461",
-  "score_overall": 2.0,
-  "score_lokacija": 1.5,
-  "score_roi": 3.0,
-  "score_stanje": 3.0,
+  "score_overall": 4.4,
+  "score_lokacija": 2.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
   "recommendation": "pass",
-  "reasoning": "Oranica 1162 m2 u k.o. Perenci (ruralna Požeška kotlina, depopulacijsko područje) s 2/5 suvlasničkim udjelom – izuzetno niska likvidnost i kompleksnost uknjižbe. Apsolutna vrijednost imovine (~167 EUR za 2/5 udjela) ne opravdava ni administrativne troškove.",
+  "reasoning": "Oranica u K.O. Perenci (Požeština), suvlasnički dio 2/5, druga dražba s 40% popustom. Ruralna, depopulacijska lokacija i mala apsolutna vrijednost ograničavaju investicijsku privlačnost unatoč dobrom nominalnom popustu.",
   "flags": [
-    "suvlasništvo 2/5 – otežana prodaja bez suglasnosti ostalih suvlasnika",
-    "ruralno/depopulacijsko područje",
-    "oranica bez građevnog potencijala",
-    "minimalna tržišna vrijednost"
+    "provjeriti: suvlasnički dio 2/5 - pravo prvokupa ostalih suvlasnika"
   ],
-  "input_hash": "8b3c77e1b745",
-  "scored_at": "2026-05-05T08:18:49.030746"
+  "discount_pct": 40.0,
+  "input_hash": "19fc13001b3f",
+  "scored_at": "2026-07-13T09:29:12.679636"
 }

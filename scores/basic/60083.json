@@ -1,15 +1,17 @@
 {
   "id": "60083",
-  "score_overall": 3.1,
-  "score_lokacija": 5.5,
-  "score_roi": 2.0,
-  "score_stanje": 1.5,
+  "score_overall": 4.7,
+  "score_lokacija": 6.5,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
   "recommendation": "pass",
-  "reasoning": "Frakcijski udio 24/2400 (=1%) u nizu potpuno zapuštenih i neprohodnih čest. zem. u k.o. Velika Glava (Šibenik) — dalmatinska lokacija ima određenu vrijednost, ali minimalni udio i stanje 'zapušteno, zaraslo i neprohodno' čine ovo praktički nerealizivim ulaganjem.",
+  "reasoning": "Unatoč relativno atraktivnijoj dalmatinskoj lokaciji (Šibenik, k.o. Velika Glava), suvlasnički udio od svega 24/2400 (1%) čini nekretninu praktički neiskoristivom za samostalnog investitora. Čestice su zapuštene, zarasle i dijelom u funkciji puta, uz visok praktični i pravni rizik.",
   "flags": [
-    "suvlasništvo 24/2400 udio",
-    "zapušteno i neprohodno"
+    "provjeriti: izuzetno mali suvlasnički udio 24/2400 (oko 1%) - upitna iskoristivost i mogućnost diobe",
+    "dio čestice 714/1 u naravi je put u korištenju drugih vlasnika",
+    "zapušteno, zaraslo i neprohodno zemljište"
   ],
-  "input_hash": "154796998b8e",
-  "scored_at": "2026-06-24T09:30:16.733000"
+  "discount_pct": 20.0,
+  "input_hash": "7a31465e6f7c",
+  "scored_at": "2026-07-13T09:27:01.011233"
 }

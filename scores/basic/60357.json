@@ -1,16 +1,16 @@
 {
   "id": "60357",
-  "score_overall": 2.0,
+  "score_overall": 3.7,
   "score_lokacija": 2.0,
-  "score_roi": 3.0,
+  "score_roi": 4.5,
   "score_stanje": 5.0,
   "recommendation": "pass",
-  "reasoning": "Najmanji lot u setu – oranica 579 m2 za ~190 EUR početne cijene. Iako apsolutna cijena je simbolična, transakcijski troškovi (javnobilježničke pristojbe, uknjižba, porez) mogu premašiti samu cijenu parcele, čineći investiciju neracionalnom.",
+  "reasoning": "Oranica od 579 m2 u k.o. Kotlina, ruralna periferna lokacija s ograničenim ROI potencijalom uz samo 20% popusta na prvoj dražbi. Potencijalno zanimljivo jedino u sklopu okrupnjavanja svih susjednih Kotlina čestica.",
   "flags": [
-    "ruralno područje – depopulacijska zona",
-    "transakcijski troškovi mogu premašiti cijenu parcele",
-    "premala parcela za samostalno iskorištavanje"
+    "provjeriti: ekonomičnost transakcije s obzirom na nisku vrijednost",
+    "provjeriti: mogućnost objedinjavanja s ostalim Kotlina parcelama"
   ],
-  "input_hash": "3f31ff1d3e44",
-  "scored_at": "2026-05-22T09:07:34.862724"
+  "discount_pct": 20.0,
+  "input_hash": "29ee385d40cf",
+  "scored_at": "2026-07-13T09:24:57.965846"
 }

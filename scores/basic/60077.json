@@ -1,16 +1,16 @@
 {
   "id": "60077",
-  "score_overall": 3.5,
-  "score_lokacija": 4.0,
-  "score_roi": 3.5,
-  "score_stanje": 3.0,
-  "recommendation": "pass",
-  "reasoning": "Pisarovina je rubno ruralno područje Zagrebačke županije s ograničenom potražnjom, a pašnjak od 3.350 m2 bez ikakve gradnje uz tek 20% popust na prvoj dražbi ne nudi uvjerljiv investicijski scenarij. Nema jasnog puta do monetizacije bez promjene namjene parcele.",
+  "score_overall": 5.0,
+  "score_lokacija": 4.5,
+  "score_roi": 6.0,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Pašnjak od 3350 m2 u Pisarovini, ruralnoj općini u Zagrebačkoj županiji unutar dosega Zagreba, nudi solidnu površinu za nisku cijenu. Dugoročni potencijal ovisi o mogućoj promjeni namjene i razvoju infrastrukture u tom pojasu.",
   "flags": [
-    "pašnjak - bez gradnje i prihoda",
-    "samo 20% popust na prvoj dražbi",
-    "Pisarovina - niska tržišna likvidnost"
+    "provjeriti: namjenu zemljišta i mogućnost promjene u građevinsko/gospodarsko",
+    "provjeriti: pristup i komunalnu infrastrukturu"
   ],
-  "input_hash": "17418a2aeee5",
-  "scored_at": "2026-05-05T08:17:08.705890"
+  "discount_pct": 20.0,
+  "input_hash": "947ece537494",
+  "scored_at": "2026-07-13T09:24:57.966656"
 }

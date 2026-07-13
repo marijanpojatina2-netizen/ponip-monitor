@@ -1,0 +1,15 @@
+{
+  "id": "60872",
+  "score_overall": 4.0,
+  "score_lokacija": 4.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Mala parcela šumskog/oraničnog zemljišta (6492 m2) u Kupincu vrlo niske apsolutne vrijednosti, bez samostalnog razvojnog potencijala zbog veličine. Nizak ROI i marginalna lokacija čine ovo neatraktivnim za investicijski portfelj.",
+  "flags": [
+    "provjeriti: pravo prvokupa za poljoprivredno/šumsko zemljište"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "d5a551eedcc5",
+  "scored_at": "2026-07-13T09:21:33.647703"
+}

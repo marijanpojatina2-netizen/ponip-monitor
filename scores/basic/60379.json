@@ -1,16 +1,16 @@
 {
   "id": "60379",
-  "score_overall": 2.5,
+  "score_overall": 3.7,
   "score_lokacija": 2.0,
-  "score_roi": 3.5,
+  "score_roi": 4.5,
   "score_stanje": 5.0,
   "recommendation": "pass",
-  "reasoning": "Vinograd 934 m2 u k.o. Kotlina – vinogradarska namjena daje blagi plus u odnosu na standardnu oranicu, ali u Baranji bez turističke infrastrukture i bez vinarske tradicije relevantne za investitore. Likvidnost i lokacija ostaju temeljni problem.",
+  "reasoning": "Vinograd od 934 m2 u k.o. Kotlina, ruralna Baranja s izraženom depopulacijom, uz tek 20% popusta na prvoj dražbi. Nominalna vrijednost je toliko niska da troškovi transakcije mogu nadmašiti korist.",
   "flags": [
-    "ruralno područje – Baranja",
-    "vinogradarska parcela bez evidentirane vinske destinacije",
-    "niska likvidnost"
+    "provjeriti: ekonomičnost transakcije s obzirom na nisku vrijednost",
+    "provjeriti: pristup parceli i infrastrukturu"
   ],
-  "input_hash": "66693abed494",
-  "scored_at": "2026-05-22T09:07:34.862491"
+  "discount_pct": 20.0,
+  "input_hash": "b51a4f4d19cd",
+  "scored_at": "2026-07-13T09:24:57.965009"
 }

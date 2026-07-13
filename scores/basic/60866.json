@@ -1,0 +1,16 @@
+{
+  "id": "60866",
+  "score_overall": 4.0,
+  "score_lokacija": 4.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Predmet je tek suvlasnički idealni dio (59940/231772, cca 25,9%) čestice BR.BREG i ORANICA od 6618 m2, što bitno otežava samostalno korištenje, diobu ili preprodaju. Ruralna lokacija i niska vrijednost dodatno smanjuju atraktivnost za investitora koji traži brz izlaz.",
+  "flags": [
+    "suvlasnički dio (25,9% idealnog dijela)",
+    "provjeriti: odnos s ostalim suvlasnicima i mogućnost fizičke diobe ili prodaje udjela"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "473d084c47fd",
+  "scored_at": "2026-07-13T09:22:44.966085"
+}
