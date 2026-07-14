@@ -1,0 +1,15 @@
+{
+  "id": "60849",
+  "score_overall": 4.3,
+  "score_lokacija": 3.5,
+  "score_roi": 5.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća s velikim okućnicom (3046 m2) u Križu blizu Ivanić-Grada nudi zemljište, ali ruralna lokacija ograničava likvidnost i potražnju. Stanje kuće nije opisano pa je nužna provjera prije ozbiljnijeg razmatranja.",
+  "flags": [
+    "provjeriti: stanje i useljivost kuće"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "5d2ca1b8d06c",
+  "scored_at": "2026-07-14T07:58:37.872442"
+}

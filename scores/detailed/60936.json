@@ -1,0 +1,34 @@
+{
+  "id": "60936",
+  "score_overall": 6.5,
+  "score_lokacija": 6.5,
+  "score_roi": 7.0,
+  "score_stanje": 5.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Stambeno-poslovna zgrada u zadarskoj Belafuži (podrum s garažom za 4 vozila, dva stana u prizemlju, jedan na katu) na 587 m2 zemljišta nudi tri prihodovne jedinice plus garažni prostor, uz 25% popust već na prvoj dražbi što je neuobičajeno agresivno za stečajnu prodaju. Lokacija je unutar grada Zadra ali u mješovitoj stambeno-poslovnoj zoni, ne uz more, pa nije vrhunska turistička lokacija. Stanje nekretnine nije jasno opisano (nema podataka o kvadraturi stanova ni razini uređenosti), a razgledavanje isključivo uz najavu stečajnog upravitelja upućuje na potrebu dodatne provjere prije licitacije. Visoka vrijednost (>500k EUR) i multi-unit struktura opravdavaju detaljan due diligence.",
+  "flags": [
+    "provjeriti: stanje i kvadratura pojedinih stambenih jedinica (opis ne navodi m2 stambenog prostora niti razinu uređenosti)",
+    "provjeriti: eventualna zauzetost/najam stambenih jedinica (stečajna prodaja, razgledavanje isključivo uz najavu stečajnog upravitelja)",
+    "provjeriti: usklađenost izgrađenog stanja s katastarskim/zemljišnoknjižnim upisom (tipično za starije zgrade u stečaju)"
+  ],
+  "market_estimate": {
+    "eur_min": 550000,
+    "eur_max": 780000,
+    "confidence": "low",
+    "basis": "Web pretraga nije bila dostupna u ovoj sesiji (alat WebSearch odbijen), pa procjena nije potvrđena aktivnim oglasima. Raspon je izveden iz sudske procijenjene vrijednosti (586.523 EUR) i općeg poznavanja zadarskog tržišta, gdje se stambene nekretnine u sekundarnim gradskim zonama poput Belafuže (mješovita stambeno-poslovna zona, blizu luke, nije priobalna/turistička elitna lokacija) u 2025/2026. kreću oko 2.200-3.000 EUR/m2, uz dodatnu vrijednost tri odvojene stambene jedinice i garaže za 4 vozila koja u Zadru ima solidnu potražnju. Preporuka: prije licitacije ručno provjeriti aktivne oglase na nekretnine.net i njuskalo.hr za Belafužu/Zadar."
+  },
+  "comparables": [],
+  "investment_strategy": "Iznajmljivanje (dugoročno lokalcima/radnicima ili srednjoročni najam) uz mogući reno-flip pojedinih jedinica ako je stanje lošije od očekivanog; tri odvojene stambene jedinice omogućuju diverzifikaciju prihoda, a garaža za 4 vozila dodatni je izvor najma s obzirom na deficit parkinga u Zadru. Zbog nepoznatog stanja preporučuje se konzervativan pristup dok se ne obavi razgledavanje.",
+  "entry_price_eur": 480000,
+  "detailed_risks": [
+    "Stečajna prodaja - ograničen pristup razgledavanju prije kupnje otežava procjenu stvarnog stanja",
+    "Nepoznata kvadratura i raspored stambenih jedinica - procjena vrijednosti po m2 nije precizno moguća iz opisa",
+    "Mogući troškovi useljenja/ispražnjenja ako su jedinice zauzete",
+    "Mješovita stambeno-poslovna zona Belafuža nema status vrhunske turističke lokacije, što ograničava potencijal kratkoročnog turističkog najma"
+  ],
+  "upside_scenario": "Uz uspješnu kupnju blizu početne cijene (439.892 EUR) i umjereno ulaganje u renovaciju (procjena 50.000-100.000 EUR), nekretnina se u 2-3 godine može iznajmljivati kroz tri jedinice plus garažu uz bruto prinos od 6-8% godišnje, uz mogući rast vrijednosti zadarskog tržišta od 5-8% godišnje do 700.000-800.000 EUR.",
+  "downside_scenario": "Ako se na razgledavanju utvrdi loše strukturalno stanje, zauzetost jedinica ili neusklađenost s katastrom, troškovi sanacije/ispražnjenja mogu značajno smanjiti ROI, a nekretnina ostaje teško likvidna izvan lokalnog tržišta najma zbog nedostatka turističke atraktivnosti lokacije.",
+  "discount_pct": 25.0,
+  "input_hash": "d53ac50a4cd3",
+  "scored_at": "2026-07-14T08:00:10.022370"
+}

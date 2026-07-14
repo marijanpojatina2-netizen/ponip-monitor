@@ -1,0 +1,15 @@
+{
+  "id": "60936",
+  "score_overall": 6.7,
+  "score_lokacija": 7.5,
+  "score_roi": 6.5,
+  "score_stanje": 5.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Stambena zgrada s garažom za 4 vozila i tri stambene jedinice u naselju Belafuža u Zadru nudi solidan prihodovni potencijal uz 25% popust na prvoj dražbi. Visoka vrijednost i multi-unit struktura opravdavaju detaljniju due diligence prije licitacije.",
+  "flags": [
+    "provjeriti: stanje i useljenost pojedinih stambenih jedinica"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "d53ac50a4cd3",
+  "scored_at": "2026-07-14T07:58:37.872044"
+}
