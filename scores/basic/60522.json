@@ -1,0 +1,15 @@
+{
+  "id": "60522",
+  "score_overall": 3.7,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Fragmentirane manje čestice (oranica, put, graba) u Rašću, k.o. Gudovac, s nešto višom cijenom po m2 (~1.1 EUR/m2) nego usporedive parcele u istoj ponudi. Nepravilan sastav (uključuje i put) i mala vrijednost čine ovo slabijim investicijskim slučajem.",
+  "flags": [
+    "provjeriti: mogući zakup poljoprivrednog zemljišta (ARKOD/OPG)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "fcd8e270fb99",
+  "scored_at": "2026-07-15T08:04:39.865594"
+}

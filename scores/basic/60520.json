@@ -1,0 +1,16 @@
+{
+  "id": "60520",
+  "score_overall": 4.1,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Dvije čestice oranice ukupno preko 8600 m2 u k.o. Gudovac, ali ovršenik posjeduje samo suvlasnički udio 2/9, što bitno otežava raspolaganje i prodaju nekretnine investitoru. Uz tek 20% popusta na prvoj dražbi, kombinacija niske likvidnosti i frakcijskog vlasništva čini case slabim.",
+  "flags": [
+    "suvlasništvo (2/9 dijela) – otežana prodaja/korištenje bez dogovora s ostalim suvlasnicima",
+    "provjeriti: mogućnost i uvjeti diobe/prodaje suvlasničkog udjela"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "2abd64f5e95f",
+  "scored_at": "2026-07-15T08:05:22.608444"
+}

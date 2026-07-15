@@ -1,0 +1,16 @@
+{
+  "id": "60998",
+  "score_overall": 5.2,
+  "score_lokacija": 7.5,
+  "score_roi": 4.5,
+  "score_stanje": 2.5,
+  "recommendation": "watch",
+  "reasoning": "Pašnjak od 560 m2 u Vodnjanu (Istra) na atraktivnom turističkom području s 25% popustom od procjene, no radi se o negrađevinskom, komunalno neopremljenom zemljištu bez trenutnog razvojnog potencijala. Vrijedno je pratiti radi moguće buduće prenamjene, ali trenutno nije spremno za gradnju.",
+  "flags": [
+    "provjeriti: mogućnost prenamjene u građevinsko zemljište",
+    "provjeriti: dostupnost komunalne infrastrukture"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "35a47e63bae8",
+  "scored_at": "2026-07-15T08:04:39.866529"
+}

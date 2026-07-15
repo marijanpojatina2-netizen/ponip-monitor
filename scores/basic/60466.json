@@ -1,0 +1,15 @@
+{
+  "id": "60466",
+  "score_overall": 3.8,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Najmanja nekretnina iz ove serije (5837 m2, procjena 5410 EUR) u k.o. Gudovac, uz identičnu ponudu i popust kao ostale parcele. Mala apsolutna vrijednost i ruralna lokacija čine ovo marginalnim slučajem za samostalno ulaganje.",
+  "flags": [
+    "provjeriti: mogući zakup poljoprivrednog zemljišta (ARKOD/OPG)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "584ad1759f53",
+  "scored_at": "2026-07-15T08:04:39.866209"
+}

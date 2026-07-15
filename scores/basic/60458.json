@@ -1,0 +1,15 @@
+{
+  "id": "60458",
+  "score_overall": 3.8,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Dvije poljoprivredne čestice (livada/oranica) u k.o. Gudovac kraj Bjelovara, ukupno gotovo 1.4 ha uz vrlo nisku cijenu po m2 (~0.74 EUR/m2), što je zanimljivo za konsolidaciju zemljišta. Ruralna lokacija i niska likvidnost tržišta poljoprivrednog zemljišta ograničavaju kratkoročni ROI.",
+  "flags": [
+    "provjeriti: mogući zakup poljoprivrednog zemljišta (ARKOD/OPG)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "3162a87082aa",
+  "scored_at": "2026-07-15T08:04:39.865093"
+}

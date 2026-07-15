@@ -1,0 +1,15 @@
+{
+  "id": "60518",
+  "score_overall": 3.8,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Jedinstvena čestica od 8797 m2 (oranica i livada) s čistim uknjiženjem u jednom z.k.ul., što pojednostavljuje transakciju. Cijena po m2 u skladu je s ostalim parcelama u Gudovcu, no ruralna lokacija ograničava potencijal rasta vrijednosti.",
+  "flags": [
+    "provjeriti: mogući zakup poljoprivrednog zemljišta (ARKOD/OPG)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "81808df494a0",
+  "scored_at": "2026-07-15T08:04:39.865782"
+}

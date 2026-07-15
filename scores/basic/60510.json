@@ -1,0 +1,15 @@
+{
+  "id": "60510",
+  "score_overall": 4.1,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Predmet čine dvije male čestice oranice od po 795 m2 u k.o. Gudovac, od kojih je jedna u punom vlasništvu (1/1), a druga u suvlasništvu ovršenika u 1/2 dijela, uz vrlo nisku procijenjenu vrijednost od 1105 EUR. Frakcijsko vlasništvo na dijelu predmeta i slaba likvidnost poljoprivrednog zemljišta uz standardni 20% popust ne opravdavaju aktivno ulaganje.",
+  "flags": [
+    "suvlasništvo (1/2 dijela) na dijelu predmeta prodaje – otežana prodaja/korištenje tog dijela"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "551f73af467d",
+  "scored_at": "2026-07-15T08:05:22.608599"
+}

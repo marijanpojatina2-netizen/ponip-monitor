@@ -1,0 +1,15 @@
+{
+  "id": "60468",
+  "score_overall": 3.8,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Slična poljoprivredna cjelina kao susjedne čestice u Gudovcu (livada, potok, dodatna livada), ukupno oko 1.37 ha po istoj niskoj cijeni po m2. Dio parcela je potok što neznatno smanjuje iskoristivost, ali cjelina je pogodna za spajanje sa susjednim parcelama.",
+  "flags": [
+    "provjeriti: mogući zakup poljoprivrednog zemljišta (ARKOD/OPG)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "1d13aa9488d0",
+  "scored_at": "2026-07-15T08:04:39.865370"
+}

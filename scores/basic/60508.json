@@ -1,0 +1,13 @@
+{
+  "id": "60508",
+  "score_overall": 4.1,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Manja oranica 2395 m2 u istom k.o. Gudovac, puno vlasništvo 1/1, ali niska apsolutna vrijednost i tek 20% popusta na prvoj dražbi čine ROI marginalnim za poljoprivredno zemljište slabe likvidnosti. Nema potvrđenih pravnih rizika.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "06b3bb0b8249",
+  "scored_at": "2026-07-15T08:05:22.608190"
+}

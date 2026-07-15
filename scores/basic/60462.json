@@ -1,0 +1,15 @@
+{
+  "id": "60462",
+  "score_overall": 3.8,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Jedinstvena čestica oranice od 7646 m2 s jasnim uknjiženjem u jednom listu, cijena u skladu s ostalim parcelama u k.o. Gudovac. Jednostavna pravna struktura olakšava eventualnu kupnju, ali ruralna lokacija ograničava ROI.",
+  "flags": [
+    "provjeriti: mogući zakup poljoprivrednog zemljišta (ARKOD/OPG)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "036f7fb19c32",
+  "scored_at": "2026-07-15T08:04:39.866061"
+}

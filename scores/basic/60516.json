@@ -1,0 +1,15 @@
+{
+  "id": "60516",
+  "score_overall": 3.8,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Tri manje livade u Berečaku i Radnovači, k.o. Gudovac, ukupno oko 0.8 ha, uz standardnu nisku cijenu poljoprivrednog zemljišta u regiji. Fragmentiranost na dva zemljišnoknjižna uloška i mala pojedinačna vrijednost smanjuju atraktivnost.",
+  "flags": [
+    "provjeriti: mogući zakup poljoprivrednog zemljišta (ARKOD/OPG)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "cc0c73341f79",
+  "scored_at": "2026-07-15T08:04:39.865920"
+}
