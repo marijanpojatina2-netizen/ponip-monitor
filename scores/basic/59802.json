@@ -1,0 +1,15 @@
+{
+  "id": "59802",
+  "score_overall": 5.8,
+  "score_lokacija": 5.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Sračinec kraj Varaždina je solidna periferna lokacija uz dobru infrastrukturu sjeverne Hrvatske, a popust od 40% na drugoj dražbi je na prvi pogled povoljan. Međutim, predmet prodaje je samo 1/8 suvlasničkog dijela što drastično ograničava mogućnost raspolaganja, korištenja i realizacije investicije bez suglasnosti ili sudske diobe s ostalim suvlasnicima.",
+  "flags": [
+    "provjeriti: suvlasnički dio 1/8 - ograničena mogućnost raspolaganja i potreba za diobom"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "8f15dc966f6d",
+  "scored_at": "2026-07-16T08:10:08.089840"
+}

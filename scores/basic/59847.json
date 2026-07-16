@@ -1,0 +1,15 @@
+{
+  "id": "59847",
+  "score_overall": 5.7,
+  "score_lokacija": 6.5,
+  "score_roi": 6.5,
+  "score_stanje": 2.5,
+  "recommendation": "watch",
+  "reasoning": "Zagreb je atraktivna lokacija i popust od 50% na drugoj dražbi izgleda povoljno, ali čestica je evidentirana kao PUT (pristupni put), a ne građevinska ili stambena parcela, što jako ograničava samostalnu iskoristivost. Potrebno je provjeriti stvarnu namjenu i mogućnost objedinjavanja sa susjednim česticama prije ozbiljnog razmatranja.",
+  "flags": [
+    "provjeriti: čestica evidentirana kao PUT - nejasna samostalna građevinska/uporabna namjena"
+  ],
+  "discount_pct": 50.0,
+  "input_hash": "7da707b26b12",
+  "scored_at": "2026-07-16T08:10:08.089007"
+}

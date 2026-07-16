@@ -1,0 +1,15 @@
+{
+  "id": "59837",
+  "score_overall": 6.7,
+  "score_lokacija": 6.0,
+  "score_roi": 8.5,
+  "score_stanje": 4.0,
+  "recommendation": "bid",
+  "reasoning": "Jedina čestica iz Kozari put klastera s izgrađenom kućom (99 m2) i pomoćnom zgradom na 479 m2 zemljišta, uz 50% popust na drugoj dražbi cijena je vrlo niska za kombinaciju kuće i zemljišta u Zagrebu. Niska procijenjena vrijednost za izgrađen objekt upućuje na potrebu temeljitije obnove.",
+  "flags": [
+    "provjeriti: je li nekretnina useljena (kuća na adresi I. Kozari put 7)"
+  ],
+  "discount_pct": 50.0,
+  "input_hash": "f480da3233c9",
+  "scored_at": "2026-07-16T08:09:15.559797"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "59853",
+  "score_overall": 6.8,
+  "score_lokacija": 6.5,
+  "score_roi": 8.5,
+  "score_stanje": 3.5,
+  "recommendation": "bid",
+  "reasoning": "Zemljište na Radničkoj cesti u Zagrebu, poznatoj poslovnoj zoni, uz 50% popust na drugoj dražbi nudi dobar ROI potencijal. Mala površina (430 m2) i status oranice traže provjeru urbanističke namjene prije ulaganja.",
+  "flags": [
+    "provjeriti: namjena zemljišta i mogućnost gradnje (oranica)"
+  ],
+  "discount_pct": 50.0,
+  "input_hash": "90ef37e39393",
+  "scored_at": "2026-07-16T08:09:15.560130"
+}

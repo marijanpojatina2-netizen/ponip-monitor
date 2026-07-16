@@ -1,0 +1,16 @@
+{
+  "id": "60862",
+  "score_overall": 5.9,
+  "score_lokacija": 6.5,
+  "score_roi": 5.8,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Jednosobni stan u Novom Zagrebu (Zaprudski otok) na prvoj dražbi ima tek 20% popust, što je skromno za ROI u odnosu na likvidno tržište stanova u gradu. Nema podataka o stanju ili useljenosti stana pa je potrebna dodatna provjera prije ozbiljnijeg interesa.",
+  "flags": [
+    "provjeriti: je li stan useljen/u posjedu trećih osoba",
+    "provjeriti: stvarno stanje i opremljenost stana"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "646068b99221",
+  "scored_at": "2026-07-16T08:09:15.560266"
+}

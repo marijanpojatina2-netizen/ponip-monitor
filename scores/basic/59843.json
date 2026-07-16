@@ -1,0 +1,15 @@
+{
+  "id": "59843",
+  "score_overall": 6.6,
+  "score_lokacija": 6.0,
+  "score_roi": 8.5,
+  "score_stanje": 3.5,
+  "recommendation": "bid",
+  "reasoning": "Ista lokacija i uvjeti kao susjedne čestice u nizu (I. Kozari put), 50% popust na drugoj dražbi čini ROI vrlo privlačnim za zemljišnu banku. Manja površina (942 m2) ograničava samostalnu iskoristivost bez susjednih parcela.",
+  "flags": [
+    "provjeriti: namjena zemljišta i mogućnost gradnje (oranica)"
+  ],
+  "discount_pct": 50.0,
+  "input_hash": "306b23dfdaa0",
+  "scored_at": "2026-07-16T08:09:15.559439"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "59841",
+  "score_overall": 6.5,
+  "score_lokacija": 6.0,
+  "score_roi": 8.3,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Najmanja čestica iz Kozari put klastera (239 m2) uz 50% popust na drugoj dražbi, atraktivna cijena ali ograničena samostalna gradivost zbog male površine. Ima smisla prvenstveno kao dopuna portfelju susjednih parcela iz iste ovrhe.",
+  "flags": [
+    "provjeriti: mogućnost samostalne gradnje s obzirom na malu površinu (239 m2)",
+    "provjeriti: namjena zemljišta i mogućnost gradnje (oranica)"
+  ],
+  "discount_pct": 50.0,
+  "input_hash": "0d2b05dc8212",
+  "scored_at": "2026-07-16T08:09:15.560407"
+}

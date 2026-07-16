@@ -1,0 +1,13 @@
+{
+  "id": "60904",
+  "score_overall": 4.5,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Jasenovac je ruralno i depopulacijsko područje s vrlo niskom likvidnošću nekretnina unatoč pristojnom popustu od 40% na drugoj dražbi. Kuća, dvorište i oranica ukupno čine solidnu površinu, ali slab lokalni tržišni interes ograničava izlaznu strategiju.",
+  "flags": [],
+  "discount_pct": 40.0,
+  "input_hash": "a737baa6a3c1",
+  "scored_at": "2026-07-16T08:10:08.089360"
+}

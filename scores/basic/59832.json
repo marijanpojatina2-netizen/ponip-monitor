@@ -1,0 +1,15 @@
+{
+  "id": "59832",
+  "score_overall": 6.6,
+  "score_lokacija": 6.0,
+  "score_roi": 8.5,
+  "score_stanje": 3.5,
+  "recommendation": "bid",
+  "reasoning": "Građevinsko zemljište (oranica) unutar granica grada Zagreba uz 50% popust i drugu dražbu, solidna cijena po m2 za urbanu zonu. Dio je klastera susjednih čestica iste ovrhe pa je moguća konsolidacija s drugim parcelama iz iste dražbe.",
+  "flags": [
+    "provjeriti: namjena zemljišta i mogućnost gradnje (oranica)"
+  ],
+  "discount_pct": 50.0,
+  "input_hash": "f6c5bd21371e",
+  "scored_at": "2026-07-16T08:09:15.559194"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "60926",
+  "score_overall": 3.7,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Beli Manastir/Baranja je pogranično, depopulacijsko područje sa slabom likvidnošću, a popust od tek 20% na prvoj dražbi nije dovoljno atraktivan da kompenzira lokacijski rizik. Postoji zemljište pod zgradom što ukazuje na postojeći objekt, no stanje i useljivost nisu opisani.",
+  "flags": [
+    "provjeriti: stanje i useljivost postojeće zgrade na čestici"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "6139426ec71f",
+  "scored_at": "2026-07-16T08:10:08.089592"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "59616",
+  "score_overall": 8.1,
+  "score_lokacija": 9.0,
+  "score_roi": 8.0,
+  "score_stanje": 6.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Rab je vrhunska turistička lokacija s visokom likvidnošću i 40% popustom na drugoj dražbi, a predmet je useljiva potkrovna jedinica (tri spavaonice, solarij, dnevni boravak). Suvlasnički dio s neodređenim omjerom u etažnom vlasništvu zahtijeva pravnu analizu prije licitacije.",
+  "flags": [
+    "provjeriti: suvlasnički dio s neodređenim omjerom - nejasna razdioba vlasništva unutar etažnog vlasništva"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "a9aa9745f971",
+  "scored_at": "2026-07-16T08:09:15.559653"
+}

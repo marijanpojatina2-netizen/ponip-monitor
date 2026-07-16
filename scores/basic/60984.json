@@ -1,0 +1,15 @@
+{
+  "id": "60984",
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Budanica kod Virovitice je ruralno poljoprivredno područje sa slabom likvidnošću, iako je oranica solidne veličine (17.558 m2) što može zanimati poljoprivredne investitore. Predmet je samo 1/3 suvlasničkog dijela, a popust od 25% na prvoj dražbi nije osobito izražen s obzirom na dodatne rizike diobe.",
+  "flags": [
+    "provjeriti: suvlasnički dio 1/3 - potreba za sporazumom ili diobom s ostalim suvlasnicima"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "0dcf2a4ba9b7",
+  "scored_at": "2026-07-16T08:10:08.090148"
+}

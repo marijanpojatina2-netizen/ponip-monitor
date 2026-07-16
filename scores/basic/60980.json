@@ -1,0 +1,16 @@
+{
+  "id": "60980",
+  "score_overall": 3.3,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Čabuna kod Virovitice je slabo razvijeno ruralno područje, a utvrđena vrijednost od svega 500 EUR za 1/3 dijela livade i vinograda čini transakcijske troškove (jamčevina, javnobilježnički troškovi, upisi) razmjerno vrlo visokima u odnosu na vrijednost imovine. Ovakav mikro-ulog nema realan investicijski smisao za portfelj usmjeren na ROI.",
+  "flags": [
+    "provjeriti: suvlasnički dio 1/3",
+    "izrazito niska vrijednost nekretnine - transakcijski troškovi mogu premašiti korist"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "e526fb0c5264",
+  "scored_at": "2026-07-16T08:10:08.090445"
+}
