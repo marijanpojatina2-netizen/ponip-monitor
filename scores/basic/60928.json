@@ -1,0 +1,13 @@
+{
+  "id": "60928",
+  "score_overall": 3.7,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Kuća s gospodarskom zgradom u Čemincu (Baranja) u ruralnom, depopulacijskom području s ograničenom likvidnošću tržišta. Popust od 20% na prvoj dražbi nije dovoljan da nadoknadi slabu lokaciju.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "4b7ddc36d38d",
+  "scored_at": "2026-07-17T08:05:30.044252"
+}

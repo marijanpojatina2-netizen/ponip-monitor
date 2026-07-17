@@ -1,0 +1,15 @@
+{
+  "id": "60932",
+  "score_overall": 5.5,
+  "score_lokacija": 6.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Mali poslovni prostor od 20,16 m2 u Trešnjevci Novoj, solidnoj zagrebačkoj lokaciji, no radi se o suvlasničkom dijelu s neodređenim omjerom etažnog vlasništva što unosi pravnu nejasnoću. Zbog male površine i kompleksne vlasničke strukture ROI potencijal je ograničen unatoč dobroj lokaciji.",
+  "flags": [
+    "provjeriti: suvlasnički dio s neodređenim omjerom (E-8) - nejasna pravna struktura"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "8b8552309dc2",
+  "scored_at": "2026-07-17T08:05:30.045038"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "61092",
+  "score_overall": 4.7,
+  "score_lokacija": 2.5,
+  "score_roi": 7.0,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Kuća s gospodarskim zgradama i cca 4400 m2 zemljišta u Bedeniku/Bulincu kraj Bjelovara, s izuzetnih 40% popusta na drugoj dražbi što ukazuje na nizak interes tržišta. Ruralna, depopulacijska lokacija ograničava likvidnost unatoč atraktivnoj cijeni po m2 zemljišta.",
+  "flags": [
+    "provjeriti: stanje objekata (starija ruralna gradnja)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "9af1e4351b0b",
+  "scored_at": "2026-07-17T08:05:30.044907"
+}

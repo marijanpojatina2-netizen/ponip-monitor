@@ -1,0 +1,15 @@
+{
+  "id": "60728",
+  "score_overall": 6.4,
+  "score_lokacija": 7.0,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "bid",
+  "reasoning": "Poslovna zgrada u Donjem Vrapču (Medarska ulica) na dobroj zagrebačkoj lokaciji s 25% popustom na prvoj dražbi iz stečajne prodaje. Nema podataka o stanju objekta pa treba provjeriti prije licitacije.",
+  "flags": [
+    "provjeriti: stanje objekta (stečajna prodaja, opis ne navodi uvjete)"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "17302fe0bad5",
+  "scored_at": "2026-07-17T08:05:30.043772"
+}

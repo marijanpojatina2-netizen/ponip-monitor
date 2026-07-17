@@ -1,0 +1,15 @@
+{
+  "id": "60930",
+  "score_overall": 3.7,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Manja kuća u Šumarini (Baranja) u suvlasništvu dvoje ovršenika, u ruralnoj zoni sa slabom likvidnošću i niskom vrijednošću. Investicijski potencijal slab unatoč popustu od 20%.",
+  "flags": [
+    "provjeriti: omjer i odnos suvlasničkih dijelova II. i III. ovršenika"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "f3d8da2649cb",
+  "scored_at": "2026-07-17T08:05:30.044519"
+}
