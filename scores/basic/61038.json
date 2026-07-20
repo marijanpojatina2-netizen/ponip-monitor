@@ -1,0 +1,15 @@
+{
+  "id": "61038",
+  "score_overall": 5.4,
+  "score_lokacija": 6.5,
+  "score_roi": 5.0,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Prostorija od 14,5 m2 u istoj zgradi kao susjedna garaža, no procijenjena vrijednost je gotovo identična unatoč manjoj površini i nejasnijoj namjeni. Lokacija je dobra, ali nesigurnost oko stvarne upotrebljivosti prostora traži dodatnu provjeru prije ponude.",
+  "flags": [
+    "provjeriti: stvarna namjena prostorije (nije eksplicitno garaža)"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "8c8b16109ac0",
+  "scored_at": "2026-07-20T08:58:36.675570"
+}

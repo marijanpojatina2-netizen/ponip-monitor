@@ -1,0 +1,16 @@
+{
+  "id": "59804",
+  "score_overall": 5.0,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća i dvorište 370 m2 u ruralnom Zagorju (k.o. Vrtnjakovec), druga dražba s 40% popusta daje solidan ROI potencijal ali slaba lokacija ograničava izlaznu likvidnost. Suvlasništvo dvoje ovršenika svakog u 1/2 dijela zahtijeva provjeru opsega prodaje.",
+  "flags": [
+    "provjeriti: prodaje li se cijela nekretnina ili samo suvlasnički udjeli",
+    "provjeriti: stanje kuće (opis ne navodi detalje o uređenosti)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "228d2976c260",
+  "scored_at": "2026-07-20T08:55:23.789426"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "59984",
+  "score_overall": 4.6,
+  "score_lokacija": 3.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Gospodarska i pomoćna zgrada sa zemljištem u ruralnom Kupincu (k.o. Kupinec), depopulacijsko područje slabe likvidnosti unatoč 40% popusta na drugoj dražbi. Nekretnina nije stambena niti useljiva pa je investicijski case slab bez značajnog ulaganja i jasne namjene.",
+  "flags": [
+    "provjeriti: stvarno stanje i namjena gospodarske/pomoćne zgrade",
+    "provjeriti: pristup i komunalna infrastruktura na lokaciji"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "743fccc8ceec",
+  "scored_at": "2026-07-20T08:55:23.789232"
+}

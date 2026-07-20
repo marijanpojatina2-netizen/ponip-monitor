@@ -1,0 +1,15 @@
+{
+  "id": "60024",
+  "score_overall": 5.5,
+  "score_lokacija": 6.5,
+  "score_roi": 6.5,
+  "score_stanje": 1.5,
+  "recommendation": "pass",
+  "reasoning": "Radi se o čestici ceste/ulice u Varaždinu (Zagrebačka ulica) od svega 34 m2, što praktički isključuje samostalnu gradbenu ili komercijalnu upotrebu. Popust od 50% je zavaravajuć jer je vrijednost ovakvog zemljišta realno vezana isključivo uz eventualnog susjeda-kupca.",
+  "flags": [
+    "provjeriti: namjena čestice (cestovno zemljište, ograničena samostalna uporaba)"
+  ],
+  "discount_pct": 50.0,
+  "input_hash": "fcf316490ee0",
+  "scored_at": "2026-07-20T08:59:55.098099"
+}

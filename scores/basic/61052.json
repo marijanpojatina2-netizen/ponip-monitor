@@ -1,0 +1,15 @@
+{
+  "id": "61052",
+  "score_overall": 4.8,
+  "score_lokacija": 6.5,
+  "score_roi": 4.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Mikroskopska podrumska prostorija od 1,75 m2 u etažnom vlasništvu u Varaždinu ima gotovo isključivo interes za suvlasnike zgrade, a ne za vanjskog investitora. Apsolutna vrijednost transakcije je premala za značajan ROI.",
+  "flags": [
+    "provjeriti: praktična upotrebljivost i pristup posebnom dijelu (mikroprostor)"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "e4f63f6b794e",
+  "scored_at": "2026-07-20T08:59:55.099385"
+}

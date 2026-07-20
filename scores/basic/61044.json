@@ -1,0 +1,15 @@
+{
+  "id": "61044",
+  "score_overall": 4.7,
+  "score_lokacija": 6.5,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Još manja podrumska prostorija (0,90 m2) u istoj zgradi kao nekretnina 61052, s praktički zanemarivom samostalnom tržišnom vrijednošću. Interes za ovakav mikroprostor ograničen je gotovo isključivo na postojeće suvlasnike.",
+  "flags": [
+    "provjeriti: praktična upotrebljivost i pristup posebnom dijelu (mikroprostor)"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "58aafd772c89",
+  "scored_at": "2026-07-20T08:59:55.099990"
+}

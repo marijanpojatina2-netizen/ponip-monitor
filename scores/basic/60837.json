@@ -1,0 +1,15 @@
+{
+  "id": "60837",
+  "score_overall": 4.4,
+  "score_lokacija": 4.0,
+  "score_roi": 4.0,
+  "score_stanje": 6.0,
+  "recommendation": "watch",
+  "reasoning": "Teretna brodica iz 2013. na dražbi u Pazinu, prva dražba s 25% popusta i relativno nova godina gradnje daju pristojan tehnički potencijal. Kao pokretnina ima niži prioritet za dugoročni ROI investitora fokusiranog na nekretnine.",
+  "flags": [
+    "provjeriti: tehničko stanje i valjanost registracije/certifikata plovila"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "d308792ae681",
+  "scored_at": "2026-07-20T08:56:54.829652"
+}

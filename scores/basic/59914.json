@@ -1,0 +1,15 @@
+{
+  "id": "59914",
+  "score_overall": 6.4,
+  "score_lokacija": 7.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Voćnjak od svega 28 m2 u Šestinama, traženom i atraktivnom dijelu Zagreba, uz popust od 50% na drugoj dražbi. Mikroskopska površina onemogućuje samostalnu gradnju pa je potencijal vezan uz spajanje sa susjednom česticom ili prodaju susjedu.",
+  "flags": [
+    "provjeriti: mogućnost spajanja sa susjednom česticom / gradivost obzirom na malu površinu"
+  ],
+  "discount_pct": 50.0,
+  "input_hash": "23c5a7908672",
+  "scored_at": "2026-07-20T08:58:36.676085"
+}

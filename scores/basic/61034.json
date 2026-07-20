@@ -1,0 +1,13 @@
+{
+  "id": "61034",
+  "score_overall": 6.0,
+  "score_lokacija": 6.5,
+  "score_roi": 5.5,
+  "score_stanje": 6.5,
+  "recommendation": "bid",
+  "reasoning": "Garažno mjesto od 18 m2 u gradu Varaždinu, tražena namjena s obzirom na deficit parkinga u centru. Popust od 25% na prvoj dražbi je umjeren, ali standardno stanje i dobra lokacija čine ga realnim kandidatom za licitaciju.",
+  "flags": [],
+  "discount_pct": 25.0,
+  "input_hash": "3a6f3c893ced",
+  "scored_at": "2026-07-20T08:58:36.675439"
+}

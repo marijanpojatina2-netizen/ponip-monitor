@@ -1,0 +1,15 @@
+{
+  "id": "61048",
+  "score_overall": 4.4,
+  "score_lokacija": 5.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Riječ je o istoj zgradi kao i susjedne dražbe (ista k.č. 2805/2, k.o. Varaždin) - podrumski prostor od 0,80 m2 s niskom samostalnom vrijednošću i upitnom prodivosti. 25% popust ne kompenzira ekstremno malu površinu i nišnu namjenu.",
+  "flags": [
+    "provjeriti: komercijalna iskoristivost mikro-udjela od 0,80 m2 i mogućnost objedinjavanja s ostalim etažama u istoj zgradi"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "79261a378235",
+  "scored_at": "2026-07-20T09:00:38.825340"
+}

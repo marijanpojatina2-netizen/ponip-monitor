@@ -1,0 +1,15 @@
+{
+  "id": "61056",
+  "score_overall": 4.4,
+  "score_lokacija": 5.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Treći gotovo identičan podrumski prostor (0,80 m2) u istoj zgradi kao prethodne dvije nekretnine, što ukazuje na rasparceliranu zgradu s nizom sitnih etažnih udjela slabe investicijske vrijednosti. Popust od 25% nije dovoljan da opravda ulaganje u tako mali i teško utrživ prostor.",
+  "flags": [
+    "provjeriti: komercijalna iskoristivost mikro-udjela od 0,80 m2 te mogućnost istovremene kupnje više susjednih udjela (61060, 61048) radi konsolidacije"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "7ef81f1bd003",
+  "scored_at": "2026-07-20T09:00:38.825562"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "60976",
+  "score_overall": 4.0,
+  "score_lokacija": 3.0,
+  "score_roi": 5.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Nekretnine u Petrinji, području snažno pogođenom potresom 2020. godine i izraženom depopulacijom, nose povišen rizik uz tek 20% popusta na prvoj dražbi. Slaba likvidnost regije i nepoznato stanje objekata čine ovo slabim investicijskim slučajem.",
+  "flags": [
+    "provjeriti: potresna oštećenja objekata (Petrinja, potres 2020.)",
+    "provjeriti: stanje kuće i pomoćnih zgrada"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "74775a1c0d54",
+  "scored_at": "2026-07-20T08:53:55.196549"
+}

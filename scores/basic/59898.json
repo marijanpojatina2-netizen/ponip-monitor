@@ -1,0 +1,15 @@
+{
+  "id": "59898",
+  "score_overall": 4.9,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Ruralna nekretnina u Moslavini (Popovača) s mješovitim zemljištem i starijom kućom, popust od 40% djelomično kompenzira slabu likvidnost regije. Nedostatak detalja o stanju kuće i depopulacijsko područje snižavaju investicijsku privlačnost.",
+  "flags": [
+    "provjeriti: stanje kuće i gospodarskih objekata"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "363222ee3a9e",
+  "scored_at": "2026-07-20T08:53:55.196219"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "59920",
+  "score_overall": 6.1,
+  "score_lokacija": 5.5,
+  "score_roi": 8.0,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Građevinsko zemljište (livada) unutar grada Zagreba uz izniman popust od 50% na drugoj dražbi, no bez adrese i bez podataka o namjeni/infrastrukturi teško je procijeniti realan potencijal. Prije ozbiljnog interesa nužno je provjeriti prostorni plan i pristupne putove.",
+  "flags": [
+    "provjeriti: namjena/zona zemljišta prema prostornom planu",
+    "provjeriti: infrastrukturna opremljenost i pristup parceli"
+  ],
+  "discount_pct": 50.0,
+  "input_hash": "ff9dc1bc0aef",
+  "scored_at": "2026-07-20T08:53:55.195962"
+}

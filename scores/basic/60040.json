@@ -1,0 +1,15 @@
+{
+  "id": "60040",
+  "score_overall": 5.5,
+  "score_lokacija": 6.5,
+  "score_roi": 6.5,
+  "score_stanje": 1.5,
+  "recommendation": "pass",
+  "reasoning": "Identičan slučaj kao čestica ceste u istoj ulici (Zagrebačka, Varaždin), 63 m2 zemljišta klasificiranog kao ulica bez samostalne gradbene vrijednosti. Visok nominalni popust od 50% ne kompenzira suštinsko ograničenje namjene.",
+  "flags": [
+    "provjeriti: namjena čestice (cestovno zemljište, ograničena samostalna uporaba)"
+  ],
+  "discount_pct": 50.0,
+  "input_hash": "2b41e3bcbef1",
+  "scored_at": "2026-07-20T08:59:55.099125"
+}

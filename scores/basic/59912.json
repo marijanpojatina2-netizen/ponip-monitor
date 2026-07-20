@@ -1,0 +1,16 @@
+{
+  "id": "59912",
+  "score_overall": 6.3,
+  "score_lokacija": 5.5,
+  "score_roi": 8.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Susjedne čestice livade istog zagrebačkog k.o. kao i nekretnina 59920, s vrlo visokim popustom od 50% na drugoj dražbi. Bez adrese i podataka o namjeni zemljišta potencijal ostaje nejasan do provjere prostornog plana.",
+  "flags": [
+    "provjeriti: namjena/zona zemljišta prema prostornom planu",
+    "provjeriti: infrastrukturna opremljenost i pristup parceli"
+  ],
+  "discount_pct": 50.0,
+  "input_hash": "ef6d12d51914",
+  "scored_at": "2026-07-20T08:53:55.196782"
+}

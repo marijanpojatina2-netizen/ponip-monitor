@@ -1,0 +1,13 @@
+{
+  "id": "59892",
+  "score_overall": 4.2,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Šumsko zemljište u Međimurju (k.o. II Brežni Kotar) bez ikakve infrastrukture ili razvojnog potencijala. Unatoč 40% popustu, likvidnost šumskog zemljišta u ovom području je niska.",
+  "flags": [],
+  "discount_pct": 40.0,
+  "input_hash": "035e4e223bfb",
+  "scored_at": "2026-07-20T08:59:55.098878"
+}

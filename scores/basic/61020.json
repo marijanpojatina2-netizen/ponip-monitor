@@ -1,0 +1,15 @@
+{
+  "id": "61020",
+  "score_overall": 6.3,
+  "score_lokacija": 6.0,
+  "score_roi": 6.5,
+  "score_stanje": 6.5,
+  "recommendation": "bid",
+  "reasoning": "Dvosobni stan 37,55 m2 s parkirnim mjestom u Varaždinu, prva dražba uz 25% popusta - solidan omjer cijene i likvidnosti za grad ove veličine. Stambena nekretnina s parkingom lakše se prodaje/iznajmljuje od poslovnih ili skladišnih jedinica iz istog kompleksa.",
+  "flags": [
+    "provjeriti: stanje interijera stana (opis ne navodi detalje o uređenosti)"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "085d93d7f81f",
+  "scored_at": "2026-07-20T08:55:23.788729"
+}

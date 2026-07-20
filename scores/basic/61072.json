@@ -1,0 +1,16 @@
+{
+  "id": "61072",
+  "score_overall": 4.9,
+  "score_lokacija": 6.0,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Tri manje podrumske prostorije (ukupno cca 39 m2) u Varaždinu iz istog etažnog kompleksa kao i drugi predmeti, uz 25% popusta na prvoj dražbi. Sitni podrumski prostori imaju ograničenu samostalnu tržišnu primjenu i nižu likvidnost unatoč dobroj gradskoj lokaciji.",
+  "flags": [
+    "provjeriti: mogućnost samostalne prodaje/najma sitnih podrumskih dijelova",
+    "provjeriti: pristup i namjena unutar zgrade"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "c4a4618792ae",
+  "scored_at": "2026-07-20T08:55:23.789580"
+}

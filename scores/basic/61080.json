@@ -1,0 +1,15 @@
+{
+  "id": "61080",
+  "score_overall": 4.9,
+  "score_lokacija": 6.0,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Spremište u prizemlju 30 m2 u Varaždinu, 25% popusta na prvoj dražbi, dio istog kompleksa kao i ostale sitne jedinice u ponudi. Skladišni prostor ove veličine ima ograničenu samostalnu tržišnu potražnju unatoč dobroj gradskoj lokaciji.",
+  "flags": [
+    "provjeriti: potražnja za najam/prodaju malog skladišnog prostora u prizemlju"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "eadafc69020a",
+  "scored_at": "2026-07-20T08:55:23.789993"
+}

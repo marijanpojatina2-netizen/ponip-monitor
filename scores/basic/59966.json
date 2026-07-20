@@ -1,0 +1,15 @@
+{
+  "id": "59966",
+  "score_overall": 6.8,
+  "score_lokacija": 8.5,
+  "score_roi": 7.0,
+  "score_stanje": 3.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Treća čestica istog rovinjskog kompleksa (Monsego) uz identičan 40% popust, s pristupom preko puta koji čini zapadnu među. Kombinacija s parcelama 4889/2 i 4889/5 mogla bi omogućiti veći razvojni projekt, ali treba potvrditi namjenu.",
+  "flags": [
+    "provjeriti: namjena zemljišta i mogućnost gradnje"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "fcc2f31617eb",
+  "scored_at": "2026-07-20T08:56:54.830006"
+}

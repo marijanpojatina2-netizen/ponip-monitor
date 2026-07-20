@@ -1,0 +1,15 @@
+{
+  "id": "60036",
+  "score_overall": 5.4,
+  "score_lokacija": 6.0,
+  "score_roi": 6.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Čestica se u zemljišnim knjigama vodi kao ulica u Varaždinu, što praktički isključuje samostalnu građevinsku ili komercijalnu iskoristivost bez obzira na 50% popust. Nizak realan investicijski potencijal zbog same prirode predmeta.",
+  "flags": [
+    "provjeriti: namjena i status čestice (vodi se kao ulica)"
+  ],
+  "discount_pct": 50.0,
+  "input_hash": "b354a917bfed",
+  "scored_at": "2026-07-20T08:56:54.829114"
+}

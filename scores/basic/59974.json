@@ -1,0 +1,13 @@
+{
+  "id": "59974",
+  "score_overall": 4.4,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica u Račinovcima kraj Županje nalazi se u depopulacijskom području istočne Slavonije sa slabom likvidnošću tržišta unatoč 40% popustu. Velika površina zemljišta bez infrastrukture ograničava kratkoročni investicijski interes.",
+  "flags": [],
+  "discount_pct": 40.0,
+  "input_hash": "5c7c11f61b5a",
+  "scored_at": "2026-07-20T08:56:54.829514"
+}

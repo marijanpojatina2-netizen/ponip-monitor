@@ -1,0 +1,15 @@
+{
+  "id": "59830",
+  "score_overall": 5.1,
+  "score_lokacija": 4.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Manje parcele dvorišta u Bisagu kraj Varaždina, ukupno oko 570 m2, mogu biti zanimljive za spajanje čestica ili buduću gradnju. Popust od 40% na drugoj dražbi daje solidan ROI potencijal, ali lokacija je periferna i ruralna.",
+  "flags": [
+    "provjeriti: komunalna infrastruktura i mogućnost gradnje"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "e53e175566b3",
+  "scored_at": "2026-07-20T08:59:55.098557"
+}

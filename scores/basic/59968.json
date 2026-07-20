@@ -1,0 +1,16 @@
+{
+  "id": "59968",
+  "score_overall": 7.6,
+  "score_lokacija": 8.5,
+  "score_roi": 8.0,
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Zemljište 1132 m2 pravilnog oblika s pristupnim putem u Rovinju (Monsego), vrhunska istarska turistička lokacija, uz 40% popusta na drugoj dražbi - izuzetno atraktivan ROI potencijal. Trenutno je katastarski vođeno kao pašnjak pa je ključno provjeriti stvarnu građevinsku namjenu prije licitacije.",
+  "flags": [
+    "provjeriti: namjena zemljišta prema prostornom planu (poljoprivredno/pašnjak vs. građevinsko)",
+    "provjeriti: komunalni priključci i infrastrukturna opremljenost parcele"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "c84febc3abc0",
+  "scored_at": "2026-07-20T08:55:23.790125"
+}

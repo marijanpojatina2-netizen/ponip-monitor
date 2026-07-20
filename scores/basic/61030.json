@@ -1,0 +1,13 @@
+{
+  "id": "61030",
+  "score_overall": 5.3,
+  "score_lokacija": 6.0,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Manje skladišno spremište u podrumu u Varaždinu, prva dražba s tek 25% popusta ograničava ROI. Niša s ograničenom likvidnošću i uskim krugom kupaca, ali bez uočenih pravnih rizika.",
+  "flags": [],
+  "discount_pct": 25.0,
+  "input_hash": "aa6da79020dc",
+  "scored_at": "2026-07-20T08:56:54.829305"
+}

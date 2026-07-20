@@ -1,0 +1,15 @@
+{
+  "id": "60978",
+  "score_overall": 3.3,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Šuma i pašnjak u k.o. Gora (Sisačko-moslavačka županija), ruralno i depopulacijsko područje s niskom likvidnošću tržišta. Popust od 20% na prvoj dražbi nije dovoljan da opravda ulazak u nekvalitetnu lokaciju bez razvojnog potencijala.",
+  "flags": [
+    "provjeriti: pristup i komunalna infrastruktura zemljišta"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "e58d6c6cdf12",
+  "scored_at": "2026-07-20T08:59:55.097654"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "59964",
+  "score_overall": 6.8,
+  "score_lokacija": 8.5,
+  "score_roi": 7.0,
+  "score_stanje": 3.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Susjedna čestica istog kompleksa pašnjaka u Rovinju (Monsego) uz 40% popust, moguće spajanje s parcelama 4889/3 i 4889/5 u veću cjelinu. Prije ulaska treba razjasniti urbanističku namjenu i realnu gradivost.",
+  "flags": [
+    "provjeriti: namjena zemljišta i mogućnost gradnje"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "a701fd46481e",
+  "scored_at": "2026-07-20T08:56:54.829855"
+}

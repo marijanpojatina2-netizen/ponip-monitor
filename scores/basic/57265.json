@@ -1,0 +1,16 @@
+{
+  "id": "57265",
+  "score_overall": 4.6,
+  "score_lokacija": 1.5,
+  "score_roi": 8.0,
+  "score_stanje": 2.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Kuća i dvor u Molvicama (Pitomača) na četvrtoj dražbi s početnom cijenom od samo 1 EUR (100% popusta), što uz bonus za četvrtu dražbu daje iznimno nizak ulazni trošak. Ruralna, depopulacijska lokacija i ponovljeni neuspjeh prethodnih dražbi upućuju na moguće ozbiljne probleme sa stanjem objekta ili pravnim statusom koje treba detaljno provjeriti.",
+  "flags": [
+    "provjeriti: stvarno stanje objekta i uzrok niske potražnje kroz četiri dražbe",
+    "provjeriti: pravno stanje/uknjižba nekretnine"
+  ],
+  "discount_pct": 100.0,
+  "input_hash": "ea909fd54244",
+  "scored_at": "2026-07-20T08:56:54.830129"
+}

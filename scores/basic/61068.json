@@ -1,0 +1,15 @@
+{
+  "id": "61068",
+  "score_overall": 5.0,
+  "score_lokacija": 6.0,
+  "score_roi": 4.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Podrumski prostor od svega 5,9 m2 u Varaždinu, premale površine za standardno parkiranje automobila pa je vjerojatnije riječ o spremištu. Niska apsolutna vrijednost uz relativno visoke transakcijske troškove čini investiciju marginalno isplativom.",
+  "flags": [
+    "provjeriti: stvarna namjena prostora (premala površina za standardni automobil)"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "a98cd0f15cd2",
+  "scored_at": "2026-07-20T08:58:36.676502"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "59954",
+  "score_overall": 7.5,
+  "score_lokacija": 8.0,
+  "score_roi": 8.0,
+  "score_stanje": 5.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Ilica 15 je apsolutni prime lokacija u samom centru Zagreba, tik uz Trg bana Jelačića — jedna od najvrednijih poslovnih adresa u Hrvatskoj s izuzetnom likvidnošću i potražnjom za najam/preprodaju. Popust od 40% na drugoj dražbi je respektabilan, no nedostatak podataka o stanju prostora i, ključno, neodređeni suvlasnički omjer etažnog vlasništva (E-7) čine točnu veličinu i vrijednost jedinice neizvjesnom te zahtijevaju temeljitu pravnu i tehničku due diligence prije licitacije. Zbog kombinacije vrhunske lokacije i visoke vrijednosti (>500k EUR) ovo zaslužuje detaljnu analizu, ali bid tek nakon razjašnjenja pravnog statusa i stvarne kvadrature.",
+  "flags": [
+    "provjeriti: točna kvadratura/veličina suvlasničkog dijela (u opisu naveden 'neodređeni omjer' etažnog vlasništva E-7)",
+    "provjeriti: postoji li zakupac ili posjednik prostora",
+    "provjeriti: postojanje tereta, hipoteka ili drugih upisa na nekretnini koji ne prestaju prodajom",
+    "provjeriti: konzervatorski/spomenički status zgrade (uža povijesna jezgra Zagreba, moguća ograničenja pri renovaciji)"
+  ],
+  "market_estimate": {
+    "eur_min": 900000,
+    "eur_max": 1600000,
+    "confidence": "low",
+    "basis": "Nije bilo pristupa web pretrazi u ovoj sesiji (WebSearch permission odbijen), pa je procjena isključivo temeljena na stručnom poznavanju tržišta centra Zagreba. Poslovni prostori na katovima uz Ilicu/Jelačićev trg tipično se kreću 2.500-4.500 EUR/m2 ovisno o katu, stanju i pogledu; budući da točna kvadratura E-7 jedinice nije navedena u opisu (samo ukupne površine zgrade), raspon je širok i preporuča se ručna verifikacija putem nekretnine.net/njuskalo.hr i uvida u zemljišne knjige prije donošenja odluke."
+  },
+  "comparables": [
+    {
+      "opis": "Poslovni prostor, 1. kat, uža jezgra centra Zagreba (Ilica/Frankopanska/Preradovićeva zona) — orijentacijski raspon iz opće tržišne prakse, nije potvrđeno live pretragom",
+      "cijena": null,
+      "m2": null,
+      "izvor": "procjena bez pristupa web pretrazi",
+      "url": ""
+    }
+  ],
+  "investment_strategy": "Preprodaja ili dugoročno iznajmljivanje poslovnog prostora (ured/showroom) — Ilica je vrhunska lokacija s velikom prometnom frekvencijom i potražnjom za komercijalnim najmom u samom centru grada; prije bilo kakve akcije nužno je utvrditi stvarnu kvadraturu i pravni status suvlasničkog dijela.",
+  "entry_price_eur": 950000,
+  "detailed_risks": [
+    "Neodređeni suvlasnički omjer (etažno vlasništvo E-7) znači da stvarna veličina/vrijednost jedinice nije jasno definirana iz opisa dražbe",
+    "Mixed-use zgrada (poslovno+stambeno) može nositi kompleksnije troškove održavanja i suvlasničke odluke",
+    "Nepoznato stanje unutarnjeg prostora i terase — mogući dodatni troškovi adaptacije",
+    "Rizik skrivenih tereta/hipoteka tipičan za FINA dražbe koje treba provjeriti u zemljišnim knjigama prije licitacije",
+    "Moguća konzervatorska ograničenja s obzirom na povijesnu jezgru grada"
+  ],
+  "upside_scenario": "Nakon potvrde čiste pravne situacije i stvarne kvadrature, kupnja po cijeni bliskoj početnoj (852.000-950.000 EUR) uz naknadno renoviranje i izdavanje u najam poslovnom korisniku (ured/trgovina) uz prime adresu moglo bi ostvariti godišnji prinos 5-7% i značajnu kapitalnu aprecijaciju s obzirom na ograničenu ponudu prostora u samom centru Zagreba.",
+  "downside_scenario": "Ako se pokaže da je suvlasnički omjer nepovoljan (manja stvarna kvadratura nego očekivano) ili se otkriju neraščišćeni tereti/zakup, investicija gubi profitabilnost i ROI se svodi na minimalan ili negativan, uz zamrznuta sredstva u dugotrajnom sudskom rješavanju statusa.",
+  "discount_pct": 40.0,
+  "input_hash": "e751a65a21cc",
+  "scored_at": "2026-07-20T09:02:30.763893"
+}

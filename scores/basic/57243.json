@@ -1,0 +1,17 @@
+{
+  "id": "57243",
+  "score_overall": 4.2,
+  "score_lokacija": 2.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Kuća s dvorištem i zemljištem u selu Detkovac kraj Virovitice prodaje se za simboličnih 1 EUR na četvrtoj dražbi, no predmet prodaje je samo suvlasnički dio 2/8 nekretnine, što zahtijeva daljnju konsolidaciju vlasništva ili sudsku diobu. Ekstremno nizak ulazni trošak čini ovo vrijednim detaljne pravne analize unatoč slaboj ruralnoj lokaciji i visokom riziku.",
+  "flags": [
+    "suvlasnički dio samo 2/8 - potrebna konsolidacija vlasništva ili sudska dioba",
+    "četvrta dražba i popust od 99,9% - ukazuje na vjerojatne ozbiljne pravne ili strukturne probleme",
+    "provjeriti: je li nekretnina (kuća-dvor) nastanjena"
+  ],
+  "discount_pct": 99.9,
+  "input_hash": "140569dc51fe",
+  "scored_at": "2026-07-20T08:59:55.099756"
+}

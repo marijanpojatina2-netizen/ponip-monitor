@@ -1,0 +1,15 @@
+{
+  "id": "59886",
+  "score_overall": 5.8,
+  "score_lokacija": 4.5,
+  "score_roi": 7.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Seoski posjed u Jalšovcu kraj Čakovca s kućom, gospodarskom zgradom, sjenicom i voćnjakom na velikoj parceli (4723 m2), uz 40% popusta na drugoj dražbi. Stanje objekata nije detaljno opisano pa treba fizički pregled prije licitacije.",
+  "flags": [
+    "provjeriti: stanje kuće i gospodarske zgrade"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "d08ef29cc2e6",
+  "scored_at": "2026-07-20T08:53:55.196904"
+}

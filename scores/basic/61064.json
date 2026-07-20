@@ -1,0 +1,16 @@
+{
+  "id": "61064",
+  "score_overall": 5.0,
+  "score_lokacija": 6.0,
+  "score_roi": 4.5,
+  "score_stanje": 4.2,
+  "recommendation": "watch",
+  "reasoning": "Podrumski prostor 38,4 m2 opisan kao prostorija za sastanke s pomoćnim prostorijama, u Varaždinu, 25% popusta na prvoj dražbi. Nestandardna namjena i podrumska lokacija smanjuju likvidnost, ali veličina i raspored ostavljaju prostor za alternativno korištenje.",
+  "flags": [
+    "provjeriti: mogućnost alternativne komercijalne namjene prostora",
+    "provjeriti: prirodno osvjetljenje i ventilaciju podrumskog prostora"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "95314ff8d813",
+  "scored_at": "2026-07-20T08:55:23.789843"
+}

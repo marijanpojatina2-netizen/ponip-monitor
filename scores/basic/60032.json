@@ -1,0 +1,15 @@
+{
+  "id": "60032",
+  "score_overall": 5.1,
+  "score_lokacija": 5.0,
+  "score_roi": 6.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Čestica od 81 m2 evidentirana kao 'ulica' u Zagrebačkoj ulici u Varaždinu, što upućuje na javnu/infrastrukturnu namjenu s vrlo ograničenom mogućnošću privatnog korištenja ili gradnje. Unatoč nominalno visokom popustu od 50% na drugoj dražbi, stvarna iskoristivost i likvidnost su upitne.",
+  "flags": [
+    "provjeriti: status i namjena zemljišta (evidentirano kao ulica - upitna gradivost i mogućnost privatnog korištenja)"
+  ],
+  "discount_pct": 50.0,
+  "input_hash": "8f6e4996ff7d",
+  "scored_at": "2026-07-20T08:58:36.675858"
+}

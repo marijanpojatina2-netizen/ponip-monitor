@@ -1,0 +1,15 @@
+{
+  "id": "61012",
+  "score_overall": 6.4,
+  "score_lokacija": 6.5,
+  "score_roi": 6.5,
+  "score_stanje": 6.0,
+  "recommendation": "watch",
+  "reasoning": "Prostran 4-sobni stan (87,7 m2) u Varaždinu s dva balkona i dobrim rasporedom, uz umjeren popust od 25% na prvoj dražbi. Trgovački sud kao nadležnost upućuje na dužnika tvrtku, što otvara pitanje eventualnog zakupa.",
+  "flags": [
+    "provjeriti: mogući zakup/stanar (ovrha nad pravnom osobom)"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "c6ad102a3579",
+  "scored_at": "2026-07-20T08:53:55.196670"
+}
