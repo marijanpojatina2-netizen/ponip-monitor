@@ -1,0 +1,15 @@
+{
+  "id": "61093",
+  "score_overall": 4.7,
+  "score_lokacija": 4.0,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Družilovec kod Zaboka je ruralno zagorsko područje s umjerenom potražnjom, blizina Zagreba donekle podiže atraktivnost. Kuća s gospodarskom zgradom djeluje standardno za daljnju uporabu, ali opis ne navodi trenutno stanje ni useljenost.",
+  "flags": [
+    "provjeriti: stanje nekretnine i eventualna useljenost"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "7e3cb05da340",
+  "scored_at": "2026-07-21T08:23:50.282596"
+}

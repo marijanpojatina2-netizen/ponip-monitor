@@ -1,0 +1,15 @@
+{
+  "id": "61169",
+  "score_overall": 5.1,
+  "score_lokacija": 6.5,
+  "score_roi": 5.0,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Drenova je urbana periferija Rijeke pa je lokacija solidna, no radi se o neizgrađenom poljoprivrednom zemljištu (livada/oranica) bez podataka o infrastrukturi ili mogućnosti gradnje. Popust od 20% na prvoj dražbi je skroman za rizik vezan uz namjenu zemljišta.",
+  "flags": [
+    "provjeriti: namjena zemljišta i mogućnost gradnje/prenamjene"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "d02004524d1f",
+  "scored_at": "2026-07-21T08:23:50.282244"
+}

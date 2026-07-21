@@ -1,0 +1,16 @@
+{
+  "id": "61163",
+  "score_overall": 3.7,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Mikleuš je malo selo u depopulacijskom području Slavonije s niskom likvidnošću tržišta, što slabi dugoročni ROI unatoč 25% popustu. Stanje objekta (zgrada, dvor, voćnjak) nije detaljno opisano pa je teško procijeniti potreban ulog u obnovu.",
+  "flags": [
+    "provjeriti: stanje objekta i useljivost",
+    "provjeriti: razlog stečaja i eventualna opterećenja"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "a9cde0557762",
+  "scored_at": "2026-07-21T08:23:50.282489"
+}
