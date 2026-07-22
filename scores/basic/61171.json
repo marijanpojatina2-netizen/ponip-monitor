@@ -1,0 +1,16 @@
+{
+  "id": "61171",
+  "score_overall": 6.9,
+  "score_lokacija": 8.5,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Samostojeća kuća s okućnicom u Umagu (Istra) je izuzetno atraktivna lokacija s dobrim ROI potencijalom, no prodaje se samo suvlasnički dio 4/9 što bitno komplicira stjecanje pune imovine. Stanje objekta nije opisano pa treba dodatnu provjeru prije licitacije.",
+  "flags": [
+    "provjeriti: suvlasnički dio 4/9 - odnos s ostalim suvlasnicima i pravo prvokupa",
+    "provjeriti: stanje objekta (nije opisano)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "2902d502111e",
+  "scored_at": "2026-07-22T08:24:19.684821"
+}

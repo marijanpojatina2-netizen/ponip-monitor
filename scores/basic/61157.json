@@ -1,0 +1,13 @@
+{
+  "id": "61157",
+  "score_overall": 4.3,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 6.0,
+  "recommendation": "pass",
+  "reasoning": "Velika oranica (4,37 ha) u ruralnom području k.o. Vuka blizu Osijeka/Vukovara s ograničenom potražnjom i likvidnošću; popust od 20% na prvoj dražbi nije dovoljan poticaj za ROI.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "e657378fe2f2",
+  "scored_at": "2026-07-22T08:24:19.684586"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "60772",
+  "score_overall": 4.3,
+  "score_lokacija": 5.5,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
+  "recommendation": "watch",
+  "reasoning": "Poslovni prostor u rohbau stanju (nedovršena gradnja) na periferiji Zagreba (Zaprešić) zahtijeva značajna dodatna ulaganja za useljivost unatoč niskoj početnoj cijeni. Lokacija je solidna ali stanje objekta bitno smanjuje kratkoročnu isplativost.",
+  "flags": [
+    "provjeriti: troškovi dovršetka gradnje (rohbau stanje)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "5ca059943c70",
+  "scored_at": "2026-07-22T08:24:19.685098"
+}

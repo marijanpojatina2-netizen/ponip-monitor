@@ -1,0 +1,15 @@
+{
+  "id": "61214",
+  "score_overall": 4.1,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Četiri manje čestice oranice u Bjelovaru Novom vrlo su niske vrijednosti (ukupno oko 2.767 EUR) i ograničene poljoprivredne namjene, pa je apsolutni potencijalni dobitak zanemariv za investitora. Ruralna lokacija bez razvojnog potencijala.",
+  "flags": [
+    "provjeriti: fragmentacija čestica i mogućnost spajanja s okolnim zemljištem"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "3fc020dd7132",
+  "scored_at": "2026-07-22T08:24:19.685640"
+}

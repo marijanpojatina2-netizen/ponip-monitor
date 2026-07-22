@@ -1,0 +1,15 @@
+{
+  "id": "61161",
+  "score_overall": 4.1,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Seoska kuća s gospodarskim zgradama u Đelekovcu (ruralna Podravina) ima slabu likvidnost i tržišnu potražnju. Prodaje se suvlasnički dio 1/2 u suvlasništvu s ovrhovoditeljem što dodatno komplicira stjecanje cijele nekretnine.",
+  "flags": [
+    "provjeriti: prodaje se suvlasnički dio 1/2 (suvlasništvo s ovrhovoditeljem)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "2c9ec2610250",
+  "scored_at": "2026-07-22T08:24:19.685381"
+}
