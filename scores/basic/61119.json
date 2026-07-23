@@ -1,0 +1,16 @@
+{
+  "id": "61119",
+  "score_overall": 4.8,
+  "score_lokacija": 5.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Varaždinsko spremište od 1,70 m2 (E-69), prva dražba s 25% popusta - nominalno atraktivan popust, ali apsolutna vrijednost i praktična korisnost predmeta su minimalne. Realno tržište kupaca svodi se na susjede u istoj zgradi.",
+  "flags": [
+    "provjeriti: mogućnost samostalne prodaje/korištenja spremišta odvojeno od stambenih jedinica",
+    "provjeriti: odnos prema upravljanju zgradom i pričuvi"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "57d88bbd6d06",
+  "scored_at": "2026-07-23T08:29:18.247799"
+}

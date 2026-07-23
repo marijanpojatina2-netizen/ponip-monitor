@@ -1,0 +1,15 @@
+{
+  "id": "61095",
+  "score_overall": 5.0,
+  "score_lokacija": 5.0,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Malo spremište od 30 m2 u Varaždinu ima ograničenu samostalnu tržišnu vrijednost i nižu likvidnost ovog tipa nekretnine. Apsolutni iznosi su preniski da bi predstavljali značajniju investicijsku priliku.",
+  "flags": [
+    "provjeriti: namjenu i mogućnost samostalnog korištenja spremišta"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "11a7e59e39f4",
+  "scored_at": "2026-07-23T08:26:55.729978"
+}

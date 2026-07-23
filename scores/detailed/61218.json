@@ -1,0 +1,40 @@
+{
+  "id": "61218",
+  "score_overall": 5.4,
+  "score_lokacija": 3.5,
+  "score_roi": 7.5,
+  "score_stanje": 4.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Nije klasična stambena/turistička nekretnina nego pravo građenja s industrijskim ORC kogeneracijskim postrojenjem na biomasu (Turboden/Polytechnik oprema) u stečaju, na 4. dražbi sa 100% popustom (1 EUR početna cijena) uz jamčevinu od 1.023.857 EUR. Lokacija Vrbovsko (Gorski kotar) je slaba za standardnu nekretninsku ROI logiku, ali ekstremni popust i tip imovine (energetska infrastruktura vrijedna 10,2 mil EUR po procjeni) otvaraju potencijalno velik raspon ishoda ako se postrojenje može reaktivirati ili preprodati strateškom energetskom kupcu. Ključna nepoznanica je pravni status prava građenja (trajanje/uvjeti prema vlasniku zemljišta) i sudbina HROTE/poticajnog ugovora za otkup struje nakon stečaja, bez čega ekonomija projekta ne funkcionira. Zaslužuje detaljnu tehničko-pravnu due diligence prije bilo kakve ponude jer je riječ o niša-imovini s uskim krugom potencijalnih kupaca (energetske/biomasa tvrtke), a ne o standardnoj nekretnini.",
+  "flags": [
+    "provjeriti: preostalo trajanje i uvjeti prava građenja (odnos prema vlasniku zemljišta)",
+    "provjeriti: status ugovora o poticajnom otkupu električne energije (HROTE) nakon stečaja",
+    "provjeriti: tehničko stanje i funkcionalnost opreme nakon razdoblja neaktivnosti/stečaja",
+    "provjeriti: postojanje tereta, hipoteka ili prava trećih na pokretninama i pravu građenja",
+    "provjeriti: dostupnost i cijena opskrbe biomasom (drvna sirovina) za pogon kotla"
+  ],
+  "market_estimate": {
+    "eur_min": 400000,
+    "eur_max": 2000000,
+    "confidence": "low",
+    "basis": "Nema usporedivih tržišnih oglasa jer je riječ o specijaliziranoj industrijskoj energetskoj imovini (ORC biomasa kogeneracija), ne o standardnoj nekretnini na portalima poput nekretnine.net/njuškalo. Procjena temeljena na tipičnim troškovima izgradnje ORC biomasa CHP postrojenja (~3-4 mil EUR/MW instalirane snage), diskontirano zbog stečaja, nesigurnosti oko poticajnog ugovora i uskog kruga kupaca; realna prodajna cijena na 4. dražbi vjerojatno je znatno ispod procijenjene vrijednosti od 10,2 mil EUR.",
+    "napomena": "Web pretraga tržišnih podataka nije izvršena zbog uskraćene dozvole za WebSearch alat u ovoj sesiji."
+  },
+  "comparables": [],
+  "investment_strategy": "razvoj/reaktivacija: kupnja po niskoj cijeni uz temeljitu tehničko-pravnu provjeru (trajanje prava građenja, status HROTE ugovora, stanje opreme), potom ili reaktivacija postrojenja i prodaja/dugoročni ugovor o otkupu struje, ili preprodaja cijelog paketa strateškom kupcu iz energetskog/biomasa sektora — nije prikladno za tipičnog stambenog investitora",
+  "entry_price_eur": 350000,
+  "detailed_risks": [
+    "Pravo građenja je vremenski ograničeno pravo, a ne puno vlasništvo nad zemljištem — nepoznato preostalo trajanje",
+    "Jamčevina od cca 1,02 mil EUR predstavlja veliku kapitalnu barijeru unatoč nominalnoj početnoj cijeni od 1 EUR",
+    "3 prethodne neuspjele dražbe ukazuju na vrlo slab interes tržišta / usku bazu kupaca",
+    "Nesigurnost oko kontinuiteta poticajnog ugovora za otkup struje (HROTE) nakon stečaja — bez njega ekonomija ORC postrojenja ovisi o hirovitoj tržišnoj cijeni struje",
+    "Moguća degradacija opreme i gubitak dozvola/certifikata tijekom perioda stečaja i neaktivnosti",
+    "Ovisnost o lokalnoj opskrbi biomasom (drvna industrija Gorskog kotara) za dugoročnu operativnu održivost",
+    "Izostanak tržišnih komparabli otežava objektivnu procjenu fer vrijednosti"
+  ],
+  "upside_scenario": "Ako se pravo građenja pokaže dugotrajno i bez tereta, oprema je tehnički ispravna ili ekonomično popravljiva, te se osigura novi ugovor o otkupu struje ili prodaja strateškom biomasa/energetskom operateru, imovina kupljena za nekoliko stotina tisuća EUR može ostvariti višestruki povrat kroz reaktivaciju 2 MW kogeneracijskog kapaciteta s dugoročnim novčanim tokom.",
+  "downside_scenario": "Ako je preostalo trajanje prava građenja kratko, oprema je neopravdivo oštećena, poticajni ugovor se ne može obnoviti i nema kupaca ni na sljedećim dražbama, investitor ostaje s nelikvidnom, neprihodujućom industrijskom imovinom uz rizik gubitka uplaćene jamčevine i troškova eventualnog uklanjanja/dekomisije postrojenja.",
+  "discount_pct": 100.0,
+  "input_hash": "208e5626752a",
+  "scored_at": "2026-07-23T08:32:06.543086"
+}

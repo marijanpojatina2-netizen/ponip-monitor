@@ -1,0 +1,16 @@
+{
+  "id": "61123",
+  "score_overall": 4.8,
+  "score_lokacija": 5.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Identičan slučaj kao i susjedno spremište iz iste zgrade - 1,70 m2 (E-70), prva dražba, 25% popust. Vrsta nekretnine praktički nema samostalnu investicijsku vrijednost izvan konteksta cijele zgrade.",
+  "flags": [
+    "provjeriti: mogućnost samostalne prodaje/korištenja spremišta odvojeno od stambenih jedinica",
+    "provjeriti: odnos prema upravljanju zgradom i pričuvi"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "43ab82470e46",
+  "scored_at": "2026-07-23T08:29:18.248117"
+}

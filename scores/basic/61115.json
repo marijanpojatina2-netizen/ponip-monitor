@@ -1,0 +1,15 @@
+{
+  "id": "61115",
+  "score_overall": 4.9,
+  "score_lokacija": 5.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Najmanja od svih spremišnih jedinica u ovoj seriji (1,35 m2), s istim strukturnim ograničenjem - suvlasnički dio bez neovisne funkcije ili tržišta. Vrijednost od 1.340 EUR čini transakciju gotovo nesvrsishodnom za investicijski portfelj.",
+  "flags": [
+    "provjeriti: mogućnost i svrha samostalne prodaje/korištenja mikro-jedinice etažnog vlasništva"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "d1d7f8a7ce4f",
+  "scored_at": "2026-07-23T08:30:07.623908"
+}

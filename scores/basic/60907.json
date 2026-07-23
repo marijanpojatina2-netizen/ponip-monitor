@@ -1,0 +1,16 @@
+{
+  "id": "60907",
+  "score_overall": 3.9,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica u Podravskoj Slatini je poljoprivredno zemljište u slabije razvijenom području s ograničenom likvidnošću i niskim popustom od 20%. Kao sirovo zemljište bez razvojnog potencijala u kratkom roku, ROI je slab za investitora fokusiranog na brži povrat.",
+  "flags": [
+    "provjeriti: postoji li zakup poljoprivrednog zemljišta",
+    "provjeriti: pristup/status čestice"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "d997e45b91bc",
+  "scored_at": "2026-07-23T08:28:13.841636"
+}

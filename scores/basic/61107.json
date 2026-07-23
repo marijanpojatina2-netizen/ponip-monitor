@@ -1,0 +1,16 @@
+{
+  "id": "61107",
+  "score_overall": 4.8,
+  "score_lokacija": 5.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Isti profil kao i ostala varaždinska spremišta - prva dražba, 25% popust, ali radi se o spremištu od samo 1,80 m2 (E-115) u velikoj zgradi s etažnim vlasništvom. Mikroskopska površina drastično limitira likvidnost i investicijsku svrhu izvan uskog kruga suvlasnika.",
+  "flags": [
+    "provjeriti: mogućnost samostalne prodaje/korištenja spremišta odvojeno od stambenih jedinica",
+    "provjeriti: odnos prema upravljanju zgradom i pričuvi"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "c596a19ed6ad",
+  "scored_at": "2026-07-23T08:29:18.247514"
+}

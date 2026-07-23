@@ -1,0 +1,15 @@
+{
+  "id": "61004",
+  "score_overall": 3.9,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Vinograd i oranica ukupno oko 3.246 m2 u Bosiljevu, ruralnom području s izraženom depopulacijom, gdje je potražnja za poljoprivrednim zemljištem slaba. Popust od samo 20% na prvoj dražbi uz nisku likvidnost regije ne nudi uvjerljiv ROI potencijal.",
+  "flags": [
+    "provjeriti: stanje obradivosti vinograda i oranice te pristup parceli"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "8e93c1328aac",
+  "scored_at": "2026-07-23T08:30:07.623684"
+}

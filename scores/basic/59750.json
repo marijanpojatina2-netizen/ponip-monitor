@@ -1,0 +1,16 @@
+{
+  "id": "59750",
+  "score_overall": 4.6,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Trnovitički Popovac je ruralno selo u Bjelovarsko-bilogorskoj županiji sa slabom likvidnošću i depopulacijom, no popust od 40% uz drugu dražbu daje solidan ROI potencijal za oportunističku kupnju po niskoj cijeni. Stanje objekta nije opisano pa treba pretpostaviti potrebu za ulaganjem.",
+  "flags": [
+    "provjeriti: stanje objekta i useljenost",
+    "provjeriti: razlog neuspjeha prve dražbe"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "e328342d4323",
+  "scored_at": "2026-07-23T08:28:13.841422"
+}

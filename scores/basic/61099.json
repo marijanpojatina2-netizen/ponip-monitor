@@ -1,0 +1,15 @@
+{
+  "id": "61099",
+  "score_overall": 5.8,
+  "score_lokacija": 6.5,
+  "score_roi": 5.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Slično kao kod ostalih parkirnih mjesta u istoj garaži u Varaždinu, riječ je o standardnoj nekretnini sa stabilnom ali ograničenom potražnjom uz popust od 25% na prvoj dražbi. Manja kvadratura (12,50 m2) i niža cijena čine ulaz jeftinijim, ali i likvidnost pri preprodaji ostaje niska.",
+  "flags": [
+    "provjeriti: pravo pristupa/korištenja parkirnog mjesta"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "64e31f293723",
+  "scored_at": "2026-07-23T08:28:13.842334"
+}

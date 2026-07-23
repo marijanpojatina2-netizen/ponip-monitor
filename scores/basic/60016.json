@@ -1,0 +1,16 @@
+{
+  "id": "60016",
+  "score_overall": 6.7,
+  "score_lokacija": 6.5,
+  "score_roi": 7.5,
+  "score_stanje": 5.0,
+  "recommendation": "bid",
+  "reasoning": "Veliko građevinsko zemljište u zapadnom Zagrebu (Jankomir) s solidnim popustom od 40% predstavlja realnu priliku za dugoročni razvojni projekt. Dobra likvidnost zagrebačkog tržišta zemljišta i velika površina (10.674 m2) čine ovo ozbiljnim kandidatom za licitaciju uz provjeru namjene.",
+  "flags": [
+    "provjeriti: namjena/zoniranje zemljišta (trenutno oranica)",
+    "provjeriti: komunalna infrastruktura i pristup parceli"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "ea519ce9a65f",
+  "scored_at": "2026-07-23T08:26:55.729277"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "61218",
+  "score_overall": 6.2,
+  "score_lokacija": 3.5,
+  "score_roi": 9.0,
+  "score_stanje": 4.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Riječ je o iznimno specifičnoj imovini (pravo građenja + kogeneracijsko postrojenje) golеme knjigovodstvene vrijednosti koja nije uspjela naći kupca kroz tri prethodne dražbe, pa je početna cijena simbolična. Zbog kompleksnosti (pravna narav prava građenja, specijalizirana oprema) i visoke jamčevine potrebna je detaljna tehnička i pravna dubinska analiza prije bilo kakve odluke.",
+  "flags": [
+    "provjeriti: stvarno stanje i funkcionalnost kogeneracijskog postrojenja",
+    "provjeriti: uvjeti i preostalo trajanje prava građenja",
+    "provjeriti: likvidnost tržišta za specijaliziranu industrijsku opremu"
+  ],
+  "discount_pct": 100.0,
+  "input_hash": "208e5626752a",
+  "scored_at": "2026-07-23T08:26:55.728821"
+}

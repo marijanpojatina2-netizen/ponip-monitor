@@ -1,0 +1,15 @@
+{
+  "id": "61145",
+  "score_overall": 4.9,
+  "score_lokacija": 5.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Još jedna mikro-jedinica (1,50 m2 spremište) iz istog kompleksa u Varaždinu s istim ograničenjima likvidnosti i namjene. Popust od 25% ne kompenzira činjenicu da je riječ o suvlasničkom dijelu bez samostalne upotrebne vrijednosti.",
+  "flags": [
+    "provjeriti: mogućnost i svrha samostalne prodaje/korištenja mikro-jedinice etažnog vlasništva"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "d4d318fef9e0",
+  "scored_at": "2026-07-23T08:30:07.623508"
+}

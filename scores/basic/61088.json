@@ -1,0 +1,16 @@
+{
+  "id": "61088",
+  "score_overall": 5.2,
+  "score_lokacija": 7.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Zagreb, Borongajska cesta - solidna urbana lokacija, ali predmet je tek dvorište od 77 m2 u 8/24 suvlasničkom dijelu, prva dražba s tek 20% popusta. Fragmentirano vlasništvo i nedostatak građevine značajno ograničavaju samostalnu iskoristivost.",
+  "flags": [
+    "provjeriti: suvlasništvo 8/24 dijela - mogućnost diobe/isplate ostalih suvlasnika",
+    "provjeriti: mogućnost priključenja/uknjižbe uz susjednu građevinu"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "5b544ad24fb1",
+  "scored_at": "2026-07-23T08:29:18.246175"
+}

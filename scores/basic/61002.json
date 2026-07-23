@@ -1,0 +1,16 @@
+{
+  "id": "61002",
+  "score_overall": 3.7,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Ruralna poljoprivredna čestica s tek polovičnim suvlasničkim udjelom i niskim popustom od 20% na prvoj dražbi slab je investicijski slučaj. Kombinacija slabe lokacije, fragmentiranog vlasništva i niske vrijednosti dodatno smanjuje atraktivnost.",
+  "flags": [
+    "provjeriti: suvlasničke odnose i mogućnost diobe (prodaje se 1/2 dijela)",
+    "provjeriti: stanje zgrade"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "3bb2072eb52d",
+  "scored_at": "2026-07-23T08:26:55.730306"
+}

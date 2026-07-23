@@ -1,0 +1,16 @@
+{
+  "id": "60905",
+  "score_overall": 4.0,
+  "score_lokacija": 2.5,
+  "score_roi": 5.0,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Manja obiteljska kuća u Slatini s popustom na donjoj granici kriterija i tek prvom dražbom ne nudi izraženu ROI priliku. Ruralna slavonska lokacija dodatno ograničava potencijal vrijednosti.",
+  "flags": [
+    "provjeriti: stanje kuće i useljivost",
+    "provjeriti: je li nekretnina u posjedu ovršenika ili trećih osoba"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "f40cc0280c53",
+  "scored_at": "2026-07-23T08:26:55.729560"
+}

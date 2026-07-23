@@ -1,0 +1,17 @@
+{
+  "id": "59946",
+  "score_overall": 6.4,
+  "score_lokacija": 8.5,
+  "score_roi": 6.5,
+  "score_stanje": 2.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Rab je izrazito tražena turistička lokacija gdje i manji suvlasnički udjeli zemljišta mogu imati značajnu dugoročnu vrijednost, a popust od 40% uz drugu dražbu dodatno povećava atraktivnost cijene. Radi se tek o 3/12 idealnog dijela pašnjaka bez izgrađenog objekta, što komplicira samostalno raspolaganje i zahtijeva detaljnu pravnu provjeru prije licitacije.",
+  "flags": [
+    "suvlasnički dio (3/12) - ograničeno samostalno raspolaganje",
+    "provjeriti: mogućnost diobe nekretnine i interes ostalih suvlasnika",
+    "provjeriti: građevinska/zonska namjena čestice"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "948011c7b0b6",
+  "scored_at": "2026-07-23T08:28:13.841862"
+}

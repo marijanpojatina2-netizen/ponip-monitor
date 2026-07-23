@@ -1,0 +1,36 @@
+{
+  "id": "60016",
+  "score_overall": 5.9,
+  "score_lokacija": 6.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Dvije susjedne čestice ukupno 10.674 m2 u k.o. Jankomir, poznatoj poslovno-industrijskoj zoni zapadnog Zagreba s dobrom prometnom povezanošću (blizina Jankomirskog mosta, Zagrebačke avenije i A3 čvora). Cijena po m2 na početnoj dražbi (~159 EUR/m2) znatno je niža od tipičnih cijena poslovnog zemljišta u Zagrebu, no zk. oznaka 'Oranica' unatoč gradskoj adresi ukazuje na moguću neusklađenost katastarske namjene s urbanističkim planom, što je ključan rizik za provjeru prije licitacije. Velika površina i lokacija daju značajan razvojni potencijal (logistika/poslovna namjena), ali nedostatak informacija o komunalnoj infrastrukturi i statusu zemljišta traži temeljit due diligence. Web pretraga tržišta nije bila dostupna u ovoj analizi (alat odbijen), stoga je procjena tržišne vrijednosti niske pouzdanosti.",
+  "flags": [
+    "provjeriti: namjena zemljišta - zk. oznaka 'Oranica' unatoč gradskoj adresi, moguća neusklađenost s prostornim planom / potreba za promjenom namjene",
+    "provjeriti: komunalna infrastruktura (struja, voda, kanalizacija, pristupni put) na parcelama",
+    "provjeriti: postoji li teret, služnost ili ograničenje korištenja koje nije navedeno u opisu",
+    "provjeriti: mogu li se dvije čestice prodati/koristiti zajedno kao jedinstvena razvojna cjelina"
+  ],
+  "market_estimate": {
+    "eur_min": 1600000,
+    "eur_max": 2830000,
+    "confidence": "low",
+    "basis": "Web pretraga tržišta nije bila dostupna (alat odbijen). Raspon je omeđen početnom cijenom druge dražbe (1.698.000 EUR) i službenom procjenom vrijednosti suda (2.830.000 EUR). Procjena se oslanja isključivo na opće poznavanje zagrebačkog tržišta poslovnog/industrijskog zemljišta u zoni Jankomir, bez konkretnih usporedivih oglasa."
+  },
+  "comparables": [],
+  "investment_strategy": "razvoj / land banking - kupnja velike parcele (>1 ha) u poslovnoj zoni Jankomir uz naknadnu provjeru i eventualnu promjenu namjene zemljišta u građevinsko-poslovno, s ciljem preprodaje developeru logističkih/poslovnih objekata ili vlastite izgradnje nakon ishođenja dozvola. Nije pogodno za brzi flip zbog nedostatka infrastrukture i pravne neizvjesnosti namjene.",
+  "entry_price_eur": 1700000,
+  "detailed_risks": [
+    "Neusklađenost katastarske namjene ('Oranica') s urbanističkim planom - moguć dugotrajan i neizvjestan postupak promjene namjene",
+    "Nedostatak informacija o komunalnoj infrastrukturi i priključcima na parcelama",
+    "Niža likvidnost sirovog zemljišta u odnosu na izgrađenu nekretninu - duži period do realizacije ROI-ja",
+    "Rizik vezan uz dvije odvojene katastarske čestice - potencijalni problemi pri objedinjavanju ili odvojenoj prodaji",
+    "Nepoznat status eventualnih tereta ili služnosti koji nisu izričito navedeni u opisu"
+  ],
+  "upside_scenario": "Ako se u roku 1-2 godine potvrdi ili ishodi povoljna promjena namjene u poslovno/građevinsko zemljište, parcela u razvijenoj poslovnoj zoni Jankomir (blizina prometnica, logistički koridori) mogla bi postići vrijednost blizu ili iznad procijenjenih 2,83 mil EUR, uz mogućnost daljnje preprodaje developeru logističkih ili poslovnih centara uz značajan prinos na uloženi kapital.",
+  "downside_scenario": "Ako zemljište ostane s ograničenom ili neizvjesnom građevinskom namjenom, kupac ostaje s teško unovčivom imovinom bez mogućnosti gradnje, s minimalnim prinosom (eventualno poljoprivredni zakup) i potrebom dugoročnog držanja ili prodaje uz značajan diskont.",
+  "discount_pct": 40.0,
+  "input_hash": "ea519ce9a65f",
+  "scored_at": "2026-07-23T08:33:35.407414"
+}

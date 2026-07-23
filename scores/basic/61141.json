@@ -1,0 +1,15 @@
+{
+  "id": "61141",
+  "score_overall": 4.9,
+  "score_lokacija": 5.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Identičan slučaj kao susjedna etaža u istoj zgradi - spremište od 1,70 m2 u Varaždinu bez samostalne tržišne primjene. Nizak apsolutni iznos ne opravdava angažman zbog transakcijskih troškova i upitne likvidnosti.",
+  "flags": [
+    "provjeriti: mogućnost i svrha samostalne prodaje/korištenja mikro-jedinice etažnog vlasništva"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "0cb8bbaa3107",
+  "scored_at": "2026-07-23T08:30:07.623315"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "60909",
+  "score_overall": 4.0,
+  "score_lokacija": 2.5,
+  "score_roi": 5.0,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Manja kuća u Podravskoj Slatini u punom vlasništvu (1/1) s popustom od 20% na prvoj dražbi nudi skroman, ali stabilniji profil vlasništva. Ruralna lokacija ipak ograničava dugoročni ROI potencijal.",
+  "flags": [
+    "provjeriti: stanje zgrade i useljivost"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "4bceadf2b560",
+  "scored_at": "2026-07-23T08:26:55.730462"
+}

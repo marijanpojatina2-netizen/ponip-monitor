@@ -1,0 +1,16 @@
+{
+  "id": "61153",
+  "score_overall": 4.5,
+  "score_lokacija": 5.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Iako je čestica formalno u k.o. Varaždin, radi se o vrlo maloj oranici od svega 165 m2 koja vjerojatno predstavlja ostatak čestice bez samostalne razvojne vrijednosti. Popust od 25% ne opravdava nisku likvidnost i ograničenu iskoristivost ovako male parcele.",
+  "flags": [
+    "provjeriti: mogućnost priključenja/spajanja sa susjednim česticama",
+    "provjeriti: postoje li suvlasnici na čestici"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "bf0b8cbc9b26",
+  "scored_at": "2026-07-23T08:28:13.842199"
+}

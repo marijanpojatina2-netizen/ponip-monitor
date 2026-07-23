@@ -1,0 +1,15 @@
+{
+  "id": "61149",
+  "score_overall": 4.6,
+  "score_lokacija": 5.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Oranica od svega 61 m2 u Varaždinu je premala za samostalnu poljoprivrednu ili građevinsku primjenu, vjerojatno korisna jedino susjednim vlasnicima kao pripajanje. Nizak ROI potencijal proizlazi iz minimalne površine i upitne mogućnosti bilo kakve razvojne namjene.",
+  "flags": [
+    "provjeriti: pristup parceli i mogućnost pripajanja susjednim česticama"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "7c44110b832c",
+  "scored_at": "2026-07-23T08:30:07.624268"
+}

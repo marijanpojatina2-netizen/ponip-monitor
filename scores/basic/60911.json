@@ -1,0 +1,15 @@
+{
+  "id": "60911",
+  "score_overall": 4.2,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Podravska Slatina je manje, depopulacijsko područje Slavonije sa slabom likvidnošću tržišta nekretnina, a popust od 20% na prvoj dražbi ne kompenzira slab ROI potencijal. Kuća sa dvorištem djeluje standardno, ali opis ne daje dovoljno detalja o stanju objekta.",
+  "flags": [
+    "provjeriti: useljenost i postojanje tereta na nekretnini"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "b0eefbb5e888",
+  "scored_at": "2026-07-23T08:28:13.841029"
+}

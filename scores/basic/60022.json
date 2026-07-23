@@ -1,0 +1,16 @@
+{
+  "id": "60022",
+  "score_overall": 4.7,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Ruralno poljoprivredno imanje u okolici Virovitice nudi solidan popust od 40% na drugoj dražbi, no slabija likvidnost slavonskog ruralnog tržišta ograničava brzinu unovčenja. Vrijedi pratiti zbog atraktivne cijene, ali bez žurbe s obzirom na lokaciju.",
+  "flags": [
+    "provjeriti: stanje gospodarske zgrade",
+    "provjeriti: poljoprivrednu namjenu i eventualna prava trećih (npr. zakup zemljišta)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "2cb39fa7afed",
+  "scored_at": "2026-07-23T08:26:55.729438"
+}

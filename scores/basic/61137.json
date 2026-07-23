@@ -1,0 +1,15 @@
+{
+  "id": "61137",
+  "score_overall": 4.9,
+  "score_lokacija": 5.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Riječ je o suvlasničkom dijelu od svega 1,70 m2 (spremište u podrumu) u zgradi u Varaždinu, što praktički nema samostalnu tržišnu vrijednost niti likvidnost bez ostatka etažnog vlasništva. Unatoč 25% popustu prva dražba i mikroskopska površina čine ovo neatraktivnim za investitora.",
+  "flags": [
+    "provjeriti: mogućnost i svrha samostalne prodaje/korištenja mikro-jedinice etažnog vlasništva"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "fb849d06fed0",
+  "scored_at": "2026-07-23T08:30:07.623008"
+}

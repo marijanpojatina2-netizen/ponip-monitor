@@ -1,0 +1,15 @@
+{
+  "id": "61111",
+  "score_overall": 5.5,
+  "score_lokacija": 6.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Varaždin je solidan regionalni centar pa garaže u podrumu imaju stabilnu, iako ograničenu, potražnju. Popust od 25% na prvoj dražbi je umjeren, a mala kvadratura i specifičnost predmeta ograničavaju likvidnost.",
+  "flags": [
+    "provjeriti: pravo pristupa/korištenja garaže"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "34796937aafa",
+  "scored_at": "2026-07-23T08:28:13.841292"
+}

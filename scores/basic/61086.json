@@ -1,0 +1,16 @@
+{
+  "id": "61086",
+  "score_overall": 5.3,
+  "score_lokacija": 6.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Radi se tek o suvlasničkom udjelu (8/24) manje kuće u Zagrebu na Borongaju, što značajno otežava upravljanje i unovčenje imovine unatoč solidnoj gradskoj lokaciji. Fragmentirano vlasništvo umanjuje praktičnu investicijsku vrijednost bez dogovora s ostalim suvlasnicima.",
+  "flags": [
+    "provjeriti: suvlasničke odnose i mogućnost diobe (prodaje se samo 8/24 dijela)",
+    "provjeriti: stanje kuće"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "93cb8657863b",
+  "scored_at": "2026-07-23T08:26:55.729824"
+}

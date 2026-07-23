@@ -1,0 +1,15 @@
+{
+  "id": "61103",
+  "score_overall": 5.8,
+  "score_lokacija": 6.5,
+  "score_roi": 5.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Parkirno mjesto u podzemnoj garaži u Varaždinu ima stabilnu potražnju zahvaljujući veličini grada, a popust od 25% na prvoj dražbi je prosječan za ovu vrstu predmeta. Likvidnost je ograničena nišnim karakterom nekretnine, ali gubitak rizika je nizak.",
+  "flags": [
+    "provjeriti: pravo pristupa/korištenja parkirnog mjesta"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "aac6bedbdcff",
+  "scored_at": "2026-07-23T08:28:13.841985"
+}

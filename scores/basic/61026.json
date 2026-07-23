@@ -1,0 +1,15 @@
+{
+  "id": "61026",
+  "score_overall": 3.8,
+  "score_lokacija": 4.0,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Glavice kod Sinja, ruralno zaleđe bez turističke ili urbane premije, zemljište je neplodno i obraslo niskim raslinjem bez razvojnog potencijala. Popust od 20% na prvoj dražbi nije dovoljan da kompenzira slabu lokaciju i stanje, iako je vlasništvo cjelovito.",
+  "flags": [
+    "provjeriti: namjena zemljišta prema prostornom planu (građevinsko/poljoprivredno)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "28b9d067e828",
+  "scored_at": "2026-07-23T08:29:18.246627"
+}
