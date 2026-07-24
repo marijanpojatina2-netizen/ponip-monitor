@@ -1,0 +1,16 @@
+{
+  "id": "61237",
+  "score_overall": 5.0,
+  "score_lokacija": 4.0,
+  "score_roi": 5.5,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Industrijska poslovna zgrada (Energana Alpha) u Našicama, prva dražba s umjerenim popustom od 25% - lokacija je slabije likvidna za brzu preprodaju. Namjenski specifičan objekt zahtijeva provjeru tehničkog stanja i tržišta potencijalnih kupaca prije ulaska.",
+  "flags": [
+    "provjeriti: stanje postrojenja/opreme",
+    "provjeriti: mogućnost prenamjene i broj potencijalnih kupaca"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "ba70852cfd71",
+  "scored_at": "2026-07-24T08:23:45.555300"
+}

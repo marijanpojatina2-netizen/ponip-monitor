@@ -1,0 +1,15 @@
+{
+  "id": "61198",
+  "score_overall": 3.7,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Mala oranica (95 čhv) u selu Oprisavci, ruralna slavonska depopulacijska zona s vrlo niskom likvidnošću; popust od 20% na prvoj dražbi ne opravdava nizak potencijal povrata za tako sitnu parcelu.",
+  "flags": [
+    "provjeriti: pristup parceli i komunalnu infrastrukturu"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "298fc92ba62e",
+  "scored_at": "2026-07-24T08:25:25.850717"
+}

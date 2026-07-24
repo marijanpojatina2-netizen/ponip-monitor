@@ -1,0 +1,17 @@
+{
+  "id": "57282",
+  "score_overall": 5.7,
+  "score_lokacija": 4.0,
+  "score_roi": 8.0,
+  "score_stanje": 3.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Velik kompleks poljoprivrednog zemljišta i kuće u k.o. Lužan (Zagorje/Varaždin okolica), treća dražba s 75% popustom nudi izniman ROI potencijal unatoč ruralnoj lokaciji. Stanje objekata i kompletnost stečajne mase nisu jasni iz opisa pa je potrebna detaljna provjera prije licitacije.",
+  "flags": [
+    "provjeriti: stanje stambenih i gospodarskih objekata",
+    "provjeriti: pristupačnost/infrastruktura zemljišta",
+    "provjeriti: kompletnost i razgraničenje čestica (stečajna masa)"
+  ],
+  "discount_pct": 75.0,
+  "input_hash": "6b68938d17ee",
+  "scored_at": "2026-07-24T08:23:45.555059"
+}

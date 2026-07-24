@@ -1,0 +1,16 @@
+{
+  "id": "58623",
+  "score_overall": 5.8,
+  "score_lokacija": 6.0,
+  "score_roi": 7.0,
+  "score_stanje": 2.5,
+  "recommendation": "watch",
+  "reasoning": "Neizgrađeno zemljište u Vinodolskoj općini blizu Crikvenice ima dobru pozicijsku vrijednost s obzirom na blizinu obale, a 40% popusta na drugoj dražbi ukazuje na dobar ROI potencijal. Radi se o praznoj parceli bez infrastrukture pa je gradbeni potencijal potrebno dodatno provjeriti prije ulaganja.",
+  "flags": [
+    "provjeriti: komunalna infrastruktura i mogućnost gradnje",
+    "neizgrađeno zemljište"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "a0b505f1fd5f",
+  "scored_at": "2026-07-24T08:24:56.134933"
+}

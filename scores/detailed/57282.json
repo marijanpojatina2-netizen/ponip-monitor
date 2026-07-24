@@ -1,0 +1,38 @@
+{
+  "id": "57282",
+  "score_overall": 5.3,
+  "score_lokacija": 4.5,
+  "score_roi": 7.0,
+  "score_stanje": 3.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Riječ je o velikom paketu poljoprivrednog zemljišta (oranice, livade, močvara) i staroj kući s gospodarskom zgradom u k.o. Lužan, područje Moravče/Ružčica istočno od Zagreba (gravitacija Sesvete), na trećoj dražbi s 75% popustom od procjene od 2,57 mil. EUR. Popust je izniman i ROI potencijal visok, ali opis nekretnine je vidljivo skraćen (naznaka da postoji još parcela), stanje objekata je nepoznato/vjerojatno loše, a poljoprivredno zemljište velike površine ima ograničenu likvidnost i otežanu preprodaju u paketu. Zbog visoke apsolutne vrijednosti (>500k EUR) i velikog diskonta zaslužuje detaljnu due diligence prije bilo kakve odluke o licitaciji.",
+  "flags": [
+    "provjeriti: potpuni opis nekretnine je odsječen u izvoru (naznaka dodatnih čestica koje nisu prikazane) - nužno pribaviti cjeloviti zk. izvadak",
+    "provjeriti: stvarno stanje kuće i gospodarske zgrade (dob, useljivost)",
+    "provjeriti: postoji li osoba koja stanuje ili koristi zemljište/objekte",
+    "provjeriti: postoje li tereti, služnosti ili prava koja ne prestaju prodajom na pojedinim česticama",
+    "provjeriti: katastarska/prostorno-planska namjena zemljišta (poljoprivredno vs. građevinsko) jer dio čestica je opisan kao 'močvara'",
+    "provjeriti: pristupačnost i infrastruktura (pristupni put, struja, voda) za kuću i parcele"
+  ],
+  "market_estimate": {
+    "eur_min": 900000,
+    "eur_max": 1600000,
+    "confidence": "low",
+    "basis": "Procjena temeljena na općem poznavanju tržišta poljoprivrednog zemljišta i ruralnih nekretnina u širem zagrebačkom prstenu (Sesvete/Rugvica okolica), gdje se ovakvo zemljište s pratećim starim objektima obično prodaje znatno ispod utvrđene stečajne procjene zbog niske likvidnosti velikih poljoprivrednih paketa; web pretraga tržišnih oglasa nije bila dostupna u ovoj sesiji pa brojka nije potkrijepljena stvarnim komparablima."
+  },
+  "comparables": [],
+  "investment_strategy": "Zbog velike površine i mješovite namjene (poljoprivredno zemljište + stari stambeno-gospodarski sklop) najrealnija strategija je land banking / parcelacija i preprodaja u dijelovima srednjoročno (3-5 god), uz mogući reno-flip kuće ako se pokaže useljivom; izravno iznajmljivanje malo je vjerojatno bez značajnog ulaganja.",
+  "entry_price_eur": 550000,
+  "detailed_risks": [
+    "Nepotpun opis nekretnine u javnom pozivu - stvarna ukupna površina i sastav parcela nisu u potpunosti poznati",
+    "Nizak stupanj likvidnosti velikog poljoprivrednog zemljišnog paketa - teže naći kupca za cjelinu",
+    "Moguća potreba za komasacijom/parcelacijom prije preprodaje pojedinačnih čestica",
+    "Nepoznato stanje stare kuće i gospodarske zgrade - mogući troškovi rušenja ili temeljite obnove",
+    "Stečajni postupak - iako obično čisti vlasništvo, treba provjeriti sve upisane terete prije licitacije"
+  ],
+  "upside_scenario": "Ako se nakon due diligence potvrdi čisto vlasništvo i zemljište ima potencijal za promjenu namjene (blizina Zagreba/Sesveta), investitor stječe veliki zemljišni bank po cijeni od otprilike 25% procijenjene vrijednosti, koji se u 3-5 godina može parcelirati i prodati u dijelovima uz značajnu razliku u cijeni, posebno ako se dio zemljišta uspije prenamijeniti u građevinsko.",
+  "downside_scenario": "Ako se pokaže da je zemljište isključivo poljoprivredne namjene bez izgleda za prenamjenu, dio čestica je močvara niske vrijednosti, kuća je za rušenje, a paket je pravno kompliciran (dodatni tereti otkriveni tek nakon kupnje), investicija ostaje nelikvidna dugi niz godina uz visoke troškove održavanja i poreza bez jasnog izlaza.",
+  "discount_pct": 75.0,
+  "input_hash": "6b68938d17ee",
+  "scored_at": "2026-07-24T08:27:16.006515"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "59952",
+  "score_overall": 6.2,
+  "score_lokacija": 7.0,
+  "score_roi": 7.0,
+  "score_stanje": 3.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Kuća u staroj jezgri Vodnjana, stotinjak metara od glavnog trga, u atraktivnoj istarskoj zoni s potencijalom za turističku obnovu; druga dražba s 25% popusta dodatno poboljšava ROI profil. Stogodišnja drvena konstrukcija zahtijeva temeljitu obnovu pa je potrebna detaljna procjena troškova i konzervatorskih uvjeta.",
+  "flags": [
+    "provjeriti: građevinsko stanje - drvena međukatna i krovna konstrukcija",
+    "provjeriti: konzervatorski uvjeti obnove (stara jezgra)"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "78d6533c2bbe",
+  "scored_at": "2026-07-24T08:23:45.555502"
+}

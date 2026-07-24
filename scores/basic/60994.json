@@ -1,0 +1,16 @@
+{
+  "id": "60994",
+  "score_overall": 3.1,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Kneževci Vinogradi u Baranji je rubno ruralno područje s malom oranicom od 403 m2 i vrlo niskom apsolutnom vrijednošću, što ograničava likvidnost i ROI. Na nekretnini je upisano založno pravo u korist RH Ministarstva financija čiji status nakon prodaje treba obavezno provjeriti.",
+  "flags": [
+    "provjeriti: hoće li založno pravo u korist RH Ministarstva financija prestati prodajom",
+    "mala vrijednost/površina - ograničena likvidnost"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "6aa8127dd755",
+  "scored_at": "2026-07-24T08:24:56.135448"
+}

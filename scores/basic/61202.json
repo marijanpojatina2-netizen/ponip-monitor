@@ -1,0 +1,16 @@
+{
+  "id": "61202",
+  "score_overall": 3.6,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Ruralna okolica Grubišnog Polja (Mala Pisanica) s brojnim malim raštrkanim česticama i starijom seoskom kućom, prva dražba s tek 20% popusta ne kompenzira slabu likvidnost regije. Depopulacijsko područje uz nejasno stanje objekata čini ovo slabim investicijskim slučajem.",
+  "flags": [
+    "provjeriti: stanje kuće i gospodarskih zgrada",
+    "provjeriti: brojnost i razdvojenost čestica"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "f3300a33611e",
+  "scored_at": "2026-07-24T08:23:45.555406"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "60080",
+  "score_overall": 4.8,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Podravska Slatina je slabija slavonska lokacija, no 40% popusta na drugoj dražbi za kuću s dvorištem u naselju daje pristojan ROI okvir. Suvlasništvo u 1/2 dijela i nepoznato stanje objekta unose dodatnu neizvjesnost.",
+  "flags": [
+    "provjeriti: suvlasništvo 1/2 dijela",
+    "provjeriti: osoba stanuje",
+    "provjeriti: stanje kuće"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "7371cdc72b26",
+  "scored_at": "2026-07-24T08:24:56.135094"
+}

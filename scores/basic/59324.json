@@ -1,0 +1,16 @@
+{
+  "id": "59324",
+  "score_overall": 4.6,
+  "score_lokacija": 3.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Manja seoska nekretnina u Ivanovcu kraj Čakovca, druga dražba s 40% popusta daje solidan ROI potencijal ali je riječ o niskoj apsolutnoj vrijednosti i slabijoj lokaciji. Stanje kuće i gospodarskih zgrada nije opisano pa treba dodatnu provjeru prije odluke.",
+  "flags": [
+    "provjeriti: stanje kuće i gospodarske zgrade",
+    "provjeriti: usklađenost posjedovnog i zemljišnoknjižnog stanja čestica"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "0f48d1650fb4",
+  "scored_at": "2026-07-24T08:23:45.555597"
+}

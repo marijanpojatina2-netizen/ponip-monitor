@@ -1,0 +1,16 @@
+{
+  "id": "61024",
+  "score_overall": 4.2,
+  "score_lokacija": 5.0,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Lokacija u zaleđu Splitsko-dalmatinske županije (k.o. Tugare) ima određenu vrijednost, ali predmet je tek travnati pokos i pristupna rampa od 234 m2 bez ikakve građevine. Fragmentirani suvlasnički udjeli (1/20 i 1/2) dodatno otežavaju stjecanje pune vlasničke cjeline, a popust od 20% na prvoj dražbi nije dovoljno atraktivan.",
+  "flags": [
+    "provjeriti: suvlasnički udjeli (1/20 i 1/2) - otežana konsolidacija vlasništva",
+    "zemljište bez građevine - ograničena samostalna vrijednost"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "54e8fe16a12b",
+  "scored_at": "2026-07-24T08:24:56.134799"
+}

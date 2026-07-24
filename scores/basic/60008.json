@@ -1,0 +1,16 @@
+{
+  "id": "60008",
+  "score_overall": 4.8,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Podravska Slatina je ruralna slavonska lokacija sa slabijom likvidnošću, no 40% popusta na drugoj dražbi daje solidan ROI potencijal. Kuća s okućnicom i oranicom djeluje standardno, ali opis ne otkriva stanje objekta niti ima li stanara.",
+  "flags": [
+    "provjeriti: stanje kuće",
+    "provjeriti: osoba stanuje"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "f8f1f57b240b",
+  "scored_at": "2026-07-24T08:24:56.134653"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "61208",
+  "score_overall": 2.9,
+  "score_lokacija": 1.5,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Grubišno Polje i k.o. Veliki Grđevac spadaju u depopulacijsko slavonsko područje sa slabom likvidnošću, a predmet su dvije šumske parcele bez stambene ili poljoprivredne funkcije. Prva dražba s tek 20% popusta i niska apsolutna vrijednost ne opravdavaju aktivno ulaganje.",
+  "flags": [
+    "šumsko zemljište - ograničena investicijska namjena",
+    "depopulacijsko ruralno područje"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "87d70a93dca6",
+  "scored_at": "2026-07-24T08:24:56.135277"
+}

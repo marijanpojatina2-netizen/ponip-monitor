@@ -1,0 +1,16 @@
+{
+  "id": "58619",
+  "score_overall": 5.9,
+  "score_lokacija": 6.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Neizgrađeno zemljište u Bribiru kraj Crikvenice (Vinodolska rivijera) s atraktivnim popustom od 40% na drugoj dražbi, no predmet prodaje je tek 1/5 suvlasničkog dijela što bitno otežava samostalno raspolaganje i realizaciju vrijednosti.",
+  "flags": [
+    "suvlasništvo 1/5 (otežana likvidnost i samostalna prodaja/razvoj cijele čestice)",
+    "provjeriti: mogućnost i uvjeti otkupa preostalih suvlasničkih dijelova"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "6bd33fd180bf",
+  "scored_at": "2026-07-24T08:25:25.850967"
+}

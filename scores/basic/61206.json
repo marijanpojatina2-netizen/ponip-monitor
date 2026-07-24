@@ -1,0 +1,16 @@
+{
+  "id": "61206",
+  "score_overall": 3.6,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Veliki broj poljoprivrednih čestica i seoski objekti u Velikom Grđevcu (Bilogora), prva dražba s tek 20% popusta ne opravdava rizik ulaganja u depopulacijskom ruralnom području. Stanje kuće i gospodarske zgrade nije jasno iz opisa što dodatno smanjuje atraktivnost.",
+  "flags": [
+    "provjeriti: stanje kuće i gospodarske zgrade",
+    "provjeriti: pristup i infrastrukturu zemljišta"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "1f6ffa23f434",
+  "scored_at": "2026-07-24T08:23:45.555899"
+}

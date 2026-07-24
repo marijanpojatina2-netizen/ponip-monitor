@@ -1,0 +1,16 @@
+{
+  "id": "61200",
+  "score_overall": 2.9,
+  "score_lokacija": 1.5,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Oprisavci je malo selo u depopulacijskom području Slavonskog Broda, a izuzetno niska procijenjena vrijednost (1.868 EUR) upućuje na trošnu ili neuseljivu kuću. Unatoč vrlo niskoj ulaznoj cijeni, slaba likvidnost i vjerojatno loše stanje objekta čine ovo marginalnim ulaganjem.",
+  "flags": [
+    "provjeriti: stanje objekta - vrlo niska vrijednost upućuje na ruševno stanje",
+    "depopulacijsko selo - slaba likvidnost"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "267061a71a1d",
+  "scored_at": "2026-07-24T08:24:56.135609"
+}
