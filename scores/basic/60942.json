@@ -1,0 +1,15 @@
+{
+  "id": "60942",
+  "score_overall": 6.5,
+  "score_lokacija": 8.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "bid",
+  "reasoning": "Trogir je tražena obalna zona blizu Splita s dobrim dugoročnim potencijalom, a zapušteno građevinsko zemljište od 2290 m2 uz 20% popust na prvoj dražbi nudi solidan ulaz. Zemljište zahtijeva čišćenje i provjeru infrastrukture prije gradnje, što snižava ocjenu stanja.",
+  "flags": [
+    "provjeriti: mogućnost gradnje i komunalna infrastruktura"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "0ca8c0b9ffe7",
+  "scored_at": "2026-07-27T09:45:19.468793"
+}

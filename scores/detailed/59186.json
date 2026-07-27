@@ -1,36 +1,36 @@
 {
   "id": "59186",
-  "score_overall": 4.9,
+  "score_overall": 4.8,
   "score_lokacija": 3.0,
   "score_roi": 6.5,
-  "score_stanje": 4.5,
+  "score_stanje": 4.0,
   "recommendation": "watch",
-  "reasoning": "Podravska Slatina (Slatina) je manji grad u Virovitičko-podravskoj županiji, jednoj od ekonomski slabijih i depopulacijskih regija Hrvatske, što ograničava likvidnost i potražnju za velikom upravnom zgradom. Popust od 50% na drugoj dražbi je značajan i teoretski privlačan, no tanko tržište i nejasno stanje objekta (opis ne navodi razinu opremljenosti ni potrebu renovacije) smanjuju stvarni ROI potencijal. Namjena 'upravna zgrada' sužava krug kupaca na specifične poslovne/institucionalne investitore, a bez lokalnog agenta i terenskog uvida teško je potvrditi realnu tržišnu vrijednost. Preporuka je pratiti predmet i provesti detaljan due diligence prije eventualne licitacije, posebno oko stanja objekta i tereta na zk.ul.-u.",
+  "reasoning": "Podravska Slatina (Virovitica-Podravinska županija) je manje, ruralno tržište istočne Slavonije s izraženom depopulacijom i slabom likvidnošću nekretnina, posebno za poslovne/upravne objekte uske namjene. 50% popust na drugoj dražbi izgleda atraktivno na papiru, ali suvlasnički dio 7/10 značajno komplicira upravljanje, preprodaju i financiranje. Bez fotografija/opisa stanja i bez mogućnosti web istraživanja tržišta, procjena nosi visok rizik neizvjesnosti dok se ne obavi razgledavanje i provjera suvlasničkih odnosa.",
   "flags": [
-    "provjeriti: stanje objekta (opis ne navodi razinu opremljenosti/potrebu renovacije)",
-    "provjeriti: postoji li zakupnik ili treća osoba u posjedu upravne zgrade",
-    "provjeriti: tereti i upisana prava trećih na zk.ul. 5795 k.o. Podravska Slatina",
-    "provjeriti: mogućnost prenamjene objekta u drugu svrhu (urbanistički uvjeti)"
+    "provjeriti: suvlasnički dio 7/10 – preostala 3/10 u vlasništvu treće strane, mogući spor oko upravljanja/prava prvokupa",
+    "provjeriti: zauzetost nekretnine (najam/korištenje od strane trećih osoba, s obzirom da je riječ o stečajnoj masi bivše poslovne zgrade)",
+    "provjeriti: stvarno stanje objekta (opis ne navodi stanje, uvid moguć samo uz najavu stečajnoj upraviteljici)",
+    "provjeriti: namjena i mogućnost prenamjene 'upravne zgrade' za druge komercijalne svrhe"
   ],
   "market_estimate": {
-    "eur_min": 220000,
-    "eur_max": 380000,
+    "eur_min": 380000,
+    "eur_max": 550000,
     "confidence": "low",
-    "basis": "WebSearch nije bio dostupan u ovoj sesiji pa nema provjerenih usporedivih oglasa; procjena se temelji na općem poznavanju tržišta Slatine/Virovitičko-podravske županije, gdje sudske procjene (troškovna metoda) tipično znatno premašuju stvarne tržišne cijene za poslovne nekretnine u manjim gradovima Slavonije. Preporučuje se angažman lokalnog agenta za potvrdu."
+    "basis": "Web pretraga tržišta nije bila dostupna u ovoj sesiji (alat blokiran); procjena se temelji isključivo na utvrđenoj vrijednosti iz dražbe (555.356,81 EUR za 7/10 dijela, implicira ~790.000 EUR za cijelu nekretninu) i općem poznavanju niskih cijena poslovnih objekata u manjim gradovima istočne Slavonije (tipično 150-300 EUR/m2 za starije upravne/poslovne zgrade izvan glavnih centara)."
   },
   "comparables": [],
-  "investment_strategy": "Reno-flip / prenamjena: kupnja uz veliki popust (druga dražba, 50%), zatim adaptacija upravne zgrade za lokalne poslovne korisnike, skladišnu/uslužnu namjenu ili djelomičnu stambenu konverziju, uz obavezan due diligence tržišta prije ulaganja s obzirom na nisku likvidnost mikrolokacije.",
-  "entry_price_eur": 200000,
+  "investment_strategy": "Preprodaja ili dugoročni zakup lokalnom poduzetniku/proizvodnoj tvrtki uz prethodno rješavanje suvlasničkih odnosa; reno-flip nije primaran jer je riječ o poslovnom, ne stambenom prostoru, pa likvidnost ovisi o pronalasku komercijalnog kupca/zakupca u ograničenom lokalnom tržištu.",
+  "entry_price_eur": 250000,
   "detailed_risks": [
-    "Nedovoljan opis stanja objekta u dokumentaciji dražbe — moguća potreba za značajnim dodatnim ulaganjem",
-    "Slaba likvidnost tržišta u Slatini za veće poslovne/upravne zgrade — dug period do prodaje ili iznajmljivanja",
-    "Stečajna prodaja — mogući dodatni pravni koraci ili osporavanja od strane vjerovnika",
-    "Nepoznati tereti/prava trećih osoba upisana na nekretnini",
-    "Specifična namjena zgrade sužava krug potencijalnih kupaca/zakupaca"
+    "Suvlasništvo 7/10 - kupac ne stječe punu kontrolu nad nekretninom, moguća blokada odluka ili sudski spor s drugim suvlasnikom",
+    "Nepoznato stanje objekta - opis je minimalan, bez fotografija ili detaljnog opisa stanja/opremljenosti",
+    "Slaba likvidnost regije - manji broj potencijalnih kupaca za poslovni prostor u Podravskoj Slatini",
+    "Stečajni postupak - moguća dodatna opterećenja ili potraživanja vezana uz stečajnu masu",
+    "Uska namjena objekta ('upravna zgrada') ograničava krug potencijalnih budućih korisnika/zakupaca"
   ],
-  "upside_scenario": "Uz uspješnu prenamjenu objekta (poslovni prostor za lokalne tvrtke ili institucije) i eventualni priljev EU fondova/infrastrukturnih ulaganja u regiju, vrijednost nekretnine i najamnina mogu rasti 20-30% kroz 2-3 godine.",
-  "downside_scenario": "Ako se ne pronađe kupac ili zakupnik zbog slabe potražnje, nekretnina ostaje neprodana te ide na treću/četvrtu dražbu s dodatnim popustom, uz rizik dugotrajnog vezivanja kapitala i troškova održavanja praznog objekta.",
+  "upside_scenario": "Ako se suvlasnički odnos riješi (otkup preostalog udjela ili sporazum) i objekt se pokaže u dobrom strukturnom stanju, nekretnina se može iznajmiti lokalnoj tvrtki ili preprodati uz umjeren profit u roku 2-3 godine, iskorištavajući nisku ulaznu cijenu nakon 50% popusta.",
+  "downside_scenario": "Ako se dražba ne uspije realizirati ili se pojavi spor oko suvlasništva, imovina ostaje neaktivna i teško utrživa zbog niske potražnje u regiji, a investitor ostaje s nelikvidnom imovinom uskog spektra namjene.",
   "discount_pct": 50.0,
-  "input_hash": "4cc6c8f50d03",
-  "scored_at": "2026-07-09T09:55:32.515177"
+  "input_hash": "27486ca57b3e",
+  "scored_at": "2026-07-27T09:46:48.133750"
 }

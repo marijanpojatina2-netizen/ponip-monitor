@@ -1,0 +1,15 @@
+{
+  "id": "61212",
+  "score_overall": 4.1,
+  "score_lokacija": 4.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Bakovčica kod Koprivnice je periferno ruralno područje sa slabijom likvidnošću, iako veličina posjeda (5554 m2 s voćnjakom i livadom) donekle podiže vrijednost. Mala stambena zgrada od 56 m2 vjerojatno zahtijeva ulaganje, a stanje objekta nije opisano.",
+  "flags": [
+    "provjeriti: stanje kuće i gospodarske zgrade"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "78b634d7c12b",
+  "scored_at": "2026-07-27T09:45:19.470030"
+}

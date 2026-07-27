@@ -1,0 +1,35 @@
+{
+  "id": "60942",
+  "score_overall": 6.4,
+  "score_lokacija": 8.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Zemljište od 2290 m2 u k.o. Trogir nalazi se u vrlo traženoj turističkoj zoni (UNESCO stari grad, blizina Splita i zračne luke), što nosi visoku dugoročnu vrijednost. Popust od svega 20% na prvoj dražbi je umjeren, a procijenjena cijena (~235 EUR/m2) izgleda tržišno realna, ne izrazito povoljna. Ključni nepoznati faktor je stvarna gradivost (urbanistički status, komunalna infrastruktura), zbog čega vrijednost preko 500K EUR i veličina parcele zaslužuju detaljnu due diligence prije licitacije. Web pretraga tržišnih komparabli nije bila dostupna u ovoj sesiji, pa je procjena temeljena na općem poznavanju tržišta Trogira i zahtijeva dodatnu verifikaciju.",
+  "flags": [
+    "provjeriti: urbanistički status i koeficijent izgrađenosti (je li čestica stvarno gradiva prema važećem UPU/GUP-u)",
+    "provjeriti: dostupnost komunalne infrastrukture (struja, voda, kanalizacija, pristupni put)",
+    "provjeriti: teret i upisi na zk.ul. 5446 (moguća prava trećih koja nisu eksplicitno navedena u opisu)",
+    "provjeriti: točnu mikrolokaciju čestice unutar k.o. Trogir (udaljenost od mora/centra bitno mijenja vrijednost)"
+  ],
+  "market_estimate": {
+    "eur_min": 400000,
+    "eur_max": 700000,
+    "confidence": "low",
+    "basis": "Web pretraga nije bila dostupna u ovoj sesiji pa procjena nije potkrijepljena svježim oglasima. Temelji se na općem poznavanju cijena građevinskog zemljišta u Trogiru (okvirno 150-400+ EUR/m2 ovisno o legi, infrastrukturi i urbanističkom statusu); sudska procjena od ~235 EUR/m2 djeluje kao realna sredina raspona za širi obuhvat općine, ali bez potvrde točne lokacije i gradivosti raspon ostaje širok."
+  },
+  "comparables": [],
+  "investment_strategy": "razvoj: ako zemljište ima potvrđenu gradivost i zadovoljavajući koeficijent izgrađenosti, najatraktivnija strategija je izgradnja manjih stambenih/turističkih jedinica (vile, apartmani) za prodaju ili iznajmljivanje; alternativno, kupnja i držanje do poboljšanja urbanističkog statusa (land banking) uz nižu, ali sigurniju maržu.",
+  "entry_price_eur": 390000,
+  "detailed_risks": [
+    "Nepoznat urbanistički status - nije potvrđeno je li čestica unutar građevinskog područja s realnim koeficijentom izgrađenosti",
+    "Nedostatak informacija o komunalnoj infrastrukturi i pristupu, što može bitno povećati trošak privođenja namjeni",
+    "Mogući skriveni tereti na zemljišnoknjižnom ulošku koji nisu navedeni u kratkom opisu",
+    "Nepoznata točna mikrolokacija unutar k.o. Trogir - vrijednost može znatno varirati ovisno o udaljenosti od mora/centra"
+  ],
+  "upside_scenario": "Ako se potvrdi dobra gradivost i infrastruktura, investitor u 2-3 godine gradi nekoliko vila/apartmana za turističko iznajmljivanje ili prodaju u Trogiru, gdje se cijene novogradnje kreću znatno iznad 3000 EUR/m2 izgrađene površine, ostvarujući višestruko veći povrat od cijene zemljišta.",
+  "downside_scenario": "Ako se pokaže da čestica ima ograničenja gradnje (nije u građevinskom području, nizak koeficijent izgrađenosti ili visok trošak komunalnog doprinosa), zemljište ostaje neproduktivna imovina s tekućim troškovima (porez, održavanje) bez mogućnosti brzog razvoja ili preprodaje uz profit.",
+  "discount_pct": 20.0,
+  "input_hash": "0ca8c0b9ffe7",
+  "scored_at": "2026-07-27T09:48:12.738019"
+}

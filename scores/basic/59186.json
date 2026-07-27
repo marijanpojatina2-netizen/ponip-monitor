@@ -1,16 +1,17 @@
 {
   "id": "59186",
   "score_overall": 5.2,
-  "score_lokacija": 3.0,
-  "score_roi": 7.0,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
   "score_stanje": 5.0,
-  "recommendation": "watch",
-  "reasoning": "Podravska Slatina je slabija slavonska lokacija s niskom likvidnošću unatoč velikom popustu od 50% na drugoj dražbi; upravna zgrada od 2150 m2 ima nejasnu namjenu i stanje pa je potreban due diligence prije aktivnog koraka.",
+  "recommendation": "deep_dive",
+  "reasoning": "Podravska Slatina je manji grad u Slavoniji sa slabijom likvidnošću, no druga dražba s 50% popusta na veliku upravnu zgradu s dvorištem (2150 m2) nudi značajan ROI potencijal za investitora spremnog na dugoročniji izlazak. Suvlasnički dio 7/10 i nepoznata namjena/stanje objekta zahtijevaju detaljnu due diligence prije licitacije.",
   "flags": [
-    "provjeriti: stanje objekta i mogućnost prenamjene",
-    "provjeriti: potražnja/likvidnost tržišta u Podravskoj Slatini"
+    "suvlasnički dio 7/10 - potrebna suglasnost ili otkup preostalog dijela",
+    "provjeriti: namjena i mogućnost prenamjene objekta",
+    "provjeriti: stanje upravne zgrade"
   ],
   "discount_pct": 50.0,
-  "input_hash": "4cc6c8f50d03",
-  "scored_at": "2026-07-03T09:10:40.869447"
+  "input_hash": "27486ca57b3e",
+  "scored_at": "2026-07-27T09:45:19.470528"
 }

@@ -1,0 +1,16 @@
+{
+  "id": "60746",
+  "score_overall": 2.9,
+  "score_lokacija": 1.5,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Slavonske Bare u Virovitičko-podravskoj županiji je duboko depopulacijsko ruralno područje s vrlo slabom likvidnošću tržišta, unatoč simboličnoj cijeni od 1600 EUR. Nema podataka o stanju objekta, a nizak apsolutni iznos ne opravdava angažman zbog ograničene mogućnosti izlaska iz investicije.",
+  "flags": [
+    "provjeriti: stanje nekretnine",
+    "provjeriti: mogućnost preprodaje s obzirom na depopulacijsko područje"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "480c9341d2e7",
+  "scored_at": "2026-07-27T09:45:19.470366"
+}

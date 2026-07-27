@@ -1,0 +1,15 @@
+{
+  "id": "61219",
+  "score_overall": 5.4,
+  "score_lokacija": 5.5,
+  "score_roi": 5.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Stan u Rijeci na periferiji (Draga/Tijani) ima standardnu likvidnost za manji stan, a 20% popust na prvoj dražbi je uobičajen bez posebnog ROI iskoka. Nema podataka o stvarnom stanju i useljenosti stana pa je potrebna dodatna provjera prije odluke.",
+  "flags": [
+    "provjeriti: stanje i useljenost stana"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "da64ca111c94",
+  "scored_at": "2026-07-27T09:45:19.469249"
+}

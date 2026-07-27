@@ -1,0 +1,15 @@
+{
+  "id": "60958",
+  "score_overall": 5.7,
+  "score_lokacija": 7.5,
+  "score_roi": 5.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Kaštel Novi je atraktivna obalna lokacija u splitskoj regiji s dobrim dugoročnim ROI potencijalom za građevinsko zemljište. Ipak, radi se tek o suvlasničkom dijelu (1005/3445) što bitno ograničava kontrolu, mogućnost samostalne prodaje i likvidnost ulaganja.",
+  "flags": [
+    "suvlasnički dio 1005/3445 - ograničena kontrola i likvidnost"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "ca1fa6d3356b",
+  "scored_at": "2026-07-27T09:45:19.469726"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "61221",
+  "score_overall": 6.1,
+  "score_lokacija": 7.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.5,
+  "recommendation": "bid",
+  "reasoning": "Solin uz Split je likvidna lokacija s dobrom potražnjom, a stara kamena kuća unatoč potrebi za renovacijom ima karakter i legalan status upisan prije 1968. Nedostatak uporabne dozvole i nepoznat status posjeda zahtijevaju provjeru prije licitacije.",
+  "flags": [
+    "provjeriti: useljenost i posjed nekretnine",
+    "nema uporabne dozvole (legalizirano po starosti objekta)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "45af830181ab",
+  "scored_at": "2026-07-27T09:45:19.469104"
+}
