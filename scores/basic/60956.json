@@ -1,0 +1,15 @@
+{
+  "id": "60956",
+  "score_overall": 4.1,
+  "score_lokacija": 4.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Najmanja čestica u seriji (169 m2, vrijednost svega 544 EUR) gdje transakcijski troškovi mogu nadmašiti realnu korist. Investicijski case je slab, eventualno zanimljivo tek kao dodatak uz susjedne čestice iste serije.",
+  "flags": [
+    "provjeriti: pristup čestici i komunalna infrastruktura"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "8a2861c8c8d4",
+  "scored_at": "2026-07-28T08:31:06.429789"
+}

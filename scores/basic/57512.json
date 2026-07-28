@@ -1,0 +1,15 @@
+{
+  "id": "57512",
+  "score_overall": 4.0,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Kuća s okućnicom i gospodarskom zgradom u selu Zbelava kraj Ivanca, periferna ruralna lokacija sa slabijom potražnjom. Standardni popust od 20% na prvoj dražbi ne kompenzira nisku likvidnost ovog tržišta.",
+  "flags": [
+    "provjeriti: useljenost nekretnine"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "b96695d3f87f",
+  "scored_at": "2026-07-28T08:30:13.659185"
+}

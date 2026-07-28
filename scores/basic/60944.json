@@ -1,0 +1,15 @@
+{
+  "id": "60944",
+  "score_overall": 4.8,
+  "score_lokacija": 5.5,
+  "score_roi": 5.0,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Građevinsko zemljište od 550 m2 u naselju Roč, unutrašnjost Istre s umjerenom potražnjom. Nekretnina ne graniči izravno s javnim putom što bitno otežava buduću izgradnju i smanjuje realnu iskoristivost.",
+  "flags": [
+    "nema izravan pristup javnom putu"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "01ddbb9116a9",
+  "scored_at": "2026-07-28T08:30:13.659871"
+}

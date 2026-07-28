@@ -1,0 +1,15 @@
+{
+  "id": "60966",
+  "score_overall": 4.2,
+  "score_lokacija": 5.5,
+  "score_roi": 4.5,
+  "score_stanje": 1.5,
+  "recommendation": "pass",
+  "reasoning": "Livada na strmini jugozapadno od Roča, obrasla drvenom masom i niskim raslinjem, najslabijeg stanja od svih čestica u nizu. Vrlo niska vrijednost i loša iskoristivost terena čine ovo najmanje zanimljivim predmetom za ulaganje.",
+  "flags": [
+    "provjeriti: mogućnost gospodarskog korištenja zemljišta s obzirom na nagib i obraslost"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "c7143609a378",
+  "scored_at": "2026-07-28T08:30:13.660571"
+}

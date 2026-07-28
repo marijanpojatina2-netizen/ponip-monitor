@@ -1,0 +1,16 @@
+{
+  "id": "60962",
+  "score_overall": 4.8,
+  "score_lokacija": 5.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Čestica je šuma od 774 m2 na strmini jugozapadno od Roča pa stanje odgovara namjeni bez potrebe za dodatnim ulaganjem. Ipak, mala vrijednost i tek 20% popust na prvoj dražbi ograničavaju kratkoročni ROI.",
+  "flags": [
+    "provjeriti: pristup čestici",
+    "provjeriti: šumskogospodarska ograničenja/uvjeti sječe"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "c0578eaa66cd",
+  "scored_at": "2026-07-28T08:31:06.429252"
+}

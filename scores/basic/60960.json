@@ -1,0 +1,15 @@
+{
+  "id": "60960",
+  "score_overall": 4.3,
+  "score_lokacija": 4.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Manja livada od 468 m2 obrasla niskim raslinjem i rijetkom šumom, niska apsolutna vrijednost povećava relativni udio transakcijskih troškova. Slab ROI potencijal uz samo 20% popusta na prvoj dražbi.",
+  "flags": [
+    "provjeriti: pristup čestici i komunalna infrastruktura"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "83f5e828f863",
+  "scored_at": "2026-07-28T08:31:06.429564"
+}

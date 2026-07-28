@@ -1,0 +1,15 @@
+{
+  "id": "61188",
+  "score_overall": 4.1,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Obiteljska kuća s dvorištem i pomoćnim zgradama u Slatini (Virovitičko-podravska županija), slabija ruralna lokacija s ograničenom likvidnošću tržišta. Prva dražba uz standardni popust od 20% ne nudi dovoljnu sigurnosnu maržu za ovu regiju.",
+  "flags": [
+    "provjeriti: useljenost/posjed nekretnine"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "71d247446fa0",
+  "scored_at": "2026-07-28T08:30:13.658427"
+}
