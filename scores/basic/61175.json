@@ -1,0 +1,15 @@
+{
+  "id": "61175",
+  "score_overall": 3.6,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Kuća s gospodarskim zgradama u Ladimirevcima (okolica Valpova) nalazi se u ruralnom, slabije naseljenom dijelu Slavonije s ograničenom likvidnošću tržišta. Popust od 20% na prvoj dražbi ne opravdava rizik ulaganja u ovakvu lokaciju.",
+  "flags": [
+    "provjeriti: stanje kuće i gospodarskih zgrada"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "7d370e4c5445",
+  "scored_at": "2026-07-29T08:39:43.650972"
+}

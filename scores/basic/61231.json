@@ -1,0 +1,15 @@
+{
+  "id": "61231",
+  "score_overall": 3.9,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Bapska je pogranično selo u depopulacijskom području istočne Slavonije s niskom likvidnošću tržišta, a popust od svega 20% na prvoj dražbi ne kompenzira slab lokacijski potencijal. Kuća je manja i standardna, bez naznaka posebnog stanja ili dodane vrijednosti.",
+  "flags": [
+    "provjeriti: suvlasnički dio 1/2 - preostali suvlasnik može otežati raspolaganje i prodaju nekretnine"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "c98f8f33927e",
+  "scored_at": "2026-07-29T08:40:31.016658"
+}

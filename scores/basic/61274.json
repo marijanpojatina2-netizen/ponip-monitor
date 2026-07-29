@@ -1,0 +1,16 @@
+{
+  "id": "61274",
+  "score_overall": 4.5,
+  "score_lokacija": 5.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Nekretnina u Ivanić Gradu (blizina Zagreba) ima pristojan popust od 25%, no kupuje se samo suvlasnički dio (216/384) na dvije zasebne zk.ul. čestice, što bitno ograničava kontrolu i likvidnost ulaganja. Potreban je due diligence oko ostalih suvlasnika prije razmatranja ozbiljne ponude.",
+  "flags": [
+    "suvlasnički dio 216/384 - prodaje se samo idealni dio",
+    "provjeriti: identitet i namjere preostalih suvlasnika"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "ae6484c851d1",
+  "scored_at": "2026-07-29T08:39:43.650690"
+}

@@ -1,16 +1,16 @@
 {
   "id": "59589",
-  "score_overall": 6.9,
-  "score_lokacija": 6.5,
+  "score_overall": 7.4,
+  "score_lokacija": 7.0,
   "score_roi": 9.0,
-  "score_stanje": 3.0,
+  "score_stanje": 4.5,
   "recommendation": "deep_dive",
-  "reasoning": "Zemljište uz jezero Rakitje kraj Zagreba, tražena rekreacijska zona blizu grada, na trećoj dražbi s izuzetnim popustom od 50%. Radi se o neizgrađenom oranici pa treba provjeriti mogućnost prenamjene i komunalnu infrastrukturu prije ozbiljnijeg koraka.",
+  "reasoning": "Zemljište uz jezero Rakitje u Lučkom, na periferiji Zagreba, izuzetno je atraktivna rekreacijska lokacija s velikom likvidnošću, a popust od 75% na trećoj dražbi uz veliku površinu (3987 m2) daje izniman ROI potencijal. Radi se o neizgrađenom zemljištu (oranica) pa je potreban dodatni kapital za privođenje namjeni, no diskont i lokacija opravdavaju detaljnu analizu.",
   "flags": [
-    "provjeriti: namjena zemljišta (oranica) i mogućnost prenamjene/gradnje",
-    "provjeriti: komunalna infrastruktura i pristup"
+    "provjeriti: neusklađenost oznake čestice (kč.br. 4434 vs. sada kč.br. 296) između zk. uloška i katastra",
+    "provjeriti: stvarna namjena i mogućnost gradnje na zemljištu uz jezero (prostorni plan, oranica)"
   ],
-  "discount_pct": 50.0,
-  "input_hash": "a3bba229968e",
-  "scored_at": "2026-07-07T09:50:08.512880"
+  "discount_pct": 75.0,
+  "input_hash": "00a0cfb6b6aa",
+  "scored_at": "2026-07-29T08:40:31.017101"
 }

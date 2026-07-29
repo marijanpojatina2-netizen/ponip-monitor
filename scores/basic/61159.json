@@ -1,0 +1,15 @@
+{
+  "id": "61159",
+  "score_overall": 5.0,
+  "score_lokacija": 5.0,
+  "score_roi": 5.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Manja kuća u Čakovcu (sjedište Međimurske županije) nudi umjeren potencijal uz popust od 20% na prvoj dražbi, uz razumnu lokalnu likvidnost tržišta. Mala površina i nedostatak podataka o stanju objekta zahtijevaju dodatnu provjeru prije ozbiljnijeg koraka.",
+  "flags": [
+    "provjeriti: stanje i starost kuće"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "8b7ca3762afb",
+  "scored_at": "2026-07-29T08:39:43.651102"
+}

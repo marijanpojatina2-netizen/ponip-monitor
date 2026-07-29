@@ -1,0 +1,15 @@
+{
+  "id": "60990",
+  "score_overall": 6.0,
+  "score_lokacija": 6.0,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "bid",
+  "reasoning": "Poslovni prostor u podrumu u Sesvetama (Zagreb) uz solidan popust od 25% na prvoj dražbi predstavlja likvidnu i realnu priliku za manju investiciju. Lokacija na širem području Zagreba osigurava dobru likvidnost i potražnju.",
+  "flags": [
+    "provjeriti: trenutačno stanje i pristupačnost podrumskog prostora"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "36c98ae4bcdb",
+  "scored_at": "2026-07-29T08:39:43.650094"
+}

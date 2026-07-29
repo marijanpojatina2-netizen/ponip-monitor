@@ -1,0 +1,15 @@
+{
+  "id": "61190",
+  "score_overall": 3.4,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Kuća s okućnicom u Batinjanima (okolica Pakraca) nalazi se u ruralnom području slabe likvidnosti i potražnje, a standardni popust od 20% na prvoj dražbi ne mijenja slab investicijski profil. Mali obujam nekretnine dodatno ograničava ROI potencijal.",
+  "flags": [
+    "provjeriti: stanje objekata i pristupna infrastruktura"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "7c37a8fd7d24",
+  "scored_at": "2026-07-29T08:39:43.651286"
+}

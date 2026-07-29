@@ -1,0 +1,15 @@
+{
+  "id": "61280",
+  "score_overall": 3.8,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Vođinci su malo selo kraj Vinkovaca u slabije razvijenom dijelu Slavonije, a mali suvlasnički udio od 10/48 dodatno otežava iskoristivost i prodaju. Popust od 20% na prvoj dražbi nije dovoljan poticaj s obzirom na nisku likvidnost i fragmentirano vlasništvo.",
+  "flags": [
+    "provjeriti: mali suvlasnički udio (10/48) - ograničena mogućnost raspolaganja i otežana prodaja na tržištu"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "29e3d68800bc",
+  "scored_at": "2026-07-29T08:40:31.016999"
+}

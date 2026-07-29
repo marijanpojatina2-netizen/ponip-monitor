@@ -1,0 +1,15 @@
+{
+  "id": "61173",
+  "score_overall": 3.3,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Ruralna parcela s manjim potkućnicama u k.o. Klisa (Pakrac) nalazi se u depopulacijskom području slabe likvidnosti, a popust od 20% ne kompenzira slab investicijski potencijal. Mala vrijednost i nejasno stanje objekata dodatno smanjuju atraktivnost.",
+  "flags": [
+    "provjeriti: stanje i pristupačnost ruralnih parcela"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "d48af867d719",
+  "scored_at": "2026-07-29T08:39:43.650316"
+}
