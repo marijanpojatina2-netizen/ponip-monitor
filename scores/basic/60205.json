@@ -1,0 +1,16 @@
+{
+  "id": "60205",
+  "score_overall": 4.6,
+  "score_lokacija": 4.0,
+  "score_roi": 6.5,
+  "score_stanje": 1.5,
+  "recommendation": "pass",
+  "reasoning": "Nekretnina kod Novog Siska je opisana kao deponija (odlagalište) površine 10002 m2, što unatoč formalno 100% popustu i početnoj cijeni od 1 EUR na četvrtoj dražbi signalizira ozbiljan ekološki i pravni rizik, a ne priliku. Zemljište kao takvo je praktički neupotrebljivo bez skupe sanacije.",
+  "flags": [
+    "zemljište opisano kao deponija (odlagalište otpada)",
+    "provjeriti: stupanj kontaminacije tla i trošak eventualne sanacije"
+  ],
+  "discount_pct": 100.0,
+  "input_hash": "f5f8aed361b2",
+  "scored_at": "2026-07-30T08:23:29.694602"
+}

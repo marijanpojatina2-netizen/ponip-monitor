@@ -1,0 +1,13 @@
+{
+  "id": "60064",
+  "score_overall": 4.5,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Nekretnina u k.o. Bistrica kraj Slatine sastoji se pretežno od gospodarske zgrade i dvorišta bez stambenog objekta, u slabo likvidnoj ruralnoj slavonskoj regiji. Iako je popust od 40% na drugoj dražbi nominalno privlačan, slaba lokacija i namjena objekta ograničavaju investicijski potencijal.",
+  "flags": [],
+  "discount_pct": 40.0,
+  "input_hash": "f7a30d7b3608",
+  "scored_at": "2026-07-30T08:21:55.976089"
+}

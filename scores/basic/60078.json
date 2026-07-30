@@ -1,0 +1,16 @@
+{
+  "id": "60078",
+  "score_overall": 4.5,
+  "score_lokacija": 3.0,
+  "score_roi": 6.5,
+  "score_stanje": 2.5,
+  "recommendation": "watch",
+  "reasoning": "Radi se o pašnjaku od 3350 m2 u k.o. Pisarovina, ruralnom području južno od Zagreba bez naznake gradivosti ili infrastrukture. Popust od 40% na drugoj dražbi i niska ulazna cijena čine rizik ograničenim, ali likvidnost i razvojni potencijal ovakve poljoprivredne parcele su upitni.",
+  "flags": [
+    "provjeriti: namjena i gradivost čestice (pašnjak)",
+    "provjeriti: pristup/infrastruktura do parcele"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "18f289b5326c",
+  "scored_at": "2026-07-30T08:23:45.596626"
+}

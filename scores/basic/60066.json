@@ -1,0 +1,15 @@
+{
+  "id": "60066",
+  "score_overall": 4.3,
+  "score_lokacija": 2.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Bistrica kod Slatine je ruralna slavonska lokacija, a iako je popust 40% na drugoj dražbi, apsolutna vrijednost od svega 3660 EUR čini posao premalen za ozbiljan investicijski interes. Manja kuća s voćnjakom vjerojatno zahtijeva ulaganje bez jasnih podataka o stanju.",
+  "flags": [
+    "provjeriti: stanje kuće"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "edb5c857f63c",
+  "scored_at": "2026-07-30T08:23:29.694324"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "60014",
+  "score_overall": 5.2,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Manja kuća s dvorištem u centru Podravske Slatine uz 40% popusta na drugoj dražbi nudi pristojan ROI unatoč skromnoj lokaciji u slavonskom gradiću. Suvlasništvo triju ovršenika u jednakim dijelovima ne predstavlja poseban pravni rizik jer se prodaje cijela nekretnina, no vrijednost je ograničena veličinom i lokacijom.",
+  "flags": [],
+  "discount_pct": 40.0,
+  "input_hash": "8461a2ee263d",
+  "scored_at": "2026-07-30T08:21:55.976577"
+}

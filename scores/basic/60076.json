@@ -1,0 +1,16 @@
+{
+  "id": "60076",
+  "score_overall": 5.1,
+  "score_lokacija": 4.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Sud je u Novom Zagrebu, ali nekretnina se nalazi u Pisarovini (šuma i oranice, bez objekata), što je periferno ruralno područje s ograničenom likvidnošću unatoč 40% popustu. Bez građevina ROI ovisi isključivo o vrijednosti zemljišta.",
+  "flags": [
+    "provjeriti: stvarna lokacija je Pisarovina, sudska nadležnost ne određuje mjesto",
+    "provjeriti: pristupni putovi i namjena zemljišta"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "81187d3627b5",
+  "scored_at": "2026-07-30T08:23:29.693638"
+}

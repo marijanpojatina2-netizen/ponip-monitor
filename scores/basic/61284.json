@@ -1,0 +1,13 @@
+{
+  "id": "61284",
+  "score_overall": 4.2,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Kuća s dvorištem u Mirkovcima kraj Vinkovaca na prvoj je dražbi uz tek 20% popusta bez dodatnog bonusa, u regiji sa slabijom likvidnošću nekretnina. Standardno stanje objekta ne kompenzira slabu lokaciju i ograničen popust.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "8196eb213a17",
+  "scored_at": "2026-07-30T08:21:55.976270"
+}

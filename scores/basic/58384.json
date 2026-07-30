@@ -1,0 +1,16 @@
+{
+  "id": "58384",
+  "score_overall": 6.6,
+  "score_lokacija": 5.5,
+  "score_roi": 9.0,
+  "score_stanje": 3.0,
+  "recommendation": "deep_dive",
+  "reasoning": "K.o. Martinac pod nadležnošću Trgovačkog suda u Pazinu upućuje na unutrašnjost Istre, regiju s dugoročnim potencijalom čak i izvan obale, a treća dražba s 75% popusta je izniman ROI signal. Kuća i zemljište vjerojatno zahtijevaju temeljitu obnovu nakon dvije neuspjele dražbe, pa zaslužuje detaljnu terensku provjeru.",
+  "flags": [
+    "provjeriti: stanje kuće (ruševnost nakon dvije neuspjele dražbe)",
+    "provjeriti: točna udaljenost k.o. Martinac od obale i glavnih prometnica"
+  ],
+  "discount_pct": 75.0,
+  "input_hash": "f4a4cc313aab",
+  "scored_at": "2026-07-30T08:23:29.694133"
+}

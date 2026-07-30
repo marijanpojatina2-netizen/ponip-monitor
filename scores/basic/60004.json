@@ -1,0 +1,15 @@
+{
+  "id": "60004",
+  "score_overall": 4.4,
+  "score_lokacija": 2.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Identična situacija kao susjedna čestica u Čađavici - ruralna Slavonija uz solidan 40% popust na drugoj dražbi za oranicu od 11509 m2. Bez objekata, ROI ovisi o poljoprivrednoj iskoristivosti.",
+  "flags": [
+    "provjeriti: pristup i namjena zemljišta"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "590761501d54",
+  "scored_at": "2026-07-30T08:23:29.693989"
+}

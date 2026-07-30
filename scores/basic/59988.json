@@ -1,0 +1,15 @@
+{
+  "id": "59988",
+  "score_overall": 4.8,
+  "score_lokacija": 2.5,
+  "score_roi": 7.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Bistrinci kraj Valpova su ruralna slavonska lokacija, ali 40% popusta na drugoj dražbi daje solidan ROI potencijal za veliku česticu (1800 m2) s oranicom i zgradama. Stanje zgrada nije opisano pa je nužna provjera prije ulaganja.",
+  "flags": [
+    "provjeriti: stanje zgrada"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "45ae7ee7097c",
+  "scored_at": "2026-07-30T08:23:29.693391"
+}

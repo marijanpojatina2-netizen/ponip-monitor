@@ -1,0 +1,35 @@
+{
+  "id": "57334",
+  "score_overall": 4.4,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Nekretnina je bivša željeznička stanica (kolodvor) s 2100 m2 zemljišta/objekta u k.o. Štikada, općina Gračac – duboko ruralno, depopulacijsko područje uz neaktivnu/rijetko korištenu Ličku prugu, bez turističke ili stambene potražnje. Utvrđena vrijednost od 669.960 EUR djeluje kao knjigovodstvena/zamjenska vrijednost infrastrukturnog objekta, a ne realna tržišna vrijednost za ovakvu lokaciju i tip nekretnine, što čini nominalni popust od 100% zavaravajućim. Četvrta dražba i cijena od 1 EUR ukazuju na potpuni izostanak interesa kod prethodne tri dražbe, no jamčevina od 66.996 EUR i dalje je vezana uz procijenjenu vrijednost, pa stvarni ulaz neće biti blizu 1 EUR. Bez terenskog uvida u stanje objekta i mogućnost prenamjene, riječ je o špekulativnoj niche imovini koju treba pratiti, a ne odmah licitirati.",
+  "flags": [
+    "provjeriti: stvarno stanje i uporabljivost objekta kolodvora (dugotrajno zapušten uz neaktivnu prugu)",
+    "provjeriti: postoji li služnost/teret vezan uz bivšu željezničku infrastrukturu (HŽ Infrastruktura)",
+    "provjeriti: komunalna infrastruktura, pristupni putevi i mogućnost prenamjene građevine",
+    "provjeriti: razlog izostanka ponuđača na prethodne tri dražbe"
+  ],
+  "market_estimate": {
+    "eur_min": 40000,
+    "eur_max": 150000,
+    "confidence": "low",
+    "basis": "Nema dostupnih tržišnih usporedivih transakcija za ovaj tip imovine (bivši željeznički kolodvor) u depopulacijskom području Gračaca; procjena je gruba, temeljena na cijeni ruralnog zemljišta/napuštenih objekata u Lici i visokoj neizvjesnosti oko realne namjene. Web pretraga nije bila dostupna u ovoj sesiji pa nema konkretnih poveznica."
+  },
+  "comparables": [],
+  "investment_strategy": "razvoj/prenamjena – jedina realna strategija je kupnja po niskoj cijeni (blizu jamčevine) uz naknadnu prenamjenu velike parcele (2100 m2) u nešto poput skladišta, solarne elektrane, ili niche turističkog/glamping projekta vezanog uz obližnji kanjon Zrmanje; klasična preprodaja ili iznajmljivanje nisu realni zbog odsutnosti potražnje u regiji.",
+  "entry_price_eur": 70000,
+  "detailed_risks": [
+    "Iznimno niska likvidnost – teško pronaći budućeg kupca u depopulacijskom području",
+    "Moguća pravna ograničenja vezana uz bivšu željezničku infrastrukturu (služnosti, obveze prema HŽ-u)",
+    "Nepoznato stvarno stanje objekta – rizik visokih troškova sanacije",
+    "Procijenjena vrijednost vjerojatno ne odražava realnu tržišnu vrijednost, što otežava izlaznu strategiju"
+  ],
+  "upside_scenario": "Ako se dokaže čisto vlasništvo bez tereta i objekt se jeftino sanira, velika parcela od 2100 m2 uz staru prugu mogla bi se prenamijeniti u industrijsko-skladišni ili turistički niche projekt (npr. uz razvoj biciklističke/turističke rute duž stare pruge), s realizacijom vrijednosti 3-5x od ulazne cijene u 3-5 godina.",
+  "downside_scenario": "Ako se potvrde tereti/služnosti ili je objekt strukturalno neupotrebljiv, imovina ostaje neprodajna i nakon ove dražbe, kapital ostaje zarobljen u niche imovini bez izlazne strategije.",
+  "discount_pct": 100.0,
+  "input_hash": "7e8f249ad531",
+  "scored_at": "2026-07-30T08:25:32.086043"
+}

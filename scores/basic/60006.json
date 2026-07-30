@@ -1,0 +1,15 @@
+{
+  "id": "60006",
+  "score_overall": 4.4,
+  "score_lokacija": 2.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Čađavica kod Slatine je duboko ruralna slavonska lokacija, no velika oranica (12994 m2) uz 40% popusta na drugoj dražbi nudi pristojan ROI za poljoprivrednog investitora. Nema građevina pa je stanje ograničeno na kvalitetu zemljišta.",
+  "flags": [
+    "provjeriti: pristup i namjena zemljišta"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "57b5c835028f",
+  "scored_at": "2026-07-30T08:23:29.693827"
+}

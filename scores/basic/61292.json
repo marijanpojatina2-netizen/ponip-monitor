@@ -1,0 +1,15 @@
+{
+  "id": "61292",
+  "score_overall": 4.5,
+  "score_lokacija": 3.0,
+  "score_roi": 5.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Jarmina je ruralno selo kraj Vinkovaca u depopulacijskom području Slavonije, a prva dražba nudi tek 20% popusta što je slab ROI signal. Kuća od 83 m2 djeluje standardno ali bez detalja o stanju.",
+  "flags": [
+    "provjeriti: stanje i useljenost kuće"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "1f39f08fa8c5",
+  "scored_at": "2026-07-30T08:23:29.693144"
+}

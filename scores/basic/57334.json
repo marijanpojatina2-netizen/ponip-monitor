@@ -1,0 +1,17 @@
+{
+  "id": "57334",
+  "score_overall": 4.5,
+  "score_lokacija": 1.5,
+  "score_roi": 7.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Bivši željeznički kolodvor u Štikadi (duboka Lika, depopulacijsko područje) s početnom cijenom od samo 1 EUR na četvrtoj dražbi ukazuje na slab interes i potencijalno problematičnu namjenu objekta. Nominalni popust je ogroman, ali nestandardna nekretnina i slaba lokacija čine likvidnost i realnu monetizaciju vrlo upitnom.",
+  "flags": [
+    "provjeriti: namjena i mogućnost korištenja bivšeg kolodvorskog objekta",
+    "provjeriti: razlog vrlo niske početne cijene i četvrte uzastopne dražbe",
+    "provjeriti: stvarno stanje i useljivost/uporabljivost zgrade"
+  ],
+  "discount_pct": 100.0,
+  "input_hash": "7e8f249ad531",
+  "scored_at": "2026-07-30T08:21:55.975276"
+}

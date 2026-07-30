@@ -1,0 +1,13 @@
+{
+  "id": "61259",
+  "score_overall": 4.2,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Poljoprivredno zemljište s kućom u Mirkovcima (pretežno oranica) na prvoj dražbi ima tek 20% popusta u regiji sa slabijom potražnjom za nekretninama. Veličina parcele je zanimljiva za poljoprivrednu namjenu, ali investicijski potencijal za stambeno/turističko iskorištavanje je nizak.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "fbd29deac5c1",
+  "scored_at": "2026-07-30T08:21:55.976424"
+}
