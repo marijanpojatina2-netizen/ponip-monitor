@@ -1,0 +1,13 @@
+{
+  "id": "61310",
+  "score_overall": 3.8,
+  "score_lokacija": 1.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Veća oranica od 14386 m2 (1,44 ha) u k.o. Bošnjaci uz nisku cijenu po m2 nudi bolji omjer za poljoprivredno ulaganje unatoč skromnom 20% popustu na prvoj dražbi. Lokacija ostaje slaba točka zbog depopulacije istočne Slavonije.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "b937efbeb39c",
+  "scored_at": "2026-07-31T08:47:23.412434"
+}

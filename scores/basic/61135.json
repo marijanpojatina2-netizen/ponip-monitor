@@ -1,0 +1,15 @@
+{
+  "id": "61135",
+  "score_overall": 3.9,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Manja kuća u zaseoku kraj Konjščine (Zagorje) ima ograničen ROI zbog tek 20% popusta na prvoj dražbi, no zagorska ruralna lokacija ima nešto bolju likvidnost od istočne Slavonije. Stanje objekta i useljivost nisu poznati iz opisa.",
+  "flags": [
+    "provjeriti: stanje kuće i useljivost"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "0ed691504299",
+  "scored_at": "2026-07-31T08:47:23.411485"
+}

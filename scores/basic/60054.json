@@ -1,0 +1,16 @@
+{
+  "id": "60054",
+  "score_overall": 6.8,
+  "score_lokacija": 9.0,
+  "score_roi": 7.0,
+  "score_stanje": 2.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Zemljište u Svirčama na otoku Hvaru, vrhunska turistička lokacija unatoč tome što je sud u Splitu tek nadležnost a ne mjesto nekretnine. Parcela je vrlo mala (114 m2, pašnjak/oranica) pa potencijal ovisi o mogućnosti gradnje ili spajanja sa susjednim česticama, uz popust od 40% na drugoj dražbi.",
+  "flags": [
+    "provjeriti: građevinska/urbanistička namjena i mogućnost gradnje na maloj parceli",
+    "provjeriti: pristup parceli i infrastruktura"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "df6a16fe15b5",
+  "scored_at": "2026-07-31T08:48:06.180313"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "60090",
+  "score_overall": 6.8,
+  "score_lokacija": 6.5,
+  "score_roi": 8.5,
+  "score_stanje": 3.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Zemljište u poslovnoj zoni Rupa (UPU 23, K11) na prometnom pravcu Rijeka-Trst-Ljubljana uz granični prijelaz ima najveći popust od svih (50%) na drugoj dražbi, što uz stratešku poslovnu namjenu daje visok dugoročni potencijal. Radi se o sirovom zemljištu bez objekta pa je potrebna detaljna analiza infrastrukture i mogućnosti gradnje.",
+  "flags": [
+    "provjeriti: pristupna infrastruktura i uvjeti gradnje prema UPU 23"
+  ],
+  "discount_pct": 50.0,
+  "input_hash": "ea371de55ec9",
+  "scored_at": "2026-07-31T08:46:22.222331"
+}

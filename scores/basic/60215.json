@@ -1,0 +1,13 @@
+{
+  "id": "60215",
+  "score_overall": 4.7,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Kuća s oranicom u Podravskoj Slatini na drugoj dražbi ima dobar popust (40%) ali lokacija u depopulacijskom području Slavonije ograničava likvidnost. Vlasništvo je čisto 1/1 što smanjuje pravni rizik.",
+  "flags": [],
+  "discount_pct": 40.0,
+  "input_hash": "b2650c550a82",
+  "scored_at": "2026-07-31T08:46:22.222145"
+}

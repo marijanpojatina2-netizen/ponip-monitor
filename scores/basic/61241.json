@@ -1,0 +1,15 @@
+{
+  "id": "61241",
+  "score_overall": 3.2,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Šumsko zemljište u Špišić Bukovici kraj Virovitice, izrazito ruralno i depopulacijsko područje sa slabom likvidnošću. Popust od samo 20% na prvoj dražbi ne kompenzira nisku vrijednost i namjenu zemljišta.",
+  "flags": [
+    "provjeriti: pristupni put do šumske parcele"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "6e50243dfc36",
+  "scored_at": "2026-07-31T08:48:06.180133"
+}

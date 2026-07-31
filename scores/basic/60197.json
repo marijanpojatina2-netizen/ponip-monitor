@@ -1,0 +1,15 @@
+{
+  "id": "60197",
+  "score_overall": 5.3,
+  "score_lokacija": 4.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Poslovna zgrada u Trnovcu kraj Čakovca ima dobar popust (40%) na drugoj dražbi, ali prodaje se samo 1/2 suvlasničkog dijela što komplicira upravljanje i preprodaju. Stanje objekta nije opisano pa nosi dodatni rizik.",
+  "flags": [
+    "provjeriti: prodaje se samo 1/2 suvlasničkog dijela (2. suvlasnički dio)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "80f0bc478ffe",
+  "scored_at": "2026-07-31T08:46:22.221467"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "60195",
+  "score_overall": 5.1,
+  "score_lokacija": 4.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća u Trnovcu kraj Čakovca ima solidniju regionalnu lokaciju uz 40% popusta i drugu dražbu, ali predmet prodaje je samo 1/2 suvlasničkog dijela nekretnine što bitno otežava upravljanje i realizaciju vrijednosti. Stara katastarska mjera (čhv) upućuje na stariji, vjerojatno zapušten objekt.",
+  "flags": [
+    "suvlasnički dio (1/2) - kupnja samo idealnog udjela nekretnine",
+    "provjeriti: stanje objekta"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "bd48aabf5046",
+  "scored_at": "2026-07-31T08:47:23.412258"
+}

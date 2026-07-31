@@ -1,0 +1,15 @@
+{
+  "id": "61308",
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Poljoprivredno zemljište (oranice) u Bošnjacima kraj Vinkovaca, ruralno depopulacijsko područje s niskom likvidnošću tržišta. Popust od tek 22,6% na prvoj dražbi i nizak apsolutni iznos ne daju atraktivan ROI za investitora.",
+  "flags": [
+    "provjeriti: pristupni put i katastarske granice parcela"
+  ],
+  "discount_pct": 22.6,
+  "input_hash": "cf5feaad1e2d",
+  "scored_at": "2026-07-31T08:48:06.179572"
+}

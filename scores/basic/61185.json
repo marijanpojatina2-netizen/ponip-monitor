@@ -1,0 +1,15 @@
+{
+  "id": "61185",
+  "score_overall": 4.2,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Kuća s okućnicom u Orahovici na prvoj dražbi nudi tek 20% popusta, što uz slabiju likvidnost slavonske regije ne opravdava ulazak. Ranija promjena zk.ul. oznake sugerira potrebu provjere usklađenosti gruntovnog stanja.",
+  "flags": [
+    "provjeriti: usklađenost zemljišnoknjižnog stanja (ranija oznaka z.k.ul. 1481)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "112b7d75963b",
+  "scored_at": "2026-07-31T08:46:22.221324"
+}

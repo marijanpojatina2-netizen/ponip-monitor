@@ -1,0 +1,16 @@
+{
+  "id": "60161",
+  "score_overall": 4.9,
+  "score_lokacija": 4.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Oranica u Selnici kraj Čakovca s solidnim popustom od 40% na drugoj dražbi, no prodaje se samo 1/2 suvlasničkog dijela što bitno komplicira upravljanje i buduću prodaju. Međimurska poljoprivredna zona ima umjerenu likvidnost, ali čist status vlasništva nedostaje.",
+  "flags": [
+    "prodaje se samo 1/2 suvlasničkog dijela (suvlasništvo)",
+    "provjeriti: mogućnost fizičke diobe ili otkupa drugog suvlasničkog dijela"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "de711ca609fb",
+  "scored_at": "2026-07-31T08:48:06.179891"
+}

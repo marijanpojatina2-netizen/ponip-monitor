@@ -1,0 +1,16 @@
+{
+  "id": "60048",
+  "score_overall": 5.5,
+  "score_lokacija": 5.0,
+  "score_roi": 6.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Opel Vivaro iz 2018. na drugoj dražbi s 50% popusta izgleda atraktivno, no radi se o pokretnini s inherentno manjim dugoročnim ROI potencijalom od nekretnina i bez podataka o mehaničkom stanju ili kilometraži. Vozilo se nalazi u Splitu što olakšava eventualni pregled prije licitacije.",
+  "flags": [
+    "provjeriti: mehaničko stanje i kilometražu vozila",
+    "provjeriti: mogućnost pregleda vozila prije kupnje"
+  ],
+  "discount_pct": 50.0,
+  "input_hash": "ec2afa62f556",
+  "scored_at": "2026-07-31T08:47:23.411748"
+}

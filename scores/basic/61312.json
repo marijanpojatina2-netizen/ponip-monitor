@@ -1,0 +1,13 @@
+{
+  "id": "61312",
+  "score_overall": 3.5,
+  "score_lokacija": 1.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Dvije manje čestice oranice ukupne površine 7631 m2 u k.o. Bošnjaci imaju nisku apsolutnu vrijednost i tek 20% popusta na prvoj dražbi, uz slabu likvidnost ruralnog tržišta istočne Slavonije. Nema naznaka posebnih prednosti koje bi opravdale aktivan interes.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "387f84711ad7",
+  "scored_at": "2026-07-31T08:47:23.412592"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "59976",
+  "score_overall": 4.8,
+  "score_lokacija": 4.0,
+  "score_roi": 6.5,
+  "score_stanje": 2.5,
+  "recommendation": "watch",
+  "reasoning": "Oranica u Širincu (blizu Ivanić-Grada) na drugoj dražbi s 40% popustom je čisto poljoprivredno zemljište bez objekta, pa je ROI ograničen na dugoročnu promjenu namjene. Suvlasništvo ovrhovoditelja i ovršenika treba dodatno razjasniti.",
+  "flags": [
+    "provjeriti: suvlasnički odnos ovrhovoditelja i ovršenika"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "32c2271799b1",
+  "scored_at": "2026-07-31T08:46:22.221883"
+}

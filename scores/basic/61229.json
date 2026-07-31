@@ -1,0 +1,15 @@
+{
+  "id": "61229",
+  "score_overall": 3.2,
+  "score_lokacija": 1.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Bobota je duboko ruralno, depopulacijsko područje istočne Slavonije s niskom likvidnošću tržišta, a popust od 20% na prvoj dražbi ne kompenzira slab lokacijski potencijal. Prodaja putem javnog bilježnika i nepoznato stanje kuće dodatno povećavaju rizik ulaganja.",
+  "flags": [
+    "provjeriti: stanje kuće i useljivost"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "2691a2d98e78",
+  "scored_at": "2026-07-31T08:47:23.411347"
+}

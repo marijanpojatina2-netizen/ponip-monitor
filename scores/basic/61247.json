@@ -1,0 +1,13 @@
+{
+  "id": "61247",
+  "score_overall": 4.2,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Kuća u Ogulinu s dvorištem i dodatnom livadom na prvoj dražbi ima samo 20% popusta i slabiju lokacijsku atraktivnost. Bez dodatnog popusta na sljedećoj dražbi case nije dovoljno jak.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "3b4a81ec8d77",
+  "scored_at": "2026-07-31T08:46:22.221598"
+}

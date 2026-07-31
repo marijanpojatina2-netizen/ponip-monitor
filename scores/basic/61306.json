@@ -1,0 +1,13 @@
+{
+  "id": "61306",
+  "score_overall": 3.5,
+  "score_lokacija": 1.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica od 1464 m2 u k.o. Bošnjaci nalazi se u slabije razvijenom dijelu istočne Slavonije uz tek 20% popusta na prvoj dražbi, što uz malu površinu daje ograničen investicijski interes. Zemljište je samo po sebi koristivo bez dodatnih ulaganja u objekt.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "c0dd382cbc5b",
+  "scored_at": "2026-07-31T08:47:23.412000"
+}
