@@ -1,0 +1,15 @@
+{
+  "id": "61270",
+  "score_overall": 4.0,
+  "score_lokacija": 2.5,
+  "score_roi": 5.0,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Borovo kod Vukovara je depopulacijsko rusko pogranično područje s niskom likvidnošću nekretnina, a popust od tek 20% na prvoj dražbi ne kompenzira slabu lokaciju. Stanje kuće nije opisano pa treba pretpostaviti standardnu ili lošiju gradnju starijeg tipa.",
+  "flags": [
+    "provjeriti: prodaje se samo 1/2 suvlasničkog dijela nekretnine"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "80f53acc7dfd",
+  "scored_at": "2026-08-03T09:40:44.727735"
+}

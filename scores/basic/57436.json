@@ -1,0 +1,15 @@
+{
+  "id": "57436",
+  "score_overall": 4.8,
+  "score_lokacija": 2.0,
+  "score_roi": 7.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Nominalna početna cijena od 1 EUR na četvrtoj dražbi čini ulazak jeftinim, ali riječ je isključivo o poljoprivrednom zemljištu bez objekata u ruralnom dijelu Bjelovarsko-bilogorske županije s ograničenom likvidnošću. Raznolikost kultura (voćnjak, oranica, vinograd, šuma) daje umjerenu dugoročnu vrijednost za poljoprivrednu namjenu.",
+  "flags": [
+    "provjeriti: prodaje se samo 1/2 suvlasničkog dijela nekretnine"
+  ],
+  "discount_pct": 100.0,
+  "input_hash": "6582856c28e5",
+  "scored_at": "2026-08-03T09:40:44.728166"
+}

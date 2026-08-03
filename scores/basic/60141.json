@@ -1,0 +1,15 @@
+{
+  "id": "60141",
+  "score_overall": 6.2,
+  "score_lokacija": 8.0,
+  "score_roi": 6.5,
+  "score_stanje": 2.5,
+  "recommendation": "bid",
+  "reasoning": "Manja čestica (7205 m2) u istoj traženoj zoni Močići kraj Dubrovnika, na 2. dražbi s 40% popustom i pri tome se prodaje puni (100%) suvlasnički udio, za razliku od susjedne nekretnine. Dio čestice je pod planiranom prometnicom što ograničava gradivost, no niska apsolutna cijena (37.200 EUR) čini ulazak niskorizičnim za dobru lokaciju.",
+  "flags": [
+    "provjeriti: točan opseg dijela čestice pod planiranom prometnicom (utjecaj na gradivost)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "2bf75d7e8f8d",
+  "scored_at": "2026-08-03T09:39:25.326021"
+}

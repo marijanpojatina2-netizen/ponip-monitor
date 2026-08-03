@@ -1,0 +1,17 @@
+{
+  "id": "57047",
+  "score_overall": 4.2,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 2.0,
+  "recommendation": "watch",
+  "reasoning": "Velika šumska čestica (6,87 ha) kraj Benkovca na 4. dražbi s početnom cijenom od samo 1 EUR (100% popust), no neuobičajen odnos jamčevine (20.000 EUR) i početne cijene upućuje na potrebu provjere. Lokacija je slabije razvijeno rursko/depopulacijsko područje sa ograničenom likvidnošću.",
+  "flags": [
+    "provjeriti: razlog ekstremnog pada cijene (100% popust, 4. dražba)",
+    "provjeriti: neuobičajen omjer jamčevine i početne cijene",
+    "provjeriti: pristup i mogućnost gospodarskog korištenja šume"
+  ],
+  "discount_pct": 100.0,
+  "input_hash": "9334d02514ab",
+  "scored_at": "2026-08-03T09:39:25.325634"
+}

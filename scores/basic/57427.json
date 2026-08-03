@@ -1,0 +1,16 @@
+{
+  "id": "57427",
+  "score_overall": 4.3,
+  "score_lokacija": 2.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Kuća-dvor u Budanici kraj Bjelovara na 4. dražbi s početnom cijenom 1 EUR (100% popust) čini nominalni ROI vrlo atraktivnim, no radi se o stečajnoj imovini i prodaje se samo 1/2 suvlasničkog udjela. Slaba ruralna lokacija i nepoznato stanje objekta dodatno ograničavaju investicijski potencijal.",
+  "flags": [
+    "suvlasnički dio - kupnja samo 1/2 udjela stečajnog dužnika",
+    "provjeriti: stanje kuće i moguća naseljenost"
+  ],
+  "discount_pct": 100.0,
+  "input_hash": "98f9eaeb5cde",
+  "scored_at": "2026-08-03T09:39:25.326202"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "57440",
+  "score_overall": 4.4,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Skup čestica (dvije kuće-dvor, oranice, šume) u Dugom Selu Lukačkom kraj Bjelovara na 4. dražbi s cijenom 1 EUR, no prodaje se samo 3/6 (1/2) suvlasničkog udjela stečajnog dužnika. Fragmentacija imovine i ruralna lokacija dodatno smanjuju atraktivnost unatoč nominalno ekstremnom popustu.",
+  "flags": [
+    "suvlasnički dio - kupnja samo 1/2 udjela stečajnog dužnika",
+    "fragmentirane čestice na više brojeva",
+    "provjeriti: stanje objekata (dvije kuće-dvor)"
+  ],
+  "discount_pct": 100.0,
+  "input_hash": "6409c8c8ffa0",
+  "scored_at": "2026-08-03T09:39:25.326535"
+}

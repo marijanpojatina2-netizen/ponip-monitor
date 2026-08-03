@@ -1,0 +1,16 @@
+{
+  "id": "61286",
+  "score_overall": 3.1,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Skup fragmentiranih poljoprivrednih čestica (pašnjak, vinograd, oranice, voćnjak) razasutih po više katastarskih općina oko Virovitice na 1. dražbi s tek 20% popusta. Fragmentacija i ruralna slavonska lokacija bitno smanjuju likvidnost i praktičnu iskoristivost investicije.",
+  "flags": [
+    "fragmentirane čestice na više k.o. - otežana likvidnost i upravljanje",
+    "provjeriti: pristupni putovi do pojedinih čestica"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "66a865664db0",
+  "scored_at": "2026-08-03T09:39:25.325934"
+}

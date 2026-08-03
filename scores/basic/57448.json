@@ -1,0 +1,16 @@
+{
+  "id": "57448",
+  "score_overall": 5.3,
+  "score_lokacija": 2.0,
+  "score_roi": 9.0,
+  "score_stanje": 3.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Početna cijena od 1 EUR na četvrtoj dražbi za nekretninu procijenjenu na 6580 EUR nudi izniman omjer rizika i potencijalnog dobitka uz minimalan kapitalni ulog. Turanovac je malo selo u Bjelovarsko-bilogorskoj županiji, a stanje kuće i stvarna vrijednost suvlasničkog udjela zahtijevaju detaljniju provjeru prije licitacije.",
+  "flags": [
+    "provjeriti: prodaje se samo 1/2 suvlasničkog dijela nekretnine",
+    "provjeriti: stvarno stanje nekretnine (opis ne navodi stanje objekta)"
+  ],
+  "discount_pct": 100.0,
+  "input_hash": "c46d96ace667",
+  "scored_at": "2026-08-03T09:40:44.728049"
+}

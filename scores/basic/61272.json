@@ -1,0 +1,15 @@
+{
+  "id": "61272",
+  "score_overall": 3.7,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Riječ je o maloj oranici zanemarive vrijednosti (381 EUR) u istom depopulacijskom području oko Borova, gdje transakcijski troškovi mogu nadmašiti potencijalnu korist. Popust od 20% na prvoj dražbi nije dovoljan poticaj s obzirom na nisku likvidnost i minimalnu apsolutnu vrijednost ulaganja.",
+  "flags": [
+    "provjeriti: prodaje se samo 1/2 suvlasničkog dijela nekretnine"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "3de87f14f6b3",
+  "scored_at": "2026-08-03T09:40:44.728356"
+}

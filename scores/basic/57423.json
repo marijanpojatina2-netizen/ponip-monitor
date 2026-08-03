@@ -1,0 +1,17 @@
+{
+  "id": "57423",
+  "score_overall": 4.2,
+  "score_lokacija": 2.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Skup malih i fragmentiranih čestica (šuma, oranica, voćnjak, kuća-dvor) u Budanici na 4. dražbi s cijenom od 1 EUR, ali se prodaje samo 2/4 (1/2) suvlasničkog udjela stečajnog dužnika. Niska apsolutna vrijednost, fragmentacija i slaba lokacija čine ovo marginalnim slučajem za aktivnu investiciju.",
+  "flags": [
+    "suvlasnički dio - kupnja samo 1/2 udjela stečajnog dužnika",
+    "fragmentirane čestice manje pojedinačne vrijednosti",
+    "provjeriti: stanje kuće-dvora"
+  ],
+  "discount_pct": 100.0,
+  "input_hash": "403266741c1a",
+  "scored_at": "2026-08-03T09:39:25.326372"
+}

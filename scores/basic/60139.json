@@ -1,0 +1,17 @@
+{
+  "id": "60139",
+  "score_overall": 6.5,
+  "score_lokacija": 8.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Velika čestica (3,5 ha) u zoni Močići kraj Dubrovnika s dijelom u građevinskom području gospodarske namjene, 40% popust na 2. dražbi čini ROI zanimljivim unatoč sirovom stanju zemljišta. Prodaje se samo manjinski suvlasnički udio (~35% čestice, 8094/23344), što bitno komplicira upravljanje i buduću valorizaciju.",
+  "flags": [
+    "suvlasnički dio - prodaje se manjinski udio (~35% čestice)",
+    "provjeriti: točan raspored građevinskog/šumskog/poljoprivrednog dijela unutar čestice",
+    "provjeriti: pristupačnost i komunalna infrastruktura"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "cf19c8ada948",
+  "scored_at": "2026-08-03T09:39:25.325328"
+}
