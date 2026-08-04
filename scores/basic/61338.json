@@ -1,0 +1,15 @@
+{
+  "id": "61338",
+  "score_overall": 5.2,
+  "score_lokacija": 4.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.5,
+  "recommendation": "bid",
+  "reasoning": "Kuća s okućnicom u Belišću (158 m2 kuće, 638 m2 dvorišta) po vrlo niskoj apsolutnoj cijeni od 22.000 EUR nudi zanimljiv omjer cijene i veličine unatoč skromnom popustu od 20%. Stanje objekta nije opisano pa je nužna provjera prije licitacije, ali cijena opravdava aktivno razmatranje.",
+  "flags": [
+    "provjeriti: stanje objekta i eventualna useljenost/posjed treće osobe"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "5531ffee7d58",
+  "scored_at": "2026-08-04T08:32:26.602327"
+}

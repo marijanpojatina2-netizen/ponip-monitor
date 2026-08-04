@@ -1,0 +1,15 @@
+{
+  "id": "61167",
+  "score_overall": 3.9,
+  "score_lokacija": 4.0,
+  "score_roi": 4.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Livada i oranica u malom izoliranom selu Žejane, izvan naseljenog dijela, uz cestu - unatoč blizini Rijeke/Istre lokacija je ruralna s ograničenom likvidnošću. Bez građevina, mala površina i standardni popust od 20% ne daju dovoljno jak investicijski case.",
+  "flags": [
+    "provjeriti: komunalna infrastruktura i pristupni put do zemljišta"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "c43a7c8f3179",
+  "scored_at": "2026-08-04T08:32:26.602585"
+}

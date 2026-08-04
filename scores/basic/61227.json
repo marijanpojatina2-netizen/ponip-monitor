@@ -1,0 +1,15 @@
+{
+  "id": "61227",
+  "score_overall": 3.9,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Tri katastarske čestice oranica s nogometnim igralištem kraj Ždralova (Bjelovar-Čazma), ruralno i slabije likvidno područje uz tek 20% popusta na prvoj dražbi. Zemljište bez građevina ograničava kratkoročni ROI potencijal za investitora.",
+  "flags": [
+    "provjeriti: teret/pravo korištenja vezano uz nogometno igralište na zemljištu"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "d95b4c37efc3",
+  "scored_at": "2026-08-04T08:32:26.602066"
+}
