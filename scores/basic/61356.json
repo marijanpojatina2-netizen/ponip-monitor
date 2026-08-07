@@ -1,0 +1,15 @@
+{
+  "id": "61356",
+  "score_overall": 3.7,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Kuća s dvorištem i oranicom u Ernestinovu nalazi se u ruralnom, depopulacijskom području Slavonije sa slabom likvidnošću, a prva dražba nudi tek 20% popusta bez dodatnog bonusa. Opis ne daje informacije o stanju kuće, što dodatno povećava neizvjesnost ulaganja.",
+  "flags": [
+    "provjeriti: stanje kuće i useljivost (opis ne navodi detalje)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "927735c93513",
+  "scored_at": "2026-08-07T07:11:41.797775"
+}

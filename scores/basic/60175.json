@@ -1,0 +1,15 @@
+{
+  "id": "60175",
+  "score_overall": 6.2,
+  "score_lokacija": 6.0,
+  "score_roi": 6.0,
+  "score_stanje": 7.0,
+  "recommendation": "watch",
+  "reasoning": "Relativno nova brodica (2019.) s jakim vanbrodskim motorom i NIB oznakom vezanom za Pulu/Istru ima dobar potencijal na tržištu plovila, uz 50% popust na drugoj dražbi. Kao pokretnina ima niži dugoročni ROI potencijal od nekretnine, a fizičko stanje trupa i motora nije verificirano opisom.",
+  "flags": [
+    "provjeriti: tehničko stanje trupa i motora (fizički pregled nije naveden)"
+  ],
+  "discount_pct": 50.0,
+  "input_hash": "9207dba245df",
+  "scored_at": "2026-08-07T07:11:41.796987"
+}

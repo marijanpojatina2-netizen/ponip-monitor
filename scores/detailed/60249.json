@@ -1,0 +1,36 @@
+{
+  "id": "60249",
+  "score_overall": 5.3,
+  "score_lokacija": 4.0,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Nekretnina se nalazi u Svetom Križu Začretju (Krapinsko-zagorska županija), ruralnom/malom mjestu u Zagorju bez turističkog ili snažnog urbanog karaktera, iako je unutar dojazne udaljenosti od Zagreba. Utvrđena vrijednost od 635.700 EUR neuobičajeno je visoka za tipičnu stambenu nekretninu u tom mjestu, što upućuje da se vjerojatno radi o poslovnom, industrijskom ili većem kompleksu čija namjena nije jasna iz opisa. 50%-tni popust na drugoj dražbi je značajan i podiže ROI potencijal, ali likvidnost tržišta za nekretninu ove vrijednosti u malom mjestu je upitna. Zbog visoke vrijednosti i brojnih nepoznanica (vrsta objekta, kvadratura, stanje, tereti) potrebna je detaljna due diligence prije odluke o licitaciji.",
+  "flags": [
+    "provjeriti: vrsta i namjena nekretnine (opis ne navodi je li riječ o kući, poslovnom objektu ili zemljištu)",
+    "provjeriti: kvadratura i stvarno stanje objekta (nema podataka niti fotografija u opisu)",
+    "provjeriti: postoji li osoba koja stanuje ili treća strana s pravom korištenja s obzirom na stečajni postupak",
+    "provjeriti: upisani tereti i prava u zk.ul. 4454 (Općinski sud Zlatar, ZK odjel Zabok)",
+    "provjeriti: razlog neuobičajeno visoke procijenjene vrijednosti za lokaciju"
+  ],
+  "market_estimate": {
+    "eur_min": 380000,
+    "eur_max": 550000,
+    "confidence": "low",
+    "basis": "Web pretraga tržišnih oglasa nije bila dostupna u ovoj sesiji. Procjena se temelji na općem poznavanju cijena nekretnina u Krapinsko-zagorskoj županiji (jedna od jeftinijih kontinentalnih regija) i na sudski utvrđenoj vrijednosti, uz diskont zbog nepoznate namjene, stanja i likvidnosnog rizika ruralnog tržišta. Preporučuje se ponovna procjena nakon dobivanja stvarnih tržišnih usporedbi."
+  },
+  "comparables": [],
+  "investment_strategy": "Preprodaja ili razvoj nakon utvrđivanja stvarne namjene i stanja objekta - prioritet je fizički pregled (razgledavanje uz stečajnu upraviteljicu) i uvid u zemljišnoknjižni izvadak prije formiranja konačne strategije. Ako se radi o poslovnom/industrijskom objektu, iznajmljivanje lokalnim poduzetnicima uz blizinu autoceste A2 može biti isplativije od stambenog najma u malom mjestu.",
+  "entry_price_eur": 300000,
+  "detailed_risks": [
+    "Opis ne otkriva vrstu, namjenu ni kvadraturu nekretnine - neuobičajeno za stečajnu dražbu s visokom procijenjenom vrijednošću",
+    "Ruralno/malo tržište Zagorja ima ograničen broj potencijalnih kupaca za nekretninu vrijednosti preko 500k EUR, što otežava izlaznu strategiju",
+    "Stečajni postupak može podrazumijevati kompleksniju primopredaju, moguće nepodmirene troškove ili sporove vjerovnika",
+    "Nedostatak fotografija i detalja o stanju zahtijeva obavezan fizički pregled prije licitacije"
+  ],
+  "upside_scenario": "Ako se pregledom utvrdi da je riječ o funkcionalnom poslovnom/industrijskom kompleksu u solidnom stanju, kupnja uz već ostvaren 50%-tni popust na drugoj dražbi omogućuje brzu preprodaju ili dugoročni najam poslovnim subjektima uz iskorištavanje blizine Zagreba i prometnica, s potencijalnim prinosom od 20-30% unutar 2-3 godine.",
+  "downside_scenario": "Ako se objekt pokaže zapuštenim, nedovršenim ili opterećenim pravima trećih osoba, investitor se suočava s dodatnim troškovima sanacije/pravnog raščišćavanja i vrlo otežanim pronalaskom kupca ili najmoprimca u tankom lokalnom tržištu, što bi kapital zaključalo na dulje razdoblje uz nizak povrat.",
+  "discount_pct": 50.0,
+  "input_hash": "7af8a39d9dab",
+  "scored_at": "2026-08-07T07:17:46.087974"
+}

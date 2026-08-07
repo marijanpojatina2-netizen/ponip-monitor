@@ -1,0 +1,16 @@
+{
+  "id": "58864",
+  "score_overall": 4.7,
+  "score_lokacija": 2.0,
+  "score_roi": 6.5,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Poljoprivredno zemljište (oranica i voćnjak) u selu Oljasi, ruralno područje slabije likvidnosti u Slavoniji, ali s izuzetno visokim popustom od 75% i trećom dražbom cijena je vrlo niska za 1670 m2. Prikladno tek za oportunistički mali ulog jer izlazna prodaja/ROI ovisi o lokalnoj potražnji za poljoprivrednim zemljištem.",
+  "flags": [
+    "provjeriti: pristup i granice čestice",
+    "provjeriti: tereta/upisi na zk.ul. 171"
+  ],
+  "discount_pct": 75.0,
+  "input_hash": "93e0c8a9b6e9",
+  "scored_at": "2026-08-07T07:11:56.293831"
+}

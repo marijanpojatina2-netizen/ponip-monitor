@@ -1,0 +1,37 @@
+{
+  "id": "60133",
+  "score_overall": 6.5,
+  "score_lokacija": 7.0,
+  "score_roi": 6.5,
+  "score_stanje": 5.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Dugopolje je ključni prometno-poslovni čvor uz autocestu A1 i tik uz Split, s razvijenom poslovnom zonom (Poslovni park Dugopolje), što daje solidnu lokacijsku vrijednost unatoč tome što nije turistička obala. Popust od 50% u drugoj dražbi je izrazito povoljan, no predmet prodaje je suvlasnički dio (1174/9196) vezan uz garažni prostor unutar hotelske zgrade putem etažnog vlasništva, a ne cijela nekretnina ili hotel u cijelosti, što bitno mijenja investicijsku tezu i zahtijeva temeljitu pravnu analizu opsega prava. Stečajni postupak (stečajni upravitelj Davorin Kapustić) unosi dodatnu neizvjesnost oko tereta i brzine uknjižbe. Zbog velikog iznosa (ulazna cijena ~2.29M EUR) i kompleksnosti suvlasničkog udjela, slučaj zaslužuje detaljnu due diligence prije bilo kakve odluke o licitiranju.",
+  "flags": [
+    "provjeriti: točan opseg prava vezanih uz suvlasnički dio 1174/9196 (samo garaža ili i udio u hotelskoj zgradi/poslovanju)",
+    "provjeriti: postoje li ugovori o zakupu/najmu ili poslovanje hotela od strane trećih osoba",
+    "provjeriti: usklađenost predmeta dražbe označenog kao 'pokretnina' s opisom koji odgovara nekretnini/suvlasničkom dijelu nekretnine",
+    "provjeriti: tereti, hipoteke i status uknjižbe s obzirom na stečajni postupak",
+    "provjeriti: postoji li upravitelj zgrade/etažnih vlasnika i obveze prema zajedničkim troškovima"
+  ],
+  "market_estimate": {
+    "eur_min": 2500000,
+    "eur_max": 4500000,
+    "confidence": "low",
+    "basis": "WebSearch alat nije bio dostupan (dozvola nije odobrena) u ovoj sesiji, stoga procjena nije potkrijepljena živim usporedivim oglasima. Raspon je temeljen na općem poznavanju tržišta komercijalnih/hotelskih nekretnina u zoni Dugopolje-Split te na procijenjenoj vrijednosti iz dražbenog spisa (4.58M EUR), uz diskont zbog fragmentiranog (suvlasničkog) karaktera predmeta prodaje."
+  },
+  "comparables": [],
+  "investment_strategy": "Dugoročno iznajmljivanje / konsolidacija udjela: kupnja suvlasničkog udjela garažnog prostora unutar hotelskog kompleksa u Poslovnom parku Dugopolje radi iznajmljivanja poslovnim subjektima u okolnim trgovačko-skladišnim zonama, uz mogućnost naknadnog pregovaranja o otkupu preostalih suvlasničkih dijelova hotela radi stjecanja veće kontrole nad cijelim objektom. Strategija zahtijeva prethodnu pravnu due diligence.",
+  "entry_price_eur": 2300000,
+  "detailed_risks": [
+    "Nejasan opseg predmeta dražbe - moguće da se kupuje samo garažni suvlasnički dio bez stvarnog prava na hotelsko poslovanje",
+    "Stečajni postupak može produljiti uknjižbu vlasništva i unijeti dodatne pravne komplikacije",
+    "Fragmentirano (suvlasničko) vlasništvo ograničava samostalno upravljanje i mogućnost brze preprodaje",
+    "Vrlo uzak krug potencijalnih kupaca za veliki fragmentirani hotelski udio smanjuje likvidnost",
+    "Nedostatak informacija o stanju objekta i eventualnim tekućim troškovima održavanja zajedničkih dijelova"
+  ],
+  "upside_scenario": "Uz potvrđenu čistu pravnu situaciju i jasno definirana prava, investitor stječe vrijedan udio u prometno izvrsno pozicioniranom objektu uz Split po cijeni 50% nižoj od procjene, s mogućnošću iznajmljivanja garažno-skladišnog prostora poslovnim korisnicima Poslovnog parka Dugopolje te postupnim otkupom ostalih udjela radi konsolidacije kontrole nad hotelom, ostvarujući rast vrijednosti od 20-40% u 2-3 godine.",
+  "downside_scenario": "Ako se pokaže da suvlasnički udio ne nosi stvarno pravo korištenja ili prihoda (npr. samo teret zajedničkih dijelova bez mogućnosti samostalnog iznajmljivanja), investicija ostaje nelikvidna i teško unovčiva, a produljeni stečajni postupak dodatno opterećuje troškovima i vremenom bez jasnog izlaza.",
+  "discount_pct": 50.0,
+  "input_hash": "ccca1b5944e5",
+  "scored_at": "2026-08-07T07:16:09.785911"
+}

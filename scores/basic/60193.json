@@ -1,0 +1,16 @@
+{
+  "id": "60193",
+  "score_overall": 6.2,
+  "score_lokacija": 6.5,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Trosobni stan u Novom Zagrebu (Zaprudski Otok) s 40% popustom ima solidnu gradsku lokaciju, no predmet prodaje je samo 1/3 suvlasničkog dijela stana što bitno otežava korištenje i daljnju preprodaju. Realizacija ROI-ja ovisi o mogućnosti dogovora ili sudske diobe s ostalim suvlasnicima.",
+  "flags": [
+    "suvlasnički dio 1/3 nekretnine (ovršenik nije jedini vlasnik)",
+    "provjeriti: mogućnost i uvjeti diobe/nagodbe s ostalim suvlasnicima"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "76a2c0eaa5ea",
+  "scored_at": "2026-08-07T07:11:41.797223"
+}

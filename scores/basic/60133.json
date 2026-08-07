@@ -1,0 +1,15 @@
+{
+  "id": "60133",
+  "score_overall": 6.0,
+  "score_lokacija": 6.0,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Zapis je označen kao pokretnina, no opis identičan je onom hotela u Dugopolju iz nekretnine 60133, što upućuje na moguću grešku u evidenciji vrste predmeta. Dok se ne razjasni što se točno prodaje pod ovom stavkom, ne preporučuje se aktivno sudjelovanje.",
+  "flags": [
+    "provjeriti: vrsta predmeta - opis odgovara nekretnini (hotel) iako je evidentirano kao pokretnina, moguća greška u podacima"
+  ],
+  "discount_pct": 50.0,
+  "input_hash": "ccca1b5944e5",
+  "scored_at": "2026-08-07T07:11:41.796546"
+}

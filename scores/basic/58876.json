@@ -1,0 +1,16 @@
+{
+  "id": "58876",
+  "score_overall": 4.4,
+  "score_lokacija": 2.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Oranica u selu Oljasi (Slavonija) na trećoj dražbi nudi vrlo visok popust od 75%, no apsolutna vrijednost transakcije (1125 EUR) je toliko niska da investicijski učinak ostaje marginalan. Ruralna lokacija i poljoprivredna namjena dodatno ograničavaju likvidnost i mogućnost brze preprodaje.",
+  "flags": [
+    "vrlo niska apsolutna vrijednost transakcije (1125 EUR) - ograničen investicijski značaj",
+    "provjeriti: pristup i status zemljišta (poljoprivredna namjena, mogući ograničenja prometa)"
+  ],
+  "discount_pct": 75.0,
+  "input_hash": "407771f03dca",
+  "scored_at": "2026-08-07T07:11:41.798074"
+}
