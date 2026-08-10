@@ -1,0 +1,16 @@
+{
+  "id": "60211",
+  "score_overall": 5.1,
+  "score_lokacija": 3.0,
+  "score_roi": 7.0,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Kuća sa dvorištem u Semeljcima kraj Đakova s 40% popustom na druge dražbe je solidna prilika po cijeni, ali ruralna slavonska lokacija ograničava dugoročni ROI. Suvlasnički odnos ovrhovoditelja i ovršenika zahtijeva pravnu provjeru prije licitiranja.",
+  "flags": [
+    "provjeriti: suvlasništvo ovrhovoditelja (1/2) i ovršenika (1/2) - opseg prodaje cijele nekretnine",
+    "provjeriti: stanje i useljivost kuće"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "fc8d27d85d44",
+  "scored_at": "2026-08-10T07:27:39.307535"
+}

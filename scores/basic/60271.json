@@ -1,0 +1,15 @@
+{
+  "id": "60271",
+  "score_overall": 4.7,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Nekretnina se nalazi u Donjem Miholjcu, ruralnom i depopulacijskom području istočne Slavonije s ograničenom potražnjom, unatoč popustu od 40% na drugoj dražbi. Kombinacija oranice, kuće i gospodarskih zgrada zahtijeva dodatnu procjenu stanja prije bilo kakvog ulaganja.",
+  "flags": [
+    "provjeriti: stanje kuće i pomoćnih zgrada"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "de936cd87e6d",
+  "scored_at": "2026-08-10T07:26:49.718689"
+}

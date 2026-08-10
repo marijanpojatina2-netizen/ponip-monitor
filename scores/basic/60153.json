@@ -1,0 +1,16 @@
+{
+  "id": "60153",
+  "score_overall": 5.2,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Nekretnina je specijalizirani objekt (dom za starije i nemoćne) u ruralnom Zagorju, što ograničava krug kupaca i likvidnost unatoč solidnom popustu od 40% na drugoj dražbi. Namjenska zgrada nosi rizik prenamjene i dodatnih troškova prilagodbe za drugu upotrebu.",
+  "flags": [
+    "provjeriti: mogućnost prenamjene objekta iz doma za starije u drugu namjenu",
+    "provjeriti: postojeće dozvole/licence za rad ustanove"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "6aa20a423498",
+  "scored_at": "2026-08-10T07:26:49.718035"
+}

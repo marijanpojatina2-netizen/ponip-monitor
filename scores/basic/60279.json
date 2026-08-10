@@ -1,0 +1,13 @@
+{
+  "id": "60279",
+  "score_overall": 4.7,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Kuća u Cerni kod Županje nalazi se u ruralnom dijelu Vukovarsko-srijemske županije s niskom likvidnošću tržišta, iako je popust od 40% na drugoj dražbi atraktivan na papiru. Slaba regionalna potražnja umanjuje realan ROI potencijal ovog ulaganja.",
+  "flags": [],
+  "discount_pct": 40.0,
+  "input_hash": "4f61f6faa014",
+  "scored_at": "2026-08-10T07:26:49.718881"
+}

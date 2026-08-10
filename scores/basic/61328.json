@@ -1,0 +1,15 @@
+{
+  "id": "61328",
+  "score_overall": 4.9,
+  "score_lokacija": 5.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća u Velikoj Gorici ima pristojnu lokaciju na periferiji Zagreba, no popust od tek 20% na prvoj dražbi ograničava ROI potencijal. Prodaje se samo 1/2 suvlasničkog dijela nekretnine, što unosi pravnu i praktičnu neizvjesnost oko raspolaganja cijelom nekretninom.",
+  "flags": [
+    "provjeriti: prodaje se samo 1/2 suvlasničkog dijela nekretnine - status i namjere drugog suvlasnika"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "d2254b17648d",
+  "scored_at": "2026-08-10T07:26:49.718440"
+}

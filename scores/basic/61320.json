@@ -1,0 +1,15 @@
+{
+  "id": "61320",
+  "score_overall": 4.2,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Kuća u Švaljkovcu kraj Zaboka nalazi se u ruralnom dijelu Zagorja, a popust od tek 20% na prvoj dražbi ne kompenzira slabiju lokaciju. Prodaje se samo 58/100 suvlasničkog dijela, što dodatno komplicira stjecanje pune kontrole nad nekretninom.",
+  "flags": [
+    "provjeriti: prodaje se samo 58/100 suvlasničkog dijela nekretnine - status preostalog suvlasništva"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "078754b78000",
+  "scored_at": "2026-08-10T07:26:49.719291"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "60273",
+  "score_overall": 5.0,
+  "score_lokacija": 3.0,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Ruralna Baranja (Čeminac) s 40% popustom i solidnom kućom + voćnjakom, ali slaba likvidnost tržišta u depopulacijskom području ograničava izlaznu strategiju. Druga dražba bez dodatnog bonusa jer nije treća/četvrta.",
+  "flags": [
+    "provjeriti: stanje i useljivost kuće",
+    "provjeriti: pristup i status odvojene čestice voćnjaka (kčbr. 54/1)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "fb41f63e0eca",
+  "scored_at": "2026-08-10T07:27:39.307219"
+}

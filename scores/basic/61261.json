@@ -1,0 +1,15 @@
+{
+  "id": "61261",
+  "score_overall": 4.2,
+  "score_lokacija": 4.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Parcela kod Koprivnice sadrži samo gospodarsku zgradu, vinograd i dvorište bez stambenog objekta, a popust od svega 20% na prvoj dražbi dodatno slabi investicijski slučaj. Nedostatak stambene komponente značajno ograničava iskoristivost i ROI.",
+  "flags": [
+    "provjeriti: postoji li iskoristiv stambeni objekt na parceli - opis navodi samo gospodarsku zgradu"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "4d4113bd04b2",
+  "scored_at": "2026-08-10T07:26:49.719077"
+}
