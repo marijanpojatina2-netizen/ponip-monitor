@@ -1,0 +1,16 @@
+{
+  "id": "61334",
+  "score_overall": 3.6,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Klijet od 31 m2 s pomoćnim objektom u ruralnom Breznici, slaba lokacija s niskom likvidnošću i ograničenim investicijskim potencijalom. Popust od 20% na prvoj dražbi ne kompenzira slabu lokaciju i skromnu namjenu objekta.",
+  "flags": [
+    "provjeriti: stanje klijeti i pomoćnog objekta",
+    "provjeriti: pristup putem upisanim kao zaseban čkbr"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "7f47a62fd2a5",
+  "scored_at": "2026-08-11T07:01:48.063444"
+}

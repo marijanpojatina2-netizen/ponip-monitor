@@ -1,0 +1,16 @@
+{
+  "id": "61336",
+  "score_overall": 4.5,
+  "score_lokacija": 4.0,
+  "score_roi": 5.0,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Manja kuća (43 m2) s vinogradom i gospodarskim objektima u Svetom Iliji, periferno naselje uz Varaždin s ograničenom likvidnošću. Popust od 20% na prvoj dražbi je skroman, a stanje objekta iz opisa nije jasno pa ROI ostaje osrednji.",
+  "flags": [
+    "provjeriti: stanje i useljivost kuće",
+    "provjeriti: infrastrukturnu opremljenost parcele"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "05d9fe07a613",
+  "scored_at": "2026-08-11T07:01:48.062859"
+}

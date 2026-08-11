@@ -1,0 +1,16 @@
+{
+  "id": "60209",
+  "score_overall": 7.3,
+  "score_lokacija": 7.0,
+  "score_roi": 8.5,
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Zagrebačka lokacija (Kraljevac) je likvidna i tražena, a 40% popust na drugoj dražbi daje snažan ROI potencijal. Riječ je o suvlasničkom 1/2 dijelu zgrade upisane na starom zemljišnoknjižnom ulošku u društvenom vlasništvu, što zahtijeva detaljnu pravnu provjeru prije licitacije.",
+  "flags": [
+    "provjeriti: suvlasnički 1/2 dio nekretnine - ograničena kontrola nad cjelinom",
+    "provjeriti: upis vlasništva (društveno vlasništvo, stari zk uložak)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "96b0b782b178",
+  "scored_at": "2026-08-11T07:01:48.063138"
+}
