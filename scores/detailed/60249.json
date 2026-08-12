@@ -1,36 +1,37 @@
 {
   "id": "60249",
-  "score_overall": 5.3,
-  "score_lokacija": 4.0,
+  "score_overall": 5.4,
+  "score_lokacija": 4.5,
   "score_roi": 6.5,
-  "score_stanje": 5.0,
-  "recommendation": "deep_dive",
-  "reasoning": "Nekretnina se nalazi u Svetom Križu Začretju (Krapinsko-zagorska županija), ruralnom/malom mjestu u Zagorju bez turističkog ili snažnog urbanog karaktera, iako je unutar dojazne udaljenosti od Zagreba. Utvrđena vrijednost od 635.700 EUR neuobičajeno je visoka za tipičnu stambenu nekretninu u tom mjestu, što upućuje da se vjerojatno radi o poslovnom, industrijskom ili većem kompleksu čija namjena nije jasna iz opisa. 50%-tni popust na drugoj dražbi je značajan i podiže ROI potencijal, ali likvidnost tržišta za nekretninu ove vrijednosti u malom mjestu je upitna. Zbog visoke vrijednosti i brojnih nepoznanica (vrsta objekta, kvadratura, stanje, tereti) potrebna je detaljna due diligence prije odluke o licitaciji.",
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Sveti Križ Začretje je manje ruralno mjesto u Krapinsko-zagorskoj županiji, oko 35 km od Zagreba, bez jače turističke ili urbane potražnje, što ograničava likvidnost. Procijenjena vrijednost od 635.700 EUR je neuobičajeno visoka za ovaj tip lokacije i nejasnu kvadraturu kuće, što je glavni rizik ove analize. Popust od 50% na drugoj dražbi je nominalno atraktivan, ali bez potvrđenih tržišnih usporedbi i podataka o stanju objekta ROI procjena nosi značajnu neizvjesnost. Web pretraga tržišta nije bila dostupna u ovoj sesiji, pa se preporuča terenska provjera i lokalna procjena prije bilo kakve odluke o licitaciji.",
   "flags": [
-    "provjeriti: vrsta i namjena nekretnine (opis ne navodi je li riječ o kući, poslovnom objektu ili zemljištu)",
-    "provjeriti: kvadratura i stvarno stanje objekta (nema podataka niti fotografija u opisu)",
-    "provjeriti: postoji li osoba koja stanuje ili treća strana s pravom korištenja s obzirom na stečajni postupak",
-    "provjeriti: upisani tereti i prava u zk.ul. 4454 (Općinski sud Zlatar, ZK odjel Zabok)",
-    "provjeriti: razlog neuobičajeno visoke procijenjene vrijednosti za lokaciju"
+    "provjeriti: nesrazmjer između procijenjene vrijednosti (635.700 EUR) i tipičnih cijena nekretnina u Svetom Križu Začretju - moguća precijenjenost ili neobična namjena/veličina objekta",
+    "provjeriti: opis ne navodi kvadraturu same kuće niti gospodarske zgrade, samo ukupnu površinu čestice (626 m2)",
+    "provjeriti: stanje i useljivost nekretnine nisu opisani",
+    "provjeriti: osoba stanuje ili je nekretnina u zakupu - nije navedeno u opisu, standardni rizik kod stečajnih prodaja",
+    "provjeriti: namjena 'gospodarske zgrade' - moguće poslovni/proizvodni objekt vezan uz stečajnog dužnika, što utječe na buduću namjenu i tržišnost"
   ],
   "market_estimate": {
-    "eur_min": 380000,
-    "eur_max": 550000,
+    "eur_min": 150000,
+    "eur_max": 300000,
     "confidence": "low",
-    "basis": "Web pretraga tržišnih oglasa nije bila dostupna u ovoj sesiji. Procjena se temelji na općem poznavanju cijena nekretnina u Krapinsko-zagorskoj županiji (jedna od jeftinijih kontinentalnih regija) i na sudski utvrđenoj vrijednosti, uz diskont zbog nepoznate namjene, stanja i likvidnosnog rizika ruralnog tržišta. Preporučuje se ponovna procjena nakon dobivanja stvarnih tržišnih usporedbi."
+    "basis": "Web pretraga tržišta nije bila dostupna u ovoj sesiji (alat nije odobren). Raspon je procijenjen na temelju općeg poznavanja cijena stambenih nekretnina u ruralnim dijelovima Krapinsko-zagorske županije (tipično 700-1100 EUR/m2 za kuće standardnog stanja), uz veliku neizvjesnost zbog nepoznate kvadrature objekta i njegove stvarne namjene. Procijenjena sudska vrijednost od 635.700 EUR djeluje znatno iznad uobičajenih tržišnih razina za ovu mikrolokaciju."
   },
   "comparables": [],
-  "investment_strategy": "Preprodaja ili razvoj nakon utvrđivanja stvarne namjene i stanja objekta - prioritet je fizički pregled (razgledavanje uz stečajnu upraviteljicu) i uvid u zemljišnoknjižni izvadak prije formiranja konačne strategije. Ako se radi o poslovnom/industrijskom objektu, iznajmljivanje lokalnim poduzetnicima uz blizinu autoceste A2 može biti isplativije od stambenog najma u malom mjestu.",
-  "entry_price_eur": 300000,
+  "investment_strategy": "Prije bilo kakve strategije nužna je fizička obilazak i utvrđivanje stvarne kvadrature i namjene objekta (gospodarska zgrada može ukazivati na poslovni/skladišni potencijal, a ne isključivo stambeni). Ako se potvrdi da je riječ o funkcionalnoj kući veće kvadrature, moguća je reno-flip strategija uz preprodaju; ako je riječ o poslovnom objektu, treba razmotriti iznajmljivanje ili konverziju namjene.",
+  "entry_price_eur": 220000,
   "detailed_risks": [
-    "Opis ne otkriva vrstu, namjenu ni kvadraturu nekretnine - neuobičajeno za stečajnu dražbu s visokom procijenjenom vrijednošću",
-    "Ruralno/malo tržište Zagorja ima ograničen broj potencijalnih kupaca za nekretninu vrijednosti preko 500k EUR, što otežava izlaznu strategiju",
-    "Stečajni postupak može podrazumijevati kompleksniju primopredaju, moguće nepodmirene troškove ili sporove vjerovnika",
-    "Nedostatak fotografija i detalja o stanju zahtijeva obavezan fizički pregled prije licitacije"
+    "Velik nesrazmjer procijenjene vrijednosti i tipičnih tržišnih cijena u ruralnom Zagorju",
+    "Nepoznata kvadratura i stvarno stanje objekata otežava procjenu ROI-a",
+    "Ograničena likvidnost tržišta - manji broj potencijalnih kupaca za nekretnine ove veličine/vrijednosti u ovom području",
+    "Stečajna prodaja - moguća dodatna pravna ili faktička opterećenja koja nisu navedena u opisu",
+    "Nedostupnost web istraživanja tržišta u ovoj analizi smanjuje pouzdanost procjene vrijednosti"
   ],
-  "upside_scenario": "Ako se pregledom utvrdi da je riječ o funkcionalnom poslovnom/industrijskom kompleksu u solidnom stanju, kupnja uz već ostvaren 50%-tni popust na drugoj dražbi omogućuje brzu preprodaju ili dugoročni najam poslovnim subjektima uz iskorištavanje blizine Zagreba i prometnica, s potencijalnim prinosom od 20-30% unutar 2-3 godine.",
-  "downside_scenario": "Ako se objekt pokaže zapuštenim, nedovršenim ili opterećenim pravima trećih osoba, investitor se suočava s dodatnim troškovima sanacije/pravnog raščišćavanja i vrlo otežanim pronalaskom kupca ili najmoprimca u tankom lokalnom tržištu, što bi kapital zaključalo na dulje razdoblje uz nizak povrat.",
+  "upside_scenario": "Ako je objekt zapravo veće kvadrature ili ima komercijalni potencijal (npr. pretvorba gospodarske zgrade u radionicu, skladište ili manji pogon), kupnja po cijeni ispod 250.000 EUR mogla bi omogućiti preprodaju uz značajnu maržu u roku 2-3 godine, osobito ako se regija razvija zbog blizine Zagreba.",
+  "downside_scenario": "Ako se na terenu utvrdi da je riječ o skromnijoj kući ili derutnom objektu bez jasne tržišne potražnje, nekretnina ostaje neprodana i na trećoj/četvrtoj dražbi uz daljnje popuste, ili investitor ostaje s nelikvidnom imovinom u ruralnom području s ograničenom potražnjom.",
   "discount_pct": 50.0,
-  "input_hash": "7af8a39d9dab",
-  "scored_at": "2026-08-07T07:17:46.087974"
+  "input_hash": "da4319f768e1",
+  "scored_at": "2026-08-12T07:23:00.608242"
 }

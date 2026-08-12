@@ -1,0 +1,15 @@
+{
+  "id": "61344",
+  "score_overall": 3.7,
+  "score_lokacija": 4.0,
+  "score_roi": 4.5,
+  "score_stanje": 1.5,
+  "recommendation": "pass",
+  "reasoning": "Sitna parcela livade od svega 63 m2 u k.o. Bedekovčina, susjedna čestici iz nekretnine 61342, s minimalnom vrijednošću od 706 EUR. Transakcijski troškovi i vrijeme vjerojatno nadmašuju bilo kakvu investicijsku korist.",
+  "flags": [
+    "provjeriti: ekonomska isplativost s obzirom na zanemarivu površinu i vrijednost"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "4c114b6f4cc1",
+  "scored_at": "2026-08-12T07:20:17.524840"
+}

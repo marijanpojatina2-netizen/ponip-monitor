@@ -1,0 +1,16 @@
+{
+  "id": "61342",
+  "score_overall": 4.0,
+  "score_lokacija": 4.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Livada od 2483 m2 u k.o. Bedekovčina, ruralno područje Zagorja sa slabijom likvidnošću tržišta. Nizak popust od 20% i nedostatak razvojnog potencijala čine ovo slabim investicijskim slučajem.",
+  "flags": [
+    "provjeriti: pristupni put i komunalna infrastruktura",
+    "provjeriti: mogućnost prenamjene poljoprivrednog zemljišta"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "5afd1967ba1c",
+  "scored_at": "2026-08-12T07:20:17.524338"
+}

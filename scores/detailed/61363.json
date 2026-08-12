@@ -1,0 +1,36 @@
+{
+  "id": "61363",
+  "score_overall": 6.0,
+  "score_lokacija": 7.0,
+  "score_roi": 5.5,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Nekretnina se nalazi na Vidikovcu u Puli, solidnoj rezidencijalnoj zoni većeg istarskog grada s dobrom likvidnošću tržišta, no nije premium turistička lokacija na samoj obali. Popust od svega 20% na prvoj dražbi ostavlja tanku sigurnosnu maržu, a nedovršeni stan u prizemlju znači dodatni kapex i potencijalne pravne/legalizacijske rizike prije nego što se ostvari puni potencijal (dvije stambene jedinice). Postojeći dvoetažni stan je useljiv i u funkciji što je pozitivno, ali nedovršenost dijela objekta i ograničen uvid prije kupnje (razgledavanje isključivo preko ovršitelja) traže dodatnu due diligence prije licitacije.",
+  "flags": [
+    "provjeriti: je li netko stanuje/boravi u nekretnini (opis dokumenta je odsječen prije potvrde statusa ovršenika)",
+    "provjeriti: legalnost i stupanj dovršenosti stana u prizemlju (uporabna dozvola, mogућa bespravna gradnja)",
+    "provjeriti: postojanje tereta, hipoteka ili drugih upisa u zk. ul. 111368 koji ne prestaju prodajom",
+    "prva dražba - ograničen popust (20%), manja sigurnosna marža za investitora"
+  ],
+  "market_estimate": {
+    "eur_min": 700000,
+    "eur_max": 880000,
+    "confidence": "low",
+    "basis": "Procjena temeljena na općem poznavanju tržišta Pule (prosječne cijene stanova/kuća ~2.500-4.000 EUR/m2 ovisno o mikrolokaciji i stanju), bez pristupa uživo web pretrazi za potvrdu aktualnih oglasa na dan analize; utvrđena sudska vrijednost (784.600 EUR / 240 m2 = ~3.269 EUR/m2) je u skladu s tim rasponom."
+  },
+  "comparables": [],
+  "investment_strategy": "Reno-flip / value-add: dovršiti stan u prizemlju (procijenjeni dodatni trošak 50-80k EUR uz legalizaciju) te potom ili prodati objekt s dvije zasebne stambene jedinice po višoj ukupnoj vrijednosti, ili obje jedinice iznajmljivati (dugoročno ili turistički) s obzirom na stabilnu potražnju za smještajem u Puli.",
+  "entry_price_eur": 560000,
+  "detailed_risks": [
+    "Nedovršena gradnja stana u prizemlju - nepoznat trošak i vremenski okvir dovršetka te legalizacije",
+    "Ograničen pristup razgledavanju (samo putem sudskog ovršitelja, uz najavu) - otežana procjena stvarnog stanja prije kupnje",
+    "Mogući teret/upisi u zemljišnim knjigama koji ne prestaju prodajom - potrebna provjera zk. izvatka",
+    "Rizik da postojeći useljivi stan koristi treća osoba (ovršenik ili najmoprimac), što bi zahtijevalo sudsku deložaciju",
+    "Prva dražba - ako se ne proda, čeka se druga dražba za veći popust, što produljuje vremenski horizont ulaganja"
+  ],
+  "upside_scenario": "Investitor kupuje po ili blizu početne cijene (627.680 EUR), unutar 12-18 mjeseci legalizira i dovršava prizemni stan, nakon čega objekt s dvije zasebne useljive jedinice na atraktivnoj lokaciji u Puli ostvaruje tržišnu vrijednost od 900k-1M EUR ili generira solidan prihod od turističkog/dugoročnog najma obje jedinice.",
+  "downside_scenario": "Nedovršeni dio objekta ispostavi se kao bespravna gradnja s kompliciranom/skupom legalizacijom, ili se otkrije da netko stanuje u nekretnini pa je potreban dugotrajan sudski postupak deložacije - kapital ostaje zarobljen, a stvarni ROI značajno pada ispod očekivanog.",
+  "discount_pct": 20.0,
+  "input_hash": "fe8e758a9057",
+  "scored_at": "2026-08-12T07:21:43.054664"
+}

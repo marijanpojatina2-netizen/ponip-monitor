@@ -1,16 +1,17 @@
 {
   "id": "60249",
-  "score_overall": 5.0,
-  "score_lokacija": 3.5,
-  "score_roi": 6.5,
-  "score_stanje": 4.0,
-  "recommendation": "watch",
-  "reasoning": "Sveti Križ Začretje je manje mjesto u Krapinsko-zagorskoj županiji sa slabijom likvidnošću tržišta, a 50% popust na drugoj dražbi je atraktivan ali nedovoljan sam za sebe. Opis ne otkriva vrstu, površinu ni stanje nekretnine pa je procjena visoko neizvjesna.",
+  "score_overall": 6.2,
+  "score_lokacija": 4.5,
+  "score_roi": 8.0,
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Kuća s gospodarskom zgradom u Svetom Križu Začretju (Zagorje) ide u drugu dražbu s izuzetnim popustom od 50% na visoku procijenjenu vrijednost od 635.700 EUR, što ukazuje na potencijalno vrlo povoljan ulazak. Nedostatak detalja o stanju objekta i razlog visoke procjene za relativno perifernu lokaciju zahtijevaju detaljnu due diligence prije licitacije.",
   "flags": [
-    "provjeriti: vrsta i stanje nekretnine (opis ne sadrži detalje o objektu/zemljištu)",
-    "provjeriti: postojanje tereta i prava trećih"
+    "provjeriti: stanje objekta - opis ne navodi detalje o uređenosti",
+    "provjeriti: razlog visoke procijenjene vrijednosti u odnosu na lokaciju",
+    "provjeriti: status stečajnog postupka i eventualna opterećenja"
   ],
   "discount_pct": 50.0,
-  "input_hash": "7af8a39d9dab",
-  "scored_at": "2026-08-07T07:11:41.796800"
+  "input_hash": "da4319f768e1",
+  "scored_at": "2026-08-12T07:20:17.525052"
 }
