@@ -1,0 +1,17 @@
+{
+  "id": "61340",
+  "score_overall": 4.4,
+  "score_lokacija": 3.0,
+  "score_roi": 5.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Manje ruralno naselje u okolici Varaždina/Ludbrega bez izražene turističke ili urbane potražnje, a popust od 20% na prvoj dražbi ne nudi izniman ROI. Opis ne otkriva stanje kuće niti postoji li dodatna vrijednost (renovacija, useljivost), što uz malu površinu čini ovo prosječnom prilikom za praćenje, ne za agresivnu licitaciju.",
+  "flags": [
+    "provjeriti: stanje i useljivost kuće",
+    "provjeriti: postoji li osoba koja stanuje u nekretnini",
+    "provjeriti: teret i uknjižba u z.k.ul. 2556 k.o. Jakopovec"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "86c95d6bc0c3",
+  "scored_at": "2026-08-13T07:21:53.187757"
+}
