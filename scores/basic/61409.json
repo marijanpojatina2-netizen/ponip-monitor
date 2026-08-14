@@ -1,0 +1,16 @@
+{
+  "id": "61409",
+  "score_overall": 4.0,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Suvlasnički dio od svega 16/50 oranice u ruralnom Koprivničkom Ivancu uz minimalan popust od 20% i vrlo nisku vrijednost čini investiciju neatraktivnom i teško unovčivom. Frakcijsko vlasništvo dodatno komplicira raspolaganje i moguću prodaju cijele čestice.",
+  "flags": [
+    "provjeriti: mogućnost diobe/otkupa suvlasničkog dijela i odnosi s ostalim suvlasnicima",
+    "provjeriti: namjena i pristupnost zemljišta (poljoprivredno bez infrastrukture)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "c66b9480e156",
+  "scored_at": "2026-08-14T07:20:08.350615"
+}

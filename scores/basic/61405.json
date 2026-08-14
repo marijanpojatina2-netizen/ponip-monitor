@@ -1,0 +1,15 @@
+{
+  "id": "61405",
+  "score_overall": 4.1,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Dvije oranice od ukupno preko 12.000 m2 u ruralnom području kraj Koprivnice, prva dražba s tek 20% popusta ne daje jak ROI signal. Niska likvidnost poljoprivrednog zemljišta u depopulacijskom području ograničava investicijski interes izvan agro-sektora.",
+  "flags": [
+    "provjeriti: pristup i katastarska obrada zemljišta"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "a456f67203b3",
+  "scored_at": "2026-08-14T07:19:55.225398"
+}

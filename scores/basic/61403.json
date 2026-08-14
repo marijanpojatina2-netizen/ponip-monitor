@@ -1,0 +1,15 @@
+{
+  "id": "61403",
+  "score_overall": 4.1,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Oranica od 7.231 m2 u k.o. Gorica Nova, prva dražba s minimalnim popustom od 20%, nizak ulog. Slaba likvidnost regije i ruralni karakter zemljišta smanjuju atraktivnost za brzi ROI.",
+  "flags": [
+    "provjeriti: pristup i katastarska obrada zemljišta"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "bba95267048a",
+  "scored_at": "2026-08-14T07:19:55.225770"
+}

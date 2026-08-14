@@ -1,0 +1,15 @@
+{
+  "id": "61399",
+  "score_overall": 4.1,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Oranica od 11.620 m2 kraj Koprivnice, prva dražba sa standardnih 20% popusta, nizak apsolutni iznos ulaganja. Ruralna lokacija i tip nekretnine (poljoprivredno zemljište) ograničavaju dugoročni ROI za tipičnog nekretninskog investitora.",
+  "flags": [
+    "provjeriti: pristup i katastarska obrada zemljišta"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "cdd271abbee8",
+  "scored_at": "2026-08-14T07:19:55.225527"
+}
