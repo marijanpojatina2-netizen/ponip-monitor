@@ -1,0 +1,17 @@
+{
+  "id": "58967",
+  "score_overall": 5.6,
+  "score_lokacija": 3.5,
+  "score_roi": 8.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Velik proizvodni kompleks (pogon drvne ambalaže, skladišta) u k.o. Buković kod Benkovca, unutrašnjost zadarskog zaleđa a ne atraktivna obala, unatoč nadležnosti Trgovačkog suda u Zadru. 75% popust na 3. dražbi je vrlo povoljan, ali slabija lokacija i specifična namjena ograničavaju krug kupaca.",
+  "flags": [
+    "provjeriti: stanje brojnih pomoćnih i proizvodnih objekata",
+    "provjeriti: okolišno opterećenje (drvna industrija)",
+    "provjeriti: postoji li zakup ili treća prava"
+  ],
+  "discount_pct": 75.0,
+  "input_hash": "0565c3746917",
+  "scored_at": "2026-08-17T06:48:56.322666"
+}

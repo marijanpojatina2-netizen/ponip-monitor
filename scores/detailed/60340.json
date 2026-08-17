@@ -1,0 +1,36 @@
+{
+  "id": "60340",
+  "score_overall": 5.0,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Veliki industrijski kompleks (10.530 m2, zgrada + industrijsko dvorište) u Bedekovčini, Krapinsko-zagorska županija, uz A2 autocestu i blizinu Zagreba (cca 35-40 min), što daje umjerenu logističko-proizvodnu privlačnost, ali lokacija ostaje periferna/ruralna. Popust od 50% na drugoj dražbi je solidan, no visok apsolutni iznos ulaza (2.025.000 EUR) drastično sužava krug potencijalnih kupaca na industrijske investitore ili proizvodne tvrtke, što smanjuje likvidnost. Stanje objekta i infrastrukture nije opisano (nema fotografija/detalja u opisu), a radi se o stečajnoj prodaji industrijskog dvorišta gdje postoji rizik okolišnog opterećenja tla. Bez mogućnosti provjere tržišnih usporedivih ponuda (web pretraga nedostupna u ovoj sesiji) preporuka je oprezno praćenje do dobivanja dodatnih informacija s razgledavanja.",
+  "flags": [
+    "provjeriti: stanje objekta i infrastrukture (nema opisa/fotografija u dokumentaciji)",
+    "provjeriti: moguće okolišno opterećenje tla (bivše industrijsko dvorište)",
+    "provjeriti: postoji li zakup, najam ili treća prava na nekretnini",
+    "provjeriti: namjena i mogućnost prenamjene prostora (prostorni plan k.o. Bedekovčina)"
+  ],
+  "market_estimate": {
+    "eur_min": 1800000,
+    "eur_max": 2800000,
+    "confidence": "low",
+    "basis": "Web pretraga (WebSearch/WebFetch) nije bila dostupna u ovoj sesiji zbog nedostatka odobrene dozvole, pa procjena nije potkrijepljena stvarnim tržišnim oglasima niti izvorima. Raspon je gruba procjena temeljena na općem poznavanju cijena industrijskog zemljišta i objekata u sjevernom dijelu Krapinsko-zagorske županije (Zabok/Bedekovčina/Oroslavje pojas), gdje se industrijsko zemljište s pratećom infrastrukturom obično kreće u nižem stotinjak-do-dvjestotinjak EUR/m2 raspona ovisno o stanju objekta, dok sama sudska procjena od 4,05 mil. EUR implicira znatno viši standard opremljenosti nego što se može pretpostaviti bez dodatnih podataka. Preporuka: prije ponude nužno pribaviti stvarne usporedive transakcije i izvješće o stanju objekta."
+  },
+  "comparables": [],
+  "investment_strategy": "Reno-flip / razvoj za proizvodno-logističku namjenu: s obzirom na veličinu parcele (10.530 m2) i blizinu A2 autoceste te granice sa Slovenijom, objekt je potencijalno zanimljiv proizvodnim tvrtkama ili logističkim operaterima za vlastitu upotrebu, a manje kao čista preprodajna investicija zbog uskog kruga kupaca. Preprodaja bi zahtijevala strpljenje i ciljani marketing prema industrijskim kupcima u regiji.",
+  "entry_price_eur": 1600000,
+  "detailed_risks": [
+    "Nepoznato stanje zgrade i instalacija (struja, voda, plin, nosivost) bez fotografija u oglasu",
+    "Mogućnost onečišćenja tla s obzirom na dosadašnju industrijsku namjenu (trošak sanacije prije prenamjene)",
+    "Stečajna prodaja - mogući dodatni troškovi (porezni dugovi, komunalna infrastruktura, ovrhe) koji nisu uvijek transparentni u dražbenoj dokumentaciji",
+    "Uzak krug kupaca zbog visokog apsolutnog iznosa i specifične industrijske namjene - rizik dugog vremena do prodaje/iznajmljivanja",
+    "Nema podataka o prometnoj/komunalnoj infrastrukturi (pristupna cesta, priključci) na samoj parceli"
+  ],
+  "upside_scenario": "Ako se na razgledavanju utvrdi da je objekt strukturno očuvan i bez ozbiljnog okolišnog opterećenja, kupnja uz daljnji popust (treća dražba) omogućila bi brzu prenamjenu za logistiku/proizvodnju uz iskorištavanje blizine Zagreba i granice, s mogućim iznajmljivanjem proizvodnim tvrtkama uz prinos 6-8% godišnje unutar 2-3 godine.",
+  "downside_scenario": "Ako se pokaže značajno okolišno opterećenje tla ili je objekt u lošem strukturnom stanju, troškovi sanacije/rušenja mogli bi premašiti uštedu od popusta, a uzak krug kupaca za industrijske nekretnine te veličine mogao bi rezultirati dugotrajnim držanjem nekretnine bez prinosa ili daljnjim padom cijene na trećoj/četvrtoj dražbi.",
+  "discount_pct": 50.0,
+  "input_hash": "59bda601b64f",
+  "scored_at": "2026-08-17T06:55:18.573581"
+}

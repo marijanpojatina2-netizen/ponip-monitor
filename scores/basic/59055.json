@@ -1,0 +1,16 @@
+{
+  "id": "59055",
+  "score_overall": 5.9,
+  "score_lokacija": 5.5,
+  "score_roi": 7.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Najmanja nekretnina iz varaždinske serije, pretežno zemljište (6308 m2) s jednim manjim skladištem, uz 75% popust na 3. dražbi i nisku ulaznu cijenu (145.000 EUR). Manji apsolutni potencijal dobiti opravdava praćenje prije aktivnog ulaska.",
+  "flags": [
+    "provjeriti: stanje skladišta",
+    "provjeriti: postoji li zakup ili treća prava"
+  ],
+  "discount_pct": 75.0,
+  "input_hash": "fd430f2a5c30",
+  "scored_at": "2026-08-17T06:48:56.322925"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "60340",
+  "score_overall": 5.0,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Veliki industrijski kompleks u Bedekovčini (Zagorje), 50% popust na 2. dražbi je solidan ali ne ekstreman za tako visok iznos (4M EUR) koji ograničava krug kupaca. Ruralna/periferna lokacija i nepoznato stanje objekta smanjuju likvidnost investicije.",
+  "flags": [
+    "provjeriti: stanje objekta i infrastrukture",
+    "provjeriti: moguće okolišno opterećenje tla (industrijsko dvorište)",
+    "provjeriti: postoji li zakup ili treća prava"
+  ],
+  "discount_pct": 50.0,
+  "input_hash": "59bda601b64f",
+  "scored_at": "2026-08-17T06:48:56.322281"
+}

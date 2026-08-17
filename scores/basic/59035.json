@@ -1,0 +1,16 @@
+{
+  "id": "59035",
+  "score_overall": 6.1,
+  "score_lokacija": 5.5,
+  "score_roi": 8.0,
+  "score_stanje": 3.0,
+  "recommendation": "bid",
+  "reasoning": "Velika parcela od 18532 m2 u industrijskoj zoni Varaždina s minimalnom izgrađenošću (trafostanica, manje pomoćne zgrade) - primarno prilika za akumulaciju zemljišta uz 75% popust na 3. dražbi. Dobar potencijal za buduću izgradnju ili prenamjenu s obzirom na veličinu parcele.",
+  "flags": [
+    "provjeriti: komunalnu opremljenost i uvjete gradnje",
+    "provjeriti: postoji li zakup ili treća prava"
+  ],
+  "discount_pct": 75.0,
+  "input_hash": "81ae927995dc",
+  "scored_at": "2026-08-17T06:48:56.322732"
+}

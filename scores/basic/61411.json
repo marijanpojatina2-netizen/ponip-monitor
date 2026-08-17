@@ -1,0 +1,15 @@
+{
+  "id": "61411",
+  "score_overall": 3.3,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Ruralna čestica u k.o. Grabrovnica (Virovitica), opis 'gruntena livada (kuća i dv.)' ne potvrđuje postojanje stvarnog stambenog objekta. Prva dražba s tek 20% popusta i depopulacijsko područje daju slab investicijski case.",
+  "flags": [
+    "provjeriti: postoji li stvarni stambeni objekt na čestici"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "739bb12d8ecd",
+  "scored_at": "2026-08-17T06:51:30.093874"
+}

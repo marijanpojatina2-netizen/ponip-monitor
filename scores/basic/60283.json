@@ -1,0 +1,15 @@
+{
+  "id": "60283",
+  "score_overall": 5.4,
+  "score_lokacija": 6.0,
+  "score_roi": 6.5,
+  "score_stanje": 2.0,
+  "recommendation": "watch",
+  "reasoning": "Pašnjak od svega 349 m2 u Prizni, mjestu s trajektnom vezom prema Pagu na atraktivnoj kvarnerskoj obali, no bez objekta i malene površine ograničen je razvojni potencijal. Nizak apsolutni iznos ulaganja (18.180 EUR) čini ga zanimljivim za praćenje uz provjeru namjene.",
+  "flags": [
+    "provjeriti: namjena i mogućnost gradnje na pašnjaku"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "ca5e5114deb0",
+  "scored_at": "2026-08-17T06:50:12.054518"
+}

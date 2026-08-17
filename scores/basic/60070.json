@@ -1,0 +1,15 @@
+{
+  "id": "60070",
+  "score_overall": 5.4,
+  "score_lokacija": 4.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.5,
+  "recommendation": "bid",
+  "reasoning": "Kuća i dvorište u k.o. Hlevnica kraj Krapine uz solidan 40% popust na drugoj dražbi i relativno nizak ulog (~9180 EUR). Umjereno zanimljiva lokacija uz zagorsku periferiju čini ovo realnim kandidatom za licitaciju uz provjeru stanja objekta.",
+  "flags": [
+    "provjeriti: stanje kuće i useljenost"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "e243a5a2b731",
+  "scored_at": "2026-08-17T06:51:30.094383"
+}

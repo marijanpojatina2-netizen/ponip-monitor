@@ -1,0 +1,16 @@
+{
+  "id": "59051",
+  "score_overall": 6.3,
+  "score_lokacija": 5.5,
+  "score_roi": 8.0,
+  "score_stanje": 4.0,
+  "recommendation": "bid",
+  "reasoning": "Industrijska zgrada od 5456 m2 na 7140 m2 zemljišta u Varaždinu, 75% popust na 3. dražbi daje snažan ROI potencijal uz relativno velik zatvoreni prostor. Lokacija u gradskoj industrijskoj zoni osigurava razumnu likvidnost za daljnji zakup ili preprodaju.",
+  "flags": [
+    "provjeriti: stanje i tehnička ispravnost zgrade",
+    "provjeriti: postoji li zakup/najam ili treća prava"
+  ],
+  "discount_pct": 75.0,
+  "input_hash": "5d516a11b7d0",
+  "scored_at": "2026-08-17T06:48:56.322555"
+}

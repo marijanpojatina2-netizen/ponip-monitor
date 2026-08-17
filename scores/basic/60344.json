@@ -1,0 +1,15 @@
+{
+  "id": "60344",
+  "score_overall": 6.9,
+  "score_lokacija": 8.5,
+  "score_roi": 7.5,
+  "score_stanje": 3.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Susjedna čestica pašnjaka u istom kompleksu Monsego/Mušego (Rovinj), također uz 40% popust na drugoj dražbi. Kombinacija s parcelom 60348 mogla bi povećati vrijednost pri budućem razvoju, ali treba provjeriti urbanistički status.",
+  "flags": [
+    "provjeriti: namjena zemljišta i mogućnost gradnje (poljoprivredno zemljište - pašnjak)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "d4e40a75e08b",
+  "scored_at": "2026-08-17T06:51:30.094159"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "59091",
+  "score_overall": 5.2,
+  "score_lokacija": 5.5,
+  "score_roi": 6.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Nekretnina u Ražinama kraj Šibenika je 500/2162 suvlasnički dio čestice koja uglavnom služi kao pristupni put cijeloj parceli, uz stari trošni objekt. Ograničena samostalna upotrebljivost udjela čini ROI slabim unatoč nominalnom 40% popustu.",
+  "flags": [
+    "ograničena namjena - dio čestice predstavlja pristupni put za cijelu parcelu",
+    "provjeriti: stvarna upotrebljivost i mogućnost izdvajanja suvlasničkog dijela (500/2162)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "e4b8e8596b24",
+  "scored_at": "2026-08-17T06:50:12.054349"
+}

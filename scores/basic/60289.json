@@ -1,0 +1,15 @@
+{
+  "id": "60289",
+  "score_overall": 4.5,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Ruralna nekretnina u Palovcu (Međimurje) s ograničenom likvidnošću unatoč 40% popustu na drugoj dražbi. Neuobičajeno je da je ovrhovoditelj već suvlasnik u 1/2 dijela, što komplicira transakciju i smanjuje atraktivnost za vanjskog investitora.",
+  "flags": [
+    "provjeriti: suvlasnički odnos ovrhovoditelja i ovršenika (1/2-1/2) i utjecaj na prodaju"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "dd54eb3cfc93",
+  "scored_at": "2026-08-17T06:50:12.054164"
+}

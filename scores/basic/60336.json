@@ -1,0 +1,15 @@
+{
+  "id": "60336",
+  "score_overall": 7.0,
+  "score_lokacija": 7.5,
+  "score_roi": 7.5,
+  "score_stanje": 5.0,
+  "recommendation": "bid",
+  "reasoning": "Poslovni prostor u potkrovlju zgrade na Ulici grada Vukovara u Zagrebu, atraktivna lokacija uz 40% popust i drugu dražbu. Suvlasnički omjer (1126/100000) je neuobičajen i zahtijeva provjeru povezanosti s PP-19 prije licitacije.",
+  "flags": [
+    "provjeriti: suvlasnički omjer (1126/100000) i status korištenja poslovnog prostora"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "027225cc17bb",
+  "scored_at": "2026-08-17T06:50:12.053339"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "59027",
+  "score_overall": 7.1,
+  "score_lokacija": 6.5,
+  "score_roi": 8.5,
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Veliki industrijski kompleks (17.313 m2 zemljišta, ~4.450 m2 objekata) na Zagrebačkoj ulici u Varaždinu, prodaje se na trećoj dražbi uz 75% popusta od procjene (377.500 EUR početna cijena naspram 1.510.000 EUR procijenjene vrijednosti). Lokacija je solidna - Varaždin je regionalni industrijski centar dobro povezan s A4 autocestom prema Zagrebu i granicom sa Slovenijom. Opis ne daje detalje o stvarnom stanju objekata niti o teretima iz stečajnog postupka, što uz veličinu ulaganja traži temeljit due diligence prije licitacije. Omjer cijene i procjene je izrazito povoljan za investitora spremnog preuzeti rizik nepoznatog stanja.",
+  "flags": [
+    "provjeriti: stvarno stanje i starost industrijskih objekata (opis ne navodi detalje o stanju)",
+    "provjeriti: postoje li tereti, hipoteke ili druga prava na nekretnini iz stečajnog postupka",
+    "provjeriti: dostupnost procjembenog elaborata (šalje se samo na upit stečajnom upravitelju)",
+    "provjeriti: koristi li dio kompleksa treća strana (zakup opreme/prostora unutar stečajne mase)"
+  ],
+  "market_estimate": {
+    "eur_min": 900000,
+    "eur_max": 1600000,
+    "confidence": "low",
+    "basis": "Web pretraga tržišnih oglasa nije bila dostupna u ovoj sesiji (alat za pretragu weba odbijen/nedostupan), pa procjena raspona temelji se isključivo na službenoj sudskoj procjeni (1.510.000 EUR) i općem poznavanju tržišta industrijskih nekretnina u Varaždinu i sličnim regionalnim gradovima sjeverne Hrvatske. Preporuka: prije licitacije ručno provjeriti aktivne oglase industrijskih/skladišnih nekretnina u Varaždinu na nekretnine.net i njuskalo.hr te zatražiti procjembeni elaborat od stečajnog upravitelja."
+  },
+  "comparables": [],
+  "investment_strategy": "Kupnja ispod tržišne vrijednosti uz naknadnu sanaciju i preprodaju/iznajmljivanje pojedinačnih hala (skladišta i industrijske zgrade) investitorima iz logistike ili lake industrije; alternativno, razvoj kompleksa u poslovni/logistički park s najmom više manjih zakupaca s obzirom na dobru prometnu povezanost lokacije.",
+  "entry_price_eur": 550000,
+  "detailed_risks": [
+    "Nepoznato stvarno stanje i starost svih 11 objekata na parceli - opis ne navodi stanje instalacija, krovova, konstrukcije",
+    "Mogući značajni troškovi sanacije ili čak rušenja dotrajalih industrijskih objekata",
+    "Ograničena likvidnost velikih industrijskih kompleksa - uzak krug potencijalnih kupaca/zakupaca",
+    "Moguća opterećenja (hipoteke, služnosti, tražbine vjerovnika) proizašla iz stečajnog postupka nad prethodnim vlasnikom",
+    "Procjembeni elaborat nije javno dostupan, pa je stvarna vrijednost i stanje teško procijeniti bez izravnog uvida"
+  ],
+  "upside_scenario": "Uz kupnju blizu početne cijene (cca 400.000-550.000 EUR) i relativno umjerenu investiciju u sanaciju, kompleks bi u 2-3 godine mogao generirati snažan prinos kroz najam više manjih poslovnih/skladišnih jedinica logističkim i proizvodnim tvrtkama, uz rast potražnje za industrijskim prostorom uz A4 koridor prema Zagrebu i Grazu.",
+  "downside_scenario": "Ako se objekti pokažu strukturno neispravnima ili se pojave neriješeni tereti iz stečajne mase, troškovi sanacije i pravnog raščišćavanja mogli bi nadmašiti očekivani prinos, a zbog uskog kruga kupaca za velike industrijske komplekse imovina bi mogla ostati dugoročno nelikvidna i neiskorištena.",
+  "discount_pct": 75.0,
+  "input_hash": "7c1b014e2ab4",
+  "scored_at": "2026-08-17T07:01:59.201803"
+}

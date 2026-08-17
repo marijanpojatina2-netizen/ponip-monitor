@@ -1,0 +1,15 @@
+{
+  "id": "61389",
+  "score_overall": 4.4,
+  "score_lokacija": 4.0,
+  "score_roi": 5.5,
+  "score_stanje": 2.5,
+  "recommendation": "watch",
+  "reasoning": "Iako je sud u Dubrovniku, nekretnina je u Glavini Donjoj kod Imotskog - kontinentalna, ne obalna lokacija s ograničenom likvidnošću. Ruševna zgrada na velikoj čestici (6.321 m2) daje potencijal za gradnju, ali samo prva dražba s 25% popusta ne pruža veliki popust.",
+  "flags": [
+    "provjeriti: status ruševnog objekta i građevinska namjena čestice"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "37813fc2ab12",
+  "scored_at": "2026-08-17T06:50:12.053527"
+}

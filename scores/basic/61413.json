@@ -1,0 +1,13 @@
+{
+  "id": "61413",
+  "score_overall": 3.7,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Mala parcela oranice (240 čhv) u ruralnom k.o. Grabrovnica, Virovitičko-podravska županija, s niskom procijenjenom vrijednošću od svega 600 EUR i popustom od tek 20% na prvoj dražbi. Nelikvidna ruralna lokacija i tip nekretnine (poljoprivredno zemljište) nude ograničen ROI potencijal za investitora.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "7155ca884ba3",
+  "scored_at": "2026-08-17T06:51:42.660684"
+}

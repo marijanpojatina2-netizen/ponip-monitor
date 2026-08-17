@@ -1,0 +1,15 @@
+{
+  "id": "61415",
+  "score_overall": 3.2,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Dvorište i oranica 'kod kuće' u k.o. Grabrovnica (Virovitica) - opis sugerira da sama kuća možda nije dio predmeta prodaje, samo zemljište uz nju. Prva dražba s tek 20% popusta i slaba ruralna lokacija čine ovo neatraktivnim ulaganjem.",
+  "flags": [
+    "provjeriti: postoji li stambeni objekt na čestici (opis navodi samo dvorište i oranicu 'kod kuće')"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "7c831f85526d",
+  "scored_at": "2026-08-17T06:51:30.094661"
+}

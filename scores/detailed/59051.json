@@ -1,0 +1,36 @@
+{
+  "id": "59051",
+  "score_overall": 6.4,
+  "score_lokacija": 6.0,
+  "score_roi": 7.5,
+  "score_stanje": 4.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Velika industrijska nekretnina (5456 m2 hale na 7140 m2 zemljišta) u Varaždinu, gradu sa snažnom industrijskom bazom i dobrom prometnom povezanošću prema Zagrebu i granici sa Slovenijom, na trećoj dražbi s 75% popusta od procijenjene vrijednosti (2,55M EUR na 637.500 EUR). Popust i veličina kompleksa nude značajan ROI potencijal, ali nedostatak detalja o tehničkom stanju objekta i uska baza kupaca za industrijske nekretnine tog opsega povećavaju rizik i zahtijevaju terensku due diligence prije licitiranja. Web pretraga tržišnih usporedbi nije bila dostupna u ovoj sesiji, stoga je procjena tržišne vrijednosti niske pouzdanosti i temelji se na općem poznavanju lokalnog tržišta industrijskih nekretnina.",
+  "flags": [
+    "provjeriti: tehničko stanje industrijske zgrade (opis ne navodi detalje o konstrukciji, krovištu, instalacijama)",
+    "provjeriti: moguća kontaminacija tla s obzirom na prijašnju industrijsku djelatnost",
+    "provjeriti: postoji li zakupac/korisnik prostora unutar stečajne mase",
+    "treća dražba - dva prethodna pokušaja prodaje nisu uspjela, što ukazuje na slab interes tržišta ili precijenjenu procjenu"
+  ],
+  "market_estimate": {
+    "eur_min": 700000,
+    "eur_max": 1300000,
+    "confidence": "low",
+    "basis": "Web pretraga tržišnih podataka nije bila dostupna u ovoj sesiji (alat blokiran). Raspon je gruba procjena temeljena na općem poznavanju cijena industrijskih nekretnina u Varaždinu (okvirno 130-240 EUR/m2 građevine ovisno o stanju) i činjenici da je službena procjena stečajnog upravitelja (2,55M EUR) vjerojatno precijenjena s obzirom na dva neuspjela prethodna pokušaja prodaje. Preporuka: prije licitacije naručiti neovisnu procjenu i dohvatiti aktualne oglase industrijskih nekretnina u Varaždinu."
+  },
+  "comparables": [],
+  "investment_strategy": "Razvoj/preprodaja - potencijalna prenamjena velike industrijske hale u logističko-skladišni prostor s obzirom na lokaciju na Zagrebačkoj ulici (glavna prometnica) i blizinu autoceste; alternativno iznajmljivanje proizvodnim/logističkim tvrtkama nakon minimalne adaptacije, uz mogućnost daljnje parcelizacije velike čestice (7140 m2).",
+  "entry_price_eur": 550000,
+  "detailed_risks": [
+    "Opis ne sadrži informacije o trenutnom tehničkom stanju hale (krov, instalacije, statika)",
+    "Mogući troškovi sanacije okoliša/tla zbog dugogodišnje industrijske namjene",
+    "Uzak krug potencijalnih kupaca za veliku industrijsku nekretninu smanjuje likvidnost izlaska",
+    "Stečajni postupak - moguća opterećenja, sporovi ili nedovršene formalnosti oko zemljišnoknjižnog stanja",
+    "Netransparentnost - procjene i dodatni podaci dostupni samo na izravan upit stečajnom upravitelju, što otežava predviđanje pravog stanja prije razgledavanja"
+  ],
+  "upside_scenario": "Investitor kupuje blizu početne cijene (600-650k EUR), provodi ciljanu adaptaciju hale (krov, instalacije, energetska obnova) uz trošak od 150-250k EUR, te ju iznajmljuje proizvodnoj/logističkoj tvrtki ili prodaje investitoru iz sektora industrije/logistike unutar 2-3 godine po vrijednosti od 1,2-1,5M EUR, ostvarujući solidan prinos zahvaljujući velikom ulaznom diskontu.",
+  "downside_scenario": "Ako se na trećoj dražbi ponovno ne pronađe kupac, cijena se dodatno spušta na četvrtoj dražbi bez donjeg praga, signalizirajući slab tržišni interes; ako se otkriju skrivene mane (kontaminacija tla, teška oštećenja konstrukcije, sporovi oko vlasništva), trošak sanacije može premašiti očekivanu dobit i nekretnina ostaje teško utrživa dugi niz godina.",
+  "discount_pct": 75.0,
+  "input_hash": "5d516a11b7d0",
+  "scored_at": "2026-08-17T06:58:54.179500"
+}

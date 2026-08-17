@@ -1,0 +1,36 @@
+{
+  "id": "60336",
+  "score_overall": 6.8,
+  "score_lokacija": 7.5,
+  "score_roi": 7.0,
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Ulica grada Vukovara jedna je od najprestižnijih poslovnih adresa u Zagrebu (Trnje, blizina centra, dobra prometna povezanost), što opravdava visoku ocjenu lokacije. Druga dražba s 40% popustom (348.000 EUR nasuprot procijenjenih 580.000 EUR, tj. ~2.830 EUR/m2 nasuprot procjeni od ~4.717 EUR/m2) daje solidan ROI potencijal. Nedostaje informacija o trenutnom stanju prostora te o eventualnim teretima/korisnicima, a radi se o malom suvlasničkom dijelu (1126/100000) vezanom uz potkrovni poslovni prostor, što zahtijeva detaljnu pravnu i tehničku provjeru prije licitacije.",
+  "flags": [
+    "provjeriti: zakup/najam poslovnog prostora PP-19",
+    "provjeriti: koristi li netko trenutno prostor (osoba/tvrtka)",
+    "provjeriti: teret i upisana prava koja ne prestaju prodajom (ZK izvadak)",
+    "provjeriti: stanje potkrovnog prostora (visina stropa, dozvole za poslovnu namjenu, instalacije)"
+  ],
+  "market_estimate": {
+    "eur_min": 420000,
+    "eur_max": 580000,
+    "confidence": "low",
+    "basis": "Web pretraga tržišta nije bila dostupna u ovoj sesiji (odbijena dozvola), stoga je raspon procijenjen na temelju opće poznate razine cijena poslovnog prostora na koridoru Ulice grada Vukovara u Zagrebu (orijentacijski 3.000-5.000 EUR/m2 za starije uredske zgrade), umanjeno zbog nesigurnosti oko stanja potkrovnog prostora i nepravilnog tlocrta. Preporuka: ponoviti procjenu s pristupom web pretrazi (nekretnine.net, njuskalo.hr) prije konačne odluke."
+  },
+  "comparables": [],
+  "investment_strategy": "reno-flip / iznajmljivanje — kupnja uz značajan popust (2. dražba), manje ulaganje u adaptaciju potkrovnog uredskog prostora, potom iznajmljivanje poslovnim korisnicima na atraktivnoj poslovnoj adresi ili preprodaja nakon uređenja",
+  "entry_price_eur": 380000,
+  "detailed_risks": [
+    "Mali suvlasnički dio (1126/100000) vezan uz konkretnu etažnu jedinicu — moguće komplikacije pri uknjižbi i budućoj preprodaji",
+    "Potkrovni prostor (7. kat/potkrovlje) — tipično niži stropovi i nepravilan tlocrt, otežana namjena i tržišna privlačnost",
+    "Nema podataka o trenutnom stanju, opremljenosti i eventualnom korištenju prostora u opisu",
+    "Razgledavanje samo uz sudskog ovršitelja — ograničena mogućnost detaljne inspekcije prije kupnje",
+    "Nepoznata likvidnost niše (mali specifični uredski prostor) u odnosu na standardne uredske jedinice"
+  ],
+  "upside_scenario": "Uz manju adaptaciju, prostor se izdaje poslovnom korisniku po tržišnoj zakupnini za prestižnu adresu (procjena prinosa 6-7% godišnje), ili se nakon uređenja preprodaje blizu procijenjene vrijednosti od 580.000 EUR unutar 12-24 mjeseca zbog stalne potražnje za uredskim prostorom u širem centru Zagreba.",
+  "downside_scenario": "Ako se pri due diligence utvrde neriješeni tereti, postojeći zakupnik s pravima koja ne prestaju prodajom, ili strukturni/dozvolski problemi potkrovnog prostora, kapital ostaje zamrznut, a preprodaja/najam bitno otežani i ispod procijenjene vrijednosti.",
+  "discount_pct": 40.0,
+  "input_hash": "027225cc17bb",
+  "scored_at": "2026-08-17T07:06:23.317531"
+}

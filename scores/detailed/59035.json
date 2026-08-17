@@ -1,0 +1,36 @@
+{
+  "id": "59035",
+  "score_overall": 6.2,
+  "score_lokacija": 5.5,
+  "score_roi": 8.0,
+  "score_stanje": 3.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Velika parcela (18.532 m2) na Zagrebačkoj ulici u Varaždinu s izrazito visokim popustom (75%) na trećoj dražbi ukazuje na snažan ROI potencijal, ali objekti su svedeni na trafostanicu i pomoćne/servisne zgrade (ukupno ~354 m2) što znači da je riječ prvenstveno o kupnji zemljišta, a ne useljive nekretnine. Dvije neuspjele prethodne dražbe i prisutnost trafostanice na parceli nose značajne nepoznanice (moguća HEP služnost, stanje tla) koje zahtijevaju detaljnu due diligence prije licitacije. Zbog visoke apsolutne vrijednosti i potencijala za industrijski/logistički razvoj ili parcelaciju, slučaj zaslužuje temeljitu analizu prije odluke o ulasku.",
+  "flags": [
+    "provjeriti: služnost/vlasništvo HEP-a nad trafostanicom (96 m2) na parceli",
+    "provjeriti: moguća kontaminacija tla s obzirom na industrijsku/servisnu namjenu građevina",
+    "provjeriti: razlog neuspjeha prve i druge dražbe (nizak tržišni interes ili skriveni problem)",
+    "provjeriti: pristupni put, komunalna infrastruktura i namjena prostornim planom za parcelu ove veličine"
+  ],
+  "market_estimate": {
+    "eur_min": 850000,
+    "eur_max": 1500000,
+    "confidence": "low",
+    "basis": "Web pretraga nije bila dostupna u ovoj sesiji; procjena se temelji na tipičnim rasponima cijena industrijskog/poslovnog zemljišta u perifernim zonama Varaždina (okvirno 40-80 EUR/m2 za velike parcele bez razvijene građevinske infrastrukture), primijenjenim na 18.532 m2. Sudska procjena od 1.760.000 EUR (~95 EUR/m2) implicira nešto povoljniju lokaciju/infrastrukturu nego prosjek."
+  },
+  "comparables": [],
+  "investment_strategy": "Land banking / razvoj: kupnja velike industrijske/poslovne parcele s minimalnom postojećom izgradnjom radi buduće prenamjene, parcelacije ili preprodaje investitorima u logistici/proizvodnji, uz preduvjet rješavanja pravnog statusa trafostanice i ekološke provjere prije ozbiljnijeg ulaganja.",
+  "entry_price_eur": 600000,
+  "detailed_risks": [
+    "Trafostanica na parceli može podrazumijevati trajnu služnost/pravo korištenja u korist HEP-a koje ne prestaje prodajom",
+    "Dvije neuspjele prethodne dražbe mogu signalizirati slabiji tržišni interes ili skriveni nedostatak (npr. onečišćenje tla iz prijašnje industrijske uporabe)",
+    "Nekretnina stečajnog dužnika - moguća dodatna pravna opterećenja koja nisu eksplicitno navedena u opisu",
+    "Objekti (pomoćne/servisne zgrade) vjerojatno u lošem stanju i zahtijevaju rušenje ili temeljitu obnovu",
+    "Razgledavanje isključivo putem dogovora sa stečajnim upraviteljem otežava brzu procjenu stvarnog stanja prije dražbe"
+  ],
+  "upside_scenario": "Ako se u due diligence potvrdi čisto vlasništvo bez tereta i tlo bez kontaminacije, parcela se u 2-3 godine može prenamijeniti ili parcelirati i prodati/iznajmiti investitorima u logistici ili proizvodnji po tržišnoj cijeni znatno višoj od ulazne, uz mogući povrat od 100%+ na uloženi kapital.",
+  "downside_scenario": "Ako se potvrdi HEP služnost, kontaminacija tla ili druga pravna zapreka, parcela ostaje teško utrživa i kapital je zarobljen; nekretnina može otići i na četvrtu dražbu s dodatnim sniženjem cijene, produžujući vrijeme do izlaska iz investicije.",
+  "discount_pct": 75.0,
+  "input_hash": "81ae927995dc",
+  "scored_at": "2026-08-17T07:00:35.767604"
+}

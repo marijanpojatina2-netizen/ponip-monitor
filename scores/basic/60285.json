@@ -1,0 +1,15 @@
+{
+  "id": "60285",
+  "score_overall": 5.3,
+  "score_lokacija": 6.0,
+  "score_roi": 6.5,
+  "score_stanje": 1.5,
+  "recommendation": "watch",
+  "reasoning": "Kamenjar/plato od svega 66 m2 u k.o. Sveti Juraj (Crikvenica/Senj) uz 40% popust na drugoj dražbi - obalna lokacija je zanimljiva, ali izrazito mala i neizgrađena čestica ograničava praktičnu upotrebljivost. Vrijedno praćenja radi eventualne kupnje kao dopunske parcele, ali ne kao samostalno ulaganje.",
+  "flags": [
+    "provjeriti: građevinska namjena/dozvola za malu građevnu česticu (66 m2)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "398f658b2b14",
+  "scored_at": "2026-08-17T06:51:30.094795"
+}

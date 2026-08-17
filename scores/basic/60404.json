@@ -1,0 +1,15 @@
+{
+  "id": "60404",
+  "score_overall": 4.7,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Vinograd i voćnjak u k.o. Kotlina (Baranja) na 40% popusta i drugoj dražbi, no ruralna Slavonija/Baranja ima slabu likvidnost tržišta. Vrijednost ovisi o stvarnom stanju nasada koje iz opisa nije moguće procijeniti.",
+  "flags": [
+    "provjeriti: stanje i održavanje nasada (vinograd/voćnjak)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "ccc07fef9e24",
+  "scored_at": "2026-08-17T06:51:30.094275"
+}

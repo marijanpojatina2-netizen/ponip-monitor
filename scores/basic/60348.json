@@ -1,0 +1,15 @@
+{
+  "id": "60348",
+  "score_overall": 6.9,
+  "score_lokacija": 8.5,
+  "score_roi": 7.5,
+  "score_stanje": 3.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Zemljište u Rovinju (Monsego/Mušego) uz 40% popust na drugoj dražbi - odlična lokacija uz istarsku obalu s velikim dugoročnim potencijalom. Radi se o pašnjaku bez infrastrukture pa je ključno provjeriti urbanističku namjenu prije licitacije.",
+  "flags": [
+    "provjeriti: namjena zemljišta i mogućnost gradnje (poljoprivredno zemljište - pašnjak)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "f67bef44f49e",
+  "scored_at": "2026-08-17T06:51:30.094057"
+}

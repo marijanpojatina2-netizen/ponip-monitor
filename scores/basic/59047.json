@@ -1,0 +1,16 @@
+{
+  "id": "59047",
+  "score_overall": 6.2,
+  "score_lokacija": 5.5,
+  "score_roi": 8.0,
+  "score_stanje": 3.5,
+  "recommendation": "bid",
+  "reasoning": "Industrijski kompleks od 7931 m2 s više manjih građevina u Varaždinu, 75% popust na 3. dražbi uz umjerenu ulaznu cijenu (245.000 EUR) daje solidan omjer rizika i prinosa. Fragmentiranost objekata (mnogo manjih zgrada) može otežati jedinstvenu prenamjenu.",
+  "flags": [
+    "provjeriti: stanje brojnih manjih građevina",
+    "provjeriti: postoji li zakup ili treća prava"
+  ],
+  "discount_pct": 75.0,
+  "input_hash": "5ca2ba3a63e9",
+  "scored_at": "2026-08-17T06:48:56.322858"
+}

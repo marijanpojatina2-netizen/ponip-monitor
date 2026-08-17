@@ -1,0 +1,17 @@
+{
+  "id": "59039",
+  "score_overall": 6.2,
+  "score_lokacija": 5.5,
+  "score_roi": 8.0,
+  "score_stanje": 3.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Dio raspareljene industrijske cjeline na Zagrebačkoj ulici u Varaždinu (vjerojatno bivši Varteks kompleks), 75% popust na 3. dražbi uz najvišu procijenjenu vrijednost u seriji (2,85M EUR) čini je najzanimljivijom za detaljnu analizu. Gradska lokacija i adresa daju dobar potencijal prenamjene.",
+  "flags": [
+    "provjeriti: stanje industrijskih zgrada",
+    "provjeriti: postoji li zakup/najam ili treća prava na dijelu kompleksa",
+    "provjeriti: mogućnost urbanističke prenamjene"
+  ],
+  "discount_pct": 75.0,
+  "input_hash": "39760d2fa47a",
+  "scored_at": "2026-08-17T06:48:56.322475"
+}

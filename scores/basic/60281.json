@@ -1,0 +1,16 @@
+{
+  "id": "60281",
+  "score_overall": 5.8,
+  "score_lokacija": 6.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća s dvorištem u Jablancu na kvarnerskoj obali ima turistički potencijal uz 40% popust na drugoj dražbi, no kupuje se samo 8/32 suvlasničkog dijela što bitno ograničava kontrolu i likvidnost. Stanje kuće nije detaljno opisano pa se pretpostavlja potreba za ulaganjem.",
+  "flags": [
+    "suvlasnički dio (8/32) - kupnja samo udjela, ne cijele nekretnine",
+    "provjeriti: mogućnost razvrgnuća suvlasništva s ostalim suvlasnicima"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "3c0f1128a582",
+  "scored_at": "2026-08-17T06:50:12.054001"
+}

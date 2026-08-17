@@ -1,0 +1,36 @@
+{
+  "id": "59055",
+  "score_overall": 6.7,
+  "score_lokacija": 6.0,
+  "score_roi": 8.5,
+  "score_stanje": 4.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Veliko gradsko zemljište (6308 m2) u Varaždinu, poznatom gospodarskom središtu sjeverozapadne Hrvatske, uz simboličan udio izgrađenog skladišta (102 m2) što ukazuje na pretežno neizgrađenu parcelu s razvojnim potencijalom. Treća dražba s 75% popustom od procjene (145.000 EUR nasuprot 580.000 EUR) nudi izraženu marginu sigurnosti, no visok popust nakon dvije neuspjele dražbe sugerira nišnost predmeta ili ograničen krug kupaca. Stečajna prodaja i ograničeno razgledavanje (samo putem stečajnog upravitelja) traže temeljitu pravnu i urbanističku due diligence prije licitacije. Vrijednost >500k EUR i razvojni potencijal opravdavaju detaljniju analizu prije donošenja odluke.",
+  "flags": [
+    "provjeriti: pravno stanje zemljišta i eventualni tereti/hipoteke iz stečajne mase",
+    "provjeriti: urbanistički status i mogućnost promjene namjene zemljišta",
+    "provjeriti: stanje komunalne infrastrukture i pristupnog puta",
+    "provjeriti: razlog dvije prethodne neuspjele dražbe"
+  ],
+  "market_estimate": {
+    "eur_min": 400000,
+    "eur_max": 600000,
+    "confidence": "low",
+    "basis": "WebSearch alat nije bio dostupan u ovoj sesiji pa nisu pronađeni konkretni aktivni oglasi/usporedbe. Procjena se temelji na općem poznavanju tržišta poslovnog/industrijskog zemljišta u gradu Varaždinu (srednje veliki grad, dobra prometna povezanost uz A4, poznata industrijska zona vezana uz brend Varteks) i na sudskoj procjeni vrijednosti od 580.000 EUR (~92 EUR/m2), koja se čini realnom za urbano poslovno zemljište te veličine."
+  },
+  "comparables": [],
+  "investment_strategy": "razvoj + preprodaja: kupnja velike gradske parcele po znatno sniženoj cijeni, potencijalna sanacija/uklanjanje postojećeg skladišta, komunalno opremanje i preprodaja developeru ili lokalnom poduzetniku za logističku/poslovnu namjenu; alternativno dugoročno zemljišno bankarstvo do promjene urbanističkog plana.",
+  "entry_price_eur": 220000,
+  "detailed_risks": [
+    "Treća dražba nakon dvije neuspjele — moguć skriveni problem s pravnim statusom, pristupom ili tržišnom potražnjom",
+    "Razgledavanje isključivo putem dogovora sa stečajnim upraviteljem — ograničena mogućnost prethodne fizičke i pravne provjere",
+    "Skladište od samo 102 m2 na 6308 m2 zemljišta ukazuje da je objekt zastario ili gotovo bezvrijedan — realna vrijednost leži gotovo isključivo u zemljištu",
+    "Stečajna prodaja nosi rizik naknadnih potraživanja vjerovnika ili trećih osoba unatoč sudskoj prodaji",
+    "Nepoznat status komunalne infrastrukture (struja, voda, kanalizacija, pristupni put) na velikoj neizgrađenoj parceli"
+  ],
+  "upside_scenario": "Uz ulaznu cijenu blizu početnih 145.000-220.000 EUR i uspješnu due diligence, investitor stječe veliku gradsku parcelu uz djelić procijenjene vrijednosti. Uz komunalno opremanje i eventualnu promjenu/potvrdu namjene, zemljište se u 2-3 godine može preprodati logističkom ili proizvodnom investitoru blizu ili iznad procijenjenih 580.000 EUR, posebno ako Varaždin nastavi privlačiti proizvodne pogone uz A4 koridor.",
+  "downside_scenario": "Ako se pokažu pravna opterećenja, loš pristup ili ograničenja namjene, parcela ostaje nelikvidna te zahtijeva daljnje spuštanje cijene na eventualnoj četvrtoj dražbi. Investitor u tom slučaju snosi troškove komunalne naknade, poreza na nekretnine i održavanja bez jasnog izlaza, uz mogući dugotrajni kapital 'zaključan' u niskolikvidnoj imovini.",
+  "discount_pct": 75.0,
+  "input_hash": "fd430f2a5c30",
+  "scored_at": "2026-08-17T07:04:55.470161"
+}

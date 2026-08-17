@@ -1,0 +1,17 @@
+{
+  "id": "59027",
+  "score_overall": 6.3,
+  "score_lokacija": 5.5,
+  "score_roi": 8.0,
+  "score_stanje": 4.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Najveći industrijski kompleks u varaždinskoj seriji (17313 m2 s brojnim skladištima i proizvodnim zgradama ukupno preko 3800 m2 građevina) uz 75% popust i relativno nisku ulaznu cijenu (377.500 EUR) zaslužuje detaljnu analizu potencijala prenamjene ili iznajmljivanja. Gradska industrijska lokacija daje razumnu likvidnost.",
+  "flags": [
+    "provjeriti: stanje i iskoristivost brojnih građevina",
+    "provjeriti: postoji li zakup ili treća prava",
+    "provjeriti: troškove održavanja tolikog broja objekata"
+  ],
+  "discount_pct": 75.0,
+  "input_hash": "7c1b014e2ab4",
+  "scored_at": "2026-08-17T06:48:56.322792"
+}

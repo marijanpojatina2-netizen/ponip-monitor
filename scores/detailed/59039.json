@@ -1,0 +1,36 @@
+{
+  "id": "59039",
+  "score_overall": 6.3,
+  "score_lokacija": 5.5,
+  "score_roi": 8.0,
+  "score_stanje": 4.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Kompleks starijih industrijskih zgrada i dvorišta na Zagrebačkoj ulici u Varaždinu, tradicionalnoj poluindustrijskoj ulaznoj prometnici u grad, s realnom likvidnošću ali bez top-lokacijskog potencijala. Treća dražba i 75% popust od procijenjene vrijednosti (712.500 EUR nasuprot 2.850.000 EUR) daju izuzetno visok ROI potencijal, no visok apsolutni iznos ulaganja i nepoznato stanje objekata (stečajni dužnik, bez detalja o funkcionalnosti/dozvolama) traže temeljitu due diligence prije licitacije. Vrijednost prelazi 500k EUR pa zaslužuje detaljnu analizu, ali bez potvrđenih usporedivih oglasa procjena tržišne vrijednosti nosi nisku pouzdanost.",
+  "flags": [
+    "provjeriti: stvarno stanje i funkcionalnost triju industrijskih zgrada (dob, instalacije, uporabne dozvole)",
+    "provjeriti: postoje li zakupci ili treće osobe u posjedu nekretnine (stečajni dužnik je vjerojatno ranije poslovao na lokaciji)",
+    "provjeriti: moguća onečišćenja tla s obzirom na dugogodišnju industrijsku namjenu",
+    "provjeriti: usklađenost stvarnog stanja gradnje s katastrom/zk. uloškom (rizik nelegalne izgradnje kod starijih industrijskih objekata)",
+    "provjeriti: razlog velikog raskoraka procijenjene vrijednosti (2,85 mil EUR) i realne tržišne vrijednosti industrijskih nekretnina u Varaždinu"
+  ],
+  "market_estimate": {
+    "eur_min": 1300000,
+    "eur_max": 2000000,
+    "confidence": "low",
+    "basis": "WebSearch/WebFetch alati nisu bili dostupni u ovoj sesiji (odbijeno odobrenje) pa procjena nije potvrđena stvarnim oglasima. Temeljeno na općem poznavanju tržišta: starije industrijske hale u Varaždinu obično 400-700 EUR/m2, poslovno zemljište uz glavne prometnice 50-150 EUR/m2; za 1018 m2 zemljišta i cca 727 m2 objekata realna tržišna vrijednost vjerojatno je znatno niža od sudske procjene od 2,85 mil EUR, koja može odražavati potencijal namjenske promjene (stambeno-poslovno) a ne trenutnu industrijsku upotrebu."
+  },
+  "comparables": [],
+  "investment_strategy": "Reno-flip ili razvoj: s obzirom na urbanu lokaciju blizu centra Varaždina i veliku zemljišnu površinu (1018 m2), najveći potencijal je u promjeni namjene i djelomičnoj rekonstrukciji za manje poslovne/uslužne prostore ili stambeno-poslovnu gradnju, uz mogućnost srednjoročnog iznajmljivanja postojećih hala do realizacije razvoja.",
+  "entry_price_eur": 950000,
+  "detailed_risks": [
+    "Nepoznato tehničko stanje objekata bez terenskog uvida (razgledavanje isključivo putem dogovora sa stečajnim upraviteljem)",
+    "Niska likvidnost sekundarnog tržišta industrijskih nekretnina izvan velikih gradova",
+    "Mogući trošak sanacije/rušenja starijih industrijskih objekata prije nove namjene",
+    "Stečajni postupak - potencijalni dodatni pravni koraci i rokovi vezani uz predaju u posjed"
+  ],
+  "upside_scenario": "Kupnja uz velik popust (712.500 EUR) uz naknadnu promjenu namjene dijela zemljišta i sanaciju objekata omogućuje iznajmljivanje manjim poduzetnicima ili prodaju/gradnju stambeno-poslovnog sadržaja blizu centra Varaždina unutar 2-3 godine uz značajan kapitalni dobitak.",
+  "downside_scenario": "Ako se na dražbi ne postigne značajan popust ili se otkriju veći troškovi sanacije/onečišćenja tla i pravni tereti, imovina ostaje slabo likvidna industrijska nekretnina s dugim razdobljem do realizacije povrata.",
+  "discount_pct": 75.0,
+  "input_hash": "39760d2fa47a",
+  "scored_at": "2026-08-17T06:57:29.029346"
+}

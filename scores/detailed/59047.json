@@ -1,0 +1,38 @@
+{
+  "id": "59047",
+  "score_overall": 6.3,
+  "score_lokacija": 6.0,
+  "score_roi": 7.5,
+  "score_stanje": 4.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Veliki industrijski kompleks (7 čestica objekata, ukupno cca 3701 m2 pod krovom, 7931 m2 zemljišta) na Zagrebačkoj ulici u Varaždinu, s izuzetno visokim popustom od 75% na trećoj dražbi u odnosu na procijenjenu vrijednost od 980.000 EUR. Lokacija je solidna (veći regionalni grad, glavna prometnica, blizina Zagreba i granice sa Slovenijom/Mađarskom), ali riječ je o specijaliziranoj, nišnoj klasi imovine s ograničenim brojem kupaca, a stanje objekata (vjerojatno stariji, jugoslavenski industrijski fond) nije opisano pa nosi rizik značajnog capexa. Zbog vrijednosti iznad 500k EUR i dubokog popusta ovo zaslužuje temeljit teren-obilazak i due diligence prije licitacije, no bez uživo dohvaćenih tržišnih oglasa procjena tržišne vrijednosti ostaje niske pouzdanosti.",
+  "flags": [
+    "provjeriti: stvarno stanje i uporabljivost 14 zasebnih industrijskih objekata (starost, instalacije, krovišta, statika)",
+    "provjeriti: postoje li zakupci/korisnici prostora iz vremena prije stečaja",
+    "provjeriti: postojanje služnosti, priključaka i infrastrukturnih vodova preko čestice 3924/12",
+    "provjeriti: troškovi eventualnog rušenja ili sanacije napuštenih pogona i ekološki teret (bivša industrijska namjena)",
+    "provjeriti: urbanistički status/GUP - dozvoljena namjena i mogućnost prenamjene kompleksa",
+    "stečajni postupak - moguća opterećenja/tražbine trećih na nekretnini do brisanja u zk."
+  ],
+  "market_estimate": {
+    "eur_min": 450000,
+    "eur_max": 750000,
+    "confidence": "low",
+    "basis": "WebSearch alat nije bio dostupan u ovoj sesiji pa procjena nije potkrijepljena live oglasima. Raspon je izveden iz općeg poznavanja tržišta starijih industrijskih kompleksa u kontinentalnoj Hrvatskoj (tipično 300-600 EUR/m2 za pogone koji trebaju obnovu, uz zemljište industrijske namjene 30-60 EUR/m2), uz diskont zbog nepoznatog stanja i niske likvidnosti ovakve nekretnine. Preporuka: prije ponude tražiti aktualne oglase na nekretnine.net/njuskalo.hr za usporedive industrijske/logističke komplekse u Varaždinu, Čakovcu i okolici."
+  },
+  "comparables": [],
+  "investment_strategy": "Reno-flip / redevelop - kupnja uz velik popust s ciljem djelomične obnove i prenamjene dijela kompleksa u logistički/skladišni ili light-industrial prostor za najam, uz moguću naknadnu parcelaciju i prodaju viška zemljišta ili manjih objekata pojedinačno.",
+  "entry_price_eur": 380000,
+  "detailed_risks": [
+    "Nišna, teško likvidna klasa imovine - mali broj potencijalnih kupaca za cijeli kompleks",
+    "Nepoznato stvarno stanje 14 objekata razne veličine - rizik značajnog dodatnog capexa",
+    "Mogući ekološki teret od prethodne industrijske djelatnosti (kontaminacija tla)",
+    "Stečajni kontekst - rizik naknadnih tražbina ili sporova oko brisanja tereta",
+    "Razgledavanje isključivo putem stečajnog upravitelja - ograničena mogućnost samostalne provjere prije dražbe"
+  ],
+  "upside_scenario": "Ako je barem dio od 3701 m2 pokrivenog prostora strukturno očuvan, kupac uz umjeren capex (obnova krovova, instalacija) može unutar 12-18 mjeseci iznajmiti prostor lokalnim proizvodnim/logističkim tvrtkama uz prinos 7-9% na uloženi kapital, a preostalo zemljište prenamijeniti ili prodati, ostvarujući ukupnu vrijednost blizu ili iznad procijenjenih 980.000 EUR.",
+  "downside_scenario": "Ako su objekti u lošem/ruševnom stanju ili postoji ekološka kontaminacija, trošak sanacije i rušenja može premašiti uštedu od niske kupovne cijene, a zbog niske likvidnosti segmenta imovina može ostati neprodana/neizdana godinama, pretvarajući je u zamrznuti kapital s tekućim troškovima poreza i osiguranja.",
+  "discount_pct": 75.0,
+  "input_hash": "5ca2ba3a63e9",
+  "scored_at": "2026-08-17T07:03:28.349337"
+}
