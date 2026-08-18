@@ -1,0 +1,38 @@
+{
+  "id": "58967",
+  "score_overall": 4.8,
+  "score_lokacija": 3.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Industrijski kompleks (dvorišta, skladišta, pogon drvne ambalaže) u Bukoviću kod Benkovca nalazi se u ruralnom, depopulacijskom dijelu zadarskog zaleđa s ograničenom potražnjom za ovakvom vrstom nekretnine. Popust od 75% na procijenjenu vrijednost i treća dražba ukazuju na izostanak interesa u ranijim krugovima, što otvara prostor za vrlo povoljan ulaz, ali istovremeno signalizira slabu likvidnost i sporiji izlaz iz investicije. Opis ne otkriva stvarno stanje objekata niti postojanje tereta na nekretnini, pa je due diligence presudan prije odluke o licitaciji. Riječ je o prilici prvenstveno za specijaliziranog investitora (logistika, prerada drva/agro, land banking), a ne za standardni brzi flip.",
+  "flags": [
+    "provjeriti: stanje objekata i instalacija (opis ne navodi razinu održavanja/useljivosti)",
+    "provjeriti: postojanje tereta, hipoteka i drugih upisanih prava na zk.ul.br.770 k.o. Buković",
+    "provjeriti: dostupnost priključaka (struja, voda, pristupni put) za industrijski pogon",
+    "provjeriti: usklađenost namjene s važećim prostornim planom (moguća ograničenja/rezoniranje)",
+    "provjeriti: cjeloviti popis čestica jer je opis skraćen (postoje dodatne k.č. koje nisu prikazane u sažetku)",
+    "niska likvidnost regije - treća dražba i visok popust ukazuju na slab interes ranijih ponuđača"
+  ],
+  "market_estimate": {
+    "eur_min": 400000,
+    "eur_max": 900000,
+    "confidence": "low",
+    "basis": "Procjena temeljena na općem poznavanju tržišta industrijskih/poslovnih nekretnina u zadarskom zaleđu (Benkovac i okolica), bez pristupa web pretrazi za stvarne usporedive oglase. Raspon odražava neizvjesnost oko stanja objekata, ukupne kvadrature svih čestica (opis je skraćen) i realne potražnje za ovom vrstom nekretnine."
+  },
+  "comparables": [],
+  "investment_strategy": "Land banking / repozicioniranje - s obzirom na nišnu industrijsku namjenu i slabu likvidnost, realniji pristup je kupnja po dnu cijene uz dugoročni plan preadaptacije (skladišno-logistička namjena, iznajmljivanje lokalnim proizvođačima) ili eventualna parcelacija i prodaja dijelova zemljišta, umjesto brzog preprodaje.",
+  "entry_price_eur": 600000,
+  "detailed_risks": [
+    "Nepoznato stvarno stanje građevina (skladišta, pogon) - moguća potreba značajnih ulaganja",
+    "Uska baza potencijalnih kupaca za specifičnu industrijsku namjenu u ruralnom području",
+    "Mogući neriješeni tereti/služnosti iz stečajnog postupka koji nisu vidljivi iz sažetka opisa",
+    "Rizik dugog perioda držanja imovine do pronalaska kupca/najmoprimca (niska likvidnost tržišta)",
+    "Opis nekretnine je skraćen ('...') - nepotpun uvid u ukupan broj i stanje čestica"
+  ],
+  "upside_scenario": "Uz temeljit due diligence i potvrdu čistog vlasničkog stanja, investitor kupuje kompleks blizu početne cijene (~550-650k EUR), obnavlja skladišne kapacitete i iznajmljuje ih lokalnim poljoprivrednim/proizvodnim tvrtkama ili logistici, ostvarujući prinos od najma uz mogućnost prodaje cjeline unutar 3-5 godina po cijeni bliskoj procijenjenoj vrijednosti (2.2M EUR) ako se tržište industrijskih nekretnina u zaleđu oporavi.",
+  "downside_scenario": "Ako se na dražbi ne pojavi ozbiljan kupac (što treća dražba i sugerira), imovina ostaje neprodana ili se prodaje sljedećem zainteresiranom uz daljnji popust; ako se ipak kupi, a stanje objekata bude lošije od očekivanog ili se otkriju neriješeni tereti, investitor ostaje s nelikvidnom imovinom uz visoke troškove održavanja i bez jasnog izlaza iz ulaganja.",
+  "discount_pct": 75.0,
+  "input_hash": "0565c3746917",
+  "scored_at": "2026-08-18T06:39:35.545504"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "60433",
+  "score_overall": 4.6,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Visok popust od 40% na drugoj dražbi je atraktivan, ali ruralna lokacija u Slavoniji (Ladimirevci kraj Valpova) nosi slabu likvidnost i dugoročno ograničen ROI. Suvlasnička struktura s ovrhovoditeljem koji zadržava 1/5 dodatno komplicira stjecanje pune nekretnine.",
+  "flags": [
+    "provjeriti: suvlasništvo s ovrhovoditeljem (1/5 dio ostaje izvan prodaje), kupac stječe samo dio ovršenika"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "0a74eed69510",
+  "scored_at": "2026-08-18T06:37:55.571968"
+}

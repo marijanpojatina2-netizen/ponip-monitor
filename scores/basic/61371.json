@@ -1,0 +1,17 @@
+{
+  "id": "61371",
+  "score_overall": 3.4,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 1.5,
+  "recommendation": "pass",
+  "reasoning": "Zemljište u Tupljaku (Općina Pićan) je izvan građevinskog područja i bez izravnog pristupa javnoj prometnoj površini, što ozbiljno ograničava razvojni potencijal unatoč niskoj ulaznoj cijeni. Unutarnja, netouristička lokacija dodatno smanjuje investicijsku privlačnost.",
+  "flags": [
+    "nema izravan pristup javnoj prometnoj površini",
+    "izvan granica građevinskog područja",
+    "provjeriti: mogućnost zajedničke kupnje s česticom 685/2 (ID 61381) radi ostvarenja pristupa"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "695c81a11b11",
+  "scored_at": "2026-08-18T06:37:55.572251"
+}
