@@ -1,0 +1,15 @@
+{
+  "id": "61255",
+  "score_overall": 3.3,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Čestica je evidentirana kao 'put' (pristupni put) od 432 m2 u k.o. Draganec, što upućuje na infrastrukturnu namjenu bez samostalne investicijske vrijednosti izvan interesa susjednih vlasnika. Vrlo nizak potencijal likvidnosti i uporabljivosti za tipičnog investitora.",
+  "flags": [
+    "provjeriti: stvarna namjena i mogućnost samostalnog raspolaganja česticom puta"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "4e4feba74908",
+  "scored_at": "2026-08-19T06:39:55.232926"
+}

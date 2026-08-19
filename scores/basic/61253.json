@@ -1,0 +1,15 @@
+{
+  "id": "61253",
+  "score_overall": 3.9,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Livada od 3884 m2 u k.o. Draganec kraj Čazme, ruralno područje Bjelovarsko-bilogorske županije sa slabom likvidnošću i tek 20% popusta na prvoj dražbi. Solidna površina zemljišta može imati dugoročnu poljoprivrednu ili građevinsku vrijednost ako se provjeri namjena, ali kratkoročni ROI potencijal je ograničen.",
+  "flags": [
+    "provjeriti: namjena čestice i mogućnost gradnje/priključaka"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "676d698bf22e",
+  "scored_at": "2026-08-19T06:39:55.232371"
+}

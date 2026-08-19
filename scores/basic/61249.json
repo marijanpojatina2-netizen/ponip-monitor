@@ -1,0 +1,15 @@
+{
+  "id": "61249",
+  "score_overall": 3.4,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 2.5,
+  "recommendation": "watch",
+  "reasoning": "Parcela sa starom kućom i voćnjakom u selu Draganec, vrlo nizak ulog (procjena 5370 EUR) ali izrazito niska vrijednost upućuje na loše stanje objekta. Vrijedi pratiti zbog niskog ulaznog troška, ali potrebna je fizička provjera prije bilo kakve ponude.",
+  "flags": [
+    "provjeriti: stanje kuće (moguće ruševno)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "e6aba09781b9",
+  "scored_at": "2026-08-19T06:39:27.322453"
+}

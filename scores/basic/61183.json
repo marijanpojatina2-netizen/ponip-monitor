@@ -1,0 +1,15 @@
+{
+  "id": "61183",
+  "score_overall": 3.1,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Kuća, dvorište i oranica u Vrbanji (Vinkovci-Otok), slabija slavonska ruralna lokacija s vrlo niskom procijenjenom vrijednošću što ukazuje na loše stanje objekta. Slaba likvidnost regije i nedostatak detalja o stanju čine ovo slabim investicijskim slučajem.",
+  "flags": [
+    "provjeriti: stanje kuće i useljivost"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "59c1def19767",
+  "scored_at": "2026-08-19T06:39:27.322689"
+}

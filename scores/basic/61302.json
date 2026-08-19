@@ -1,0 +1,16 @@
+{
+  "id": "61302",
+  "score_overall": 6.5,
+  "score_lokacija": 6.0,
+  "score_roi": 7.0,
+  "score_stanje": 6.0,
+  "recommendation": "bid",
+  "reasoning": "Trosobni stan od 99,84 m2 u Velikoj Gorici (Zagrebačka regija) s 25% popustom na prvoj dražbi je realan investicijski kandidat uz dobru likvidnost tržišta. Stanje stana nije detaljno opisano pa je potrebna provjera useljivosti prije licitacije.",
+  "flags": [
+    "provjeriti: useljivost i stanje stana",
+    "provjeriti: postoji li osoba koja stanuje u nekretnini"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "8c8afa7d1e51",
+  "scored_at": "2026-08-19T06:39:27.321734"
+}

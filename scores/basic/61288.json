@@ -1,0 +1,13 @@
+{
+  "id": "61288",
+  "score_overall": 6.4,
+  "score_lokacija": 6.0,
+  "score_roi": 6.5,
+  "score_stanje": 7.0,
+  "recommendation": "watch",
+  "reasoning": "Garažno parkirno mjesto GPM15 (11,8 m2) u podrumu iste zgrade u Velikoj Gorici, identična karakteristika kao susjedne dražbe iz istog kompleksa. Mala apsolutna vrijednost i niša tržišta ograničavaju atraktivnost za aktivnu licitaciju.",
+  "flags": [],
+  "discount_pct": 25.0,
+  "input_hash": "552cc190e1b4",
+  "scored_at": "2026-08-19T06:39:27.323000"
+}

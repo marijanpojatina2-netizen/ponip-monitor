@@ -1,0 +1,15 @@
+{
+  "id": "61251",
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Poljoprivredno zemljište (oranice) u ruralnom području Bjelovar-Čazma bez ikakvih građevina, nizak apsolutni iznos ali slaba likvidnost i potražnja. Popust od tek 20% na prvoj dražbi ne kompenzira slabu lokaciju.",
+  "flags": [
+    "provjeriti: pristupni put i komunalna infrastruktura"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "0f838fb0d939",
+  "scored_at": "2026-08-19T06:39:27.322115"
+}

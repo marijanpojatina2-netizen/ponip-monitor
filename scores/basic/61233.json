@@ -1,0 +1,15 @@
+{
+  "id": "61233",
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Čista oranica od 7719 m2 u k.o. Draganec, ruralna depopulacijska zona s minimalnim ROI potencijalom za investitora. Nema građevinskog potencijala niti infrastrukture spomenute u opisu.",
+  "flags": [
+    "provjeriti: namjena zemljišta i mogućnost gradnje"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "353987cb3efe",
+  "scored_at": "2026-08-19T06:39:27.322323"
+}

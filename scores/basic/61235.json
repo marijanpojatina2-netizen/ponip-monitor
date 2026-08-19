@@ -1,0 +1,15 @@
+{
+  "id": "61235",
+  "score_overall": 3.9,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica od svega 496 m2 u k.o. Sišćani, ruralno područje s vrlo niskom apsolutnom vrijednošću (559 EUR) gdje transakcijski troškovi mogu nadmašiti korist. Premali i nelikvidni ulog za ozbiljniji investicijski case.",
+  "flags": [
+    "provjeriti: pristup čestici i mogućnost okrupnjavanja sa susjednim parcelama"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "266e831efe08",
+  "scored_at": "2026-08-19T06:39:55.232704"
+}

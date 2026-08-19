@@ -1,0 +1,13 @@
+{
+  "id": "61298",
+  "score_overall": 6.4,
+  "score_lokacija": 6.0,
+  "score_roi": 6.5,
+  "score_stanje": 7.0,
+  "recommendation": "watch",
+  "reasoning": "Garažno mjesto od 12,5 m2 u sklopu stambeno-poslovne zgrade u Velikoj Gorici, dobra lokacija uz Zagreb i solidan 25% popust na prvoj dražbi. Niska apsolutna vrijednost ograničava ROI potencijal na nišni segment ulaganja u parkirna mjesta.",
+  "flags": [],
+  "discount_pct": 25.0,
+  "input_hash": "f54f018b8479",
+  "scored_at": "2026-08-19T06:39:27.322848"
+}
