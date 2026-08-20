@@ -1,0 +1,17 @@
+{
+  "id": "61419",
+  "score_overall": 5.5,
+  "score_lokacija": 6.0,
+  "score_roi": 5.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Nekretnina se nalazi u Vrapču Novom, periferijskom dijelu Zagreba s dobrom likvidnošću, no radi se tek o suvlasničkom dijelu (49,9/100) starijih kuća i stana, a popust od svega 20% na prvoj dražbi ne kompenzira dovoljno tu ograničenu kontrolu nad cijelom nekretninom. Za ozbiljniji case trebalo bi pričekati eventualnu sljedeću dražbu s većim popustom ili razjasniti mogućnost otkupa/dogovora s ostalim suvlasnicima.",
+  "flags": [
+    "suvlasnički dio 49,9/100 - ograničena kontrola nekretninom",
+    "provjeriti: stanje objekata (starije kuće, mogući veći radovi)",
+    "provjeriti: useljenost/posjed nekretnine"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "53eb35989e0f",
+  "scored_at": "2026-08-20T06:40:07.869346"
+}
