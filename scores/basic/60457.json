@@ -1,0 +1,16 @@
+{
+  "id": "60457",
+  "score_overall": 6.5,
+  "score_lokacija": 8.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Lokacija u povijesnoj splitskoj četvrti Veli Varoš je vrlo atraktivna, ali suvlasnički udio 3/16 i mikroskopska korisna površina (10,60 m2) drastično ograničavaju samostalnu upotrebu i likvidnost. Potrebno je razjasniti stvarnu funkcionalnost i mogućnost objedinjavanja udjela prije ozbiljnijeg razmatranja.",
+  "flags": [
+    "provjeriti: suvlasnički udio 3/16 i vrlo mala površina (10,60 m2) - otežana samostalna uporaba/preprodaja",
+    "provjeriti: nejasan opis namjene (poslovni/stambeni) i stanje etažiranja"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "297dec445251",
+  "scored_at": "2026-08-21T06:40:34.318763"
+}
