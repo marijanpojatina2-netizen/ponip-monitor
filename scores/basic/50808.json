@@ -1,0 +1,15 @@
+{
+  "id": "50808",
+  "score_overall": 5.4,
+  "score_lokacija": 3.5,
+  "score_roi": 7.0,
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Golemi kompleks od cca 98 ha voćnjaka kod Slavonskog Broda uz 75% popusta na trećoj dražbi predstavlja veliku poljoprivrednu investiciju, no ruralna lokacija i nišni krug kupaca smanjuju likvidnost. Opis je vidljivo skraćen što upućuje na dodatne čestice/terete koje treba provjeriti prije odluke.",
+  "flags": [
+    "provjeriti: opis skraćen - moguće dodatne čestice/tereti nisu prikazani u cijelosti"
+  ],
+  "discount_pct": 75.0,
+  "input_hash": "035259e45b5e",
+  "scored_at": "2026-08-24T06:52:27.374622"
+}

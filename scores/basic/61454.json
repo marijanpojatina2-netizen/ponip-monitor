@@ -1,0 +1,13 @@
+{
+  "id": "61454",
+  "score_overall": 5.4,
+  "score_lokacija": 5.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Kuća iz 1955. u Zaboku uz solidnih 40% popusta na drugoj dražbi zahtijeva temeljitu obnovu (drvena stolarija, obično staklo), lokacija je pristojna zbog blizine Zagreba. ROI je umjeren jer nema dodatnog popusta karakterističnog za kasnije dražbe.",
+  "flags": [],
+  "discount_pct": 40.0,
+  "input_hash": "db96b9378cd3",
+  "scored_at": "2026-08-24T06:52:27.375297"
+}

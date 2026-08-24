@@ -1,0 +1,15 @@
+{
+  "id": "60455",
+  "score_overall": 4.2,
+  "score_lokacija": 2.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Radi se tek o suvlasničkom udjelu 4/24 oranice male vrijednosti u depopulacijskom području istočne Slavonije (Otok), što znatno otežava upravljanje i buduću prodaju cijele čestice. Nizak apsolutni iznos i slaba likvidnost čine ROI potencijal minimalnim.",
+  "flags": [
+    "suvlasnički udio (4/24) - otežana prodaja/upravljanje cijelom česticom"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "c0ce978a4e1a",
+  "scored_at": "2026-08-24T06:52:27.376812"
+}

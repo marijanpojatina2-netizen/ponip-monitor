@@ -1,0 +1,15 @@
+{
+  "id": "60398",
+  "score_overall": 5.6,
+  "score_lokacija": 6.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Poljoprivredno zemljište u Valturi kraj Pule ima dobru regionalnu lokaciju (Istra), ali nalazi se u zoni šireg utjecaja zračne luke Pula što vjerojatno ograničava gradnju i time smanjuje ROI potencijal. Zemljište je sirovo bez infrastrukture.",
+  "flags": [
+    "provjeriti: ograničenja gradnje/namjene zbog zone utjecaja zračne luke"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "40450391f0f8",
+  "scored_at": "2026-08-24T06:52:27.376347"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "58902",
+  "score_overall": 5.4,
+  "score_lokacija": 3.5,
+  "score_roi": 7.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Vrlo visok popust od 75% na trećoj dražbi za manju nekretninu u Donjoj Pačetini (Zagorje) djeluje atraktivno, ali opis je izrazito oskudan bez podataka o stanju objekta. Riječ je o stečajnoj prodaji male apsolutne vrijednosti pa isplativost ovisi o dodatnoj provjeri prije ulaska.",
+  "flags": [
+    "provjeriti: opis vrlo oskudan - nedostaju detalji o stanju nekretnine i eventualnim teretima"
+  ],
+  "discount_pct": 75.0,
+  "input_hash": "55771d57ba00",
+  "scored_at": "2026-08-24T06:52:27.375690"
+}

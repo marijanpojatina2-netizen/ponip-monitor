@@ -1,0 +1,36 @@
+{
+  "id": "50808",
+  "score_overall": 4.7,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Golemo poljoprivredno zemljište (voćnjak, ~98 ha) u k.o. Trnjani kraj Slavonskog Broda, ruralno depopulacijsko područje s ograničenom likvidnošću. Popust od 75% na trećoj dražbi (1,36 EUR/m2 nasuprot procjeni od 5,43 EUR/m2) djeluje atraktivno, ali nedostatak informacija o stvarnom stanju nasada, infrastrukturi i mogućim teretima iz stečajnog postupka nalaže oprez. Apsolutni ulog (>1,33 mil. EUR početna cijena) sužava krug potencijalnih kupaca na specijalizirane agro-investitore/fondove. Opis je vidljivo odsječen ('...') što upućuje na dodatne parcele/nekretnine izvan navedenog popisa koje treba provjeriti.",
+  "flags": [
+    "provjeriti: opis je odsječen - spominju se dodatne nekretnine u zemljišnim knjigama koje nisu prikazane u sažetku",
+    "provjeriti: stanje voćnjaka - dob nasada, navodnjavanje, prinosi i aktivna obrada nisu opisani",
+    "provjeriti: mogući zakup OPG-ovima radi EU poticaja (ARKOD) koji bi mogao ograničiti raspolaganje nakon kupnje",
+    "provjeriti: stečajni postupak - potencijalne tražbine trećih osoba i status tereta u zk. ulošku"
+  ],
+  "market_estimate": {
+    "eur_min": 600000,
+    "eur_max": 2000000,
+    "confidence": "low",
+    "basis": "Web pretraga nije bila dostupna u ovoj sesiji (nedostatak dozvole za alat), pa je procjena temeljena na općepoznatim rasponima cijena poljoprivrednog/voćnjačkog zemljišta u Slavoniji (Slavonski Brod okolica) iz ranijih tržišnih izvještaja: cca 4.000-10.000 EUR/ha za standardno oranično zemljište do 15.000-30.000 EUR/ha za aktivne intenzivne nasade s infrastrukturom (navodnjavanje, protugradna mreža). Za ~98 ha to daje raspon od otprilike 600.000 do 2.000.000+ EUR ovisno o stvarnom stanju nasada; procijenjena sudska vrijednost od 5,43 EUR/m2 (~54.300 EUR/ha) čini se visoka za neopisano zemljište i vjerojatno pretpostavlja postojanje razvijenog intenzivnog nasada koji nije potvrđen u dostupnom opisu."
+  },
+  "comparables": [],
+  "investment_strategy": "Za specijalizirane agro-investitore/fondove: kupnja po dubokom diskontu uz due diligence stanja nasada i eventualnih zakupa, potom nastavak poljoprivredne proizvodnje (izravno ili putem zakupa OPG-ovima uz EU poticaje) s ciljem preprodaje pojedinačnih parcela ili cijelog kompleksa strateškom agro-kupcu u srednjem roku (3-5 god). Nije prikladno za tipičnog stambenog/preprodajnog investitora zbog razmjera i specifičnosti asset klase.",
+  "entry_price_eur": 1400000,
+  "detailed_risks": [
+    "Nepotpun opis nekretnine - moguće dodatne parcele/terete izvan navedenog popisa",
+    "Nepoznato stvarno stanje nasada (dob, vrsta, prinos) - procjena vrijednosti od 5,43 EUR/m2 nerealna je za golo zemljište pa implicira nepotvrđenu infrastrukturu",
+    "Mala baza potencijalnih kupaca za zemljište ove veličine i cijene, otežana izlazna likvidnost",
+    "Stečajna prodaja - rizik naknadnih pravnih osporavanja ili tražbina trećih",
+    "Razgledavanje isključivo uz najavu stečajnoj upraviteljici, što ograničava mogućnost brze i neovisne inspekcije prije dražbe"
+  ],
+  "upside_scenario": "Ako se potvrdi da je riječ o aktivnom, modernom intenzivnom voćnjaku s navodnjavanjem i zdravim nasadima bez tereta, kupac stječe ~98 ha po djelomičnoj cijeni tržišne vrijednosti, uz mogućnost izravne poljoprivredne proizvodnje i EU poticaja, te preprodaje unutar 2-3 godine uz značajnu premiju strateškom agro-kupcu.",
+  "downside_scenario": "Ako je zemljište zapušteno, bez aktivnih nasada ili opterećeno dugoročnim zakupom/ARKOD obvezama, kupac ostaje s ilikvidnom nekretninom niskog prinosa s ograničenim krugom kupaca za izlaz, uz mogući dodatni pravni trošak zbog stečajnih tražbina ili neopisanih parcela.",
+  "discount_pct": 75.0,
+  "input_hash": "035259e45b5e",
+  "scored_at": "2026-08-24T06:54:12.790197"
+}
