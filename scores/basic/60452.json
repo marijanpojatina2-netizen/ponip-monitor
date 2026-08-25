@@ -1,0 +1,15 @@
+{
+  "id": "60452",
+  "score_overall": 4.2,
+  "score_lokacija": 2.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Selo Dubovik kraj Slavonskog Broda spada u depopulacijsko ruralno područje sa slabom likvidnošću i potražnjom. Iako druga dražba nosi 40% popusta, apsolutna vrijednost je vrlo niska pa investicijski potencijal ostaje ograničen.",
+  "flags": [
+    "provjeriti: stanje kuće (nema podataka o useljivosti u opisu)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "1d984cc3376c",
+  "scored_at": "2026-08-25T06:41:28.166976"
+}

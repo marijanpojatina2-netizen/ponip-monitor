@@ -1,0 +1,15 @@
+{
+  "id": "59187",
+  "score_overall": 5.1,
+  "score_lokacija": 4.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Treća dražba s 75% popustom daje veliki cjenovni prostor, ali suvlasnički dio od samo 7/10 bitno komplicira upravljanje i buduću prodaju cijele nekretnine. Podravska Slatina je slabija slavonska lokacija s ograničenom likvidnošću tržišta poslovnih objekata.",
+  "flags": [
+    "provjeriti: suvlasništvo (nekretnina se prodaje samo u dijelu 7/10, status preostalih suvlasnika)"
+  ],
+  "discount_pct": 75.0,
+  "input_hash": "49e420460483",
+  "scored_at": "2026-08-25T06:41:28.166706"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "60437",
+  "score_overall": 4.2,
+  "score_lokacija": 1.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Šumsko zemljište Knežević Brdo u k.o. Bršljanica ima marginalnu tržišnu vrijednost i slabu likvidnost, a apsolutni iznos ulaganja (1.236 EUR) je premali za ozbiljan investicijski učinak. Druga dražba s 40% popusta ne mijenja bitno sliku zbog niske osnovne vrijednosti.",
+  "flags": [
+    "provjeriti: pristup i namjena šumskog zemljišta"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "5d3b242f6f7d",
+  "scored_at": "2026-08-25T06:41:28.167216"
+}

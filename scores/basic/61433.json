@@ -1,0 +1,15 @@
+{
+  "id": "61433",
+  "score_overall": 6.8,
+  "score_lokacija": 9.0,
+  "score_roi": 6.0,
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Baška Voda na makarskoj rivijeri je vrhunska turistička lokacija s visokom likvidnošću, a visoka vrijednost objekta (650k) uz prvu dražbu i standardan popust čini je zanimljivom za dublju analizu. Neuobičajen raspored (jedna soba na tri etaže) i nedostatak podataka o stanju traže detaljniju provjeru prije ponude.",
+  "flags": [
+    "provjeriti: stanje i iskoristivost nekretnine (neuobičajen raspored - jedna soba na tri etaže)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "e076a8595f9b",
+  "scored_at": "2026-08-25T06:41:28.166568"
+}

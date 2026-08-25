@@ -1,0 +1,37 @@
+{
+  "id": "59187",
+  "score_overall": 4.8,
+  "score_lokacija": 3.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Nekretnina je velika upravna zgrada s dvorištem (2150 m2) u Podravskoj Slatini, manjem gradu u depopulacijskom području Slavonije, što ograničava likvidnost i potražnju. Prodaje se samo suvlasnički dio 7/10 što bitno komplicira stjecanje pune kontrole nad imovinom i buduću preprodaju. Popust od 75% i treća dražava ukazuju na nizak tržišni interes u prethodne dvije runde, no i dalje čine ulaznu cijenu potencijalno atraktivnom ako se riješi pitanje suvlasništva. Bez opisa stanja objekta i s obzirom na stečajni kontekst, preporučuje se praćenje i due diligence prije aktivnog sudjelovanja.",
+  "flags": [
+    "suvlasništvo 7/10 (nije cjelovito vlasništvo, potreban dogovor/otkup ostalih suvlasnika)",
+    "provjeriti: stanje i tehnička ispravnost upravne zgrade (opis ne navodi stanje)",
+    "provjeriti: postoji li zakupac/korisnik prostora s obzirom na stečajni postupak nad prodavateljem",
+    "provjeriti: mogućnost i uvjeti prava prvokupa preostalog suvlasnika (3/10)",
+    "treća dražba - dvije prethodne runde bez uspjeha, slab tržišni interes"
+  ],
+  "market_estimate": {
+    "eur_min": 350000,
+    "eur_max": 600000,
+    "confidence": "low",
+    "basis": "Web pretraga tržišnih usporedbi nije bila dostupna (alat blokiran u ovoj sesiji). Procjena se oslanja na sudsku utvrđenu vrijednost (555.356,81 EUR za 7/10 dijela) i opće poznavanje cijena poslovnih/upravnih objekata u manjim gradovima Slavonije (Virovitičko-podravska županija), gdje je potražnja slaba i likvidnost niska. Preporučuje se ručna provjera na nekretnine.net/njuskalo.hr prije ponude."
+  },
+  "comparables": [],
+  "investment_strategy": "Reno-flip/razvoj s naglaskom na konsolidaciju vlasništva: kupnja 7/10 udjela po sniženoj cijeni s ciljem naknadnog otkupa preostalog suvlasničkog dijela (3/10) radi stjecanja pune kontrole, potom repozicioniranje objekta (iznajmljivanje poslovnog prostora lokalnim tvrtkama/instituciji ili djelomična rekonstrukcija velike parcele od 2150 m2). Nije pogodno za brzu preprodaju zbog suvlasništva i slabe likvidnosti tržišta.",
+  "entry_price_eur": 160000,
+  "detailed_risks": [
+    "Suvlasništvo 7/10 - kupac ne stječe puno vlasništvo, nužni pregovori ili sudski postupak diobe s preostalim suvlasnikom",
+    "Zakonsko pravo prvokupa suvlasnika može otežati ili odgoditi stjecanje pune kontrole",
+    "Nepoznato stanje objekta - stečajni kontekst često znači zapušten ili djelomično neodržavan objekt",
+    "Vrlo ograničena likvidnost sekundarnog tržišta za upravne/poslovne zgrade u manjim slavonskim gradovima",
+    "Treći neuspjeli krug dražbe ukazuje na nizak interes kupaca po dosadašnjim cijenama"
+  ],
+  "upside_scenario": "Ako investitor uspije po povoljnoj cijeni otkupiti i preostali suvlasnički dio (3/10) i konsolidirati puno vlasništvo, velika parcela (2150 m2) s upravnom zgradom u urbanom jezgru Slatine mogla bi se iznajmiti lokalnim poslovnim subjektima ili djelomično prenamijeniti/razviti, generirajući stabilan prinos uz vrlo nisku ulaznu cijenu (75% popusta).",
+  "downside_scenario": "Ako se dražba ponovno ne uspije realizirati ili suvlasnik blokira dogovor o diobi/otkupu, investitor ostaje s nelikvidnim manjinskim udjelom u nekretnini bez prihoda i s ograničenim izlaznim opcijama, uz dodatne troškove pravnog rješavanja suvlasničkog odnosa.",
+  "discount_pct": 75.0,
+  "input_hash": "49e420460483",
+  "scored_at": "2026-08-25T06:45:10.044972"
+}

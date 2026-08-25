@@ -1,0 +1,36 @@
+{
+  "id": "61433",
+  "score_overall": 5.9,
+  "score_lokacija": 8.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Baška Voda je vrhunska turistička lokacija na Makarskoj rivijeri, no sudska procjena od 650.000 EUR za 61 m² (≈10.650 EUR/m²) znatno odstupa od tipičnih tržišnih raspona (3.000-6.000 EUR/m²) za manje kuće u tom mjestu, što sugerira mogući rizik precijenjenosti ili nedostatak informacija o dodatnoj vrijednosti (zemljište, pogled na more). Uska tipologija objekta (jedna soba po katu na tri etaže) ograničava fleksibilnost korištenja, a opis ne navodi stanje objekta niti postojanje okućnice. Prva dražba s tek 20% popusta ne nudi dovoljnu sigurnosnu maržu s obzirom na navedene nepoznanice — bolje pričekati sljedeće krugove dražbe s većim popustom prije aktivnog ulaska.",
+  "flags": [
+    "provjeriti: sudska procjena (≈10.650 EUR/m²) znatno je iznad tipičnog tržišnog raspona za Bašku Vodu, moguća precijenjenost",
+    "provjeriti: obuhvaća li prodaja okućnicu/zemljište uz zgradu ili samo tlocrt zgrade (zgr. čestica)",
+    "provjeriti: postoji li posjed/stanovanje treće osobe u nekretnini (opis ne navodi, ali razgledavanje samo na zahtjev otežava neovisnu provjeru)",
+    "provjeriti: stvarno stanje objekta i opseg potrebne renovacije (opis ne navodi stanje)"
+  ],
+  "market_estimate": {
+    "eur_min": 280000,
+    "eur_max": 420000,
+    "confidence": "low",
+    "basis": "Web pretraga nije bila dostupna u ovoj sesiji (permission denied); procjena se temelji na općem poznavanju tržišta Baške Vode gdje se manje kuće u naravi obiteljskih/turističkih objekata tipično kreću 3.000-6.000 EUR/m2 ovisno o udaljenosti od mora, stanju i pogledu. Preporuka: prije bilo kakve odluke provjeriti aktualne oglase na nekretnine.net i njuskalo.hr za Bašku Vodu."
+  },
+  "comparables": [],
+  "investment_strategy": "Ako due diligence potvrdi realniju tržišnu vrijednost bliže donjoj granici procjene, potencijalna strategija je reno-flip: kupnja po sniženoj cijeni (kasnija dražba), temeljita renovacija uskog troetažnog objekta u turistički apartman te iznajmljivanje ili preprodaja s obzirom na snažnu turističku potražnju na Makarskoj rivijeri. Trenutna početna cijena (520.000 EUR) vjerojatno ne ostavlja dovoljnu maržu.",
+  "entry_price_eur": 380000,
+  "detailed_risks": [
+    "Sudska procjena po m² znatno je iznad tipičnih tržišnih vrijednosti za Bašku Vodu — rizik plaćanja iznad stvarne tržišne cijene čak i uz 20% popust",
+    "Nejasan opseg prodaje (uključuje li se okućnica/zemljište uz zgradu)",
+    "Razgledavanje samo na zahtjev otežava procjenu stvarnog stanja prije dražbe",
+    "Uska tipologija (jedna soba po katu, tri etaže) ograničava mogućnosti preuređenja i tržište kupaca/najmoprimaca",
+    "Nema podataka o stanju instalacija, krova i konstrukcije — mogući skriveni troškovi renovacije"
+  ],
+  "upside_scenario": "Ako se u due diligence potvrdi da nekretnina uključuje vrijedno zemljište ili poziciju blizu mora koja opravdava visoku procjenu, i ako se stekne na kasnijoj dražbi uz veći popust (30-40%), objekt se uz umjerenu investiciju u renovaciju (turistički apartman) može iznajmljivati sezonski uz solidan prinos ili preprodati uz profit u roku 2-3 godine zbog stabilne potražnje na Makarskoj rivijeri.",
+  "downside_scenario": "Ako se procjena pokaže realno precijenjenom i ne dođe do daljnjeg pada cijene kroz dodatne krugove dražbe, ili ako se otkriju pravni/posjedovni problemi (netko stanuje, sporna okućnica), investitor rizira kupnju po cijeni iznad stvarne tržišne vrijednosti uz dodatne nepredviđene troškove i otežanu likvidaciju.",
+  "discount_pct": 20.0,
+  "input_hash": "e076a8595f9b",
+  "scored_at": "2026-08-25T06:43:39.455020"
+}

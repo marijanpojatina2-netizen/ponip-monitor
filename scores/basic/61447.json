@@ -1,0 +1,15 @@
+{
+  "id": "61447",
+  "score_overall": 6.5,
+  "score_lokacija": 8.0,
+  "score_roi": 6.0,
+  "score_stanje": 5.0,
+  "recommendation": "bid",
+  "reasoning": "Jordanovac je tražena zona blizu centra Zagreba i Maksimira, a nekretnina visoke apsolutne vrijednosti (699k) nudi solidan ulazni popust unatoč prvoj dražbi. Nedostaju podaci o stanju objekta pa je prije licitacije potrebna provjera na terenu.",
+  "flags": [
+    "provjeriti: stanje i useljivost nekretnine (nema podataka u opisu)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "e12e65c018f5",
+  "scored_at": "2026-08-25T06:41:28.166295"
+}

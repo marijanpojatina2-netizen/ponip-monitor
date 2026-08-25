@@ -1,0 +1,15 @@
+{
+  "id": "61425",
+  "score_overall": 4.2,
+  "score_lokacija": 4.0,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Đakovo je manji slavonski grad sa slabijom likvidnošću, a popust od svega 20% na prvoj dražbi ne kompenzira nisku apsolutnu vrijednost nekretnine. Suvlasnički udio od 26/42 dodatno otežava stjecanje pune kontrole nad nekretninom.",
+  "flags": [
+    "provjeriti: suvlasništvo (nekretnina se prodaje samo u dijelu 26/42, status preostalih suvlasnika)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "352664e56301",
+  "scored_at": "2026-08-25T06:41:28.166788"
+}

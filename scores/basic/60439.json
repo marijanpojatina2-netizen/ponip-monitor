@@ -1,0 +1,16 @@
+{
+  "id": "60439",
+  "score_overall": 4.2,
+  "score_lokacija": 1.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Identična situacija kao susjedna čestica 848/57 - šumsko zemljište Knežević Brdo u k.o. Bršljanica s niskom apsolutnom vrijednošću i slabom likvidnošću tržišta. Kupnja bi imala smisla jedino u sklopu spajanja s okolnim parcelama radi veće cjeline.",
+  "flags": [
+    "provjeriti: pristup i namjena šumskog zemljišta",
+    "provjeriti: mogućnost objedinjavanja sa susjednom česticom 848/57 (ID 60437)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "f4ace2917e52",
+  "scored_at": "2026-08-25T06:41:28.167393"
+}
