@@ -1,0 +1,16 @@
+{
+  "id": "61367",
+  "score_overall": 6.0,
+  "score_lokacija": 7.5,
+  "score_roi": 5.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Šestine su tražena zagrebačka lokacija, no predmet dražbe je tek suvlasnički dio 11/100 etažnog vlasništva na malom podrumskom stanu od 37,69 m2, što bitno komplicira upravljanje i izlaznu strategiju. Niska apsolutna cijena (62.720 EUR) je atraktivna, ali struktura vlasništva zahtijeva dodatnu due diligence prije ulaska.",
+  "flags": [
+    "provjeriti: suvlasnički odnosi i praktična upotrebljivost udjela od 11/100",
+    "provjeriti: stanje i osvijetljenost podrumskog prostora"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "15110d009013",
+  "scored_at": "2026-08-26T06:42:34.740470"
+}

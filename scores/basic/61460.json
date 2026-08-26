@@ -1,0 +1,16 @@
+{
+  "id": "61460",
+  "score_overall": 7.3,
+  "score_lokacija": 8.5,
+  "score_roi": 6.5,
+  "score_stanje": 7.0,
+  "recommendation": "bid",
+  "reasoning": "Diklo kraj Zadra je tražena priobalna lokacija s dobrom infrastrukturom i blizinom mora, kuća s bazenom na 304 m2 djeluje kvalitetno iako je popust od procjene tek 20% na prvoj dražbi. Visoka apsolutna vrijednost (600k+) traži solidan kapital, ali ROI potencijal u ovoj zoni je iznad prosjeka.",
+  "flags": [
+    "provjeriti: stanje kuće i bazena (nema detalja o renovaciji)",
+    "provjeriti: postojanje tereta/hipoteka na zk.ul. 3883"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "c7cc36ffda9f",
+  "scored_at": "2026-08-26T06:42:34.740155"
+}

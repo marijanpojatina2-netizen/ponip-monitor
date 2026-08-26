@@ -1,0 +1,35 @@
+{
+  "id": "61460",
+  "score_overall": 7.1,
+  "score_lokacija": 8.5,
+  "score_roi": 6.5,
+  "score_stanje": 6.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Diklo je jedna od najtraženijih obalnih/rezidencijalnih zona grada Zadra, blizu plaža i centra, što daje visoku lokacijsku ocjenu. Popust od 20% na prvoj dražbi je umjeren (ne izniman), ali visoka likvidnost tržišta Zadra i posjedovanje bazena čine nekretninu atraktivnom čak i po početnoj cijeni. Stanje objekta nije detaljno opisano (nema podataka o unutrašnjem uređenju), pa je pod-ocjena stanja konzervativna dok se ne obavi razgledavanje. Zbog vrijednosti preko 500k EUR i solidnog potencijala preporučuje se detaljna due diligence prije licitiranja.",
+  "flags": [
+    "provjeriti: stanuje li ovršenica Dragica Ivezić i dalje u nekretnini",
+    "provjeriti: postoje li tereti/hipoteke ili prava koja ne prestaju prodajom (zk.ul. 3883, k.o. Diklo)",
+    "provjeriti: stvarno stanje objekta i bazena (opis ne navodi detalje o uređenju/renovaciji)",
+    "provjeriti: pristupni put i eventualne služnosti s obzirom na oblik parcele (dvorište 133 m2)"
+  ],
+  "market_estimate": {
+    "eur_min": 650000,
+    "eur_max": 950000,
+    "confidence": "low",
+    "basis": "Procjena temeljena na općem poznavanju tržišta Zadra/Diklo (kuće s bazenom u toj mikrolokaciji tipično 4.000-5.500 EUR/m2 stambene površine) jer live web pretraga nije bila dostupna u ovoj sesiji (alat za pretragu nije odobren) - preporučuje se ručna provjera na nekretnine.net i njuskalo.hr prije licitacije."
+  },
+  "comparables": [],
+  "investment_strategy": "Preprodaja (flip) nakon eventualnog manjeg uređenja, ili dugoročno iznajmljivanje (turistički najam) s obzirom na blizinu plaža i bazen - Diklo ima jaku turističku potražnju za smještajem u sezoni.",
+  "entry_price_eur": 530000,
+  "detailed_risks": [
+    "Nedostatak podataka o unutrašnjem stanju kuće i bazena prije razgledavanja",
+    "Standardni rizik FINA dražbi - mogući neevidentirani tereti ili sporovi oko vlasništva",
+    "Mogućnost da nekretnina bude naseljena u trenutku kupnje (iseljenje može trajati)",
+    "Procjena vrijednosti suda može odstupati od stvarne tržišne cijene u brzo rastućem tržištu Zadra"
+  ],
+  "upside_scenario": "Ako se nekretnina kupi blizu početne cijene (482k EUR) i tržište Zadra nastavi rasti kao posljednjih godina, uz manje uređenje kuća bi mogla postići 800k-950k EUR u prodaji ili generirati snažan turistički prihod od najma zbog lokacije uz more.",
+  "downside_scenario": "Ako se prva dražba ne uspije prodati, ide se na drugu dražbu s dodatnim popustom, ali postoji rizik dužeg pravnog postupka (iseljenje, neriješeni tereti) koji odgađa realizaciju investicije i povećava troškove.",
+  "discount_pct": 20.0,
+  "input_hash": "c7cc36ffda9f",
+  "scored_at": "2026-08-26T06:45:01.007641"
+}

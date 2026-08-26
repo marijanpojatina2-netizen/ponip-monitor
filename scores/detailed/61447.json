@@ -1,0 +1,35 @@
+{
+  "id": "61447",
+  "score_overall": 5.8,
+  "score_lokacija": 7.5,
+  "score_roi": 5.0,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Jordanovac je kvalitetna, etablirana zagrebačka četvrt uz Maksimir, blizu centra i s dobrom infrastrukturom, što nosi solidnu lokacijsku ocjenu. Riječ je o prvoj dražbi s tek 20% popusta od procijenjene vrijednosti, što ostavlja relativno tanku ROI maržu u odnosu na kasnije dražbe. Opis ne otkriva stanje objekta (nema naznaka o uređenosti, godini gradnje ili namjeni), pa je stanje konzervativno ocijenjeno kao nepoznato/vjerojatno za ulaganje. Prava investicijska atraktivnost ovisi o razgledu nekretnine 24.9.2026. i utvrđivanju pravnog te fizičkog stanja prije eventualne licitacije.",
+  "flags": [
+    "provjeriti: stvarno stanje i uređenost objekta (opis ne navodi detalje o stanju, godini gradnje ili namjeni zgrade)",
+    "provjeriti: postoji li osoba koja stanuje ili boravi u nekretnini",
+    "provjeriti: postoje li tereti, služnosti ili prava koja ne prestaju prodajom (zk.izvadak ul. 8645 treba detaljno provjeriti)",
+    "provjeriti: usklađenost katastarskog i zemljišnoknjižnog stanja (stara mjera 47,8 čhv preračunata u 172 m2 upućuje na stariji uložak)"
+  ],
+  "market_estimate": {
+    "eur_min": 650000,
+    "eur_max": 850000,
+    "confidence": "low",
+    "basis": "Web pretraga nije bila dostupna u ovoj sesiji pa procjena nije potkrijepljena svježim oglasima. Temelji se na općem poznavanju cijena u zoni Jordanovac/Maksimir u Zagrebu, gdje se kuće i manje zgrade na traženim lokacijama uobičajeno kreću u rasponu 3.500-5.000+ EUR/m2 zemljišta/objekta; sudska procjena od 699.362 EUR za 172 m2 (cca 4.065 EUR/m2) implicira da je procjena vjerojatno realna ili blago konzervativna za tu mikrolokaciju."
+  },
+  "comparables": [],
+  "investment_strategy": "Reno-flip ili iznajmljivanje nakon adaptacije — lokacija uz Maksimir ima stabilnu potražnju kod obitelji i profesionalaca koji traže mirniji dio grada blizu centra, uz mogućnost preprodaje nakon uređenja ili dugoročnog najma studentima/obiteljima. Prije bilo kakve odluke nužan je fizički razgled (najavljen za 24.9.2026.) i uvid u zk. stanje.",
+  "entry_price_eur": 610000,
+  "detailed_risks": [
+    "Nedostatak opisa stanja objekta u dokumentaciji dražbe povećava neizvjesnost oko potrebnih ulaganja u renovaciju",
+    "Prva dražba s niskim popustom (20%) znači tanju sigurnosnu maržu u odnosu na tržišnu vrijednost ako procjena bude precijenjena",
+    "Mala površina čestice (172 m2) može ograničavati mogućnosti proširenja ili dogradnje",
+    "Nepoznat pravni status (upisi tereta, hipoteka, služnosti) zahtijeva detaljnu zk. provjeru prije licitacije"
+  ],
+  "upside_scenario": "Nakon uspješne kupnje na prvoj dražbi i temeljite adaptacije, nekretnina u traženoj zoni uz Maksimir mogla bi ostvariti tržišnu vrijednost 800.000-900.000 EUR unutar 2-3 godine, uz dodatnu opciju unosnog najma u međuvremenu s obzirom na stabilnu potražnju za stanovanjem u toj četvrti Zagreba.",
+  "downside_scenario": "Ako se na razgledu ili u zk. provjeri utvrde skriveni tereti, nužnost velike rekonstrukcije ili prisutnost osobe koja stanuje u nekretnini, ROI se značajno smanjuje i investicija postaje dugotrajnija i rizičnija nego što niska početna cijena sugerira, uz mogućnost daljnjeg pada cijene tek na sljedećim dražbama.",
+  "discount_pct": 20.0,
+  "input_hash": "e12e65c018f5",
+  "scored_at": "2026-08-26T06:43:57.180194"
+}

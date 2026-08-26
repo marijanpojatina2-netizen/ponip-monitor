@@ -1,0 +1,15 @@
+{
+  "id": "61437",
+  "score_overall": 2.9,
+  "score_lokacija": 1.5,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Vrbanja je ruralno slavonsko područje s izraženom depopulacijom, a predmet je gola oranica od 2655 m2 bez ikakvih objekata. Iznimno niska vrijednost (6.698 EUR) i slaba likvidnost čine ovo marginalnim ulaganjem bez jasnog izlaznog scenarija.",
+  "flags": [
+    "provjeriti: pristup parceli i stvarnu poljoprivrednu namjenu"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "faf6ab48f533",
+  "scored_at": "2026-08-26T06:42:34.740680"
+}

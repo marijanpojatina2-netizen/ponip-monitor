@@ -1,0 +1,16 @@
+{
+  "id": "61439",
+  "score_overall": 4.0,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Otok kraj Vinkovaca je slabije likvidna slavonska lokacija, a opis miješa oranicu, kuću, dvor i zgradu bez jasnog podatka o stanju objekata. Popust od 20% na prvoj dražbi nije dovoljan poticaj za aktivan ulazak s obzirom na nisku likvidnost regije.",
+  "flags": [
+    "provjeriti: stvarno stanje kuće i zgrade (nema opisa uvjeta)",
+    "provjeriti: useljivost/zauzetost nekretnine"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "e742c8f6dba7",
+  "scored_at": "2026-08-26T06:42:34.740381"
+}
