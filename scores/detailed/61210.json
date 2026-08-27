@@ -1,0 +1,39 @@
+{
+  "id": "61210",
+  "score_overall": 4.5,
+  "score_lokacija": 4.5,
+  "score_roi": 5.0,
+  "score_stanje": 3.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Riječ je o iznimno velikom i kompleksnom paketu zemljišta (više z.k. uložaka, desetak čestica livada plus veliko parkiralište od 14.012 m2) u ruralnoj općini Sveti Križ Začretje, s procijenjenom vrijednosti od gotovo 14 mil EUR koja je nesrazmjerno visoka za pretežno poljoprivredno zemljište — to snažno upućuje na postojanje dodatnih čestica/infrastrukture izvan prikazanog (opis dokumenta je odsječen) ili na status građevinskog/gospodarskog zemljišta koji nije eksplicitno naveden. Zbog golemog iznosa jamčevine (1,4 mil EUR) i ulazne cijene (11,16 mil EUR) krug potencijalnih kupaca je vrlo uzak, što ograničava likvidnost unatoč 20% popustu na prvoj dražbi. Odsutnost podataka o razgledavanju i nepotpun opis čine ovo visokorizičnim ali potencijalno vrlo vrijednim predmetom koji zahtijeva temeljitu pravnu i urbanističku due diligence prije bilo kakve odluke o licitiranju.",
+  "flags": [
+    "provjeriti: opis nekretnine je vidljivo odsječen (završava s 'z.k...') — nedostaju podaci o preostalim česticama i eventualnim građevinama unutar navedenih z.k. uložaka",
+    "provjeriti: razlog nesrazmjerno visoke procijenjene vrijednosti (13,95 mil EUR) za pretežno poljoprivredno zemljište (livade) — moguće postojanje planiranog gospodarskog/turističkog projekta, izgrađene infrastrukture ili statusa građevinskog zemljišta",
+    "provjeriti: važeći prostorni plan Općine Sveti Križ Začretje i namjenu čestica (poljoprivredno vs. građevinsko/gospodarsko zemljište)",
+    "provjeriti: postojanje tereta, služnosti, hipoteka ili prava trećih s obzirom na broj različitih z.k. uložaka (3089, 5152/2512, 4864/3005 i dalje nenavedeno)",
+    "provjeriti: mogućnost i uvjeti razgledavanja nekretnine — nadležno tijelo nije dostavilo podatke",
+    "provjeriti: postojeća namjena i vlasnički status parkirališta 'Porcije' (14.012 m2) — ukazuje na moguću povezanost s većim gospodarskim subjektom/projektom"
+  ],
+  "market_estimate": {
+    "eur_min": 6000000,
+    "eur_max": 12000000,
+    "confidence": "low",
+    "basis": "Web pretraga tržišnih usporedbi nije bila dostupna u ovoj sesiji (alat nije odobren), stoga se procjena temelji isključivo na iskustvenom poznavanju cijena poljoprivrednog i ruralnog građevinskog zemljišta u Krapinsko-zagorskoj županiji (tipično 2-15 EUR/m2 za poljoprivredno, 20-60 EUR/m2 za građevinsko uz infrastrukturu) i na nesigurnosti oko stvarne veličine cijelog paketa jer je opis nekretnine odsječen. Raspon je namjerno širok zbog visoke nesigurnosti podataka."
+  },
+  "comparables": [],
+  "investment_strategy": "Razvoj / zemljišni bank (land banking) — s obzirom na veličinu i sastav paketa (mahom livade plus izgrađeno parkiralište), realan pristup je kupnja radi dugoročnog razvoja (gospodarska zona, energetski projekt, logistika) ili daljnje preprodaje investitoru s jasnom razvojnom vizijom, a ne kratkoročni reno-flip jer ne postoji stambena/komercijalna građevina za obnovu.",
+  "entry_price_eur": 7500000,
+  "detailed_risks": [
+    "Nepotpun opis nekretnine (dokument odsječen) - stvarni opseg imovine i eventualne obveze nisu poznati",
+    "Vrlo visok kapitalni ulog (jamčevina 1,4 mil EUR) ograničava krug kupaca i likvidnost izlaska",
+    "Nesrazmjer između tipa zemljišta (livade) i procijenjene vrijednosti sugerira mogući skriveni rizik ili precijenjenu vještačku procjenu",
+    "Nema podataka o mogućnosti razgledavanja - nemoguće vizualno/tehnički provjeriti stanje prije kupnje",
+    "Fragmentiranost kroz tri različita zemljišnoknjižna uloška povećava pravnu kompleksnost transakcije",
+    "Ruralna lokacija s ograničenom likvidnošću tržišta za ovako velik jednokratni ulog"
+  ],
+  "upside_scenario": "Ako se due diligence potvrdi da paket uključuje veći dio građevinskog/gospodarskog zemljišta s postojećom infrastrukturom (parkiralište sugerira raniji komercijalni projekt), kupnja uz značajan popust ispod procijenjene vrijednosti mogla bi omogućiti razvoj poslovne zone, logističkog centra ili obnovljivih izvora energije (solarni park) uz potencijalni rast vrijednosti od 50-100% u 3-5 godina kroz ishođenje dozvola i djelomičnu prodaju parcela.",
+  "downside_scenario": "Ako se pokaže da je zemljište čisto poljoprivredno bez realne mogućnosti prenamjene, i procjena od 13,95 mil EUR je značajno precijenjena u odnosu na tržišnu vrijednost, investitor ostaje s ilikvidnom, teško prodivom imovinom uz zamrznut kapital od nekoliko milijuna eura i visoke troškove pravnog raščišćavanja fragmentiranih zemljišnoknjižnih uložaka.",
+  "discount_pct": 20.0,
+  "input_hash": "1856f86f54af",
+  "scored_at": "2026-08-27T17:20:27.977819"
+}

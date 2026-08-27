@@ -1,0 +1,15 @@
+{
+  "id": "61090",
+  "score_overall": 3.8,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Ruralna imovina (gospodarske zgrade i kuća s okućnicom) u Virju u Podravini, području s izraženom depopulacijom i slabom likvidnošću tržišta nekretnina. Popust od tek 20% na prvoj dražbi ne kompenzira slabu lokaciju niti vjerojatno stanje objekata koje zahtijeva ulaganje, tipično za ovakve ruralne posjede.",
+  "flags": [
+    "provjeriti: stanje i useljivost kuće i gospodarskih zgrada"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "ca7f9fe1b220",
+  "scored_at": "2026-08-27T17:18:41.064327"
+}

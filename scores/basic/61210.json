@@ -1,0 +1,16 @@
+{
+  "id": "61210",
+  "score_overall": 4.5,
+  "score_lokacija": 4.5,
+  "score_roi": 5.0,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Velik kompleks poljoprivrednog i infrastrukturnog zemljišta (livade, kanal, veliko parkiralište od 14.000 m2) u Sv. Križu Začretju uz vrlo visoku ukupnu vrijednost upućuje na šire poslovno/infrastrukturno korištenje čija namjena iz opisa nije jasna. Opis je očito nepotpun (popis čestica je prekinut), a prva dražba s tek 20% popustom uz neizgrađeno zemljište čini investiciju rizičnom bez dodatne provjere.",
+  "flags": [
+    "provjeriti: opis nepotpun - popis čestica i tereta prekinut u izvoru",
+    "provjeriti: stvarna namjena i infrastrukturna vrijednost velike parcele parkirališta"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "1856f86f54af",
+  "scored_at": "2026-08-27T17:18:41.063781"
+}
