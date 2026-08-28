@@ -1,0 +1,15 @@
+{
+  "id": "60479",
+  "score_overall": 6.6,
+  "score_lokacija": 7.0,
+  "score_roi": 7.0,
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Obiteljska kuća u Remetama u Zagrebu s 40% popusta na drugoj dražbi ima dobar ROI i kvalitetnu gradsku lokaciju. Prodaje se idealni suvlasnički dio (160/3360) zk tijela s više dijelova, pa opseg i praktična uporabivost onoga što se stječe zahtijeva detaljnu pravnu provjeru.",
+  "flags": [
+    "provjeriti: suvlasnički idealni dio (160/3360) - opseg prodaje i mogućnost uporabe/diobe"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "8111c1a74d52",
+  "scored_at": "2026-08-28T18:10:53.471593"
+}

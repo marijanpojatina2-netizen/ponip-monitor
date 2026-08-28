@@ -1,0 +1,16 @@
+{
+  "id": "61475",
+  "score_overall": 5.2,
+  "score_lokacija": 5.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Kuća u Osijeku s tek 20% popusta na prvoj dražbi, uz vještačku napomenu da dio objekta i dvorišta nezakonito zadire na susjednu česticu. Pravni rizik oko nelegalne gradnje i graničnog spora čini ovo slabim kandidatom unatoč urbanoj lokaciji.",
+  "flags": [
+    "nelegalna gradnja",
+    "dio objekta na tuđem zemljištu"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "e7cb5b5d4a2f",
+  "scored_at": "2026-08-28T18:10:53.471027"
+}

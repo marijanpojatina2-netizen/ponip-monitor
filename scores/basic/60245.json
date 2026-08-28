@@ -1,0 +1,15 @@
+{
+  "id": "60245",
+  "score_overall": 8.2,
+  "score_lokacija": 8.5,
+  "score_roi": 9.0,
+  "score_stanje": 6.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Građevinsko zemljište od 1900 m2 u Nerežišćima na otoku Braču, uz 50% popusta na drugoj dražbi, izrazito je atraktivna kombinacija turističke lokacije i cijene. Treba provjeriti komunalnu infrastrukturu i pristup prije ozbiljnijeg koraka.",
+  "flags": [
+    "provjeriti: komunalna infrastruktura i pristup zemljištu"
+  ],
+  "discount_pct": 50.0,
+  "input_hash": "e39dce7b986b",
+  "scored_at": "2026-08-28T18:10:53.471477"
+}

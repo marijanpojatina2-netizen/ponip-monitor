@@ -1,0 +1,13 @@
+{
+  "id": "60554",
+  "score_overall": 5.6,
+  "score_lokacija": 3.5,
+  "score_roi": 7.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća s gospodarskom zgradom u selu Ladimirevci kraj Valpova, 40% popusta na drugoj dražbi je solidan ROI signal. Ruralna lokacija ograničava likvidnost pa je za promatranje, a ne aktivnu licitaciju.",
+  "flags": [],
+  "discount_pct": 40.0,
+  "input_hash": "7a0152e69576",
+  "scored_at": "2026-08-28T18:10:53.471342"
+}
