@@ -1,0 +1,559 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kalkulator budžeta — Košarkaška ekipa</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Caveat:wght@500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#222b36;
+    --blue:#1c6dd0;
+    --red:#d23a3a;
+    --green:#1f8a4c;
+    --orange:#e07b1a;
+    --purple:#7c3aed;
+    --marker:'Permanent Marker','Comic Sans MS',cursive;
+    --hand:'Caveat','Comic Sans MS',cursive;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
+    background:
+      radial-gradient(circle at 18% -5%, #6b7686 0%, transparent 50%),
+      radial-gradient(circle at 95% 110%, #20252e 0%, transparent 55%),
+      linear-gradient(135deg,#3c424d,#23272f);
+    min-height:100vh;padding:26px 14px 70px;color:var(--ink);
+  }
+  .page-head{max-width:1180px;margin:0 auto 16px;text-align:center;color:#f1ede3;}
+  .page-head h1{font-family:var(--marker);font-size:clamp(24px,4vw,40px);margin:0;letter-spacing:.5px;text-shadow:0 2px 6px rgba(0,0,0,.5);}
+  .page-head p{font-family:var(--hand);font-size:clamp(15px,2vw,21px);margin:3px 0 0;opacity:.85;}
+
+  /* ============ REALISTIC WHITEBOARD ============ */
+  .board-wrap{max-width:1180px;margin:0 auto;position:relative;}
+  /* outer aluminium frame */
+  .frame{
+    position:relative;border-radius:16px;padding:16px;
+    background:
+      linear-gradient(180deg,#fbfcfd 0%,#cdd2da 5%,#eef0f3 9%,#c6ccd5 50%,#aeb4be 92%,#878d98 100%);
+    box-shadow:
+      0 1px 0 rgba(255,255,255,.8) inset,
+      0 38px 60px -18px rgba(0,0,0,.65),
+      0 10px 24px rgba(0,0,0,.4);
+  }
+  .frame::before{ /* inner bevel */
+    content:"";position:absolute;inset:9px;border-radius:9px;
+    box-shadow:inset 0 2px 5px rgba(0,0,0,.35), inset 0 -1px 2px rgba(255,255,255,.6);
+    pointer-events:none;
+  }
+  .screw{position:absolute;width:13px;height:13px;border-radius:50%;
+    background:radial-gradient(circle at 35% 30%,#fdfdfd,#9aa0aa 70%,#6c727c);
+    box-shadow:0 1px 2px rgba(0,0,0,.5), inset 0 0 0 1px rgba(0,0,0,.12);}
+  .screw::after{content:"";position:absolute;inset:3px;border-top:1.4px solid #71777f;transform:rotate(40deg);}
+  .screw.tl{top:7px;left:7px;} .screw.tr{top:7px;right:7px;}
+  .screw.bl{bottom:7px;left:7px;} .screw.br{bottom:7px;right:7px;}
+
+  /* the white writing surface */
+  .board{
+    position:relative;border-radius:7px;overflow:hidden;
+    background:
+      linear-gradient(125deg, rgba(255,255,255,.9), rgba(247,250,253,.4) 35%, rgba(236,242,247,.55)),
+      radial-gradient(120% 80% at 50% -10%, #ffffff 0%, #eef3f7 60%, #e3e9ef 100%);
+    box-shadow:inset 0 0 0 1px rgba(255,255,255,.7), inset 0 3px 22px rgba(90,110,130,.16);
+    padding:24px 22px 26px;
+  }
+  /* faint eraser smudges + ghost ink */
+  .board::before{
+    content:"";position:absolute;inset:0;pointer-events:none;mix-blend-mode:multiply;opacity:.55;
+    background:
+      radial-gradient(ellipse 260px 70px at 22% 18%, rgba(120,140,160,.10), transparent 70%),
+      radial-gradient(ellipse 200px 55px at 78% 60%, rgba(120,140,160,.09), transparent 70%),
+      radial-gradient(ellipse 150px 40px at 55% 92%, rgba(120,140,160,.08), transparent 70%),
+      radial-gradient(ellipse 120px 200px at 88% 30%, rgba(28,109,208,.04), transparent 70%);
+  }
+  /* big diagonal glare */
+  .board::after{
+    content:"";position:absolute;top:-30%;left:-15%;width:60%;height:170%;
+    background:linear-gradient(108deg, rgba(255,255,255,.55), rgba(255,255,255,0) 55%);
+    transform:rotate(7deg);pointer-events:none;opacity:.65;
+  }
+  .board > *{position:relative;z-index:2;}
+
+  .board-title{font-family:var(--marker);font-size:clamp(18px,2.4vw,24px);color:var(--ink);margin:0 0 16px;text-align:center;transform:rotate(-.6deg);}
+  .board-title u{text-decoration-color:var(--red);text-underline-offset:5px;}
+
+  /* ===== roster: one row per position, 3 players across ===== */
+  .roster{display:flex;flex-direction:column;gap:14px;}
+  .pos-row{display:grid;grid-template-columns:84px 1fr;gap:14px;align-items:center;}
+  .pos-row + .pos-row{border-top:2px dashed rgba(120,135,150,.32);padding-top:14px;}
+
+  .pos-letter{font-family:var(--marker);font-size:clamp(40px,6vw,62px);line-height:.92;text-align:center;transform:rotate(-4deg);text-shadow:1.5px 1.5px 0 rgba(0,0,0,.07);}
+  .pos-letter small{display:block;font-family:var(--hand);font-size:12px;font-weight:700;color:#6b7682;transform:rotate(4deg);margin-top:3px;letter-spacing:.3px;white-space:nowrap;}
+  .pos-PG{color:var(--blue);} .pos-SG{color:var(--purple);} .pos-SF{color:var(--green);}
+  .pos-PF{color:var(--orange);} .pos-C{color:var(--red);}
+
+  .pcards{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;}
+  .pcard{
+    position:relative;border-radius:12px;padding:8px 9px 9px;min-width:0;
+    background:linear-gradient(180deg, rgba(255,255,255,.92), rgba(255,255,255,.72));
+    box-shadow:0 2px 5px rgba(40,55,70,.12);
+    border:2.5px solid var(--c,#888);
+  }
+  .pcard.starter{--c:var(--green);} .pcard.bench{--c:var(--blue);} .pcard.dev{--c:var(--orange);}
+  .ptag{display:inline-block;font-family:var(--hand);font-weight:700;font-size:12px;color:#fff;background:var(--c);padding:1px 9px;border-radius:20px;margin-bottom:3px;}
+  .pnum{font-family:var(--hand);font-weight:700;font-size:11px;color:#8a929c;float:right;margin-top:2px;}
+  input.pname{
+    width:100%;border:none;background:transparent;outline:none;
+    font-family:var(--hand);font-size:clamp(16px,2.2vw,21px);font-weight:600;color:var(--ink);
+    border-bottom:1.5px solid rgba(120,135,150,.4);padding:1px 2px;
+  }
+  input.pname::placeholder{color:#aab1ba;font-weight:500;}
+  .pcost{display:block;font-family:var(--hand);font-weight:700;font-size:14px;color:#475569;margin-top:4px;min-height:18px;}
+  .pcost b{color:var(--ink);}
+
+  /* marker tray under the board */
+  .tray{position:relative;margin:0 auto;max-width:1130px;height:24px;
+    background:linear-gradient(180deg,#c7a877,#9c7c4f);border-radius:0 0 12px 12px;
+    box-shadow:0 12px 20px rgba(0,0,0,.45), inset 0 2px 3px rgba(255,255,255,.4);}
+  .tray .mk{position:absolute;top:7px;height:10px;border-radius:6px;box-shadow:0 2px 3px rgba(0,0,0,.4);}
+  .tray .mk1{left:9%;width:84px;background:linear-gradient(180deg,#4a93e6,#1c6dd0);}
+  .tray .mk2{left:23%;width:74px;background:linear-gradient(180deg,#ec6464,#d23a3a);}
+  .tray .mk3{left:35%;width:80px;background:linear-gradient(180deg,#3cb070,#1f8a4c);}
+  .tray .er{right:9%;top:3px;height:17px;width:66px;border-radius:4px;background:linear-gradient(180deg,#f5f5f5,#d0d4db 52%,#2f6fb3 52%,#1f5896);box-shadow:0 2px 4px rgba(0,0,0,.4);}
+
+  /* ============ FINANCE TABLE (below board) ============ */
+  .sheet-wrap{max-width:1180px;margin:30px auto 0;}
+  .sheet{background:#fffdf8;border-radius:14px;padding:14px 14px 6px;
+    box-shadow:0 20px 40px -16px rgba(0,0,0,.55), inset 0 0 0 1px rgba(0,0,0,.05);
+    background-image:linear-gradient(#fffdf8,#fffdf8),repeating-linear-gradient(0deg,transparent,transparent 31px,rgba(120,135,150,.10) 31px,rgba(120,135,150,.10) 32px);}
+  .sheet h2{font-family:var(--marker);font-size:20px;color:var(--ink);margin:2px 0 12px;text-align:center;}
+  .scroll{overflow-x:auto;}
+  table{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums;min-width:760px;}
+  thead th{font-family:var(--hand);font-weight:700;font-size:15px;color:#39414e;text-align:right;padding:6px 8px 9px;border-bottom:2.5px solid rgba(80,95,110,.5);white-space:nowrap;}
+  thead th.lft{text-align:left;}
+  tbody td{padding:5px 8px;border-bottom:1px solid rgba(120,135,150,.18);}
+  tbody tr.starter{background:rgba(31,138,76,.06);}
+  tbody tr.posfirst td{border-top:2px solid rgba(80,95,110,.28);}
+  .pos-cell{font-family:var(--marker);font-size:15px;text-align:center;}
+  .role-dot{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:6px;vertical-align:middle;}
+  .role-starter{background:var(--green);} .role-bench{background:var(--blue);} .role-dev{background:var(--orange);} .role-staff{background:var(--purple);}
+  tr.staff-head td{font-family:var(--marker);font-size:14px;color:#5b6470;letter-spacing:.4px;padding:14px 8px 4px;border-bottom:2.5px solid rgba(124,58,237,.45);}
+  tr.staff{background:rgba(124,58,237,.06);}
+  input.cname{width:100%;min-width:90px;border:none;background:transparent;border-bottom:1.5px solid rgba(120,135,150,.4);font-family:var(--hand);font-size:18px;font-weight:600;color:var(--ink);padding:1px 2px;outline:none;}
+  input.cname:focus{border-color:var(--blue);}
+  input.cname::placeholder{color:#aab1ba;font-weight:500;font-style:italic;}
+  .nm{font-family:var(--hand);font-size:18px;font-weight:600;color:var(--ink);}
+  .nm.empty{color:#aab1ba;font-style:italic;}
+  td.num{text-align:right;}
+  input.money{width:80px;text-align:right;border:1px solid rgba(120,135,150,.3);background:#fff;border-radius:6px;padding:4px 6px;font-size:13px;font-family:inherit;color:var(--ink);}
+  input.money:focus{outline:none;border-color:var(--blue);}
+  select.months{border:1px solid rgba(120,135,150,.3);border-radius:6px;background:#fff;padding:3px 4px;font-size:13px;font-family:inherit;color:var(--ink);}
+  select.taxsel{border:1px solid rgba(120,135,150,.3);border-radius:6px;background:#fff;padding:3px 4px;font-size:12px;font-family:inherit;color:var(--ink);max-width:120px;}
+  td.total{text-align:right;font-weight:700;font-size:13px;color:#0f2a17;white-space:nowrap;}
+
+  /* totals */
+  .totals{max-width:1180px;margin:18px auto 0;display:grid;grid-template-columns:repeat(4,1fr);gap:12px;}
+  @media(max-width:720px){.totals{grid-template-columns:1fr 1fr;}}
+  .tcard{background:rgba(255,255,255,.85);border-radius:14px;padding:13px 15px;box-shadow:inset 0 0 0 2.5px rgba(120,135,150,.3),0 8px 18px -10px rgba(0,0,0,.4);}
+  .tcard h3{margin:0;font-family:var(--hand);font-weight:700;font-size:16px;color:#475569;}
+  .tcard .val{font-family:var(--marker);font-size:clamp(19px,2.4vw,28px);margin-top:2px;}
+  .tcard.salary .val{color:var(--green);} .tcard.extras .val{color:var(--orange);}
+  .tcard.month .val{color:var(--blue);} .tcard.season{box-shadow:inset 0 0 0 3px var(--red),0 8px 18px -10px rgba(0,0,0,.4);} .tcard.season .val{color:var(--red);}
+
+  .toolbar{max-width:1180px;margin:18px auto 0;display:flex;flex-wrap:wrap;gap:10px;justify-content:center;align-items:center;}
+  .btn{font-family:var(--hand);font-weight:700;font-size:17px;cursor:pointer;border:none;border-radius:10px;padding:9px 18px;color:#fff;box-shadow:0 4px 0 rgba(0,0,0,.25);transition:transform .06s,box-shadow .06s;}
+  .btn:active{transform:translateY(3px);box-shadow:0 1px 0 rgba(0,0,0,.25);}
+  .btn.print{background:var(--blue);} .btn.reset{background:var(--red);} .btn.demo{background:var(--green);}
+  .cur-toggle{font-family:var(--hand);font-weight:700;font-size:16px;color:#f1ede3;display:flex;align-items:center;gap:8px;}
+  .cur-toggle select{font-family:inherit;font-size:16px;border-radius:8px;border:none;padding:6px 8px;}
+  .hint{font-family:var(--hand);font-size:15px;color:#cfd3da;text-align:center;max-width:1000px;margin:10px auto 0;}
+
+  @media(max-width:560px){
+    .pos-row{grid-template-columns:60px 1fr;gap:8px;}
+    .pcards{gap:6px;}
+    .pcard{padding:6px 6px 7px;}
+    .ptag{font-size:11px;padding:1px 6px;}
+  }
+  /* login lock screen */
+  .lock{position:fixed;inset:0;z-index:60;display:flex;align-items:center;justify-content:center;padding:20px;
+    background:radial-gradient(circle at 30% 18%,#454c59,#1b1f26);}
+  .lock.hidden{display:none;}
+  .lock-card{width:min(380px,92vw);background:#fffdf8;border-radius:18px;padding:28px 24px;text-align:center;
+    box-shadow:0 30px 70px rgba(0,0,0,.6),inset 0 0 0 1px rgba(0,0,0,.05);}
+  .lock-ball{font-size:38px;line-height:1;}
+  .lock-card h2{font-family:var(--marker);font-size:24px;margin:6px 0 2px;color:var(--ink);}
+  .lock-card p{font-family:var(--hand);font-size:17px;color:#5b6470;margin:0 0 18px;}
+  .lock-card input{display:block;width:100%;margin:0 0 10px;padding:11px 12px;border-radius:10px;border:1.5px solid #cfd5dd;font-size:16px;font-family:inherit;color:var(--ink);}
+  .lock-card input:focus{outline:none;border-color:var(--blue);}
+  .lock-card .btn{width:100%;background:var(--green);font-size:18px;margin-top:4px;}
+  .lock-err{color:var(--red);font-family:var(--hand);font-weight:700;font-size:15px;min-height:20px;margin-top:10px;}
+
+  .mode-banner{max-width:1180px;margin:0 auto 14px;text-align:center;font-family:var(--hand);font-weight:700;font-size:15px;padding:8px 14px;border-radius:10px;}
+  .mode-local{background:#fff3cd;color:#7a5b00;}
+  .mode-cloud{background:#d9f2e3;color:#0f5a2e;}
+  .btn.logout{background:#64748b;}
+
+  @media print{
+    body{background:#fff;padding:0;}
+    .lock,.mode-banner{display:none!important;}
+    .toolbar,.tray,.hint,.page-head p{display:none;}
+    .frame,.sheet,.tcard{box-shadow:none;}
+    input,select{border:none!important;background:transparent!important;}
+  }
+</style>
+</head>
+<body>
+
+<!-- ============ LOGIN LOCK ============ -->
+<div class="lock hidden" id="lock">
+  <div class="lock-card">
+    <div class="lock-ball">🔒🏀</div>
+    <h2>Prijava</h2>
+    <p>Unesi pristupne podatke za ekipu</p>
+    <input id="lkEmail" type="email" placeholder="e-mail" autocomplete="username">
+    <input id="lkPass" type="password" placeholder="lozinka" autocomplete="current-password">
+    <button class="btn" id="lkBtn">Uđi</button>
+    <div class="lock-err" id="lkErr"></div>
+  </div>
+</div>
+
+<div class="page-head">
+  <h1>Kalkulator budžeta — Košarkaška ekipa</h1>
+  <p>Posloži postavu na ploči i izračunaj trošak sezone</p>
+</div>
+
+<div class="mode-banner mode-local" id="modeBanner" style="display:none"></div>
+
+<!-- ============ WHITEBOARD ============ -->
+<div class="board-wrap">
+ <div class="frame">
+   <span class="screw tl"></span><span class="screw tr"></span><span class="screw bl"></span><span class="screw br"></span>
+   <div class="board">
+     <h2 class="board-title"><u>POSTAVA</u> — 3 igrača po poziciji</h2>
+     <div class="roster" id="roster"><!-- generated --></div>
+   </div>
+ </div>
+</div>
+<div class="tray"><span class="mk mk1"></span><span class="mk mk2"></span><span class="mk mk3"></span><span class="er"></span></div>
+
+<!-- ============ FINANCE TABLE ============ -->
+<div class="sheet-wrap">
+  <div class="sheet">
+    <h2>Financije ekipe</h2>
+    <div class="scroll">
+      <table>
+        <thead>
+          <tr>
+            <th class="lft">Poz.</th>
+            <th class="lft">Igrač</th>
+            <th>Neto plaća/mj.</th>
+            <th>Obračun</th>
+            <th>Mj.</th>
+            <th>Stan/mj.</th>
+            <th>Agent %</th>
+            <th>Ukupno/god.</th>
+          </tr>
+        </thead>
+        <tbody id="finBody"><!-- generated --></tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+<!-- ============ TOTALS ============ -->
+<div class="totals">
+  <div class="tcard salary"><h3>Bruto plaće (sezona)</h3><div class="val" id="tSalary">—</div></div>
+  <div class="tcard extras"><h3>Stanovi + agenti</h3><div class="val" id="tExtras">—</div></div>
+  <div class="tcard month"><h3>Prosjek / mjesec</h3><div class="val" id="tMonth">—</div></div>
+  <div class="tcard season"><h3>UKUPNO SEZONA</h3><div class="val" id="tSeason">—</div></div>
+</div>
+
+<div class="toolbar">
+  <button class="btn demo" id="btnDemo">Primjer postave</button>
+  <button class="btn print" id="btnPrint">Ispiši / PDF</button>
+  <button class="btn reset" id="btnReset">Očisti ploču</button>
+  <button class="btn logout" id="btnLogout" style="display:none">Odjava</button>
+  <label class="cur-toggle">Valuta:
+    <select id="curSel"><option value="€">€ EUR</option><option value="$">$ USD</option><option value="kn">kn</option><option value="RSD">RSD</option></select>
+  </label>
+</div>
+<p class="hint">Upisuje se <b>neto</b> plaća, a trošak se računa <b>bruto</b> prema obračunu: <b>Cash</b> = neto (0 doprinosa) · <b>HR igrač</b> = prvih 600 € neoporezivo, ostatak × 1,275 · <b>Stranac obrt</b> = neto × 1,60 · <b>Paušalni obrt</b> = neto + 350 €. Plaća i stan idu kroz 9/10 mjeseci, agent je % od neto godišnjeg ugovora. Sve se sprema u oblak.</p>
+
+<script type="module">
+  // ===================================================================
+  //  FIREBASE CONFIG  —  zalijepi ovdje podatke iz svog Firebase projekta.
+  //  Dok je prazno, aplikacija radi LOKALNO (sprema samo na ovaj uređaj).
+  //  Kad upišeš config, uključuje se prijava lozinkom + dijeljeni oblak.
+  // ===================================================================
+  const firebaseConfig = {
+    apiKey:            "AIzaSyCvY8yFOZu5YJ0FtBNpVblyPwI5dwlo3OE",
+    authDomain:        "kosarka-budget.firebaseapp.com",
+    projectId:         "kosarka-budget",
+    storageBucket:     "kosarka-budget.firebasestorage.app",
+    messagingSenderId: "510586062492",
+    appId:             "1:510586062492:web:bfe8732b459737ed22cf59"
+  };
+  const CLOUD = !!firebaseConfig.apiKey;
+
+  const POSITIONS=[
+    {key:"PG",name:"Playmaker"},{key:"SG",name:"Bek šuter"},{key:"SF",name:"Niski krilo"},
+    {key:"PF",name:"Krilni centar"},{key:"C",name:"Centar"}
+  ];
+  const ROLES=[
+    {key:"starter",label:"Petorka"},{key:"bench",label:"Zamjena"},{key:"dev",label:"Klinac"}
+  ];
+  const STAFF=[
+    {key:"head",label:"Glavni trener"},{key:"assist",label:"Pomoćni trener"}
+  ];
+  const STORE_KEY="bball-budget-v2", CUR_KEY="bball-budget-cur";
+
+  function blank(){const s={};POSITIONS.forEach(p=>ROLES.forEach(r=>{s[p.key+"-"+r.key]={name:"",salary:0,months:10,flat:0,agent:0,tax:"cash"};}));STAFF.forEach(c=>{s["STAFF-"+c.key]={name:"",salary:0,months:10,flat:0,agent:0,tax:"cash"};});return s;}
+
+  // net -> bruto monthly cost, per player tax status
+  const TAX_OPTS=[
+    {v:"cash",   t:"Cash (0 dopr.)"},
+    {v:"hr",     t:"HR igrač"},
+    {v:"obrt_str",t:"Stranac obrt"},
+    {v:"pausal", t:"Paušalni obrt"}
+  ];
+  function grossMonthly(pl){
+    const net=num(pl.salary);
+    if(net<=0)return 0;
+    switch(pl.tax){
+      case "hr":      return net<=600 ? net : 600+(net-600)*1.275;
+      case "obrt_str":return net*1.60;
+      case "pausal":  return net+350;
+      default:        return net; // cash
+    }
+  }
+  function taxSelect(key,val){
+    return '<select class="taxsel" data-key="'+key+'" data-f="tax">'+
+      TAX_OPTS.map(o=>'<option value="'+o.v+'"'+(val===o.v?' selected':'')+'>'+o.t+'</option>').join('')+
+      '</select>';
+  }
+  let state=load()||blank();
+  let cur=localStorage.getItem(CUR_KEY)||"€";
+
+  function load(){try{const raw=localStorage.getItem(STORE_KEY);if(!raw)return null;const d=JSON.parse(raw);const s=blank();Object.keys(s).forEach(k=>{if(d[k])Object.assign(s[k],d[k]);});return s;}catch(e){return null;}}
+  function mergeData(d){const s=blank();Object.keys(s).forEach(k=>{if(d&&d[k])Object.assign(s[k],d[k]);});state=s;}
+  function save(){localStorage.setItem(STORE_KEY,JSON.stringify(state));localStorage.setItem(CUR_KEY,cur);if(cloudReady)scheduleCloudSave();}
+
+  const num=v=>{const n=parseFloat(String(v).replace(/[^0-9.\-]/g,""));return isNaN(n)?0:n;};
+  function fmt(n){const r=Math.round(n);const s=r.toLocaleString("hr-HR");return cur==="$"?cur+s:s+" "+cur;}
+  function roleLabel(rk){const r=ROLES.find(x=>x.key===rk);return r?r.label:"";}
+
+  // ---- LEFT roster: rows of position + 3 horizontal cards ----
+  function buildRoster(){
+    const host=document.getElementById("roster");host.innerHTML="";
+    POSITIONS.forEach(p=>{
+      const row=document.createElement("div");row.className="pos-row";
+      let cards="";
+      ROLES.forEach((r,i)=>{
+        const key=p.key+"-"+r.key;const pl=state[key];
+        cards+=`<div class="pcard ${r.key}">
+          <span class="ptag">${r.label}</span><span class="pnum">#${i+1}</span>
+          <input class="pname" data-key="${key}" placeholder="ime igrača…" value="${escAttr(pl.name)}">
+          <span class="pcost" id="mini-${key}"></span>
+        </div>`;
+      });
+      row.innerHTML=`<div class="pos-letter pos-${p.key}">${p.key}<small>${p.name}</small></div>
+        <div class="pcards">${cards}</div>`;
+      host.appendChild(row);
+    });
+  }
+
+  // ---- finance table ----
+  function buildFinance(){
+    const body=document.getElementById("finBody");body.innerHTML="";
+    POSITIONS.forEach(p=>{
+      ROLES.forEach((r,i)=>{
+        const key=p.key+"-"+r.key;const pl=state[key];
+        const tr=document.createElement("tr");tr.className=r.key+(i===0?" posfirst":"");
+        tr.innerHTML=`
+          <td class="pos-cell">${i===0?p.key:""}</td>
+          <td><span class="role-dot role-${r.key}"></span><span class="nm ${pl.name?'':'empty'}" id="nm-${key}">${pl.name||r.label}</span></td>
+          <td class="num"><input class="money" data-key="${key}" data-f="salary" value="${pl.salary||''}" placeholder="0"></td>
+          <td>${taxSelect(key,pl.tax)}</td>
+          <td class="num"><select class="months" data-key="${key}" data-f="months"><option value="9" ${pl.months==9?'selected':''}>9</option><option value="10" ${pl.months==10?'selected':''}>10</option></select></td>
+          <td class="num"><input class="money" data-key="${key}" data-f="flat" value="${pl.flat||''}" placeholder="0"></td>
+          <td class="num"><input class="money" data-key="${key}" data-f="agent" value="${pl.agent||''}" placeholder="0" title="postotak neto godišnjeg ugovora"></td>
+          <td class="total" id="tot-${key}">—</td>`;
+        body.appendChild(tr);
+      });
+    });
+    // ---- coaching staff ----
+    const head=document.createElement("tr");head.className="staff-head";
+    head.innerHTML=`<td colspan="8">Trenerski stožer</td>`;
+    body.appendChild(head);
+    STAFF.forEach((c,i)=>{
+      const key="STAFF-"+c.key;const pl=state[key];
+      const tr=document.createElement("tr");tr.className="staff"+(i===0?" posfirst":"");
+      tr.innerHTML=`
+        <td class="pos-cell">🧑‍🏫</td>
+        <td><span class="role-dot role-staff"></span><input class="cname" data-key="${key}" placeholder="${c.label}…" value="${escAttr(pl.name)}"></td>
+        <td class="num"><input class="money" data-key="${key}" data-f="salary" value="${pl.salary||''}" placeholder="0"></td>
+        <td>${taxSelect(key,pl.tax)}</td>
+        <td class="num"><select class="months" data-key="${key}" data-f="months"><option value="9" ${pl.months==9?'selected':''}>9</option><option value="10" ${pl.months==10?'selected':''}>10</option></select></td>
+        <td class="num"><input class="money" data-key="${key}" data-f="flat" value="${pl.flat||''}" placeholder="0"></td>
+        <td class="num"><input class="money" data-key="${key}" data-f="agent" value="${pl.agent||''}" placeholder="0" title="postotak neto godišnjeg ugovora"></td>
+        <td class="total" id="tot-${key}">—</td>`;
+      body.appendChild(tr);
+    });
+  }
+
+  function escAttr(s){return String(s).replace(/"/g,"&quot;").replace(/</g,"&lt;");}
+
+  function recompute(){
+    let salary=0,extras=0,season=0;
+    const tally=key=>{
+      const pl=state[key];
+      const netAnnual=num(pl.salary)*num(pl.months);   // neto godišnji ugovor (za agenta)
+      const sal=grossMonthly(pl)*num(pl.months);        // BRUTO trošak plaće za sezonu
+      const ext=num(pl.flat)*num(pl.months)+netAnnual*num(pl.agent)/100;
+      const tot=sal+ext;
+      salary+=sal;extras+=ext;season+=tot;
+      const tcell=document.getElementById("tot-"+key);if(tcell)tcell.textContent=tot>0?fmt(tot):"—";
+      const mini=document.getElementById("mini-"+key);if(mini)mini.innerHTML=tot>0?("<b>"+fmt(tot)+"</b>"):"";
+    };
+    POSITIONS.forEach(p=>ROLES.forEach(r=>tally(p.key+"-"+r.key)));
+    STAFF.forEach(c=>tally("STAFF-"+c.key));
+    document.getElementById("tSalary").textContent=fmt(salary);
+    document.getElementById("tExtras").textContent=fmt(extras);
+    document.getElementById("tMonth").textContent=fmt(season/12);
+    document.getElementById("tSeason").textContent=fmt(season);
+  }
+
+  document.addEventListener("input",e=>{
+    const t=e.target;const key=t.getAttribute("data-key");if(!key)return;
+    if(t.tagName==="SELECT")return;   // selects (mj./obračun) handled by 'change'
+    if(t.classList.contains("pname")){
+      state[key].name=t.value;
+      const nm=document.getElementById("nm-"+key);
+      if(nm){nm.textContent=t.value||roleLabel(key.split("-")[1]);nm.classList.toggle("empty",!t.value);}
+    }else if(t.classList.contains("cname")){
+      state[key].name=t.value;
+    }else{
+      const f=t.getAttribute("data-f");
+      state[key][f]= f==="months"?parseInt(t.value,10):num(t.value);
+      recompute();
+    }
+    save();
+  });
+  document.addEventListener("change",e=>{
+    const t=e.target;const key=t.getAttribute("data-key");
+    if(t.tagName==="SELECT"&&key&&t.getAttribute("data-f")){
+      const f=t.getAttribute("data-f");
+      state[key][f]= f==="months"?parseInt(t.value,10):t.value;
+      recompute();save();
+    }
+  });
+
+  document.getElementById("curSel").addEventListener("change",e=>{cur=e.target.value;save();recompute();});
+  document.getElementById("btnPrint").addEventListener("click",()=>window.print());
+  document.getElementById("btnReset").addEventListener("click",()=>{if(confirm("Očistiti cijelu ploču?")){state=blank();save();render();}});
+  document.getElementById("btnDemo").addEventListener("click",()=>{loadDemo();save();render();});
+
+  function loadDemo(){
+    state=blank();
+    const d={
+      "PG-starter":["Marko Perić",8500,10,650,10,"hr"],"PG-bench":["Luka Babić",3200,10,450,5,"hr"],"PG-dev":["Ivan Novak",900,9,0,0,"pausal"],
+      "SG-starter":["DeShawn Carter",11000,10,800,10,"obrt_str"],"SG-bench":["Filip Kovač",2800,10,400,5,"hr"],"SG-dev":["Tomislav Jurić",750,9,0,0,"pausal"],
+      "SF-starter":["Mateo Rukavina",7600,10,600,8,"hr"],"SF-bench":["Karlo Vidović",2500,10,380,5,"hr"],"SF-dev":["Petar Šimić",800,9,0,0,"pausal"],
+      "PF-starter":["Nikola Bogdan",9200,10,700,10,"hr"],"PF-bench":["Ante Marković",2600,10,400,5,"hr"],"PF-dev":["Roko Lović",700,9,0,0,"pausal"],
+      "C-starter":["Mike Johnson",13000,10,950,10,"obrt_str"],"C-bench":["Stipe Galić",3000,10,450,5,"hr"],"C-dev":["Bruno Kralj",850,9,0,0,"pausal"],
+      "STAFF-head":["Damir Mulaomerović",9000,10,700,8,"hr"],"STAFF-assist":["Josip Vranković",3500,10,450,0,"hr"]
+    };
+    Object.keys(d).forEach(k=>{const[name,salary,months,flat,agent,tax]=d[k];state[k]={name,salary,months,flat,agent,tax};});
+  }
+
+  function render(){document.getElementById("curSel").value=cur;buildRoster();buildFinance();recompute();}
+
+  // update existing inputs from state without rebuilding DOM (keeps focus on live sync)
+  function applyValues(){
+    const sync=(key,nameSel)=>{
+      const pl=state[key];
+      const ni=document.querySelector(nameSel+'[data-key="'+key+'"]');
+      if(ni&&document.activeElement!==ni)ni.value=pl.name;
+      const nm=document.getElementById("nm-"+key);
+      if(nm){nm.textContent=pl.name||roleLabel(key.split("-")[1]);nm.classList.toggle("empty",!pl.name);}
+      ["salary","flat","agent"].forEach(f=>{const inp=document.querySelector('.money[data-key="'+key+'"][data-f="'+f+'"]');if(inp&&document.activeElement!==inp)inp.value=pl[f]||'';});
+      const mo=document.querySelector('.months[data-key="'+key+'"]');if(mo&&document.activeElement!==mo)mo.value=pl.months;
+      const tx=document.querySelector('.taxsel[data-key="'+key+'"]');if(tx&&document.activeElement!==tx)tx.value=pl.tax||"cash";
+    };
+    POSITIONS.forEach(p=>ROLES.forEach(r=>sync(p.key+"-"+r.key,'.pname')));
+    STAFF.forEach(c=>sync("STAFF-"+c.key,'.cname'));
+    document.getElementById("curSel").value=cur;
+    recompute();
+  }
+
+  // ---------- cloud (Firebase) ----------
+  let fb=null, cloudReady=false, subscribed=false, saveTimer=null;
+  function scheduleCloudSave(){clearTimeout(saveTimer);saveTimer=setTimeout(cloudSave,600);}
+  async function cloudSave(){if(!fb||!fb.auth.currentUser)return;try{await fb.setDoc(fb.docRef,{state,cur,updatedAt:Date.now()},{merge:true});}catch(e){console.warn("cloud save",e);}}
+  function setBanner(kind,txt){const b=document.getElementById("modeBanner");b.style.display="";b.className="mode-banner mode-"+kind;b.textContent=txt;}
+  function showLock(){document.getElementById("lock").classList.remove("hidden");}
+  function hideLock(){document.getElementById("lock").classList.add("hidden");}
+
+  async function initCloud(){
+    const [appM,authM,fsM]=await Promise.all([
+      import("https://www.gstatic.com/firebasejs/10.12.0/firebase-app.js"),
+      import("https://www.gstatic.com/firebasejs/10.12.0/firebase-auth.js"),
+      import("https://www.gstatic.com/firebasejs/10.12.0/firebase-firestore.js")
+    ]);
+    const app=appM.initializeApp(firebaseConfig);
+    const auth=authM.getAuth(app);
+    const db=fsM.getFirestore(app);
+    fb={auth,db,docRef:fsM.doc(db,"team","main"),setDoc:fsM.setDoc,onSnapshot:fsM.onSnapshot,
+        signIn:authM.signInWithEmailAndPassword,signOut:authM.signOut,onAuth:authM.onAuthStateChanged};
+
+    document.getElementById("lkBtn").addEventListener("click",doLogin);
+    document.getElementById("lkPass").addEventListener("keydown",e=>{if(e.key==="Enter")doLogin();});
+    document.getElementById("btnLogout").addEventListener("click",()=>fb.signOut(fb.auth));
+
+    fb.onAuth(auth,user=>{
+      if(user){
+        hideLock();cloudReady=true;
+        document.getElementById("btnLogout").style.display="";
+        setBanner("cloud","☁️ Spojeno — podaci se dijele i spremaju u oblak");
+        subscribeCloud();
+      }else{
+        cloudReady=false;
+        document.getElementById("btnLogout").style.display="none";
+        showLock();
+      }
+    });
+  }
+  function subscribeCloud(){
+    if(subscribed)return;subscribed=true;
+    fb.onSnapshot(fb.docRef,snap=>{
+      if(snap.metadata.hasPendingWrites)return;       // ignore echo of our own write
+      if(snap.exists()){
+        const d=snap.data();
+        if(d.state)mergeData(d.state);
+        if(d.cur)cur=d.cur;
+        applyValues();
+      }else{cloudSave();}                              // first run: seed the doc
+    });
+  }
+  async function doLogin(){
+    const email=document.getElementById("lkEmail").value.trim();
+    const pass=document.getElementById("lkPass").value;
+    const err=document.getElementById("lkErr");err.textContent="";
+    try{await fb.signIn(fb.auth,email,pass);}
+    catch(ex){err.textContent="Pogrešan e-mail ili lozinka.";}
+  }
+
+  // ---------- startup ----------
+  render();
+  if(CLOUD){
+    showLock();
+    initCloud().catch(e=>{console.error(e);setBanner("local","⚠️ Greška pri spajanju na oblak — radi lokalno");hideLock();});
+  }else{
+    setBanner("local","⚠️ Lokalni način — podaci ostaju samo na ovom uređaju. (Firebase još nije postavljen.)");
+  }
+</script>
+</body>
+</html>
