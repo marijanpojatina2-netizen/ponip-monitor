@@ -1,0 +1,15 @@
+{
+  "id": "60503",
+  "score_overall": 4.6,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Ruralna lokacija u Viljevu (depopulacijsko područje Slavonije) s velikom parcelom od skoro 9000 m2 i visokim popustom od 40% na drugoj dražbi, no likvidnost tržišta je vrlo niska. Stara 'čarda' i pet gospodarskih zgrada vjerojatno zahtijevaju značajnu obnovu, pa je riječ prije o dugoročnoj zemljišnoj investiciji nego brzom ROI-u.",
+  "flags": [
+    "provjeriti: stanje i namjena starih gospodarskih zgrada (čarda)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "5c6c805d3ebf",
+  "scored_at": "2026-08-31T12:38:04.053817"
+}

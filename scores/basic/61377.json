@@ -1,0 +1,15 @@
+{
+  "id": "61377",
+  "score_overall": 4.8,
+  "score_lokacija": 5.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Adresa u centru Slavonskog Broda je solidna, no popust od svega 20% na prvoj dražbi ne nudi veliki prostor za ROI. Ključni problem je što se prodaje samo 1/5 suvlasničkog dijela kuće, što drastično otežava stjecanje pune kontrole nad nekretninom i njenu daljnju unovčivost.",
+  "flags": [
+    "suvlasništvo - prodaje se samo 1/5 dijela nekretnine"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "80a486f88ea0",
+  "scored_at": "2026-08-31T12:38:04.054642"
+}

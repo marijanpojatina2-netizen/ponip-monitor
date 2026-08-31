@@ -1,0 +1,13 @@
+{
+  "id": "61445",
+  "score_overall": 4.0,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Babina Greda je ruralno područje istočne Hrvatske s ograničenom potražnjom, a popust od svega 20% na prvoj dražbi ne kompenzira slabu likvidnost. Stambena zgrada sa šest gospodarskih objekata ukazuje na staro seosko domaćinstvo koje vjerojatno traži veća ulaganja.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "2f3bf7b256ea",
+  "scored_at": "2026-08-31T12:38:04.054214"
+}

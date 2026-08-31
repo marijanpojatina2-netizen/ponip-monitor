@@ -1,0 +1,16 @@
+{
+  "id": "59273",
+  "score_overall": 5.6,
+  "score_lokacija": 4.0,
+  "score_roi": 8.5,
+  "score_stanje": 2.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Izuzetno visok popust od 75% na trećoj dražbi uz nisku apsolutnu cijenu (10.000 EUR) čini ovo špekulativno zanimljivim ulaganjem u zemljište u zaleđu Splita. No radi se o kamenjaru bez izgrađenih objekata i prodaje se samo 1/2 suvlasničkog dijela, što bitno kompliciše upravljanje i realizaciju vrijednosti.",
+  "flags": [
+    "suvlasništvo - prodaje se samo 1/2 dijela nekretnine",
+    "provjeriti: mogućnost gradnje / namjena zemljišta (kamenjar)"
+  ],
+  "discount_pct": 75.0,
+  "input_hash": "073987d43703",
+  "scored_at": "2026-08-31T12:38:04.054347"
+}
