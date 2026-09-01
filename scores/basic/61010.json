@@ -1,0 +1,16 @@
+{
+  "id": "61010",
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Identična situacija kao susjedni predmet (ista k.č.br. 1131/27, ista oranica u Brodskom Vinogorju) - niska vrijednost, slaba lokacija i fragmentirano suvlasništvo (3. dio u 1/2) čine ovo slabim investicijskim kandidatom. Male su šanse za brzi izlaz iz ovakve nelikvidne imovine.",
+  "flags": [
+    "suvlasnički udio - prodaje se samo 3. dio u 1/2 nekretnine",
+    "provjeriti: mogućnost dogovora/diobe s ostalim suvlasnicima"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "bc5a6bc549dc",
+  "scored_at": "2026-09-01T11:03:34.660322"
+}

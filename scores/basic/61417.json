@@ -1,0 +1,16 @@
+{
+  "id": "61417",
+  "score_overall": 6.3,
+  "score_lokacija": 6.5,
+  "score_roi": 6.5,
+  "score_stanje": 5.5,
+  "recommendation": "bid",
+  "reasoning": "Četverosobni stan od 94,87 m2 s parkirnim mjestom u Vrapču (Zagreb) na prvoj dražbi s 20% popusta je solidna prilika u likvidnom tržištu, no suvlasnička struktura (1/2 + dio 1/2 između dva ovršenika) traži pažljivu pravnu provjeru. Stanje nekretnine nije opisano pa se pretpostavlja standardno, bez podataka o renovaciji.",
+  "flags": [
+    "provjeriti: suvlasnički odnos između I. i II. ovršenika (1/2 + dio 1/2)",
+    "provjeriti: zauzetost/stanovanje u stanu"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "99318e9f0cbe",
+  "scored_at": "2026-09-01T11:03:34.659720"
+}

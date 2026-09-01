@@ -1,0 +1,16 @@
+{
+  "id": "61006",
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica od 979 m2 u Brodskom Vinogorju (Slavonski Brod) niske je vrijednosti (8.850 EUR) i slabe likvidnosti u depopulacijskom području, a kupuje se tek 2. suvlasnički dio unutar 1/2 vlasništva što otežava samostalno raspolaganje. Prva dražba s tek 20% popusta ne nudi dovoljan sigurnosni jastuk za ovakav rizik.",
+  "flags": [
+    "suvlasnički udio - prodaje se samo 2. dio u 1/2 nekretnine",
+    "provjeriti: mogućnost dogovora/diobe s ostalim suvlasnicima"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "fdca6291e28e",
+  "scored_at": "2026-09-01T11:03:34.660100"
+}
