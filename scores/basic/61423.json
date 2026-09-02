@@ -1,0 +1,16 @@
+{
+  "id": "61423",
+  "score_overall": 4.7,
+  "score_lokacija": 7.0,
+  "score_roi": 4.5,
+  "score_stanje": 1.0,
+  "recommendation": "pass",
+  "reasoning": "Nekretnina je zapravo 'put' od 154 m2 na atraktivnom otoku Pagu, ali kao infrastrukturna čestica bez građevinske namjene ima vrlo ograničenu samostalnu investicijsku vrijednost, dodatno umanjenu suvlasničkim udjelom od samo 2/4. Realna vrijednost proizlazi jedino iz eventualnog pripajanja susjednoj građevinskoj čestici.",
+  "flags": [
+    "provjeriti: stvarna namjena i status čestice (put/pristup) te mogućnost pripajanja susjednoj nekretnini",
+    "provjeriti: odnos i namjere ostalih suvlasnika (2/4 dijela)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "0478c51e2ed5",
+  "scored_at": "2026-09-02T10:34:57.562270"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "61429",
+  "score_overall": 4.7,
+  "score_lokacija": 7.0,
+  "score_roi": 4.5,
+  "score_stanje": 1.0,
+  "recommendation": "pass",
+  "reasoning": "Minijaturna čestica 'puta' od 42 m2 na Pagu uz suvlasnički udio 2/4 i vrijednost od svega 3.430 EUR nema praktičnu samostalnu investicijsku svrhu. Interes bi mogao postojati isključivo kod vlasnika susjednih parcela radi osiguranja pristupa.",
+  "flags": [
+    "provjeriti: stvarna namjena i status čestice (put/pristup) te mogućnost pripajanja susjednoj nekretnini",
+    "provjeriti: odnos i namjere ostalih suvlasnika (2/4 dijela)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "1d70f20010d1",
+  "scored_at": "2026-09-02T10:34:57.562540"
+}

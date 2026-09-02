@@ -1,0 +1,34 @@
+```json
+{
+  "id": "61449",
+  "score_overall": 7.0,
+  "score_lokacija": 9.0,
+  "score_roi": 7.0,
+  "score_stanje": 4.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Bol na Braču je vrhunska turistička lokacija (Zlatni rat) s vrlo likvidnim tržištem nekretnina i jakom potražnjom za turistički najam, što daje visok bodovni potencijal unatoč tek 20% popusta na prvoj dražbi. Predmet prodaje je 2/3 suvlasničkog dijela kuće od 95 m2 na parceli od 502 m2, dok stanje objekta nije opisano (bez naznaka renovacije), pa se pretpostavlja standardno do lošije stanje koje traži ulaganje. Ključni rizik nije lokacija ili ROI nego pravni status - preostala 1/3 nije predmet ove prodaje, što otvara pitanja suvlasničkih odnosa i mogućeg prava prvokupa. Zbog visoke apsolutne vrijednosti (>500k EUR) i kompleksnosti suvlasništva preporučuje se detaljna pravna i terenska due diligence prije licitacije.",
+  "flags": [
+    "provjeriti: suvlasništvo - preostala 1/3 kat.čest. 2260/2 nije predmet ove dražbe, moguće pravo prvokupa/otkupa ostalog suvlasnika",
+    "provjeriti: stanje i pristupačnost objekta (razgledavanje isključivo na zahtjev, bez opisa uređenosti)",
+    "provjeriti: postoji li osoba koja stanuje/koristi nekretninu s obzirom na ograničen pristup razgledavanju"
+  ],
+  "market_estimate": {
+    "eur_min": 600000,
+    "eur_max": 850000,
+    "confidence": "low",
+    "basis": "U ovoj sesiji nije bio dostupan pristup web pretrazi (WebSearch), pa procjena nije potkrijepljena aktualnim oglasima/comparables, nego općim poznavanjem tržišta Bola kao vrhunske turističke destinacije na Braču s visokim cijenama po m2 za kuće blizu centra/plaže (tipično nekoliko tisuća EUR/m2). Raspon se odnosi na procijenjenu vrijednost cijele nekretnine (ne samo 2/3 udjela) uz pretpostavku da je nužna djelomična renovacija. Preporuka: prije licitacije ručno provjeriti nekretnine.net, njuskalo.hr i index.hr oglase za Bol kako bi se procjena potvrdila stvarnim brojkama.",
+  },
+  "comparables": [],
+  "investment_strategy": "reno-flip / iznajmljivanje: renovacija kuće i dvorišta za kratkoročni turistički najam ili prodaju gotovog proizvoda kupcima za odmor, s obzirom na snažnu i stabilnu potražnju u Bolu; paralelno istražiti mogućnost otkupa preostale 1/3 od drugog suvlasnika radi stjecanja pune kontrole i veće likvidnosti imovine prije daljnjeg ulaganja.",
+  "entry_price_eur": 450000,
+  "detailed_risks": [
+    "Suvlasništvo 2/3 - ostatak od 1/3 nije predmet prodaje, moguća blokada odlučivanja o uređenju/prodaji cijele nekretnine",
+    "Mogućnost prava prvokupa drugog suvlasnika koje bi moglo poništiti ili zakomplicirati stjecanje",
+    "Nepoznato stvarno stanje kuće (instalacije, krov, vlaga) jer opis ne navodi razinu uređenosti",
+    "Ograničen pristup razgledavanju prije kupnje povećava rizik precjenjivanja stanja nekretnine",
+    "Tek 20% popust na prvoj dražbi ostavlja malu sigurnosnu maržu ako se troškovi renovacije ili pravni troškovi pokažu veći od očekivanog"
+  ],
+  "upside_scenario": "Ako se suvlasnički odnosi riješe (npr. sporazumni otkup preostale 1/3 ili dioba) i kuća se kvalitetno renovira, nekretnina u Bolu bi mogla ostvariti vrijednost od 700.000-900.000+ EUR za cijelu česticu unutar 2-3 godine, uz snažan prihod od turističkog najma tijekom sezone koji dodatno povećava atraktivnost za buduću prodaju.",
+  "downside_scenario": "Ako drugi suvlasnik odbija suradnju, iskoristi pravo prvokupa ili blokira daljnje raspolaganje, odnosno ako se stanje objekta pokaže znatno lošijim od očekivanog, investitor ostaje s teško likvidnim manjinskim/suvlasničkim udjelom, vezanim kapitalom i ograničenim mogućnostima brzog izlaska iz investicije."
+}
+```
