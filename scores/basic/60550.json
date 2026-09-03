@@ -1,0 +1,16 @@
+{
+  "id": "60550",
+  "score_overall": 5.5,
+  "score_lokacija": 4.0,
+  "score_roi": 7.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća s okućnicom i oranicom u ruralnom Zagorju (k.o. Gornja Pačetina), druga dražba s 40% popustom daje solidan ROI potencijal. Prodaje se samo suvlasnički dio (1/2 nekretnine) što bitno komplicira stjecanje pune nekretnine i zahtijeva pravnu provjeru.",
+  "flags": [
+    "provjeriti: prodaje se suvlasnički dio (1/2), nejasan status i mogućnost otkupa preostalog dijela",
+    "provjeriti: stanje kuće i useljivost (opis ne navodi stanje objekta)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "df9a0b6ec3b1",
+  "scored_at": "2026-09-03T10:38:51.441212"
+}

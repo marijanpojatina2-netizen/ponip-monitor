@@ -1,0 +1,16 @@
+{
+  "id": "59082",
+  "score_overall": 4.2,
+  "score_lokacija": 1.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Šumsko i pašnjačko zemljište u k.o. Živaja, pogranično depopulacijsko područje slabe likvidnosti unatoč velikom nominalnom popustu od 75% na trećoj dražbi. Apsolutna vrijednost i jamčevina su niske pa je rizik ulaganja ograničen, ali izlazna strategija i potražnja upitni.",
+  "flags": [
+    "provjeriti: pristup parcelama i stvarna namjena/iskoristivost zemljišta (šuma/pašnjak)",
+    "provjeriti: tržišna potražnja i likvidnost u depopulacijskom pograničnom području"
+  ],
+  "discount_pct": 75.0,
+  "input_hash": "fa32499f6748",
+  "scored_at": "2026-09-03T10:38:51.441485"
+}

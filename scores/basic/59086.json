@@ -1,0 +1,16 @@
+{
+  "id": "59086",
+  "score_overall": 4.2,
+  "score_lokacija": 1.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Pašnjak u k.o. Živaja, ista depopulacijska pogranična zona kao susjedna parcela, treća dražba s 75% popusta ali vrlo niska apsolutna vrijednost i slaba likvidnost. Nizak ulog (jamčevina 943 EUR) čini ovo tek špekulativnu, niskorizičnu poziciju bez jasnog izlaza.",
+  "flags": [
+    "provjeriti: pristup parceli i stvarna namjena/iskoristivost pašnjaka",
+    "provjeriti: tržišna potražnja i likvidnost u depopulacijskom pograničnom području"
+  ],
+  "discount_pct": 75.0,
+  "input_hash": "386e8f90f25c",
+  "scored_at": "2026-09-03T10:38:51.441641"
+}
