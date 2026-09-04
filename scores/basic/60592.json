@@ -1,0 +1,16 @@
+{
+  "id": "60592",
+  "score_overall": 5.0,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Gospodarska zgrada (bivša pilana) s oranicom u Gornjem Hrašćanu, niša namjena sužava krug potencijalnih kupaca. Ruralna međimurska lokacija i nepoznato tehničko stanje objekta drže ROI umjerenim unatoč popustu.",
+  "flags": [
+    "provjeriti: stanje i funkcionalnost pilane",
+    "provjeriti: namjena/dozvole objekta"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "a04339ca70cd",
+  "scored_at": "2026-09-04T10:33:10.038447"
+}

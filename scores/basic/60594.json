@@ -1,0 +1,16 @@
+{
+  "id": "60594",
+  "score_overall": 5.0,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Predmet dražbe je samo 1/2 suvlasničkog dijela kuće u Prekopi, što bitno otežava stjecanje pune kontrole i kasniju preprodaju nekretnine. Unatoč niskoj cijeni, pravna ograničenja suvlasništva čine ovo rizičnom investicijom.",
+  "flags": [
+    "suvlasništvo - predmet prodaje je samo 1/2 dijela nekretnine",
+    "provjeriti: odnos sa suvlasnikom/mogućnost diobe"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "745f758d4116",
+  "scored_at": "2026-09-04T10:33:10.038568"
+}

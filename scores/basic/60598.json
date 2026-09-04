@@ -1,0 +1,16 @@
+{
+  "id": "60598",
+  "score_overall": 4.0,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 1.0,
+  "recommendation": "pass",
+  "reasoning": "Radi se o suvlasničkom udjelu (3/8) šume zanemarive vrijednosti od svega 265 EUR, bez realnog samostalnog investicijskog potencijala. Transakcijski troškovi vjerojatno premašuju korist od stjecanja ovako sitnog udjela.",
+  "flags": [
+    "suvlasništvo - predmet prodaje je samo 3/8 dijela nekretnine",
+    "zanemariva vrijednost transakcije"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "df65fce238a6",
+  "scored_at": "2026-09-04T10:33:10.038690"
+}

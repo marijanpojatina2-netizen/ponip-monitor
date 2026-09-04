@@ -1,0 +1,16 @@
+{
+  "id": "60547",
+  "score_overall": 4.9,
+  "score_lokacija": 3.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Veći ruralni kompleks kraj Bjelovara (kuća, više gospodarskih objekata, voćnjak) na parceli od 2647 m2 uz 40% popust. Ruralna lokacija i vjerojatna potreba ulaganja u pomoćne objekte ograničavaju ROI unatoč veličini posjeda.",
+  "flags": [
+    "provjeriti: useljenost",
+    "provjeriti: stanje pomoćnih objekata"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "79f492e9fcbf",
+  "scored_at": "2026-09-04T10:33:10.038299"
+}

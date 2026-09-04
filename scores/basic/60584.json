@@ -1,0 +1,15 @@
+{
+  "id": "60584",
+  "score_overall": 5.2,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća s dvorištem od 704 m2 u Slavonskom Brodu uz solidan popust od 40%, no regija ima slabiju likvidnost tržišta i demografski pad. ROI je umjeren zbog ograničene potražnje u toj Slavoniji.",
+  "flags": [
+    "provjeriti: useljenost/posjed nekretnine"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "f0a6a2545d6b",
+  "scored_at": "2026-09-04T10:33:10.038112"
+}
