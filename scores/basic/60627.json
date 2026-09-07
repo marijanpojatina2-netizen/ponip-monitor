@@ -1,0 +1,16 @@
+{
+  "id": "60627",
+  "score_overall": 5.1,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Manja kuća sa spremištem u k.o. Gašinci kraj Đakova ima solidan popust od 40% na drugoj dražbi što poboljšava ROI, no prodaje se tek 1/4 suvlasničkog udjela. Lokacija je slabijeg potencijala, tipična za slavonsko selo s ograničenom potražnjom.",
+  "flags": [
+    "provjeriti: prodaja 1/4 suvlasničkog udjela",
+    "provjeriti: stanje kuće"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "0e9c82af5aeb",
+  "scored_at": "2026-09-07T11:31:34.144212"
+}

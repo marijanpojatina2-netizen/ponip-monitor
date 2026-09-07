@@ -1,0 +1,15 @@
+{
+  "id": "61482",
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Potkućnica s gospodarskim zgradama u Marinom Selu nalazi se u slabije razvijenom ruralnom području Bjelovarsko-bilogorske županije, uz tek 20% popusta na prvoj dražbi. Nedostaje stambeni objekt, prisutne su isključivo gospodarske zgrade, što smanjuje neposrednu upotrebljivost i ROI.",
+  "flags": [
+    "provjeriti: namjena i stanje gospodarskih zgrada (nema stambenog objekta)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "89a908fc1659",
+  "scored_at": "2026-09-07T11:31:34.143952"
+}

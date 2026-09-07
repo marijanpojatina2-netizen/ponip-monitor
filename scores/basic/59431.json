@@ -1,0 +1,16 @@
+{
+  "id": "59431",
+  "score_overall": 7.3,
+  "score_lokacija": 6.5,
+  "score_roi": 9.0,
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Velika poslovna zgrada u Varaždinu na trećoj dražbi s 75% popustom od procjene nudi izniman ROI potencijal, no dosad dvije neuspjele dražbe ukazuju na slabiju likvidnost tržišta za nekretnine te veličine. Stanje objekta nije opisano pa je nužna detaljna provjera prije licitacije.",
+  "flags": [
+    "provjeriti: stanje i namjena poslovne zgrade",
+    "provjeriti: postojanje tereta/prava koja ne prestaju prodajom (stečajni postupak)"
+  ],
+  "discount_pct": 75.0,
+  "input_hash": "5ec4d74332bc",
+  "scored_at": "2026-09-07T11:31:34.142963"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "59431",
+  "score_overall": 6.3,
+  "score_lokacija": 5.5,
+  "score_roi": 7.5,
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Poslovna zgrada od 1572 m2 na parceli od 2808 m2 u Varaždinu, uz golemi popust od 75% na procjenu (1.04M EUR procjena, 260.000 EUR početna cijena) na trećoj dražbi. Lokacija je solidna (regionalno industrijsko/gospodarsko središte s razvijenom proizvodnom bazom), ali stanje objekta nije opisano pa je nužan obilazak prije ponude. Velik raspon popusta i treća dražba ukazuju na visok ROI potencijal, ali i na moguću nisku likvidnost/probleme s prodajom u prethodnim krugovima.",
+  "flags": [
+    "provjeriti: stanje i opremljenost poslovne zgrade (opis ne navodi useljivost, instalacije ni razinu dotrajalosti)",
+    "provjeriti: postoji li osoba koja stanuje ili koristi objekt (stečajni postupak, treća dražba)",
+    "provjeriti: teretovni list zk uloška 14794 - hipoteke, služnosti, sporovi",
+    "provjeriti: urbanistička namjena i dozvole za čest. br. 11120 (poslovna/industrijska zona, legalnost izgradnje)",
+    "provjeriti: razlog neuspjeha prve i druge dražbe (indikacija skrivenih mana ili niske potražnje)"
+  ],
+  "market_estimate": {
+    "eur_min": 350000,
+    "eur_max": 550000,
+    "confidence": "low",
+    "basis": "Web pretraga nije bila dostupna u ovoj sesiji (alat nije odobren), stoga procjena temelji na općem poznavanju tržišta poslovno-industrijskih nekretnina u Varaždinu (okvirno 250-450 EUR/m2 za objekte srednje kvalitete, uvećano za veličinu parcele). Preporuka: prije ponude ručno provjeriti aktivne oglase na nekretnine.net i njuskalo.hr za usporedive poslovne/industrijske objekte u Varaždinu."
+  },
+  "comparables": [],
+  "investment_strategy": "Reno-flip / iznajmljivanje - Varaždin ima jaku proizvodnu bazu (automotive, tekstil, prehrana), pa objekt ove veličine (1572 m2) ima potencijal kao skladišni/proizvodni prostor za iznajmljivanje SME poduzećima, ili preprodaja nakon minimalne sanacije investitoru iz industrijskog sektora.",
+  "entry_price_eur": 320000,
+  "detailed_risks": [
+    "Nepoznato stanje objekta - opis ne sadrži nikakve detalje o uređenosti, instalacijama ili konstrukciji",
+    "Treća dražba sugerira da su dva prethodna kruga propala - moguć znak slabe potražnje ili skrivenih problema",
+    "Stečajna masa - moguća osporavanja, dugovanja vezana uz nekretninu ili neriješeni odnosi s trećima",
+    "Nedostatak tržišnih usporedivih podataka u ovoj analizi zbog nedostupnosti web pretrage"
+  ],
+  "upside_scenario": "Nakon obilaska i potvrde da je konstrukcija solidna, minimalna sanacija (krov, instalacije) omogućuje brzo iznajmljivanje proizvodnog/skladišnog prostora po cca 3-4 EUR/m2/mj, generirajući 55.000-75.000 EUR godišnjeg prihoda, ili preprodaju unutar 2-3 godine po 550.000-650.000 EUR.",
+  "downside_scenario": "Ako je objekt strukturno kompromitiran ili ima neriješene pravne terete, trošak sanacije/rješavanja može nadmašiti vrijednost; ako ni treća dražba ne uspije, cijena pada na četvrtu dražbu uz još niži interes kupaca, produžujući izlaganje kapitala bez povrata.",
+  "discount_pct": 75.0,
+  "input_hash": "5ec4d74332bc",
+  "scored_at": "2026-09-07T11:32:48.351294"
+}

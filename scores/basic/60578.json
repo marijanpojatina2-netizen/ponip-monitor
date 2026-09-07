@@ -1,0 +1,16 @@
+{
+  "id": "60578",
+  "score_overall": 4.5,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Poljoprivredno zemljište i skromni objekti u k.o. Pračno nalaze se u ruralnom, depopulacijskom području Sisačko-moslavačke županije s niskom likvidnošću unatoč 40% popustu na drugoj dražbi. Prodaje se samo 1/4 suvlasničkog udjela što dodatno otežava realizaciju investicije.",
+  "flags": [
+    "provjeriti: prodaja 1/4 suvlasničkog udjela i status ostalih suvlasnika",
+    "provjeriti: stanje kuće i gospodarske zgrade"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "f00afc4ff9d2",
+  "scored_at": "2026-09-07T11:31:34.143458"
+}

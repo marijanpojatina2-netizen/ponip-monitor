@@ -1,0 +1,15 @@
+{
+  "id": "61441",
+  "score_overall": 5.5,
+  "score_lokacija": 7.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Zemljište u Splitu ima dobru lokaciju, ali riječ je o vrlo sitnim suvlasničkim udjelima (razlomci reda veličine promila) koji čine samostalno raspolaganje i unovčenje imovine izrazito teškim. Popust od 20% ne kompenzira rizik nemogućnosti korištenja bez dogovora s ostalim suvlasnicima.",
+  "flags": [
+    "provjeriti: prodaja sitnog suvlasničkog udjela zemljišta i mogućnost diobe/korištenja"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "68ec6438ec60",
+  "scored_at": "2026-09-07T11:31:34.143716"
+}
