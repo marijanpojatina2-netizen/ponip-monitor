@@ -1,0 +1,15 @@
+{
+  "id": "61467",
+  "score_overall": 3.9,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Pašnjaci u Orliću kraj Knina, ruralno zaleđe s izraženom depopulacijom i slabom likvidnošću tržišta zemljišta. Prodaje se samo suvlasnički dio (1/2), što dodatno otežava upravljanje i buduću preprodaju cjeline.",
+  "flags": [
+    "prodaje se suvlasnički dio (1/2)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "3ecbd23ca682",
+  "scored_at": "2026-09-08T10:34:09.499979"
+}

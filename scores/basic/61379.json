@@ -1,0 +1,13 @@
+{
+  "id": "61379",
+  "score_overall": 3.7,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Vrlo mala oranica od svega 582 m2 na Adi, k.o. Vaška, uz nisku utvrđenu vrijednost od samo 900 EUR ima ograničenu samostalnu iskoristivost. Vrijednost bi mogla porasti jedino u kombinaciji sa susjednom česticom 104/1 (ID 61375) istog vlasnika.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "0fe4d8d3d515",
+  "scored_at": "2026-09-08T10:34:09.500495"
+}

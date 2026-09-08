@@ -1,0 +1,15 @@
+{
+  "id": "61478",
+  "score_overall": 4.5,
+  "score_lokacija": 5.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Gospodarsko dvorište i pomoćne zgrade kraj Velike Gorice imaju ograničenu likvidnost i nisku iskoristivost za stambenu namjenu. Manja kvadratura objekata i nedostatak informacija o stanju smanjuju investicijsku privlačnost.",
+  "flags": [
+    "provjeriti: namjena i tehničko stanje gospodarskih objekata"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "ef1fc6b4893b",
+  "scored_at": "2026-09-08T10:33:02.626613"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "61257",
+  "score_overall": 5.1,
+  "score_lokacija": 5.0,
+  "score_roi": 5.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Poslovna zgrada s velikim dvorištem u Zaboku, sjedištu Krapinsko-zagorske županije, uz solidnu prometnu povezanost sa Zagrebom (cca 35-40 km), no izvan glavnih investicijskih žarišta. Popust od tek 20% na prvoj dražbi je skroman i ne daje snažan ROI signal, a opis ne navodi ništa o stanju objekta što je značajna nepoznanica. Zbog nedostatka podataka o stanju i ograničenog pristupa razgledavanju (samo preko suda), preporuka je pratiti nekretninu i eventualno čekati sljedeću dražbu s većim popustom.",
+  "flags": [
+    "provjeriti: stanje i opremljenost poslovne zgrade (opis ne sadrži nikakve podatke o stanju, godini gradnje ili potrebi za renovacijom)",
+    "provjeriti: postojanje tereta, hipoteka, zakupa ili drugih upisanih prava u zk.ul. 4430 k.o. Zabok",
+    "provjeriti: mogućnost razgledavanja prije dražbe - dostupno isključivo preko sudskog ovršitelja, što otežava due diligence"
+  ],
+  "market_estimate": {
+    "eur_min": 450000,
+    "eur_max": 600000,
+    "confidence": "low",
+    "basis": "Web pretraga nije bila dostupna u ovoj sesiji pa procjena nije potkrijepljena aktualnim oglasima. Raspon je izveden iz utvrđene sudske vrijednosti (535.420 EUR) uz uobičajenu tržišnu varijancu za poslovne nekretnine u manjim gradovima Krapinsko-zagorske županije; potrebna dodatna provjera na portalima (nekretnine.net, njuskalo.hr) prije donošenja odluke."
+  },
+  "comparables": [],
+  "investment_strategy": "Iznajmljivanje lokalnom poduzetniku (skladište/radionica/manji pogon ili trgovina) uz mogući reno-flip ako pregled potvrdi da je objekt zapušten ali strukturno zdrav; blizina Zagreba čini nekretninu potencijalno zanimljivom za logistiku ili malo poduzetništvo, no potrebna je fizička inspekcija prije definiranja strategije.",
+  "entry_price_eur": 360000,
+  "detailed_risks": [
+    "Nepoznato stanje objekta - opis ne navodi je li useljiv, renoviran ili zapušten",
+    "Ograničen pristup razgledavanju samo preko sudskog ovršitelja usporava procjenu rizika prije licitacije",
+    "Niža likvidnost tržišta poslovnih nekretnina u Zaboku u odnosu na Zagreb - potencijalno dulje vrijeme do preprodaje ili iznajmljivanja",
+    "Nema potvrde o zemljišnoknjižnom stanju (tereti, upisana prava trećih) - standardni rizik kod FINA dražbi koji zahtijeva provjeru zk. izvatka",
+    "Prva dražba s tek 20% popustom - ograničen prostor za maržu ako se pojave dodatni troškovi renovacije"
+  ],
+  "upside_scenario": "Ako pregled na terenu potvrdi da je zgrada strukturno očuvana i bez tereta, uz manje ulaganje (npr. 30-50k EUR) objekt se može iznajmiti lokalnom poduzeću uz stabilan prinos, s mogućnošću preprodaje unutar 2-3 godine po cijeni bliskoj ili iznad procijenjene vrijednosti (535k EUR), osobito ako se nastavi trend iseljavanja poslovnih kapaciteta iz Zagreba prema bližoj okolici.",
+  "downside_scenario": "Ako se pri razgledavanju ili nakon kupnje utvrdi da je objekt zapušten, opterećen pravima trećih ili zahtijeva veliku investiciju u infrastrukturu, ROI se značajno smanjuje, a slaba likvidnost tržišta poslovnih nekretnina u Zaboku može značiti dugotrajno držanje nekretnine bez najmoprimca ili kupca po zadovoljavajućoj cijeni.",
+  "discount_pct": 20.0,
+  "input_hash": "a2896e3fb511",
+  "scored_at": "2026-09-08T10:35:46.509568"
+}

@@ -1,15 +1,16 @@
 {
   "id": "60900",
-  "score_overall": 4.5,
-  "score_lokacija": 3.0,
-  "score_roi": 5.5,
+  "score_overall": 4.1,
+  "score_lokacija": 2.5,
+  "score_roi": 5.0,
   "score_stanje": 5.0,
-  "recommendation": "pass",
-  "reasoning": "Stan u Županji na prvoj dražbi s tek 20% popusta ima slabu likvidnost tržišta i ograničen potencijal rasta vrijednosti. Lokacija je slabija (mala Slavonska varoš), a stanje stana standardno bez posebnih prednosti.",
+  "recommendation": "watch",
+  "reasoning": "Manji dvosobni stan (39,53 m2) u Županji, slabijoj slavonskoj regiji s niskom likvidnošću tržišta; prva dražba s tek 20% popustom ne nudi izraženu ROI priliku.",
   "flags": [
-    "provjeriti: postoji li stanar u stanu"
+    "provjeriti: je li stan useljen/u zakupu",
+    "provjeriti: teret i upisana prava na etažnom vlasništvu"
   ],
   "discount_pct": 20.0,
-  "input_hash": "99e2098d66b2",
-  "scored_at": "2026-07-09T09:35:38.928220"
+  "input_hash": "034ada4f10ac",
+  "scored_at": "2026-09-08T10:34:22.204028"
 }

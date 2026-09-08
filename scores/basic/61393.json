@@ -1,0 +1,15 @@
+{
+  "id": "61393",
+  "score_overall": 3.3,
+  "score_lokacija": 1.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Veće poljoprivredno zemljište (livada i oranice) u k.o. Vaška kraj Slatine nalazi se u slabije razvijenom slavonskom području s niskom likvidnošću. Vrijednost je niska pa apsolutni rizik nije velik, ali potencijal rasta vrijednosti je ograničen.",
+  "flags": [
+    "provjeriti: postojanje zakupa poljoprivrednog zemljišta"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "b914373d7e40",
+  "scored_at": "2026-09-08T10:33:02.627215"
+}

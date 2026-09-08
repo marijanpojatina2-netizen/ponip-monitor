@@ -1,0 +1,15 @@
+{
+  "id": "61373",
+  "score_overall": 3.3,
+  "score_lokacija": 1.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Manje poljoprivredno zemljište u istoj slavonskoj k.o. Vaška ima nisku tržišnu likvidnost i ograničen investicijski interes. Niska cijena ulaska ne kompenzira slab dugoročni ROI potencijal ovog tipa imovine.",
+  "flags": [
+    "provjeriti: postojanje zakupa poljoprivrednog zemljišta"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "8c81aef47df7",
+  "scored_at": "2026-09-08T10:33:02.627396"
+}

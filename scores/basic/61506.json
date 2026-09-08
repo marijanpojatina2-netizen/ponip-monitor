@@ -1,0 +1,16 @@
+{
+  "id": "61506",
+  "score_overall": 3.6,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Kuća s dvorištem i oranicom u Tordincima nalazi se u ruralnom, depopulacijskom području Slavonije s niskom likvidnošću tržišta. Bez dodatnih podataka o stanju kuće, investicijski potencijal je ograničen unatoč niskoj ulaznoj cijeni.",
+  "flags": [
+    "provjeriti: stanje i useljivost kuće",
+    "provjeriti: pristupna infrastruktura i komunalna opremljenost"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "c7462d569a7c",
+  "scored_at": "2026-09-08T10:33:02.626833"
+}
