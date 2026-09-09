@@ -1,0 +1,15 @@
+{
+  "id": "61486",
+  "score_overall": 3.6,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Kuća, dvorište i vinograd u selu Preseka (k.o. Tkalec, područje Vrbovca) spadaju u rusko-ruralno, depopulacijsko područje s niskom likvidnošću i vjerojatno slabim stanjem objekta. Nizak iznos i standardan popust od 20% ne opravdavaju rizik slabe utrživosti.",
+  "flags": [
+    "provjeriti: stvarno stanje objekta (starost, useljivost)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "b9cd98d015c1",
+  "scored_at": "2026-09-09T10:44:03.447694"
+}
