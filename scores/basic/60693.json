@@ -1,0 +1,16 @@
+{
+  "id": "60693",
+  "score_overall": 4.1,
+  "score_lokacija": 1.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica u k.o. Veleškovec (Osijek-Baranja), ruralno i depopulacijsko područje s vrlo niskom likvidnošću, unatoč visokom popustu od 50% na drugoj dražbi. Radi se o poljoprivrednom zemljištu bez razvojnog potencijala i niske apsolutne vrijednosti, prodaja je dio stečajnog postupka.",
+  "flags": [
+    "stečajni dužnik - prodaja u sklopu stečajnog postupka",
+    "provjeriti: namjena i pristupačnost poljoprivrednog zemljišta"
+  ],
+  "discount_pct": 50.0,
+  "input_hash": "7917362101d7",
+  "scored_at": "2026-09-10T10:33:45.015113"
+}

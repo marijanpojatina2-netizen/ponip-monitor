@@ -1,0 +1,16 @@
+{
+  "id": "61514",
+  "score_overall": 6.8,
+  "score_lokacija": 8.0,
+  "score_roi": 6.5,
+  "score_stanje": 5.5,
+  "recommendation": "bid",
+  "reasoning": "Stan u centru Splita (Ivana Gundulića) s solidnim popustom od 25% na prvoj dražbi, atraktivna lokacija s dobrom likvidnošću tržišta. Nedostaje detalj o stanju stana i suvlasnički omjer je naveden kao neodređen, što treba razjasniti prije licitacije.",
+  "flags": [
+    "provjeriti: useljenost stana (postoji li osoba koja stanuje)",
+    "provjeriti: neodređen suvlasnički omjer (15. suvlasnički dio bez definiranog omjera)"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "ba5ee4b35e0a",
+  "scored_at": "2026-09-10T10:33:45.014271"
+}

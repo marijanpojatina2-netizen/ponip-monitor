@@ -1,0 +1,16 @@
+{
+  "id": "60621",
+  "score_overall": 4.7,
+  "score_lokacija": 2.5,
+  "score_roi": 7.0,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Kuća i oranica u selu Mikleuš (Virovitica-Podravina), depopulacijsko slavonsko područje s niskom likvidnošću, ali visok popust od 40% na drugoj dražbi djelomično kompenzira slabu lokaciju. Stanje objekta nije opisano pa vjerojatno zahtijeva temeljitiju obnovu s obzirom na tip nekretnine.",
+  "flags": [
+    "provjeriti: stanje kuće (starija seoska gradnja)",
+    "niska likvidnost regije - otežana daljnja preprodaja"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "97c6fc3b62a6",
+  "scored_at": "2026-09-10T10:33:45.014681"
+}

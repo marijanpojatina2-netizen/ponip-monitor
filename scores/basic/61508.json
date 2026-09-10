@@ -1,0 +1,16 @@
+{
+  "id": "61508",
+  "score_overall": 4.8,
+  "score_lokacija": 4.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Stambena zgrada u Nedelišću kraj Čakovca, manje mjesto s ograničenim rastom vrijednosti, popust od 20% na prvoj dražbi je standardan. Suvlasništvo je fragmentirano na pet vlasnika po 1/5 dijela što otežava transakciju i naknadno upravljanje nekretninom.",
+  "flags": [
+    "suvlasništvo - 5 vlasnika (svaki 1/5 dijela)",
+    "provjeriti: useljenost i stanje objekta"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "daaee73666d2",
+  "scored_at": "2026-09-10T10:33:45.014964"
+}
