@@ -1,0 +1,16 @@
+{
+  "id": "60753",
+  "score_overall": 4.8,
+  "score_lokacija": 3.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Ruralna lokacija kraj Slavonskog Broda (k.o. Vrba) sa slabom likvidnošću tržišta unatoč solidnom popustu od 40% na drugoj dražbi. Prodaje se tek 1/2 suvlasničkog dijela nekretnine što bitno komplicira stjecanje pune kontrole nad imovinom.",
+  "flags": [
+    "provjeriti: kupnja samo 1/2 suvlasničkog dijela - preostali dio u vlasništvu treće osobe",
+    "provjeriti: stanje objekata (kuća, poslovna zgrada, garaža)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "92fb2f2ee43c",
+  "scored_at": "2026-09-11T10:34:41.473182"
+}

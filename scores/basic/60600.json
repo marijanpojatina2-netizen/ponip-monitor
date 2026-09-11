@@ -1,0 +1,16 @@
+{
+  "id": "60600",
+  "score_overall": 5.5,
+  "score_lokacija": 5.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Periferna lokacija u Novom Zagrebu (Klara Nova) uz solidan 40% popust na drugoj dražbi. Vlasnička struktura je neobično fragmentirana kroz tri različita zk.ul. s djelomičnim udjelom (141/560), a izvorna oznaka čestice kao močvara/oranica upućuje na moguće slabije stanje terena i objekta.",
+  "flags": [
+    "provjeriti: složena zemljišnoknjižna struktura - tri zk.ul. i djelomični suvlasnički udio (141/560)",
+    "provjeriti: stanje kuće i zgrade"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "cfc0a9af737f",
+  "scored_at": "2026-09-11T10:34:41.473713"
+}

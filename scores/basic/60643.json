@@ -1,0 +1,16 @@
+{
+  "id": "60643",
+  "score_overall": 4.5,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Ruralne parcele i stara kuća u k.o. Drenov Bok kraj Kutine u depopulacijskom su području s ograničenom likvidnošću unatoč 40% popustu na drugoj dražbi. Ključni problem je što se prodaje samo 1/4 suvlasničkog dijela, što bitno otežava stjecanje pune kontrole nad nekretninom.",
+  "flags": [
+    "suvlasništvo 1/4 - ograničena kontrola i pravo prvokupa ostalih suvlasnika",
+    "provjeriti: stanje objekata i useljenost"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "152fcb69b663",
+  "scored_at": "2026-09-11T10:35:27.551080"
+}

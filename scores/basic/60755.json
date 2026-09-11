@@ -1,0 +1,16 @@
+{
+  "id": "60755",
+  "score_overall": 4.8,
+  "score_lokacija": 3.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Identična nekretnina kao ID 60753 (ista k.č.br. 902/3, k.o. Vrba) - prodaje se drugi 1/2 suvlasnički dio iste imovine u odvojenom postupku. Slaba ruralna lokacija i fragmentirano vlasništvo znatno smanjuju investicijsku privlačnost unatoč 40% popustu.",
+  "flags": [
+    "provjeriti: kupnja samo 1/2 suvlasničkog dijela - odnosi se na istu nekretninu kao ID 60753",
+    "provjeriti: stanje objekata"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "db20f3647557",
+  "scored_at": "2026-09-11T10:34:41.473448"
+}

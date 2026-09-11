@@ -1,0 +1,15 @@
+{
+  "id": "60602",
+  "score_overall": 5.8,
+  "score_lokacija": 6.0,
+  "score_roi": 7.0,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Pašnjak od 1035 m2 u Granešini Novoj (Sesvete, periferija Zagreba) uz popust od 40% na drugoj dražbi nudi zanimljiv omjer cijene i lokacije za dugoročno zemljišno ulaganje. Nedostatak građevine i nepoznata namjena/gradivost čine ovo prije zemljišnom špekulacijom nego trenutačno iskoristivom nekretninom.",
+  "flags": [
+    "provjeriti: namjena i gradivost zemljišta (pašnjak)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "f5e06bded1ab",
+  "scored_at": "2026-09-11T10:35:27.550650"
+}

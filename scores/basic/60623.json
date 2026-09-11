@@ -1,0 +1,15 @@
+{
+  "id": "60623",
+  "score_overall": 4.1,
+  "score_lokacija": 2.0,
+  "score_roi": 6.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Mala seoska kuća sa štalom i štagljem u k.o. Rašenica (Grubišno Polje) nalazi se u slabo naseljenom i ekonomski nazadnom području Bilogore uz nisku likvidnost. Unatoč 40% popustu i drugoj dražbi, niska vrijednost i lošе stanje objekta ne opravdavaju aktivno ulaganje.",
+  "flags": [
+    "provjeriti: stanje objekata i posjedovno stanje"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "2a82afc5f25e",
+  "scored_at": "2026-09-11T10:35:27.551337"
+}

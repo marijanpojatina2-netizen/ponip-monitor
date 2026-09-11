@@ -1,0 +1,36 @@
+{
+  "id": "60645",
+  "score_overall": 6.9,
+  "score_lokacija": 8.0,
+  "score_roi": 7.0,
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Ližnjan (Sveti Mihovil) je tražena turistička zona južne Istre blizu Pule, plaža i golf resorta Adriatic, što nosi visoku lokacijsku vrijednost. Druga dražba s 40% popustom (530.400 EUR nasuprot procjeni od 884.000 EUR) daje solidnu ROI maržu, a dvije zasebne kuće na istom zk.ul. otvaraju mogućnost dvojnog turističkog najma. Opis dražbe ne otkriva stanje objekata niti eventualne terete pa je nužna terenska provjera prije licitacije. Zbog visoke vrijednosti (>500k EUR) i nepotvrđenih rizika preporuča se detaljan due diligence prije bilo kakve odluke o ulaganju.",
+  "flags": [
+    "provjeriti: stanje objekata (useljivost, potreba renovacije) - opis ne navodi detalje o kući",
+    "provjeriti: postoji li osoba koja stanuje u nekretnini",
+    "provjeriti: eventualni tereti, služnosti ili hipoteke u zk.ul. 16637",
+    "provjeriti: mogućnost odvojene prodaje/diobe dviju katastarskih čestica (990/3 i 990/14)",
+    "provjeriti: komunalna infrastruktura i pristupni put do Sveti Mihovil 40/40A"
+  ],
+  "market_estimate": {
+    "eur_min": 700000,
+    "eur_max": 950000,
+    "confidence": "low",
+    "basis": "Procjena temeljena na općem poznavanju tržišta nekretnina u općini Ližnjan (blizina Pule, plaža i golf resorta), bez pristupa web pretrazi za potvrdu aktualnih oglasa - preporuka je ručna provjera na nekretnine.net i njuskalo.hr prije odluke"
+  },
+  "comparables": [],
+  "investment_strategy": "Iznajmljivanje (dvije zasebne kuće u turističkoj zoni Ližnjan pogodne su za kratkoročni/sezonski najam) uz mogući reno-flip ako terenski pregled pokaže potrebu za značajnijom obnovom prije stavljanja u najam",
+  "entry_price_eur": 650000,
+  "detailed_risks": [
+    "Nepoznato fizičko stanje obje kuće - opis dražbe sadrži samo katastarske podatke bez opisa uređenosti",
+    "Mogući skriveni tereti ili upisana prava trećih koja ne prestaju prodajom (standardni rizik FINA dražbi)",
+    "Rizik treće dražbe s dodatnim padom cijene ako se ne pronađe kupac, što odgađa realizaciju ROI-ja",
+    "Dvije kuće na dvije čestice mogu kompliciraju daljnju diobu ili odvojenu prodaju"
+  ],
+  "upside_scenario": "Ako terenski pregled potvrdi useljivo ili lako obnovljivo stanje, dvije kuće u Ližnjanu blizu plaža i golf resorta mogu ostvariti visok prinos od turističkog najma (sezona 2026-2027), uz rast vrijednosti zbog daljnjeg razvoja južne Istre kao premium destinacije",
+  "downside_scenario": "Ako se pokaže da su objekti ruševni ili postoje neriješeni tereti/prava trećih, troškovi sanacije i pravnog rješavanja mogu pojesti cijelu maržu od 40% popusta, a nekretnina može završiti na trećoj dražbi s dodatnim padom cijene",
+  "discount_pct": 40.0,
+  "input_hash": "4d70d6520dfb",
+  "scored_at": "2026-09-11T10:36:45.151810"
+}
