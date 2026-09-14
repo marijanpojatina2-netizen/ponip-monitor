@@ -1,0 +1,16 @@
+{
+  "id": "59590",
+  "score_overall": 6.9,
+  "score_lokacija": 6.5,
+  "score_roi": 8.5,
+  "score_stanje": 4.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Zemljište uz jezero Rakitje blizu Zagreba na četvrtoj dražbi s početnom cijenom od samo 1 EUR (100% popust) nudi izniman omjer ulaganja i potencijala. Prije licitacije obavezno provjeriti razlog ekstremnog pada cijene i eventualna ograničenja namjene zemljišta uz vodu.",
+  "flags": [
+    "provjeriti: razlog ekstremnog popusta i eventualni tereti/ograničenja na zemljištu",
+    "provjeriti: namjena i mogućnost gradnje (blizina jezera, moguća zaštita prirode)"
+  ],
+  "discount_pct": 100.0,
+  "input_hash": "6a88c189a81e",
+  "scored_at": "2026-09-14T11:44:14.934681"
+}

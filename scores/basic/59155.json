@@ -1,0 +1,16 @@
+{
+  "id": "59155",
+  "score_overall": 6.2,
+  "score_lokacija": 8.0,
+  "score_roi": 6.5,
+  "score_stanje": 2.5,
+  "recommendation": "watch",
+  "reasoning": "Mala čestica pristupnog puta (31 m2) u prestižnom zagrebačkom području Šestine-Mlinovi nudi jeftin ulaz na trećoj dražbi, ali samostalna upotrebljivost je vrlo ograničena. Realan ROI vjerojatnije dolazi od prodaje susjednim vlasnicima nego od samostalnog razvoja.",
+  "flags": [
+    "ograničena samostalna upotreba (pristupni put, 31 m2)",
+    "provjeriti: susjedni vlasnici i njihov interes za otkup radi pristupa"
+  ],
+  "discount_pct": 75.0,
+  "input_hash": "be313989d1b7",
+  "scored_at": "2026-09-14T11:44:14.935696"
+}

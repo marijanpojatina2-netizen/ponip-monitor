@@ -1,0 +1,16 @@
+{
+  "id": "60202",
+  "score_overall": 4.4,
+  "score_lokacija": 5.5,
+  "score_roi": 4.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Djelomični suvlasnički udio (4/12) neizgrađenog i zaraslog zemljišta u Konavlima ima ograničen ROI zbog malog popusta na prvoj dražbi i suvlasničkih komplikacija. Blizina Dubrovnika donekle podiže vrijednost lokacije, ali ne kompenzira ostale rizike.",
+  "flags": [
+    "suvlasništvo (4/12 dio)",
+    "provjeriti: mogućnost razvrgnuća suvlasništva i identitet drugih suvlasnika"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "de1a8f5627d8",
+  "scored_at": "2026-09-14T11:44:14.935490"
+}

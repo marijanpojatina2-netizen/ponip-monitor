@@ -1,0 +1,13 @@
+{
+  "id": "60425",
+  "score_overall": 4.3,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Šumsko zemljište u ruralnom području oko Križevaca ima nizak apsolutni iznos i slabu likvidnost tržišta unatoč solidnom popustu od 40%. Lokacija i vrsta nekretnine ne opravdavaju aktivno ulaganje.",
+  "flags": [],
+  "discount_pct": 40.0,
+  "input_hash": "c2b94f53164e",
+  "scored_at": "2026-09-14T11:44:14.935294"
+}

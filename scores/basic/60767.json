@@ -1,0 +1,16 @@
+{
+  "id": "60767",
+  "score_overall": 6.0,
+  "score_lokacija": 6.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Polovični suvlasnički udio građevinskog zemljišta u Vodnjanu (Istra) s 50% popustom atraktivan je zbog turističke regije, ali podijeljeno vlasništvo ograničava samostalnu iskoristivost i ROI. Preporuka je praćenje i provjera odnosa s drugim suvlasnikom prije ulaganja.",
+  "flags": [
+    "suvlasništvo (1/2 dio)",
+    "provjeriti: identitet i namjere drugog suvlasnika, mogućnost razvrgnuća suvlasništva"
+  ],
+  "discount_pct": 50.0,
+  "input_hash": "ae0b10111972",
+  "scored_at": "2026-09-14T11:44:14.935086"
+}
