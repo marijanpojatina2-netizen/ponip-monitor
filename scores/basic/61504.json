@@ -1,0 +1,16 @@
+{
+  "id": "61504",
+  "score_overall": 4.2,
+  "score_lokacija": 3.5,
+  "score_roi": 5.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Ruralna nekretnina u k.o. Nedelišće (Međimurje) s dvorištem, oranicom, gospodarskom i stambenom zgradom na 1220 m2, slabije likvidna lokacija izvan većih urbanih centara. Popust od 20% na prvoj dražbi uz nepoznato stanje objekata (gospodarska zgrada upućuje na seosko/poljoprivredno imanje) ne opravdava aktivno investicijsko uključenje.",
+  "flags": [
+    "provjeriti: stanje i useljivost stambene i gospodarske zgrade",
+    "provjeriti: stvarna namjena i iskoristivost oranice"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "256bb2da1c55",
+  "scored_at": "2026-09-15T11:01:04.261535"
+}
