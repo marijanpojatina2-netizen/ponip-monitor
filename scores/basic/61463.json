@@ -1,0 +1,15 @@
+{
+  "id": "61463",
+  "score_overall": 3.7,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Molve u Koprivničko-križevačkoj županiji je ruralno, depopulacijsko područje s niskom likvidnošću nekretnina, a popust od 20% nije dovoljan da to kompenzira. Manja kuća s okućnicom i poljoprivrednim zemljištem ima ograničen investicijski interes.",
+  "flags": [
+    "provjeriti: stanje objekta i pristupni put (ruralna lokacija)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "546320e5af9c",
+  "scored_at": "2026-09-16T10:49:21.100951"
+}

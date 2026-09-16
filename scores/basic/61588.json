@@ -1,0 +1,15 @@
+{
+  "id": "61588",
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Harkanovci je malo slavonsko selo s niskom likvidnošću tržišta nekretnina, a iako je ovršenik nositelj velike većine suvlasničkog dijela (11/12), niska apsolutna vrijednost i ruralna lokacija ograničavaju investicijski potencijal. Stanje kuće nije opisano pa je vjerojatno potrebna temeljita obnova.",
+  "flags": [
+    "provjeriti: preostali suvlasnik s 1/12 dijela i stanje kuće"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "2b13c9e8194c",
+  "scored_at": "2026-09-16T10:49:21.101499"
+}

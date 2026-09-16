@@ -1,0 +1,13 @@
+{
+  "id": "61589",
+  "score_overall": 3.1,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Radi se o samostalnoj oranici bez građevine u ruralnom slavonskom selu Harkanovci, vrlo niske apsolutne vrijednosti, što uz slabu likvidnost čini ROI potencijal minimalnim. Nema naznaka posebne vrijednosti zemljišta niti razvojnog potencijala.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "51a7ed432e44",
+  "scored_at": "2026-09-16T10:49:21.101709"
+}

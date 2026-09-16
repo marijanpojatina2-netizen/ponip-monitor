@@ -1,0 +1,15 @@
+{
+  "id": "61535",
+  "score_overall": 7.3,
+  "score_lokacija": 8.5,
+  "score_roi": 7.0,
+  "score_stanje": 6.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Nekretnina se nalazi na otoku Rabu (k.o. Barbat) unatoč zagrebačkoj nadležnosti suda, što je vrlo tražena turistička lokacija s dobrim dugoročnim ROI potencijalom, a stan od 53 m2 s dvije sobe djeluje standardno useljiv uz popust od 25%. Prodaje se suvlasnički dio pa treba detaljno provjeriti pravni status prije licitacije.",
+  "flags": [
+    "provjeriti: suvlasnički dio 255/1000 i mogućnost diobe/otkupa ostalih suvlasnika"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "7eaa162e03c1",
+  "scored_at": "2026-09-16T10:49:21.100490"
+}

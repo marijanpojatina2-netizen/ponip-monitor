@@ -1,0 +1,15 @@
+{
+  "id": "61469",
+  "score_overall": 5.4,
+  "score_lokacija": 5.5,
+  "score_roi": 5.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Jastrebarsko je rastuće satelitsko mjesto blizu Zagreba pa kuća s dvorištem i oranicom ima solidan potencijal, no popust od tek 20% na prvoj dražbi i nedostatak podataka o stanju objekta traže oprez. Vrijedi pratiti i eventualno čekati drugu dražbu za bolju cijenu.",
+  "flags": [
+    "provjeriti: zatečeno stanje i posjed nekretnine (opis ne navodi useljivost)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "958102f3e357",
+  "scored_at": "2026-09-16T10:49:21.100230"
+}
