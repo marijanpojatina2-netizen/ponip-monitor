@@ -1,0 +1,37 @@
+{
+  "id": "61518",
+  "score_overall": 3.6,
+  "score_lokacija": 2.5,
+  "score_roi": 4.0,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Riječ je o velikom (84.557 m2) stakleničkom industrijsko-poljoprivrednom kompleksu u k.o. Lipik (Pakrac, Slavonija) prodanom u stečajnom postupku, s vrlo uskim krugom potencijalnih kupaca jer zahtijeva specijalizirano poljoprivredno know-how. Prva dražba nosi tek 25% popusta na procjenu, lokacija je u demografski slaboj ruralnoj regiji s niskom likvidnošću tržišta, a bez uvida u stvarno stanje opreme (kotlovnica, sustav za vodu) rizik je teško precizno kvantificirati. Potencijal postoji za investitora iz agro-sektora koji bi nastavio ili preuzeo proizvodnju, ali za financijskog investitora ovo je nišni, kapitalno zahtjevan ulog koji zaslužuje praćenje kroz sljedeće krugove dražbe s većim popustom, a ne aktivno ulaganje na prvoj dražbi.",
+  "flags": [
+    "provjeriti: stanje i funkcionalnost opreme za grijanje i pripremu vode (kotlovnica, miješalice, spremnici)",
+    "provjeriti: postojanje i valjanost dozvola/certifikata za nastavak stakleničke poljoprivredne djelatnosti",
+    "provjeriti: likvidnost tržišta i realan krug kupaca za specijaliziranu industrijsko-poljoprivrednu nekretninu u regiji Lipik/Pakrac",
+    "provjeriti: stvarno stanje objekata (upravna zgrada, skladište, pomoćna zgrada) bez terenskog razgleda"
+  ],
+  "market_estimate": {
+    "eur_min": 1800000,
+    "eur_max": 2900000,
+    "confidence": "low",
+    "basis": "Web pretraga tržišta nije bila dostupna u ovoj sesiji (WebSearch alat nije odobren), pa procjena raspona počiva isključivo na sudskoj procjeni (2.860.000 EUR za nekretninu + 110.625 EUR za pokretnine) i početnoj cijeni prve dražbe (2.227.968,75 EUR). Za ovu vrstu nišne industrijsko-poljoprivredne imovine ne postoje standardni tržišni komparativi (nekretnine.net/njuškalo tipično ne oglašavaju staklenike te veličine), pa je pouzdanost procjene niska i preporuča se ručna provjera specijaliziranih agro-oglasnika i lokalnih poljoprivrednih zadruga/otkupljivača prije donošenja odluke."
+  },
+  "comparables": [],
+  "investment_strategy": "Nastavak ili preprodaja specijaliziranom poljoprivrednom investitoru/prehrambenoj tvrtci za nastavak stakleničke proizvodnje (povrće/cvijeće); zbog niše i veličine ulaganja kratkoročni reno-flip ili stambeno iznajmljivanje nisu realni. Alternativa je dugoročni zakup kompleksa poljoprivrednoj zadruzi ili otkupljivaču uz zadržavanje vlasništva do boljeg tržišnog trenutka.",
+  "entry_price_eur": 1600000,
+  "detailed_risks": [
+    "Vrlo uska namjena imovine (staklenička proizvodnja) drastično sužava broj potencijalnih kupaca",
+    "Visok kapitalni ulaz (jamčevina cca 297.000 EUR, početna cijena 2,23 mil. EUR)",
+    "Nepoznato stvarno stanje specijalizirane opreme (grijanje, priprema vode) bez terenskog pregleda",
+    "Niska likvidnost tržišta nekretnina u Lipiku/Pakracu, depopulacijsko slavonsko područje",
+    "Stečajni postupak (prodaja preko stečajnog upravitelja) može uključivati dodatna kašnjenja i administrativne komplikacije",
+    "Prva dražba znači tek 25% popusta — bolji ROI tek na kasnijim krugovima uz veći popust"
+  ],
+  "upside_scenario": "Ako investitor iz agro-sektora otkupi kompleks na trećoj ili četvrtoj dražbi uz popust od 40-50% (ulaz oko 1,5-1,8 mil. EUR), obnovi opremu za grijanje i vodu te pokrene ili iznajmi proizvodnju povrća/cvijeća uz postojeću infrastrukturu (84.557 m2 zemljišta, staklenici, plinska stanica), moguće je ostvariti ROI od 15-25% kroz preprodaju cijelog operativnog pogona ili dugoročni zakup unutar 2-3 godine.",
+  "downside_scenario": "Ako se ne pronađe specijalizirani kupac iz poljoprivrednog sektora, imovina prolazi kroz više neuspjelih krugova dražbi uz postupno snižavanje cijene, uz trošak čuvanja/održavanja neaktivnog kompleksa, daljnju devalvaciju zastarjele opreme i rizik da cijeli pogon ostane trajno neprodan ili se proda znatno ispod procijenjene vrijednosti.",
+  "discount_pct": 25.0,
+  "input_hash": "33f6907669b9",
+  "scored_at": "2026-09-17T11:00:04.286932"
+}

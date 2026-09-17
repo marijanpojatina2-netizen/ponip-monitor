@@ -1,0 +1,16 @@
+{
+  "id": "61494",
+  "score_overall": 6.8,
+  "score_lokacija": 8.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Nekretnina na traženoj riviersko-turističkoj lokaciji u Selcu kraj Crikvenice, adresa 'Dvorac 10' sugerira zanimljiv objekt, no opis ne daje informacije o stvarnom stanju objekta. Relativno mala kvadratura uz dobru lokaciju i prvu dražbu s 20% popustom čini ovo vrijednim detaljnije provjere na terenu.",
+  "flags": [
+    "provjeriti: stanje objekta - opis ne navodi razinu useljivosti ili potrebu renovacije",
+    "provjeriti: stvarnu namjenu i povijest objekta nazvanog 'dvorac'"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "37656fa529ae",
+  "scored_at": "2026-09-17T10:56:24.532670"
+}

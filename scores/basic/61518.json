@@ -1,0 +1,16 @@
+{
+  "id": "61518",
+  "score_overall": 5.0,
+  "score_lokacija": 4.0,
+  "score_roi": 5.5,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Isti predmet dražbe kao prethodni zapis (staklenici u Lipiku), ovdje evidentiran kao pokretnina unatoč identičnom ukupnom iznosu i opisu - vjerojatno duplikat unosa u sustavu. Investicijska analiza identična nekretninskom zapisu za isti ID.",
+  "flags": [
+    "provjeriti: dupliciran zapis nekretnina/pokretnina za isti ID i iznos",
+    "provjeriti: specijalizirana namjena ograničava likvidnost i krug kupaca"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "33f6907669b9",
+  "scored_at": "2026-09-17T10:56:24.532484"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "61595",
+  "score_overall": 6.3,
+  "score_lokacija": 8.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Pašnjak na otoku Pagu (Kolan) u atraktivnoj je turističkoj zoni uz 25% popust na prvoj dražbi, što uz otočnu lokaciju daje solidan ROI potencijal ako se utvrdi mogućnost gradnje ili druge namjene. Radi se o sirovom zemljištu pa je due diligence oko infrastrukture i urbanističkog statusa nužan prije licitacije.",
+  "flags": [
+    "provjeriti: namjenu zemljišta i mogućnost izdavanja građevinske dozvole",
+    "provjeriti: pristup, komunalnu infrastrukturu i udaljenost od obale"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "1d1f90c580b8",
+  "scored_at": "2026-09-17T10:56:24.533508"
+}

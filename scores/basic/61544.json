@@ -1,0 +1,16 @@
+{
+  "id": "61544",
+  "score_overall": 6.3,
+  "score_lokacija": 8.5,
+  "score_roi": 6.0,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Pašnjak na otoku Braču (Sumartin) ima izvrsnu lokacijsku premisu za dugoročni ROI, ali radi se o sirovom poljoprivrednom zemljištu bez izgrađenih objekata i nepoznatog građevinskog potencijala. Vrijedi pratiti i provjeriti mogućnost prenamjene prije aktivnog sudjelovanja.",
+  "flags": [
+    "provjeriti: namjena zemljišta - poljoprivredno vs. eventualno građevinsko",
+    "provjeriti: mogućnost prenamjene i pristupne putove do parcele"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "c003a884c910",
+  "scored_at": "2026-09-17T10:56:24.532854"
+}

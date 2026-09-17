@@ -1,0 +1,16 @@
+{
+  "id": "61582",
+  "score_overall": 5.1,
+  "score_lokacija": 7.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Unatoč dobroj zagrebačkoj lokaciji, prodaje se tek 1/3 suvlasničkog dijela nedovršene stambene zgrade, što bitno otežava upravljanje, dovršetak gradnje i buduću preprodaju. Kombinacija nedovršenosti objekta i suvlasništva čini ovo slabim investicijskim slučajem za samostalnog investitora.",
+  "flags": [
+    "provjeriti: prodaje se samo 1/3 suvlasničkog dijela nekretnine",
+    "provjeriti: status, troškove i dozvole za dovršetak gradnje"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "fb34e53de1f4",
+  "scored_at": "2026-09-17T10:56:24.533122"
+}

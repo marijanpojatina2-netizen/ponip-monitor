@@ -1,0 +1,16 @@
+{
+  "id": "61591",
+  "score_overall": 6.0,
+  "score_lokacija": 7.5,
+  "score_roi": 6.0,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Zemljište (pašnjak, 6.373 m2) u k.o. Kolan na otoku Pagu, atraktivna turistička lokacija, ali radi se o prvoj dražbi s tek 25% popusta i negrađevinskom namjenom čiji potencijal treba dodatno provjeriti. Bez podataka o infrastrukturi/pristupu i mogućnosti prenamjene u građevinsko zemljište ROI je neizvjestan.",
+  "flags": [
+    "provjeriti: namjena i mogućnost prenamjene zemljišta (pašnjak) u građevinsko",
+    "provjeriti: pristup/infrastruktura do parcele"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "3da236a3f6fe",
+  "scored_at": "2026-09-17T10:56:37.069288"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "61540",
+  "score_overall": 3.4,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Nekretnina u Posavskim Podgajcima kraj Županje nalazi se u ruralnom, depopulacijskom području slabe likvidnosti, s nišnom klaonicom i skromnim popustom od 20% na prvoj dražbi. Neuobičajeno visoka jamčevina jednaka procijenjenoj vrijednosti dodatni je razlog za oprez prije bilo kakvog angažmana.",
+  "flags": [
+    "provjeriti: jamčevina jednaka punoj procijenjenoj vrijednosti - provjeriti uvjete dražbe",
+    "provjeriti: stanje i namjenu klaonice te gospodarskih objekata"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "d51b1db6669a",
+  "scored_at": "2026-09-17T10:56:24.533727"
+}

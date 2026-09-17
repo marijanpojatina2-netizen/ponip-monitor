@@ -1,0 +1,16 @@
+{
+  "id": "61568",
+  "score_overall": 4.2,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Kuća u Đakovu u standardnom je stanju, no lokacija je manjeg slavonskog grada sa slabijom likvidnošću tržišta, a nekretnina je opterećena složenom suvlasničkom strukturom više ovršenika i ovrhovoditelja. Kombinacija slabijeg tržišta i nejasnog opsega prodajnog udjela smanjuje investicijsku privlačnost.",
+  "flags": [
+    "provjeriti: prodaje li se cijela nekretnina ili samo suvlasnički udjeli ovršenika",
+    "provjeriti: stvarni opseg vlasništva koji prelazi na kupca"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "530c02df40dc",
+  "scored_at": "2026-09-17T10:56:24.533357"
+}
