@@ -1,0 +1,15 @@
+{
+  "id": "60685",
+  "score_overall": 4.4,
+  "score_lokacija": 2.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Mala parcela oranice u naselju Šibenik unutar k.o. koje pripada Bjelovarsko-bilogorskoj županiji (nadležnost suda ne odgovara stvarnoj lokaciji), ruralno depopulacijsko područje s vrlo niskom potražnjom. Zanemariva apsolutna vrijednost (420 EUR) čini transakcijske troškove nesrazmjernima dobiti.",
+  "flags": [
+    "provjeriti: pristupni put i katastarsko stanje čestice"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "4111683f8376",
+  "scored_at": "2026-09-18T10:35:31.526017"
+}

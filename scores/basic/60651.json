@@ -1,0 +1,16 @@
+{
+  "id": "60651",
+  "score_overall": 4.4,
+  "score_lokacija": 2.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "K.o. Suza kod Virovitice spada u jedno od najizraženijih depopulacijskih područja Slavonije, a predmet prodaje je tek 1/2 suvlasničkog dijela voćnjaka što dodatno ograničava kontrolu i izlaznu strategiju. Niska apsolutna vrijednost i slaba likvidnost čine ovo slabim investicijskim slučajem.",
+  "flags": [
+    "provjeriti: kupnja samo 1/2 suvlasničkog dijela – ograničena kontrola i mogući spor s drugim suvlasnikom",
+    "provjeriti: pravo prvokupa za poljoprivredno zemljište (susjedi/RH)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "31080eac3388",
+  "scored_at": "2026-09-18T10:33:15.715146"
+}

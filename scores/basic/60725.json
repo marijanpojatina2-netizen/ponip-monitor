@@ -1,0 +1,16 @@
+{
+  "id": "60725",
+  "score_overall": 4.1,
+  "score_lokacija": 1.0,
+  "score_roi": 6.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Radi se o pokretninama (CNC strojevi) s 50% popustom, što je izniman diskont, ali predmet je specijalizirana industrijska oprema bez nekretninskog ROI potencijala. Likvidnost ovisi o uskom krugu kupaca u metaloprerađivačkoj industriji.",
+  "flags": [
+    "provjeriti: tehnička ispravnost i starost strojeva",
+    "provjeriti: mogućnost demontaže/transporta"
+  ],
+  "discount_pct": 50.0,
+  "input_hash": "54dfabb3de12",
+  "scored_at": "2026-09-18T10:32:07.638832"
+}

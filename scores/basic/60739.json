@@ -1,0 +1,13 @@
+{
+  "id": "60739",
+  "score_overall": 4.2,
+  "score_lokacija": 2.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Iste karakteristike kao susjedne čestice iz iste ovrhe - kontinentalni k.o. Šibenik kod Grubišnog Polja, oranica i livada potkućnica ukupno ~1,26 ha. Nizak apsolutni iznos i 40% popust čine ulaz jeftinim, no ruralna lokacija i fragmentacija smanjuju iskoristivost i ROI.",
+  "flags": [],
+  "discount_pct": 40.0,
+  "input_hash": "413aa9b9fd63",
+  "scored_at": "2026-09-18T10:34:42.508692"
+}

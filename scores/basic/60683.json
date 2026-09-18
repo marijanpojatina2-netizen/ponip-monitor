@@ -1,0 +1,15 @@
+{
+  "id": "60683",
+  "score_overall": 4.4,
+  "score_lokacija": 2.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Manje parcele oranica u k.o. Šibenik (Bilogora), niska tržišna vrijednost i slaba likvidnost tipična za ruralnu kontinentalnu Hrvatsku. Nema stambenih objekata niti dodane vrijednosti osim same zemlje.",
+  "flags": [
+    "provjeriti: pravo prvokupa za poljoprivredno zemljište (susjedi/RH)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "fce172442d61",
+  "scored_at": "2026-09-18T10:33:15.714467"
+}

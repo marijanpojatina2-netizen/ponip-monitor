@@ -1,0 +1,15 @@
+{
+  "id": "60737",
+  "score_overall": 4.4,
+  "score_lokacija": 2.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Poljoprivredno zemljište (potkućnice, oranica, livada) u istoj ruralnoj k.o. Šibenik, niska vrijednost i vjerojatno slaba potražnja. Nema elemenata koji bi opravdali aktivnu licitaciju.",
+  "flags": [
+    "provjeriti: pravo prvokupa za poljoprivredno zemljište (susjedi/RH)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "d83e5fb49e80",
+  "scored_at": "2026-09-18T10:33:15.714820"
+}

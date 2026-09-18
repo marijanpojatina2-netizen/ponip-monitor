@@ -1,0 +1,16 @@
+{
+  "id": "60743",
+  "score_overall": 4.6,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Za razliku od susjednih parcela ovaj lot uz oranice i livadu sadrži i 'kuću i dvorište', što mu daje nešto veću opcijsku vrijednost unatoč ruralnoj lokaciji u k.o. Šibenik (Bilogora). Vrijedi provjeriti stanje kuće jer opis ne daje detalje o useljivosti.",
+  "flags": [
+    "provjeriti: stanje i useljivost kuće (opis ne navodi detalje)",
+    "provjeriti: pravo prvokupa za poljoprivredni dio zemljišta"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "f18273c8ff61",
+  "scored_at": "2026-09-18T10:33:15.714986"
+}

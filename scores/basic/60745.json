@@ -1,0 +1,16 @@
+{
+  "id": "60745",
+  "score_overall": 5.1,
+  "score_lokacija": 4.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća s dvorištem i oranicom u samom k.o. Kutina (gradsko područje) uz 40% popust na drugoj dražbi predstavlja pristupačan ulaz u lokalno tržište manjeg grada. Bez detalja o stanju objekta treba pretpostaviti standardno stanje uz moguću potrebu manje adaptacije.",
+  "flags": [
+    "provjeriti: useljenost kuće",
+    "provjeriti: stanje objekta"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "6178255a4cfa",
+  "scored_at": "2026-09-18T10:32:07.639677"
+}

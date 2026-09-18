@@ -1,0 +1,13 @@
+{
+  "id": "60707",
+  "score_overall": 4.1,
+  "score_lokacija": 2.0,
+  "score_roi": 6.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Slična pojedinačna oranica (1,05 ha) u istom ruralnom području kontinentalne Hrvatske kao i ostale čestice iz iste ovrhe. Bez infrastrukture i s ograničenom namjenom, ROI potencijal je nizak unatoč 40% popustu.",
+  "flags": [],
+  "discount_pct": 40.0,
+  "input_hash": "103e09396211",
+  "scored_at": "2026-09-18T10:34:42.509042"
+}

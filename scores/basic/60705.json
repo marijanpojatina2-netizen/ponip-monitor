@@ -1,0 +1,16 @@
+{
+  "id": "60705",
+  "score_overall": 4.7,
+  "score_lokacija": 3.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Seosko imanje u k.o. Roždanik kraj Kutine s voćnjakom i starijom kućom, 40% popust na drugoj dražbi je solidan ali lokacija je slabo likvidna ruralna zona. Bez podataka o stanju kuće treba pretpostaviti potrebu za temeljitim ulaganjem.",
+  "flags": [
+    "provjeriti: useljenost kuće",
+    "provjeriti: stanje objekta"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "1e7dd12d1fd8",
+  "scored_at": "2026-09-18T10:32:07.638972"
+}

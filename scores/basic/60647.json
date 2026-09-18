@@ -1,0 +1,15 @@
+{
+  "id": "60647",
+  "score_overall": 5.7,
+  "score_lokacija": 5.0,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "K.o. Očura kod Ivanca (Varaždinska županija) je solidnija kontinentalna lokacija s boljom likvidnošću od Slavonije/Bilogore. Kuća s pomoćnim objektom uz 40% popust je zanimljiva, ali opis ne daje podatke o stanju objekta pa treba dodatnu provjeru prije licitacije.",
+  "flags": [
+    "provjeriti: stanje i useljivost kuće (opis ne navodi detalje)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "4211a0ad4628",
+  "scored_at": "2026-09-18T10:33:15.714083"
+}

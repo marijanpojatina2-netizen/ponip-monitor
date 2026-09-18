@@ -1,0 +1,16 @@
+{
+  "id": "60779",
+  "score_overall": 5.7,
+  "score_lokacija": 4.5,
+  "score_roi": 7.0,
+  "score_stanje": 5.0,
+  "recommendation": "bid",
+  "reasoning": "Kuća i poslovna zgrada u k.o. Remetinec (šire područje Varaždina) s 40% popustom na drugoj dražbi nudi solidan omjer cijene i veličine (231 m2 objekt, 413 m2 dvorište). Mješovita namjena (stan+posao) povećava fleksibilnost izlazne strategije, no lokacija je periferna pa ROI ovisi o lokalnoj potražnji.",
+  "flags": [
+    "provjeriti: useljenost/postojanje stanara",
+    "provjeriti: stanje objekta (nema podataka o uređenosti)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "d60bd3fdf303",
+  "scored_at": "2026-09-18T10:32:07.638536"
+}

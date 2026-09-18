@@ -1,0 +1,15 @@
+{
+  "id": "60781",
+  "score_overall": 4.6,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Poljoprivredno zemljište (oranica) u Oprisavcima kraj Slavonskog Broda, ruralna depopulacijska zona sa slabom potražnjom i likvidnošću. Popust od 40% na drugoj dražbi je solidan, ali apsolutna vrijednost (695 EUR) čini investiciju marginalnom.",
+  "flags": [
+    "provjeriti: pristupni put i stvarno stanje/granice čestice"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "8d6528e0f643",
+  "scored_at": "2026-09-18T10:35:31.525426"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "60697",
+  "score_overall": 3.9,
+  "score_lokacija": 1.5,
+  "score_roi": 6.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Isključivo poljoprivredno zemljište (oranice, livade, groblje-parcela) u selu Šibenik kraj Grubišnog Polja bez stambenih objekata, duboko ruralna i slabo likvidna zona unatoč 40% popustu. Veliki broj razdvojenih malih čestica otežava upravljanje i buduću prodaju.",
+  "flags": [
+    "provjeriti: pristupni putovi i međe čestica",
+    "provjeriti: poljoprivredna namjena/mogućnost gradnje"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "455c2925a785",
+  "scored_at": "2026-09-18T10:32:07.639912"
+}

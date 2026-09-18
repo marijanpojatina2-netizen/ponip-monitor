@@ -1,0 +1,16 @@
+{
+  "id": "61564",
+  "score_overall": 3.6,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Kuća s vinogradom u Čačincima (Virovitičko-podravska županija) na prvoj dražbi s tek 20% popustom nije osobito atraktivna cijenovno, a radi se o depopulacijskom ruralnom području sa slabom likvidnošću. Nema pokazatelja iznimnog stanja koje bi opravdalo ulazak već na prvoj dražbi.",
+  "flags": [
+    "provjeriti: useljenost kuće",
+    "provjeriti: stanje objekta"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "1d213d6779f1",
+  "scored_at": "2026-09-18T10:32:07.639085"
+}

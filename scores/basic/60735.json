@@ -1,0 +1,16 @@
+{
+  "id": "60735",
+  "score_overall": 4.4,
+  "score_lokacija": 2.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Ista k.o. Šibenik (Bilogora) kao i susjedne parcele istog ovršenika – ruralno poljoprivredno zemljište bez objekata i slabe likvidnosti. Druga dražba i 40% popust djelomično poboljšavaju ROI, no lokacija ostaje ograničavajući faktor.",
+  "flags": [
+    "provjeriti: pravo prvokupa za poljoprivredno zemljište (susjedi/RH)",
+    "provjeriti: eventualna povezanost s drugim parcelama istog ovršenika (60711, 60683, 60709, 60737, 60743)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "14e377107a66",
+  "scored_at": "2026-09-18T10:33:15.714291"
+}

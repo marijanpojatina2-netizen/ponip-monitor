@@ -1,0 +1,13 @@
+{
+  "id": "60649",
+  "score_overall": 4.9,
+  "score_lokacija": 4.5,
+  "score_roi": 6.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Mala šumska čestica (0,24 ha) u k.o. Očura kraj Ivanca, u razvijenijem sjevernozapadnom dijelu Hrvatske pa je lokacija relativno bolja od ostalih lotova. Ipak, šuma bez građevinskog potencijala i ekstremno niska vrijednost (~870 EUR) daju minimalan ROI potencijal za investitora.",
+  "flags": [],
+  "discount_pct": 40.0,
+  "input_hash": "9f549bb27d30",
+  "scored_at": "2026-09-18T10:34:42.509780"
+}

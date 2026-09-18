@@ -1,0 +1,13 @@
+{
+  "id": "60717",
+  "score_overall": 4.1,
+  "score_lokacija": 2.0,
+  "score_roi": 6.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Jedna velika oranica (1,11 ha) u ruralnom k.o. Šibenik kraj Grubišnog Polja, bez ikakvog razvojnog potencijala osim poljoprivrede. Cijena je niska ali tako je i realna vrijednost te likvidnost, pa je investicijski case slab.",
+  "flags": [],
+  "discount_pct": 40.0,
+  "input_hash": "f758639c7d90",
+  "scored_at": "2026-09-18T10:34:42.508872"
+}

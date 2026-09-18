@@ -1,0 +1,16 @@
+{
+  "id": "60086",
+  "score_overall": 4.5,
+  "score_lokacija": 3.0,
+  "score_roi": 6.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "2.5% suvlasnički udio (6/240) u zapuštenom zemljištu/šumi u istom k.o. Velika Glava kao susjedne čestice iz iste dražbe - fragmentirano vlasništvo i zanemariva vrijednost (287 EUR) čine ROI upitnim. Bez konsolidacije s drugim suvlasničkim udjelima nekretnina nema praktičnu upotrebnu vrijednost.",
+  "flags": [
+    "suvlasnički dio (2.5%, 6/240) - otežana likvidnost",
+    "provjeriti: mogućnost diobe/otkupa udjela ostalih suvlasnika"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "a8f995f2155d",
+  "scored_at": "2026-09-18T10:35:31.526473"
+}

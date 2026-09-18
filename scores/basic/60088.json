@@ -1,0 +1,16 @@
+{
+  "id": "60088",
+  "score_overall": 4.5,
+  "score_lokacija": 3.0,
+  "score_roi": 6.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "2% suvlasnički udio (48/2400) u zaraslom, šumovitom zemljištu u zaleđu Šibenika - fragmentirano vlasništvo čini nekretninu teško unovčivom bez suglasnosti ostalih suvlasnika. Nizak apsolutni iznos i loše stanje zemljišta (zapušteno, obraslo šumom) dodatno smanjuju atraktivnost.",
+  "flags": [
+    "suvlasnički dio (2%, 48/2400) - otežana likvidnost",
+    "provjeriti: mogućnost diobe/otkupa udjela ostalih suvlasnika"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "89eb1bc2a6d6",
+  "scored_at": "2026-09-18T10:35:31.526254"
+}

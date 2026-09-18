@@ -1,0 +1,17 @@
+{
+  "id": "60687",
+  "score_overall": 4.0,
+  "score_lokacija": 1.5,
+  "score_roi": 6.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Rasparcelirano poljoprivredno-šumsko zemljište u selu Šibenik kraj Grubišnog Polja (ne obalni Šibenik), duboko ruralno i depopulacijsko područje sa slabom likvidnošću unatoč 40% popustu. Opis spominje da kuća čini samo 'pretežiti dio' gospodarske građevine, što ukazuje na složenu vlasničku/građevinsku strukturu objekta.",
+  "flags": [
+    "objekt obuhvaća samo pretežiti (djelomični) dio gospodarske građevine",
+    "provjeriti: idealni suvlasnički dijelovi na građevini",
+    "provjeriti: pristupni putovi do parcela"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "c31613dd162c",
+  "scored_at": "2026-09-18T10:32:07.639453"
+}

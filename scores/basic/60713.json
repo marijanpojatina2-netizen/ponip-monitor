@@ -1,0 +1,13 @@
+{
+  "id": "60713",
+  "score_overall": 4.1,
+  "score_lokacija": 2.0,
+  "score_roi": 6.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Mješavina šume i oranice (ukupno ~0,8 ha) u fragmentiranim česticama u ruralnom k.o. Šibenik, vrlo niske apsolutne vrijednosti. Slaba likvidnost i nedostatak razvojnog potencijala guraju ovaj lot na dno liste prioriteta.",
+  "flags": [],
+  "discount_pct": 40.0,
+  "input_hash": "b862c5b0407d",
+  "scored_at": "2026-09-18T10:34:42.509443"
+}

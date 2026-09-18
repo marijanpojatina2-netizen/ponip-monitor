@@ -1,0 +1,16 @@
+{
+  "id": "60721",
+  "score_overall": 4.7,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Veći seoski posjed u Čađavici s više gospodarskih objekata i dodatnom oranicom, 40% popust na drugoj dražbi daje solidan ROI potencijal za okrupnjavanje zemljišta. Lokacija je slabije likvidna ruralna Slavonija što ograničava brzinu izlaska iz investicije.",
+  "flags": [
+    "provjeriti: useljenost kuće i gospodarskih zgrada",
+    "provjeriti: funkcionalnost pomoćnih objekata"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "3f8051950025",
+  "scored_at": "2026-09-18T10:32:07.639191"
+}

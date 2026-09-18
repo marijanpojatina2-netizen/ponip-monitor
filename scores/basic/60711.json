@@ -1,0 +1,16 @@
+{
+  "id": "60711",
+  "score_overall": 4.4,
+  "score_lokacija": 2.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "K.o. Šibenik pod sudom u Grubišnom Polju je ruralno naselje u Bilogori (Bjelovarsko-bilogorska županija), a ne obalni Šibenik – depopulacijsko područje s niskom likvidnošću zemljišta. Čisto poljoprivredno zemljište bez objekata, 40% popust je standardan za drugu dražbu ali ne kompenzira slabu lokaciju.",
+  "flags": [
+    "provjeriti: pravo prvokupa za poljoprivredno zemljište (susjedi/RH)",
+    "provjeriti: pristup i međe parcela"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "eba1b3eed069",
+  "scored_at": "2026-09-18T10:33:15.713859"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "60741",
+  "score_overall": 4.3,
+  "score_lokacija": 2.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "K.o. Šibenik ovdje je selo u kontinentalnoj Hrvatskoj kraj Grubišnog Polja, a ne priobalni Šibenik - riječ je o pet fragmentiranih poljoprivrednih čestica (potkućnice, oranice, livade) ukupno ~1,45 ha po cijeni ~0,32 EUR/m2. Popust od 40% je solidan, ali ruralna, depopulacijska lokacija i slaba likvidnost tržišta ograničavaju realni ROI.",
+  "flags": [],
+  "discount_pct": 40.0,
+  "input_hash": "606652611aed",
+  "scored_at": "2026-09-18T10:34:42.508375"
+}

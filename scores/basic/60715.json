@@ -1,0 +1,15 @@
+{
+  "id": "60715",
+  "score_overall": 4.2,
+  "score_lokacija": 2.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Četiri čestice (livade i oranica, ~0,71 ha) od kojih neke nose oznaku \"kućište/selište\" što upućuje na nekadašnju gradivu lokaciju uz mogući građevinski potencijal. I dalje riječ o ruralnoj, depopulacijskoj lokaciji sa slabom likvidnošću.",
+  "flags": [
+    "provjeriti: građevinski status čestica označenih kao \"kućište/selište\""
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "3141a5fb6f17",
+  "scored_at": "2026-09-18T10:34:42.509612"
+}

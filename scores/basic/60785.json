@@ -1,0 +1,15 @@
+{
+  "id": "60785",
+  "score_overall": 4.4,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća s dvorištem u Oprisavcima (Slavonija), no opis ne navodi nikakve detalje o stanju objekta niti je li useljena, a vrlo niska procijenjena vrijednost (~5.170 EUR) upućuje na skromnu ili lošiju kvalitetu. Ruralna lokacija ograničava likvidnost, ali stvarna kuća uz 40% popust ostavlja prostor za due diligence.",
+  "flags": [
+    "provjeriti: stanje kuće i eventualna useljenost nisu navedeni u opisu"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "298ce4f37a42",
+  "scored_at": "2026-09-18T10:34:42.509278"
+}
