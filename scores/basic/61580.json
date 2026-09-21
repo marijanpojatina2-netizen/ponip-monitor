@@ -1,0 +1,15 @@
+{
+  "id": "61580",
+  "score_overall": 4.8,
+  "score_lokacija": 6.0,
+  "score_roi": 5.0,
+  "score_stanje": 2.5,
+  "recommendation": "watch",
+  "reasoning": "Pašnjak od 549 m2 u k.o. Nova Vas u zaleđu Poreča, atraktivna istarska regija ali radi se o negrađevinskom zemljištu vrlo niske vrijednosti. Uz potvrdu mogućnosti prenamjene moglo bi biti zanimljivo za dugoročno gomilanje zemljišta, inače ograničen potencijal.",
+  "flags": [
+    "provjeriti: namjena/gradivost zemljišta (pašnjak)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "4111f1e6f641",
+  "scored_at": "2026-09-21T11:56:54.507024"
+}

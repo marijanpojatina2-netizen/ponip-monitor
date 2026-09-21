@@ -1,0 +1,37 @@
+{
+  "id": "61607",
+  "score_overall": 4.3,
+  "score_lokacija": 4.0,
+  "score_roi": 5.0,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Riječ je isključivo o 4 čestice zemljišta (ukupno 1,28 ha) u k.o. Kupinec, selo Bratina kraj Pisarovine — ruralno područje Zagrebačke županije, cca 30-35 km jugozapadno od Zagreba, bez podatka o objektu ili priključcima. Procijenjena cijena od ~60 EUR/m2 je visoka za tipičnu poljoprivrednu zemlju u tom kraju, što upućuje na moguću građevinsku namjenu ili precijenjenu procjenu — bez uvida u namjenu zemljišta (poljoprivredno vs. građevinsko) teško je potvrditi realnost vrijednosti. Popust od 20% (prva dražba) je standardan i nije osobito atraktivan sam po sebi. Web pretraga tržišnih usporedivih oglasa nije bila dostupna u ovoj sesiji (alat blokiran), pa je procjena tržišne vrijednosti niske pouzdanosti i temelji se na općem poznavanju tržišta ruralnog zemljišta u Zagrebačkoj županiji.",
+  "flags": [
+    "provjeriti: namjena zemljišta (poljoprivredno vs. građevinsko) u prostornom planu",
+    "provjeriti: pristup česticama i komunalna infrastruktura (struja, voda, cesta)",
+    "provjeriti: koristi li netko trenutno zemljište (npr. zakup poljoprivrednog zemljišta ili ispaša)",
+    "provjeriti: realnost sudske procjene vrijednosti u odnosu na tržišnu cijenu zemljišta u k.o. Kupinec"
+  ],
+  "market_estimate": {
+    "eur_min": 450000,
+    "eur_max": 750000,
+    "confidence": "low",
+    "basis": "Web pretraga za usporedive oglase nije bila dostupna (alat nije odobren u ovoj sesiji), pa procjena nije potkrijepljena aktualnim tržišnim podacima. Raspon je temeljen na općem poznavanju cijena zemljišta u ruralnim dijelovima Zagrebačke županije (Pisarovina, Vukomeričke Gorice), gdje poljoprivredno zemljište obično vrijedi 2-8 EUR/m2, a građevinsko zemljište u manjim naseljima 15-40 EUR/m2 — sudska procjena od ~60 EUR/m2 djeluje optimistično osim ako je potvrđena građevinska namjena."
+  },
+  "comparables": [],
+  "investment_strategy": "Land banking / potencijalna parcelacija u građevinske parcele — strategija ovisi kritično o potvrdi namjene zemljišta u prostornom planu. Ako je zemljište građevinsko i ima pristup infrastrukturi, moguća je srednjoročna parcelacija i prodaja manjih građevinskih čestica kupcima koji grade vikendice/kuće u blizini Zagreba. Ako je čisto poljoprivredno, jedina realna strategija je dugoročni land-hold uz nisku likvidnost.",
+  "entry_price_eur": 480000,
+  "detailed_risks": [
+    "Nepoznata namjena zemljišta (poljoprivredno/građevinsko) drastično mijenja stvarnu vrijednost",
+    "Nema podataka o pristupnom putu, komunalnim priključcima ni infrastrukturi",
+    "Sudska procjena vrijednosti (60 EUR/m2) djeluje visoko za ruralno područje i može biti nerealna",
+    "Ruralna, depopulacijska zona s ograničenom likvidnošću za brzu preprodaju",
+    "Četiri odvojene čestice mogu otežati jedinstveni razvojni projekt i zahtijevati odvojene dozvole",
+    "Nema informacije radi li se o zaštićenom vodnom/poljoprivrednom pojasu (blizina rijeke Kupčine) što može ograničiti gradnju"
+  ],
+  "upside_scenario": "Ako se potvrdi građevinska namjena i dobar pristup, zemljište se u 2-3 godine može parcelirati u individualne građevinske čestice i prodati uz profit od 30-60% u odnosu na ulaznu cijenu, osobito ako se nastavi širenje stanovništva iz Zagreba prema jugozapadnim općinama.",
+  "downside_scenario": "Ako je zemljište isključivo poljoprivredno bez mogućnosti gradnje, realna tržišna vrijednost bit će znatno niža od sudske procjene, kapital ostaje dugoročno vezan uz nisku likvidnost, a nekretnina vjerojatno neće naći kupca ni na prvoj dražbi te će zahtijevati daljnje snižavanje cijene na sljedećim dražbama.",
+  "discount_pct": 20.0,
+  "input_hash": "24316c959022",
+  "scored_at": "2026-09-21T11:58:38.838978"
+}

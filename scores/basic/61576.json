@@ -1,0 +1,16 @@
+{
+  "id": "61576",
+  "score_overall": 5.4,
+  "score_lokacija": 8.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Isto atraktivno područje Poreča kao i susjedna čestica, no ovdje se prodaje samo 1/20 suvlasničkog dijela pašnjaka od 350 m2, što dodatno otežava kontrolu i unovčenje imovine. Vrijednost je zanemariva pa je financijski rizik nizak, ali realni izlazni potencijal ostaje ograničen bez konsolidacije udjela.",
+  "flags": [
+    "suvlasnički dio 1/20 - minoritetni udio bez kontrole",
+    "provjeriti: mogućnost otkupa preostalih suvlasničkih dijelova ili diobe"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "98850881e5f7",
+  "scored_at": "2026-09-21T11:57:28.401336"
+}

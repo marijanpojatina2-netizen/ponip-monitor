@@ -1,0 +1,16 @@
+{
+  "id": "61586",
+  "score_overall": 4.1,
+  "score_lokacija": 4.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Starija kuća u Osijeku (Triglavska), niska apsolutna cijena ali prodaje se samo 1/2 suvlasničkog dijela što otežava stjecanje punog vlasništva. Slabija likvidnost slavonskog tržišta i nedostatak podataka o stanju objekta smanjuju investicijsku privlačnost.",
+  "flags": [
+    "suvlasnički udio 1/2 - kupnja samo polovice nekretnine, mogući spor s drugim suvlasnikom",
+    "provjeriti: stanje objekta"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "c5c71a81ab44",
+  "scored_at": "2026-09-21T11:56:54.506762"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "61584",
+  "score_overall": 3.7,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Mikroskopski suvlasnički udio od 1/20 kuće u Josipovcu kraj Osijeka čini investiciju praktički neupravljivom i teško unovčivom unatoč niskoj cijeni. Ruralna periferna lokacija dodatno smanjuje privlačnost.",
+  "flags": [
+    "suvlasnički udio 1/20 - mikroudio bez mogućnosti kontrole/upravljanja nekretninom"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "d3e1432e6687",
+  "scored_at": "2026-09-21T11:56:54.507345"
+}

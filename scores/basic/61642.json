@@ -1,0 +1,15 @@
+{
+  "id": "61642",
+  "score_overall": 4.4,
+  "score_lokacija": 3.5,
+  "score_roi": 5.5,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Kuća s dvorištem, oranicom i voćnjakom u Tenji kraj Osijeka, ruralna periferna lokacija ali vrlo niska ulazna cijena (21.120 EUR) za 1.750 m2 uz punu vlasničku strukturu ovršenika. Stanje objekta nije opisano pa je potreban dodatni due diligence prije ponude.",
+  "flags": [
+    "provjeriti: stanje objekta (nema podataka o renovaciji)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "d35305514fce",
+  "scored_at": "2026-09-21T11:56:54.506898"
+}

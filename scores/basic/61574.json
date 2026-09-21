@@ -1,0 +1,16 @@
+{
+  "id": "61574",
+  "score_overall": 5.4,
+  "score_lokacija": 8.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Lokacija je atraktivna (Poreč, Istra), ali predmet prodaje je tek suvlasnički dio 645/8164 pašnjaka od 403 m2, što praktički onemogućava samostalno raspolaganje ili gradnju. Zbog sitnog udjela ROI je upitan unatoč niskoj ulaznoj cijeni i 20% popustu.",
+  "flags": [
+    "suvlasnički dio 645/8164 - otežano samostalno raspolaganje nekretninom",
+    "provjeriti: broj i suglasnost ostalih suvlasnika, mogućnost fizičke diobe"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "be18be1ec61c",
+  "scored_at": "2026-09-21T11:57:28.401069"
+}

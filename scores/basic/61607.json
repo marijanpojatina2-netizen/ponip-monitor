@@ -1,0 +1,16 @@
+{
+  "id": "61607",
+  "score_overall": 5.3,
+  "score_lokacija": 4.0,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Veliko zemljište (12.826 m2) u k.o. Kupinec kod Pisarovine, ruralno područje uz Zagrebačku županiju, relativno visoka cijena po m2 (~60 EUR) sugerira mogući građevinski status. Tek prva dražba s umjerenim popustom od 20%, potencijal ovisi o namjeni zemljišta koju treba provjeriti.",
+  "flags": [
+    "provjeriti: namjena/gradivost zemljišta",
+    "provjeriti: pristup i komunalna infrastruktura"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "24316c959022",
+  "scored_at": "2026-09-21T11:56:54.506348"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "60759",
+  "score_overall": 4.3,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Zapuštena livada u ruralnoj Podravini (k.o. Sirova Katalena) bez vidljivog prilaza s javne površine, već preko susjednih čestica, što jako ograničava iskoristivost i likvidnost. Unatoč 40% popustu i drugoj dražbi, riječ je o sitnoj, teško unovčivoj parceli u depopulacijskom području.",
+  "flags": [
+    "nema utvrđenog pristupa - prilaz preko susjednih čestica",
+    "provjeriti: mogućnost osnivanja prava puta/služnosti"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "2dd8b0a4594e",
+  "scored_at": "2026-09-21T11:57:28.400728"
+}
