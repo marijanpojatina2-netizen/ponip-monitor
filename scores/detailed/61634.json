@@ -1,0 +1,35 @@
+{
+  "id": "61634",
+  "score_overall": 5.5,
+  "score_lokacija": 6.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Barbati je manje mjesto na otoku Ugljanu kraj Preka, u zadarskom otočju s dobrom trajektnom vezom prema Zadru — solidna, ali ne vrhunska turistička lokacija. Popust od 20% je standardan za prvu e-dražbu po važećem Ovršnom zakonu (početna cijena = 4/5 procjene), a ne signalizira posebno povoljan ulaz; veći popusti tipično dolaze tek u kasnijim krugovima. Cijena od cca 2.590 EUR/m2 (na ukupnu površinu objekta+dvorišta) je relativno visoka za malo naselje na otoku, što uz nepoznato stanje objekta i nedostatak fotografija/opisa stanja traži oprez. Preporuka je pratiti nekretninu i eventualno čekati sljedeće dražbene krugove s većim popustom, uz obaveznu terensku provjeru prije bilo kakve ponude.",
+  "flags": [
+    "provjeriti: prava trećih koja ne prestaju prodajom (služnosti, zakup, etažiranje)",
+    "provjeriti: stvarno stanje objekta i postojanje građevinske/uporabne dozvole",
+    "provjeriti: točna udaljenost od mora/marine i infrastruktura u Barbatima s obzirom na relativno visoku cijenu po m2 za manje naselje",
+    "provjeriti: prodaje li se cijela nekretnina (oba suvlasnička dijela ovršenika) ili je moguć spor oko udjela"
+  ],
+  "market_estimate": {
+    "eur_min": 900000,
+    "eur_max": 1400000,
+    "confidence": "low",
+    "basis": "Web pretraga nije bila dostupna u ovom okruženju pa procjena nije potkrijepljena aktualnim oglasima; raspon je temeljen na općem poznavanju cijena poslovnih/turističkih nekretnina na otoku Ugljanu i zadarskom otočju (tipično 1.500-3.000 EUR/m2 za dobro pozicionirane objekte, niže za udaljenije od mora). Preporučuje se naknadna provjera s live podacima čim web alati budu dostupni."
+  },
+  "comparables": [],
+  "investment_strategy": "Uvjetno reno-flip ili iznajmljivanje (turistički najam) ako je objekt blizu mora i moguće ga je prenamijeniti/renovirati u ugostiteljski ili smještajni kapacitet — no strategija ovisi o due diligence-u koji nije bio moguć u ovoj analizi (nema web verifikacije ni fotografija stanja).",
+  "entry_price_eur": 850000,
+  "detailed_risks": [
+    "Nema web verifikacije tržišnih cijena u ovoj analizi zbog nedostupnosti alata za pretragu",
+    "Nepoznato stanje objekta - opis ne navodi je li useljiv, renoviran ili zahtijeva radove",
+    "Relativno visoka apsolutna i m2 cijena za malo ruralno-otočno naselje - rizik precijenjene sudske procjene",
+    "Prva dražba s tek standardnim (zakonskim) popustom od 20% - nije poseban signal likvidacije/hitne prodaje"
+  ],
+  "upside_scenario": "Ako je objekt blizu mora/marine i moguće ga je legalno prenamijeniti u ugostiteljski ili turistički smještajni kapacitet, uz rastući turizam zadarskog otočja 2025-2026 mogao bi ostvariti solidan prinos kroz sezonski najam ili preprodaju uređenog objekta u roku 2-3 godine.",
+  "downside_scenario": "Ako se nekretnina ne proda na prvoj dražbi, ulazi u sljedeće krugove uz odgode; ako se pri terenskom pregledu utvrde ozbiljni nedostaci (loše stanje, ograničenja gradnje, otočna izoliranost izvan sezone), kapital ostaje vezan uz nisku likvidnost i otežanu preprodaju.",
+  "discount_pct": 20.0,
+  "input_hash": "d41f1dd07fe0",
+  "scored_at": "2026-09-22T11:00:03.829967"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "61530",
+  "score_overall": 5.6,
+  "score_lokacija": 5.5,
+  "score_roi": 6.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća u Sesvetama (periferija Zagreba) s dvorištem od 622 m2 ima solidnu likvidnost zbog blizine Zagreba, no popust od 20% na prvoj dražbi je umjeren, a opis ne otkriva stanje objekta. Suvlasnički udio od 1/2 nosi dodatni rizik koji treba provjeriti prije ulaganja.",
+  "flags": [
+    "provjeriti: suvlasnički udio 1/2 (odnos sa suvlasnikom)",
+    "provjeriti: stvarno stanje kuće"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "82592bfa034d",
+  "scored_at": "2026-09-22T10:56:12.571261"
+}
