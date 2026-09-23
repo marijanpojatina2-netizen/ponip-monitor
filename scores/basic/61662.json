@@ -1,0 +1,16 @@
+{
+  "id": "61662",
+  "score_overall": 4.3,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Poslovno-stambena zgrada u centru Vinkovaca s velikim poslovnim prostorom u podrumu i prizemlju, ali Slavonija ima slabiju likvidnost i potražnju za investicije. Popust od 20% na prvoj dražbi nije osobito atraktivan za ovu lokaciju.",
+  "flags": [
+    "provjeriti: je li poslovni prostor u zakupu/najmu",
+    "provjeriti: useljenost/posjed"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "c61b9a348f2c",
+  "scored_at": "2026-09-23T10:44:14.224500"
+}

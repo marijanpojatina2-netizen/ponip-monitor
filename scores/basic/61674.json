@@ -1,0 +1,16 @@
+{
+  "id": "61674",
+  "score_overall": 7.1,
+  "score_lokacija": 8.5,
+  "score_roi": 6.5,
+  "score_stanje": 6.0,
+  "recommendation": "bid",
+  "reasoning": "Trosobni stan s parkingom i spremištem u Puli, jakoj turističkoj lokaciji s dobrom likvidnošću tržišta. Popust od 25% na prvoj dražbi je solidan, no opis je odrezan pa nedostaje dio informacija o stanju.",
+  "flags": [
+    "provjeriti: cjeloviti opis nekretnine (tekst je skraćen)",
+    "provjeriti: status useljenosti/posjeda stana"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "693d41c17ef7",
+  "scored_at": "2026-09-23T10:44:14.224257"
+}

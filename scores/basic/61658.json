@@ -1,0 +1,16 @@
+{
+  "id": "61658",
+  "score_overall": 4.0,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Manja kuća u Vinkovcima na Srijemskoj ulici, slabija lokacija i likvidnost tržišta uz nisku vrijednost nekretnine. Stanje kuće nije jasno opisano, a 20% popust na prvoj dražbi ne kompenzira slab lokacijski potencijal.",
+  "flags": [
+    "provjeriti: useljenost/posjed",
+    "provjeriti: stvarno stanje kuće (potencijalno zahtijeva renovaciju)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "9e2d8a185136",
+  "scored_at": "2026-09-23T10:44:14.224897"
+}

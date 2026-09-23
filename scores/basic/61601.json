@@ -1,0 +1,16 @@
+{
+  "id": "61601",
+  "score_overall": 7.2,
+  "score_lokacija": 8.5,
+  "score_roi": 7.0,
+  "score_stanje": 5.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Mali poslovni prostor (20,44 m2) na prvom katu zgrade na obali u Vodicama, atraktivnoj turističkoj destinaciji na Jadranu, prodaje se u stečajnom postupku uz 25% popust na prvoj dražbi. Niska ulazna cijena i jaka lokacija čine ga vrijednim detaljnije analize unatoč nepoznatom stanju prostora.",
+  "flags": [
+    "provjeriti: je li poslovni prostor u zakupu/najmu",
+    "provjeriti: stanje i pristupačnost prostora (stečajna prodaja)"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "86036899bd85",
+  "scored_at": "2026-09-23T10:44:14.225363"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "61660",
+  "score_overall": 4.2,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća s poslovnim prostorom u Vinkovcima, standardna lokacija sa slabijom likvidnošću tržišta nekretnina. Popust od 20% na prvoj dražbi je umjeren, investicijski potencijal ograničen regijom.",
+  "flags": [
+    "provjeriti: useljenost/posjed",
+    "provjeriti: zakup poslovnog prostora"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "7569b82a3272",
+  "scored_at": "2026-09-23T10:44:14.224640"
+}
