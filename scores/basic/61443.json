@@ -1,0 +1,16 @@
+{
+  "id": "61443",
+  "score_overall": 3.3,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Radi se o nizu malih poljoprivrednih čestica (oranice, livade, vodne površine) u Hlebinama, ruralnom depopulacijskom području Podravine, s vrlo niskom vrijednošću i razlomljenim suvlasničkim udjelima na više k.č. Fragmentirano vlasništvo i slaba likvidnost ruralnog poljoprivrednog zemljišta čine ROI potencijal slabim unatoč 20% popusta.",
+  "flags": [
+    "suvlasnički (razlomljeni) udjeli na više čestica - otežana likvidnost",
+    "provjeriti: opis nekretnine je odrezan/nepotpun u oglasu"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "97fd467f9f31",
+  "scored_at": "2026-09-24T11:04:39.840323"
+}
