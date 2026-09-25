@@ -1,0 +1,16 @@
+{
+  "id": "60814",
+  "score_overall": 5.8,
+  "score_lokacija": 6.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Manje gradsko zemljište (dvorište) 93 m² u Zagrebu, ista stečajna masa kao susjedna čestica u Bužanovoj ulici, druga dražba s 50% popusta. Mala apsolutna vrijednost i nepoznata gradivost čestice smanjuju atraktivnost za samostalnu investiciju.",
+  "flags": [
+    "provjeriti: namjena i gradivost čestice",
+    "stečajna prodaja"
+  ],
+  "discount_pct": 50.0,
+  "input_hash": "fff531d93904",
+  "scored_at": "2026-09-25T11:05:46.744347"
+}

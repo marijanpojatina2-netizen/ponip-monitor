@@ -1,0 +1,16 @@
+{
+  "id": "60830",
+  "score_overall": 6.2,
+  "score_lokacija": 7.0,
+  "score_roi": 7.0,
+  "score_stanje": 3.0,
+  "recommendation": "bid",
+  "reasoning": "Građevinsko zemljište (dvorište) 217 m² u Zagrebu na drugoj dražbi s 50% popusta, solidna površina za urbanu lokaciju iz stečajne mase. Bez postojeće građevine pa je stanje/gradivost čestice ključni nepoznati faktor.",
+  "flags": [
+    "provjeriti: namjena i gradivost čestice",
+    "stečajna prodaja"
+  ],
+  "discount_pct": 50.0,
+  "input_hash": "f052045a3ba1",
+  "scored_at": "2026-09-25T11:05:46.743923"
+}

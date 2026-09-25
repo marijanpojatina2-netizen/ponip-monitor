@@ -1,0 +1,15 @@
+{
+  "id": "61572",
+  "score_overall": 4.1,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Kuća s okućnicom u Bročicama kraj Kutine, ruralno područje Sisačko-moslavačke županije sa slabom likvidnošću tržišta. Prva dražba s tek 20% popusta ne nudi dovoljnu maržu za rizik ulaska na ovom tržištu.",
+  "flags": [
+    "provjeriti: stanje i useljivost kuće"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "a4f9922b39b2",
+  "scored_at": "2026-09-25T11:05:46.743638"
+}

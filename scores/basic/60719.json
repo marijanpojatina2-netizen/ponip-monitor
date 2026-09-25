@@ -1,0 +1,15 @@
+{
+  "id": "60719",
+  "score_overall": 5.1,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Kuća s okućnicom u Đurmancu (Zagorje), ruralna lokacija sa slabijom potražnjom, no druga dražba s 40% popusta daje solidnu maržu za ROI. Stanje objekta nije opisano pa je potrebna dodatna provjera prije licitacije.",
+  "flags": [
+    "provjeriti: stanje i useljivost kuće"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "6c323fc11ecd",
+  "scored_at": "2026-09-25T11:05:46.744527"
+}

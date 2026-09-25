@@ -1,0 +1,16 @@
+{
+  "id": "60826",
+  "score_overall": 5.6,
+  "score_lokacija": 6.5,
+  "score_roi": 6.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Riječ je o suvlasničkom udjelu (20123/25000) na čestici od samo 14 m2 u Remetama, što uz sitnu površinu dodatno kompliciraju suvlasnički odnosi i mogući pravo prvokupa ostalih suvlasnika. Iako je lokacija dobra i popust 50%, mala vrijednost i pravna kompleksnost čine ovo slabim investicijskim slučajem.",
+  "flags": [
+    "provjeriti: suvlasnički odnosi i pravo prvokupa ostalih suvlasnika",
+    "provjeriti: mogućnost gradnje s obzirom na vrlo malu površinu (14 m2)"
+  ],
+  "discount_pct": 50.0,
+  "input_hash": "cf4aa67dd657",
+  "scored_at": "2026-09-25T11:06:17.180063"
+}

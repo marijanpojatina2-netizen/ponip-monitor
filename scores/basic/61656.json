@@ -1,0 +1,15 @@
+{
+  "id": "61656",
+  "score_overall": 4.1,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Manja nekretnina (zgrada i dvorište) u Donjem Daruvaru, slabije razvijeno područje Bjelovarsko-bilogorske županije s ograničenom likvidnošću. Prva dražba s tek 20% popusta ne kompenzira slabu lokaciju.",
+  "flags": [
+    "provjeriti: stanje i useljivost objekta"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "02e56b69d4ce",
+  "scored_at": "2026-09-25T11:05:46.744750"
+}

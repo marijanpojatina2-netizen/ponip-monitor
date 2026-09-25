@@ -1,0 +1,17 @@
+{
+  "id": "60818",
+  "score_overall": 5.7,
+  "score_lokacija": 6.5,
+  "score_roi": 6.5,
+  "score_stanje": 2.5,
+  "recommendation": "watch",
+  "reasoning": "Lokacija u Remetama (Zagreb) je solidna, ali dvije čestice od ukupno 18 m2 (voćnjak) praktički su neupotrebljive za samostalnu gradnju te vrijedne samo u spoju s okolnim zemljištem. Uz nisku apsolutnu vrijednost i 50% popust rizik ulaganja je nizak, no realan ROI ovisi o mogućnosti pripajanja susjednim parcelama.",
+  "flags": [
+    "provjeriti: mogućnost gradnje s obzirom na vrlo malu površinu (18 m2)",
+    "provjeriti: mogućnost pripajanja/spoja s okolnim parcelama",
+    "provjeriti: pristup parceli (prilazni put)"
+  ],
+  "discount_pct": 50.0,
+  "input_hash": "770c8898388f",
+  "scored_at": "2026-09-25T11:06:17.179721"
+}

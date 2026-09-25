@@ -1,0 +1,16 @@
+{
+  "id": "60808",
+  "score_overall": 5.6,
+  "score_lokacija": 6.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Veliki pašnjak (2 ha) sjeverno od Pazina u središnjoj Istri, ali izvan građevinskog područja i obrastao drvnom masom, što ograničava namjenu. Suvlasništvo dvoje ovršenika i neusklađenost stare/nove katastarske izmjere dodatno kompliciraju realizaciju unatoč 40% popustu na drugoj dražbi.",
+  "flags": [
+    "izvan građevinskog područja",
+    "provjeriti: neusklađenost stare i nove katastarske izmjere"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "eb0351df4d90",
+  "scored_at": "2026-09-25T11:05:46.744180"
+}

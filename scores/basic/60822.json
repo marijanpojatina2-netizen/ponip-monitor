@@ -1,0 +1,15 @@
+{
+  "id": "60822",
+  "score_overall": 6.1,
+  "score_lokacija": 7.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.5,
+  "recommendation": "bid",
+  "reasoning": "Manja zemljišna čestica (voćnjak) 248 m² u zagrebačkom naselju Remete, atraktivnoj i traženoj gradskoj četvrti, druga dražba s 50% popusta iz stečajne mase. Nizak ulazni kapital i dobra lokacija čine ovo zanimljivom prilikom unatoč nedostatku građevine.",
+  "flags": [
+    "provjeriti: namjena i gradivost čestice (poljoprivredno zemljište)"
+  ],
+  "discount_pct": 50.0,
+  "input_hash": "cfdd32a762db",
+  "scored_at": "2026-09-25T11:05:46.744905"
+}

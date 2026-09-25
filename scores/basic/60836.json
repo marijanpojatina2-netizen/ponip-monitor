@@ -1,0 +1,15 @@
+{
+  "id": "60836",
+  "score_overall": 4.3,
+  "score_lokacija": 2.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Kuća i više poljoprivrednih parcela u Starom Gradcu kraj Virovitice, duboko ruralno i depopulacijsko područje Virovitičko-podravske županije. Popust od 40% na drugoj dražbi ne kompenzira slabu likvidnost i nepoznato stanje objekta.",
+  "flags": [
+    "provjeriti: stanje i useljivost kuće"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "b6674f452765",
+  "scored_at": "2026-09-25T11:05:46.745126"
+}
