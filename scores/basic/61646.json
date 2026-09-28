@@ -1,0 +1,15 @@
+{
+  "id": "61646",
+  "score_overall": 6.6,
+  "score_lokacija": 8.5,
+  "score_roi": 5.5,
+  "score_stanje": 6.0,
+  "recommendation": "watch",
+  "reasoning": "Velik stan (170 m2) s dva parkirna mjesta u Poreču (Veli Maj), atraktivna turistička lokacija u Istri, ali prodaje se samo 1/2 suvlasničkog dijela što bitno ograničava iskoristivost i likvidnost. Popust od 25% na prvoj dražbi nije dovoljno velik da kompenzira rizik suvlasništva.",
+  "flags": [
+    "provjeriti: prodaje se samo 1/2 suvlasničkog dijela nekretnine"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "a88e175e5c3e",
+  "scored_at": "2026-09-28T12:51:31.635449"
+}

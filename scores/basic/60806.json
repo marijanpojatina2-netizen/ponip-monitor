@@ -1,0 +1,15 @@
+{
+  "id": "60806",
+  "score_overall": 4.8,
+  "score_lokacija": 2.5,
+  "score_roi": 7.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Manja kuća i gospodarska zgrada u Samatovcima kraj Valpova s 40% popusta na drugoj dražbi, ali u ruralnom slavonskom području sa slabom likvidnošću. Mala kvadratura kuće (85 m2) ograničava investicijski potencijal.",
+  "flags": [
+    "provjeriti: stanje objekta (nema podataka o uređenosti)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "301a626dfc1a",
+  "scored_at": "2026-09-28T12:51:31.635837"
+}

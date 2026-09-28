@@ -1,0 +1,15 @@
+{
+  "id": "61741",
+  "score_overall": 4.8,
+  "score_lokacija": 2.5,
+  "score_roi": 7.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća s gospodarskom zgradom i oranicom u Bukovlju kraj Slavonskog Broda s velikim popustom od 40% na drugoj dražbi, no radi se o slaboj depopulacijskoj regiji s ograničenom likvidnošću. Veličina objekta (621 m2) ukazuje na potencijal, ali nedostaju podaci o stanju.",
+  "flags": [
+    "provjeriti: stanje objekta (nema podataka o uređenosti)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "9e0e13c84153",
+  "scored_at": "2026-09-28T12:51:31.635592"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "61668",
+  "score_overall": 3.3,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Radi se o suvlasničkom dijelu (1/12) poljoprivrednog zemljišta u malom selu Gezinci kraj Valpova, vrlo niske apsolutne vrijednosti (1750 EUR) i ruralne, depopulacijske lokacije. Idealni dio nekretnine teško je samostalno unovčiti ili razviti, što uz nizak popust s prve dražbe čini slab investicijski case.",
+  "flags": [
+    "suvlasništvo 1/12 (idealni dio, otežana prodaja/likvidnost)",
+    "provjeriti: mogućnost i uvjeti prodaje/otkupa idealnog dijela od ostalih suvlasnika",
+    "provjeriti: stvarno stanje i pristupnost zemljišta na terenu"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "85919bf8cc71",
+  "scored_at": "2026-09-28T12:51:43.118329"
+}

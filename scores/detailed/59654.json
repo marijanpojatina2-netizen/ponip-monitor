@@ -1,0 +1,36 @@
+{
+  "id": "59654",
+  "score_overall": 5.6,
+  "score_lokacija": 4.5,
+  "score_roi": 7.0,
+  "score_stanje": 4.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Radi se o velikom industrijskom kompleksu (1.679,86 m2) u industrijskoj zoni Karlovca, u trećoj dražbi s 75% popustom od procijenjene vrijednosti od 1,43 mil. EUR, što je izrazito velik diskont i indicira snažan ROI potencijal. Ključni ograničavajući faktor je da se prodaje samo suvlasnički dio (477/1000) u etažnom vlasništvu, što bitno ograničava samostalno raspolaganje i utrživost, a industrijska namjena (radionice, trafostanica, skladišta) suzuje krug potencijalnih kupaca/najmoprimaca. Tri neuspjele dražbe do sada potvrđuju nizak tržišni interes, pa je preporučena temeljita due diligence (zemljišne knjige, stanje suvlasničkih odnosa, fizički pregled) prije eventualne ponude.",
+  "flags": [
+    "provjeriti: suvlasnički udio 477/1000 - preostalih 523/1000 u vlasništvu drugih osoba, moguća ograničenja u upravljanju/korištenju/diobi",
+    "provjeriti: koristi li netko prostor po osnovi zakupa ili posjeda (nije navedeno u opisu)",
+    "provjeriti: postoje li tereta, hipoteke ili prava koja ne prestaju prodajom prema zemljišnoknjižnom stanju",
+    "provjeriti: tehnička ispravnost instalacija (trafostanica, el. radionica) i eventualni troškovi sanacije/prenamjene"
+  ],
+  "market_estimate": {
+    "eur_min": 450000,
+    "eur_max": 750000,
+    "confidence": "low",
+    "basis": "WebSearch alat nije bio dostupan u ovoj sesiji (odbijeno odobrenje), pa procjena nije potkrijepljena aktualnim oglasima. Raspon je grubo izveden iz općeg poznavanja cijena starijih industrijskih/proizvodnih prostora u Karlovcu i okolici (procjena reda veličine 250-450 EUR/m2 za stariju industrijsku građevinu) te iz utvrđene vrijednosti navedene u dražbi za ovaj suvlasnički udio."
+  },
+  "comparables": [],
+  "investment_strategy": "Iznajmljivanje proizvodno-skladišnim/logističkim tvrtkama uz istovremeno pregovaranje s ostalim suvlasnikom (523/1000) o razvrgnuću suvlasništva ili otkupu preostalog udjela radi stjecanja pune kontrole nad nekretninom; dugoročno moguća prenamjena u skladišno-logistički prostor s obzirom na blizinu autoceste A1/A6.",
+  "entry_price_eur": 420000,
+  "detailed_risks": [
+    "Suvlasništvo (477/1000) ograničava samostalno raspolaganje, korištenje i prodaju cjeline",
+    "Industrijska namjena i specifičan raspored (radionice, skladišta, trafostanica) sužavaju krug kupaca/najmoprimaca",
+    "Tri dražbe s kumulativno 75% popusta ukazuju na slab tržišni interes za ovu imovinu",
+    "Stanje objekta i instalacija nepoznato bez fizičkog pregleda - opis navodi samo tlocrt, ne stanje opreme/instalacija",
+    "Mogući dodatni troškovi funkcionalizacije prostora sastavljenog od mnogo manjih specijaliziranih jedinica"
+  ],
+  "upside_scenario": "Uz uspješno rješavanje suvlasničkog odnosa (otkup udjela ili sporazumna dioba) i pronalazak zakupnika/kupca iz proizvodno-skladišnog sektora, imovina bi u 2-3 godine mogla ostvariti vrijednost/prihod znatno iznad ulazne cijene, s obzirom na kupnju po otprilike 25-30% procijenjene vrijednosti.",
+  "downside_scenario": "Ako se suvlasnik ne slaže s prodajom cjeline ili korištenjem prostora, imovina ostaje teško utrživa i bez značajnog prihoda, a investitor ostaje zarobljen u manjinskom udjelu bez kontrole, uz tekuće troškove održavanja i poreza bez odgovarajućeg povrata.",
+  "discount_pct": 75.0,
+  "input_hash": "b98183de3a6f",
+  "scored_at": "2026-09-28T12:53:10.433885"
+}

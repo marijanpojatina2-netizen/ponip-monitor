@@ -1,0 +1,15 @@
+{
+  "id": "61691",
+  "score_overall": 3.6,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Kuća u Vukovaru s tek 20% popusta na prvoj dražbi, u regiji s izrazito slabom likvidnošću i dugoročnim padom potražnje. Nema dovoljno diskonta niti podataka o stanju da opravda ulazak.",
+  "flags": [
+    "provjeriti: stanje objekta (nema podataka o uređenosti)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "eb5393fa0de6",
+  "scored_at": "2026-09-28T12:51:31.635762"
+}

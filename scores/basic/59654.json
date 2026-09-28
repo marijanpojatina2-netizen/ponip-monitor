@@ -1,0 +1,16 @@
+{
+  "id": "59654",
+  "score_overall": 6.4,
+  "score_lokacija": 4.5,
+  "score_roi": 8.5,
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Industrijski kompleks u Karlovcu (Mala Švarča) s ogromnim popustom od 75% na trećoj dražbi, ali riječ je o specifičnoj poslovnoj nekretnini (troetažni poslovni prostor s radionicama) koja zahtijeva specijaliziranog kupca. Velika kvadratura i niska cijena čine ga zanimljivim za redevelopment ili industrijski najam uz temeljitu due diligence.",
+  "flags": [
+    "provjeriti: namjena i utrživost industrijskog kompleksa",
+    "provjeriti: stanje objekta (nema podataka o uređenosti)"
+  ],
+  "discount_pct": 75.0,
+  "input_hash": "b98183de3a6f",
+  "scored_at": "2026-09-28T12:51:31.635215"
+}
