@@ -1,0 +1,15 @@
+{
+  "id": "61748",
+  "score_overall": 7.4,
+  "score_lokacija": 8.0,
+  "score_roi": 7.5,
+  "score_stanje": 6.0,
+  "recommendation": "bid",
+  "reasoning": "Garsonjera s dva parkirna mjesta na atraktivnoj lokaciji Marjanski put u Splitu, prva dražba s 25% popusta u likvidnom tržištu grada. Stečajna prodaja bez naznaka tereta ili useljenosti čini ovo realnim kandidatom za licitaciju.",
+  "flags": [
+    "provjeriti: postojanje tereta/služnosti iz stečajnog postupka"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "9a5248d1caf9",
+  "scored_at": "2026-09-29T12:06:23.327669"
+}

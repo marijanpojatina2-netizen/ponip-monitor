@@ -1,0 +1,16 @@
+{
+  "id": "61685",
+  "score_overall": 3.7,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Poljoprivredno zemljište (oranica, livada, šuma) u Donjem Miholjcu vrlo je jeftino po m2, ali nalazi se u slaboj ruralnoj zoni s ograničenom likvidnošću i potražnjom investitora. Moguće zanimljivo isključivo za land-banking ili poljoprivrednu djelatnost uz nižu očekivanu prinosnost.",
+  "flags": [
+    "provjeriti: pristup parceli i točne katastarske granice",
+    "provjeriti: mogućnost poljoprivrednih poticaja/navodnjavanja"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "5c3ea858aac4",
+  "scored_at": "2026-09-29T12:07:24.980534"
+}

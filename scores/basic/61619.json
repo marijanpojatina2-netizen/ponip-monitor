@@ -1,0 +1,16 @@
+{
+  "id": "61619",
+  "score_overall": 6.0,
+  "score_lokacija": 7.0,
+  "score_roi": 5.5,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Još jedan manji prizemni stan (32,91 m2) u istoj zgradi na Cancini 29, Nova Vas kraj Poreča, dobra lokacija ali isti katastarski nedostatak i usitnjeni suvlasnički udio (6/200, dodatno 1/2) kao kod susjednih jedinica u istoj zgradi. Vrijedi razmotriti zajedničku kupnju više udjela u istoj zgradi radi konsolidacije.",
+  "flags": [
+    "provjeriti: neusklađenost katastarskog i zemljišnoknjižnog stanja - dio zgrade nije ucrtan u katastru",
+    "provjeriti: suvlasnički udio (6/200, dodatno 1/2 dijela) - otežana likvidnost"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "447f81786c78",
+  "scored_at": "2026-09-29T12:07:24.980448"
+}

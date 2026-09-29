@@ -1,0 +1,15 @@
+{
+  "id": "61636",
+  "score_overall": 5.9,
+  "score_lokacija": 7.0,
+  "score_roi": 5.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Stan u Novoj Vasi kraj Poreča ima dobru tursitičku lokaciju u Istri, no radi se o vrlo usitnjenom suvlasničkom udjelu (17/100, a od toga još 1/2), što otežava upravljanje i preprodaju. Popust od 20% na prvoj dražbi je standardan, ne izrazito povoljan za ROI.",
+  "flags": [
+    "provjeriti: suvlasnički udio (17/100, dodatno 1/2 dijela) - otežana likvidnost i upravljanje"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "58f628b47077",
+  "scored_at": "2026-09-29T12:07:24.979731"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "61681",
+  "score_overall": 3.6,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Veliko gospodarsko dvorište s 5 zgrada u Donjem Miholjcu nalazi se u ruralnoj, depopulacijskoj zoni istočne Slavonije s ograničenom likvidnošću tržišta. Popust od tek 20% na prvoj dražbi ne kompenzira slabu lokaciju i nepoznato stanje objekata.",
+  "flags": [
+    "provjeriti: namjena i tehničko stanje 5 gospodarskih zgrada",
+    "provjeriti: pristupna infrastruktura i komunalna opremljenost parcele"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "07fa6632b37b",
+  "scored_at": "2026-09-29T12:07:24.980187"
+}

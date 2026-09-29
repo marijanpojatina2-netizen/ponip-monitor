@@ -1,0 +1,16 @@
+{
+  "id": "61615",
+  "score_overall": 6.5,
+  "score_lokacija": 8.0,
+  "score_roi": 6.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Najmanji stan u nizu (57,44 m2) u Novoj Vasi kraj Poreča, dobra lokacija ali niža apsolutna vrijednost ograničava ROI potencijal. Prodaje se samo 1/2 suvlasničkog dijela uz nerazriješen katastarski status dijela zgrade, pa je potrebna opreznost.",
+  "flags": [
+    "prodaje se samo 1/2 suvlasničkog dijela (preostala polovica u vlasništvu treće osobe)",
+    "dio zgrade nije evidentiran u katastru (ozakonjenje u tijeku)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "c3f324a973c1",
+  "scored_at": "2026-09-29T12:06:23.328591"
+}

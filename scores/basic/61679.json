@@ -1,0 +1,16 @@
+{
+  "id": "61679",
+  "score_overall": 3.7,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Veliki kompleks (33.569 m2, 6 kuća i 7 zgrada) u Donjem Miholjcu, depopulacijskom području istočne Slavonije s niskom likvidnošću tržišta. Prva dražba s tek 20% popusta i bez podataka o stanju objekata čini investiciju rizičnom unatoč velikoj površini zemljišta.",
+  "flags": [
+    "provjeriti: stanje/namjena 6 kuća i 7 zgrada (opis ne navodi stanje objekata)",
+    "provjeriti: useljenost/najam pojedinih objekata u kompleksu"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "f6b0c7d13883",
+  "scored_at": "2026-09-29T12:06:23.327418"
+}
