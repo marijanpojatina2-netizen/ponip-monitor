@@ -1,0 +1,13 @@
+{
+  "id": "61629",
+  "score_overall": 3.3,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Nekretnina u Grabovcu kod Belog Manastira je isključivo poljoprivredno zemljište (oranica) bez objekata, u pograničnom ruralnom području Baranje sa slabom likvidnošću. Vrlo niska vrijednost (4.510 EUR) čini ROI ograničenim i prikladnim tek za dugoročno zemljišno ulaganje.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "f3e0ffc8c13b",
+  "scored_at": "2026-09-30T11:53:55.915832"
+}

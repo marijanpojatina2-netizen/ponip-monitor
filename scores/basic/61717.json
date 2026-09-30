@@ -1,0 +1,15 @@
+{
+  "id": "61717",
+  "score_overall": 4.9,
+  "score_lokacija": 5.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Nekretnina se nalazi u Karlovcu (k.o. Karlovac I, Skela), solidnoj lokaciji srednje veličine grada, s standardnim popustom od 20% na prvoj dražbi. Prodaje se samo 3/4 suvlasničkog dijela što bitno smanjuje likvidnost i investicijsku privlačnost jer preostala 1/4 ostaje u vlasništvu treće osobe.",
+  "flags": [
+    "provjeriti: prodaje se samo 3/4 suvlasničkog dijela, preostala 1/4 u vlasništvu treće osobe"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "273b58115db6",
+  "scored_at": "2026-09-30T11:53:55.915027"
+}

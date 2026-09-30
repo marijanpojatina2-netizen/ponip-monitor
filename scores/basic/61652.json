@@ -1,0 +1,15 @@
+{
+  "id": "61652",
+  "score_overall": 4.8,
+  "score_lokacija": 4.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Zagorska lokacija (Bedekovčina, blizu Zaboka) je periferna ruralna zona bez turističkog potencijala, a popust od 20% na prvoj dražbi je standardan. Kombinacija gospodarskog objekta i kuće na 2057 m2 nudi umjeren potencijal, ali stanje objekata nije opisano pa je potreban terenski uvid.",
+  "flags": [
+    "provjeriti: stanje kuće i gospodarskog objekta (nije opisano)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "e631ba889a6a",
+  "scored_at": "2026-09-30T11:53:55.914237"
+}

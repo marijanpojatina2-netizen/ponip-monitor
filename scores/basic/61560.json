@@ -1,0 +1,15 @@
+{
+  "id": "61560",
+  "score_overall": 3.9,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Čalinec kod Ivanca je manje mjesto skromnog investicijskog potencijala, a vrlo niska procijenjena vrijednost (6.104 EUR) ukazuje na malu i vjerojatno zapušteniju nekretninu. Apsolutni iznos transakcije čini ROI marginalnim čak i uz 20% popust.",
+  "flags": [
+    "provjeriti: stanje kuće (nije opisano, vrlo niska procjena upućuje na loše stanje)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "cc7149cb2775",
+  "scored_at": "2026-09-30T11:53:55.915613"
+}
