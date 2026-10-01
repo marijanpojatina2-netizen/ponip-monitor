@@ -1,0 +1,16 @@
+{
+  "id": "61666",
+  "score_overall": 3.7,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Rezovac kod Virovitice je ruralno, depopulacijsko područje slabe likvidnosti, a dodatni problem je što se prodaje tek 1/2 suvlasničkog dijela nekretnine što otežava kasniju prodaju cjeline. Niska apsolutna vrijednost i nepoznato stanje kuće dodatno smanjuju atraktivnost.",
+  "flags": [
+    "provjeriti: ovršenik je vlasnik samo 1/2 dijela nekretnine - prodaje se suvlasnički udio",
+    "provjeriti: stanje objekta"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "e6e3a9ed8c45",
+  "scored_at": "2026-10-01T12:25:03.104281"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "61670",
+  "score_overall": 4.7,
+  "score_lokacija": 4.0,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Daruvar je manji grad u slabijoj kontinentalnoj regiji, no kuća s dvorištem od 371 m2 uz 20% popust ima solidnu osnovnu vrijednost za daljnje praćenje. Opis ne otkriva stanje objekta ni eventualnu useljenost pa je potrebna dodatna provjera prije licitacije.",
+  "flags": [
+    "provjeriti: stanje objekta nije opisano",
+    "provjeriti: useljenost/zakup nije naveden"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "3be3f8a04500",
+  "scored_at": "2026-10-01T12:25:03.103979"
+}

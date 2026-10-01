@@ -1,0 +1,16 @@
+{
+  "id": "60525",
+  "score_overall": 7.2,
+  "score_lokacija": 8.0,
+  "score_roi": 8.0,
+  "score_stanje": 4.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Mala povijesna kuća u starom gradu Cresa (atraktivna otočka lokacija) s 40% popustom na drugoj dražbi nudi dobar ROI potencijal, no neuobičajena struktura suvlasništva s neodređenim omjerima zahtijeva detaljnu pravnu provjeru. Veličina objekta (32 m2 ukupno) i stanje nepoznati iz opisa.",
+  "flags": [
+    "provjeriti: suvlasnički udjeli s neodređenim omjerom (etažno vlasništvo)",
+    "provjeriti: stanje i useljivost objekta"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "7966bb76212d",
+  "scored_at": "2026-10-01T12:24:07.932430"
+}

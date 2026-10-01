@@ -1,0 +1,35 @@
+{
+  "id": "61768",
+  "score_overall": 5.7,
+  "score_lokacija": 7.5,
+  "score_roi": 5.5,
+  "score_stanje": 3.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Parcela se nalazi u Taru (Općina Tar-Vabriga), nekoliko km od Poreča i turističkog resorta Lanterna, u jednoj od najatraktivnijih turističkih zona Istre. No, riječ je o neizgrađenoj oranici od 7725 m2 bez potvrđene građevinske namjene, a početna cijena od cca 71,6 EUR/m2 (552.800 EUR) je neobično visoka za čisto poljoprivredno zemljište, što upućuje da je sudska procjena već ukalkulirala spekulativni potencijal prenamjene. Popust od samo 20% na prvoj dražbi ne ostavlja veliku sigurnosnu marginu ako prenamjena ne uspije ili potraje. Preporuka je deep_dive zbog visoke apsolutne vrijednosti i atraktivne lokacije, ali uz obaveznu provjeru prostornog plana prije licitacije; web pretraga tržišnih komparabli nije bila dostupna u ovoj sesiji (alat blokiran), pa je procjena tržišne vrijednosti niske pouzdanosti.",
+  "flags": [
+    "provjeriti: mogućnost prenamjene zemljišta (trenutno oranica/poljoprivredno) u građevinsko ili turističko zemljište prema prostornom planu Općine Tar-Vabriga",
+    "provjeriti: pristupni put i komunalna infrastruktura (struja, voda, kanalizacija) do parcele 141/2 k.o. Tar",
+    "provjeriti: postoji li ugovor o zakupu parcele s OPG-om ili trećom stranom (oranice se često daju u zakup)",
+    "provjeriti: stvarna tržišna osnova sudske procjene (89,4 EUR/m2 je visoko za nerazvijeno poljoprivredno zemljište)"
+  ],
+  "market_estimate": {
+    "eur_min": 400000,
+    "eur_max": 750000,
+    "confidence": "low",
+    "basis": "Procjena temeljena na općem poznavanju tržišta zemljišta u priobalnoj Istri (blizina Poreča/Lanterne) i na visini sudske procjene/početne cijene; web pretraga aktivnih oglasa i stvarnih komparabli nije bila dostupna u ovoj sesiji (alat za pretragu nije odobren), pa raspon treba potvrditi dodatnim istraživanjem prije licitacije."
+  },
+  "comparables": [],
+  "investment_strategy": "razvoj / land banking — kupnja uz dugoročnu strategiju prenamjene u građevinsko/turističko zemljište (s obzirom na blizinu Lanterna resorta i Poreča); do ishoda prenamjene zemljište se može iznajmljivati za poljoprivrednu obradu radi minimalnog prihoda, no glavni ROI ovisi o uspješnoj izmjeni prostornog plana.",
+  "entry_price_eur": 420000,
+  "detailed_risks": [
+    "Nema garancije da će se poljoprivredna namjena promijeniti u građevinsku/turističku — prenamjena ovisi o Općini Tar-Vabriga i može potrajati godinama ili ne uspjeti",
+    "Visoka polazna cijena po m2 za oranicu ukazuje da je spekulativna premija već ukalkulirana, što smanjuje sigurnosnu marginu za investitora",
+    "Nepoznat status pristupa, komunalne infrastrukture i eventualnog zakupa trećim stranama",
+    "Nekretnine kupljene na dražbi mogu imati ograničenu mogućnost razgledavanja prije kupnje (samo jedan termin, uz prethodnu najavu)"
+  ],
+  "upside_scenario": "U sljedeće 2-3 godine, ako Općina Tar-Vabriga izmijeni prostorni plan i omogući gradnju (blizina Lanterna resorta i Poreča to čini realnim), vrijednost zemljišta mogla bi narasti na 150-250 EUR/m2 (1,1-1,9 mil EUR), što otvara mogućnost profitabilne prodaje ili razvoja turističkog/vila projekta.",
+  "downside_scenario": "Ako prenamjena izostane ili se odugovlači, zemljište ostaje poljoprivredno zemljište ograničene likvidnosti s minimalnim prihodom od zakupa (nekoliko tisuća EUR godišnje), a uloženi kapital je dugoročno 'zarobljen' bez značajnog povrata.",
+  "discount_pct": 20.0,
+  "input_hash": "5fcafe4e5bdf",
+  "scored_at": "2026-10-01T12:26:46.833247"
+}

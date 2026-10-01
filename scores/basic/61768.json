@@ -1,0 +1,15 @@
+{
+  "id": "61768",
+  "score_overall": 6.0,
+  "score_lokacija": 8.0,
+  "score_roi": 5.0,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Oranica u Taru (Istra) po visokoj cijeni od ~89 EUR/m2 upućuje na potencijalnu gradivost uz more, no riječ je tek o prvoj dražbi s umjerenim popustom od 20%. Bez potvrde namjene i mogućnosti prenamjene ROI je neizvjestan.",
+  "flags": [
+    "provjeriti: namjena i gradivost zemljišta (oranica)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "5fcafe4e5bdf",
+  "scored_at": "2026-10-01T12:24:07.931958"
+}

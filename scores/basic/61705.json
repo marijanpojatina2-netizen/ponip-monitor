@@ -1,0 +1,16 @@
+{
+  "id": "61705",
+  "score_overall": 3.1,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Nekretnina u Gornjim Plavnicama procijenjena je na svega 415 EUR što je premalo za bilo kakav ozbiljan investicijski učinak unatoč 20% popustu. Dodatno postoji suvlasništvo ovrhovoditelja i ovršenika što komplicira stjecanje cjelovitog vlasništva.",
+  "flags": [
+    "provjeriti: suvlasništvo - ovrhovoditelj i ovršenik zajednički vlasnici",
+    "zanemariva apsolutna vrijednost nekretnine"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "1e7e44405c6f",
+  "scored_at": "2026-10-01T12:25:03.104802"
+}

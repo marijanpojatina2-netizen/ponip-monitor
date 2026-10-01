@@ -1,0 +1,15 @@
+{
+  "id": "61703",
+  "score_overall": 3.1,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Gornje Plavnice kod Bjelovara su ruralno područje, a radi se o goloj livadi vrlo niske vrijednosti (6561 EUR) bez razvojnog potencijala. Suvlasništvo u kojem je i sam ovrhovoditelj suvlasnik dodatno kompliciranu pravnu situaciju oko stjecanja punog vlasništva.",
+  "flags": [
+    "provjeriti: suvlasništvo - ovrhovoditelj je ujedno i suvlasnik nekretnine"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "28cd470c0cf7",
+  "scored_at": "2026-10-01T12:25:03.104427"
+}

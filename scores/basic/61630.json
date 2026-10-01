@@ -1,0 +1,15 @@
+{
+  "id": "61630",
+  "score_overall": 3.1,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Riječ je o maloj oranici od 500 m2 vrlo niske vrijednosti (3405 EUR) u k.o. Klokočevec, dok je sud naveden u Samoboru što upućuje na nesklad nadležnosti i lokacije koji treba razjasniti. Mala površina i nepoznata regija čine investicijski potencijal zanemarivim.",
+  "flags": [
+    "provjeriti: lokacija nekretnine (k.o. Klokočevec) u odnosu na nadležnost suda u Samoboru"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "3c022bab6342",
+  "scored_at": "2026-10-01T12:25:03.104670"
+}
