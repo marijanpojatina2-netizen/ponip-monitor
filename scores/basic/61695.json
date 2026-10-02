@@ -1,0 +1,16 @@
+{
+  "id": "61695",
+  "score_overall": 4.0,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Belica je ruralno naselje u Međimurju sa slabijom likvidnošću tržišta, a popust od 20% ne kompenzira nedostatak podataka o stanju kuće i oranice. Dva ovršenika sa svaki 1/2 dijela dodatno kompliciraju due diligence proces.",
+  "flags": [
+    "provjeriti: suvlasnički odnosi dva ovršenika (svaki 1/2 dijela)",
+    "provjeriti: stanje objekta i oranice"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "095132ce309f",
+  "scored_at": "2026-10-02T11:51:14.786909"
+}

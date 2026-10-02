@@ -1,0 +1,15 @@
+{
+  "id": "60948",
+  "score_overall": 3.1,
+  "score_lokacija": 1.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Hrvatska Dubica/Cerovljani spada u depopulacijsko područje Banovine sa slabom likvidnošću tržišta, a radi se o maloj šumskoj parceli vrlo niske apsolutne vrijednosti koja ne nudi smislen ROI potencijal za investitora. Nadležnost Trgovačkog suda u Pazinu nije relevantna za stvarnu, znatno udaljeniju lokaciju nekretnine.",
+  "flags": [
+    "provjeriti: pristupni put i urbanistički status šumskog zemljišta"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "c744e690de20",
+  "scored_at": "2026-10-02T11:51:14.787193"
+}
