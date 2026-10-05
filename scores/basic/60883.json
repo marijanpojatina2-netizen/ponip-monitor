@@ -1,0 +1,15 @@
+{
+  "id": "60883",
+  "score_overall": 5.2,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Oranica od 1228 m2 u k.o. Kupinec (ruralno područje uz Pisarovinu, jugozapadno od Zagreba), druga dražba s 40% popustom ali apsolutna vrijednost vrlo niska (2210 EUR) pa je likvidnost upitna. Cijela čestica (nije suvlasnički dio), zemljište je poljoprivredno bez naznaka izgradnje.",
+  "flags": [
+    "provjeriti: pristup parceli i stvarna namjena (poljoprivredno zemljište)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "0964beee9824",
+  "scored_at": "2026-10-05T13:33:38.019183"
+}

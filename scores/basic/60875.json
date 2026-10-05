@@ -1,0 +1,13 @@
+{
+  "id": "60875",
+  "score_overall": 5.2,
+  "score_lokacija": 4.0,
+  "score_roi": 7.0,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Najmanja od tri susjedne parcele u k.o. Kupinec (2.118 m2), ponovno dio istog zk.ul. 4170 kompleksa što sugerira zajedničku ovrhu nad većim zemljišnim posjedom. Pojedinačna kupnja ima ograničen smisao zbog niske apsolutne vrijednosti.",
+  "flags": [],
+  "discount_pct": 40.0,
+  "input_hash": "1d49534e7463",
+  "scored_at": "2026-10-05T13:32:46.673333"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "61828",
+  "score_overall": 6.6,
+  "score_lokacija": 7.5,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Ilica 116 je dio centralne zagrebačke poslovne osi (blizu Britanskog trga, odlična tramvajska povezanost), a popust od 25% na prvoj dražbi za veliku viseetažnu poslovnu cjelinu (4 etaže, >800 m2 opisane površine) čini ulaz potencijalno atraktivnim. Glavni problem je što se prodaje samo suvlasnički (idealni) dio od 80,87%, dok preostalih 19,13% ostaje u tuđem vlasništvu, što bitno komplicira upravljanje, renovaciju i buduću prodaju cjeline. Opis nekretnine je u izvoru odrezan pa stvarno stanje objekta i eventualna opterećenja/zakup nisu poznati, zbog čega slučaj zahtijeva temeljit pravni i tehnički due diligence prije licitiranja. Visoka apsolutna vrijednost (>1,5M EUR) i prestižna adresa opravdavaju detaljnu analizu, ali ne i automatski bid bez dodatne provjere.",
+  "flags": [
+    "provjeriti: suvlasnički odnos i mogućnost sporazuma/otkupa s preostalim suvlasnikom (19,13% udjela)",
+    "provjeriti: je li prostor trenutno u zakupu/najmu",
+    "provjeriti: stvarno stanje objekta i instalacija (opis dokumenta je nepotpun/odrezan)",
+    "provjeriti: postoje li tereti, služnosti ili prava koja ne prestaju prodajom (tekst zk. opisa odrezan prije kraja)"
+  ],
+  "market_estimate": {
+    "eur_min": 1300000,
+    "eur_max": 1750000,
+    "confidence": "low",
+    "basis": "Web pretraga nije bila dostupna u ovoj sesiji. Procjena se oslanja na sudsku utvrđenu vrijednost (1.58M EUR za 80,87% udjela) i opće poznavanje cijena poslovnog prostora na gornjem (zapadnom) dijelu Ilice i oko Britanskog trga, koje su tipično niže od ultra-prime dijela oko Trga bana Jelačića. Preporučuje se naknadna provjera stvarnih aktivnih oglasa na nekretnine.net i njuskalo.hr prije donošenja odluke."
+  },
+  "comparables": [],
+  "investment_strategy": "Prije licitacije provesti pravnu analizu suvlasničkog odnosa i pokušati unaprijed dogovoriti otkup/sporazum s manjinskim suvlasnikom (19,13%). Ako se postigne puna kontrola, strategija je reno-flip ili iznajmljivanje: renovacija viseetažnog poslovnog prostora (ukupno >800 m2 uz nepoznat 3. kat) i izdavanje uredskim/uslužnim najmoprimcima na jednoj od najpoznatijih zagrebačkih poslovnih adresa, uz srednjoročnu mogućnost prodaje cjeline kad se riješi suvlasništvo.",
+  "entry_price_eur": 1000000,
+  "detailed_risks": [
+    "Suvlasništvo (80,87% idealni dio) - preostalih 19,13% u vlasništvu treće osobe, rizik blokade pri upravljanju i prodaji cjeline",
+    "Nepotpun opis nekretnine u izvoru (tekst odrezan) - nepoznato stanje instalacija, krova, zajedničkih dijelova zgrade",
+    "Nepoznat status zauzetosti - moguće da je prostor prazan, u najmu ili dijelom korišten bez evidentiranog ugovora",
+    "Razgledavanje isključivo putem e-pošte otežava brzu i pouzdanu procjenu stanja prije dražbe",
+    "Velika i kompleksna struktura (prizemlje + 3 kata, >20 prostorija) nosi rizik visokih troškova održavanja/adaptacije"
+  ],
+  "upside_scenario": "Uz uspješan dogovor o preuzimanju pune kontrole nad nekretninom, temeljitu renovaciju i iznajmljivanje uredskog/uslužnog prostora na Ilici, vrijednost cjeline mogla bi narasti prema procijenjenih 1,9-2,2M EUR uz stabilan prihod od najma u sljedeće 2-3 godine.",
+  "downside_scenario": "Ako se sporazum sa suvlasnikom ne postigne, imovina ostaje teško upravljiva i slabo likvidna idealna suvlasnička čestica; ako prva dražba ne uspije, nekretnina ide na drugu/treću dražbu uz dodatni pad cijene, dok se skriveni troškovi renovacije i neriješeni pravni odnosi mogu pokazati većima od očekivanih.",
+  "discount_pct": 25.0,
+  "input_hash": "36383545462a",
+  "scored_at": "2026-10-05T13:35:37.142558"
+}

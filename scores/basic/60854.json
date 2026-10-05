@@ -1,0 +1,15 @@
+{
+  "id": "60854",
+  "score_overall": 4.8,
+  "score_lokacija": 2.5,
+  "score_roi": 7.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Obiteljska kuća s pomoćnim objektima u selu Potnjani kraj Đakova, ruralno slavonsko područje s izraženom depopulacijom ograničava potražnju unatoč solidnom popustu od 40% na drugoj dražbi. Nepoznato stanje objekata dodatno smanjuje atraktivnost za brz obrt kapitala.",
+  "flags": [
+    "provjeriti: stanje kuće, garaže i pomoćnih zgrada"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "6bdb39eb5867",
+  "scored_at": "2026-10-05T13:32:46.673152"
+}

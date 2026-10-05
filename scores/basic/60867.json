@@ -1,0 +1,15 @@
+{
+  "id": "60867",
+  "score_overall": 5.2,
+  "score_lokacija": 4.0,
+  "score_roi": 7.0,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Suvlasnički dio (59940/231772) poljoprivrednog zemljišta u k.o. Kupinec, ali bez etažnog razdvajanja što znači stvarno vlasništvo nad idealnim dijelom bez konkretno razgraničene parcele. Vrlo niska apsolutna vrijednost uz kompliciranu suvlasničku strukturu smanjuje investicijsku privlačnost.",
+  "flags": [
+    "provjeriti: suvlasnička struktura i mogućnost diobe/prava prvokupa ostalih suvlasnika"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "8cc7628e4ff8",
+  "scored_at": "2026-10-05T13:32:46.673400"
+}

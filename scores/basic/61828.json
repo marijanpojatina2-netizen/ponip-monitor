@@ -1,0 +1,16 @@
+{
+  "id": "61828",
+  "score_overall": 6.8,
+  "score_lokacija": 8.5,
+  "score_roi": 6.0,
+  "score_stanje": 5.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Zgrada mješovite namjene na Ilici u strogom centru Zagreba s preko 800 m2 poslovnog prostora kroz četiri etaže - vrlo atraktivna lokacija i velika vrijednost transakcije opravdavaju detaljnu analizu. Prva dražba s tek 25% popustom i nepoznatim stanjem prostora smanjuju trenutni ROI, ali likvidnost zagrebačkog poslovnog tržišta je visoka.",
+  "flags": [
+    "provjeriti: stanje i useljenost/zauzetost poslovnih prostora",
+    "provjeriti: postojeći ugovori o zakupu"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "36383545462a",
+  "scored_at": "2026-10-05T13:32:46.672741"
+}

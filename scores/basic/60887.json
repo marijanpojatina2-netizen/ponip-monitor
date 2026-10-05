@@ -1,0 +1,16 @@
+{
+  "id": "60887",
+  "score_overall": 5.2,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Vrlo mala parcela od 249 m2 (vrijednost samo 433 EUR) u istom ruralnom području kao nekretnina 60883, vjerojatno smislena samo u kombinaciji sa susjednom većom česticom iz istog zk.ul. 4170. Transakcijski troškovi dražbe i upisa vjerojatno nadmašuju ekonomsku korist od samostalne kupnje.",
+  "flags": [
+    "provjeriti: isplativost kupnje s obzirom na transakcijske troškove u odnosu na vrijednost",
+    "provjeriti: mogućnost zajedničke kupnje s čest. 6739/4 (ista zk.ul.)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "4ddd4f7bf684",
+  "scored_at": "2026-10-05T13:33:38.019623"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "60869",
+  "score_overall": 5.2,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Prodaje se samo suvlasnički dio (59940/231772) čestice od 3118 m2 u istom ruralnom području Kupinec, što dodatno otežava raspolaganje i buduću diobu nekretnine. Niska apsolutna vrijednost (1810 EUR) uz suvlasništvo čini investiciju niske likvidnosti i visokog administrativnog troška u odnosu na korist.",
+  "flags": [
+    "suvlasnički dio nekretnine (nije cijela čestica)",
+    "provjeriti: identitet i stav ostalih suvlasnika"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "b56f51dac9a0",
+  "scored_at": "2026-10-05T13:33:38.019473"
+}

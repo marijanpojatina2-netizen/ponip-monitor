@@ -1,0 +1,16 @@
+{
+  "id": "60877",
+  "score_overall": 5.8,
+  "score_lokacija": 4.5,
+  "score_roi": 7.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Velika poljoprivredna parcela (15,9 ha) u k.o. Kupinec na periferiji zagrebačke regije, druga dražba s 40% popustom daje solidan ROI potencijal za zemljišnu banku. Nedostatak infrastrukture i ruralni karakter ograničavaju kratkoročnu likvidnost.",
+  "flags": [
+    "provjeriti: namjena zemljišta i mogućnost gradnje",
+    "provjeriti: pristup parceli i komunalna infrastruktura"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "9079c6ab0e35",
+  "scored_at": "2026-10-05T13:32:46.673005"
+}
