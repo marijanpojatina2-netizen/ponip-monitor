@@ -1,0 +1,15 @@
+{
+  "id": "61794",
+  "score_overall": 3.1,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Nekretnina u Novom Bezdanu ne sadrži stambeni objekt, samo oranicu i pomoćne zgrade, uz vrlo nisku vrijednost (3.390 EUR) i slabu likvidnost regije. Investicijski potencijal je ograničen na dugoročno zemljišno ulaganje uz minimalan prinos.",
+  "flags": [
+    "provjeriti: namjena i pristupnost zemljišta"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "d83f0b1860f3",
+  "scored_at": "2026-10-06T12:43:52.812113"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "61796",
+  "score_overall": 3.3,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Ista ruralna lokacija (Novi Bezdan, Baranja) s niskom likvidnošću, a vrlo mala vrijednost nekretnine (5.910 EUR) ograničava apsolutni ROI potencijal. Nema podataka o stanju kuće, pa ulazak nosi dodatni rizik.",
+  "flags": [
+    "provjeriti: stanje kuće i pomoćnih zgrada",
+    "provjeriti: je li kuća useljena/u posjedu ovršenika"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "710641944a0f",
+  "scored_at": "2026-10-06T12:43:52.811867"
+}

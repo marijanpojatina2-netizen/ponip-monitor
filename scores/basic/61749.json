@@ -1,0 +1,16 @@
+{
+  "id": "61749",
+  "score_overall": 3.3,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Novi Bezdan u Baranji je slabo razvijeno rubno područje s niskom likvidnošću nekretnina, unatoč vrlo niskom ulaznom iznosu (19.000 EUR). Stanje kuće i pomoćnih objekata nije opisano, što uz nisku vrijednost ukazuje na potrebu temeljite provjere.",
+  "flags": [
+    "provjeriti: stanje kuće i pomoćnih zgrada",
+    "provjeriti: je li kuća useljena/u posjedu ovršenika"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "4a78db657788",
+  "scored_at": "2026-10-06T12:43:52.811615"
+}

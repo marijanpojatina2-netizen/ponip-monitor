@@ -1,0 +1,16 @@
+{
+  "id": "55551",
+  "score_overall": 6.4,
+  "score_lokacija": 7.5,
+  "score_roi": 6.0,
+  "score_stanje": 5.5,
+  "recommendation": "bid",
+  "reasoning": "Stan u centru Splita na visokom katu s dobrom orijentacijom ima solidan likvidnosni potencijal uz 20% popusta na prvoj dražbi. Suvlasnički dio s neodređenim omjerom zahtijeva pravnu provjeru prije licitacije.",
+  "flags": [
+    "provjeriti: neodređen suvlasnički omjer stana",
+    "provjeriti: je li stan useljen/u posjedu ovršenika"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "a3546bda56ad",
+  "scored_at": "2026-10-06T12:43:52.811160"
+}

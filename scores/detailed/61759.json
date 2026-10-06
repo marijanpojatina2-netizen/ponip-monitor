@@ -1,0 +1,36 @@
+{
+  "id": "61759",
+  "score_overall": 5.2,
+  "score_lokacija": 5.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Čakovec je regionalno središte Međimurja, solidna ali ne vrhunska lokacija s umjerenom likvidnošću tržišta. Popust od tek 20% na prvoj dražbi je slab investicijski signal jer se veći popusti tipično javljaju na trećoj/četvrtoj dražbi. Opis ne navodi kvadraturu kuće, godinu gradnje ni stanje objekta, što uz nejasnu useljivost (razgledavanje samo uz dogovor sa sutkinjom i ovršiteljem) stvara značajnu nepoznanicu. Visoka nominalna vrijednost (768.000 EUR) za Čakovec zahtijeva potvrdu putem fizičkog pregleda i uvida u zemljišne knjige prije ozbiljnog angažmana.",
+  "flags": [
+    "provjeriti: kvadratura i stanje kuće (opis navodi samo površinu parcele u čhv, ne stanje/m2 objekta)",
+    "provjeriti: moguća useljenost/korištenje nekretnine od treće strane (razgledavanje isključivo uz prethodni dogovor sa sutkinjom i sudskim ovršiteljem upućuje na ograničen pristup)",
+    "provjeriti: teretni list zk.ul. 6690 k.o. Čakovec za terete, hipoteke i prava koja ne prestaju prodajom",
+    "provjeriti: namjena i urbanistički status čkbr. 228/1/2/A/1/71/2 (oranica) - potencijal za gradnju/promjenu namjene"
+  ],
+  "market_estimate": {
+    "eur_min": 500000,
+    "eur_max": 700000,
+    "confidence": "low",
+    "basis": "Web pretraga nije bila dostupna u ovoj sesiji (alat nije autoriziran), pa procjena počiva na općem poznavanju tržišta Čakovca/Međimurja (regionalno središte, cijene kuća s okućnicom tipično niže od zagrebačkih i primorskih, veća vrijednost ovdje djelomično objašnjiva velikom površinom parcele ~3.370 m² ukupno). Preporuka: prije ponude potvrditi lokalne komparative putem nekretnine.net/njuskalo.hr za k.o. Čakovec."
+  },
+  "comparables": [],
+  "investment_strategy": "Uvjetno reno-flip ili dugoročno iznajmljivanje, ovisno o stvarnom stanju kuće i mogućnosti parcelacije/razvoja oranice; prije ulaganja nužan fizički pregled i provjera gradivosti oranice.",
+  "entry_price_eur": 520000,
+  "detailed_risks": [
+    "Nepotpun opis - nedostaje kvadratura kuće, godina gradnje i stanje objekta, što onemogućuje pouzdanu procjenu troška renovacije",
+    "Prva dražba s tek 20% popustom - nizak marginalni ROI u odnosu na rizik; bolji ulazni trenutak mogao bi biti na idućoj dražbi s većim popustom",
+    "Ograničen pristup razgledavanju (samo uz dogovor sa sutkinjom i ovršiteljem) ukazuje na mogući otežan due diligence prije kupnje",
+    "Dio parcele je oranica (poljoprivredno zemljište) - ograničena gradivost i likvidnost ako se ne potvrdi promjena namjene",
+    "Niža likvidnost regionalnog tržišta Čakovca u odnosu na velike gradove ili turističke zone"
+  ],
+  "upside_scenario": "Ako se pregledom utvrdi da je kuća u dobrom strukturnom stanju i da se oranica može prenamijeniti ili parcelirati za gradnju, nekretnina od ukupno ~3.370 m² uz postojeći objekt može donijeti značajan prinos kroz prodaju zemljišta investitorima ili izgradnju dodatnih jedinica u horizontu 2-3 godine.",
+  "downside_scenario": "Ako dražba ne uspije po ovoj cijeni, nekretnina ide na drugu/treću dražbu s većim popustom (atraktivnija ulazna cijena), ali uz rizik da se objekt pokaže neuseljiv ili teretno opterećen, čime bi potencijalni ROI bio znatno manji od očekivanog.",
+  "discount_pct": 20.0,
+  "input_hash": "d507186d1896",
+  "scored_at": "2026-10-06T12:45:22.120297"
+}

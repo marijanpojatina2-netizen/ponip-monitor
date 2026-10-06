@@ -1,0 +1,16 @@
+{
+  "id": "61820",
+  "score_overall": 3.4,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Ždala je ruralno, depopulacijsko područje uz granicu s Mađarskom, s više parcela i složenim suvlasničkim omjerima (49/64, 3/4, itd.) između dvoje ovršenika. Nisko tržišno zanimanje i nejasna razdioba udjela smanjuju likvidnost unatoč relativno visokoj procijenjenoj vrijednosti.",
+  "flags": [
+    "provjeriti: složeno suvlasništvo s više manjih udjela",
+    "provjeriti: stanje građevina (štale, gospodarske zgrade)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "f5d7cf5d07e1",
+  "scored_at": "2026-10-06T12:43:52.811310"
+}

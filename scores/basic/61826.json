@@ -1,0 +1,16 @@
+{
+  "id": "61826",
+  "score_overall": 3.3,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Čista oranica u Ždali (2.122 m2) vrlo niske vrijednosti (2.178 EUR) u ruralnom, depopulacijskom području nosi slab ROI potencijal zbog niske likvidnosti poljoprivrednog zemljišta. Suvlasnički omjer (3/4 : 1/4) između dvoje ovršenika treba provjeriti prije eventualne ponude.",
+  "flags": [
+    "provjeriti: namjena i pristupnost zemljišta",
+    "provjeriti: suvlasnički udio (3/4 : 1/4)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "923a64b4cfb8",
+  "scored_at": "2026-10-06T12:43:52.812373"
+}

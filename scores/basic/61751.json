@@ -1,0 +1,16 @@
+{
+  "id": "61751",
+  "score_overall": 5.9,
+  "score_lokacija": 5.5,
+  "score_roi": 6.5,
+  "score_stanje": 5.5,
+  "recommendation": "bid",
+  "reasoning": "Dugo Selo je periferija Zagreba s razumnom potražnjom, a popust od 25% na prvoj dražbi je iznad prosjeka za ovu kategoriju. Potkrovni stan nema navedenih podataka o stanju, pa je potrebna dodatna provjera prije ponude.",
+  "flags": [
+    "provjeriti: stanje stana (potkrovlje)",
+    "provjeriti: je li stan useljen/u posjedu ovršenika"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "9c19a3ef7f69",
+  "scored_at": "2026-10-06T12:43:52.811485"
+}
