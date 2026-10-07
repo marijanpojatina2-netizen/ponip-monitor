@@ -1,0 +1,16 @@
+{
+  "id": "61806",
+  "score_overall": 5.0,
+  "score_lokacija": 6.0,
+  "score_roi": 5.0,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Rijeka kao veći grad nosi solidnu lokacijsku vrijednost, no riječ je o malom dvosobnom stanu u podrumskoj etaži što značajno smanjuje stambenu i tržišnu privlačnost. Niska nominalna cijena uz 20% popusta daje ulaznu priliku, ali prije licitacije treba provjeriti stvarnu stambenu funkcionalnost prostora.",
+  "flags": [
+    "provjeriti: vlažnost i uvjeti stanovanja podrumske etaže",
+    "provjeriti: legalnost stambene namjene podrumskog prostora"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "7db47c70584d",
+  "scored_at": "2026-10-07T12:36:54.939544"
+}

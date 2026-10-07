@@ -1,0 +1,16 @@
+{
+  "id": "61832",
+  "score_overall": 5.2,
+  "score_lokacija": 5.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Vrapče je solidna ali periferna zagrebačka lokacija, a stan standardne veličine bez naznaka renovacije nosi tek prosječan ROI potencijal uz 20% popusta na prvoj dražbi. Neodređeni suvlasnički omjer etažnog vlasništva (E-63) dodatna je pravna nepoznanica koja zahtijeva provjeru prije ulaska u licitaciju.",
+  "flags": [
+    "provjeriti: etažno vlasništvo s neodređenim suvlasničkim omjerom (E-63)",
+    "provjeriti: postoji li osoba koja stanuje u stanu"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "8febf77e49ac",
+  "scored_at": "2026-10-07T12:36:54.939397"
+}
