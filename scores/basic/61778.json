@@ -1,0 +1,15 @@
+{
+  "id": "61778",
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Poljoprivredno zemljište (voćnjak) u ruralnom području kraj Virovitice, vrlo niske ukupne vrijednosti (2350 EUR) uz tek 20% popusta na prvoj dražbi. Slaba likvidnost regije i nedostatak građevinskog potencijala čine ovo marginalnim ulaganjem.",
+  "flags": [
+    "provjeriti: pristup i katastarsko stanje čestice"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "cf49539e53f6",
+  "scored_at": "2026-10-08T12:47:05.089708"
+}

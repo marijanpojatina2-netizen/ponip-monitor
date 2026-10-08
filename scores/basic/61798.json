@@ -1,0 +1,15 @@
+{
+  "id": "61798",
+  "score_overall": 3.7,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Veliko ruralno gospodarsko imanje (Leskovac) u okolici Vinkovaca s popustom od samo 20% na prvoj dražbi nudi slabu likvidnost i ograničen izlaz za investitora. Stanje i namjena gospodarske zgrade i spremnika nisu jasno opisani.",
+  "flags": [
+    "provjeriti: namjena i stanje gospodarskih objekata (gosp. zgrada, spremnik)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "397f11d2670f",
+  "scored_at": "2026-10-08T12:46:52.736685"
+}

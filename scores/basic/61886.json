@@ -1,0 +1,13 @@
+{
+  "id": "61886",
+  "score_overall": 3.2,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Nekretnina se sastoji isključivo od fragmentiranih poljoprivrednih parcela (livade, oranice) u Podlapači kod Gospića, ruralnom depopulacijskom području Like s niskom likvidnošću. Popust od 20% na prvoj dražbi ne kompenzira slab investicijski potencijal zemljišta bez građevina.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "2ff12ae92197",
+  "scored_at": "2026-10-08T12:46:52.737220"
+}

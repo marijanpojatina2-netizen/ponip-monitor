@@ -1,0 +1,13 @@
+{
+  "id": "61761",
+  "score_overall": 3.9,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Kombinacija manjih poljoprivrednih čestica i kuće s dvorištem u Podravskoj Slatini nudi slab ROI zbog niske likvidnosti slavonskog ruralnog tržišta i tek 20% popusta na prvoj dražbi. Suvlasništvo ovršenika u 1/2 dijela svakog nije rizik, ali umanjuje atraktivnost cjelovitog stjecanja.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "867baf1c5c68",
+  "scored_at": "2026-10-08T12:46:52.737436"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "60850",
+  "score_overall": 6.3,
+  "score_lokacija": 5.0,
+  "score_roi": 8.0,
+  "score_stanje": 5.0,
+  "recommendation": "bid",
+  "reasoning": "Kuća s oranicom i dvorištem u Križu (periferija Zagrebačke županije) uz 40% popust na drugoj dražbi daje dobar ROI potencijal za relativno pristupačnu cijenu. Stanje kuće nije detaljno opisano što traži obilazak terena prije ponude.",
+  "flags": [
+    "provjeriti: stanje kuće na terenu (nema detaljnog opisa)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "26df6d2e9e28",
+  "scored_at": "2026-10-08T12:46:52.736983"
+}

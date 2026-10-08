@@ -1,0 +1,15 @@
+{
+  "id": "60860",
+  "score_overall": 7.6,
+  "score_lokacija": 7.5,
+  "score_roi": 8.0,
+  "score_stanje": 7.0,
+  "recommendation": "bid",
+  "reasoning": "Trosobni stan s garažom u centru Šibenika uz 40% popust na drugoj dražbi je solidan investicijski ulaz u likvidnoj obalnoj lokaciji. Stan je prema opisu useljiv i komforan, no etažni suvlasnički dio s neodređenim omjerom traži pravnu provjeru prije licitacije.",
+  "flags": [
+    "provjeriti: suvlasnički dio s neodređenim omjerom (etažno vlasništvo)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "2f10c21b887d",
+  "scored_at": "2026-10-08T12:46:52.736299"
+}

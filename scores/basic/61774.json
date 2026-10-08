@@ -1,0 +1,15 @@
+{
+  "id": "61774",
+  "score_overall": 3.3,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Mala ruralna nekretnina u Gaćištu (kuća, oranica, voćnjak) uz nisku procijenjenu vrijednost od 19.800 EUR i 20% popust na prvoj dražbi nudi minimalan ulazni kapital, ali i slab izlazni potencijal zbog depopulacijske slavonske lokacije. Stanje kuće nije opisano što povećava neizvjesnost.",
+  "flags": [
+    "provjeriti: stanje kuće na terenu (nema detaljnog opisa)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "e2e239575c6d",
+  "scored_at": "2026-10-08T12:46:52.737774"
+}
