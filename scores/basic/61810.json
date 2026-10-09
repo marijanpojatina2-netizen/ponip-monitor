@@ -1,0 +1,16 @@
+{
+  "id": "61810",
+  "score_overall": 6.8,
+  "score_lokacija": 7.5,
+  "score_roi": 6.5,
+  "score_stanje": 6.0,
+  "recommendation": "bid",
+  "reasoning": "Kuća u Šestinama (Zagreb) podijeljena na više etažnih jedinica u stečajnom postupku, atraktivna zagrebačka lokacija s visokom vrijednošću, popust od 25% je osrednji za prvu dražbu. Kompleksna etažna struktura sa 4+ suvlasničkih dijelova zahtijeva detaljnu pravnu i tehničku provjeru prije ulaska.",
+  "flags": [
+    "provjeriti: status i useljenost pojedinih etažnih jedinica",
+    "provjeriti: pravna kompleksnost stečajne prodaje"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "d89d3dd96365",
+  "scored_at": "2026-10-09T12:32:58.322790"
+}

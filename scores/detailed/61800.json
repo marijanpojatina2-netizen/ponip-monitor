@@ -1,0 +1,34 @@
+{
+  "id": "61800",
+  "score_overall": 6.8,
+  "score_lokacija": 8.0,
+  "score_roi": 6.0,
+  "score_stanje": 6.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Poslovni prostor (agencija + restoran, 314,31 m2) u širem centru Poreča, komunalno opremljenom i uređenom području - jaka turistička lokacija Istre. Popust je tek 20% na prvoj dražbi bez dodatnog bonusa, ali dvojna komercijalna namjena u funkcionirajućem stanju nudi stabilan prihodovni potencijal. Ključni upitnik je nejasan suvlasnički omjer (etažno vlasništvo 's neodređenim omjerom') koji zahtijeva pravnu provjeru prije licitacije. Visoka vrijednost (>500k EUR) i kvalitetna mikrolokacija opravdavaju detaljnu analizu prije odluke.",
+  "flags": [
+    "provjeriti: suvlasnički dio s neodređenim omjerom (etažno vlasništvo) - nejasan udio vlasništva",
+    "provjeriti: u zakupu / u najmu - prostor je u funkciji kao agencija i restoran, moguće postojanje aktivnih zakupnika",
+    "provjeriti: prava koja ne prestaju prodajom - standardna zemljišnoknjižna provjera etažnih suvlasnika zgrade"
+  ],
+  "market_estimate": {
+    "eur_min": 630000,
+    "eur_max": 850000,
+    "confidence": "low",
+    "basis": "Web pretraga nije bila dostupna u ovoj sesiji (alat nije odobren), procjena se temelji na sudskoj vrijednosti (683.687 EUR / 314,31 m2 = ~2.175 EUR/m2) i općem poznavanju tržišta poslovnih prostora u širem centru Poreča, gdje se cijene poslovnih/komercijalnih prostora u 2025-2026 orijentacijski kreću 2.000-3.500 EUR/m2 ovisno o točnoj lokaciji, izloženosti i stanju. Preporuka: prije ponude ručno provjeriti aktivne oglase na nekretnine.net i njuskalo.hr za Poreč/Vukovarska."
+  },
+  "comparables": [],
+  "investment_strategy": "Iznajmljivanje - prostor već ima dvojnu komercijalnu namjenu (agencija i restoran) u turističkom centru, što ukazuje na postojeću potražnju za poslovnim prostorom na toj lokaciji; nakon pravne provjere suvlasničkog udjela i statusa zakupa, realno je zadržati postojeće poslovne korisnike uz revidirani zakup ili provesti reno-flip ako se prostor oslobodi i preuredi u turistički ugostiteljski sadržaj.",
+  "entry_price_eur": 580000,
+  "detailed_risks": [
+    "Nejasan suvlasnički omjer ('neodređeni omjer') u etažnom vlasništvu - otvara pitanje točnog opsega prava koje se stječe kupnjom",
+    "Prostor je u aktivnoj komercijalnoj upotrebi (agencija i restoran) - mogući postojeći ugovori o zakupu koji ograničavaju raspoloživost nakon kupnje",
+    "Prva dražba - cijena (546.949,6 EUR) tek je 20% ispod procjene, manji prostor za pregovaračku marginu nego na sljedećim dražbama",
+    "Status etažnog vlasništva znači suodnos s ostalim suvlasnicima zgrade (zajednički troškovi, upravljanje, eventualna ograničenja korištenja)"
+  ],
+  "upside_scenario": "Nakon pravne provjere i razrješenja suvlasničkog udjela, prostor se iznajmljuje postojećim ili novim ugostiteljskim/uslužnim zakupcima uz rastuću turističku potražnju u Poreču; u 2-3 godine vrijednost nekretnine prati rast cijena nekretnina na istarskoj obali, omogućujući prodaju na ili iznad sudske procjene od 683.687 EUR uz stabilan prinos od zakupa u međuvremenu.",
+  "downside_scenario": "Ako se nekretnina ne proda na prvoj dražbi, ide na sljedeću dražbu s nižom cijenom, ali nerazrješen suvlasnički udio i mogući postojeći zakupci nastavljaju otežavati brzu monetizaciju; otkrivanje dugoročno zaštićenog zakupca ili nepovoljnih uvjeta zakupa moglo bi significantno smanjiti stvarnu iskoristivost i likvidnost ulaganja.",
+  "discount_pct": 20.0,
+  "input_hash": "ab04db6f3edb",
+  "scored_at": "2026-10-09T12:37:36.006166"
+}

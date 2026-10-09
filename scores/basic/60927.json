@@ -1,0 +1,15 @@
+{
+  "id": "60927",
+  "score_overall": 4.4,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Nekretnina u Belom Manastiru (Baranja) s oranicom, zgradom i dvorištem, slaba lokacija u depopulacijskom području s niskom likvidnošću unatoč 40% popusta na drugoj dražbi. Nedostatak detalja o stanju objekta dodatno smanjuje investicijsku privlačnost.",
+  "flags": [
+    "provjeriti: stanje građevine na čestici"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "e09ed04e271c",
+  "scored_at": "2026-10-09T12:32:58.323719"
+}

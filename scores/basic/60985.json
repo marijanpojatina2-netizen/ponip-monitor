@@ -1,0 +1,15 @@
+{
+  "id": "60985",
+  "score_overall": 4.1,
+  "score_lokacija": 1.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Suvlasnički dio (1/3) oranice u Budanici kod Virovitice, ruralna slavonska lokacija s izrazito niskom tržišnom vrijednošću i likvidnošću unatoč 50% popusta na drugoj dražbi. Djelomično vlasništvo komplicira buduću diobu ili prodaju.",
+  "flags": [
+    "provjeriti: odnosi s ostalim suvlasnicima i mogućnost diobe nekretnine"
+  ],
+  "discount_pct": 50.0,
+  "input_hash": "bba7e28c5cfe",
+  "scored_at": "2026-10-09T12:32:58.323981"
+}

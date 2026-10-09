@@ -1,0 +1,38 @@
+{
+  "id": "61810",
+  "score_overall": 7.0,
+  "score_lokacija": 7.5,
+  "score_roi": 7.5,
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Šestine je tražena, zelena stambena zona u podnožju Medvednice s dobrom infrastrukturom i blizinom centra Zagreba, što podiže investicijsku privlačnost. Prodaje se cijela kuća već formalno podijeljena na etažno vlasništvo (E-1 do E-4+), što na prvoj dražbi s 25% popustom otvara priliku kupnje po cijeni koja implicira oko 900-1.250 EUR/m2 građevine, znatno ispod uobičajenih razina za tu mikrolokaciju. Opis je u izvoru odrezan (vidljivo je samo cca 75,56% suvlasničkih udjela), stanje objekta nije opisano, a stečajna priroda prodaje uz više odvojenih stambenih jedinica nosi dodatnu pravnu i organizacijsku kompleksnost. Zbog visoke vrijednosti (>500k EUR) i brojnih nepoznanica preporuča se detaljan due diligence prije ulaska.",
+  "flags": [
+    "provjeriti: mogući stanari/zakupci u pojedinim etažnim jedinicama (nije navedeno u opisu, čest slučaj kod stečaja stambenih zgrada)",
+    "provjeriti: cjelovitost opisa - tekst je odrezan ('...'), nejasno je obuhvaća li prodaja svih 100% suvlasničkih udjela zgrade ili samo navedenih 75,56%",
+    "provjeriti: teret na zk.ul. 6479 k.o. Šestine (hipoteke, prava trećih, služnosti)",
+    "provjeriti: stvarno fizičko stanje objekta - opis ne navodi godinu izgradnje, stanje instalacija, krova ni potrebu renovacije",
+    "provjeriti: status stečajne mase i mogući naknadni prigovori vjerovnika/bivših suvlasnika na diobu etažnog vlasništva"
+  ],
+  "market_estimate": {
+    "eur_min": 1100000,
+    "eur_max": 1700000,
+    "confidence": "low",
+    "basis": "Web search/web fetch alati nisu bili dostupni u ovoj sesiji (korisnik nije odobrio dozvolu), stoga procjena NIJE potvrđena live oglasima. Temelji se na općem poznavanju tržišta: Šestine su premium zona sjevernog Zagreba gdje se kuće/stanovi u standardnom do dobrom stanju prodaju tipično 2.500-4.000 EUR/m2. Uz procijenjenu ukupnu građevinsku površinu zgrade od cca 615 m2 (izvedeno iz navedenih udjela 465 m2 / 75,56%), tržišna vrijednost cijele zgrade (zbroj jedinica) okvirno se kreće 1,1-1,7 mil EUR, ovisno o stanju. Preporuka: prije odluke provesti live provjeru oglasa na nekretnine.net/njuskalo.hr za Šestine/Gračani/Mlinovi."
+  },
+  "comparables": [],
+  "investment_strategy": "Kupnja cijele zgrade na prvoj dražbi po cijeni ispod tržišne (576.715 EUR start vs. procijenjenih 1,1-1,7 mil EUR tržišne vrijednosti svih jedinica), a zatim - pošto su jedinice već formalno etažirane - pojedinačna prodaja (reno-flip po jedinici ili direktna preprodaja ako su useljive) na Šestine tržištu stanova/kuća. Alternativno, dugoročno iznajmljivanje pojedinih etažnih jedinica u skupoj zoni za stabilan rental prinos dok se ne optimizira izlazna strategija.",
+  "entry_price_eur": 650000,
+  "detailed_risks": [
+    "Opis je odrezan - nepoznato je obuhvaća li prodaja cijelu zgradu (100%) ili samo opisanih 75,56% suvlasničkih udjela",
+    "Nema podataka o fizičkom stanju (starost zgrade, krov, instalacije, izolacija) - rizik skrivenih troškova renovacije",
+    "Stečajna prodaja više etažnih jedinica odjednom nosi rizik kompleksnosti oko zajedničkih djelova (dvorište, prilaz, krov) i buduće uprave zgrade",
+    "Mogući postojeći stanari/zakupci u jednoj ili više jedinica nisu isključeni opisom",
+    "Velik kapitalni ulog (>576k EUR plus jamčevina 76.895 EUR) uz nesigurnost oko stvarne tržišne realizacije",
+    "Uža ulica/brdoviti teren Šestina može poskupiti dovoz materijala/opreme ako je potrebna veća renovacija"
+  ],
+  "upside_scenario": "Nakon stjecanja i formalnog uređenja vlasništva, prodaja pojedinačnih već etažiranih stanova na Šestine tržištu po 2.500-3.500 EUR/m2 u razdoblju od 18-24 mjeseca donosi ukupnu realizaciju od 1,3-1,8 mil EUR, uz solidnu profitnu marginu i iznad investicije od ~600-680k EUR plus troškovi.",
+  "downside_scenario": "Ako se otkriju neprijavljeni tereti, stanari koji odbijaju iseljenje, ili spor oko preostalog neopisanog udjela vlasništva, prodaja pojedinačnih jedinica može biti blokirana godinama, kapital od 576k-769k EUR ostaje zarobljen bez prinosa, a eventualno loše stanje konstrukcije (krov, temelji) moglo bi zahtijevati dodatna značajna ulaganja koja smanjuju ili poništavaju ROI.",
+  "discount_pct": 25.0,
+  "input_hash": "d89d3dd96365",
+  "scored_at": "2026-10-09T12:35:54.101367"
+}

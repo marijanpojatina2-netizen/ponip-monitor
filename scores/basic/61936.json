@@ -1,0 +1,15 @@
+{
+  "id": "61936",
+  "score_overall": 4.6,
+  "score_lokacija": 4.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Zgrada mješovite namjene s dvorištem u Kloštar Ivaniću, periferna lokacija uz Zagreb s ograničenom likvidnošću i tek 20% popusta na prvoj dražbi. Opis ne daje detalje o stanju objekta, pa je potreban dodatni uvid prije donošenja odluke.",
+  "flags": [
+    "provjeriti: stanje i namjena zgrade mješovite uporabe"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "27574e8d31a1",
+  "scored_at": "2026-10-09T12:32:58.323449"
+}
