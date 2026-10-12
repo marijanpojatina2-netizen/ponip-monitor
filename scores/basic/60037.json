@@ -1,0 +1,16 @@
+{
+  "id": "60037",
+  "score_overall": 5.3,
+  "score_lokacija": 6.0,
+  "score_roi": 6.5,
+  "score_stanje": 1.5,
+  "recommendation": "watch",
+  "reasoning": "Čestica u Varaždinu vodi se kao 'ulica' (cestovno zemljište) od 231 m2, treća dražba s 75% popustom donosi vrlo nisku cijenu (5.500 EUR), ali namjena parcele kao ceste ozbiljno ograničava standardnu uporabu i likvidnost. Riječ je o spekulativnoj prilici koja zahtijeva provjeru stvarne mogućnosti korištenja.",
+  "flags": [
+    "provjeriti: stvarna namjena čestice (javna cesta) i mogućnost gradnje/korištenja",
+    "treća dražba - vrlo niska cijena ali upitna likvidnost ovakve čestice"
+  ],
+  "discount_pct": 75.0,
+  "input_hash": "c455ec837317",
+  "scored_at": "2026-10-12T14:22:49.723991"
+}

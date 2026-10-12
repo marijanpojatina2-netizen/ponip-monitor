@@ -1,0 +1,16 @@
+{
+  "id": "60025",
+  "score_overall": 4.9,
+  "score_lokacija": 4.5,
+  "score_roi": 6.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Riječ je o svega 34 m2 ulične čestice u Varaždinu bez samostalne građevinske ili komercijalne vrijednosti. I uz 75% popust na trećoj dražbi, realna likvidnost ovakvog predmeta je minimalna izvan uskog kruga susjednih vlasnika.",
+  "flags": [
+    "provjeriti: stvarna namjena čestice i mogućnost prenamjene",
+    "provjeriti: interes susjednih vlasnika za otkup"
+  ],
+  "discount_pct": 75.0,
+  "input_hash": "9c936432e482",
+  "scored_at": "2026-10-12T14:23:37.565842"
+}

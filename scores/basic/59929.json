@@ -1,0 +1,16 @@
+{
+  "id": "59929",
+  "score_overall": 6.0,
+  "score_lokacija": 7.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Šestine su tražen, viši stambeni dio Zagreba, ali čestica od samo 28 m2 vrste 'voćnjak' je premala za samostalnu gradnju i ima smisla jedino kao dokup uz susjednu parcelu. Dobra lokacija djelomično kompenzira ograničenu iskoristivost, pa je ovo prije prilika za praćenje nego za aktivnu licitaciju.",
+  "flags": [
+    "provjeriti: mogućnost gradnje s obzirom na malu površinu",
+    "provjeriti: tko su susjedni vlasnici i interes za spajanje čestica"
+  ],
+  "discount_pct": 75.0,
+  "input_hash": "ea0cf9227f21",
+  "scored_at": "2026-10-12T14:23:37.565609"
+}

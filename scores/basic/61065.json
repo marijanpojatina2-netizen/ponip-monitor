@@ -1,0 +1,15 @@
+{
+  "id": "61065",
+  "score_overall": 6.3,
+  "score_lokacija": 5.5,
+  "score_roi": 7.5,
+  "score_stanje": 5.0,
+  "recommendation": "bid",
+  "reasoning": "Podrumski poslovni prostor (38,40 m2) u Varaždinu na drugoj dražbi s 50% popustom nudi atraktivan ulazni trošak u gradu srednje veličine. Manja površina i podrumska lokacija ograničavaju namjenu, no omjer cijene i potencijala je povoljan za licitaciju.",
+  "flags": [
+    "provjeriti: namjena i mogućnost preuređenja podrumskog prostora"
+  ],
+  "discount_pct": 50.0,
+  "input_hash": "4e6946050416",
+  "scored_at": "2026-10-12T14:22:49.723590"
+}

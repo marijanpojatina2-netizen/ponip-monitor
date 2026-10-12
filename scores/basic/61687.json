@@ -1,0 +1,16 @@
+{
+  "id": "61687",
+  "score_overall": 4.9,
+  "score_lokacija": 4.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Trosobni potkrovni stan od 76,70 m2 u Sisku, Novi Sisak, standardne je kvalitete uz popust od 20% na prvoj dražbi. Lokacija ima ograničenu likvidnost, a potkrovni smještaj nosi dodatni rizik stanja krovišta/izolacije.",
+  "flags": [
+    "provjeriti: useljenost/stanari u stanu",
+    "provjeriti: stanje krovišta i instalacija (potkrovlje)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "29eafa194147",
+  "scored_at": "2026-10-12T14:22:49.722628"
+}

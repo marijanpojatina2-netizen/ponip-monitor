@@ -1,0 +1,16 @@
+{
+  "id": "60041",
+  "score_overall": 4.9,
+  "score_lokacija": 4.5,
+  "score_roi": 6.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Čestica od 63 m2 upisana kao dio ulice u Varaždinu nema samostalnu investicijsku funkciju, a treća dražba s 75% popustom samo odražava nedostatak interesa tržišta za ovakav tip nekretnine. Vrijednost postoji jedino u kontekstu konsolidacije sa susjednim zemljištem.",
+  "flags": [
+    "provjeriti: stvarna namjena čestice i mogućnost prenamjene",
+    "provjeriti: interes susjednih vlasnika za otkup/spajanje"
+  ],
+  "discount_pct": 75.0,
+  "input_hash": "9095784cac67",
+  "scored_at": "2026-10-12T14:23:37.566099"
+}

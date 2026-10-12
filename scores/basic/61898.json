@@ -1,0 +1,15 @@
+{
+  "id": "61898",
+  "score_overall": 3.3,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Nekretnina u Ličkom Lešću (Gospić) sastoji se od livade i dvije zgrade u ruralnom, depopulacijskom području s niskom likvidnošću tržišta. Stanje zgrada nije opisano, a popust od 20% ne kompenzira slab lokacijski i tržišni potencijal.",
+  "flags": [
+    "provjeriti: stanje i legalnost dviju zgrada (158 m2)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "42ec5144c639",
+  "scored_at": "2026-10-12T14:22:49.723053"
+}

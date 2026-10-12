@@ -1,0 +1,16 @@
+{
+  "id": "60033",
+  "score_overall": 4.9,
+  "score_lokacija": 4.5,
+  "score_roi": 6.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Parcela je uknjižena kao 'ulica' (prometna/infrastrukturna čestica) u Varaždinu, što praktički isključuje samostalnu gradnju ili drugu komercijalnu upotrebu. Visok popust od 75% na trećoj dražbi ne znači stvarnu priliku jer je tržište za takav tip čestice gotovo nepostojeće osim prodaje susjednim vlasnicima.",
+  "flags": [
+    "provjeriti: stvarna namjena čestice i mogućnost prenamjene",
+    "provjeriti: interes susjednih vlasnika za otkup/spajanje čestica"
+  ],
+  "discount_pct": 75.0,
+  "input_hash": "c175c6713989",
+  "scored_at": "2026-10-12T14:23:37.565271"
+}

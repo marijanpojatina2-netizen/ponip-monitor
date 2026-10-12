@@ -1,0 +1,16 @@
+{
+  "id": "61906",
+  "score_overall": 4.8,
+  "score_lokacija": 6.0,
+  "score_roi": 5.0,
+  "score_stanje": 2.5,
+  "recommendation": "watch",
+  "reasoning": "Zemljište (livada) na Savskoj cesti u Sesvetama (Zagreb) ima dobru lokaciju, ali predmet je samo suvlasnički dio (11905/22650) neizgrađene parcele iz stečajne mase. Popust od 25% je solidan, ali nedostatak izgrađenosti i podijeljeno vlasništvo smanjuju privlačnost za brzi ROI.",
+  "flags": [
+    "provjeriti: suvlasništvo - udio ostalih suvlasnika i mogućnost diobe/prodaje cjeline",
+    "provjeriti: namjena i gradivost zemljišta (livada)"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "5cc61fb69673",
+  "scored_at": "2026-10-12T14:22:49.722379"
+}

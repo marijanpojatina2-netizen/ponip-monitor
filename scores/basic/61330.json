@@ -1,0 +1,16 @@
+{
+  "id": "61330",
+  "score_overall": 5.8,
+  "score_lokacija": 7.5,
+  "score_roi": 6.0,
+  "score_stanje": 2.5,
+  "recommendation": "bid",
+  "reasoning": "Maslinjak i pripadajuća čestica u Gornjem Selu na Šolti (blizu Splita) nalaze se u traženoj turističkoj zoni uz nisku ulaznu cijenu (18.421 EUR) i popust od 20%. Nekretnina je neizgrađeno poljoprivredno zemljište, ali kombinacija lokacije i male investicije čini je zanimljivim kandidatom za licitaciju.",
+  "flags": [
+    "provjeriti: mogućnost gradnje/legalizacije na maslinjaku",
+    "provjeriti: suvlasnički 1/2 dio na čestici 4639 - odnos s drugim suvlasnikom"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "abc8da25320f",
+  "scored_at": "2026-10-12T14:22:49.723725"
+}
