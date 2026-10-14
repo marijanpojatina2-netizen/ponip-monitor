@@ -1,0 +1,16 @@
+{
+  "id": "61930",
+  "score_overall": 7.3,
+  "score_lokacija": 9.0,
+  "score_roi": 7.0,
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Veliko građevinsko zemljište (2032 m2) u Tribunju, vrhunskoj turističkoj zoni uz Vodice, s solidnim popustom od 20% na prvoj dražbi. Zemljište je neizgrađeno i zaraslo pa realizacija ROI-a ovisi o urbanističkom statusu i mogućnosti gradnje, što treba detaljno provjeriti.",
+  "flags": [
+    "provjeriti: urbanističko-pravni status i mogućnost gradnje",
+    "provjeriti: komunalna infrastruktura i pristup parcelama"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "8f384f947cbc",
+  "scored_at": "2026-10-14T11:09:11.347501"
+}

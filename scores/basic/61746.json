@@ -1,0 +1,16 @@
+{
+  "id": "61746",
+  "score_overall": 3.6,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Radi se o suvlasničkom udjelu 4/16 na čestici koja je put (pristupna cesta) od samo 170 m2 u ruralnom Zagorju, utvrđene vrijednosti tek 537 EUR, što praktički nema samostalnu investicijsku vrijednost. Prva dražba s tek 20% popusta i nefunkcionalna namjena čestice (put, ne građevinsko/stambeno) uz suvlasništvo čine likvidnost i iskoristivost minimalnima.",
+  "flags": [
+    "provjeriti: suvlasnički udio 4/16 - otežano raspolaganje i prodaja bez suglasnosti ostalih suvlasnika",
+    "provjeriti: namjena čestice je put - ograničena samostalna gospodarska iskoristivost"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "d171ffff9fad",
+  "scored_at": "2026-10-14T11:09:33.699909"
+}

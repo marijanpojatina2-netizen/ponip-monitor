@@ -1,0 +1,16 @@
+{
+  "id": "61554",
+  "score_overall": 4.8,
+  "score_lokacija": 4.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Poslovni prostori u trgovačkom centru u Slavonskom Brodu s popustom od 25%, ali prodaje se samo suvlasnički udio 1/42 cijele zgrade. Tako sitan udio drastično ograničava kontrolu, upotrebljivost i likvidnost ulaganja bez obzira na nominalni popust.",
+  "flags": [
+    "sitan suvlasnički udio (1/42) ograničava kontrolu i likvidnost",
+    "provjeriti: mogućnost objedinjavanja ili iznajmljivanja etažnog udjela"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "c5df71944af7",
+  "scored_at": "2026-10-14T11:09:11.347818"
+}

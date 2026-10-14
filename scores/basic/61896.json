@@ -1,0 +1,15 @@
+{
+  "id": "61896",
+  "score_overall": 3.6,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Više manjih čestica u Jasenovcu, depopulacijskom području Sisačko-moslavačke županije, uz nisku ukupnu vrijednost i popust od 20%. Na jednoj od čestica prodaje se samo 1/2 suvlasničkog dijela, što dodatno komplicira upotrebu i prodaju cjeline.",
+  "flags": [
+    "prodaje se samo 1/2 suvlasničkog dijela čestice kčbr. 1020/3"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "d470e91b65e9",
+  "scored_at": "2026-10-14T11:09:11.349122"
+}

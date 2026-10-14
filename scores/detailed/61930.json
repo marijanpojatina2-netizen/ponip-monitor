@@ -1,0 +1,35 @@
+{
+  "id": "61930",
+  "score_overall": 6.1,
+  "score_lokacija": 7.5,
+  "score_roi": 6.0,
+  "score_stanje": 4.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Tribunj je tražena mala obalna destinacija na šibenskoj rivijeri (marina, blizina Vodica i Šibenika), što nosi solidnu dugoročnu vrijednost zemljišta. Radi se o prvoj dražbi s tek 20% popusta, cijena po m2 (~214-267 EUR/m2 na poč./proc. vrijednost) je tržišno uobičajena za tu lokaciju ako je zemljište stvarno gradivo, no opis ne navodi eksplicitno namjenu/urbanistički status niti terete, što je ključna nepoznanica. Zbog velike vrijednosti (>500K) i dobre lokacije zaslužuje detaljnu due diligence prije licitacije.",
+  "flags": [
+    "provjeriti: namjena zemljišta prema prostornom planu (je li gradivo zemljište ili poljoprivredno/zaštićeno)",
+    "provjeriti: postoje li tereta, hipoteke ili prava trećih u zk.ul. 3068 k.o. Tribunj (opis je odsječen/nepotpun)",
+    "provjeriti: pristupni putovi i komunalna infrastruktura (voda/struja/odvodnja) do čestica 1272/21, 1272/22, 1272/23",
+    "provjeriti: moguće susjedske/granične nesuglasice s obzirom na detaljan opis zidova i ograda između čestica"
+  ],
+  "market_estimate": {
+    "eur_min": 450000,
+    "eur_max": 650000,
+    "confidence": "low",
+    "basis": "Procjena temeljena na općem poznavanju cijena građevinskog zemljišta u Tribunju/Vodicama (okvirno 200-350 EUR/m2 za gradivo zemljište bliže naselju/moru u 2025-2026), bez live pretrage tržišta jer web_search alat nije bio dostupan u ovoj sesiji. Sudska procjena (~267 EUR/m2) je unutar uobičajenog raspona, pod uvjetom da je zemljište potvrđeno gradivo."
+  },
+  "comparables": [],
+  "investment_strategy": "Ako se potvrdi da je zemljište gradivo i bez tereta, strategija je kupnja i razvoj (parcelacija/izgradnja vila ili apartmana za turistički najam) s obzirom na blizinu mora i marine u Tribunju; alternativno, dugoročno zadržavanje zemljišta kao hedge na rast cijena u turističkoj zoni (land banking).",
+  "entry_price_eur": 420000,
+  "detailed_risks": [
+    "Nepotpun opis iz sudskog spisa (tekst je odsječen) - nedostaju informacije o teretima i urbanističkom statusu",
+    "Zemljište je opisano kao zaraslo niskim i srednjim raslinjem - trošak čišćenja i eventualne geodetske usluge prije gradnje",
+    "Tri odvojene katastarske čestice - potencijalna komplikacija s objedinjavanjem/parcelacijom za gradnju",
+    "Nepoznat status komunalne infrastrukture i konkretnog urbanističkog plana za lokaciju"
+  ],
+  "upside_scenario": "Potvrda gradivosti i čistog vlasništva otvara mogućnost brze preprodaje nakon ishođenja dozvole ili razvoja manjeg turističkog objekta, uz potencijalni rast vrijednosti 20-30% u 2-3 godine zbog stabilne potražnje za zemljištem na šibenskoj rivijeri.",
+  "downside_scenario": "Ako se ispostavi da zemljište nije gradivo (poljoprivredna namjena) ili postoje neriješeni tereti/pristupni problemi, investicija postaje nelikvidna i vrijednost stagnira ili pada ispod kupovne cijene, uz dodatne troškove pravnog rješavanja.",
+  "discount_pct": 20.0,
+  "input_hash": "8f384f947cbc",
+  "scored_at": "2026-10-14T11:10:47.685250"
+}

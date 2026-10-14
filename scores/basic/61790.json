@@ -1,0 +1,16 @@
+{
+  "id": "61790",
+  "score_overall": 4.7,
+  "score_lokacija": 7.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Nekretnina u Kastvu kraj Rijeke, atraktivnoj lokaciji, prodaje se u stečajnom postupku uz popust od 25% i nisku početnu cijenu. Opis je nejasan o točnom opsegu predmeta prodaje a suvlasnički dio je upisan s neodređenim omjerom, što iziskuje detaljnu pravnu analizu prije licitacije.",
+  "flags": [
+    "sporno vlasništvo - suvlasnički dio upisan s neodređenim omjerom",
+    "provjeriti: točan opseg nekretnine koja se prodaje (poslovni prostor vs. cijela zgrada)"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "ecd41f69edb2",
+  "scored_at": "2026-10-14T11:09:11.348513"
+}
