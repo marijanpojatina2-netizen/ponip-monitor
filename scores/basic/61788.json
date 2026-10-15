@@ -1,0 +1,16 @@
+{
+  "id": "61788",
+  "score_overall": 4.0,
+  "score_lokacija": 4.5,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Susjedna čestica istog tipa (oranica Vrhovljan, Sveti Martin na Muri) s identičnim obrascem - mali suvlasnički udio i nizak popust od 20%. Nekretnina je čisto zemljište bez razvijene infrastrukture i niske apsolutne vrijednosti.",
+  "flags": [
+    "suvlasništvo ½ dijela",
+    "mali financijski obujam - ograničen ROI potencijal"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "81eef0f8fff8",
+  "scored_at": "2026-10-15T10:50:31.570632"
+}

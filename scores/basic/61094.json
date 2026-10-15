@@ -1,0 +1,15 @@
+{
+  "id": "61094",
+  "score_overall": 5.7,
+  "score_lokacija": 4.5,
+  "score_roi": 7.0,
+  "score_stanje": 5.0,
+  "recommendation": "bid",
+  "reasoning": "Kuća s gospodarskom zgradom i dvorištem u Zagorju (Jezero Klanječko) na drugoj dražbi s 40% popusta predstavlja solidan omjer cijene i realne nekretnine za stanovanje. Nedostaje detalj o useljivosti objekta, što treba provjeriti prije ozbiljnije ponude.",
+  "flags": [
+    "provjeriti: stanje kuće i gospodarske zgrade / useljivost"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "ee282728216d",
+  "scored_at": "2026-10-15T10:50:31.569877"
+}

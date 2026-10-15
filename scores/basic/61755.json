@@ -1,0 +1,16 @@
+{
+  "id": "61755",
+  "score_overall": 3.6,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Radi se o suvlasničkom ½ dijelu oranice u ruralnom području kraj Kutine, prva dražba s tek 20% popusta i bez infrastrukture za razvoj. Suvlasništvo dodatno otežava realizaciju i upravljanje nekretninom.",
+  "flags": [
+    "suvlasništvo ½ dijela - otežana prodaja/realizacija cjeline",
+    "provjeriti: mogućnost diobe ili izlučenja suvlasničkog dijela"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "90893a9362c9",
+  "scored_at": "2026-10-15T10:50:31.569728"
+}

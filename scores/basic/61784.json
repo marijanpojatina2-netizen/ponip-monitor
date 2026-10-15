@@ -1,0 +1,16 @@
+{
+  "id": "61784",
+  "score_overall": 4.0,
+  "score_lokacija": 4.5,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Mali suvlasnički udio u oranici vrlo niske apsolutne vrijednosti s tek 20% popusta ne nudi značajan investicijski potencijal. Suvlasništvo i mali financijski obujam dodatno smanjuju privlačnost za aktivnu kupnju.",
+  "flags": [
+    "suvlasništvo ½ dijela",
+    "mali financijski obujam - ograničen ROI potencijal"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "811f6914ddaa",
+  "scored_at": "2026-10-15T10:50:31.570268"
+}

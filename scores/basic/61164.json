@@ -1,0 +1,16 @@
+{
+  "id": "61164",
+  "score_overall": 5.2,
+  "score_lokacija": 2.5,
+  "score_roi": 8.0,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Izuzetan popust od 50% na drugoj dražbi čini ulaznu cijenu vrlo niskom, ali Mikleuš je ruralno depopulacijsko područje slabe likvidnosti. Nema podataka o stanju zgrade, a radi se o stečajnoj imovini pa treba provjeriti eventualna dodatna opterećenja.",
+  "flags": [
+    "provjeriti: stanje objekta (nema opisa)",
+    "provjeriti: eventualna opterećenja iz stečajnog postupka"
+  ],
+  "discount_pct": 50.0,
+  "input_hash": "818118f67873",
+  "scored_at": "2026-10-15T10:50:31.569256"
+}

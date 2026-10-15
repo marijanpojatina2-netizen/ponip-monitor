@@ -1,0 +1,15 @@
+{
+  "id": "61962",
+  "score_overall": 4.6,
+  "score_lokacija": 4.5,
+  "score_roi": 5.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Mala gradska kuća u Vinkovcima na prvoj dražbi s tek 20% popusta, što ostavlja ograničen prostor za ROI. Opis ne navodi stanje nekretnine pa je potrebna provjera prije eventualne ponude.",
+  "flags": [
+    "provjeriti: stanje kuće (nema opisa u oglasu)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "76f75ad9d3ae",
+  "scored_at": "2026-10-15T10:50:31.569406"
+}

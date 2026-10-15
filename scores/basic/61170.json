@@ -1,0 +1,15 @@
+{
+  "id": "61170",
+  "score_overall": 6.5,
+  "score_lokacija": 6.5,
+  "score_roi": 7.5,
+  "score_stanje": 4.0,
+  "recommendation": "bid",
+  "reasoning": "Zemljište (livada/oranica) na atraktivnoj gradskoj lokaciji u Rijeci (Drenova), uz 40% popusta na drugoj dražbi. Ključno je prije licitacije provjeriti prostorno-plansku namjenu jer je trenutno poljoprivredno zemljište.",
+  "flags": [
+    "provjeriti: namjena zemljišta prema prostornom planu (poljoprivredno vs. građevinsko)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "fab97814b339",
+  "scored_at": "2026-10-15T10:50:31.568988"
+}
