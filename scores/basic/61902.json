@@ -1,0 +1,16 @@
+{
+  "id": "61902",
+  "score_overall": 5.2,
+  "score_lokacija": 7.0,
+  "score_roi": 5.0,
+  "score_stanje": 2.5,
+  "recommendation": "watch",
+  "reasoning": "Objekt u povijesnoj jezgri Labina bez sanitarnog čvora, instalacija i prozora zahtijeva potpunu rekonstrukciju unatoč dobroj istarskoj lokaciji i tek 20% popustu na prvoj dražbi. Susjedstvo s nekretninom ID 61900 (ista k.o. i ulica) moglo bi omogućiti sinergiju kod zajedničke kupnje, no opis je odrezan pa treba provjeriti preostale terete.",
+  "flags": [
+    "zaštićeno kulturno dobro (ograničenja radova)",
+    "provjeriti: opis odrezan - provjeriti terete do kraja isprave"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "2e49133bf345",
+  "scored_at": "2026-10-16T10:40:53.498407"
+}

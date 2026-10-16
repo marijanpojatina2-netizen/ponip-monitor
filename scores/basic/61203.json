@@ -1,0 +1,16 @@
+{
+  "id": "61203",
+  "score_overall": 4.6,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Ruralni kompleks u Maloj Pisanici (kuća, dvorište i više poljoprivrednih čestica) nudi 40% popust, ali nalazi se u depopulacijskom području Bjelovarsko-bilogorske županije sa slabom likvidnošću. Stanje kuće nije detaljno opisano pa treba provjeriti useljenost i stvarno stanje objekta.",
+  "flags": [
+    "provjeriti: useljenost kuće",
+    "provjeriti: stanje objekta (nije detaljno opisano)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "79e16176df45",
+  "scored_at": "2026-10-16T10:40:53.497928"
+}

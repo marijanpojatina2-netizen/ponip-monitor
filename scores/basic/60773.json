@@ -1,0 +1,16 @@
+{
+  "id": "60773",
+  "score_overall": 5.6,
+  "score_lokacija": 6.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Zaprešić je tražena satelitska lokacija uz Zagreb, a 40% popust na drugoj dražbi daje solidan potencijal, no radi se o 'rohbau' poslovnom prostoru koji zahtijeva potpuno dovršenje. Suvlasnički dio s neodređenim omjerom dodatno komplicira vlasničku strukturu.",
+  "flags": [
+    "provjeriti: status dovršenosti objekta (rohbau)",
+    "provjeriti: suvlasnički dio s neodređenim omjerom"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "e558d00fb038",
+  "scored_at": "2026-10-16T10:41:38.715669"
+}

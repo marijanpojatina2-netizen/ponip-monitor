@@ -1,0 +1,15 @@
+{
+  "id": "61025",
+  "score_overall": 5.1,
+  "score_lokacija": 4.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Mala čestica (234 m2) u ruralnom zaleđu Splita (Tugare), u naravi travnati pokos i rampa, bez razvojnog potencijala. Prodaju se samo frakcijski suvlasnički udjeli (1/20 i 1/2), što otežava stjecanje punog vlasništva i buduću likvidaciju.",
+  "flags": [
+    "provjeriti: fragmentirano suvlasništvo (1/20 i 1/2 dijela)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "24c9d905bcf9",
+  "scored_at": "2026-10-16T10:41:38.716059"
+}

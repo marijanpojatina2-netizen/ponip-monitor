@@ -1,0 +1,16 @@
+{
+  "id": "61238",
+  "score_overall": 5.2,
+  "score_lokacija": 3.0,
+  "score_roi": 7.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Industrijska nekretnina 'Energana Alpha' u Našicama nudi izniman 50% popust na drugoj dražbi, no namjenska (single-purpose) priroda objekta i slaba likvidnost slavonskog tržišta ograničavaju brzu preprodaju. Potrebno je utvrditi tehničko stanje postrojenja i mogućnost alternativne namjene prije ulaganja.",
+  "flags": [
+    "provjeriti: tehnička ispravnost opreme/postrojenja energane",
+    "provjeriti: mogućnost alternativne namjene objekta"
+  ],
+  "discount_pct": 50.0,
+  "input_hash": "93e6428dd4b6",
+  "scored_at": "2026-10-16T10:40:53.497512"
+}

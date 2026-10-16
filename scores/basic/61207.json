@@ -1,0 +1,16 @@
+{
+  "id": "61207",
+  "score_overall": 4.5,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Portfelj od više poljoprivrednih čestica i ruralne kuće u Velikom Grđevcu nudi 40% popust na drugoj dražbi uz vrlo nisku apsolutnu cijenu (54.058 EUR), što privlači ulagače u zemljišni fond. Depopulacijsko područje i neopisano stanje kuće/gospodarske zgrade smanjuju brzinu unovčenja, pa treba provjeriti stanje objekata i eventualnu useljenost.",
+  "flags": [
+    "provjeriti: stanje kuće i gospodarske zgrade",
+    "provjeriti: useljenost/posjed nekretnine"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "ed482d015e1e",
+  "scored_at": "2026-10-16T10:40:53.498640"
+}

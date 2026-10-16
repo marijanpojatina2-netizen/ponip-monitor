@@ -1,0 +1,15 @@
+{
+  "id": "61124",
+  "score_overall": 5.6,
+  "score_lokacija": 6.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Unatoč dobroj gradskoj lokaciji u Varaždinu, predmet dražbe je spremište od svega 1,70 m2 što praktički onemogućava samostalnu iskoristivost ili daljnju prodaju. Apsolutna vrijednost transakcije je zanemariva za investicijski portfelj.",
+  "flags": [
+    "provjeriti: praktična iskoristivost zasebnog dijela od 1,7 m2"
+  ],
+  "discount_pct": 50.0,
+  "input_hash": "ad3646ee5583",
+  "scored_at": "2026-10-16T10:41:38.716723"
+}

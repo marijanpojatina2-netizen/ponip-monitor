@@ -1,0 +1,15 @@
+{
+  "id": "61158",
+  "score_overall": 4.8,
+  "score_lokacija": 3.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Velika oranica (4,37 ha) kod Osijeka s 40% popusta na drugoj dražbi zanimljiva je prvenstveno poljoprivrednim investitorima, ne i klasičnim stambeno-poslovnim ulagačima. Treba provjeriti je li zemljište trenutno u zakupu kod poljoprivrednih proizvođača.",
+  "flags": [
+    "provjeriti: je li zemljište u zakupu kod poljoprivrednika"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "0f50947f5833",
+  "scored_at": "2026-10-16T10:40:53.497658"
+}
