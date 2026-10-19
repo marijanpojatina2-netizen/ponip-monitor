@@ -1,0 +1,16 @@
+{
+  "id": "61213",
+  "score_overall": 4.7,
+  "score_lokacija": 3.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Nekretnina u Bakovčici kraj Koprivnice nalazi se u ruralnom, depopulacijskom području s niskom vrijednošću i vjerojatno slabom potražnjom unatoč 40% popustu. Mali stambeni i gospodarski objekti bez navedenog stanja upućuju na slab investicijski case za aktivnu licitaciju.",
+  "flags": [
+    "provjeriti: stanje stambene i gospodarske zgrade",
+    "provjeriti: pristupnost i komunalna infrastruktura lokacije"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "5c768e9b666a",
+  "scored_at": "2026-10-19T12:03:28.477029"
+}

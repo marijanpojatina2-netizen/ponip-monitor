@@ -1,0 +1,36 @@
+{
+  "id": "60943",
+  "score_overall": 6.6,
+  "score_lokacija": 7.0,
+  "score_roi": 7.5,
+  "score_stanje": 4.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Građevinsko zemljište od 2 290 m2 u k.o. Trogir, traženoj turističkoj mikroregiji blizu Splita i zračne luke, nudi se na drugoj dražbi s 40% popustom (323 400 EUR, ~141 EUR/m2) naspram procijenjenih 539 000 EUR (~235 EUR/m2), što je znatno ispod tipičnih cijena građevinskog zemljišta u trogirskom području. Zemljište je ravno i formalno građevinsko, ali zapušteno (obraslo travom i dračom) i bez naznaka komunalne opremljenosti ili potvrđenog urbanističkog statusa (dozvoljena gradnja, koeficijent izgrađenosti), što zahtijeva terensku i pravnu provjeru prije licitacije. Zbog kombinacije velikog diskonta, dobre makrolokacije i otvorenih nepoznanica oko mikrolokacije i gradivosti, slučaj zaslužuje detaljnu due diligence analizu (deep_dive) prije donošenja odluke o ponudi.",
+  "flags": [
+    "provjeriti: točna mikrolokacija parcele unutar k.o. Trogir (blizina mora/centra vs. periferija)",
+    "provjeriti: urbanistički status i građevinska dozvoljenost (DPU/GUP, koeficijent izgrađenosti)",
+    "provjeriti: komunalna opremljenost (struja, voda, odvodnja, pristupni put)",
+    "provjeriti: eventualna prava trećih osoba ili tereti na zk.ul. 5446"
+  ],
+  "market_estimate": {
+    "eur_min": 350000,
+    "eur_max": 650000,
+    "confidence": "low",
+    "basis": "Web pretraga nije bila dostupna u ovoj sesiji (alat odbijen), stoga je raspon procijenjen na temelju općeg poznavanja tržišta građevinskog zemljišta u trogirskom području (okvirno 150-280 EUR/m2 za zemljište bez potvrđene blizine mora i bez potvrđene pune komunalne opremljenosti), primijenjenog na površinu od 2 290 m2. Procjenu treba potvrditi stvarnim usporedivim oglasima prije donošenja odluke."
+  },
+  "comparables": [],
+  "investment_strategy": "razvoj / preprodaja nakon potvrde gradivosti - kupnja po diskontiranoj cijeni, ishođenje/potvrda urbanističke dokumentacije i komunalnog priključka, potom ili prodaja kao 'spremno za gradnju' zemljište uz premiju, ili razvoj manjeg stambeno-turističkog projekta s obzirom na blizinu Trogira i Splita",
+  "entry_price_eur": 370000,
+  "detailed_risks": [
+    "Nepoznat točan urbanistički status i mogućnost dobivanja građevinske dozvole",
+    "Nepotvrđena komunalna infrastruktura (struja, voda, pristupni put) što može bitno podići troškove privođenja namjeni",
+    "Nejasna mikrolokacija unutar šire k.o. Trogir - razlika u vrijednosti između priobalne i periferne pozicije je značajna",
+    "Mogući dodatni troškovi geodetske parcelacije/usklađenja prije gradnje",
+    "Razgledavanje isključivo uz prethodni dogovor sa sudskim ovršiteljem - ograničena mogućnost samostalne terenske provjere prije dražbe"
+  ],
+  "upside_scenario": "Ako se u idućih 2-3 godine potvrdi puna gradivost i komunalna opremljenost, uz nastavak rasta turističke potražnje u trogirskom području, zemljište bi moglo dostići ili premašiti procijenjenih 539 000 EUR te omogućiti profitabilnu izgradnju ili preprodaju uz maržu od 40-70% iznad ulazne cijene.",
+  "downside_scenario": "Ako zemljište nema realnu mogućnost brzog ishođenja građevinske dozvole ili zahtijeva velika ulaganja u komunalnu infrastrukturu i pristupne putove, kapital ostaje zamrznut u nelikvidnoj investiciji, a izlazak uz profit postaje neizvjestan bez značajnog dodatnog ulaganja i vremena.",
+  "discount_pct": 40.0,
+  "input_hash": "bea130c42302",
+  "scored_at": "2026-10-19T12:06:22.341904"
+}

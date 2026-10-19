@@ -1,0 +1,16 @@
+{
+  "id": "61942",
+  "score_overall": 5.1,
+  "score_lokacija": 6.0,
+  "score_roi": 5.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Velika čestica (8869 m2) u Zagrebu s fragmentiranim izgrađenim površinama ukazuje na neobičnu povijest korištenja (moguće bivši gospodarski/komunalni kompleks), a prva dražba s tek 20% popusta ne daje veliki ROI prostor. Potencijal postoji kroz veličinu i lokaciju, ali namjena i gradivost zemljišta moraju se provjeriti prije ulaganja.",
+  "flags": [
+    "provjeriti: namjena i gradivost zemljišta te stvarna funkcija izgrađenih fragmenata",
+    "provjeriti: postoji li netko tko stanuje ili koristi objekte na zemljištu"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "dbddef74cf2e",
+  "scored_at": "2026-10-19T12:03:28.475953"
+}

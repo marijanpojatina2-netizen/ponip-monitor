@@ -1,0 +1,16 @@
+{
+  "id": "62026",
+  "score_overall": 5.0,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Nekretnina u Peklenici je u ruralnom, slabije traženom području s ograničenom likvidnošću tržišta, iako 40% popusta na drugoj dražbi djelomično kompenzira nizak potencijal rasta vrijednosti. Stanje kuće nije detaljno opisano, što uz lokaciju snižava prioritet za aktivno uključivanje.",
+  "flags": [
+    "provjeriti: stanje kuće i gospodarskih objekata",
+    "provjeriti: stvarna likvidnost lokalnog ruralnog tržišta"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "65a046acd476",
+  "scored_at": "2026-10-19T12:03:28.476783"
+}

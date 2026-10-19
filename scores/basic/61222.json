@@ -1,0 +1,15 @@
+{
+  "id": "61222",
+  "score_overall": 6.7,
+  "score_lokacija": 7.0,
+  "score_roi": 7.5,
+  "score_stanje": 4.5,
+  "recommendation": "bid",
+  "reasoning": "Kamena kuća u Solinu kraj Splita na drugoj dražbi s 40% popustom nudi solidan omjer cijene i lokacije uz blizinu Splita. Nekretnina je pravno uredna (upisana, legalna unatoč nedostatku uporabne dozvole), ali zahtijeva temeljitiju obnovu zbog starosti objekta.",
+  "flags": [
+    "provjeriti: strukturno stanje kamene kuće i procjena troškova obnove"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "4c133446e370",
+  "scored_at": "2026-10-19T12:03:28.476410"
+}

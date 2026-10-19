@@ -1,0 +1,37 @@
+{
+  "id": "61942",
+  "score_overall": 5.2,
+  "score_lokacija": 5.0,
+  "score_roi": 6.0,
+  "score_stanje": 4.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Veliko zemljište (8869 m2) na periferiji Grada Zagreba prema Velikoj Gorici, pretežno vrt (8681 m2) s nekoliko minijaturnih izgrađenih čestica (ukupno ~188 m2) koje vjerojatno predstavljaju gospodarske objekte, ne useljivu kuću. Prva dražba uz tek 20% popusta ne daje veliku sigurnosnu marginu, a ključni value-driver je namjena zemljišta (građevinsko vs. poljoprivredno) koja iz opisa nije jasna. Zbog velike površine i potencijalne razvojne vrijednosti u rastućoj zoni Zagreb-Velika Gorica, zaslužuje detaljnu provjeru prije odluke o licitaciji.",
+  "flags": [
+    "provjeriti: namjena zemljišta prema važećem GUP-u/UPU-u (građevinsko vs. poljoprivredno)",
+    "provjeriti: postojanje građevinske/uporabne dozvole za izgrađene dijelove",
+    "provjeriti: pristupni put i komunalna infrastruktura (struja, voda, kanalizacija)",
+    "provjeriti: suvlasnički odnosi s obzirom na više manjih izgrađenih čestica",
+    "provjeriti: stvarno stanje i namjena malih objekata (šupe/gospodarske zgrade)"
+  ],
+  "market_estimate": {
+    "eur_min": 700000,
+    "eur_max": 1100000,
+    "confidence": "low",
+    "basis": "Web pretraga nije bila dostupna u ovoj sesiji (odbijena dozvola za WebSearch), stoga nema konkretnih oglasa za usporedbu. Procjena temeljena isključivo na sudskoj vrijednosti (~117 EUR/m2 za cijelu parcelu) i općem poznavanju cijena građevinskog/vrtnog zemljišta na periferiji Zagreba prema Velikoj Gorici (tipično 50-200 EUR/m2 ovisno o namjeni). Preporuka: ponoviti procjenu uz pristup web pretrazi."
+  },
+  "comparables": [],
+  "investment_strategy": "Land banking / razvoj — ovisno o potvrdi namjene zemljišta. Ako je parcela u građevinskom području, strategija je parcelacija i prodaja građevinskih čestica ili razvoj uz rast urbanizacije na koridoru Zagreb-Velika Gorica. Ako je poljoprivredno zemljište, realna opcija je dugoročno držanje do promjene prostornog plana ili prodaja kao vrt/okućnica, uz nižu likvidnost.",
+  "entry_price_eur": 650000,
+  "detailed_risks": [
+    "Nejasna namjena zemljišta direktno određuje realnu vrijednost (razlika između građevinskog i poljoprivrednog zemljišta može biti i 5-10x)",
+    "Velik broj malih izgrađenih čestica (6 odvojenih parcela po nekoliko m2 do 63 m2) ukazuje na kompleksnu povijest vlasništva, mogući rizik od sporova ili tereta",
+    "Nizak postotak popusta na prvoj dražbi (20%) ne pokriva rizik neizvjesnosti razvoja",
+    "Nekretnina kao veliko zemljište ima nižu likvidnost od stambenih jedinica — teže ju je brzo preprodati",
+    "Nema podataka o eventualnim pravima trećih osoba ili teretima u zemljišnoj knjizi izvan navedenog"
+  ],
+  "upside_scenario": "Ako se potvrdi da je zemljište (ili dio njega) u građevinskom području s mogućnošću parcelacije, investitor može unutar 2-3 godine postići vrijednost od 200+ EUR/m2 (ukupno 1.7M+ EUR) prodajom pojedinačnih građevinskih čestica ili cijele parcele razvojnom investitoru, uz rast potražnje za zemljištem na južnom rubu Zagreba.",
+  "downside_scenario": "Ako je zemljište ostaje u poljoprivrednoj/zaštićenoj namjeni bez mogućnosti gradnje, investitor ostaje s nelikvidnim vrtnim zemljištem čija je tržišna vrijednost znatno niža od sudske procjene, s minimalnim mogućnostima brzog izlaska iz investicije.",
+  "discount_pct": 20.0,
+  "input_hash": "dbddef74cf2e",
+  "scored_at": "2026-10-19T12:04:54.062820"
+}

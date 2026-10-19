@@ -1,0 +1,16 @@
+{
+  "id": "61220",
+  "score_overall": 6.8,
+  "score_lokacija": 7.0,
+  "score_roi": 7.5,
+  "score_stanje": 5.0,
+  "recommendation": "bid",
+  "reasoning": "Mali stan u Rijeci na drugoj dražbi s 40% popustom je likvidan tip nekretnine u relevantnom urbanom tržištu, pogodan za iznajmljivanje. Opis ne navodi stanje stana niti eventualnu useljenost, pa je potrebna dodatna provjera prije licitacije.",
+  "flags": [
+    "provjeriti: fizičko stanje stana (opis ne navodi detalje)",
+    "provjeriti: je li stan useljen ili u zakupu"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "d6fa0698c72a",
+  "scored_at": "2026-10-19T12:03:28.476542"
+}
