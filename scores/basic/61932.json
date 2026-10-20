@@ -1,0 +1,16 @@
+{
+  "id": "61932",
+  "score_overall": 6.5,
+  "score_lokacija": 7.0,
+  "score_roi": 6.5,
+  "score_stanje": 5.5,
+  "recommendation": "bid",
+  "reasoning": "Stan od 66,42 m2 u Novom Zagrebu (Zaprudski otok/Vijenac Frane Gotovca) uz likvidno gradsko tržište i popust od 25% na prvoj dražbi predstavlja realan ROI kandidat. Radi se o stečajnoj prodaji pa treba provjeriti postoji li zakup ili osoba koja stanuje u stanu.",
+  "flags": [
+    "provjeriti: stečajna prodaja - mogući zakup ili stanovanje treće osobe",
+    "provjeriti: stanje stana (nije opisano)"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "5aedd8415ad0",
+  "scored_at": "2026-10-20T10:54:39.435481"
+}

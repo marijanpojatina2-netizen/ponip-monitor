@@ -1,0 +1,44 @@
+{
+  "id": "61984",
+  "score_overall": 6.2,
+  "score_lokacija": 7.5,
+  "score_roi": 6.0,
+  "score_stanje": 4.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Preko na otoku Ugljanu je tražena lokacija unutar zadarskog arhipelaga (trajektna/katamaranska veza do Zadra ~20-25 min, razvijen turizam), što nekretninu čini zanimljivom unatoč tome što je riječ tek o prvoj dražbi s umjerenim popustom od 20%. Opis ne sadrži nikakve podatke o stanju objekta, useljenosti ili teretima, pa je prije licitacije nužan terenski due diligence i uvid u zemljišne knjige. Vrijednost objekta (>500k EUR) i kombinacija zgrade (102 m2) i dvorišta (73 m2) ukazuju na potencijal za reno-flip ili turistički najam, ali bez poznavanja stvarnog stanja i udaljenosti od mora procjena nosi povećanu neizvjesnost.",
+  "flags": [
+    "provjeriti: stanje nekretnine - opis ne navodi je li useljiva, ruševna ili djelomično dovršena",
+    "provjeriti: je li netko trenutno nastanjen/posjeduje nekretninu",
+    "provjeriti: postojeći tereti, služnosti ili prava koja ne prestaju prodajom u zk.ul. 2029 k.o. Preko",
+    "provjeriti: udaljenost od mora i pogled (bitno za vrijednost u Preku)",
+    "provjeriti: legalnost objekta (eventualna nelegalizirana gradnja/dogradnja)"
+  ],
+  "market_estimate": {
+    "eur_min": 480000,
+    "eur_max": 680000,
+    "confidence": "low",
+    "basis": "Procjena temeljena na općem poznavanju tržišta otoka Ugljana/Preka (snažan rast cijena 2023-2026 na zadarskom arhipelagu, kamene kuće s okućnicom u blizini mora tipično 3.500-6.000 EUR/m2 zemljišta ovisno o udaljenosti od obale i stanju). Web search alat nije bio dostupan u ovoj sesiji (dozvola nije odobrena) pa nisu dohvaćeni live oglasi - preporuka je ručno provjeriti nekretnine.net i njuskalo.hr filtrirano na Preko/Ugljan prije licitacije."
+  },
+  "comparables": [
+    {
+      "opis": "Procjena nije potkrijepljena live oglasima jer web search nije bio dostupan u ovoj sesiji - preporuka ručne provjere nekretnine.net/njuskalo.hr za 'kuća Preko Ugljan' i 'kuća Ugljan otok' prije donošenja odluke o ponudi",
+      "cijena": null,
+      "m2": null,
+      "izvor": "nedostupno - potrebna ručna provjera",
+      "url": ""
+    }
+  ],
+  "investment_strategy": "Ovisno o stvarnom stanju objekta (koje treba provjeriti na terenu): ako je kuća u osnovno useljivom stanju, reno-flip s prodajom ili dugoročni/sezonski turistički najam (Preko ima stabilnu turističku potražnju i blizinu Zadra za goste bez auta); ako je ruševna, treba uračunati trošak kompletne rekonstrukcije prije ulaska u ponudu.",
+  "entry_price_eur": 400000,
+  "detailed_risks": [
+    "Potpuni nedostatak opisa stanja nekretnine - visok rizik precjenjivanja bez terenskog pregleda",
+    "Nepoznat status posjeda/useljenosti - može zahtijevati sudsku deložaciju ako je netko unutra",
+    "Prva dražba s tek 20% popusta - stvarna konkurencija na licitaciji može gurnuti cijenu blizu procijenjene vrijednosti, smanjujući ROI",
+    "Nepoznata udaljenost od mora/infrastrukture unutar k.o. Preko - velika razlika u vrijednosti ovisno o mikrolokaciji unutar mjesta"
+  ],
+  "upside_scenario": "Uz potvrdu da je objekt strukturno zdrav i blizu mora, nakon manje renovacije (okvirno 50-100k EUR) nekretnina bi se u 2-3 godine mogla prodati ili vrednovati na 650-750k EUR zahvaljujući rastu turističke potražnje na Ugljanu i blizini Zadra.",
+  "downside_scenario": "Ako se ispostavi da je objekt ruševan, nelegalan ili opterećen pravima trećih (npr. stanovanje ili dugoročni najam koji ne prestaje prodajom), troškovi sanacije i pravnih postupaka mogu nadmašiti očekivani profit, čineći ulazak po cijeni blizu procijenjene vrijednosti neisplativim.",
+  "discount_pct": 20.0,
+  "input_hash": "683f5119b924",
+  "scored_at": "2026-10-20T10:56:00.452440"
+}

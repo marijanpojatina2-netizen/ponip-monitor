@@ -1,0 +1,15 @@
+{
+  "id": "61922",
+  "score_overall": 3.9,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Kuća i dvorište u Martijancu kraj Varaždina, manje ruralno mjesto s ograničenom likvidnošću i niskom apsolutnom vrijednošću (16.300 EUR). Popust od 20% na prvoj dražbi nije dovoljno atraktivan bez dodatnih podataka o stanju objekta.",
+  "flags": [
+    "provjeriti: stanje kuće (nije opisano u oglasu)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "3185ce4dfec3",
+  "scored_at": "2026-10-20T10:54:39.436195"
+}

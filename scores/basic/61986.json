@@ -1,0 +1,16 @@
+{
+  "id": "61986",
+  "score_overall": 3.6,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Nekretnina u selu Vetovo kraj Požege, slabo likvidno ruralno područje Slavonije s niskom vrijednošću (16.406 EUR) i tek 20% popusta. Prodaje se samo suvlasnički dio 15/16 što komplicira stjecanje punog vlasništva i smanjuje investicijsku privlačnost.",
+  "flags": [
+    "suvlasnički dio 15/16 (preostali suvlasnik ostaje)",
+    "provjeriti: stanje kuće i zemljišta"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "df02a2004398",
+  "scored_at": "2026-10-20T10:54:39.435866"
+}
