@@ -1,0 +1,15 @@
+{
+  "id": "62004",
+  "score_overall": 7.1,
+  "score_lokacija": 9.0,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Samostojeća kuća s velikim okućnicom na Rabu (Lopar) u vrhunskoj turističkoj zoni, prva dražba s tek 20% popusta ali visoka apsolutna vrijednost i likvidnost otočnog tržišta opravdavaju detaljnu due diligence analizu. Opis ne navodi stanje objekta pa je potrebna provjera useljivosti prije licitacije.",
+  "flags": [
+    "provjeriti: stanje/useljivost objekta nije opisano u oglasu"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "84f629984730",
+  "scored_at": "2026-10-21T11:08:16.038372"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "62047",
+  "score_overall": 4.2,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Manji stan u Vinkovcima u slabije likvidnoj slavonskoj regiji, standardni popust od 20% uz ograničen potencijal rasta vrijednosti. Opis ne otkriva posebne pravne rizike, ali investicijski case je slab zbog lokacije.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "0a5228fc7e94",
+  "scored_at": "2026-10-21T11:08:16.039379"
+}

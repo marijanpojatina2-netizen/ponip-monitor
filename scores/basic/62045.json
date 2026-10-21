@@ -1,0 +1,16 @@
+{
+  "id": "62045",
+  "score_overall": 4.3,
+  "score_lokacija": 3.5,
+  "score_roi": 5.0,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Suvlasnički udio od samo 9/36 na manjoj oranici u Vinkovcima uz popust od tek 20% na prvoj dražbi ne nudi atraktivan ROI niti jednostavnu izlaznu strategiju. Lokacija je slabija (manji grad u Slavoniji), a radi se o neizgrađenom zemljištu male vrijednosti.",
+  "flags": [
+    "provjeriti: suvlasnički udio 9/36 - pravo prvokupa ostalih suvlasnika i ograničena mogućnost samostalne prodaje/raspolaganja",
+    "provjeriti: namjena zemljišta (oranica) i mogućnost prenamjene/gradnje"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "ffec520ae372",
+  "scored_at": "2026-10-21T11:08:34.686924"
+}

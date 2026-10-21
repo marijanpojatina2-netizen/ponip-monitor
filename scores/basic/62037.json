@@ -1,0 +1,13 @@
+{
+  "id": "62037",
+  "score_overall": 4.3,
+  "score_lokacija": 2.5,
+  "score_roi": 5.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Veća oranica (1,85 ha) u ruralnoj Srijemskim Lazama kod Osijeka, prodaje se kroz stečajni postupak s najvećim popustom od 25% u ovoj skupini, cijena po m2 je izrazito niska. Depopulacijsko ruralno područje ograničava likvidnost, ali niska ulazna cijena opravdava praćenje za poljoprivrednu namjenu.",
+  "flags": [],
+  "discount_pct": 25.0,
+  "input_hash": "e16a190d7d4b",
+  "scored_at": "2026-10-21T11:08:16.039877"
+}

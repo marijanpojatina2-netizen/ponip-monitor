@@ -1,0 +1,13 @@
+{
+  "id": "61976",
+  "score_overall": 4.3,
+  "score_lokacija": 4.0,
+  "score_roi": 4.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Kuća s velikim dvorištem (1373 m2) u ruralnom području Odre kod Siska, puno vlasništvo ovršenika uz standardni popust od 20%. Lokacija je slabije likvidna, ali veličina parcele i cjelovito vlasništvo daju umjeren potencijal za praćenje.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "2abf65d8e9dc",
+  "scored_at": "2026-10-21T11:08:16.039744"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "62004",
+  "score_overall": 7.1,
+  "score_lokacija": 9.0,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Samostojeća višestambena građevina s velikom parcelom (984 m2) u Loparu na Rabu, jednoj od najtraženijih turističkih destinacija na Jadranu blizu Rajske plaže, predstavlja visokovrijedan ulog (procjena 890.000 EUR) s tek umjerenim popustom od 20% na prvoj dražbi. Opis ne navodi stanje objekta niti postoji li aktivna najamnina ili stanovanje, što zahtijeva terenski uvid prije ponude. Visoka apsolutna vrijednost i prvoklasna lokacija opravdavaju detaljnu due diligence analizu umjesto brze odluke.",
+  "flags": [
+    "provjeriti: stanje i useljivost objekta (nije navedeno u opisu)",
+    "provjeriti: postojanje tereta, hipoteka ili stvarnih prava na zemljišnoknjižnom izvatku",
+    "provjeriti: je li riječ o više etažnih vlasnika s obzirom da je opisano kao 'višestambena građevina'",
+    "provjeriti: pristupna infrastruktura (cesta 110 m2 je dio predmeta prodaje, treba potvrditi stvarni pristup i komunalnu opremljenost)"
+  ],
+  "market_estimate": {
+    "eur_min": 850000,
+    "eur_max": 1150000,
+    "confidence": "low",
+    "basis": "Nije bilo moguće pristupiti web pretrazi u ovoj sesiji (nedostaje dopuštenje za WebSearch), pa procjena nije potvrđena živim oglasima. Raspon se temelji na općem poznavanju tržišta Rab/Lopar (jedna od top turističkih mikrolokacija na sjevernom Jadranu, blizu Rajske plaže) i na samoj sudskoj procjeni (890.000 EUR za 984 m2 ukupne površine s kućom od 154 m2, tj. ~904 EUR/m2 ukupnog zemljišta odnosno ~5.800 EUR/m2 objekta), koja je u skladu s poznatim rasponima za slične otočne nekretnine s turističkim potencijalom. Preporuča se naknadna provjera stvarnih oglasa prije konačne odluke."
+  },
+  "comparables": [],
+  "investment_strategy": "Reno-flip + iznajmljivanje: obzirom da je riječ o 'višestambenoj građevini' s velikom okućnicom (dvorište 500 m2, oranica 220 m2), postoji potencijal za adaptaciju u više turističkih apartmana/soba za kratkoročni najam uz blizinu Rajske plaže u Loparu, uz moguću dugoročnu valorizaciju kroz dodatnu gradnju na preostalom zemljištu ako urbanistički uvjeti dopuštaju.",
+  "entry_price_eur": 720000,
+  "detailed_risks": [
+    "Stanje objekta nepoznato iz opisa - nužan terenski obilazak 4.12.2026. prije odluke o ponudi",
+    "Mogući teret, hipoteke ili neriješeni imovinsko-pravni odnosi koji nisu navedeni u sažetku",
+    "Status 'višestambena građevina' može značiti postojanje više suvlasnika/korisnika čije bi postojanje trebalo provjeriti u zemljišnim knjigama",
+    "Sezonalnost otočnog turističkog tržišta utječe na likvidnost prodaje i visinu prinosa od najma",
+    "Rizik neuspjeha prve dražbe zbog tek 20% popusta, uz blokadu jamčevine (89.000 EUR) do ishoda postupka"
+  ],
+  "upside_scenario": "Kupnja po početnoj cijeni ili nižoj uz potvrđeno dobro stanje objekta i uredne zemljišne knjige otvara put obnovi u 2-3 turistička apartmana; uz blizinu Rajske plaže i stabilnu potražnju za smještajem na Rabu, vrijednost nekretnine i prinos od sezonskog najma mogli bi narasti na 1,1-1,3 mil EUR u 2-3 godine.",
+  "downside_scenario": "Ako terenski uvid otkrije loše stanje objekta, sporne terete ili ograničen pristup (cesta), troškovi sanacije i pravnog rješavanja mogu premašiti planirani budžet, a neuspjeh na prvoj dražbi odgađa realizaciju i zadržava kapital u jamčevini do sljedećeg kruga.",
+  "discount_pct": 20.0,
+  "input_hash": "84f629984730",
+  "scored_at": "2026-10-21T11:10:20.737729"
+}
