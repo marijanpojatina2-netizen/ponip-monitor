@@ -1,0 +1,15 @@
+{
+  "id": "60953",
+  "score_overall": 4.6,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica obrasla niskim raslinjem sjeveroistočno od Roča, vrlo niske apsolutne vrijednosti (2.416 EUR) i slabe likvidnosti za daljnju prodaju ili razvoj. Poljoprivredna namjena bez naznake mogućnosti prenamjene ograničava ROI potencijal za investitora usmjerenog na nekretnine.",
+  "flags": [
+    "provjeriti: mogućnost prenamjene poljoprivrednog zemljišta u građevinsko"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "8e0a82bac17b",
+  "scored_at": "2026-10-22T11:09:04.172202"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "60947",
+  "score_overall": 5.0,
+  "score_lokacija": 4.5,
+  "score_roi": 6.5,
+  "score_stanje": 2.5,
+  "recommendation": "watch",
+  "reasoning": "Praktički identična situacija kao susjedna čestica u istom zk. ul. 3505 - građevinsko zemljište u Roču bez neposrednog pristupa javnom putu, 40% popusta na drugoj dražbi. Mala vrijednost i ograničena gradivost svrstavaju ovo u čisto oportunistički, niskorizični ulog za praćenje.",
+  "flags": [
+    "provjeriti: pristup javnom putu (čestica ne graniči neposredno s javnim putom)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "8dc52bbc5200",
+  "scored_at": "2026-10-22T11:09:04.171877"
+}

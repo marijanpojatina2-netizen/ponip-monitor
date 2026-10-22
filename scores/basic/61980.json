@@ -1,0 +1,16 @@
+{
+  "id": "61980",
+  "score_overall": 5.4,
+  "score_lokacija": 7.5,
+  "score_roi": 5.0,
+  "score_stanje": 2.5,
+  "recommendation": "watch",
+  "reasoning": "Atraktivna istarska lokacija (Lovrečica kod Umaga) uz more, ali gradnja je izvedena protivno projektnoj dokumentaciji (ukopan cijeli podrum) te je potrebna nova projektna dokumentacija i vjerojatno legalizacija. Popust od samo 20% ne kompenzira dovoljno pravno-tehnički rizik i nedovršenost objekta.",
+  "flags": [
+    "nezakonita gradnja - odstupanje od projektne dokumentacije",
+    "provjeriti: mogućnost i trošak legalizacije te izrade nove projektne dokumentacije"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "4bda8e93b549",
+  "scored_at": "2026-10-22T11:08:26.469403"
+}

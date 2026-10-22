@@ -1,0 +1,15 @@
+{
+  "id": "60945",
+  "score_overall": 5.0,
+  "score_lokacija": 4.5,
+  "score_roi": 6.5,
+  "score_stanje": 2.5,
+  "recommendation": "watch",
+  "reasoning": "Građevinsko zemljište od 550 m2 u Roču (Buzet), ruralno područje unutrašnje Istre s ograničenom potražnjom; popust od 40% na drugoj dražbi je solidan, ali nedostatak izlaza na javni put bitno sužava gradivost i likvidnost. Niska apsolutna vrijednost pogodna je tek za oportunistički otkup uz nizak ulog.",
+  "flags": [
+    "provjeriti: pristup javnom putu (čestica ne graniči neposredno s javnim putom)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "89975f81ed5d",
+  "scored_at": "2026-10-22T11:09:04.171478"
+}

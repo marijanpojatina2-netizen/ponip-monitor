@@ -1,0 +1,36 @@
+{
+  "id": "61978",
+  "score_overall": 4.7,
+  "score_lokacija": 4.5,
+  "score_roi": 5.0,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Industrijsko-poslovni objekt s velikom građevinskom parcelom (15.201 m2) u Opuzenu, Neretvanska dolina - lokacija nije turistička niti veliki grad, ali je strateški blizu luke Ploče i D8 ceste. Prva dražba s tek 20% popusta ne nudi veliku priliku za ROI, a stanje objekta nije opisano (nema fotografija/detalja), što zahtijeva fizički obilazak. Tržište industrijskih nekretnina u ovoj ruralnoj zoni je nisko-likvidno, pa je realnije čekati sljedeće kružne dražbe s većim popustom ili ući samo uz jasnu namjenu (logistika/agro-prerada).",
+  "flags": [
+    "provjeriti: stanje i funkcionalnost industrijskog objekta (opis ne navodi fotografije ni detalje o stanju)",
+    "provjeriti: namjena/zoniranje zemljišta i mogućnost prenamjene",
+    "provjeriti: komunalna infrastruktura i pristupne ceste do parcele Pržinovac 262 A",
+    "provjeriti: postojeći teret/upisi u zk.ul. 3668 koji nisu navedeni u opisu"
+  ],
+  "market_estimate": {
+    "eur_min": 700000,
+    "eur_max": 1100000,
+    "confidence": "low",
+    "basis": "Web pretraga nije bila dostupna u ovoj sesiji (nedostatak dozvole za WebSearch alat), stoga procjena se temelji na općem poznavanju tržišta industrijskih/poslovnih nekretnina u Neretvanskoj dolini (Opuzen-Metković-Ploče), gdje su industrijske parcele s objektima tipično nisko-likvidne i često se prodaju ispod sudske procjene zbog uskog kruga kupaca."
+  },
+  "comparables": [],
+  "investment_strategy": "razvoj / iznajmljivanje - Kompleks od 15.201 m2 s industrijskim objektom pogodan je za investitora iz sektora logistike, skladištenja ili agro-prerade (Neretvanska dolina poznata po proizvodnji mandarina i povrća, blizina luke Ploče). Nakon renovacije objekt bi se mogao iznajmiti lokalnim proizvođačima, prerađivačima ili distributerima. Čista preprodaja je manje izgledna zbog uskog tržišta za industrijske nekretnine ove veličine u ruralnom području.",
+  "entry_price_eur": 750000,
+  "detailed_risks": [
+    "Nisko-likvidno tržište industrijskih nekretnina u ruralnom dijelu Dubrovačko-neretvanske županije - potencijalno dug period do prodaje/iznajmljivanja",
+    "Prva dražba s tek 20% popustom ne jamči realan bargain - vrijednost može dalje padati na sljedećim dražbama",
+    "Nema podataka o trenutnom stanju objekta (dob, oštećenja, instalacije) - nužan je fizički obilazak 25.-27.11.2026.",
+    "Velika parcela (15.201 m2) znači visoke troškove održavanja/osiguranja ako se ne iskoristi odmah",
+    "Mogući dodatni troškovi usklađivanja namjene/dozvola za novu djelatnost"
+  ],
+  "upside_scenario": "Ako investitor ima jasnu namjenu (logistički centar, skladište za agro-proizvode, prerada povrća/voća za izvoz preko luke Ploče), renovacija objekta i dugoročni zakup lokalnim poljoprivrednim subjektima mogao bi donijeti stabilan prinos od 6-8% godišnje unutar 2-3 godine, posebno ako luka Ploče i infrastrukturni koridor dalje rastu.",
+  "downside_scenario": "Ako se nekretnina ne proda na prvoj dražbi, ide na sljedeće kružne dražbe s većim popustima (tipično do 50%+ niže), gdje bi je mogao kupiti drugi investitor po povoljnijoj cijeni; u međuvremenu, ako kupac uđe po početnoj cijeni od 1.089.600 EUR, a tržište za industrijske nekretnine ove vrste u regiji ostane plitko, objekt može ostati neprodan/neizdan godinama, generirajući samo troškove.",
+  "discount_pct": 20.0,
+  "input_hash": "20a653561f8c",
+  "scored_at": "2026-10-22T11:10:35.376102"
+}
