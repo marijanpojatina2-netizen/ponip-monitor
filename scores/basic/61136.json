@@ -1,0 +1,15 @@
+{
+  "id": "61136",
+  "score_overall": 4.8,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Zaselak Janči kod Konjščine u Krapinsko-zagorskoj županiji je ruralno područje ali relativno blizu Zagreba što donosi umjerenu likvidnost, a 40% popusta na drugoj dražbi je solidno za malu kuću od 52 m2 koja vjerojatno treba renovaciju. Upis kroz posjedovni list i zbirku položenih isprava umjesto standardnog zk.ul. upisa ukazuje na mogući nedovršen zemljišnoknjižni status.",
+  "flags": [
+    "provjeriti: zemljišnoknjižni status (upis putem p.l. i zbirke položenih isprava umjesto zk.ul.)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "77bdb485e57f",
+  "scored_at": "2026-10-23T11:01:48.487060"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "61192",
+  "score_overall": 4.5,
+  "score_lokacija": 5.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Manja livada (965 m2) u Sesvetama Novom bez objekta, uz popust od tek 20% na prvoj dražbi. Isti profil kao susjedna parcela 61194 - slab samostalni investicijski potencijal.",
+  "flags": [
+    "provjeriti: urbanistički status zemljišta (livada)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "b21bdae81c52",
+  "scored_at": "2026-10-23T10:59:27.427067"
+}

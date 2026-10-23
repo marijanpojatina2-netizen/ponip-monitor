@@ -1,0 +1,16 @@
+{
+  "id": "61966",
+  "score_overall": 6.2,
+  "score_lokacija": 8.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Mesnička ulica u centru Zagreba je vrhunska lokacija s visokom dugoročnom vrijednošću, ali predmet prodaje je samo 7/32 neodređenog suvlasničkog dijela zgrade povezanog s poslovnim prostorom u podrumu, što znatno otežava utrživost i upravljanje imovinom. Popust je samo 20% na prvoj dražbi, pa visok potencijal lokacije treba vagati prema pravnoj složenosti suvlasništva.",
+  "flags": [
+    "provjeriti: suvlasnički dio u neodređenom omjeru (7/32) - otežana utrživost",
+    "provjeriti: status i granice povezanog poslovnog prostora u podrumu"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "f5e33141c2f6",
+  "scored_at": "2026-10-23T11:00:48.174801"
+}

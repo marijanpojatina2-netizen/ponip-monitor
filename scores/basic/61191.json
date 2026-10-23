@@ -1,0 +1,15 @@
+{
+  "id": "61191",
+  "score_overall": 4.7,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Kuća s gospodarskom zgradom u Batinjanima (okolica Pakraca) nalazi se u ruralnom, slabije likvidnom području Slavonije, a 40% popusta na druge dražbe je standardno i ne nadmašuje prosjek. Stanje objekta nije detaljno opisano što uz slabu likvidnost tržišta smanjuje privlačnost za investitora.",
+  "flags": [
+    "provjeriti: je li nekretnina trenutno nastanjena ili u posjedu trećih osoba"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "0993793ce3e7",
+  "scored_at": "2026-10-23T11:01:48.486532"
+}

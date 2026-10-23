@@ -1,0 +1,16 @@
+{
+  "id": "61174",
+  "score_overall": 4.7,
+  "score_lokacija": 2.5,
+  "score_roi": 7.0,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "K.o. Klisa kod Pakraca je slabo razvijeno ruralno područje s niskom potražnjom, iako 40% popusta na drugoj dražbi poboljšava ROI račun. Nekretnina je razdijeljena na više manjih čestica i dva zemljišnoknjižna uloška te mala kuća od 50 m2 vjerojatno zahtijeva veću obnovu.",
+  "flags": [
+    "provjeriti: razdvojena zemljišnoknjižna evidencija (zk.ul. 762 i zk.ul. 149)",
+    "provjeriti: stanje objekta"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "3997cb5ba4fd",
+  "scored_at": "2026-10-23T11:00:48.174403"
+}

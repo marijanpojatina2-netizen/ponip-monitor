@@ -1,0 +1,15 @@
+{
+  "id": "61176",
+  "score_overall": 5.3,
+  "score_lokacija": 3.0,
+  "score_roi": 7.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Ladimirevci u Osječko-baranjskoj županiji su ruralno područje sa skromnom potražnjom, ali 40% popusta na drugoj dražbi i veća površina od 3524 m2 s kućom i gospodarskim zgradama daju pristojan ROI potencijal za lokalnog kupca. Stanje gospodarskih zgrada nije poznato i treba ga provjeriti.",
+  "flags": [
+    "provjeriti: stanje kuće i gospodarskih zgrada"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "3577e74833d7",
+  "scored_at": "2026-10-23T11:00:48.174674"
+}

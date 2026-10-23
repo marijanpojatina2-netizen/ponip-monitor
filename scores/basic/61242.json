@@ -1,0 +1,15 @@
+{
+  "id": "61242",
+  "score_overall": 4.1,
+  "score_lokacija": 1.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Šumska parcela u Špišić Bukovici (Virovitičko-podravska županija) nalazi se u ruralnom, depopulacijskom dijelu Slavonije s minimalnom likvidnošću, a apsolutna vrijednost transakcije od oko 700 EUR je premala da bi popust od 40% imao praktični investicijski učinak. Nema infrastrukture niti građevinskog potencijala koji bi podigao privlačnost.",
+  "flags": [
+    "provjeriti: pristupni put i stvarna namjena/iskorištivost šumske parcele"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "de9c9ef5a67c",
+  "scored_at": "2026-10-23T11:01:48.487388"
+}

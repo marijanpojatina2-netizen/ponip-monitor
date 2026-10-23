@@ -1,0 +1,15 @@
+{
+  "id": "61194",
+  "score_overall": 4.5,
+  "score_lokacija": 5.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Manja livada (1177 m2) u Sesvetama Novom bez objekta, uz popust od tek 20% na prvoj dražbi. Slab ROI potencijal za čisto zemljište na periferiji Zagreba bez jasne građevinske namjene.",
+  "flags": [
+    "provjeriti: urbanistički status zemljišta (livada)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "a05c4ba8460a",
+  "scored_at": "2026-10-23T10:59:27.426682"
+}

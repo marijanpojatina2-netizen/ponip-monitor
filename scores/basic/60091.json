@@ -1,0 +1,15 @@
+{
+  "id": "60091",
+  "score_overall": 7.5,
+  "score_lokacija": 6.5,
+  "score_roi": 9.0,
+  "score_stanje": 6.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Građevinsko zemljište u poslovnoj zoni Rupa na čvorištu Rijeka-Trst-Ljubljana uz granicu sa Slovenijom i Italijom, uz treću dražbu popust je 75% od procjene što je iznimno povoljno. Lokacija ima strateški logistički potencijal iako nije turistička zona, a radi se o gotovom zemljištu bez objekta pa je rizik niži.",
+  "flags": [
+    "provjeriti: detaljni uvjeti gradnje prema UPU 23 (K11)"
+  ],
+  "discount_pct": 75.0,
+  "input_hash": "33ab677eb922",
+  "scored_at": "2026-10-23T11:01:48.486152"
+}

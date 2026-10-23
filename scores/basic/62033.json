@@ -1,0 +1,15 @@
+{
+  "id": "62033",
+  "score_overall": 7.0,
+  "score_lokacija": 8.0,
+  "score_roi": 6.5,
+  "score_stanje": 6.5,
+  "recommendation": "bid",
+  "reasoning": "Apartman u istom kompleksu u Grohotama na Šolti kao nekretnina 62029, slične veličine i uvjeta, s popustom od 25% na prvoj dražbi. Dobra turistička lokacija uz funkcionalnu jedinicu čini ovo realnim kandidatom za licitaciju.",
+  "flags": [
+    "provjeriti: opremljenost i trenutno korištenje apartmana (turistički najam)"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "c9c1ff907189",
+  "scored_at": "2026-10-23T10:59:27.426935"
+}

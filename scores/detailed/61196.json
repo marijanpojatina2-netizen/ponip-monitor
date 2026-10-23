@@ -1,0 +1,36 @@
+{
+  "id": "61196",
+  "score_overall": 5.4,
+  "score_lokacija": 6.0,
+  "score_roi": 5.5,
+  "score_stanje": 4.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Parcela od 8012 m2 oranice u k.o. Sesvetski Kraljevec (Sesvete, Zagreb) procijenjena je na 1.450.172 EUR, što iznosi cca 181 EUR/m2 - neobično visoko za poljoprivrednu zemlju, što upućuje na mogući građevinski/urbanizacijski potencijal koji treba potvrditi u prostornom planu. Prva dražba s tek 20% popusta ne daje veliku sigurnosnu marginu, a nedostaje podataka o komunalnoj infrastrukturi i pristupu. Zbog velike vrijednosti i neizvjesnosti oko namjene zemljišta, slučaj zaslužuje detaljnu provjeru prije ulaska u licitaciju.",
+  "flags": [
+    "provjeriti: namjena/zonering zemljišta - cijena po m2 (181 EUR) znatno premašuje tipičnu vrijednost oranice (5-20 EUR/m2)",
+    "provjeriti: komunalna infrastruktura i pristupni put do parcele",
+    "provjeriti: suvlasništvo 1. i 2. ovršenika (svaki 1/2) i učinak na prodaju cjeline",
+    "provjeriti: realnost sudske procjene vrijednosti s obzirom na kategoriju zemljišta"
+  ],
+  "market_estimate": {
+    "eur_min": 800000,
+    "eur_max": 1600000,
+    "confidence": "low",
+    "basis": "WebSearch alat nije bio dostupan u ovoj analizi (odbijena dozvola), pa procjena nije potvrđena svježim oglasima. Temelji se na općem poznavanju tržišta zemljišta u Zagrebu/Sesvetama: tipična poljoprivredna zemlja vrijedi 5-20 EUR/m2, dok građevinsko zemljište na periferiji Zagreba (Sesvete) ide i do 100-220 EUR/m2. Procijenjenih 181 EUR/m2 upućuje na mogući građevinski status, ali to nije potvrđeno iz opisa, pa je raspon širok i konfidencija niska. Preporuka: prije licitacije provjeriti važeći prostorni plan/GUP za k.o. Sesvetski Kraljevec."
+  },
+  "comparables": [],
+  "investment_strategy": "Potencijalni land banking / razvoj - kupnja veće parcele uz pretpostavku urbanizacije ili prenamjene u građevinsko zemljište, s mogućom parcelizacijom i prodajom manjih građevinskih čestica. Strategija je održiva samo ako se prostornim planom potvrdi mogućnost gradnje; u protivnom riječ je o dugoročnom poljoprivrednom holdingu s niskim prinosom.",
+  "entry_price_eur": 950000,
+  "detailed_risks": [
+    "Neusklađenost katastarske namjene (oranica) i visoke procijenjene vrijednosti po m2 - mogući rizik da je sudska procjena preoptimistična ili da postoji neprovjereni urbanistički potencijal",
+    "Nedostatak informacija o komunalnoj infrastrukturi (struja, voda, kanalizacija, pristupni put)",
+    "Suvlasništvo dvaju ovršenika (1/2 : 1/2) moglo bi uzrokovati dodatnu pravnu kompleksnost ako nisu oba dijela obuhvaćena istom dražbom",
+    "Prva dražba s tek 20% popusta nosi rizik neuspjeha i čekanja sljedećih krugova",
+    "Nema dostupnih svježih tržišnih usporedbi (web pretraga nije bila moguća) - procjena nosi povećanu neizvjesnost"
+  ],
+  "upside_scenario": "Ako prostorni plan potvrdi mogućnost prenamjene u građevinsko zemljište ili ako je parcela već u zoni širenja Sesveta, vrijednost bi mogla rasti na 150-220 EUR/m2 (1,2-1,76 mil EUR), uz mogućnost parcelizacije i prodaje pojedinačnih građevinskih čestica investitorima/graditeljima u horizontu 2-3 godine.",
+  "downside_scenario": "Ako zemljište ostane strogo poljoprivredno bez izgleda za prenamjenu, stvarna tržišna vrijednost može biti znatno niža od sudske procjene (možda tek 80.000-150.000 EUR po tipičnim cijenama oranice), što bi značilo da je čak i početna cijena od 1.160.137 EUR preplaćena; dražba bi u tom slučaju vjerojatno propala i nastavila se na sljedeće krugove s većim popustima.",
+  "discount_pct": 20.0,
+  "input_hash": "d2cd0967a37e",
+  "scored_at": "2026-10-23T11:03:37.775304"
+}

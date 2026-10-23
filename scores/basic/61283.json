@@ -1,0 +1,16 @@
+{
+  "id": "61283",
+  "score_overall": 5.0,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća s gospodarskom zgradom i okućnicom u Trnovcu kraj Ivanca, ruralna lokacija sa slabijom likvidnošću tržišta. Popust od 40% na drugoj dražbi je atraktivan, ali lokacija i vjerojatno stanje objekta ograničavaju ROI.",
+  "flags": [
+    "provjeriti: stanje kuće i gospodarske zgrade",
+    "provjeriti: nastanjenost/posjed nekretnine"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "7e52b42db6b3",
+  "scored_at": "2026-10-23T10:59:27.426414"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "61186",
+  "score_overall": 5.4,
+  "score_lokacija": 3.5,
+  "score_roi": 7.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Orahovica je manji slavonski grad podno Papuka s ograničenom likvidnošću, ali 40% popusta na drugoj dražbi daje solidan ROI potencijal za kuću s okućnicom i voćnjakom. Suvlasništvo ovršenika u dijelovima i promjena zemljišnoknjižnog uloška zahtijevaju provjeru prije ulaganja.",
+  "flags": [
+    "provjeriti: suvlasništvo ovršenika svaki u 1/2 dijela",
+    "provjeriti: promjena zk.ul. (ranije zk.ul.br. 1481)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "0e3aa4a2b55c",
+  "scored_at": "2026-10-23T11:00:48.173992"
+}

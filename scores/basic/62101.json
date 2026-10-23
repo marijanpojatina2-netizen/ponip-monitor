@@ -1,0 +1,16 @@
+{
+  "id": "62101",
+  "score_overall": 7.5,
+  "score_lokacija": 8.5,
+  "score_roi": 8.0,
+  "score_stanje": 4.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Kuća i dvor u Solinama na otoku Krku (Naselje Polje), vrlo tražena turistička lokacija, uz popust od 40% na drugoj dražbi. Niska cijena po m2 upućuje na potrebu renovacije, ali omjer lokacije i popusta čini ovo najjačim kandidatom iz skupine.",
+  "flags": [
+    "provjeriti: stanje kuće (opseg potrebne renovacije)",
+    "provjeriti: nastanjenost/posjed nekretnine"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "d4a23a4961c1",
+  "scored_at": "2026-10-23T10:59:27.426551"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "61293",
+  "score_overall": 5.4,
+  "score_lokacija": 3.0,
+  "score_roi": 7.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Jarmina kod Vinkovaca je slavonsko selo s ograničenom potražnjom, ali 40% popusta na drugoj dražbi za kuću od 83 m2 s dvorištem nudi solidnu sigurnosnu marginu za manjeg investitora. Stanje kuće nije opisano pa je potrebna provjera prije licitacije.",
+  "flags": [
+    "provjeriti: stanje kuće"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "4173bb1ba49c",
+  "scored_at": "2026-10-23T11:00:48.175044"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "61248",
+  "score_overall": 5.4,
+  "score_lokacija": 3.5,
+  "score_roi": 7.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Ogulin je manji grad u Karlovačkoj županiji s umjerenom potražnjom, blizina Plitvica daje blagi turistički potencijal, a 40% popusta na drugoj dražbi poboljšava ROI. Nekretnina uključuje kuću, spremište, pomoćnu zgradu i livadu, no stanje objekata nije detaljno opisano.",
+  "flags": [
+    "provjeriti: stanje kuće, spremišta i pomoćne zgrade"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "ff4565258c61",
+  "scored_at": "2026-10-23T11:00:48.174924"
+}

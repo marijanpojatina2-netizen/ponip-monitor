@@ -1,0 +1,16 @@
+{
+  "id": "61260",
+  "score_overall": 5.4,
+  "score_lokacija": 3.5,
+  "score_roi": 7.5,
+  "score_stanje": 4.0,
+  "recommendation": "bid",
+  "reasoning": "Mirkovci kod Vinkovaca nude veliku površinu od 6940 m2 oranice i kuće uz 40% popusta na drugoj dražbi, što je atraktivno za investitora orijentiranog na poljoprivredno zemljište. Stanje kuće nije detaljno opisano pa je potrebna provjera na terenu.",
+  "flags": [
+    "provjeriti: suvlasništvo ovršenika",
+    "provjeriti: stanje kuće na čestici"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "9dc234facf1a",
+  "scored_at": "2026-10-23T11:00:48.174539"
+}

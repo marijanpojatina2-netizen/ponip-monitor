@@ -1,0 +1,15 @@
+{
+  "id": "61230",
+  "score_overall": 4.2,
+  "score_lokacija": 1.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Bobota se nalazi u depopulacijskom području Vukovarsko-srijemske županije s izrazito slabom likvidnošću nekretnina, a 40% popusta na drugoj dražbi ne kompenzira nisku potražnju u regiji. Kuća s voćnjakom je male vrijednosti i bez dodatnih podataka o stanju objekta investicijski case je slab.",
+  "flags": [
+    "provjeriti: je li kuća nastanjena ili u zakupu"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "cf86d6d74b98",
+  "scored_at": "2026-10-23T11:01:48.486797"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "62029",
+  "score_overall": 7.0,
+  "score_lokacija": 8.0,
+  "score_roi": 6.5,
+  "score_stanje": 6.5,
+  "recommendation": "bid",
+  "reasoning": "Apartman u etažnom vlasništvu u Grohotama na Šolti, atraktivnoj turističkoj destinaciji blizu Splita, s popustom od 25% na prvoj dražbi. Opisana kompletna funkcionalna jedinica (sobe, kuhinja, kupaona, terasa) upućuje na solidno stanje za iznajmljivanje.",
+  "flags": [
+    "provjeriti: opremljenost i trenutno korištenje apartmana (turistički najam)"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "c3ea9a3125f5",
+  "scored_at": "2026-10-23T10:59:27.426809"
+}
