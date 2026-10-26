@@ -1,0 +1,16 @@
+{
+  "id": "62009",
+  "score_overall": 5.9,
+  "score_lokacija": 7.0,
+  "score_roi": 5.5,
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Veliki poslovni kompleks na Aveniji Većeslava Holjevca u Zagrebu s popustom od 25%, ali predmet prodaje je samo manjinski suvlasnički udio od ~9,4% što značajno komplicira realizaciju vrijednosti. Zbog visoke apsolutne vrijednosti i dobre lokacije isplati se detaljna pravna provjera prije ulaska.",
+  "flags": [
+    "manjinski suvlasnički dio (9,4% udjela)",
+    "provjeriti: mogućnost diobe/suglasnost ostalih suvlasnika"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "7018acc1033a",
+  "scored_at": "2026-10-26T12:15:26.367577"
+}

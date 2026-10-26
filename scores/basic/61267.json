@@ -1,0 +1,13 @@
+{
+  "id": "61267",
+  "score_overall": 4.8,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća s dvorištem u ruralnom Požeškom kraju (Velike Livade) ima veliki popust od 40% na drugoj dražbi, što je atraktivno za ROI, ali depopulacijsko ruralno područje značajno ograničava likvidnost i izlaznu strategiju. Investicija ima smisla prvenstveno za dugoročnog ili lokalnog kupca.",
+  "flags": [],
+  "discount_pct": 40.0,
+  "input_hash": "b81220fa836b",
+  "scored_at": "2026-10-26T12:15:26.368178"
+}

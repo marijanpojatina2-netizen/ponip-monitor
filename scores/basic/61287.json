@@ -1,0 +1,16 @@
+{
+  "id": "61287",
+  "score_overall": 4.1,
+  "score_lokacija": 1.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Skup rascjepkanih poljoprivrednih čestica (pašnjak, vinograd, oranice) raspoređenih po više katastarskih općina u virovitičkom kraju, s popustom od 40% na drugoj dražbi. Fragmentacija i ruralna depopulacijska lokacija jako smanjuju likvidnost i praktičnu iskoristivost unatoč velikom popustu.",
+  "flags": [
+    "rascjepkane čestice u više k.o. - niska likvidnost",
+    "provjeriti: pristupni putovi i poljoprivredna namjena/ograničenja"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "fd3af8b86c13",
+  "scored_at": "2026-10-26T12:15:26.368463"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "62065",
+  "score_overall": 7.0,
+  "score_lokacija": 7.5,
+  "score_roi": 7.0,
+  "score_stanje": 6.0,
+  "recommendation": "bid",
+  "reasoning": "Građevinsko zemljište s prijavom građenja na atraktivnoj lokaciji u Rijeci (Šetalište XIII. divizije), uz solidan popust od 25% na prvoj dražbi. Zemljište je spremno za gradnju bez potrebe za rušenjem, što daje dobar ROI potencijal na likvidnom tržištu.",
+  "flags": [
+    "provjeriti: uvjeti prijave građenja i komunalna infrastruktura"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "39518764e43d",
+  "scored_at": "2026-10-26T12:15:26.367850"
+}

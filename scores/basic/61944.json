@@ -1,0 +1,15 @@
+{
+  "id": "61944",
+  "score_overall": 5.6,
+  "score_lokacija": 7.0,
+  "score_roi": 5.0,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Kuća u centru Varaždina na Trgu Matije Gupca ima dobru lokaciju za grad te veličine, ali popust od 20% na prvoj dražbi je relativno skroman. Stanje nekretnine nije detaljno opisano pa preporuka je praćenje dok se ne razjasni useljivost.",
+  "flags": [
+    "provjeriti: stanje useljivosti kuće i pomoćnih objekata"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "2580b38a25d8",
+  "scored_at": "2026-10-26T12:15:26.367999"
+}

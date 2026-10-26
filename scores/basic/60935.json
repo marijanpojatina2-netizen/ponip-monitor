@@ -1,0 +1,16 @@
+{
+  "id": "60935",
+  "score_overall": 4.4,
+  "score_lokacija": 2.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Nekretnina u Legradu ima velik nominalni popust od 40%, ali opis sugerira da se prodaje samo manjinski suvlasnički dio ovršenika od 2/12, dok preostalih 10/12 drže ovrhovoditeljice. To bi kupca ostavilo u poziciji manjinskog suvlasnika uz nejasnu stvarnu iskoristivost nekretnine.",
+  "flags": [
+    "manjinski suvlasnički dio ovršenika (2/12)",
+    "provjeriti: prodaje li se cijela nekretnina ili samo udio ovršenika"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "0f4ef8c929f8",
+  "scored_at": "2026-10-26T12:15:26.369040"
+}

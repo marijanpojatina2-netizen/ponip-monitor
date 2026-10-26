@@ -1,0 +1,15 @@
+{
+  "id": "62130",
+  "score_overall": 4.0,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Manja ruralna nekretnina kraj Ivanca (kuća, gospodarske zgrade, oranica) s modestim popustom od 20% na prvoj dražbi. Niska apsolutna vrijednost i periferna lokacija ograničavaju investicijski potencijal.",
+  "flags": [
+    "provjeriti: stanje objekata i komunalni priključci"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "955e51692404",
+  "scored_at": "2026-10-26T12:15:26.368746"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "62009",
+  "score_overall": 5.5,
+  "score_lokacija": 7.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Riječ je o prodaji samo manjinskog suvlasničkog udjela (4285985/45520000 ≈ 9,41%) poslovne zgrade s dvorištem od 4552 m2 na Aveniji Većeslava Holjevca u Novom Zagrebu (k.o. Zaprudski Otok) - frekventnoj i dobro povezanoj poslovnoj zoni, što daje solidnu lokacijsku ocjenu. Implicirana vrijednost cijele zgrade (iz procijenjene vrijednosti udjela) iznosi otprilike 11,3 milijuna EUR, no kupnja manjinskog, nesamostalnog udjela drastično smanjuje likvidnost i ROI potencijal jer kupac ne stječe pravo samostalnog korištenja ili prodaje cijele nekretnine. Prva dražba s tek 25% popusta i visokom jamčevinom (106.000 EUR) ne nudi dovoljnu sigurnosnu marginu za rizik vezan uz suvlasništvo i mogući sudski postupak diobe. Preporuka je pratiti predmet i tražiti dodatne pravne informacije o ostalim suvlasnicima prije eventualnog ulaska, eventualno čekati sljedeće dražbe s većim popustom.",
+  "flags": [
+    "suvlasnički dio (~9,41%) - nije samostalno uporabljiva/prodajiva cjelina",
+    "provjeriti: identitet, broj i interesi ostalih suvlasnika te mogućnost nagodbe o korištenju ili diobi",
+    "provjeriti: postoji li zakonsko pravo prvokupa ostalih suvlasnika kod daljnje prodaje udjela",
+    "provjeriti: je li cijela zgrada u zakupu/najmu i po kojim uvjetima",
+    "provjeriti: stvarno stanje, starost i tehnička ispravnost zgrade (opis ne navodi stanje)",
+    "stečajni postupak - prodaja putem stečajnog upravitelja, moguća ograničenja/opterećenja na imovini"
+  ],
+  "market_estimate": {
+    "eur_min": 650000,
+    "eur_max": 950000,
+    "confidence": "low",
+    "basis": "Web pretraga nije bila dostupna u ovoj sesiji (blokiran pristup WebSearch alatu), stoga procjena NIJE potvrđena stvarnim oglasima. Temelji se na implicitnoj vrijednosti cijele zgrade izvedenoj iz navedene procijenjene vrijednosti udjela (1.060.000 EUR / 9,41% ≈ 11,3 mil. EUR cijele zgrade) uz primjenu tipičnog diskonta za nelikvidnost manjinskog suvlasničkog udjela (20-40%) koji se uobičajeno primjenjuje na tržištu kod prodaje suvlasničkih dijelova poslovnih nekretnina. Preporučuje se naknadna provjera stvarnih cijena poslovnih prostora/zemljišta u zoni Zapruđe/Travno (Novi Zagreb) putem nekretnine.net i njuskalo.hr prije donošenja odluke.",
+    "comparables": []
+  },
+  "investment_strategy": "Konsolidacija udjela / pregovaranje s ostalim suvlasnicima - specijalizirana strategija usmjerena na otkup ili sporazum s preostalim suvlasnicima radi stjecanja kontrolnog paketa nad cijelom zgradom, uz pravnu pripremu za eventualni zahtjev za sudsku diobu (razvrgnuće suvlasničke zajednice) ako nagodba ne uspije; standardna preprodaja ili iznajmljivanje nisu izvedivi dok se ne riješi suvlasnička struktura.",
+  "entry_price_eur": 520000,
+  "detailed_risks": [
+    "Kupnja samo manjinskog suvlasničkog udjela (9,41%) bez prava samostalnog raspolaganja ili korištenja cijele nekretnine",
+    "Mogući dugotrajan i skup sudski postupak diobe ako se ne postigne nagodba s ostalim suvlasnicima",
+    "Zakonsko pravo prvokupa ostalih suvlasnika može onemogućiti ili otežati buduću prodaju udjela",
+    "Nepoznato stvarno stanje, starost i iskorištenost zgrade te eventualni postojeći zakupci",
+    "Visok potreban kapital (795.000 EUR početna cijena + 106.000 EUR jamčevina) uložen u teško likvidnu imovinu",
+    "Rizici vezani za stečajni postupak prodavatelja (moguća pobijanja, tereti koji ne prestaju prodajom)"
+  ],
+  "upside_scenario": "Ako investitor u sljedeće 1-2 godine uspije dogovoriti otkup ili konsolidaciju preostalih suvlasničkih udjela (ili postići nagodbu o najmu/upravljanju cijelom zgradom), stječe kontrolu nad vrijednom poslovnom nekretninom na frekventnoj zagrebačkoj aveniji s potencijalom za iznajmljivanje ili prodaju cijele zgrade uz značajan prinos na uloženi kapital.",
+  "downside_scenario": "Ako se suvlasnici ne uspiju dogovoriti, investitor ostaje zaključan u manjinskom, teško prodajivom udjelu bez prihoda, prisiljen pokrenuti dugotrajnu i skupu sudsku diobu, uz rizik da konačna raspodjela ne pokrije uloženih 795.000+ EUR, odnosno da se imovina na novoj dražbi proda uz dodatni popust ispod isplative razine.",
+  "discount_pct": 25.0,
+  "input_hash": "7018acc1033a",
+  "scored_at": "2026-10-26T12:19:17.100297"
+}
