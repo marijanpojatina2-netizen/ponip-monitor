@@ -1,0 +1,16 @@
+{
+  "id": "61711",
+  "score_overall": 4.4,
+  "score_lokacija": 5.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Pašnjak od 8530 m2 u k.o. Hrebinec, na periferiji zagrebačke aglomeracije (Dugo Selo/Sesvete), što daje bolju likvidnost od ruralne Slavonije. Prodaje se samo suvlasnički dio (2/3), što otežava samostalno raspolaganje i smanjuje privlačnost za brzi izlazak.",
+  "flags": [
+    "suvlasnički dio (2/3) - preostala 1/3 u vlasništvu treće strane",
+    "provjeriti: mogućnost razvrgnuća suvlasništva"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "11574897b876",
+  "scored_at": "2026-10-27T11:35:05.319652"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "61713",
+  "score_overall": 4.2,
+  "score_lokacija": 5.0,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Čestica je evidentirana kao 'put' (pristupni put) površine 561 m2 s prodajom samo 1/5 suvlasničkog dijela, što joj daje minimalnu samostalnu upotrebljivost i vrijednost. Kombinacija fragmentiranog vlasništva i tipa čestice čini ovo najslabijim kandidatom iz ove serije.",
+  "flags": [
+    "suvlasnički dio (1/5)",
+    "nekretnina je pristupni put (čestica 'put') - minimalna samostalna upotrebljivost"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "446c52426c07",
+  "scored_at": "2026-10-27T11:35:05.321071"
+}

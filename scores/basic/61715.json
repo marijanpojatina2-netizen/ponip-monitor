@@ -1,0 +1,16 @@
+{
+  "id": "61715",
+  "score_overall": 4.3,
+  "score_lokacija": 5.0,
+  "score_roi": 4.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Šuma od 3648 m2 u k.o. Hrebinec s prodajom 2/3 suvlasničkog dijela; šumsko zemljište nosi dodatna zakonska ograničenja gospodarenja koja smanjuju iskoristivost. Fragmentirano vlasništvo i niska vrijednost čine ovo slabim kandidatom za aktivnu licitaciju.",
+  "flags": [
+    "suvlasnički dio (2/3)",
+    "provjeriti: zakonska ograničenja sječe/gospodarenja šumom"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "1188b81849a2",
+  "scored_at": "2026-10-27T11:35:05.320763"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "61701",
+  "score_overall": 2.1,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Riječ je o čestici 'put' (pristupni put) od 347 m2 u ruralnom k.o. Hrebinec kraj Dugog Sela uz tek 20% popusta na prvoj dražbi, što uz nejasan suvlasnički omjer ovršenika čini slab i teško realiziv investicijski case. Zemljište nema samostalnu građevinsku ili tržišnu vrijednost izvan funkcije pristupa.",
+  "flags": [
+    "sporno vlasništvo",
+    "provjeriti: namjena i funkcija čestice (pristupni put) te utjecaj na vrijednost"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "bdd0443070dc",
+  "scored_at": "2026-10-27T11:35:49.697750"
+}

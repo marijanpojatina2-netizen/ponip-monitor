@@ -1,0 +1,15 @@
+{
+  "id": "61723",
+  "score_overall": 3.9,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Livada od 401 m2 u k.o. Hrebinec prodaje se u cijelosti (1/1 vlasnički dio ovršenika) što je čišći pravni temelj od druge dvije nekretnine, ali nizak popust od 20% i ruralna poljoprivredna namjena drže ROI potencijal ograničenim. Vrlo niska apsolutna vrijednost čini ovo prije prilikom za doplatu uz susjedne parcele nego samostalnu investiciju.",
+  "flags": [
+    "provjeriti: namjena zemljišta i mogućnost prenamjene/gradnje"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "ee0cee643f8b",
+  "scored_at": "2026-10-27T11:35:49.698365"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "61782",
+  "score_overall": 4.2,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Kuća s dvorištem u Ogulinu, manjem gradu Karlovačke županije sa slabijom likvidnošću tržišta i blagim trendom depopulacije. Popust od 20% na prvoj dražbi je standardan, a opis ne otkriva stanje objekta niti postoji li teret ili stanar.",
+  "flags": [
+    "provjeriti: stanje objekta (opis ne navodi)",
+    "provjeriti: useljenost/postojanje stanara i tereta"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "fcd71c173821",
+  "scored_at": "2026-10-27T11:35:05.319043"
+}

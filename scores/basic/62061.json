@@ -1,0 +1,16 @@
+{
+  "id": "62061",
+  "score_overall": 4.2,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Mali jednosoban stan (42,87 m2) u Vinkovcima, slavonskom gradu sa slabijom likvidnošću i potražnjom. Popust od samo 20% na prvoj dražbi ne kompenzira regionalni rizik, a opis ne daje podatke o stanju ili useljenosti.",
+  "flags": [
+    "provjeriti: stanje stana",
+    "provjeriti: useljenost/postojanje stanara"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "d227c7d6261a",
+  "scored_at": "2026-10-27T11:35:05.319455"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "62002",
+  "score_overall": 6.3,
+  "score_lokacija": 8.5,
+  "score_roi": 6.0,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Zemljište od samo 113 m2 u Rovinju uz DC303, s poslovnom/turističkom namjenom (K/T4), u vrhunskoj istarskoj lokaciji blizu centra i mora. Minijaturna površina ograničava samostalnu gradivost i realni ROI, pa je prije ulaganja nužno provjeriti mogućnost gradnje ili spajanja s okolnim parcelama.",
+  "flags": [
+    "provjeriti: mogućnost gradnje/iskoristivost obzirom na malu površinu (113 m2)",
+    "provjeriti: utjecaj susjedstva reciklažnog dvorišta na vrijednost"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "b7666f7148dc",
+  "scored_at": "2026-10-27T11:35:05.319809"
+}
