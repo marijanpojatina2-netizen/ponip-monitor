@@ -1,0 +1,16 @@
+{
+  "id": "61737",
+  "score_overall": 6.4,
+  "score_lokacija": 6.5,
+  "score_roi": 7.0,
+  "score_stanje": 5.0,
+  "recommendation": "bid",
+  "reasoning": "Stan od 121 m2 u istoj zagrebačkoj zgradi po ~2.180 EUR/m2 s 20% popustom nudi usporedivo dobar omjer cijene i lokacije. Isti nedostatak podataka o stanju i mogućem zakupu kao kod susjednih udjela u zgradi.",
+  "flags": [
+    "provjeriti: useljenost/postojanje stanara ili zakupa",
+    "provjeriti: stvarno stanje nekretnine - u opisu nema podataka"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "ba2b1eeb6a89",
+  "scored_at": "2026-10-28T12:05:04.784959"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "61725",
+  "score_overall": 6.1,
+  "score_lokacija": 6.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Poslovni prostor od 85,5 m2 u Zagrebu po niskoj cijeni od ~1.225 EUR/m2 je zanimljiv za daljnje praćenje, ali manji poslovni prostori nose veći rizik praznine/potrebnog ulaganja u adaptaciju. Nedostatak podataka o trenutnom korištenju traži dodatnu provjeru.",
+  "flags": [
+    "provjeriti: useljenost/zakup poslovnog prostora",
+    "provjeriti: stvarno stanje prostora - u opisu nema podataka"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "e5c59d171d2f",
+  "scored_at": "2026-10-28T12:05:04.785654"
+}

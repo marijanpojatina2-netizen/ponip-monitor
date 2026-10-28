@@ -1,0 +1,16 @@
+{
+  "id": "61739",
+  "score_overall": 6.4,
+  "score_lokacija": 6.5,
+  "score_roi": 7.0,
+  "score_stanje": 5.0,
+  "recommendation": "bid",
+  "reasoning": "Veliki stan (163 m2) u Zagrebu (Dubrava) po cijeni ~2.120 EUR/m2 uz 20% popust je solidna ulaznica za urbano tržište. Nedostaju podaci o stanju i useljenosti pa treba provjeru prije licitacije.",
+  "flags": [
+    "provjeriti: useljenost/postojanje stanara ili zakupa",
+    "provjeriti: stvarno stanje nekretnine - u opisu nema podataka"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "9050c1becf40",
+  "scored_at": "2026-10-28T12:05:04.784674"
+}

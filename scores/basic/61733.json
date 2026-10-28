@@ -1,0 +1,16 @@
+{
+  "id": "61733",
+  "score_overall": 6.2,
+  "score_lokacija": 7.0,
+  "score_roi": 6.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Garaža (16,35 m2) kao suvlasnički dio (357/10000) etažnog vlasništva zgrade u Zagrebu, Aleja Lipa 7 - urbana lokacija je solidna ali apsolutna vrijednost i popust od tek 20% na prvoj dražbi ograničavaju ROI. Radi se o malom pomoćnom prostoru bez detaljnog opisa stanja, pa je investicijski interes ograničen na nišne kupce (vlasnike susjednih jedinica).",
+  "flags": [
+    "provjeriti: suvlasnički dio - predkupno pravo ostalih suvlasnika/etažnih vlasnika",
+    "provjeriti: stanje garaže (nije detaljno opisano u oglasu)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "0e3f590fce90",
+  "scored_at": "2026-10-28T12:06:21.177280"
+}

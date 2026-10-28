@@ -1,0 +1,15 @@
+{
+  "id": "62014",
+  "score_overall": 3.1,
+  "score_lokacija": 1.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Suvlasnički dio (2/5) oranice u k.o. Perenci s procijenjenom vrijednošću od samo 32 EUR, što čini jamčevinu i troškove postupka neusporedivo većima od vrijednosti predmeta. Nema praktičnog investicijskog smisla uz ruralnu lokaciju i sitni suvlasnički udio.",
+  "flags": [
+    "provjeriti: suvlasnički dio (2/5) - ostali suvlasnici i predkupno pravo"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "638ac48850d9",
+  "scored_at": "2026-10-28T12:06:21.178815"
+}

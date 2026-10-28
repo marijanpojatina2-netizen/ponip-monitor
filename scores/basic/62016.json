@@ -1,0 +1,15 @@
+{
+  "id": "62016",
+  "score_overall": 3.1,
+  "score_lokacija": 1.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Suvlasnički dio (2/5) dvorišta i voćnjaka u Perencima, procijenjena vrijednost od samo 149 EUR čini transakcijske troškove (nadmetanje, upis) nerazmjernima vrijednosti predmeta. Ruralna, depopulacijska lokacija dodatno smanjuje likvidnost ovakve sitne zemljišne čestice.",
+  "flags": [
+    "provjeriti: suvlasnički dio (2/5) - ostali suvlasnici i predkupno pravo"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "6500588211ab",
+  "scored_at": "2026-10-28T12:06:21.178395"
+}

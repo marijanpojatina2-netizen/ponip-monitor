@@ -1,0 +1,16 @@
+{
+  "id": "61731",
+  "score_overall": 5.9,
+  "score_lokacija": 6.5,
+  "score_roi": 6.0,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Mali poslovni prostor od 34,93 m2 u Zagrebu po ~1.310 EUR/m2 je najmanji i najmanje praktičan udio u zgradi, pogodan tek kao dodatna površina ili za nišnu namjenu. Potencijal postoji ali je ograničen veličinom prostora i nepoznatim stanjem.",
+  "flags": [
+    "provjeriti: useljenost/zakup poslovnog prostora",
+    "provjeriti: stvarno stanje prostora - u opisu nema podataka"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "24e6a5a89fad",
+  "scored_at": "2026-10-28T12:05:04.786124"
+}

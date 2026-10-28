@@ -1,0 +1,16 @@
+{
+  "id": "62133",
+  "score_overall": 6.9,
+  "score_lokacija": 7.0,
+  "score_roi": 7.5,
+  "score_stanje": 5.5,
+  "recommendation": "bid",
+  "reasoning": "Poslovni prostor i skladište u Novom Zagrebu uz 25% popust (~1.667 EUR/m2 kombinirano) daju fleksibilnost namjene i dobar ROI potencijal za poslovni prostor. Napomena: sud (Rijeka) ne odgovara lokaciji nekretnine koja je stvarno u Zagrebu, što treba imati na umu kod nadležnosti postupka.",
+  "flags": [
+    "provjeriti: useljenost/zakup poslovnog prostora i skladišta",
+    "sud nadležnosti ne odgovara stvarnoj lokaciji nekretnine (informativno)"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "82159d0a91c0",
+  "scored_at": "2026-10-28T12:05:04.785130"
+}

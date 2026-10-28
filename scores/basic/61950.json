@@ -1,0 +1,16 @@
+{
+  "id": "61950",
+  "score_overall": 5.7,
+  "score_lokacija": 5.5,
+  "score_roi": 7.0,
+  "score_stanje": 3.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Veći kompleks čestica (ukupno ~2.400 m2) u Sesvetskom Kraljevcu uz 25% popust nudi potencijal za zemljišnu banku na rubu Zagreba, ali fragmenti kuće (dio kuće od samo 7 m2) upućuju na podijeljeno i vjerojatno dotrajalo zdanje. Vrijedi detaljnije analizirati gradivost i stvarnu iskoristivost čestica prije odluke.",
+  "flags": [
+    "provjeriti: fragmentirano vlasništvo i stanje objekta (dio kuće upisan tek 7 m2)",
+    "provjeriti: namjena/gradivost čestica (dvorište, igralište, oranica)"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "817151460c93",
+  "scored_at": "2026-10-28T12:05:04.785277"
+}

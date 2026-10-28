@@ -1,0 +1,16 @@
+{
+  "id": "62139",
+  "score_overall": 3.7,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica u Karadžićevu (Vinkovci) je u depopulacijskom ruralnom području s niskom likvidnošću, a suvlasnički udio od samo 2/6 dodatno otežava samostalno upravljanje i prodaju. Slab investicijski case uz nizak popust od procjene.",
+  "flags": [
+    "provjeriti: suvlasništvo 2/6 - mogućnost diobe i suglasnost ostalih suvlasnika (4/6)",
+    "provjeriti: mogućnost privođenja namjeni obzirom na udio u vlasništvu"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "97e0d1802e9d",
+  "scored_at": "2026-10-28T12:05:04.785924"
+}

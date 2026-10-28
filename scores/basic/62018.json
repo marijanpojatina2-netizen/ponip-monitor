@@ -1,0 +1,16 @@
+{
+  "id": "62018",
+  "score_overall": 3.3,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Riječ je o maloj poljoprivrednoj parceli (livada, 97 m2) u ruralnom, depopulacijskom području k.o. Perenci kraj Požege, s minimalnom tržišnom vrijednošću i upitnom likvidnošću. Popust od 20% na prvoj dražbi ne kompenzira izrazito nisku apsolutnu vrijednost i činjenicu da se prodaje samo suvlasnički dio.",
+  "flags": [
+    "suvlasništvo - prodaje se samo 2/5 suvlasničkog dijela nekretnine",
+    "provjeriti: pristup i stvarna namjena parcele (poljoprivredno zemljište bez infrastrukture)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "09ee887d243e",
+  "scored_at": "2026-10-28T12:06:50.450256"
+}

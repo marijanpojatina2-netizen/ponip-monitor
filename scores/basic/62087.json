@@ -1,0 +1,16 @@
+{
+  "id": "62087",
+  "score_overall": 5.0,
+  "score_lokacija": 4.0,
+  "score_roi": 6.0,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Kuća s okućnicom i oranicom (1.640 m2) u Jesenovcu je ruralna lokacija s ograničenom likvidnošću, ali vlasništvo ovršenika 1/1 je čisto bez suvlasničkih komplikacija. Uz 20% popust prihvatljivo za praćenje, ne za agresivnu licitaciju zbog slabije lokacije.",
+  "flags": [
+    "provjeriti: useljenost kuće",
+    "provjeriti: stanje kuće i zgrade - detalji nedostaju u opisu"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "13b1f982f7f7",
+  "scored_at": "2026-10-28T12:05:04.785526"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "62020",
+  "score_overall": 3.3,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Još manja parcela livade (54 m2) u istom ruralnom području k.o. Perenci, s izrazito niskom procijenjenom vrijednošću i ograničenom samostalnom upotrebljivošću. Prodaja samo 2/5 suvlasničkog dijela dodatno smanjuje praktičnu investicijsku privlačnost.",
+  "flags": [
+    "suvlasništvo - prodaje se samo 2/5 suvlasničkog dijela nekretnine",
+    "provjeriti: pristup i stvarna namjena parcele (poljoprivredno zemljište bez infrastrukture)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "fe3fbb97d0e0",
+  "scored_at": "2026-10-28T12:06:50.450585"
+}
