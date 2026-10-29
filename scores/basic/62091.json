@@ -1,0 +1,16 @@
+{
+  "id": "62091",
+  "score_overall": 5.3,
+  "score_lokacija": 7.5,
+  "score_roi": 5.0,
+  "score_stanje": 2.0,
+  "recommendation": "watch",
+  "reasoning": "Lokacija u Zagrebu (Trešnjevka Nova) je atraktivna, ali predmet prodaje je samo suvlasnički dio 15/32 neizgrađene oranice od 478 m2, što značajno komplicira korištenje i likvidnost. Popust od 25% djelomično kompenzira rizik necjelovitog vlasništva.",
+  "flags": [
+    "suvlasništvo 15/32 - prodaje se samo dio nekretnine",
+    "provjeriti: mogućnost diobe suvlasničke zajednice i stav ostalih suvlasnika"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "27231e0cd818",
+  "scored_at": "2026-10-29T12:16:17.481553"
+}

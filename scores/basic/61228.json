@@ -1,0 +1,16 @@
+{
+  "id": "61228",
+  "score_overall": 4.3,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Čisto poljoprivredno zemljište (oranice) u okolici Čazme, slaba likvidnost ruralnog područja Bjelovarsko-bilogorske županije ozbiljno ograničava izlaznu strategiju unatoč 40% popustu na drugoj dražbi. Nema građevine, pa je investicijski potencijal nizak za dugoročni ROI.",
+  "flags": [
+    "provjeriti: status i korištenje nogometnog igrališta na čestici",
+    "provjeriti: pristup i komunalna infrastruktura"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "eb474c6b8d99",
+  "scored_at": "2026-10-29T12:16:17.481314"
+}

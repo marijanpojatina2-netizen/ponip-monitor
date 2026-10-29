@@ -1,0 +1,16 @@
+{
+  "id": "61972",
+  "score_overall": 5.4,
+  "score_lokacija": 8.5,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Lokacija na Rabu (k.o. Banjol) je atraktivna, ali predmet prodaje je tek 1/12 suvlasničkog dijela katastarske čestice upisane kao 'PUT' (pristupni put), što praktički nema samostalnu građevinsku ili stambenu vrijednost. Mala vrijednost, frakcijski suvlasnički udio i priroda čestice (infrastrukturni put, ne građevinsko zemljište) čine likvidnost i realni ROI potencijal vrlo niskim.",
+  "flags": [
+    "provjeriti: suvlasnički dio 1/12 - otežana diobna i tržišna likvidnost",
+    "provjeriti: čestica je upisana kao 'PUT' - potrebno utvrditi stvarnu namjenu i mogućnost samostalnog raspolaganja"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "1f6ba23a9f9a",
+  "scored_at": "2026-10-29T12:16:38.377543"
+}

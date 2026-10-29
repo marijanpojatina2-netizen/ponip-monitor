@@ -1,0 +1,16 @@
+{
+  "id": "61918",
+  "score_overall": 5.2,
+  "score_lokacija": 5.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Ivanić-Grad je solidna periferna lokacija uz Zagreb s kućom, dvorištem i oranicom na 763 m2, ali prodaje se samo 1/2 suvlasničkog dijela ovršenika što otežava stjecanje potpune kontrole nad nekretninom. Popust od 20% na prvoj dražbi je umjeren.",
+  "flags": [
+    "suvlasništvo 1/2 - prodaje se samo udio ovršenika",
+    "provjeriti: odnos i interes drugog suvlasnika"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "32f7859a7846",
+  "scored_at": "2026-10-29T12:16:17.481850"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "61168",
+  "score_overall": 4.5,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
+  "score_stanje": 1.5,
+  "recommendation": "pass",
+  "reasoning": "Žejane je izolirano planinsko selo u unutrašnjosti Istre izvan glavnih turističkih koridora, a predmet je samo neizgrađeno zemljište (livada i oranica) izvan naseljenog područja. Visoki popust od 40% na drugoj dražbi ne kompenzira nisku iskoristivost i vrlo nisku apsolutnu vrijednost.",
+  "flags": [
+    "provjeriti: pristup i komunalna infrastruktura",
+    "provjeriti: mogućnost gradnje prema prostornom planu"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "f5e9bfcd5692",
+  "scored_at": "2026-10-29T12:16:17.482358"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "61339",
+  "score_overall": 5.5,
+  "score_lokacija": 3.5,
+  "score_roi": 7.5,
+  "score_stanje": 4.5,
+  "recommendation": "bid",
+  "reasoning": "Kuća od 158 m2 u Belišću (Valpovo) na drugoj dražbi s 40% popustom donosi vrlo nisku apsolutnu ulaznu cijenu i realan ROI potencijal unatoč slabijoj slavonskoj lokaciji. Stanje kuće nije detaljno opisano, ali niska cijena po m2 upućuje na potrebu manjih do srednjih ulaganja.",
+  "flags": [
+    "provjeriti: stvarno stanje i useljivost kuće",
+    "provjeriti: eventualna useljenost treće osobe"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "55dc41ca4e67",
+  "scored_at": "2026-10-29T12:16:17.481980"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "61968",
+  "score_overall": 4.7,
+  "score_lokacija": 7.0,
+  "score_roi": 4.5,
+  "score_stanje": 1.0,
+  "recommendation": "pass",
+  "reasoning": "Otok Rab je vrhunska turistička lokacija, ali predmet prodaje je čestica katastarski evidentirana kao 'PUT' (pristupni put) od samo 76 m2, koja samostalno nema građevinsku ni stambenu funkciju. Vrijednost je zanimljiva jedino nekome s vlasništvom susjedne parcele kojem treba pristup.",
+  "flags": [
+    "provjeriti: namjena i mogućnost korištenja čestice (pristupni put)",
+    "provjeriti: status stečajnog postupka i dodatna opterećenja"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "9bfcb716245d",
+  "scored_at": "2026-10-29T12:16:17.482643"
+}
