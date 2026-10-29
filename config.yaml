@@ -21,6 +21,30 @@ max_detailed_per_run: 10
 # Veličina batch-a za basic scoring
 batch_size_basic: 8
 
+# OVRHOVODITELJ FILTER (v4)
+# --------------------------
+# Detekcija ovrhovoditelja iz PDF-a "Poziv na sudjelovanje u EJD" (Javna
+# objava) za dražbe koje prođu donje filtre. Kategorije iz
+# ovrhovoditelji_oib.csv: agencija, banka, banka_ugasena, drzava;
+# izvan liste: firma_ostalo / privatna_osoba / nepoznato.
+ovrhovoditelj_filter:
+  enabled: true
+  # Za koje kategorije šaljemo obavijest (sekcija u emailu)
+  obavijesti_za_kategorije: [agencija, banka, banka_ugasena, privatna_osoba, firma_ostalo, nepoznato]
+  # RH/Porezna uglavnom za male dugove — prilagodljivo
+  ignoriraj_kategorije: [drzava]
+  # Max PDF-ova po runu (1 req/s; novi imaju prednost, ostalo backfill)
+  max_pdf_po_runu: 40
+  # Filtri nekretnine — samo dražbe koje ovo prolaze idu u PDF dohvat
+  nekretnina:
+    # ključne riječi se traže u opisu (vrsta u CSV-u je samo "nekretnina");
+    # dijakritici nebitni (kuća == kuca), "stanje" se NE računa kao "stan"
+    kljucne_rijeci: [stan, kuća, apartman]
+    # vrijednosti kako ih vraća court_to_county() u monitor.py
+    zupanije: [Istarska, Primorsko-goranska, Grad Zagreb i okolica]
+    min_vrijednost_eur: 50000
+    max_vrijednost_eur: null
+
 # =============================================================================
 # NAPOMENE
 # =============================================================================

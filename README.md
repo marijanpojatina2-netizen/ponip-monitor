@@ -153,6 +153,32 @@ Nakon uspjeha:
 
 Ako sve OK, sljedeći scheduled run (sutra ujutro) šalje stvarni email.
 
+## Detekcija ovrhovoditelja (v4)
+
+Za dražbe koje prođu filtre u `config.yaml` (`ovrhovoditelj_filter.nekretnina`:
+ključne riječi, županije, min. vrijednost) monitor s Javne objave skine PDF
+"Poziv na sudjelovanje u EJD" (Playwright/Chromium — download je iza nevidljive
+reCAPTCHA-e), parsira ovrhovoditelja (naziv + OIB s ISO 7064 kontrolom) i
+klasificira ga prema `ovrhovoditelji_oib.csv`:
+
+- `agencija` / `banka` / `banka_ugasena` / `drzava` — poznati institucionalni vjerovnici (lista se dopunjava bez promjene koda)
+- `firma_ostalo` — pravni oblik u nazivu, a OIB nije na listi
+- `privatna_osoba` — najzanimljiviji slučajevi za otkup potraživanja
+- `nepoznato` — poziv nedostupan ili parsiranje palo (ručna provjera)
+
+Pogoci se šalju kao posebna sekcija u dnevnom emailu ("kandidati za otkup
+potraživanja"). **Privatnost:** imena i OIB-i idu SAMO u privatni email i u
+`data/ovrh/` state (gitignoran, GHA cache); javni dashboard i GHA logovi
+dobivaju isključivo agregat po kategorijama.
+
+Lokalni suhi rad (bez slanja):
+
+```bash
+python ovrhovoditelj.py --dry-run --limit 10
+```
+
+Unit testovi parsera/klasifikacije: `python test_ovrhovoditelj.py`
+
 ## Operacije
 
 ### Ručno pokretanje bilo kada

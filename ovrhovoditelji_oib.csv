@@ -1,0 +1,45 @@
+kategorija,naziv,oib,sjediste,napomena
+agencija,B2 KAPITAL d.o.o.,57509775367,Zagreb,B2 Impact grupa - glavni vjerovnik
+agencija,H-ABDUCO d.o.o.,13667298928,Zagreb,B2 Impact grupa - ex HETA/Hypo portfelj
+agencija,B2 Impact d.o.o. (ex Veraltis),32235033898,Zagreb,servicer HNB
+agencija,EOS MATRIX d.o.o.,76674680107,Zagreb,kupac i servicer
+agencija,EOS nekretnine d.o.o.,31075247773,Zagreb,EOS grupa - kupuje nekretnine na drazbama
+agencija,APS DELTA S.A.,45421012929,Luxembourg,APS vjerovnik u hrvatskim ovrhama
+agencija,APS Croatia d.o.o.,41275180055,Zagreb,APS servicer
+agencija,PRIMA SOLVENT d.o.o.,35029956158,Zagreb,
+agencija,SVEA EKONOMI d.o.o.,17863542417,Zagreb,uglavnom potrosacki dugovi
+agencija,AxFina Croatia d.o.o.,36629391168,Zagreb,servicer
+agencija,VALORIS CAPITAL d.o.o.,43198197832,Zagreb,servicer (ex Escont Collect)
+agencija,PROHIT d.o.o.,96844717278,Zagreb,servicer
+banka,Addiko Bank d.d.,14036333877,Zagreb,
+banka,Agram banka d.d.,70663193635,Zagreb,
+banka,Banka Kovanica d.d.,33039197637,Varazdin,
+banka,Croatia banka d.d.,32247795989,Zagreb,
+banka,Erste&Steiermarkische Bank d.d.,23057039320,Rijeka,
+banka,Hrvatska postanska banka d.d.,87939104217,Zagreb,
+banka,Imex banka d.d.,99326633206,Split,
+banka,Istarska kreditna banka Umag d.d.,65723536010,Umag,
+banka,J&T banka d.d.,38182927268,Varazdin,
+banka,Karlovacka banka d.d.,08106331075,Karlovac,
+banka,KentBank d.d.,73656725926,Zagreb,
+banka,OTP banka d.d.,52508873833,Split,
+banka,Partner banka d.d.,71221608291,Zagreb,
+banka,Podravska banka d.d.,97326283154,Koprivnica,
+banka,Privredna banka Zagreb d.d.,02535697732,Zagreb,
+banka,Raiffeisenbank Austria d.d.,53056966535,Zagreb,
+banka,Samoborska banka d.d.,13806526186,Samobor,
+banka,Slatinska banka d.d.,42252496579,Slatina,
+banka,Zagrebacka banka d.d.,92963223473,Zagreb,
+banka,Solvera stambena stedionica d.d.,07942675532,Zagreb,
+banka,BKS Bank AG podruznica Hrvatska,02138784111,,
+banka_ugasena,Sberbank / Nova hrvatska banka d.d.,78427478595,Zagreb,pripojena HPB-u 2023
+banka_ugasena,Jadranska banka d.d.,02899494784,Sibenik,pripojena HPB-u 2019
+banka_ugasena,Splitska banka d.d.,69326397242,Split,pripojena OTP-u 2018
+banka_ugasena,Veneto banka d.d.,81712716992,Zagreb,pripojena PBZ-u
+banka_ugasena,Alpe Jadran banka d.d.,14823943776,Split,u stecaju
+banka_ugasena,Banka splitsko-dalmatinska d.d.,25351138943,Split,u stecaju
+banka_ugasena,Centar banka d.d.,89296739230,Zagreb,u stecaju
+banka_ugasena,Nava banka d.d.,07492912398,Zagreb,u stecaju
+drzava,Republika Hrvatska,52634238587,,
+drzava,RH Ministarstvo financija / Porezna uprava,18683136487,Zagreb,
+drzava,HBOR,26702280390,Zagreb,

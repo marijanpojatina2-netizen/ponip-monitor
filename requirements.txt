@@ -2,3 +2,5 @@ pandas
 pyyaml
 requests
 python-dotenv
+playwright
+pypdf

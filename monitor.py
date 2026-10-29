@@ -360,7 +360,98 @@ def ai_score(r: dict) -> float:
         return 0.0
 
 
-def build_email_html(new_items: list[dict], urgent_items: list[dict], meta: dict, public_url: str | None) -> str:
+OVRH_KAT_STIL = {
+    # kategorija: (ikona, pozadina, boja teksta, labela)
+    "privatna_osoba": ("&#128100;", "#ede9fe", "#4c1d95", "PRIVATNA OSOBA"),
+    "agencija": ("&#127974;", "#fef3c7", "#78350f", "AGENCIJA ZA OTKUP"),
+    "banka": ("&#127974;", "#dbeafe", "#1e3a8a", "BANKA"),
+    "banka_ugasena": ("&#127974;", "#e5e7eb", "#374151", "BANKA (UGAŠENA)"),
+    "firma_ostalo": ("&#127970;", "#d1fae5", "#064e3b", "FIRMA"),
+    "nepoznato": ("&#10067;", "#fee2e2", "#7f1d1d", "NEPOZNATO — RUČNA PROVJERA"),
+}
+
+
+def build_ovrh_section(ovrh_map: dict[str, dict], by_id: dict[str, dict]) -> str:
+    """Sekcija 'kandidati za otkup potraživanja' — samo za privatni email."""
+    if not ovrh_map:
+        return ""
+    # Privatne osobe prve (najzanimljivije za otkup), pa agencije itd.
+    redoslijed = ["privatna_osoba", "agencija", "banka", "banka_ugasena",
+                  "firma_ostalo", "nepoznato"]
+    stavke = sorted(
+        ovrh_map.items(),
+        key=lambda kv: (redoslijed.index(kv[1].get("kategorija", "nepoznato")),
+                        -(by_id.get(kv[0], {}).get("vrijednost") or 0)),
+    )
+    blocks = []
+    for id_, st in stavke[:20]:
+        r = by_id.get(id_, {})
+        kat = st.get("kategorija", "nepoznato")
+        ikona, bg, fg, label = OVRH_KAT_STIL.get(kat, OVRH_KAT_STIL["nepoznato"])
+        ovs = st.get("ovrhovoditelji") or []
+        ov_html = "<br>".join(
+            (('<span style="color:#6b7280;">stečajni dužnik:</span> '
+              if o.get("uloga") == "stečajni dužnik" else "")
+             + f'<b>{o.get("naziv", "—")}</b> <span style="color:#6b7280;">(OIB: {o.get("oib", "—")})</span>')
+            for o in ovs
+        ) or "<i>parsiranje nije uspjelo — provjeri ručno na Javnoj objavi</i>"
+        ovrsenici = st.get("ovrsenici") or []
+        ovrsenik_html = (
+            f'<div style="color:#6b7280;font-size:11px;margin-top:2px;">ovršenik: '
+            f'{", ".join(o.get("naziv", "") for o in ovrsenici[:3])}</div>'
+            if ovrsenici else ""
+        )
+        discount = None
+        if r.get("vrijednost") and r.get("pocetna"):
+            try:
+                discount = round((1 - r["pocetna"] / r["vrijednost"]) * 100)
+            except ZeroDivisionError:
+                pass
+        novo_badge = (
+            '<span style="background:#eaf3de;color:#27500A;padding:2px 6px;border-radius:8px;'
+            'font-size:10px;font-weight:700;margin-left:6px;">NOVO</span>'
+            if r.get("nova") else ""
+        )
+        jo_link = (
+            f'https://ponip.fina.hr/javnaobjava-web/pretrazivanje/pismena?pp={st.get("uuid")}'
+            if st.get("uuid") else "https://ponip.fina.hr/javnaobjava-web/"
+        )
+        blocks.append(f"""
+<div style="background:#fff;border:1px solid #e5e7eb;border-left:4px solid {fg};border-radius:8px;padding:14px;margin-bottom:10px;">
+  <div style="font-size:13px;margin-bottom:6px;">
+    {ikona} <span style="background:{bg};color:{fg};padding:2px 8px;border-radius:10px;font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.03em;">{label}</span>
+    {novo_badge}
+  </div>
+  <div style="font-size:13px;margin-bottom:4px;">{ov_html}</div>
+  {ovrsenik_html}
+  <div style="font-size:12px;color:#374151;margin-top:8px;">
+    &#128205; {r.get("zupanija", "—")} &middot; {(r.get("opis") or "")[:160]}
+  </div>
+  <div style="font-size:12px;margin-top:6px;">
+    &#128182; Vrijednost <b>{fmt_eur(r.get("vrijednost"))}</b> | početna <b>{fmt_eur(r.get("pocetna"))}</b>
+    {f'({discount}% popusta)' if discount is not None else ''} | {r.get("runda") or "?"} dražba
+  </div>
+  <div style="font-size:11px;color:#6b7280;margin-top:4px;">
+    &#128197; Jamčevina do <b>{fmt_date(r.get("rokJamcevina"))}</b> | nadmetanje {fmt_date(r.get("pocetakNadm"))}&ndash;{fmt_date(r.get("zavrsetakNadm"))}<br>
+    &#9878;&#65039; {r.get("sud", "—")}, {st.get("poslBroj", "—")} | ID {id_}<br>
+    &#128279; <a href="{r.get("finaUrl") or "#"}" style="color:#2563eb;">očevidnik</a> &middot;
+    <a href="{jo_link}" style="color:#2563eb;">javna objava (pismena)</a>
+  </div>
+</div>""")
+    return f"""
+<h2 style="font-size:15px;font-weight:600;margin:24px 0 8px;border-left:3px solid #7c3aed;padding-left:10px;">
+  &#127974; Ovrhovoditelji — kandidati za otkup potraživanja ({len(ovrh_map)})
+</h2>
+<p style="font-size:11px;color:#6b7280;margin:0 0 10px;">
+  Dražbe koje prolaze filtre (lokacija/vrsta/vrijednost) u kojima je ovrhovoditelj
+  agencija za otkup dugova, banka ili privatna osoba — potencijalni otkup potraživanja
+  prije ili za vrijeme dražbe.
+</p>
+{"".join(blocks)}"""
+
+
+def build_email_html(new_items: list[dict], urgent_items: list[dict], meta: dict, public_url: str | None,
+                     ovrh_map: dict[str, dict] | None = None, all_records: list[dict] | None = None) -> str:
     def render_rows(items):
         rows = []
         for r in items[:30]:
@@ -422,6 +513,8 @@ def build_email_html(new_items: list[dict], urgent_items: list[dict], meta: dict
         return "".join(rows)
 
     today = datetime.now().strftime("%d.%m.%Y")
+    by_id = {r["id"]: r for r in (all_records or new_items + urgent_items)}
+    ovrh_html = build_ovrh_section(ovrh_map or {}, by_id)
     urgent_html = render_rows(urgent_items) if urgent_items else '<tr><td colspan="5" style="padding:16px;color:#999;text-align:center;font-size:12px;">Nema jamčevina koje dospijevaju u sljedećih 7 dana.</td></tr>'
     new_html = render_rows(new_items) if new_items else '<tr><td colspan="5" style="padding:16px;color:#999;text-align:center;font-size:12px;">Nema novih nadmetanja od jučer.</td></tr>'
 
@@ -498,6 +591,8 @@ def build_email_html(new_items: list[dict], urgent_items: list[dict], meta: dict
       </tr>
     </table>
 
+    {ovrh_html}
+
     <h2 style="font-size:15px;font-weight:600;margin:24px 0 8px;border-left:3px solid #E24B4A;padding-left:10px;">
       Jamčevina dospijeva u sljedećih 7 dana
     </h2>
@@ -541,7 +636,8 @@ def build_email_html(new_items: list[dict], urgent_items: list[dict], meta: dict
 </html>"""
 
 
-def _write_dashboard(records: list[dict], cutoff_days: int) -> None:
+def _write_dashboard(records: list[dict], cutoff_days: int,
+                     ovrh_summary: dict | None = None) -> None:
     new_records = [r for r in records if r["nova"]]
     urgent_records = [r for r in records if r["urgent"]]
     meta = {
@@ -553,6 +649,8 @@ def _write_dashboard(records: list[dict], cutoff_days: int) -> None:
         "alert_days": cutoff_days,
         "scored_count": sum(1 for r in records if r.get("score")),
         "detailed_count": sum(1 for r in records if r.get("detailed")),
+        # Javni dashboard: SAMO agregat po kategorijama, nikad imena/OIB-i
+        "ovrh_summary": ovrh_summary or {},
     }
     html = build_dashboard(records, meta)
     DASHBOARD_OUT.write_text(html, encoding="utf-8")
@@ -624,6 +722,22 @@ def main():
     if live:
         log.info(f"FINA live merge: {matched}/{len(records)} record-a uparili s live podacima")
 
+    # OVRHOVODITELJI (v4): klasifikacija vjerovnika za filtrirane dražbe.
+    # Rezultat NAMJERNO ne ide u records (dashboard payload je javan —
+    # osobni podaci ostaju u data/ovrh + privatnom emailu); u dashboard
+    # meta ide samo agregat po kategorijama.
+    ovrh_map: dict[str, dict] = {}
+    ovrh_summary: dict[str, int] = {}
+    if (cfg.get("ovrhovoditelj_filter") or {}).get("enabled"):
+        log.info("Pokrećem detekciju ovrhovoditelja...")
+        try:
+            from ovrhovoditelj import process_ovrhovoditelji, summary_counts
+            ovrh_map = process_ovrhovoditelji(records, cfg)
+            ovrh_summary = summary_counts(ovrh_map)
+            log.info(f"Ovrhovoditelji agregat: {ovrh_summary}")
+        except Exception as e:
+            log.exception(f"Detekcija ovrhovoditelja pala: {e} — nastavljam bez nje")
+
     # PRE-SCORING: napuni iz cache-a pa napiši dashboard odmah (safety-net
     # za slučaj da scoring padne na timeoutu — makar imamo svježi dashboard
     # s današnjim recordima i postojećim cached scoreovima).
@@ -652,7 +766,7 @@ def main():
         log.info("Scoring disabled u configu")
 
     # Finalni dashboard (sa svježim scoreovima iz ove iteracije)
-    _write_dashboard(records, cutoff_days)
+    _write_dashboard(records, cutoff_days, ovrh_summary)
 
     new_records = [r for r in records if r["nova"]]
     urgent_records = [r for r in records if r["urgent"]]
@@ -674,7 +788,10 @@ def main():
 
     # Email arhiva
     public_url = os.environ.get("PONIP_PUBLIC_URL")
-    email_html = build_email_html(new_records, urgent_records, meta, public_url)
+    email_html = build_email_html(
+        new_records, urgent_records, meta, public_url,
+        ovrh_map=ovrh_map, all_records=records,
+    )
     email_path = REPORTS_DIR / f"email_{meta['today']}.html"
     email_path.write_text(email_html, encoding="utf-8")
     log.info(f"Email arhiva: {email_path}")
@@ -693,7 +810,9 @@ def main():
 
     subject = (
         f"PONIP dražbe {datetime.now().strftime('%d.%m.%Y')} "
-        f"({len(new_records)} novih, {len(urgent_records)} hitnih)"
+        f"({len(new_records)} novih, {len(urgent_records)} hitnih"
+        + (f", {len(ovrh_map)} vjerovnik-match" if ovrh_map else "")
+        + ")"
     )
     try:
         send_email(subject, email_html, to_addr)
