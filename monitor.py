@@ -383,8 +383,12 @@ def build_ovrh_section(ovrh_map: dict[str, dict], by_id: dict[str, dict]) -> str
         key=lambda kv: (redoslijed.index(kv[1].get("kategorija", "nepoznato")),
                         -(by_id.get(kv[0], {}).get("vrijednost") or 0)),
     )
+    # Klasificirane dobivaju kartice; "nepoznato" (captcha/parse fail) ide
+    # u kompaktnu tablicu — inače 40 praznih kartica zatrpa mail
+    klasificirane = [(i, s) for i, s in stavke if s.get("kategorija") != "nepoznato"]
+    nepoznate = [(i, s) for i, s in stavke if s.get("kategorija") == "nepoznato"]
     blocks = []
-    for id_, st in stavke[:20]:
+    for id_, st in klasificirane[:20]:
         r = by_id.get(id_, {})
         kat = st.get("kategorija", "nepoznato")
         ikona, bg, fg, label = OVRH_KAT_STIL.get(kat, OVRH_KAT_STIL["nepoznato"])
@@ -438,16 +442,55 @@ def build_ovrh_section(ovrh_map: dict[str, dict], by_id: dict[str, dict]) -> str
     <a href="{jo_link}" style="color:#2563eb;">javna objava (pismena)</a>
   </div>
 </div>""")
+    nep_html = ""
+    if nepoznate:
+        nep_rows = []
+        for id_, st in nepoznate[:40]:
+            r = by_id.get(id_, {})
+            jo_link = (
+                f'https://ponip.fina.hr/javnaobjava-web/pretrazivanje/pismena?pp={st.get("uuid")}'
+                if st.get("uuid") else "https://ponip.fina.hr/javnaobjava-web/"
+            )
+            nep_rows.append(
+                f'<tr style="border-bottom:1px solid #f3f4f6;">'
+                f'<td style="padding:5px 8px;font-size:11px;white-space:nowrap;">{id_}</td>'
+                f'<td style="padding:5px 8px;font-size:11px;">{st.get("poslBroj", "—")}</td>'
+                f'<td style="padding:5px 8px;font-size:11px;">{r.get("zupanija", "—")}</td>'
+                f'<td style="padding:5px 8px;font-size:11px;text-align:right;white-space:nowrap;">{fmt_eur(r.get("vrijednost"))}</td>'
+                f'<td style="padding:5px 8px;font-size:11px;white-space:nowrap;">{fmt_date(r.get("rokJamcevina"))}</td>'
+                f'<td style="padding:5px 8px;font-size:11px;white-space:nowrap;">'
+                f'<a href="{r.get("finaUrl") or "#"}" style="color:#2563eb;">očevidnik</a> &middot; '
+                f'<a href="{jo_link}" style="color:#2563eb;">pismena</a></td></tr>'
+            )
+        nep_html = f"""
+<p style="font-size:12px;color:#374151;margin:14px 0 6px;">
+  &#10067; <b>{len(nepoznate)}</b> dražbi prolazi filtre, ali ovrhovoditelj još nije utvrđen
+  (captcha na preuzimanju ili parsiranje) — automatski retry za 2 dana; za ručnu provjeru
+  klikni "pismena" pa <code>--import-pdf</code>:
+</p>
+<table role="presentation" style="width:100%;border-collapse:collapse;">
+  <thead><tr style="background:#fafaf8;text-align:left;">
+    <th style="padding:5px 8px;font-size:10px;color:#888;text-transform:uppercase;">ID</th>
+    <th style="padding:5px 8px;font-size:10px;color:#888;text-transform:uppercase;">spis</th>
+    <th style="padding:5px 8px;font-size:10px;color:#888;text-transform:uppercase;">županija</th>
+    <th style="padding:5px 8px;font-size:10px;color:#888;text-transform:uppercase;text-align:right;">vrijednost</th>
+    <th style="padding:5px 8px;font-size:10px;color:#888;text-transform:uppercase;">rok jamč.</th>
+    <th style="padding:5px 8px;font-size:10px;color:#888;text-transform:uppercase;">linkovi</th>
+  </tr></thead>
+  <tbody>{"".join(nep_rows)}</tbody>
+</table>"""
+
     return f"""
 <h2 style="font-size:15px;font-weight:600;margin:24px 0 8px;border-left:3px solid #7c3aed;padding-left:10px;">
-  &#127974; Ovrhovoditelji — kandidati za otkup potraživanja ({len(ovrh_map)})
+  &#127974; Ovrhovoditelji — kandidati za otkup potraživanja ({len(klasificirane)} + {len(nepoznate)} neutvrđenih)
 </h2>
 <p style="font-size:11px;color:#6b7280;margin:0 0 10px;">
   Dražbe koje prolaze filtre (lokacija/vrsta/vrijednost) u kojima je ovrhovoditelj
   agencija za otkup dugova, banka ili privatna osoba — potencijalni otkup potraživanja
   prije ili za vrijeme dražbe.
 </p>
-{"".join(blocks)}"""
+{"".join(blocks) if blocks else '<p style="font-size:12px;color:#6b7280;">Danas nema novih klasificiranih.</p>'}
+{nep_html}"""
 
 
 def build_email_html(new_items: list[dict], urgent_items: list[dict], meta: dict, public_url: str | None,
