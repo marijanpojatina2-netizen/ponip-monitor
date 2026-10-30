@@ -1,0 +1,16 @@
+{
+  "id": "62147",
+  "score_overall": 4.8,
+  "score_lokacija": 4.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Kompleks poslovnih i gospodarskih zgrada u Nedelišću, ali predmet prodaje je samo 1/2 suvlasničkog dijela nekretnine pod a), što bitno komplicira korištenje i buduću prodaju cjeline. Popust od 25% djelomično kompenzira rizik, ali potrebna je provjera odnosa s drugim suvlasnikom.",
+  "flags": [
+    "suvlasništvo - prodaje se samo 1/2 dijela nekretnine pod a)",
+    "provjeriti: identitet i suglasnost ostalog suvlasnika"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "847f3faf97cd",
+  "scored_at": "2026-10-30T09:27:35.954380"
+}

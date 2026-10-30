@@ -1,0 +1,36 @@
+{
+  "id": "60250",
+  "score_overall": 5.2,
+  "score_lokacija": 3.5,
+  "score_roi": 7.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Nekretnina se nalazi u Svetom Križu Začretju, ruralnoj općini u Krapinsko-zagorskoj županiji s ograničenom likvidnošću tržišta i slabijom potražnjom. Popust od 75% na trećoj dražbi je izuzetno velik i stvara prostor za ROI, ali ukazuje i na nisku atraktivnost imovine na prethodnim dražbama (nije se prodala dva puta po višoj cijeni). Riječ je o stambeno-gospodarskom kompleksu (kuća + gospodarska zgrada + dvorište) čije stanje nije opisano, a stečajni postupak nosi dodatnu pravnu kompleksnost. Zbog niske lokacijske vrijednosti i nepoznatog stanja objekta, preporuka je 'watch' uz obavezan due diligence prije eventualnog ulaska.",
+  "flags": [
+    "provjeriti: stvarno stanje kuće i gospodarske zgrade (opis dražbe ne navodi stanje/godinu gradnje/renovacije)",
+    "provjeriti: stanuje li netko u nekretnini (nije navedeno u opisu stečajnog postupka)",
+    "provjeriti: postoje li tereti, hipoteke ili prava trećih koja ne prestaju prodajom (uvid u ZK odjel Zabok, zk.ul. 4454)",
+    "provjeriti: pristupni put i komunalna infrastruktura (voda, struja, kanalizacija) za adresu Ivana Kukuljevića Sakcinskog 22"
+  ],
+  "market_estimate": {
+    "eur_min": 180000,
+    "eur_max": 280000,
+    "confidence": "low",
+    "basis": "WebSearch i WebFetch alati nisu bili autorizirani u ovoj sesiji, pa procjena NIJE potkrijepljena live tržišnim podacima niti konkretnim oglasima/URL-ovima — to treba naknadno provjeriti. Raspon se temelji na općem poznavanju tržišta ruralnih/manjih mjesta u Krapinsko-zagorskoj županiji u blizini Zaboka, gdje su starije kuće s okućnicom od 600+ m2 tipično u rasponu 150.000-300.000 EUR ovisno o stanju i udaljenosti od A2 autoceste. Utvrđena vrijednost suda od 635.700 EUR djeluje visoko za ovaj tip i lokaciju nekretnine i treba se preispitati stvarnim tržišnim oglasima."
+  },
+  "comparables": [],
+  "investment_strategy": "Ako due diligence pokaže da nema stanara ni tereta, strategija bi bila reno-flip ili dugoročno iznajmljivanje nakon obnove kuće i gospodarske zgrade — lokacija je blizu A2 autoceste (Zagreb-Krapina), što može privući kupce koji rade u Zagrebu ali traže mirniji okoliš. Bez provjerenih tržišnih podataka teško je potvrditi profitabilnost na deklariranoj utvrđenoj vrijednosti od 635.700 EUR.",
+  "entry_price_eur": 160000,
+  "detailed_risks": [
+    "Stečajni postupak nosi rizik skrivenih tereta ili spora oko imovine stečajnog dužnika",
+    "Visoka utvrđena vrijednost (635.700 EUR) u odnosu na tip i lokaciju nekretnine ukazuje na mogući nerealan procjeniteljski osnov",
+    "Treća dražba znači da je nekretnina već dva puta odbijena na tržištu po višim cijenama — mogući strukturni problem (stanje, pravno opterećenje, pristup)",
+    "Nedostatak detaljnog opisa stanja objekta (godina gradnje, renovacije, useljivost)",
+    "Analiza nije mogla koristiti live tržišne podatke zbog tehničkog ograničenja pristupa internetu u ovoj sesiji"
+  ],
+  "upside_scenario": "Uz nisku ulaznu cijenu (blizu početne cijene 158.925 EUR) i uspješnu obnovu, nekretnina bi mogla doseći tržišnu vrijednost 200.000-280.000 EUR unutar 2-3 godine, posebno ako se gospodarska zgrada pretvori u dodatni prihodovni prostor.",
+  "downside_scenario": "Ako se na razgledavanju utvrde ozbiljni strukturni problemi, neriješeni tereti ili osoba koja stanuje u nekretnini s pravom koje ne prestaje prodajom, investicija postaje nelikvidna i zahtijeva dugotrajan sudski postupak iseljenja/brisanja tereta, uz troškove koji mogu premašiti uštedu od popusta.",
+  "discount_pct": 75.0,
+  "input_hash": "2ab5fa9b3ecb",
+  "scored_at": "2026-10-30T09:34:22.224436"
+}

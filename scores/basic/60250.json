@@ -1,0 +1,15 @@
+{
+  "id": "60250",
+  "score_overall": 6.2,
+  "score_lokacija": 3.5,
+  "score_roi": 9.0,
+  "score_stanje": 4.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Kuća s gospodarskom zgradom i dvorištem u Svetom Križu Začretju ide na trećoj dražbi s ogromnim popustom od 75% od procjene, što je izniman ROI signal unatoč ruralnoj, manje likvidnoj lokaciji. Dvostruko neprodana nekretnina zaslužuje detaljnu provjeru stanja i razloga za nezainteresiranost tržišta prije licitacije.",
+  "flags": [
+    "provjeriti: stanje nekretnine i razlog neprodaje na prethodne dvije dražbe"
+  ],
+  "discount_pct": 75.0,
+  "input_hash": "2ab5fa9b3ecb",
+  "scored_at": "2026-10-30T09:27:35.954554"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "62151",
+  "score_overall": 3.6,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Manje parcele livade i šume u Nedelišću i okolici bez ikakvih građevina, nisko likvidna ruralna zemljišta s ograničenom razvojnom vrijednosti. Popust od 25% ne kompenzira nisku iskoristivost i malu vrijednost ukupnog paketa.",
+  "flags": [],
+  "discount_pct": 25.0,
+  "input_hash": "9ab2447e0a09",
+  "scored_at": "2026-10-30T09:27:35.955150"
+}

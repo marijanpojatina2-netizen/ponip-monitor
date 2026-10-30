@@ -1,0 +1,15 @@
+{
+  "id": "62041",
+  "score_overall": 4.9,
+  "score_lokacija": 5.5,
+  "score_roi": 5.0,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Građevinsko zemljište u Starom Pazinu (Istra) na prvoj dražbi s tek 20% popusta, solidna lokacija unutar istarskog zaleđa ali nije obalna/turistička zona. Pristupni put postoji samo na katastru i nije fizički realiziran na terenu što značajno otežava gradnju i smanjuje trenutnu iskoristivost.",
+  "flags": [
+    "provjeriti: pristup nekretnini (put evidentiran na katastru ali nije realiziran na terenu)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "c9cc2143c7ae",
+  "scored_at": "2026-10-30T09:28:53.553951"
+}

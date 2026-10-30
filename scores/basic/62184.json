@@ -1,0 +1,13 @@
+{
+  "id": "62184",
+  "score_overall": 3.9,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Kuća s gospodarskim zgradama u Petlovcu, ruralnom selu u Baranji s izraženom depopulacijom i slabom likvidnošću tržišta. Popust od samo 20% na prvoj dražbi ne kompenzira slabu lokaciju niti nudi dovoljan ROI potencijal za investitora.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "64b1a263fd99",
+  "scored_at": "2026-10-30T09:28:53.554304"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "60903",
+  "score_overall": 5.6,
+  "score_lokacija": 2.5,
+  "score_roi": 8.0,
+  "score_stanje": 5.5,
+  "recommendation": "bid",
+  "reasoning": "Dvosobni stan u Kneževu (Baranja) ide u drugu dražbu s čak 40% popusta od procijenjene vrijednosti, što uz nisku apsolutnu cijenu (cca 11.500 EUR) daje izrazito povoljan ulazni omjer. Lokacija je slaba (ruralna, depopulacijska Baranja) što ograničava likvidnost, ali cijena je dovoljno niska da opravdava licitaciju kao vrijednosnu kupnju.",
+  "flags": [],
+  "discount_pct": 40.0,
+  "input_hash": "f1716e923f25",
+  "scored_at": "2026-10-30T09:28:53.554676"
+}

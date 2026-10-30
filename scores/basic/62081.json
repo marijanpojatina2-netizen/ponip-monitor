@@ -1,0 +1,15 @@
+{
+  "id": "62081",
+  "score_overall": 4.5,
+  "score_lokacija": 3.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Dvorište i poslovne zgrade u Svetom Iliji (Međimurje) nude 25% popusta, ali predmet prodaje je suvlasnički dio s neodređenim omjerom, što znači da stvarna veličina udjela nije poznata. Ovo je značajna pravna nepoznanica koja zahtijeva provjeru prije bilo kakve ozbiljnije procjene vrijednosti.",
+  "flags": [
+    "provjeriti: suvlasnički dio s neodređenim omjerom - nejasna stvarna veličina udjela"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "607243d689a5",
+  "scored_at": "2026-10-30T09:27:35.954877"
+}

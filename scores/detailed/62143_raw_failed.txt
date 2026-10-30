@@ -1,0 +1,39 @@
+Nemam pristup web pretraživanju u ovoj sesiji (zahtjev za dozvolu je odbijen), pa procjenu tržišne vrijednosti temeljim na podacima iz opisa i općem poznavanju tržišta Međimurja — s niskom razinom pouzdanosti i bez izmišljanja konkretnih poveznica/oglasa koje nisam stvarno provjerio.
+
+```json
+{
+  "id": "62143",
+  "score_overall": 5.3,
+  "score_lokacija": 5.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Industrijska hala s izravnim pristupom glavnoj cesti u Nedelišću (Međimurje, uz Čakovec i blizu granice s Mađarskom/Slovenijom) ima solidnu logističku lokaciju, ali opis ne navodi m2 objekta niti stvarno tehničko stanje hale. Riječ je o prvoj dražbi stečajnog dužnika s tek 25% popusta od procijenjene vrijednosti, što ne daje izraženu cjenovnu prednost. Zemljišnoknjižni upis parcela kao 'livada' uz stvarnu namjenu 'poslovna hala' upućuje na mogući neusklađen pravni status koji treba provjeriti prije ulaganja.",
+  "flags": [
+    "provjeriti: veličina i tehničko stanje poslovne hale (m2 objekta nije naveden u opisu)",
+    "provjeriti: neusklađenost zemljišnoknjižnog stanja (upisano kao livada) sa stvarnom namjenom (poslovna hala) - mogući problem legalizacije/uporabne dozvole",
+    "provjeriti: postojanje tereta, hipoteka ili prava koja ne prestaju prodajom s obzirom na stečajni postupak",
+    "provjeriti: stanje komunalne infrastrukture (struja, voda, odvodnja) na lokaciji"
+  ],
+  "market_estimate": {
+    "eur_min": 1800000,
+    "eur_max": 2700000,
+    "confidence": "low",
+    "basis": "Web pretraga nije bila dostupna u ovoj sesiji (dozvola odbijena), pa procjena nije potkrijepljena stvarnim aktivnim oglasima niti provjerenim m2 cijenama za industrijske objekte u Međimurju. Raspon je okvirno izveden iz procijenjene vrijednosti (2.9M EUR) i početne cijene (2.175M EUR); stvarna vrijednost ovisi presudno o veličini i stanju hale koje nije navedeno u opisu.",
+  },
+  "comparables": [],
+  "investment_strategy": "Iznajmljivanje industrijskog/proizvodnog prostora proizvodnoj ili logističkoj tvrtki (prednost: izravan pristup glavnoj cesti, blizina granice s Mađarskom i Slovenijom, relativna blizina A4 autoceste) ili preprodaja investitoru iz regije nakon potvrde tehničkog stanja. Prije ulaganja nužno utvrditi stvarnu kvadraturu objekta i stanje krovišta/instalacija.",
+  "entry_price_eur": 2000000,
+  "detailed_risks": [
+    "Nedostaje podatak o kvadraturi i tehničkom stanju hale - bez toga nije moguća pouzdana procjena vrijednosti",
+    "Zemljišnoknjižni upis (livada) ne odgovara stvarnoj namjeni (poslovna hala) - rizik problema s legalizacijom ili uporabnom dozvolom",
+    "Stečajni postupak nosi standardni rizik neotkrivenih tereta koji ne prestaju prodajom",
+    "Prva dražba s ograničenim popustom (25%) - nema dodatne cjenovne marže kao kod trećih/četvrtih dražbi",
+    "Specijalizirana industrijska namjena smanjuje broj potencijalnih kupaca/zakupaca u regiji"
+  ],
+  "upside_scenario": "Ako se utvrdi da je hala veće kvadrature (npr. >1500-2000 m2) u dobrom konstrukcijskom stanju i s urednim pravnim statusom, nekretnina se može iznajmiti proizvodnoj/logističkoj tvrtki uz stabilan prinos ili preprodati u 2-3 godine uz 15-20% profita, osobito ako se potražnja za industrijskim prostorom u Međimurju nastavi zbog blizine granice i autoceste.",
+  "downside_scenario": "Ako se pravnom provjerom utvrde neriješeni tereti, neusklađena dokumentacija (uporabna dozvola) ili je objekt u lošijem stanju nego što opis sugerira, nekretnina ostaje na drugoj/trećoj dražbi uz postupno smanjenje cijene bez stvarnog interesa kupaca."
+}
+```
+
+**Napomena:** Zbog nedostupnosti web pretraživanja u ovoj sesiji, dio analize (market_estimate i comparables) nije potkrijepljen provjerenim vanjskim podacima — preporučujem ponovnu analizu s omogućenim web pretraživanjem prije donošenja konačne odluke o ulaganju, s obzirom da vrijednost nekretnine prelazi 500k EUR prag za detaljnu analizu.

@@ -1,0 +1,13 @@
+{
+  "id": "62143",
+  "score_overall": 5.4,
+  "score_lokacija": 4.5,
+  "score_roi": 6.0,
+  "score_stanje": 5.5,
+  "recommendation": "watch",
+  "reasoning": "Industrijski kompleks (dvije poslovne hale) u Nedelišću kraj Čakovca s izravnim pristupom glavnoj cesti, solidan popust od 25% na prvoj dražbi. Lokacija je periferna za ozbiljan ROI, a tržište za poslovne hale te veličine je plitko i traži specifičnog kupca.",
+  "flags": [],
+  "discount_pct": 25.0,
+  "input_hash": "e416ddb43e1f",
+  "scored_at": "2026-10-30T09:27:35.954098"
+}

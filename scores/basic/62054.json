@@ -1,0 +1,13 @@
+{
+  "id": "62054",
+  "score_overall": 3.7,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Veći paket poljoprivrednog i šumskog zemljišta (ukupno 4 ha) u Voćarici kod Kutine, ruralnoj i slabije razvijenoj zoni s ograničenom likvidnošću. Popust od samo 20% na prvoj dražbi i odsustvo građevina smanjuju kratkoročni ROI potencijal unatoč velikoj površini.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "7d6c5564527e",
+  "scored_at": "2026-10-30T09:28:53.554932"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "62147",
+  "score_overall": 4.9,
+  "score_lokacija": 5.0,
+  "score_roi": 5.0,
+  "score_stanje": 4.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Industrijski kompleks od ~5.400 m2 (dvorište, poslovne i gospodarske zgrade) u Nedelišću kraj Čakovca, uz dodatne poljoprivredne parcele, nudi solidnu veličinu i respektabilan popust od 25% na prvoj dražbi. Ključni problem je što se glavna nekretnina s svim zgradama (čkbr. 1645) prodaje samo u ½ suvlasničkog dijela, što drastično komplicira stvarnu uporabu i iznajmljivanje bez rješavanja suvlasništva. Zbog veličine ulога (>500k EUR) i stečajnog konteksta nekretnina zaslužuje detaljnu pravnu due diligence prije eventualne licitacije, a ne odmah aktivnu ponudu.",
+  "flags": [
+    "suvlasništvo – prodaje se samo ½ dijela glavne nekretnine čkbr. 1645 na kojoj su sve zgrade",
+    "provjeriti: postoji li zakup/najam poslovnih ili gospodarskih prostora od strane trećih osoba",
+    "provjeriti: tereti i hipoteke koje ne prestaju prodajom u stečajnom postupku",
+    "provjeriti: identitet i spremnost drugog suvlasnika na otkup/diobu",
+    "provjeriti: fizička povezanost i iskoristivost livadnih parcela (b-e) s glavnim kompleksom"
+  ],
+  "market_estimate": {
+    "eur_min": 620000,
+    "eur_max": 820000,
+    "confidence": "low",
+    "basis": "Procjena temeljena na službenoj sudskoj vrijednosti (796.000 EUR) i općem poznavanju tržišta poslovnih/industrijskih nekretnina u Međimurju (Čakovec/Nedelišće); u ovoj sesiji nije bilo moguće provesti live web pretragu usporedivih oglasa (alat WebSearch nije odobren), stoga nema konkretnih comparables s URL-ovima i pouzdanost procjene je niska."
+  },
+  "comparables": [],
+  "investment_strategy": "Prije ičega riješiti suvlasnički odnos (otkup ½ dijela drugog suvlasnika ili pokretanje sudske diobe) kako bi se stekla puna kontrola nad kompleksom. Nakon toga, s obzirom na blizinu Čakovca kao gospodarskog središta Međimurja i poslovnih zona uz granicu sa Slovenijom, najrealnija je strategija iznajmljivanja proizvodno-skladišnog/poslovnog prostora lokalnim poduzetnicima (logistika, mali obrt, proizvodnja), uz mogući dugoročni reno-flip zgrada ako se pokaže potražnja.",
+  "entry_price_eur": 550000,
+  "detailed_risks": [
+    "Prodaje se samo ½ suvlasničkog dijela glavne nekretnine – stvarna kontrola cijelog kompleksa ovisi o dogovoru s drugim suvlasnikom ili dugotrajnoj sudskoj diobi",
+    "Stečajni postupak nosi rizik neriješenih ugovora, sporova s vjerovnicima i mogućih skrivenih tereta",
+    "Razgledavanje isključivo prema dogovoru sa stečajnim upraviteljem ograničava uvid u stvarno stanje objekata prije kupnje",
+    "Nema podataka o starosti/tehničkom stanju zgrada (krovovi, instalacije) – mogući visoki troškovi sanacije",
+    "Fragmentirane poljoprivredne parcele (senokoše-livade) mogu biti slabo iskoristive ili loše prometno povezane s glavnim kompleksom"
+  ],
+  "upside_scenario": "Ako investitor uspije otkupiti ili sudski riješiti ½ suvlasništva i preuzeti cijeli industrijski kompleks, iznajmljivanje proizvodno-poslovnog prostora u gospodarski aktivnom Međimurju (blizina Slovenije, razvijena poduzetnička zona Čakovec) moglo bi donijeti prinos od 6-8% godišnje, uz mogućnost preprodaje s profitom od 15-25% u 2-3 godine.",
+  "downside_scenario": "Ako se suvlasnički spor ne riješi povoljno, kupac ostaje blokiran u suvlasništvu bez mogućnosti samostalnog korištenja ili iznajmljivanja cijelog kompleksa, dok troškovi i trajanje sudske diobe mogu znatno smanjiti ili poništiti očekivani ROI; dodatno se mogu pojaviti tereti iz stečajne mase koji nisu bili vidljivi u opisu.",
+  "discount_pct": 25.0,
+  "input_hash": "847f3faf97cd",
+  "scored_at": "2026-10-30T09:32:50.053225"
+}

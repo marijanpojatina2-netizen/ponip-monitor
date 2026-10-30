@@ -1,0 +1,13 @@
+{
+  "id": "62051",
+  "score_overall": 3.6,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Manja seoska kuća s okućnicom i voćnjakom u Voćarici kraj Kutine, u depopulacijskom području Sisačko-moslavačke županije s niskom likvidnošću tržišta. Popust od 20% i niska apsolutna vrijednost ne opravdavaju aktivan angažman investitora.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "45eeb234df55",
+  "scored_at": "2026-10-30T09:27:35.955581"
+}
