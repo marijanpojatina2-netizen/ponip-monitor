@@ -1,10 +1,12 @@
 name: PONIP Monitor
 
 on:
-  # Radnim danima u 06:00 UTC = 07:00 Zagreb (zima) / 08:00 Zagreb (ljeto)
-  # Napomena: GitHub cron može kasniti 5-30 min pod opterećenjem
+  # Radnim danima u 05:23 UTC = 06:23 Zagreb (zima) / 07:23 Zagreb (ljeto).
+  # Namjerno "kriva" minuta: puni sat (npr. 06:00) je zagušen slot na kojem
+  # je GitHub cron znao kasniti i 6 sati; na off-minuti kašnjenje je tipično
+  # 5-60 min, pa mail realno stiže između ~6:30 i ~7:30.
   schedule:
-    - cron: '0 6 * * 1-5'
+    - cron: '23 5 * * 1-5'
 
   # Ručno pokretanje iz UI-a (Actions tab → Run workflow)
   workflow_dispatch:
