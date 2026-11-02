@@ -1,0 +1,15 @@
+{
+  "id": "61323",
+  "score_overall": 4.4,
+  "score_lokacija": 3.0,
+  "score_roi": 6.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Čisto poljoprivredno zemljište (livada) u ruralnom Zagorju bez ikakvog objekta nudi nizak ROI potencijal unatoč 40% popustu, zbog slabe likvidnosti i ograničene namjene. Moguća sinergija s susjednom česticom (ID 61321) u istom k.o., ali samostalno slab investicijski case.",
+  "flags": [
+    "provjeriti: mogućnost promjene namjene/gradnje na čestici"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "6c407ba8112e",
+  "scored_at": "2026-11-02T14:05:14.998823"
+}

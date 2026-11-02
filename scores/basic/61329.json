@@ -1,0 +1,16 @@
+{
+  "id": "61329",
+  "score_overall": 5.8,
+  "score_lokacija": 5.5,
+  "score_roi": 6.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Visok popust (40%) i druga dražba u satelitskom gradu Zagreba daju solidan ROI potencijal, ali ovršenik je suvlasnik samo u 1/2 dijela što komplicira stjecanje pune kontrole nad nekretninom. Potrebna pravna provjera suvlasničkih odnosa prije ulaska.",
+  "flags": [
+    "suvlasništvo ovršenika samo 1/2 dijela nekretnine",
+    "provjeriti: identitet i stav drugog suvlasnika"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "859a28182ef5",
+  "scored_at": "2026-11-02T14:05:14.997521"
+}

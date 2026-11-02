@@ -1,0 +1,16 @@
+{
+  "id": "61262",
+  "score_overall": 5.1,
+  "score_lokacija": 4.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Visok popust (40%) na drugoj dražbi kraj Koprivnice je privlačan, ali nekretnina sadrži samo vinograd, dvorište i gospodarsku zgradu bez stambenog objekta što ograničava ROI. Pogodno kao poljoprivredna investicija, ne kao useljiva nekretnina.",
+  "flags": [
+    "provjeriti: postoji li iskoristiv stambeni objekt na čestici",
+    "provjeriti: stanje gospodarske zgrade"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "a05a02e8e47b",
+  "scored_at": "2026-11-02T14:05:14.998159"
+}

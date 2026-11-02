@@ -1,0 +1,16 @@
+{
+  "id": "61640",
+  "score_overall": 5.9,
+  "score_lokacija": 7.0,
+  "score_roi": 5.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća u Zagrebu (prva dražba, popust tek 20%) nudi dobru lokacijsku likvidnost ali skroman ROI potencijal uz nedostatak podataka o stanju objekta. Treba dodatnu provjeru prije ozbiljnog angažmana.",
+  "flags": [
+    "provjeriti: je li nekretnina useljena / ima stanara",
+    "provjeriti: stvarno stanje objekta"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "4cd9ef537777",
+  "scored_at": "2026-11-02T14:05:14.997087"
+}

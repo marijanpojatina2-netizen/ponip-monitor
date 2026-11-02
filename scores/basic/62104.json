@@ -1,0 +1,15 @@
+{
+  "id": "62104",
+  "score_overall": 3.8,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Nekretnina u ruralnom području Slavonije (Posavski Podgajci) s niskim popustom od tek 20% ima slab investicijski potencijal zbog depopulacije i slabe likvidnosti tržišta. Nema podataka koji bi opravdali aktivan interes.",
+  "flags": [
+    "provjeriti: useljenost i stanje kuće"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "382b7131e3e7",
+  "scored_at": "2026-11-02T14:05:14.997926"
+}
