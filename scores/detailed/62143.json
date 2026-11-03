@@ -1,0 +1,35 @@
+{
+  "id": "62143",
+  "score_overall": 5.2,
+  "score_lokacija": 5.0,
+  "score_roi": 5.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Nekretnina je poslovna hala s gospodarskim dvorištem i direktnim pristupom glavnoj cesti u Nedelišću (Međimurje, uz Čakovec) - industrijska lokacija s umjerenom potražnjom, ne top investicijska zona. Prva dražba s 25% popustom nije izrazito atraktivna jer kasnije dražbe obično nose veći popust; nedostaju podaci o kvadraturi i stanju hale što otežava procjenu stanja. Stečajni postupak nosi rizik neotkrivenih tereta. Realno je pratiti idu li dražbe dalje s većim popustom prije ulaska.",
+  "flags": [
+    "provjeriti: tereti i eventualni zakup/najam na nekretnini (stečajni postupak)",
+    "provjeriti: kvadratura, dob i tehničko stanje poslovne hale (opis ne navodi)",
+    "provjeriti: namjena/dozvole i mogućnost promjene djelatnosti objekta"
+  ],
+  "market_estimate": {
+    "eur_min": 1800000,
+    "eur_max": 2600000,
+    "confidence": "low",
+    "basis": "Web pretraga nije bila dostupna u ovoj sesiji (dozvola uskraćena). Procjena se temelji na općem poznavanju tržišta industrijskih/poslovnih nekretnina u Međimurskoj/Varaždinskoj regiji i usporedbi s utvrđenom sudskom vrijednošću od 2.9M EUR; preporučuje se naknadna provjera stvarnih oglasa (nekretnine.net, njuskalo.hr) za poslovne hale u Čakovcu/Nedelišću."
+  },
+  "comparables": [],
+  "investment_strategy": "Iznajmljivanje industrijskog/skladišnog prostora proizvodnoj ili logističkoj tvrtki, uz mogući reno-flip ako je hala zastarjela - Međimurje ima razvijenu prerađivačku i automotive industriju, a direktan pristup glavnoj cesti je plus za skladišno-distribucijsku namjenu. Preprodaja je alternativa ako se nađe kupac iz lokalne industrije.",
+  "entry_price_eur": 1900000,
+  "detailed_risks": [
+    "Stečajni postupak nosi rizik neotkrivenih tereta, sudskih spora ili prava trećih na imovini",
+    "Nedostaju podaci o kvadraturi, dobi i tehničkom stanju hale - procjena stanja je nepouzdana",
+    "Industrijske/poslovne nekretnine imaju nižu likvidnost i duže vrijeme prodaje/iznajmljivanja od stambenih",
+    "Lokacija nije u vodećoj investicijskoj zoni (nije veliki grad niti turistička destinacija)",
+    "Prva dražba s tek 25% popusta - nema dodatnog ROI bonusa koji nose kasnije dražbe"
+  ],
+  "upside_scenario": "Ako se due diligence potvrdi da je hala funkcionalna i bez tereta, kupnja uz daljnji popust na eventualnoj drugoj dražbi te iznajmljivanje lokalnoj proizvodnoj/logističkoj tvrtki moglo bi donijeti prinos 6-8% godišnje, s mogućim rastom vrijednosti u 2-3 godine zbog razvoja industrijske zone uz glavnu cestu Čakovec-Nedelišće.",
+  "downside_scenario": "Ako se nekretnina ne prodaje na prvoj dražbi, slijedi daljnji pad cijene na narednim dražbama, ali uz rizik da due diligence otkrije tereta ili sporove iz stečaja; niska likvidnost industrijskih nekretnina u regiji može značiti dugotrajno drže anje praznog ili neprofitabilnog objekta.",
+  "discount_pct": 25.0,
+  "input_hash": "e416ddb43e1f",
+  "scored_at": "2026-11-03T13:03:55.850677"
+}

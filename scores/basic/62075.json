@@ -1,0 +1,15 @@
+{
+  "id": "62075",
+  "score_overall": 5.3,
+  "score_lokacija": 5.5,
+  "score_roi": 6.0,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Oranica od 2795 m2 u Kerestincu (blizina Samobora/Zagreba) iz stečajne prodaje s 25% popustom, lokacija na periferiji Zagreba nosi dugoročni razvojni potencijal. Radi se o neizgrađenom zemljištu pa je prinos dugoročan i ovisan o urbanističkom statusu koji nije poznat.",
+  "flags": [
+    "provjeriti: namjena i urbanistički status zemljišta (mogućnost gradnje)"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "00c04c2fefb9",
+  "scored_at": "2026-11-03T13:02:23.412690"
+}

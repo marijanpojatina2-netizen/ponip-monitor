@@ -1,0 +1,15 @@
+{
+  "id": "62083",
+  "score_overall": 3.7,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Seosko imanje u Cirkveni (Bjelovar) s kućom, gospodarskom zgradom i više parcela zemlje, ali ruralna lokacija s depopulacijskim trendom značajno ograničava likvidnost i ROI. Popust od 20% na prvoj dražbi nije dovoljan da nadomjesti slab investicijski potencijal regije.",
+  "flags": [
+    "provjeriti: useljenost kuće"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "ba2f922dde95",
+  "scored_at": "2026-11-03T13:02:23.412928"
+}

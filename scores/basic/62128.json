@@ -1,0 +1,13 @@
+{
+  "id": "62128",
+  "score_overall": 3.1,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Livada od 4935 m2 u Cirkveni, Bjelovar, s minimalnom vrijednosti (1300 EUR) i ruralnom, slabo likvidnom lokacijom. Slab investicijski case uz nizak apsolutni potencijalni povrat.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "f4909dcd33d2",
+  "scored_at": "2026-11-03T13:02:23.413690"
+}

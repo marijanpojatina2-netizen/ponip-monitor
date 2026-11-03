@@ -1,0 +1,15 @@
+{
+  "id": "62063",
+  "score_overall": 3.7,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Kuća i dvorište (600 m2) u Eminovcima kod Požege, niska vrijednost i ruralna slabo likvidna lokacija uz suvlasništvo dva ovršenika po 1/2 dijela. Investicijski case slab zbog kombinacije lokacije i podijeljenog vlasništva.",
+  "flags": [
+    "suvlasništvo - dva ovršenika po 1/2 dijela"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "76722eefbdf3",
+  "scored_at": "2026-11-03T13:02:23.413200"
+}

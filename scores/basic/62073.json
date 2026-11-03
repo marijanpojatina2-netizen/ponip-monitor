@@ -1,0 +1,15 @@
+{
+  "id": "62073",
+  "score_overall": 3.7,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Riječ je o dvije manje livade (752 i 313 m2) u k.o. Cirkvena, ruralnom području Bjelovarsko-bilogorske županije s izraženom depopulacijom i slabom likvidnošću tržišta zemljišta. Vrijednost je minimalna (600 EUR procjena, 480 EUR početna cijena), popust od 20% na prvoj dražbi nije dovoljan da nadmaši nisku atraktivnost lokacije i ograničenu namjenu (poljoprivredno zemljište).",
+  "flags": [
+    "provjeriti: pristup zemljištu i stvarnu poljoprivrednu namjenu/katastarsku kulturu"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "281414819555",
+  "scored_at": "2026-11-03T13:02:40.486510"
+}

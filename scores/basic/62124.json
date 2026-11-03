@@ -1,0 +1,13 @@
+{
+  "id": "62124",
+  "score_overall": 3.1,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica od 3140 m2 u Cirkveni, Bjelovar, vrlo niske apsolutne vrijednosti (1700 EUR) što ograničava smisao transakcijskih troškova u odnosu na potencijalni prinos. Ruralna lokacija i nedostatak infrastrukture dodatno smanjuju investicijsku privlačnost.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "43cd77e6c89d",
+  "scored_at": "2026-11-03T13:02:23.413455"
+}
