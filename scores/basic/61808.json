@@ -1,0 +1,16 @@
+{
+  "id": "61808",
+  "score_overall": 4.2,
+  "score_lokacija": 5.0,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Nedovršena prizemnica na velebitskoj obali (Lukovo Šugarje, 28 km od Karlobaga) u lošem stanju, bez uređenog interijera i s potrebom legalizacije jer ne odgovara upisanim dimenzijama. Udaljenost od centra i trošak dovršetka/legalizacije znatno smanjuju privlačnost unatoč primorskoj lokaciji.",
+  "flags": [
+    "nelegalizirani objekt - stvarne dimenzije ne odgovaraju upisu u zk/katastru",
+    "provjeriti: status i odnos suvlasništva s ovrhovoditeljicom"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "78a970002def",
+  "scored_at": "2026-11-04T13:10:57.018401"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "62232",
+  "score_overall": 4.4,
+  "score_lokacija": 3.5,
+  "score_roi": 5.0,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Kuća i dvorište u Brodskom Varošu (Slavonski Brod), slabije likvidno tržište Slavonije uz standardan 20% popust na prvoj dražbi. Opis ne navodi točan udio koji se prodaje unatoč spomenutom suvlasništvu, što dodatno slabi investicijski slučaj.",
+  "flags": [
+    "provjeriti: veličina suvlasničkog udjela koji se prodaje"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "11506b190e45",
+  "scored_at": "2026-11-04T13:10:57.018241"
+}

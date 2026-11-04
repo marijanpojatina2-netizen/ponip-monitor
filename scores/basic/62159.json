@@ -1,0 +1,15 @@
+{
+  "id": "62159",
+  "score_overall": 3.7,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Trojstveni Markovac kod Bjelovara je ruralno područje s izraženom depopulacijom i slabom likvidnošću tržišta nekretnina. Popust od 20% na prvoj dražbi nije dovoljno velik da kompenzira slabu lokaciju, a stanje kuće i dvora nije opisano pa je nepoznato.",
+  "flags": [
+    "provjeriti: stanje i useljenost nekretnine"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "d2cfc2b9c8b7",
+  "scored_at": "2026-11-04T13:11:17.144401"
+}

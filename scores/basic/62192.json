@@ -1,0 +1,15 @@
+{
+  "id": "62192",
+  "score_overall": 4.5,
+  "score_lokacija": 4.5,
+  "score_roi": 5.0,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Prosinec je ruralno selo ali gravitira Samoboru i zagrebačkoj aglomeraciji, što daje bolju likvidnost nego dublja Slavonija, uz nizak apsolutni ulog (cca 5.100 EUR). Riječ je o oranici i staroj kući bez podataka o stanju, pa je potreban uvid na terenu prije eventualne licitacije.",
+  "flags": [
+    "provjeriti: stanje i useljenost nekretnine"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "5e0529ec2751",
+  "scored_at": "2026-11-04T13:11:17.144671"
+}
