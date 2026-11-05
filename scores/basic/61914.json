@@ -1,0 +1,15 @@
+{
+  "id": "61914",
+  "score_overall": 4.9,
+  "score_lokacija": 6.5,
+  "score_roi": 5.0,
+  "score_stanje": 2.0,
+  "recommendation": "watch",
+  "reasoning": "Poljoprivredno i šumsko zemljište u Konavlima (Uskoplje) kod Dubrovnika ima dobru regionalnu lokaciju, ali bez ikakve izgradnje i tek 20% popusta na prvoj dražbi ROI je slab kratkoročno. Dugoročno zanimljivo isključivo kao zemljišna banka.",
+  "flags": [
+    "provjeriti: pristupni put i mogućnost privođenja namjeni"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "4b206451b865",
+  "scored_at": "2026-11-05T13:46:26.348762"
+}

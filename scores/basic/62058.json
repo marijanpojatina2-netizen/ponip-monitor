@@ -1,0 +1,16 @@
+{
+  "id": "62058",
+  "score_overall": 6.1,
+  "score_lokacija": 7.5,
+  "score_roi": 5.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Mali poslovni prostor (26 m2) na 2. katu bivše Robne kuće Ri na riječkoj Rivi — vrhunska lokacija u centru grada, ali suvlasnički udio (98/37132) i nejasan status cijelog tržišnog centra smanjuju likvidnost. Popust od 20% na prvoj dražbi je standardan, bez dodatnog poticaja za kupnju.",
+  "flags": [
+    "provjeriti: suvlasnički udio i stvarno funkcioniranje tržišnog centra",
+    "provjeriti: stanje prostora i mogućnost iznajmljivanja/prodaje malih udjela"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "3489d7643d22",
+  "scored_at": "2026-11-05T13:47:17.238776"
+}

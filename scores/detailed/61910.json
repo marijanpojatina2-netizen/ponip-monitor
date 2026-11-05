@@ -1,0 +1,34 @@
+{
+  "id": "61910",
+  "score_overall": 6.3,
+  "score_lokacija": 7.5,
+  "score_roi": 5.5,
+  "score_stanje": 6.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Zemljište se nalazi u administrativnom području grada Dubrovnika (Zvekovica/Močići), regiji s izrazito visokom potražnjom i cijenama nekretnina, što lokaciji daje visoku ocjenu unatoč tome što nije na samoj obali. Popust od samo 20% na prvoj dražbi je skroman, a glavni upitnik je pravni status čestice vođene kao 'pašnjak' unatoč opisu 'poravnato zemljište za izgradnju' — ako gradivost nije formalno potvrđena u prostornom planu, procijenjena vrijednost od 785.000 EUR (503 EUR/m2) je upitna. Fizički je zemljište ravno i uz prometnicu, što je pozitivno za budući razvoj. Zbog visokog potencijala u Dubrovniku ali značajne pravne nepoznanice, predmet zaslužuje detaljnu due diligence prije licitiranja.",
+  "flags": [
+    "provjeriti: urbanistički/zonski status čestice (katastarski upisano kao pašnjak, opis tvrdi 'za izgradnju' — treba uvid u prostorni plan grada Dubrovnika i mogućnost ishođenja građevinske dozvole)",
+    "provjeriti: priključci na infrastrukturu (voda, struja, odvodnja) na lokaciji Močići bb",
+    "provjeriti: teret na zemljišnoj knjizi (z.ul. 282 k.o. Močići) - služnosti, hipoteke, pristupni put"
+  ],
+  "market_estimate": {
+    "eur_min": 300000,
+    "eur_max": 650000,
+    "confidence": "low",
+    "basis": "WebSearch alat nije bio dostupan u ovoj sesiji (odbijena dozvola), pa procjena nije potkrijepljena live oglasima. Raspon reflektira dva scenarija: donja granica ako zemljište ostane u statusu poljoprivrednog/pašnjaka s ograničenom gradivošću, gornja granica ako se potvrdi puni građevinski potencijal usporediv sa sudskom procjenom (503 EUR/m2 za okolicu Dubrovnika je realno za potvrđeno građevinsko zemljište, ali visoko za neklasificirano poljoprivredno zemljište)."
+  },
+  "comparables": [],
+  "investment_strategy": "Razvoj (dugoročno): kupnja uz uvjet prethodne provjere urbanističkog statusa; ako se potvrdi gradivost, parcela od 1559 m2 u blizini Dubrovnika ima potencijal za gradnju vile/apartmana za turistički najam ili preprodaju investitoru nakon ishođenja dozvola. Ako gradivost nije potvrđena, strategija se svodi na špekulativnu kupnju jeftinog zemljišta uz čekanje promjene prostornog plana - dugoročan i rizičniji pristup.",
+  "entry_price_eur": 480000,
+  "detailed_risks": [
+    "Neusklađenost katastarske namjene (pašnjak) i opisa 'zemljište za izgradnju' - moguće da trenutno nema građevinsku dozvolu niti je u građevinskom području po važećem prostornom planu",
+    "Nema podataka o komunalnoj infrastrukturi (struja, voda, kanalizacija) na parceli",
+    "Razgledavanje samo uz prethodni dogovor sa sudskim ovršiteljem - ograničen uvid prije kupnje",
+    "Prva dražba s tek 20% popusta ne nudi veliku sigurnosnu marginu ako se procjena pokaže previsokom"
+  ],
+  "upside_scenario": "Ako se u narednih 1-2 godine potvrdi i eventualno ishodi preklasifikacija u građevinsko zemljište te se dobije građevinska dozvola, vrijednost parcele u blizini Dubrovnika mogla bi rasti na 600-900 EUR/m2 zbog kronične nestašice građevinskog zemljišta u regiji, a izgrađena vila s pogledom mogla bi generirati visok prihod od turističkog iznajmljivanja.",
+  "downside_scenario": "Ako zemljište ostane trajno u statusu pašnjaka bez mogućnosti gradnje, investicija se pretvara u nelikvidnu poljoprivrednu parcelu vrijednu tek dio procijenjene cijene, uz dugotrajno vezivanje kapitala bez prihoda do eventualne izmjene prostornog plana.",
+  "discount_pct": 20.0,
+  "input_hash": "38ed6c94e2c2",
+  "scored_at": "2026-11-05T13:48:43.347645"
+}

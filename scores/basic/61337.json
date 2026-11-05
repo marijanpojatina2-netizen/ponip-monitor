@@ -1,0 +1,16 @@
+{
+  "id": "61337",
+  "score_overall": 6.2,
+  "score_lokacija": 4.5,
+  "score_roi": 8.5,
+  "score_stanje": 4.0,
+  "recommendation": "bid",
+  "reasoning": "Mala kuća s vinogradom u Svetom Iliji kod Varaždina ide na drugu dražbu s izdašnih 40% popusta što značajno podiže ROI unatoč skromnijoj lokaciji. Kuća od svega 43 m2 vjerojatno zahtijeva ulaganje, ali cijena to kompenzira.",
+  "flags": [
+    "provjeriti: useljenost",
+    "provjeriti: stanje male kuće od 43 m2"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "302bc802e7ec",
+  "scored_at": "2026-11-05T13:46:26.349080"
+}

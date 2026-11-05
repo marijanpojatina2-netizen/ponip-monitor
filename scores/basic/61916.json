@@ -1,0 +1,16 @@
+{
+  "id": "61916",
+  "score_overall": 5.2,
+  "score_lokacija": 6.0,
+  "score_roi": 5.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Nekoliko malih čestica pašnjaka u Uskoplju (Konavle, Dubrovnik-Neretva), ukupno oko 2 tis. m2, s popustom od tek 20% na prvoj dražbi. Poljoprivredna namjena ograničava gradnju pa je realna iskoristivost upitna unatoč atraktivnosti regije.",
+  "flags": [
+    "provjeriti: mogućnost prenamjene poljoprivrednog zemljišta u građevinsko",
+    "provjeriti: pristup, komunalije i granice parcela"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "7d0660fa8376",
+  "scored_at": "2026-11-05T13:47:17.238551"
+}

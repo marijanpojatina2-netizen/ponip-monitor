@@ -1,0 +1,16 @@
+{
+  "id": "62268",
+  "score_overall": 3.9,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Mala oranica od 400 m2 u Vinkovcima, regiji sa slabijom likvidnošću i depopulacijom, prodaje se kao kombinirani suvlasnički udio (9/36 i 8/36). Niska vrijednost i fragmentirano vlasništvo čine case investicijski slabim unatoč gradskoj adresi.",
+  "flags": [
+    "provjeriti: mogućnost objedinjavanja suvlasničkih udjela i otkupa ostatka čestice",
+    "provjeriti: komunalna infrastruktura i urbanistička namjena parcele"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "52bc2922e220",
+  "scored_at": "2026-11-05T13:47:17.239114"
+}

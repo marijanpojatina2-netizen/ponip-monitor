@@ -1,0 +1,16 @@
+{
+  "id": "62244",
+  "score_overall": 5.1,
+  "score_lokacija": 4.0,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća u Burićima (k.o. Molvice, ruralno područje) prodaje se u stečajnom postupku s 25% popusta na prvoj dražbi, što je iznad prosjeka ali lokacija je slaba. Stanje objekta nije opisano pa zahtijeva provjeru prije ozbiljnijeg interesa.",
+  "flags": [
+    "provjeriti: stanje objekta i useljenost",
+    "stečajna prodaja"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "27002aa7e27e",
+  "scored_at": "2026-11-05T13:46:26.348990"
+}

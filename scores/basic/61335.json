@@ -1,0 +1,16 @@
+{
+  "id": "61335",
+  "score_overall": 5.7,
+  "score_lokacija": 4.0,
+  "score_roi": 8.0,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Klijet u Breznici kod Varaždina na drugoj je dražbi s 40% popusta, ali radi se o maloj, nišnoj nekretnini (31 m2) s ograničenom likvidnošću. Visok popust je atraktivan, no tip imovine i ruralna lokacija ograničavaju investicijski potencijal.",
+  "flags": [
+    "provjeriti: namjena i legalnost objekta (klijet)",
+    "provjeriti: useljenost"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "fff835e0bdfb",
+  "scored_at": "2026-11-05T13:46:26.349166"
+}

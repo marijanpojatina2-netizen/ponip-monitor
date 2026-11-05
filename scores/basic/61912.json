@@ -1,0 +1,16 @@
+{
+  "id": "61912",
+  "score_overall": 6.2,
+  "score_lokacija": 7.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Zemljište u Močićima, praktički u sastavu grada Dubrovnika u blizini zračne luke, čini ga rijetkom i vrijednom pozicijom unatoč poljoprivrednoj namjeni. Ukupno gotovo 4.700 m2 po samo 20% popusta nudi potencijal ako se riješi prenamjena i suvlasnički odnos na dijelu čestice.",
+  "flags": [
+    "provjeriti: mogućnost prenamjene poljoprivrednog/šumskog zemljišta u građevinsko",
+    "provjeriti: suvlasnički udio 24/26 na čest. zem. 1236/2"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "9780bf997440",
+  "scored_at": "2026-11-05T13:47:17.238902"
+}
