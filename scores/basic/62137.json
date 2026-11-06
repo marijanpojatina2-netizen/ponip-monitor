@@ -1,0 +1,15 @@
+{
+  "id": "62137",
+  "score_overall": 3.9,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Manja kuća od 52 m2 s vinogradom i pašnjakom u ruralnom Međimurju (IV Brežni Kotar), prva dražba s popustom od samo 20%. Niska procijenjena vrijednost ukazuje na skromno stanje objekta i slabu likvidnost regije.",
+  "flags": [
+    "provjeriti: stanje kuće (vjerojatno potrebna temeljita renovacija)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "2d86317ed602",
+  "scored_at": "2026-11-06T13:12:40.884080"
+}

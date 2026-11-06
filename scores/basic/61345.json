@@ -1,0 +1,16 @@
+{
+  "id": "61345",
+  "score_overall": 4.5,
+  "score_lokacija": 4.0,
+  "score_roi": 6.5,
+  "score_stanje": 1.0,
+  "recommendation": "pass",
+  "reasoning": "Mikroparcela livade od samo 63 m2 u k.o. Bedekovčina, s procjenom ispod 900 EUR gdje transakcijski troškovi vjerojatno premašuju korist od kupnje. Jedina vrijednost mogla bi biti kao komplementarna kupnja uz susjednu parcelu (ID 61343) istog ovršenika.",
+  "flags": [
+    "mikro-parcela - niska apsolutna vrijednost, transakcijski troškovi mogu premašiti korist",
+    "komplementarna parcela uz ID 61343 (ista k.o. Bedekovčina, susjedna čkbr. 3168/1)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "ce59af5c2058",
+  "scored_at": "2026-11-06T13:12:40.884633"
+}

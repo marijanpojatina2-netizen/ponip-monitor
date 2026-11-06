@@ -1,0 +1,15 @@
+{
+  "id": "61343",
+  "score_overall": 4.9,
+  "score_lokacija": 4.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Livada od 2483 m2 u k.o. Bedekovčina (ruralni Zagorje), druga dražba s popustom od 40% čini cijenu po m2 povoljnom. Radi se o praznom poljoprivrednom zemljištu bez objekata, pa je ROI ograničen na dugoročnu zemljišnu spekulaciju.",
+  "flags": [
+    "provjeriti: pristup i komunalna infrastruktura (poljoprivredno zemljište)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "437a1b1f9699",
+  "scored_at": "2026-11-06T13:12:40.883907"
+}
