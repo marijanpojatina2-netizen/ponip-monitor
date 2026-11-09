@@ -1,0 +1,38 @@
+{
+  "id": "59040",
+  "score_overall": 6.0,
+  "score_lokacija": 5.5,
+  "score_roi": 7.5,
+  "score_stanje": 3.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Riječ je o maloj industrijskoj cjelini (ukupno cca 727 m2 građevina na cca 1309 m2 zemljišta) na Zagrebačkoj ulici u Varaždinu, u stečajnoj prodaji na četvrtoj dražbi s početnom cijenom od simboličnih 1 EUR, što znači maksimalan mogući diskont unutar FINA sustava. Varaždin je solidan regionalni centar s razvijenom MSP/proizvodnom bazom, ali lokacija je industrijska, a ne vrhunska poslovna/turistička zona. Procijenjena vrijednost suda (2,85 mil. EUR) djeluje znatno viša od realne tržišne vrijednosti ovakvog malog industrijskog kompleksa, što objašnjava zašto su tri prethodne dražbe propale. Zbog visoke nominalne vrijednosti (>500k EUR) i velikog potencijalnog raspona ishoda, predmet zaslužuje detaljan due diligence prije licitiranja, a ne izravan 'bid'.",
+  "flags": [
+    "provjeriti: stvarno stanje i funkcionalnost industrijskih zgrada (bez fotografija u opisu)",
+    "provjeriti: postoji li treća strana u posjedu/zakupu kompleksa",
+    "provjeriti: urbanistički status i mogućnost prenamjene/gradnje na parceli",
+    "provjeriti: eventualna ekološka opterećenja tla s obzirom na dugotrajnu industrijsku namjenu",
+    "provjeriti: razlog propasti prethodne tri dražbe (precijenjena procjena vs. stvarni problem imovine)"
+  ],
+  "market_estimate": {
+    "eur_min": 550000,
+    "eur_max": 1100000,
+    "confidence": "low",
+    "basis": "Web pretraga nije bila dostupna u ovoj sesiji (alat blokiran), pa procjena nije potvrđena konkretnim aktivnim oglasima. Raspon je izveden iz općeg poznavanja tržišta poslovno-industrijskih prostora u Varaždinu (orijentacijski 400-900 EUR/m2 za stariju industrijsku građevinu uz potrebu ulaganja, te zemljište uz veću gradsku ulicu u rasponu cca 150-300 EUR/m2). Vrijednost koju navodi sud (2,85 mil. EUR) djeluje znatno iznad ove procjene, što je uobičajeno za stare sudske elaborate koji nisu usklađeni s padom potražnje za nišnim industrijskim prostorima."
+  },
+  "comparables": [],
+  "investment_strategy": "Zbog male površine i industrijske namjene, najrealnija je kombinacija: (1) iznajmljivanje lokalnim MSP-ovima (proizvodnja, servis, skladište) s obzirom na jaku proizvodnu bazu Varaždina, uz (2) opciju reno-flipa ili razvoja ako urbanistički plan dopušta prenamjenu zemljišta uz Zagrebačku ulicu u komercijalnu/stambenu namjenu.",
+  "entry_price_eur": 450000,
+  "detailed_risks": [
+    "Nemogućnost fizičkog uvida u imovinu bez prethodnog dogovora sa stečajnim upraviteljem — nepoznato stvarno stanje objekata",
+    "Mogući visoki troškovi sanacije ili čak rušenja dotrajalih industrijskih zgrada",
+    "Rizik ekološkog zagađenja tla tipičan za starije industrijske lokacije",
+    "Niža likvidnost niše male industrijske nekretnine u odnosu na stambene/poslovne prostore u centru",
+    "Mogući dodatni troškovi legalizacije ako objekti nisu usklađeni s izdanim dozvolama",
+    "Rizik da konkurentno nadmetanje na dražbi odvede cijenu znatno iznad realne tržišne vrijednosti"
+  ],
+  "upside_scenario": "Ako se nekretnina osvoji po cijeni bliskoj jamčevini (cca 285k-450k EUR), investitor dobiva cca 2000 m2 građevine i zemljišta u Varaždinu uz velik diskont od procijenjene vrijednosti. Uz umjerenu investiciju u obnovu (cca 100-150k EUR), prostor se može iznajmiti lokalnim proizvodnim/servisnim tvrtkama uz godišnji prinos od 40-60k EUR, ili prodati za 2-3 godine po 800k-1,2 mil. EUR ako tržište poslovnih prostora u Varaždinu nastavi blagi rast i ako je moguća povoljnija prenamjena zemljišta.",
+  "downside_scenario": "Ako se na dražbi javi jača konkurencija, cijena se može približiti sudskoj procjeni od 2,85 mil. EUR, čime ROI potpuno nestaje. Alternativno, objekti mogu imati ozbiljne građevinske ili ekološke probleme koji iziskuju trošak sanacije veći od planiranog, ili se prostor zbog niske potražnje za nišnom industrijskom namjenom u Varaždinu ne uspijeva iznajmiti/prodati godinama, čime kapital ostaje zarobljen u nelikvidnoj imovini.",
+  "discount_pct": 100.0,
+  "input_hash": "3366aea610cb",
+  "scored_at": "2026-11-09T14:32:57.810141"
+}

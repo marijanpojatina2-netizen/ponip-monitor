@@ -1,0 +1,35 @@
+{
+  "id": "59048",
+  "score_overall": 6.6,
+  "score_lokacija": 6.0,
+  "score_roi": 8.0,
+  "score_stanje": 4.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Veliki industrijski kompleks (7931 m2 zemljišta, ~3700 m2 građevina) na Zagrebačkoj ulici u Varaždinu, regionalnom gospodarskom središtu NW Hrvatske s razvijenom proizvodnom/logističkom bazom. Riječ je o četvrtoj dražbi s nominalnom početnom cijenom od 1 EUR (100% popusta), što formalno otvara izuzetan prostor za ROI, ali stvarna prodajna cijena ovisi o nadmetanju i jamčevini od 98.000 EUR koja filtrira ozbiljne ponuditelje. Stanje i namjena brojnih objekata (uključ. nekoliko malih pomoćnih zgrada od 15 m2) nisu detaljno opisani pa zahtijeva terensku provjeru i tehnički pregled prije ponude. Zbog vrijednosti preko 500k EUR i kompleksnosti imovine preporučuje se detaljna due diligence (deep_dive) prije licitiranja.",
+  "flags": [
+    "provjeriti: prava koja ne prestaju prodajom",
+    "provjeriti: u zakupu / u najmu",
+    "provjeriti: ekološka kontaminacija tla (industrijska povijest lokacije)"
+  ],
+  "market_estimate": {
+    "eur_min": 350000,
+    "eur_max": 650000,
+    "confidence": "low",
+    "basis": "Web search alat nije bio dostupan u ovoj sesiji (odbijena dozvola), pa procjena počiva na sudskoj procjeni vrijednosti (980.000 EUR), poznavanju industrijskog tržišta Varaždina i tipičnim diskontima kod stečajnih dražbi 4. kruga za nekretnine ove veličine i namjene. Preporuča se naknadna provjera stvarnih tržišnih usporedivih oglasa."
+  },
+  "comparables": [],
+  "investment_strategy": "razvoj / reno-flip: selektivna obnova postojećih industrijskih hala za iznajmljivanje proizvodnim/logističkim tvrtkama u Varaždinskoj industrijskoj zoni, uz mogući naknadni preprodaj cijelog kompleksa ili parcelacija i prodaja dijelova zemljišta ako lokacijski uvjeti dopuštaju.",
+  "entry_price_eur": 350000,
+  "detailed_risks": [
+    "Nominalna početna cijena od 1 EUR ne odražava stvarnu prodajnu cijenu - nadmetanje na dražbi može značajno podignuti konačnu cijenu",
+    "Nepoznato tehničko stanje i građevinska dokumentacija za sve navedene objekte, posebno manje pomoćne zgrade (15 m2)",
+    "Mogući visoki troškovi održavanja/osiguranja praznog industrijskog kompleksa do pronalaska nove namjene ili kupca",
+    "Ograničena likvidnost niše industrijskih nekretnina ove veličine u regionalnom tržištu Varaždina",
+    "Razgledavanje ovisi o dogovoru sa stečajnim upraviteljem, što može ograničiti vrijeme za temeljitu procjenu prije dražbe"
+  ],
+  "upside_scenario": "Ako se nekretnina osigura znatno ispod procijenjene vrijednosti (npr. 250.000-400.000 EUR) zbog ograničenog broja ozbiljnih ponuditelja na 4. dražbi, investitor može selektivno obnoviti dio hala i iznajmiti ih lokalnim proizvodnim ili logističkim tvrtkama, ostvarujući prinos od 8-10% godišnje te dugoročno približavanje vrijednosti procjene (980.000 EUR) u 2-3 godine zahvaljujući rastu potražnje za industrijskim prostorom u sjeverozapadnoj Hrvatskoj.",
+  "downside_scenario": "Ako se na dražbi javi više ozbiljnih ponuditelja i cijena naraste blizu ili iznad sudske procjene, ili due diligence otkrije ekološku kontaminaciju, teret na nekretnini ili ozbiljne građevinske nedostatke, ulaganje gubi profitabilnost; dodatno, dugotrajno traženje kupca/zakupca za nišni industrijski prostor može povećati troškove drže</br>nja i smanjiti ukupni povrat.",
+  "discount_pct": 100.0,
+  "input_hash": "26a5030119bc",
+  "scored_at": "2026-11-09T14:34:44.805171"
+}

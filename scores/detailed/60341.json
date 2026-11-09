@@ -1,0 +1,37 @@
+{
+  "id": "60341",
+  "score_overall": 5.8,
+  "score_lokacija": 4.5,
+  "score_roi": 7.5,
+  "score_stanje": 4.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Industrijski kompleks (zgrada + 10.530 m2 dvorišta/zemljišta) u Bedekovčini uz blizinu A2 autoceste nudi solidnu logističku lokaciju, ali nije u vrhunskoj investicijskoj zoni. Treća dražba s 75% popustom od procijenjene vrijednosti (4,05M → 1,0125M EUR) signalizira ili slab interes tržišta ili ozbiljne skrivene mane (stanje građevine, okolišno opterećenje bivšeg pogona). Opis ne otkriva stanje objekta, postojanje zakupa/stanara niti pravna ograničenja, pa je potrebna temeljita due diligence prije licitiranja. Zbog velikog apsolutnog popusta na imovinu vrijednu >4M EUR, slučaj zaslužuje detaljnu analizu, ne odmah odbijanje.",
+  "flags": [
+    "provjeriti: tehnička ispravnost i stanje zgrade (opis ne navodi stanje objekta)",
+    "provjeriti: okolišno opterećenje/zagađenje tla (bivši industrijski pogon)",
+    "provjeriti: postoji li treća osoba u posjedu, zakupu ili najmu nekretnine",
+    "provjeriti: postoje li tereti, hipoteke ili prava koja ne prestaju prodajom u zk. izvatku",
+    "provjeriti: razlog zašto je nekretnina ostala neprodana na prve dvije dražbe (treća dražba)"
+  ],
+  "market_estimate": {
+    "eur_min": 1600000,
+    "eur_max": 2800000,
+    "confidence": "low",
+    "basis": "Web pretraga nije bila dostupna u ovoj sesiji (alat odbijen), stoga procjena NIJE potkrijepljena stvarnim oglasima/usporedivim transakcijama. Raspon je okvirna stručna prosudba temeljena na tipičnim cijenama funkcionalnih industrijskih kompleksa u Krapinsko-zagorskoj županiji (ruralno-periurbano područje, uz autocestu) i pretpostavci da je sudska procjena vještaka (4,05M EUR) vjerojatno optimistična za ovu mikrolokaciju. PREPORUKA: prije ponude obavezno naručiti neovisnu procjenu i lokalno tržišno istraživanje (nekretnine.net, njuskalo.hr pretraga 'industrijska hala Bedekovčina/Zabok/Krapina')."
+  },
+  "comparables": [],
+  "investment_strategy": "Reno-flip ili dugoročno iznajmljivanje logističko-proizvodnom poduzeću — blizina A2 autoceste (čvor Zabok/Krapina, granica Macelj) čini lokaciju pogodnom za skladišno-distribucijsku ili proizvodnu namjenu, uz mogući redevelopment u manje poslovne jedinice ako je zgrada u lošem stanju. Preprodaja ima smisla samo ako due diligence potvrdi čisto vlasništvo i prihvatljivo okolišno stanje.",
+  "entry_price_eur": 1350000,
+  "detailed_risks": [
+    "Nepoznato stanje građevine (starost, konstrukcija, instalacije) — moguća potreba značajnog kapitalnog ulaganja",
+    "Rizik okolišnog zagađenja tipičan za stare industrijske lokacije (troškovi remedijacije mogu biti visoki)",
+    "Niska likvidnost industrijskih nekretnina izvan velikih gradova/autocestovnih čvorišta — dulji period do izlaska iz investicije",
+    "Treća dražba ukazuje na mogući nedostatak tržišnog interesa ili skrivene mane koje treba istražiti prije ponude",
+    "Stečajni postupak — moguća složenost oko primopredaje, dokumentacije i eventualnih potraživanja trećih strana"
+  ],
+  "upside_scenario": "Uz ulaznu cijenu blizu početne (1,0-1,35M EUR) i potvrdu da je građevina strukturno sačuvana te bez okolišnih opterećenja, nekretnina se unutar 12-18 mjeseci može iznajmiti proizvodnom/logističkom poduzeću uz godišnji prihod koji bi mogao vratiti 8-12% na uloženi kapital, s potencijalnom daljnjom preprodajom po 2,5-3M EUR u 2-3 godine kako se regija razvija uz autocestu.",
+  "downside_scenario": "Ako due diligence otkrije ozbiljno okolišno zagađenje, konstrukcijske probleme ili neriješene terete/zakupnike, troškovi sanacije i pravnih postupaka mogu nadmašiti uštedu od popusta, a slaba likvidnost tržišta znači da imovina može ostati nelikvidna godinama uz tekuće troškove održavanja i poreza.",
+  "discount_pct": 75.0,
+  "input_hash": "d65e0efae2a9",
+  "scored_at": "2026-11-09T14:30:55.059695"
+}
