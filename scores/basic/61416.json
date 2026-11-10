@@ -1,0 +1,15 @@
+{
+  "id": "61416",
+  "score_overall": 4.2,
+  "score_lokacija": 2.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Susjedna čestica u istom katastru (Grabrovnica, Virovitica) uz 40% popusta u drugoj dražbi, ali minimalne apsolutne vrijednosti (8.900 EUR) koja ne opravdava značajan analitički angažman samostalno. Jedina strateška vrijednost je potencijalno spajanje s nekretninom ID 61412 radi okrupnjivanja parcele u istom k.o.",
+  "flags": [
+    "provjeriti: mogućnost objedinjavanja s nekretninom ID 61412 (ista k.o. Grabrovnica)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "bec22ed1c302",
+  "scored_at": "2026-11-10T13:48:53.701515"
+}

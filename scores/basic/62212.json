@@ -1,0 +1,15 @@
+{
+  "id": "62212",
+  "score_overall": 3.9,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Poljoprivredno zemljište sa stajom za muzne krave u Koprivničkim Bregima nudi tek 20% popusta u prvoj dražbi, što je skroman ROI za ruralnu lokaciju bez turističkog ili urbanog potencijala. Nekretnina zahtijeva ulaganje u obnovu i ima ograničenu namjenu, pa je prikladnija za pratiti nego za aktivnu licitaciju.",
+  "flags": [
+    "provjeriti: mogućnost prenamjene zemljišta i gospodarskih objekata"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "d940272e21be",
+  "scored_at": "2026-11-10T13:48:53.701001"
+}

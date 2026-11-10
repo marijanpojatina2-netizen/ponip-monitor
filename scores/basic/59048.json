@@ -1,0 +1,18 @@
+{
+  "id": "59048",
+  "score_overall": 6.3,
+  "score_lokacija": 5.5,
+  "score_roi": 8.0,
+  "score_stanje": 4.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Veliki industrijski kompleks (7931 m2, više zgrada) na istoj lokaciji u Varaždinu, vjerojatno dio istog stečajnog portfelja kao nekretnina 59040, s identičnom dinamikom prodaje po 1 EUR u četvrtoj dražbi. Zbog razmjera i broja objekata isplativo je zajedno analizirati obje čestice za konsolidirani investicijski scenarij.",
+  "flags": [
+    "provjeriti: stanje i tehnička ispravnost industrijskih zgrada",
+    "provjeriti: okolišno opterećenje (bivša industrijska lokacija)",
+    "provjeriti: terete i ograničenja nakon tri neuspjele dražbe",
+    "provjeriti: povezanost s nekretninom ID 59040 (isti stečajni dužnik/lokacija)"
+  ],
+  "discount_pct": 100.0,
+  "input_hash": "26a5030119bc",
+  "scored_at": "2026-11-10T13:48:53.700862"
+}

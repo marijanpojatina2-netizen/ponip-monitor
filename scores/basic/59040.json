@@ -1,0 +1,17 @@
+{
+  "id": "59040",
+  "score_overall": 6.3,
+  "score_lokacija": 5.5,
+  "score_roi": 8.0,
+  "score_stanje": 4.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Industrijski kompleks u Varaždinu (Zagrebačka ulica) u stečaju, četvrta dražba s početnom cijenom 1 EUR nudi potencijalno veliki ROI ako se stekne uz nisku konkurenciju, ali stvarna prodajna cijena vjerojatno će nadmašiti simboličnu početnu. Stanje i namjena industrijskih zgrada nisu opisani pa je potrebna detaljna provjera prije licitacije.",
+  "flags": [
+    "provjeriti: stanje i tehnička ispravnost industrijskih zgrada",
+    "provjeriti: okolišno opterećenje (bivša industrijska lokacija)",
+    "provjeriti: terete i ograničenja nakon tri neuspjele dražbe"
+  ],
+  "discount_pct": 100.0,
+  "input_hash": "3366aea610cb",
+  "scored_at": "2026-11-10T13:48:53.700615"
+}

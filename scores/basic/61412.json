@@ -1,0 +1,16 @@
+{
+  "id": "61412",
+  "score_overall": 4.1,
+  "score_lokacija": 2.0,
+  "score_roi": 6.5,
+  "score_stanje": 2.5,
+  "recommendation": "watch",
+  "reasoning": "Mala čestica u Grabrovnici (Virovitica) u depopulacijskom području Slavonije, s 40% popusta u drugoj dražbi što djelomično kompenzira slabu lokaciju, ali je riječ o niskovrijednoj imovini s nejasnim stvarnim stanjem objekta. Zemljišnoknjižni upis kao livada uz opis 'kuća i dvorište' upućuje na potrebu provjere stvarnog stanja prije bilo kakve odluke.",
+  "flags": [
+    "provjeriti: stvarno stanje objekta (upisano kao livada, opisano kao kuća i dvorište)",
+    "provjeriti: usklađenost zemljišnoknjižnog i katastarskog stanja"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "b35dd53743ea",
+  "scored_at": "2026-11-10T13:48:53.701244"
+}
