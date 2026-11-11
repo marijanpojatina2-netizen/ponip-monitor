@@ -1,0 +1,15 @@
+{
+  "id": "62294",
+  "score_overall": 5.1,
+  "score_lokacija": 6.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Samostalno parkirno mjesto od 15,90 m2 u podzemnoj garaži u Varaždinu ima dobru gradsku lokaciju, ali vrlo uzak krug potencijalnih kupaca i nisku likvidnost kao samostalna investicija. Mali ticket iznos ne opravdava aktivno praćenje.",
+  "flags": [
+    "niska likvidnost - samostalno parkirno mjesto"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "6d04d92bfc02",
+  "scored_at": "2026-11-11T12:52:11.079212"
+}

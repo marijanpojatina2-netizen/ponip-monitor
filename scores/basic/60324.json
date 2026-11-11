@@ -1,0 +1,16 @@
+{
+  "id": "60324",
+  "score_overall": 4.5,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Kuća s dvorištem i oranicom u Draži (Baranja) na drugoj dražbi s 40% popustom nudi solidan ROI potencijal po niskoj cijeni, ali depopulacijsko područje i suvlasništvo tri osobe (1/4+2/4+1/4) nose rizike. Stanje objekta nije opisano, pa treba provjeriti nastanjenost i stanje kuće prije licitacije.",
+  "flags": [
+    "suvlasništvo više osoba (1/4+2/4+1/4)",
+    "provjeriti: je li kuća nastanjena i u kakvom je stanju"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "6b3c5c56f185",
+  "scored_at": "2026-11-11T12:53:25.709223"
+}

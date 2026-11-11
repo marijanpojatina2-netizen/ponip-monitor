@@ -1,0 +1,15 @@
+{
+  "id": "62224",
+  "score_overall": 5.2,
+  "score_lokacija": 6.0,
+  "score_roi": 5.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Oranica u Odranskom Obrežu (Novi Zagreb) vrijedi 225 EUR/m2 što je neobično visoko za poljoprivredno zemljište i upućuje na mogući građevinski potencijal zbog blizine Zagreba. Bez potvrde namjene radi se o sirovom zemljištu niske trenutne iskoristivosti.",
+  "flags": [
+    "provjeriti: namjena/zoning (visoka cijena po m2 za oranicu)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "88b6b3e49339",
+  "scored_at": "2026-11-11T12:52:11.078520"
+}

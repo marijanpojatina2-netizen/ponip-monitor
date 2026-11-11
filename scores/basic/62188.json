@@ -1,0 +1,15 @@
+{
+  "id": "62188",
+  "score_overall": 4.6,
+  "score_lokacija": 4.5,
+  "score_roi": 5.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća s voćnjakom i dvorištem u Marinkovcu (periferija Zagreba, Sv. Ivan Zelina) ima umjerenu lokaciju i likvidnost. Opis ne otkriva stanje objekta pa je potreban dodatni uvid prije ozbiljnijeg koraka.",
+  "flags": [
+    "provjeriti: stanje kuće i useljivost"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "624617834eba",
+  "scored_at": "2026-11-11T12:54:31.054621"
+}

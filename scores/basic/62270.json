@@ -1,0 +1,13 @@
+{
+  "id": "62270",
+  "score_overall": 5.1,
+  "score_lokacija": 6.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Garažno mjesto od 22 m2 u Varaždinu je u dobroj gradskoj lokaciji, ali apsolutna vrijednost i ROI potencijal su preniski da bi opravdali aktivno ulaganje. Ovakvi predmeti imaju ograničen rast vrijednosti i uski krug kupaca.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "9c8c9b4d3875",
+  "scored_at": "2026-11-11T12:54:31.054743"
+}

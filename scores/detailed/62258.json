@@ -1,0 +1,36 @@
+{
+  "id": "62258",
+  "score_overall": 5.3,
+  "score_lokacija": 5.5,
+  "score_roi": 5.5,
+  "score_stanje": 4.5,
+  "recommendation": "watch",
+  "reasoning": "Nekretnina se nalazi u Prozorju kod Dugog Sela, industrijsko-poslovnoj zoni na periferiji Zagreba s dobrom pozicijom uz prometne pravce, ali bez vrhunske lokacijske premije. Riječ je o velikom zemljišnom kompleksu (19.333 m2) s postojećim halama i spremištima nepoznatog stanja, a tek 20% popust na prvoj dražbi ograničava neposredni ROI. Tržište za ovakve industrijske nekretnine je uže i specijalizirano, dok opis ne navodi potvrđene pravne rizike ili useljenost, no preporučuje se temeljita due diligence prije licitacije. Potencijal postoji za logističko-skladišnu prenamjenu uz blizinu Zagreba, ali realizacija traži dodatna ulaganja i vrijeme za izlazak.",
+  "flags": [
+    "provjeriti: stanje građevina (hala 996 m2, spremišta 357 m2 i 264 m2) prilikom razgledavanja",
+    "provjeriti: postoje li tereti, hipoteke ili prava trećih osoba upisana na zk.ul.br. 2050",
+    "provjeriti: je li nekretnina trenutno u posjedu/korištenju treće strane (bivši zakupnik ili korisnik poslovnog prostora)",
+    "provjeriti: komunalna infrastruktura i pristupni put do čestice (dio površine je oranica, nije nužno opremljeno zemljište)"
+  ],
+  "market_estimate": {
+    "eur_min": 950000,
+    "eur_max": 1350000,
+    "confidence": "low",
+    "basis": "Web search alat nije bio dostupan (zahtjev za dozvolu nije odobren), procjena se temelji na općem poznavanju tržišta poslovnog/industrijskog zemljišta u Zagrebačkoj županiji (Dugo Selo i okolica), gdje se slična kombinirana zemljišta s manjim industrijskim objektima kreću oko 50-70 EUR/m2 zemljišta plus vrijednost postojećih građevina; procjena nije potvrđena stvarnim aktivnim oglasima."
+  },
+  "comparables": [],
+  "investment_strategy": "Razvoj/iznajmljivanje - prenamjena postojećih hala i spremišta te komunalno opremanje preostalog zemljišta (oranica, dvorište) u logističko-skladišni kompleks, s obzirom na blizinu Zagreba i glavnih prometnih pravaca. Dugoročni ROI kroz iznajmljivanje skladišno-poslovnog prostora ili prodaju nakon dodatnog opremanja infrastrukture.",
+  "entry_price_eur": 950000,
+  "detailed_risks": [
+    "Specijalizirano tržište (industrijsko/poslovno zemljište) sa užom bazom kupaca i duljim vremenom izlaska",
+    "Nepoznato stanje postojećih građevina (hala, spremišta) - mogući troškovi sanacije ili rušenja",
+    "Velik dio površine (oranica 4613 m2 + dvorište 13103 m2) je neizgrađen - potrebna dodatna investicija u komunalnu infrastrukturu",
+    "Nedostatak informacija o pristupnim putovima i priključcima (struja, voda, kanalizacija) u opisu",
+    "Rizik neuspjele prve dražbe zbog relativno niskog popusta (20%) za ovu vrstu nekretnine"
+  ],
+  "upside_scenario": "Uz sanaciju postojećih hala i komunalno opremanje preostalog zemljišta, nekretnina se u 2-3 godine može razviti u logistički/skladišni kompleks blizu Zagreba s tržišnom vrijednošću 1.8-2.5M EUR ili stabilnim prihodom od iznajmljivanja poslovno-skladišnog prostora.",
+  "downside_scenario": "Ako prva dražba ne uspije, nekretnina ide na drugu dražbu s većim popustom (do 40%), što je povoljnija ulazna točka, ali uz rizik dugotrajnog izlaska iz investicije zbog uske baze kupaca za industrijsko zemljište i mogućih dodatnih troškova sanacije ili legalizacije građevina.",
+  "discount_pct": 20.0,
+  "input_hash": "2283e62e6ae5",
+  "scored_at": "2026-11-11T12:58:42.662115"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "62254",
+  "score_overall": 5.0,
+  "score_lokacija": 5.5,
+  "score_roi": 5.0,
+  "score_stanje": 4.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Riječ je o golemom konvolutu od preko 80 katastarskih čestica (ukupno najmanje 21,5 ha, opis je odsječen pa je moguće da postoji i dodatni dio 'b.' s dodatnim zemljištem u Dugom Selu) u k.o. Prozorje, naselju koje administrativno i geografski pripada Dugom Selu — satelitskom gradu uz zagrebačku obilaznicu, A3 autocestu i željezničku prugu Zagreb–Varaždin, s poznatim razvojem logističko-industrijskih zona u toj osi. Procijenjena vrijednost od ~9,65 EUR/m2 realno odgovara prijelaznom/poljoprivrednom zemljištu bez potvrđene građevinske namjene, a popust od tek 20% na prvoj dražbi ne nudi dovoljnu sigurnosnu marginu za tu neizvjesnost. Visok ulazni kapital (jamčevina 208.000 EUR, cijena 1,66 mil. EUR) sužava krug kupaca na razvojne tvrtke/logističke operatore, a veliki broj odvojenih čestica i nepotpun opis nose dodatni pravni rizik. Potencijal postoji ako se dio parcela može prenamijeniti u građevinsko/poslovno zemljište blizu obilaznice, ali to zahtijeva ozbiljan due diligence prije ponude.",
+  "flags": [
+    "provjeriti: namjena/zoning za svih ~80+ navedenih čestica (moguće da je velik dio isključivo poljoprivredno zemljište bez građevinske dozvole)",
+    "provjeriti: opis nekretnine je odsječen (dio 'b.' u Dugom Selu nije prikazan) - nepoznat je stvarni ukupni opseg imovine",
+    "provjeriti: pristupne ceste i komunalna infrastruktura (struja, voda, kanalizacija) za ovako rascjepkan paket čestica",
+    "provjeriti: postojanje zakupnika poljoprivrednog zemljišta ili ARKOD upisa koji mogu ograničiti raspolaganje",
+    "provjeriti: tereti, hipoteke i eventualna prava trećih koja ne prestaju prodajom (zk. izvadak za svaku česticu)",
+    "provjeriti: jedinstvenost/spojivost čestica - velik broj odvojenih kč.br. može kompliciranti buduću gradnju ili preprodaju"
+  ],
+  "market_estimate": {
+    "eur_min": 1300000,
+    "eur_max": 2200000,
+    "confidence": "low",
+    "basis": "Web pretraga tržišta nije bila dostupna u ovoj sesiji (dozvola alata nije odobrena), pa procjena počiva na općem poznavanju tržišta zemljišta u koridoru Dugo Selo - Zagreb. Čisto poljoprivredno zemljište u toj zoni tipično se kreće 2-6 EUR/m2, dok građevinsko/poslovno zemljište uz obilaznicu i A3 čvor može doseći 25-60 EUR/m2 ovisno o infrastrukturi i konkretnoj namjeni. Utvrđena vrijednost od ~9,65 EUR/m2 (2,08 mil. EUR / 215.531 m2) upućuje na mix ili na procjenu bliže prijelaznoj/djelomično građevinskoj kategoriji - realna tržišna vrijednost vjerojatno je u rasponu 1,3-2,2 mil. EUR ovisno o stvarnoj namjeni čestica, uz značajnu nesigurnost zbog odsječenog opisa."
+  },
+  "comparables": [],
+  "investment_strategy": "Land banking / čekanje prenamjene: najrealnija strategija za strateškog investitora ili lokalnog developera je kupnja uz pretpostavku da dio parcela leži u koridoru potencijalnog širenja logističko-industrijskih zona oko Dugog Sela (blizina A3 čvora i zagrebačke obilaznice), s ciljem dugoročne prenamjene u građevinsko/poslovno zemljište. Za financijskog investitora bez lokalnih veza i poznavanja prostornog plana ovo nije atraktivan case - potreban je partner s agronomskim/urbanističkim znanjem i strpljenjem za 5-10 godišnji horizont.",
+  "entry_price_eur": 1400000,
+  "detailed_risks": [
+    "Nepoznata stvarna namjena velikog broja čestica - ako je sve poljoprivredno zemljište bez prenamjene, tržišna vrijednost znatno je niža od procijenjene",
+    "Opis je odsječen prije dijela 'b.' - kupac na dražbi mora samostalno provjeriti puni sadržaj prodajne dokumentacije kod suda",
+    "Rascjepkanost na 80+ čestica povećava transakcijske i upravne troškove (porez, uknjižba, eventualno spajanje čestica)",
+    "Nizak popust (20%, prva dražba) ne pokriva rizik neizvjesne namjene i likvidnosti",
+    "Visok kapitalni prag (1,66 mil. EUR + 208.000 EUR jamčevina) sužava krug konkurentnih ponuditelja na dražbi, ali i krug budućih kupaca kod preprodaje",
+    "Moguća poljoprivredna ograničenja (zakon o poljoprivrednom zemljištu, pravo prvokupa susjednih posjednika/države)",
+    "Nepoznat status eventualnih zakupaca ili ugovora o obradi zemljišta koji mogu 'preživjeti' prodaju",
+    "Dugoročan horizont za realizaciju vrijednosti ako ovisi o izmjeni prostornog plana - politički i administrativno nesiguran proces"
+  ],
+  "upside_scenario": "Ako se u narednih 3-5 godina potvrdi da dio parcela ulazi u planiranu širu logističko-poslovnu zonu Dugog Selo (uz A3 čvor i zagrebačku obilaznicu), vrijednost zemljišta mogla bi skočiti na 30-50 EUR/m2 za prenamijenjeni dio, što bi ukupnu vrijednost paketa višestruko povećalo u odnosu na ulaznu cijenu od ~1,4 mil. EUR.",
+  "downside_scenario": "Ako sve čestice ostanu trajno poljoprivredne bez mogućnosti prenamjene, kupac ostaje s nelikvidnim, rascjepkanim zemljištem vrijednim možda 2-4 EUR/m2 (ukupno 400-800 tis. EUR) - znatno manje od uložene cijene, s minimalnim brojem potencijalnih kupaca za preprodaju i vezanim kapitalom na neodređeno vrijeme.",
+  "discount_pct": 20.0,
+  "input_hash": "c5856c707142",
+  "scored_at": "2026-11-11T12:57:10.345305"
+}

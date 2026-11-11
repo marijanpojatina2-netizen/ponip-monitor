@@ -1,0 +1,13 @@
+{
+  "id": "62272",
+  "score_overall": 6.4,
+  "score_lokacija": 6.0,
+  "score_roi": 6.5,
+  "score_stanje": 7.0,
+  "recommendation": "bid",
+  "reasoning": "4-sobni potkrovni stan u Varaždinu od 100 m2 s detaljno opisanim, funkcionalnim rasporedom prostorija upućuje na useljivo stanje. Grad Varaždin ima solidnu likvidnost stambenog tržišta, a 20% popust na prvoj dražbi je standardan.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "cee44d8d7f5e",
+  "scored_at": "2026-11-11T12:54:31.054524"
+}

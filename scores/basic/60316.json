@@ -1,0 +1,15 @@
+{
+  "id": "60316",
+  "score_overall": 4.4,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica bez objekta u Draži na drugoj dražbi s 40% popustom, ali u depopulacijskom području slabe likvidnosti i niske apsolutne vrijednosti (1750 EUR procjena). Suvlasništvo tri osobe dodatno komplicira transakciju.",
+  "flags": [
+    "suvlasništvo više osoba (1/4+2/4+1/4)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "34514f201555",
+  "scored_at": "2026-11-11T12:53:25.709370"
+}

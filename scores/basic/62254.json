@@ -1,0 +1,17 @@
+{
+  "id": "62254",
+  "score_overall": 5.1,
+  "score_lokacija": 5.0,
+  "score_roi": 5.5,
+  "score_stanje": 4.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Veliki konvolut zemljišnih čestica (ukupno ~21,5 ha) u k.o. Prozorje blizu Dugog Sela, periferija Zagreba uz autocestu/industrijsku zonu. Popust je tek 20% (prva dražba) i opis je nepotpun, pa je potrebna detaljna provjera namjene i strukture parcela prije odluke.",
+  "flags": [
+    "provjeriti: namjena/zoning za veliki broj čestica",
+    "provjeriti: pristup i infrastruktura",
+    "provjeriti: moguća poljoprivredna ograničenja"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "c5856c707142",
+  "scored_at": "2026-11-11T12:52:11.078202"
+}

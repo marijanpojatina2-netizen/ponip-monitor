@@ -1,0 +1,13 @@
+{
+  "id": "60314",
+  "score_overall": 4.2,
+  "score_lokacija": 2.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica od 866 m2 u Dražu (Baranja) je u ruralnom, depopulacijskom području s niskom likvidnošću tržišta. Popust od 40% na drugoj dražbi je povoljan, ali apsolutna vrijednost je premala za ozbiljan investicijski case.",
+  "flags": [],
+  "discount_pct": 40.0,
+  "input_hash": "a73e1a85adf5",
+  "scored_at": "2026-11-11T12:54:31.053943"
+}

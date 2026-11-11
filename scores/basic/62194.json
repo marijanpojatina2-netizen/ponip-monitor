@@ -1,0 +1,15 @@
+{
+  "id": "62194",
+  "score_overall": 3.9,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Riječ je o maloj parceli dvorišta (68 m2) bez objekta, vrlo niske vrijednosti u ruralnom dijelu Zagorja, što ograničava investicijski potencijal zbog male skale i slabe likvidnosti. Dodatno se prodaje samo 1/2 suvlasničkog dijela, što komplicira buduću raspodjelu i korištenje.",
+  "flags": [
+    "prodaje se samo 1/2 suvlasničkog dijela"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "dce185fcdab0",
+  "scored_at": "2026-11-11T12:54:55.267750"
+}

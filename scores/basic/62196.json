@@ -1,0 +1,16 @@
+{
+  "id": "62196",
+  "score_overall": 4.2,
+  "score_lokacija": 3.5,
+  "score_roi": 5.0,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Nekretnina se nalazi u ruralnom području k.o. Martinci Zlatarski kraj Zlatara, bez podataka o stanju kuće u opisu, a popust od 20% na prvoj dražbi je standardan i ne garantira veliki ROI. Prodaje se samo 1/2 suvlasničkog dijela što dodatno otežava likvidnost i upravljanje imovinom.",
+  "flags": [
+    "prodaje se samo 1/2 suvlasničkog dijela",
+    "provjeriti: stanje kuće i useljivost"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "c5a12bb05752",
+  "scored_at": "2026-11-11T12:54:55.267402"
+}

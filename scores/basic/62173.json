@@ -1,0 +1,13 @@
+{
+  "id": "62173",
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Šumsko zemljište od 1683 m2 u Veleškovcu (ruralno Zagorje) ima slabu likvidnost i tek 20% popusta na prvoj dražbi. Mala vrijednost i nedostatak razvojnog potencijala čine ovo marginalnim ulogom.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "dbee8c113c80",
+  "scored_at": "2026-11-11T12:54:31.054206"
+}

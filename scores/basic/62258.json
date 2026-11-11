@@ -1,0 +1,16 @@
+{
+  "id": "62258",
+  "score_overall": 5.6,
+  "score_lokacija": 5.5,
+  "score_roi": 6.0,
+  "score_stanje": 5.0,
+  "recommendation": "bid",
+  "reasoning": "Industrijska hala i spremišta na Prozorskoj ulici u blizini Zagreba (Dugo Selo/Prozorje) mogu generirati prihod od zakupa, što podiže ROI potencijal unatoč tek 20% popusta na prvoj dražbi. Lokacija uz logističku zonu oko Zagreba je solidna za industrijsku namjenu.",
+  "flags": [
+    "provjeriti: stanje hale i spremišta",
+    "provjeriti: namjena/zoning"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "2283e62e6ae5",
+  "scored_at": "2026-11-11T12:52:11.078438"
+}

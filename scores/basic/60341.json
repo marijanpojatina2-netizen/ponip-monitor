@@ -1,0 +1,17 @@
+{
+  "id": "60341",
+  "score_overall": 6.6,
+  "score_lokacija": 5.0,
+  "score_roi": 8.5,
+  "score_stanje": 5.0,
+  "reasoning": "Industrijski kompleks u Bedekovčini na trećoj dražbi nudi ogroman popust od 75% (4,05M na 1,0125M EUR), što je iznimna ROI priča za investitora s kapitalom. Stečajni postupak i veličina/namjena industrijske nekretnine zahtijevaju detaljnu pravnu i tehničku provjeru prije licitacije.",
+  "recommendation": "deep_dive",
+  "flags": [
+    "provjeriti: stečajni postupak i eventualni tereti/potraživanja",
+    "provjeriti: tehnička ispravnost i namjena industrijske zgrade",
+    "provjeriti: likvidnost tržišta za industrijske nekretnine ove veličine"
+  ],
+  "discount_pct": 75.0,
+  "input_hash": "d65e0efae2a9",
+  "scored_at": "2026-11-11T12:54:31.054340"
+}

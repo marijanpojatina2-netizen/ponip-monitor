@@ -1,0 +1,16 @@
+{
+  "id": "62177",
+  "score_overall": 3.3,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Sitna oranica od 3248 m2 u Veleškovcu, ruralnom području Krapinsko-zagorske županije, s niskom tržišnom likvidnošću i malom apsolutnom vrijednošću. Nema elemenata koji bi opravdali investicijski interes izvan lokalnog poljoprivrednog tržišta.",
+  "flags": [
+    "niska likvidnost ruralnog tržišta",
+    "provjeriti: pristupni put i infrastruktura"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "6dbbc6e16e58",
+  "scored_at": "2026-11-11T12:52:11.079016"
+}

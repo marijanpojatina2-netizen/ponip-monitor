@@ -1,0 +1,13 @@
+{
+  "id": "62167",
+  "score_overall": 4.1,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Manja livada od 1151 m2 u ruralnom Zagorju s niskim popustom (20%) i ograničenom likvidnošću tržišta zemljišta. Apsolutna vrijednost je niska, slab investicijski case.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "c353a029b53d",
+  "scored_at": "2026-11-11T12:53:25.708735"
+}

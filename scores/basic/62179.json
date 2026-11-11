@@ -1,0 +1,13 @@
+{
+  "id": "62179",
+  "score_overall": 4.1,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Mala oranica od 727 m2 vrlo niske apsolutne vrijednosti (3956 EUR procjena) u ruralnom području Zagorja, transakcijski troškovi mogu umanjiti smisao ulaganja. Popust od 20% je standardan za prvu dražbu.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "1fc0f4ba89f9",
+  "scored_at": "2026-11-11T12:53:25.709084"
+}
