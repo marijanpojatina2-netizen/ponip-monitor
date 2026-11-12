@@ -1,0 +1,15 @@
+{
+  "id": "62326",
+  "score_overall": 4.1,
+  "score_lokacija": 3.0,
+  "score_roi": 5.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća i oranica u ruralnom Malinu kod Slavonskog Broda imaju slabu lokaciju, ali solidnu površinu zemljišta uz objekt za obnovu. Suvlasništvo triju ovršenika zahtijeva provjeru prodaje li se cijela nekretnina ili samo udjeli.",
+  "flags": [
+    "provjeriti: suvlasništvo triju ovršenika - provjeriti prodaje li se cijela nekretnina"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "3d880e11d12f",
+  "scored_at": "2026-11-12T14:17:20.865778"
+}

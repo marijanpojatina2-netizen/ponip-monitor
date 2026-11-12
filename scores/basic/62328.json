@@ -1,0 +1,15 @@
+{
+  "id": "62328",
+  "score_overall": 3.8,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Mala zgrada od 87 m2 u ruralnom Malinu ima vrlo nisku vrijednost i ograničen opis stanja objekta. Slaba lokacija i mali obujam čine ovo marginalnom investicijom bez značajnog ROI potencijala.",
+  "flags": [
+    "provjeriti: namjena i stanje objekta (nema detalja u opisu)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "043b0153f104",
+  "scored_at": "2026-11-12T14:17:20.866291"
+}

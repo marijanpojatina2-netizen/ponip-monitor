@@ -1,0 +1,16 @@
+{
+  "id": "62238",
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Najmanje vrijedna od svih čestica - 11/120 idealnog dijela šume (417 m2) procijenjeno na tek 30 EUR, što je ispod praktičnog praga isplativosti za samostalnu kupnju. Smisleno jedino u sklopu zajedničke akvizicije svih povezanih udjela iz istog predmeta.",
+  "flags": [
+    "suvlasništvo 11/120 dijela (idealni dio šume)",
+    "minimalna vrijednost (30 EUR) - praktički nezanimljivo za samostalnu kupnju"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "bb2cfff92eae",
+  "scored_at": "2026-11-12T14:18:27.091550"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "62332",
+  "score_overall": 5.8,
+  "score_lokacija": 8.5,
+  "score_roi": 5.0,
+  "score_stanje": 3.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Šuma na otoku Krku (Omišalj-Njivice) ima izvrsnu turističku lokaciju i vrlo nisku početnu cijenu, što je rijedak kombinacija za ovo područje. Namjena zemljišta (šuma) ograničava mogućnost gradnje pa vrijedi detaljnije istražiti potencijal prenamjene.",
+  "flags": [
+    "provjeriti: namjena zemljišta - šuma, provjeriti mogućnost prenamjene/gradnje"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "26c03ee848bf",
+  "scored_at": "2026-11-12T14:17:20.865844"
+}

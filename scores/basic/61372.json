@@ -1,0 +1,16 @@
+{
+  "id": "61372",
+  "score_overall": 4.7,
+  "score_lokacija": 4.0,
+  "score_roi": 6.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Zemljište u Tupljaku (ruralna unutrašnjost Istre) nema pristup javnoj prometnoj površini i nalazi se izvan građevinskog područja, unatoč visokom popustu od 40% na drugoj dražbi. Ta ograničenja uvelike smanjuju stvarnu iskoristivost i likvidnost nekretnine.",
+  "flags": [
+    "nema pristup javnoj prometnoj površini",
+    "izvan građevinskog područja"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "6974d0559782",
+  "scored_at": "2026-11-12T14:17:20.866428"
+}

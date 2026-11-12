@@ -1,0 +1,15 @@
+{
+  "id": "62302",
+  "score_overall": 4.3,
+  "score_lokacija": 4.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Livada u Slavonskom Brodu bez jasne građevinske namjene ograničava stvarni ROI potencijal unatoč srednje velikom gradu. Popust od 25% na prvoj dražbi je standardan za ovu vrstu zemljišta.",
+  "flags": [
+    "provjeriti: namjena i zoniranje čestice (poljoprivredno vs. građevinsko)"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "20150f9e5f71",
+  "scored_at": "2026-11-12T14:17:20.865698"
+}

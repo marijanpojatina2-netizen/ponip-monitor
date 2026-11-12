@@ -1,0 +1,16 @@
+{
+  "id": "62240",
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "11/120 idealnog dijela šumske parcele (701 m2) u istom ruralnom Zagorju, procijenjene na samo 146 EUR, nema praktičnu investicijsku vrijednost kao samostalan ulog. Dio iz istog ovršnog postupka kao i ostale čestice, vjerojatno zanimljivo samo uz konsolidaciju svih udjela.",
+  "flags": [
+    "suvlasništvo 11/120 dijela (idealni dio šume)",
+    "izrazito niska apsolutna vrijednost - trošak transakcije može premašiti korist"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "943d0fa288e7",
+  "scored_at": "2026-11-12T14:18:27.091359"
+}

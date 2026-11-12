@@ -1,0 +1,16 @@
+{
+  "id": "62234",
+  "score_overall": 3.5,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Riječ je o 11/120 idealnog dijela malog vinograda (320 m2) u ruralnom Zagorju, procijenjenog na samo 272 EUR, što praktički eliminira smisao samostalne kupnje. Transakcijski trošak i administracija vjerojatno nadmašuju potencijalnu korist.",
+  "flags": [
+    "suvlasništvo 11/120 dijela (idealni dio vinograda)",
+    "izrazito niska apsolutna vrijednost - trošak transakcije može premašiti korist"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "eeb7dc15ddff",
+  "scored_at": "2026-11-12T14:18:27.091126"
+}

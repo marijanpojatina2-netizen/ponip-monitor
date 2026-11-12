@@ -1,0 +1,17 @@
+{
+  "id": "61382",
+  "score_overall": 4.9,
+  "score_lokacija": 4.0,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Zemljište u unutrašnjosti Istre (Pićan, k.o. Tupljak) bez izravnog pristupa javnoj cesti i izvan građevinskog područja, što jako ograničava namjenu i likvidnost. Popust od 40% na drugoj dražbi je privlačan, ali realna iskoristivost parcele ostaje upitna dok se ne razjasni pristup i mogućnost gradnje.",
+  "flags": [
+    "nema pristupa javnoj prometnoj površini",
+    "izvan građevinskog područja",
+    "provjeriti: mogućnost legalizacije pristupa / promjena namjene"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "b5fe1f175f06",
+  "scored_at": "2026-11-12T14:18:27.090546"
+}

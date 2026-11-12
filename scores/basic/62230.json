@@ -1,0 +1,17 @@
+{
+  "id": "62230",
+  "score_overall": 3.7,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Kuća s dvorištem u Zagorju (Poljanica Bistrička) prodaje se samo kao 11/120 suvlasničkog idealnog dijela, uz tek 20% popusta na prvoj dražbi, a opis ne otkriva stvarno stanje objekta. Fragmentirano suvlasništvo bitno otežava korištenje i preprodaju bez prethodnog razvrgnuća.",
+  "flags": [
+    "suvlasništvo 11/120 dijela (prodaje se samo idealni dio)",
+    "provjeriti: stvarno stanje i useljivost kuće",
+    "provjeriti: mogućnost i isplativost razvrgnuća suvlasništva"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "a8fdfcbb8070",
+  "scored_at": "2026-11-12T14:18:27.090896"
+}

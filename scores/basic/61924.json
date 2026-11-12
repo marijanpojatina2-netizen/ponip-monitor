@@ -1,0 +1,15 @@
+{
+  "id": "61924",
+  "score_overall": 4.1,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Poslovne zgrade u Hrvatskoj Kostajnici, graničnom području s niskom potražnjom i likvidnošću, s tek prosječnim popustom od 25% na prvoj dražbi. Opis je nepotpun pa stvarno stanje objekata nije moguće pouzdano procijeniti.",
+  "flags": [
+    "provjeriti: nepotpun opis / stanje objekta (opis prekinut)"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "88ef5d0c7be5",
+  "scored_at": "2026-11-12T14:17:20.865481"
+}
