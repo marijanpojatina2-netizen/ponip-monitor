@@ -1,0 +1,15 @@
+{
+  "id": "61252",
+  "score_overall": 4.6,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Tri parcele oranice/livade (ukupno ~6139 m2) u k.o. Draganec, ruralno depopulacijsko područje Bjelovarsko-bilogorske županije, ali puno vlasništvo 1/1 i 40% popust na drugoj dražbi daju solidan ulaz za land-banking. Nema naznaka stambene namjene pa je riječ čisto o poljoprivrednom zemljištu niske likvidnosti.",
+  "flags": [
+    "provjeriti: pristupni put i katastarsko stanje parcela"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "7c920945f038",
+  "scored_at": "2026-11-13T13:25:54.899689"
+}

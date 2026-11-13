@@ -1,0 +1,13 @@
+{
+  "id": "62226",
+  "score_overall": 3.9,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica od 778 m2 u istom katastarskom području Obrež, slična po profilu nekretnini 62220, s niskom tržišnom privlačnošću. Mala vrijednost i ruralna lokacija ograničavaju investicijski potencijal.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "5b59b8706b3c",
+  "scored_at": "2026-11-13T13:24:39.646093"
+}

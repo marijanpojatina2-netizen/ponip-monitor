@@ -1,0 +1,15 @@
+{
+  "id": "61254",
+  "score_overall": 4.6,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Livada od 3884 m2 u k.o. Draganec, puno vlasništvo 1/1, 40% popust na drugoj dražbi - tipičan jeftin land-banking ulog u slaboj ruralnoj lokaciji. Vrijednost je niska pa je rizik ograničen, ali i potencijal ROI-ja je skroman.",
+  "flags": [
+    "provjeriti: stvarna namjena i pristup parceli"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "9cc028a9043d",
+  "scored_at": "2026-11-13T13:25:54.900599"
+}

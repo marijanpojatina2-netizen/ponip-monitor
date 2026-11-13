@@ -1,0 +1,13 @@
+{
+  "id": "62260",
+  "score_overall": 5.5,
+  "score_lokacija": 7.0,
+  "score_roi": 5.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Stan u suterenu u Kastvu (blizu Rijeke) ima dobru regionalnu lokaciju, ali suterenska pozicija i mala površina od 41,47 m2 smanjuju tržišnu atraktivnost. Popust od 20% na prvoj dražbi je standardan za ovu vrstu nekretnine.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "01ebfe41b3e4",
+  "scored_at": "2026-11-13T13:24:39.645240"
+}

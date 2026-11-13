@@ -1,0 +1,15 @@
+{
+  "id": "61256",
+  "score_overall": 4.0,
+  "score_lokacija": 2.0,
+  "score_roi": 6.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Radi se o čestici opisanoj kao ograda/put od 432 m2 u ruralnom k.o. Draganec, dakle infrastrukturnoj traci zemljišta bez samostalne tržišne vrijednosti ili razvojnog potencijala, unatoč 40% popustu na drugoj dražbi. Ukupna vrijednost (487 EUR procjena) i priroda predmeta (pristupni put) čine ovo marginalnim investicijskim slučajem.",
+  "flags": [
+    "provjeriti: služi li čestica kao pristupni put trećim parcelama (moguć teret prava prolaza)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "037f13d9c68f",
+  "scored_at": "2026-11-13T13:26:27.441525"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "62286",
+  "score_overall": 3.9,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Nekretnina je livada od 1806 m2 u k.o. Kozice (Virovitičko-podravska županija), ali predmet prodaje je samo suvlasnički udio od 7/48, što značajno otežava samostalno raspolaganje i smanjuje likvidnost unatoč umjerenom (20%) popustu na prvoj dražbi. Niska apsolutna vrijednost i frakcijsko vlasništvo čine ovo slabim investicijskim kandidatom bez dogovora s ostalim suvlasnicima.",
+  "flags": [
+    "provjeriti: mogućnost fizičke diobe ili otkupa udjela od ostalih suvlasnika",
+    "provjeriti: odnosi i interesi preostalih suvlasnika (41/48 dijela)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "c2b5995d9246",
+  "scored_at": "2026-11-13T13:26:27.441913"
+}

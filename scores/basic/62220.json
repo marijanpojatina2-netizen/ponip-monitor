@@ -1,0 +1,13 @@
+{
+  "id": "62220",
+  "score_overall": 3.9,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica od 941 m2 u Obrežu (Sveti Ivan Zelina) je nizke vrijednosti i ruralnog karaktera bez građevinskog potencijala naznačenog u opisu. Popust od 20% na maloj poljoprivrednoj parceli ne nudi značajan ROI za investitora.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "5ade895bbea9",
+  "scored_at": "2026-11-13T13:24:39.645771"
+}

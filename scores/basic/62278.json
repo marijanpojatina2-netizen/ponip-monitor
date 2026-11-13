@@ -1,0 +1,16 @@
+{
+  "id": "62278",
+  "score_overall": 3.5,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Mala oranica od 2446 m2 u k.o. Kozice s tek 1/4 suvlasničkog udjela i vrlo niskom vrijednošću (820 EUR), popust samo 20% na prvoj dražbi. Fragmentirano vlasništvo i minimalna apsolutna vrijednost čine ovo neatraktivnim za investiciju.",
+  "flags": [
+    "suvlasništvo 1/4 - kupnja samo udjela",
+    "provjeriti: mogućnost objedinjavanja udjela s ostalim suvlasnicima"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "5fa2d2bc8e99",
+  "scored_at": "2026-11-13T13:25:54.900840"
+}

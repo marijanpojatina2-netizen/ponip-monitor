@@ -1,0 +1,16 @@
+{
+  "id": "62282",
+  "score_overall": 3.5,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica u k.o. Kozice (Virovitičko-podravska, slabija Slavonija) na prvoj dražbi s tek 20% popustom, a prodaje se samo 1/2 suvlasničkog dijela što dodatno ograničava samostalnu iskoristivost. Nizak popust i slaba lokacija ne opravdavaju aktivan angažman.",
+  "flags": [
+    "suvlasništvo 1/2 - kupnja samo udjela",
+    "provjeriti: stav i interes ostalog suvlasnika, mogućnost diobe"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "278e7302cbb1",
+  "scored_at": "2026-11-13T13:25:54.900373"
+}

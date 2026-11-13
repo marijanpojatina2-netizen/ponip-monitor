@@ -1,0 +1,16 @@
+{
+  "id": "62290",
+  "score_overall": 6.0,
+  "score_lokacija": 8.0,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "bid",
+  "reasoning": "Kuća na Preku (otok Ugljan, zadarsko područje) ima atraktivnu tursitičku obalnu lokaciju, no na prodaji je samo 1/3 suvlasničkog dijela ovršenika dok 2/3 ostaje u vlasništvu ovrhovoditeljice. Popust od 20% na prvoj dražbi je umjeren, a stvarna vrijednost ulaganja ovisi o mogućnosti sporazuma ili diobe s preostalim suvlasnikom.",
+  "flags": [
+    "kupnja samo 1/3 suvlasničkog dijela (preostale 2/3 vlasništvo ovrhovoditeljice)",
+    "provjeriti: stanje kuće i mogućnost dogovora o korištenju/diobi s ovrhovoditeljicom"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "05a59237954f",
+  "scored_at": "2026-11-13T13:24:39.645094"
+}

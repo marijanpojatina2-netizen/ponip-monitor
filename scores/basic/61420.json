@@ -1,0 +1,16 @@
+{
+  "id": "61420",
+  "score_overall": 7.5,
+  "score_lokacija": 7.5,
+  "score_roi": 8.5,
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Nekretnina u Zagrebu (Vrapče Novo) na drugoj dražbi s izrazito visokim popustom od 40%, što je snažan ROI signal za gradsku lokaciju. Kupuje se samo 49,9/100 suvlasničkog dijela pa je nužna detaljna provjera odnosa sa preostalim suvlasnicima prije licitacije.",
+  "flags": [
+    "kupnja 49,9/100 suvlasničkog dijela (ostatak u vlasništvu drugih)",
+    "provjeriti: stanje dviju kuća i mogućnost podjele/isplate suvlasnika"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "b133f8eb71e8",
+  "scored_at": "2026-11-13T13:24:39.644886"
+}

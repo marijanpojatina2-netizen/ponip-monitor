@@ -1,0 +1,15 @@
+{
+  "id": "61236",
+  "score_overall": 4.6,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Sitna oranica od 496 m2 u k.o. Sišćani, puno vlasništvo 1/1, 40% popust na drugoj dražbi uz minimalnu jamčevinu (55,9 EUR) - ulazni rizik je zanemariv. Apsolutna vrijednost je premala za ozbiljan ROI, pogodno samo kao jeftina spekulativna pozicija.",
+  "flags": [
+    "provjeriti: praktična iskoristivost parcele od 496 m2"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "033423c692e4",
+  "scored_at": "2026-11-13T13:25:54.901346"
+}

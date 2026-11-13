@@ -1,0 +1,15 @@
+{
+  "id": "62252",
+  "score_overall": 3.3,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Poljoprivredno zemljište i gospodarska zgrada u ruralnom području Slatine/Virovitice s niskom likvidnošću tržišta. Popust od 20% na prvoj dražbi ne kompenzira slabu lokaciju i ograničenu iskoristivost imovine.",
+  "flags": [
+    "provjeriti: stanje i funkcionalnost gospodarske zgrade"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "d33de93449bb",
+  "scored_at": "2026-11-13T13:24:39.644543"
+}

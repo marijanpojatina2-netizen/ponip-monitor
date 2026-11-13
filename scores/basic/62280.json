@@ -1,0 +1,16 @@
+{
+  "id": "62280",
+  "score_overall": 3.6,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Skup manjih parcela (livada, voćnjak, vinograd) u k.o. Kozice s tek 7/48 suvlasničkog udjela i ukupnom vrijednošću od samo 521,64 EUR, popust 20% na prvoj dražbi. Raznolikost kultura (vinograd/voćnjak) je blaga prednost u stanju, ali fragmentirano vlasništvo i minimalna vrijednost čine investiciju nezanimljivom.",
+  "flags": [
+    "suvlasništvo 7/48 - kupnja samo udjela",
+    "provjeriti: stvarno stanje vinograda/voćnjaka (zapušteno vs. održavano)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "aa305cb0a40d",
+  "scored_at": "2026-11-13T13:25:54.901610"
+}

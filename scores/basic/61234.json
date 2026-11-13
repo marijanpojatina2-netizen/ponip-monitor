@@ -1,0 +1,15 @@
+{
+  "id": "61234",
+  "score_overall": 4.6,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Oranica od 7719 m2 u k.o. Draganec, puno vlasništvo ovršenika i 40% popust na drugoj dražbi; lokacija je slaba (ruralna, depopulacijska zona) pa je ovo isključivo špekulativna kupnja zemljišta. Veličina parcele je solidna za buduću poljoprivrednu ili infrastrukturnu namjenu.",
+  "flags": [
+    "provjeriti: pristupni put i mogućnost priključka infrastrukture"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "98912c73f766",
+  "scored_at": "2026-11-13T13:25:54.900082"
+}

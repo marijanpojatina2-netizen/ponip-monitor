@@ -1,0 +1,16 @@
+{
+  "id": "62284",
+  "score_overall": 3.5,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica u k.o. Kozice s tek 7/48 suvlasničkog udjela i vrijednošću od samo 774 EUR, popust 20% na prvoj dražbi. Vrlo mali fragment zemljišta uz slabu lokaciju ne daje realan samostalni investicijski potencijal.",
+  "flags": [
+    "suvlasništvo 7/48 - kupnja samo udjela",
+    "provjeriti: mogućnost diobe ili prodaje udjela ostalim suvlasnicima"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "b48985463a25",
+  "scored_at": "2026-11-13T13:25:54.901116"
+}
