@@ -1,0 +1,15 @@
+{
+  "id": "62155",
+  "score_overall": 4.1,
+  "score_lokacija": 2.5,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Ruralna lokacija u Bjelovarsko-bilogorskoj županiji (k.o. Kajgana) s niskom likvidnošću tržišta, a predmet je zapravo gospodarska zgrada za tovljenje svinja, nišna nekretnina teža za preprodaju. Popust od 20% na prvoj dražbi nije dovoljno atraktivan za rizik i tip imovine.",
+  "flags": [
+    "provjeriti: neusklađenost zemljišnoknjižnog stanja sa stvarnim stanjem (upisano kao oranica, u naravi gospodarska zgrada)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "8ccb4260b09e",
+  "scored_at": "2026-11-16T14:14:35.095072"
+}

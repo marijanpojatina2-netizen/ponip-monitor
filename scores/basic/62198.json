@@ -1,0 +1,16 @@
+{
+  "id": "62198",
+  "score_overall": 4.7,
+  "score_lokacija": 6.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Oranica u Sesvetama (periferija Zagreba) ima solidnu makro-lokaciju, ali radi se o tek 2/6 suvlasničkog dijela poljoprivredne čestice bez infrastrukture. Popust od 20% na prvoj dražbi ne kompenzira nisku likvidnost djelomičnog vlasništva.",
+  "flags": [
+    "provjeriti: suvlasnički udio 2/6 - samostalno raspolaganje/gradnja nije moguća bez ostalih suvlasnika",
+    "provjeriti: je li čestica unutar granica građevinskog područja ili isključivo poljoprivredna"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "2aff05e08c0d",
+  "scored_at": "2026-11-16T14:15:19.431429"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "62336",
+  "score_overall": 5.3,
+  "score_lokacija": 6.5,
+  "score_roi": 5.0,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Nekretnina je u Istri (općina Raša, k.o. Diminići), regiji s dobrom turističkom potražnjom, ali se radi o poluugrađenoj građevini bez izravnog pristupa javnoj površini, uz pristup preko čestica u vlasništvu ovršenika i ovrhovoditelja. Ti strukturni problemi značajno ograničavaju iskoristivost i buduću preprodaju unatoč 20% popusta.",
+  "flags": [
+    "nekretnina nema izravan pristup do javne površine - pristup preko tuđih čestica (jedna u vlasništvu ovršenika)",
+    "poluugrađena građevina koja graniči s nekretninom u vlasništvu ovrhovoditelja"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "bfe423ea835f",
+  "scored_at": "2026-11-16T14:14:35.095825"
+}

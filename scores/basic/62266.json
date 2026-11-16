@@ -1,0 +1,16 @@
+{
+  "id": "62266",
+  "score_overall": 4.7,
+  "score_lokacija": 6.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Livada iznad Učkog tunela u zoni Opatija/Rijeka ima dobar makro-lokacijski potencijal, ali prodaje se samo ½ suvlasničkog dijela bez adrese i bez potvrđene građevinske namjene. Uz tek 20% popusta i prvu dražbu ROI je ograničen dok se ne razjasni status suvlasništva.",
+  "flags": [
+    "provjeriti: suvlasnički udio 1/2 - prodaja dijela bez fizičke diobe i bez suglasnosti drugog suvlasnika",
+    "provjeriti: nekretnina bez adrese - granice i pristup nisu jasno definirani u opisu"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "6ea97aef77af",
+  "scored_at": "2026-11-16T14:15:19.431109"
+}

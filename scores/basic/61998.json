@@ -1,0 +1,16 @@
+{
+  "id": "61998",
+  "score_overall": 3.8,
+  "score_lokacija": 4.0,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Šumska čestica u Sesvetskom Kraljevcu, udaljenija periferija s nižom tržišnom privlačnošću, uz vrlo nisku apsolutnu vrijednost (1200 EUR) i samo 2/6 suvlasničkog udjela. Likvidnost i izlazna strategija su gotovo nepostojeće za ovako mali djelomični udio u šumskom zemljištu.",
+  "flags": [
+    "provjeriti: suvlasnički udio 2/6 - prodaja/korištenje šume ograničeno bez suglasnosti ostalih suvlasnika",
+    "provjeriti: stvarna tržišna potražnja za malim šumskim udjelom u ovoj zoni"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "d58f69ce2617",
+  "scored_at": "2026-11-16T14:15:19.431974"
+}

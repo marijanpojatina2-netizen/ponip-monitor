@@ -1,0 +1,16 @@
+{
+  "id": "58903",
+  "score_overall": 5.6,
+  "score_lokacija": 3.0,
+  "score_roi": 8.5,
+  "score_stanje": 3.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Nekretnina u Donjoj Pačetini (Krapinsko-zagorska županija) ima slabu lokaciju, ali se prodaje na četvrtoj dražbi s nominalnom početnom cijenom od samo 1 EUR (100% popusta od procjene 89.500 EUR), što signalizira izniman ROI potencijal ako se realna cijena formira znatno ispod procjene. Tri prethodne neuspjele dražbe i nepoznato stvarno stanje nekretnine zahtijevaju detaljnu provjeru prije ulaska.",
+  "flags": [
+    "provjeriti: razlog zbog kojeg su tri prethodne dražbe propale (stanje nekretnine, interes tržišta)",
+    "provjeriti: postoje li na nekretnini prava/tereti koji ne prestaju prodajom (stečajna prodaja)"
+  ],
+  "discount_pct": 100.0,
+  "input_hash": "38883eb321ef",
+  "scored_at": "2026-11-16T14:14:35.096078"
+}

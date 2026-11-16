@@ -1,0 +1,16 @@
+{
+  "id": "61994",
+  "score_overall": 4.7,
+  "score_lokacija": 6.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Još jedna mala oranica (745 m2, 2/6 udjela) u istom nizu Sesvete Novo - ista ograničenja kao kod susjednih čestica s istim brojem zk.ul. Samostalna investicijska vrijednost je minimalna bez stjecanja ostalih udjela.",
+  "flags": [
+    "provjeriti: suvlasnički udio 2/6 - ograničeno raspolaganje bez suglasnosti ostalih suvlasnika",
+    "provjeriti: isplativost jedino u kombinaciji s kupnjom susjednih čestica (61996, 62198) iz istog niza"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "108f7e06476a",
+  "scored_at": "2026-11-16T14:15:19.431806"
+}

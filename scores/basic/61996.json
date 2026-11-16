@@ -1,0 +1,16 @@
+{
+  "id": "61996",
+  "score_overall": 4.7,
+  "score_lokacija": 6.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Mala oranica od 777 m2 u istom k.o. Sesvete Novo, također samo 2/6 udjela - vjerojatno dio istog obiteljskog/ovršnog slučaja kao susjedne čestice. Niska apsolutna vrijednost i djelomično vlasništvo čine samostalnu isplativost upitnom.",
+  "flags": [
+    "provjeriti: suvlasnički udio 2/6 - ograničena mogućnost prodaje/razvoja bez dogovora ostalih suvlasnika",
+    "provjeriti: mogućnost objedinjavanja s drugim česticama iz istog zk.ul. niza (61994, 62198) radi veće cjeline"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "58ad7bf8c958",
+  "scored_at": "2026-11-16T14:15:19.431617"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "61992",
+  "score_overall": 5.1,
+  "score_lokacija": 6.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Nekretnina se nalazi u Sesvetama, dobroj periferiji Zagreba, ali se prodaje samo 2/6 suvlasničkog dijela što drastično smanjuje kontrolu i likvidnost ulaganja bez obzira na nominalni popust od 20%. Kupovina manjinskog udjela nosi dodatnu kompleksnost realizacije vrijednosti.",
+  "flags": [
+    "prodaje se samo 2/6 suvlasničkog dijela nekretnine (ne cijela nekretnina)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "6994fa292d33",
+  "scored_at": "2026-11-16T14:14:35.095619"
+}

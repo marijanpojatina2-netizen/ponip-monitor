@@ -1,0 +1,15 @@
+{
+  "id": "62369",
+  "score_overall": 5.2,
+  "score_lokacija": 5.0,
+  "score_roi": 5.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća u Metkoviću (Dubrovačko-neretvanska županija) nalazi se u pograničnom području s umjerenom potražnjom, s standardnim popustom od 20% na prvoj dražbi. Postoji razlika u iskazanoj površini između stare i nove katastarske izmjere koju treba provjeriti prije licitacije.",
+  "flags": [
+    "provjeriti: razlika u površini između stare (236 m2) i nove katastarske izmjere (265 m2) nekretnine"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "0a638ce74ac6",
+  "scored_at": "2026-11-16T14:14:35.096177"
+}
