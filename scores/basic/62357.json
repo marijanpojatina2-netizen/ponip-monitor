@@ -1,0 +1,15 @@
+{
+  "id": "62357",
+  "score_overall": 4.3,
+  "score_lokacija": 5.5,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Oranica od samo 76 m2 u Markuševcu (periferija Zagreba) ima dobru lokaciju ali minimalnu tržišnu vrijednost i vrlo ograničenu mogućnost samostalnog razvoja zbog veličine čestice. Stečajna prodaja s 25% popusta ne nadoknađuje nisku iskoristivost parcele.",
+  "flags": [
+    "provjeriti: namjena i mogućnost gradnje/spajanja s okolnim čestarima zbog male površine od 76 m2"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "339ea086950c",
+  "scored_at": "2026-11-17T14:51:31.931435"
+}

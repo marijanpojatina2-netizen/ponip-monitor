@@ -1,0 +1,15 @@
+{
+  "id": "62338",
+  "score_overall": 4.1,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Poslovni prostor (prodavaonica, spremište, WC) u Pitomači, manjem slavonskom mjestu, s tek 20% popusta na prvoj dražbi i suvlasničkim udjelom koji ograničava samostalno upravljanje nekretninom. Lokacija i likvidnost su slabe za dugoročni ROI.",
+  "flags": [
+    "provjeriti: suvlasnički odnosi i mogućnost samostalne prodaje/korištenja udjela 14/100"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "d9a258669faf",
+  "scored_at": "2026-11-17T14:51:31.931258"
+}
