@@ -1,0 +1,16 @@
+{
+  "id": "62353",
+  "score_overall": 6.9,
+  "score_lokacija": 8.5,
+  "score_roi": 7.0,
+  "score_stanje": 4.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Zemljište u Ici-Opriću kod Opatije nalazi se u vrlo traženoj kvarnerskoj turističkoj zoni s 25% popusta na prvoj dražbi, što daje visok ROI potencijal uz dobru likvidnost regije. Radi se o nerazvijenoj 'dragi' bez navedene adrese, pa prije ulaganja treba detaljno provjeriti namjenu, građevinsku mogućnost i pristup parceli.",
+  "flags": [
+    "provjeriti: namjena i građevinska mogućnost zemljišta (draga)",
+    "provjeriti: pristup nekretnini - adresa nije navedena u zaključku"
+  ],
+  "discount_pct": 25.0,
+  "input_hash": "b42a8709b6f6",
+  "scored_at": "2026-11-18T14:49:52.887372"
+}
