@@ -1,0 +1,16 @@
+{
+  "id": "61426",
+  "score_overall": 6.1,
+  "score_lokacija": 5.0,
+  "score_roi": 7.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća i dvorište u Đakovu (809 m2) na drugoj dražbi s 40% popustom od procjene nudi solidan ROI potencijal, ali kupuje se samo suvlasnički udio od 26/42 dijela što značajno komplicira stjecanje pune kontrole nad nekretninom. Opis ne daje nikakve podatke o stanju objekta niti o tome je li useljen, što traži dodatnu provjeru prije ozbiljnog razmatranja.",
+  "flags": [
+    "provjeriti: suvlasništvo ovršenika (26/42 dijela) - kupuje se samo udio, ne cijela nekretnina",
+    "provjeriti: stanje objekta i eventualna useljenost (opis ne navodi detalje)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "5cf7b9004cd8",
+  "scored_at": "2026-11-20T14:20:16.543046"
+}

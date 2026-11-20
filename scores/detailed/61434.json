@@ -1,0 +1,37 @@
+{
+  "id": "61434",
+  "score_overall": 7.4,
+  "score_lokacija": 8.5,
+  "score_roi": 8.0,
+  "score_stanje": 4.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Nekretnina se nalazi u Baškoj Vodi na Makarskoj rivijeri, jednoj od najtraženijih turističkih lokacija u Hrvatskoj, uz adresu (A. G. Matoša) blizu centra/obale, što nosi visoku bazu vrijednosti i likvidnost. Druga dražba s 40% popustom od procijenjene vrijednosti (650.000 EUR) daje snažan ROI potencijal, ali mala kvadratura (61 m2 na tri etaže, tj. uska stara kuća) i izostanak podatka o stanju objekta (nema fotografija/opisa unutrašnjosti, razgledavanje samo na zahtjev) povlače ocjenu stanja nadolje. Omjer procijenjene vrijednosti i površine (~10.650 EUR/m2) upućuje da velik dio vrijednosti dolazi od lokacije/zemljišta, ne od građevine, što je tipično za priobalne dalmatinske lokacije. Zbog vrijednosti iznad 500k EUR i visokog potencijala preporučuje se detaljna due diligence prije licitacije.",
+  "flags": [
+    "provjeriti: stanje objekta (nema opisa/fotografija unutrašnjosti, razgledavanje samo na zahtjev)",
+    "provjeriti: stvarna kvadratura i raspored po etažama (61 m2 na tri etaže sugerira uske prostorije ~20 m2/etaža)",
+    "provjeriti: postoje li tereta/hipoteke ili druga upisana prava na zk izvatku",
+    "provjeriti: pristupnost i parking (stare uske ulice u centru Baške Vode)",
+    "provjeriti: urbanistički status i mogućnost legalizacije/dogradnje"
+  ],
+  "market_estimate": {
+    "eur_min": 450000,
+    "eur_max": 650000,
+    "confidence": "low",
+    "basis": "WebSearch alat nije bio dostupan u ovoj sesiji za dohvat live oglasa, pa procjena nije potvrđena stvarnim komparativnim oglasima. Raspon se temelji na općem poznavanju tržišta Makarske rivijere (Baška Voda), gdje se stare kamene kuće blizu centra/mora, ovisno o stanju i udaljenosti od mora, prodaju u rasponu cca 4.000-9.000+ EUR/m2 efektivne vrijednosti uključujući zemljište i lokacijsku premiju; za pouzdaniju procjenu potrebno je dohvatiti aktualne oglase s nekretnine.net/njuskalo.hr."
+  },
+  "comparables": [],
+  "investment_strategy": "Reno-flip ili dugoročno/sezonsko iznajmljivanje: kupnja po diskontiranoj dražbenoj cijeni, temeljita obnova stare kamene kuće u turističku jedinicu za najam (kratkoročni smještaj) tijekom sezone, uz mogućnost preprodaje nakon renovacije s obzirom na visoku potražnju za nekretninama u Baškoj Vodi.",
+  "entry_price_eur": 420000,
+  "detailed_risks": [
+    "Nepoznato stanje objekta prije kupnje — razgledavanje samo na zahtjev i bez fotografija u opisu povećava rizik skrivenih nedostataka",
+    "Mala tlocrtna površina po etaži (uska kuća) može ograničiti mogućnosti preuređenja ili traženu namjenu",
+    "Nepoznati tereti/upisana prava koja mogu preživjeti prodaju ovisno o zk stanju",
+    "Mogući visoki troškovi obnove stare građevine u priobalnoj zoni (vlaga, dotrajala instalacija)",
+    "Rizik nadmetanja na dražbi zbog atraktivnosti lokacije koji može podići konačnu cijenu blizu procijenjene vrijednosti"
+  ],
+  "upside_scenario": "Nakon temeljite obnove (procijenjeno 80.000-150.000 EUR ulaganja), nekretnina u centru Baške Vode postaje privlačna turistička kuća za iznajmljivanje s visokim prinosom u sezoni (lipanj-rujan), s mogućom tržišnom vrijednošću 600.000-750.000 EUR u 2-3 godine zbog kontinuiranog rasta cijena na Makarskoj rivijeri.",
+  "downside_scenario": "Ako se otkriju ozbiljni strukturni problemi, neriješeni imovinsko-pravni odnosi ili previsoki troškovi legalizacije/obnove, investicija gubi profitabilnost, a kuća ostaje teško prodajva ili iznajmljiva uska stara građevina bez jasne namjene, zahtijevajući dugotrajno održavanje troškova bez prihoda.",
+  "discount_pct": 40.0,
+  "input_hash": "f0b8d531bfb8",
+  "scored_at": "2026-11-20T14:22:52.855270"
+}

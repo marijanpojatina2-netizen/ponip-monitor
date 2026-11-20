@@ -1,0 +1,13 @@
+{
+  "id": "62400",
+  "score_overall": 4.3,
+  "score_lokacija": 3.0,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Skup od četiri rasute čestice oranice (Crna Bara i Bostoni, ukupno 10391 m2) u Beketincima na prvoj dražbi s 20% popustom - rascjepkanost parcela dodatno smanjuje praktičnu iskoristivost unatoč niskoj ulaznoj cijeni. Lokacija je ruralna i slabije likvidna, a nema naznaka pravnih rizika u opisu, pa investicijski case ostaje slab za aktivno praćenje.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "60ca836b98e6",
+  "scored_at": "2026-11-20T14:20:16.543459"
+}

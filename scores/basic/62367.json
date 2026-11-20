@@ -1,0 +1,15 @@
+{
+  "id": "62367",
+  "score_overall": 4.6,
+  "score_lokacija": 4.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća u Josipovcu kod Osijeka nalazi se u zoni sa slabijom likvidnošću tržišta, a suvlasništvo ovrhovoditelja i ovršenika (1/2:1/2) stvara nejasnoću oko toga koji se dio stvarno prodaje. Popust od 20% na prvoj dražbi ne kompenzira dovoljno regionalni i vlasnički rizik.",
+  "flags": [
+    "provjeriti: prodaje li se cijela nekretnina ili samo suvlasnički dio ovršenika (1/2)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "be769d8e0493",
+  "scored_at": "2026-11-20T14:19:29.428880"
+}

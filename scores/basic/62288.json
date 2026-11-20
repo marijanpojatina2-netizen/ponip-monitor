@@ -1,0 +1,15 @@
+{
+  "id": "62288",
+  "score_overall": 4.6,
+  "score_lokacija": 5.0,
+  "score_roi": 5.0,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Poljoprivredno zemljište u Brezovici na periferiji Zagreba/Samobora ima ograničen ROI potencijal zbog niže likvidnosti zemljišta bez objekta. Popust od 20% na prvoj dražbi je standardan, preporuka je praćenje umjesto aktivnog ulaska.",
+  "flags": [
+    "provjeriti: namjena zemljišta i mogućnost gradnje"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "d83d28a88566",
+  "scored_at": "2026-11-20T14:19:29.428788"
+}

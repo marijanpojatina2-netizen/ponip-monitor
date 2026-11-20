@@ -1,0 +1,13 @@
+{
+  "id": "62346",
+  "score_overall": 3.1,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Livada u Virju je poljoprivredno zemljište u ruralnom, depopulacijskom području Podravine bez ikakvih građevina. Popust od 20% ne opravdava slabu likvidnost i nisku potražnju za ovakvim zemljištem.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "5fd2917a9e82",
+  "scored_at": "2026-11-20T14:19:29.429382"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "62404",
+  "score_overall": 4.3,
+  "score_lokacija": 3.0,
+  "score_roi": 5.0,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Manja oranica (5862 m2) u istom ruralnom području Beketinci, prva dražba, 20% popust - profil identičan susjednoj čestici broj 302 s ograničenim ROI potencijalom. Nema naznaka pravnih komplikacija u opisu, ali ni poseban razlog za aktivnu kupnju s obzirom na nisku vrijednost i slabu likvidnost poljoprivrednog zemljišta u tom području.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "71e722adb9e9",
+  "scored_at": "2026-11-20T14:20:16.543374"
+}

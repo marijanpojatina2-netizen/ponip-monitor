@@ -1,0 +1,15 @@
+{
+  "id": "62420",
+  "score_overall": 7.6,
+  "score_lokacija": 7.0,
+  "score_roi": 9.0,
+  "score_stanje": 5.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Poslovni prostor u Sušaku (Rijeka) na drugoj dražbi s 50% popusta predstavlja izvrstan omjer cijene i vrijednosti u urbanoj zoni s dobrom likvidnošću. Nedostatak informacija o trenutnom stanju prostora zahtijeva fizički pregled, ali financijski parametri su vrlo privlačni.",
+  "flags": [
+    "provjeriti: trenutno stanje i zauzetost poslovnog prostora"
+  ],
+  "discount_pct": 50.0,
+  "input_hash": "3e504d395a33",
+  "scored_at": "2026-11-20T14:19:29.429009"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "62344",
+  "score_overall": 4.2,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "pass",
+  "reasoning": "Kuća u Đurđevcu (Podravina) na prvoj dražbi s 20% popustom nalazi se u manjem gradu sa slabijom likvidnošću nekretnina. Bez dodatnih prednosti poput turizma ili urbanosti, ROI potencijal je ograničen.",
+  "flags": [],
+  "discount_pct": 20.0,
+  "input_hash": "7e812b379ef9",
+  "scored_at": "2026-11-20T14:19:29.429197"
+}

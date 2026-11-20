@@ -1,0 +1,37 @@
+{
+  "id": "61448",
+  "score_overall": 6.8,
+  "score_lokacija": 7.0,
+  "score_roi": 7.5,
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Jordanovac je etablirana i tražena zona u Zagrebu, uz park Maksimir i blizu centra, s dobrom prometnom povezanošću i trajnom potražnjom. Druga dražba s 40% popustom na procjenu od 699.362 EUR nudi solidnu marginu, ali opis ne navodi stanje, katnost ni namjenu zgrade, a omjer procijenjene vrijednosti i male kvadrature zemljišta (172 m2) upućuje na to da je riječ o višekatnom objektu čiju stvarnu korisnu površinu treba utvrditi uvidom u zemljišne knjige i katastar. Web pretraga tržišnih oglasa nije bila dostupna u ovoj sesiji, pa je procjena tržišne vrijednosti temeljena na općem poznavanju cijena u zoni Maksimir/Jordanovac, uz nisku razinu pouzdanosti.",
+  "flags": [
+    "provjeriti: stanje i namjena zgrade nisu navedeni u opisu",
+    "provjeriti: visoka procijenjena vrijednost u odnosu na malu kvadraturu zemljišta (172 m2) upućuje na mogući višekatni objekt - treba potvrditi stvarnu korisnu površinu",
+    "provjeriti: razgledavanje samo uz sudskog ovršitelja, ograničen uvid prije kupnje",
+    "provjeriti: postoje li upisana prava/tereti koji ne prestaju prodajom (uvid u zk. izvadak ul. 8645 k.o. Grad Zagreb)",
+    "provjeriti: je li nekretnina trenutno nastanjena ili u zakupu - opis ne navodi"
+  ],
+  "market_estimate": {
+    "eur_min": 550000,
+    "eur_max": 780000,
+    "confidence": "low",
+    "basis": "Procjena temeljena na općem poznavanju cijena nekretnina u zoni Maksimir/Jordanovac u Zagrebu (dobra, etablirana lokacija blizu centra) i na sudskoj procjeni vrijednosti od 699.362 EUR; web pretraga aktivnih oglasa nije bila dostupna u ovoj sesiji te se raspon treba potvrditi stvarnim comparables prije odluke o licitaciji."
+  },
+  "comparables": [],
+  "investment_strategy": "Uvjetno reno-flip ili dugoročno iznajmljivanje, ovisno o utvrđenoj namjeni i katnosti zgrade - prije ulaganja nužno utvrditi je li riječ o stambenom ili poslovnom objektu te stvarnu korisnu površinu, jer to značajno mijenja ROI račun.",
+  "entry_price_eur": 480000,
+  "detailed_risks": [
+    "Nepoznato stanje i namjena zgrade - opis ne navodi je li useljivo, u kakvom je stanju i koja mu je stvarna namjena",
+    "Neusklađenost između male kvadrature zemljišta (172 m2) i visoke procijenjene vrijednosti (699k EUR) - moguće da je riječ o višekatnom objektu čija ukupna korisna površina nije navedena",
+    "Ograničen pristup razgledavanju (samo uz sudskog ovršitelja) smanjuje mogućnost procjene stvarnog stanja prije kupnje",
+    "Mogući neidentificirani tereti ili prava trećih osoba upisana u zk. ul. 8645 k.o. Grad Zagreb",
+    "Nedostatak tržišnih comparables u ovoj analizi (web pretraga nije bila dostupna) povećava neizvjesnost procjene vrijednosti"
+  ],
+  "upside_scenario": "Ako je zgrada u dobrom strukturnom stanju i radi se o višekatnom objektu s realnom korisnom površinom od 250-300+ m2, kupnja po cijeni oko 420-480k EUR uz renovaciju i prenamjenu (stambeno/poslovno) u zoni Maksimir/Jordanovac mogla bi u 2-3 godine donijeti vrijednost od 800k-1M EUR, uz dodatni prihod od iznajmljivanja tijekom održavanja.",
+  "downside_scenario": "Ako se utvrdi da je zgrada dotrajala, s ograničenom namjenom (npr. pomoćni objekt) ili postoje neriješeni pravni tereti/stanari, stvarna vrijednost može biti bliža ili niža od početne cijene (419.617 EUR), čineći investiciju neisplativom nakon troškova sanacije i pravnih rizika.",
+  "discount_pct": 40.0,
+  "input_hash": "705545c70a3c",
+  "scored_at": "2026-11-20T14:21:34.698382"
+}

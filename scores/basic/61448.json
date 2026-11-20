@@ -1,0 +1,15 @@
+{
+  "id": "61448",
+  "score_overall": 7.0,
+  "score_lokacija": 7.0,
+  "score_roi": 8.0,
+  "score_stanje": 5.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Jordanovac je tražena zona u Zagrebu blizu centra, a 40% popust uz drugu dražbu daje solidan ROI potencijal. Opis ne navodi stanje niti namjenu zgrade pa je potrebna dodatna provjera prije licitacije.",
+  "flags": [
+    "provjeriti: stanje i namjena zgrade nisu navedeni u opisu"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "705545c70a3c",
+  "scored_at": "2026-11-20T14:19:29.428241"
+}
