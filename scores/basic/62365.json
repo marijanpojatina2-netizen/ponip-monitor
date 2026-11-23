@@ -1,0 +1,15 @@
+{
+  "id": "62365",
+  "score_overall": 3.9,
+  "score_lokacija": 4.5,
+  "score_roi": 4.5,
+  "score_stanje": 1.5,
+  "recommendation": "pass",
+  "reasoning": "Dvije katastarske čestice u Buševcu (Velika Gorica) upisane u naravi kao 'Sepska ulica', što upućuje na zemljište s mogućim ograničenjima gradivosti ili javnom namjenom. Popust od samo 20% na prvoj dražbi ne kompenzira nisku iskoristivost ovakvog zemljišta.",
+  "flags": [
+    "provjeriti: zemljište upisano u naravi kao 'ulica' - mogući rizik javne namjene/ograničene gradivosti"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "8938dac1848b",
+  "scored_at": "2026-11-23T16:38:49.375942"
+}

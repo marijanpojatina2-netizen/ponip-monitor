@@ -1,0 +1,15 @@
+{
+  "id": "62370",
+  "score_overall": 3.0,
+  "score_lokacija": 1.5,
+  "score_roi": 4.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Oranica i kuća-dvor u Budanici kraj Virovitice, ruralnoj i ekonomski slabijoj regiji s niskom likvidnošću. Popust od 20% na prvoj dražbi i nepoznato stanje kuće ne opravdavaju aktivan angažman.",
+  "flags": [
+    "provjeriti: stanje kuće (opis ne navodi detalje)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "439513340cf3",
+  "scored_at": "2026-11-23T16:38:49.376411"
+}

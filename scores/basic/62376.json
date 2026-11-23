@@ -1,0 +1,15 @@
+{
+  "id": "62376",
+  "score_overall": 3.1,
+  "score_lokacija": 1.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Mala kuća i oranice u Jasenovcu, području izrazite depopulacije i slabe likvidnosti tržišta nekretnina. Nizak popust od 20% na prvoj dražbi i nepoznato stanje objekata čine ovo slabim investicijskim slučajem.",
+  "flags": [
+    "provjeriti: stanje kuće i zgrade (opis ne navodi detalje)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "6e075a01d77b",
+  "scored_at": "2026-11-23T16:38:49.376178"
+}

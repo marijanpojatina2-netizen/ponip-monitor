@@ -1,0 +1,15 @@
+{
+  "id": "61091",
+  "score_overall": 4.5,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.5,
+  "recommendation": "watch",
+  "reasoning": "Gospodarske zgrade i kuća u ruralnom Virju (Podravina) s 40% popustom na drugoj dražbi, ali u području slabije likvidnosti i bez podataka o stanju objekata. Nizak apsolutni iznos ulaganja ublažava rizik, ali potencijal rasta vrijednosti je ograničen.",
+  "flags": [
+    "provjeriti: stanje gospodarskih zgrada i kuće (opis ne navodi detalje)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "e0e17535015b",
+  "scored_at": "2026-11-23T16:38:49.375380"
+}

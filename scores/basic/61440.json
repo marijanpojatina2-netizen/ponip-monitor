@@ -1,0 +1,15 @@
+{
+  "id": "61440",
+  "score_overall": 4.6,
+  "score_lokacija": 2.5,
+  "score_roi": 6.5,
+  "score_stanje": 4.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća, dvor i gospodarska zgrada u Otoku kraj Vinkovaca s 40% popustom na drugoj dražbi, ali slavonska lokacija nosi slabu likvidnost i potražnju. Stanje objekata nije detaljno opisano što dodatno povećava rizik procjene.",
+  "flags": [
+    "provjeriti: stanje kuće i gospodarske zgrade (opis ne navodi detalje)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "3ef6d80eb0d1",
+  "scored_at": "2026-11-23T16:38:49.375101"
+}

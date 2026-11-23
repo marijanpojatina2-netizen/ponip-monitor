@@ -1,0 +1,15 @@
+{
+  "id": "62413",
+  "score_overall": 5.7,
+  "score_lokacija": 7.5,
+  "score_roi": 4.5,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Stan u zgradi mješovite namjene na atraktivnoj zagrebačkoj lokaciji (Primorska), ali prodaje se samo 1/2 suvlasničkog dijela nekretnine što znatno komplicira korištenje i preprodaju. Popust od samo 20% na prvoj dražbi ne nudi dovoljnu marginu za rizik koji nosi kupnja udjela.",
+  "flags": [
+    "prodaja samo 1/2 suvlasničkog dijela nekretnine"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "bc2d1dc16050",
+  "scored_at": "2026-11-23T16:38:49.375565"
+}

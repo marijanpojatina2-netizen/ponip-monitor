@@ -1,0 +1,37 @@
+{
+  "id": "61211",
+  "score_overall": 4.8,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "deep_dive",
+  "reasoning": "Riječ je o fragmentiranom paketu poljoprivrednog zemljišta (livade) i velikog parkirališta (14.012 m2) u k.o. Sveti Križ Začretje, ruralnom dijelu Krapinsko-zagorske županije, uz ekstremno visoku ukupnu vrijednost (13,95 mil EUR) koja implicira ~610 EUR/m2 za livade — neobično visoko i vjerojatno znak da opis (skraćen u izvoru) krije dodatne nekretnine, zgrade ili posebnu namjenu zemljišta. Druga dražba s 40% popustom numerički je privlačna, ali ulazni ticket od 8,37 mil EUR drastično smanjuje broj potencijalnih kupaca i likvidnost. Bez uvida u cijeli opis, namjenu zemljišta (prostorni plan), te razloga nastanka velikog parkirališta nije moguće donijeti pouzdanu procjenu — potreban je detaljan due diligence prije bilo kakve odluke o licitaciji.",
+  "flags": [
+    "provjeriti: opis nekretnine je skraćen (\"...\") - moguće postoje dodatne čestice/z.k. izvadci koji nisu prikazani u sažetku",
+    "provjeriti: namjena i prostorno-planski status zemljišta (poljoprivredno vs. građevinsko/industrijsko/infrastrukturno) s obzirom na neobično visoku procjenu po m2",
+    "provjeriti: svrha i status velike čestice 'Parkiralište' od 14.012 m2 - ukazuje na postojeću poslovnu/infrastrukturnu uporabu koja može imati ugovore o zakupu ili posebna prava",
+    "provjeriti: razgledavanje nije bilo moguće jer nadležno tijelo nije dostavilo podatke, pa stanje i pristup nekretnini nisu verificirani",
+    "provjeriti: postojanje tereta, prava trećih osoba ili drugih upisa u navedenim z.k. ulošcima (3089, 5152, 4864 i dalje nenabrojani)"
+  ],
+  "market_estimate": {
+    "eur_min": 6000000,
+    "eur_max": 11000000,
+    "confidence": "low",
+    "basis": "Web pretraga nije bila dostupna u ovoj sesiji, pa je raspon izveden isključivo iz podataka u opisu: procijenjena vrijednost 13,95 mil EUR i početna cijena 8,37 mil EUR (druga dražba, -40%). Implicirana cijena po m2 vidljive površine (~22.895 m2) od ~610 EUR/m2 znatno je iznad tipičnih cijena poljoprivrednog zemljišta u Krapinsko-zagorskoj županiji (obično 1-10 EUR/m2 za livade, do 20-50 EUR/m2 za građevinsko zemljište u boljim lokacijama), što snažno sugerira da procjena uključuje imovinu ili prava koja nisu vidljiva u skraćenom opisu."
+  },
+  "comparables": [],
+  "investment_strategy": "Prije bilo kakve strategije potreban je uvid u cijeli zemljišnoknjižni izvadak i prostorni plan - ako se potvrdi industrijska/infrastrukturna namjena (npr. uz postojeće parkiralište), strategija bi bila 'razvoj' ili 'buy-and-hold' do promjene namjene; ako je riječ isključivo o poljoprivrednom zemljištu, ROI je nisko-prinosan (zakup za poljoprivredu) i strategija bi bila dugoročno zemljišno ulaganje s niskim prinosom, neatraktivno za ovu cijenu.",
+  "entry_price_eur": 7000000,
+  "detailed_risks": [
+    "Nepoznata ukupna površina i sastav imovine zbog skraćenog opisa - stvarna vrijednost i rizik ne mogu se pouzdano procijeniti",
+    "Ekstremno visok ulazni kapital (8,37 mil EUR minimalna cijena) drastično smanjuje broj kupaca i mogućnost brze preprodaje",
+    "Fragmentacija na brojne čestice u različitim z.k. ulošcima komplicira upravljanje, prodaju i eventualnu promjenu namjene",
+    "Nema podataka o razgledavanju niti fotografijama/izvještaju o stanju",
+    "Nepoznata namjena i razlog postojanja velikog parkirališta (14.012 m2) - moguća povezanost s gospodarskim subjektom koji je u ovrsi, s mogućim dodatnim pravnim komplikacijama"
+  ],
+  "upside_scenario": "Ako due diligence potvrdi da je zemljište dio šireg infrastrukturnog/poslovnog kompleksa s realnom mogućnošću prenamjene ili nastavka gospodarske uporabe (npr. zakup parkirališta, logistika, solarna/energetska namjena), kupnja po sniženoj cijeni treće dražbe (dodatni popust) moglo bi omogućiti značajan kapitalni dobitak kroz 3-5 godina prenamjenom ili prodajom investitoru specijaliziranom za veće zemljišne komplekse.",
+  "downside_scenario": "Ako se ispostavi da je riječ isključivo o rascjepkanom poljoprivrednom zemljištu bez realne mogućnosti prenamjene, visoka ulazna cijena učinit će investiciju nelikvidnom i teško prodajivom, s kapitalom zarobljenim u imovini niske tržišne potražnje do sljedećih (trećih/četvrtih) dražbi s dodatnim popustima.",
+  "discount_pct": 40.0,
+  "input_hash": "b878a0de2c85",
+  "scored_at": "2026-11-23T16:40:53.921782"
+}

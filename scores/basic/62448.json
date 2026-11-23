@@ -1,0 +1,16 @@
+{
+  "id": "62448",
+  "score_overall": 8.6,
+  "score_lokacija": 9.5,
+  "score_roi": 8.0,
+  "score_stanje": 8.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Stambeni objekt s pet stambenih jedinica (apartmana) u Primoštenu, vrhunskoj turističkoj lokaciji, u dobrom stanju i izgrađen 1998. godine, s 40% popustom na drugoj dražbi - izniman potencijal za iznajmljivanje. Ključni rizik je kupnja samo 1/2 suvlasničkog dijela nekretnine, što zahtijeva detaljnu pravnu provjeru odnosa s preostalim suvlasnikom.",
+  "flags": [
+    "prodaja samo 1/2 suvlasničkog dijela nekretnine",
+    "provjeriti: pravni odnos i mogućnost dogovora s preostalim suvlasnikom"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "fea142c7f901",
+  "scored_at": "2026-11-23T16:38:49.375742"
+}

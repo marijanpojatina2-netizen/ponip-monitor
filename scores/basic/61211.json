@@ -1,0 +1,16 @@
+{
+  "id": "61211",
+  "score_overall": 5.0,
+  "score_lokacija": 4.5,
+  "score_roi": 6.5,
+  "score_stanje": 2.5,
+  "recommendation": "deep_dive",
+  "reasoning": "Niz poljoprivrednih parcela (livade, kanal, parkiralište) u k.o. Sveti Križ Začretje s iznimno visokom procijenjenom vrijednošću od 14M EUR za nerazvijeno zemljište, što je neobično i zahtijeva temeljitu provjeru podataka. Druga dražba s 40% popustom čini ulazak potencijalno zanimljivim, ali razmjeri i nedostatak objašnjenja vrijednosti traže dubinsku analizu prije bilo kakve ponude.",
+  "flags": [
+    "provjeriti: neobično visoka procijenjena vrijednost za poljoprivredno/neizgrađeno zemljište",
+    "provjeriti: usklađenost upisa kroz više zk.ul. uložaka"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "b878a0de2c85",
+  "scored_at": "2026-11-23T16:38:49.374769"
+}

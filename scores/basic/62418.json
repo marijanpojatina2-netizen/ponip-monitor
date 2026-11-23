@@ -1,0 +1,16 @@
+{
+  "id": "62418",
+  "score_overall": 4.8,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Tri susjedne čestice oranice ukupno 1028 m2 u istom k.o. Strahoninec, uz 40% popust na drugoj dražbi, no riječ je o niskovrijednom poljoprivrednom zemljištu s ograničenom likvidnošću i bez razvojnog potencijala u kratkom roku. Isto suvlasništvo ½-½ ovrhovoditeljice i ovršenice nosi istu nepoznanicu oko opsega predmeta dražbe kao i povezana parcela 1699.",
+  "flags": [
+    "provjeriti: je li predmet dražbe cijela nekretnina ili samo ½ suvlasničkog dijela ovršenice",
+    "provjeriti: pravo prvokupa za poljoprivredno zemljište (Zakon o poljoprivrednom zemljištu)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "0c757751a39c",
+  "scored_at": "2026-11-23T16:39:17.736036"
+}

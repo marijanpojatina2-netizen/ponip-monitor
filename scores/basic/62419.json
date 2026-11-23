@@ -1,0 +1,16 @@
+{
+  "id": "62419",
+  "score_overall": 4.8,
+  "score_lokacija": 3.5,
+  "score_roi": 6.5,
+  "score_stanje": 3.0,
+  "recommendation": "watch",
+  "reasoning": "Oranica od 1554 m2 u k.o. Strahoninec (periferija Čakovca), druga dražba s 40% popustom čini ulaz jeftinim, ali poljoprivredno zemljište bez infrastrukture ima slabu likvidnost i ograničen krug kupaca. Suvlasništvo ovrhovoditeljice i ovršenice po ½ otvara pitanje je li predmet dražbe cijela parcela ili samo polovični udio, što treba provjeriti prije licitacije.",
+  "flags": [
+    "provjeriti: je li predmet dražbe cijela nekretnina ili samo ½ suvlasničkog dijela ovršenice",
+    "provjeriti: pravo prvokupa za poljoprivredno zemljište (Zakon o poljoprivrednom zemljištu)"
+  ],
+  "discount_pct": 40.0,
+  "input_hash": "f27c1521bd17",
+  "scored_at": "2026-11-23T16:39:17.735714"
+}
