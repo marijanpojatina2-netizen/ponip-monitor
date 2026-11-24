@@ -1,0 +1,15 @@
+{
+  "id": "62372",
+  "score_overall": 3.3,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Čisto poljoprivredno zemljište (oranice) u k.o. Budrovac Lukački kod Virovitice, zanemarive vrijednosti (650 EUR), uz dodatni rizik što se prodaje samo 1/2 suvlasničkog dijela ovršenika. Lokacija je ruralna s niskom likvidnošću, pa je investicijski interes minimalan.",
+  "flags": [
+    "provjeriti: prodaje se samo 1/2 suvlasničkog dijela ovršenika, preostala 1/2 u vlasništvu treće osobe"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "b24c5dc3fb78",
+  "scored_at": "2026-11-24T16:09:49.926176"
+}

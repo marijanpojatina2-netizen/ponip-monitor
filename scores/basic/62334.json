@@ -1,0 +1,15 @@
+{
+  "id": "62334",
+  "score_overall": 3.7,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.0,
+  "recommendation": "pass",
+  "reasoning": "Ruralna gospodarska cjelina (kuća, oranica, voćnjak, dvorište) u k.o. Šemovci kod Đurđevca, u depopulacijskom području Podravine s niskom likvidnošću tržišta. Popust od 20% na prvoj dražbi je standardan, a stanje kuće nije opisano pa je investicijski potencijal ograničen.",
+  "flags": [
+    "provjeriti: stanje kuće i objekata (nema detaljnog opisa)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "70eaa20a17ce",
+  "scored_at": "2026-11-24T16:09:49.925698"
+}

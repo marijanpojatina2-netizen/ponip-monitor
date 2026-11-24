@@ -1,0 +1,15 @@
+{
+  "id": "62470",
+  "score_overall": 3.1,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 2.0,
+  "recommendation": "pass",
+  "reasoning": "Vrlo niska procijenjena vrijednost (1.970 EUR) za kuću s dvorištem u Gradištu kod Županje upućuje na vrlo loše stanje ili ruševinu, uz slabu slavonsku lokaciju s niskom likvidnošću. Ulazni trošak je minimalan, ali realni ROI potencijal je upitan zbog stanja i lokacije.",
+  "flags": [
+    "provjeriti: razlog izrazito niske procijenjene vrijednosti (moguća ruševina/neuseljivost)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "46ce833f7202",
+  "scored_at": "2026-11-24T16:09:49.925948"
+}
