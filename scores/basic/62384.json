@@ -1,0 +1,15 @@
+{
+  "id": "62384",
+  "score_overall": 3.8,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "Manja parcela (83 m2) izvan GP-a u istom ruralnom području kao i susjedne čestice, uz izrazito nisku vrijednost (150 EUR) i popust od samo 20%. Nedostatak izravnog pristupa s javnog puta dodatno smanjuje likvidnost i upotrebljivost zemljišta.",
+  "flags": [
+    "nema izravan pristup s javnog puta"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "9d1a9eedb26d",
+  "scored_at": "2026-11-25T15:59:17.942036"
+}

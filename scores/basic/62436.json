@@ -1,0 +1,16 @@
+{
+  "id": "62436",
+  "score_overall": 5.3,
+  "score_lokacija": 4.5,
+  "score_roi": 6.0,
+  "score_stanje": 5.0,
+  "recommendation": "watch",
+  "reasoning": "Kuća s okućnicom i oranicom u gradskom području Požege, solidna ukupna površina od 967 m2, ali bez detalja o stanju objekta ili useljenosti u opisu. Popust od 20% na prvoj dražbi je standardan, a slabija likvidnost slavonskog tržišta ograničava brzi izlazak.",
+  "flags": [
+    "provjeriti: stanje useljivosti objekta nije navedeno u opisu",
+    "provjeriti: postojanje tereta ili osoba u posjedu nekretnine"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "60fb945b2485",
+  "scored_at": "2026-11-25T15:58:41.301157"
+}

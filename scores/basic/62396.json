@@ -1,0 +1,16 @@
+{
+  "id": "62396",
+  "score_overall": 3.4,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 1.5,
+  "recommendation": "pass",
+  "reasoning": "80/160 (1/2) suvlasnički dio parcele kod naselja Mišini, izvan građevinskog područja, bez izravnog pristupa s javnog puta jer se pristupa preko zemljanih puteva u vlasništvu trećih osoba. Vrlo niska vrijednost (846 EUR) uz suvlasništvo i pravno nesiguran pristup gotovo isključuju samostalnu iskoristivost.",
+  "flags": [
+    "nema osiguran pristup s javnog puta (pristup preko zemljišta trećih osoba)",
+    "nekretnina se prodaje samo kao 80/160 suvlasnički dio"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "9090d754cf37",
+  "scored_at": "2026-11-25T15:58:41.302381"
+}

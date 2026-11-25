@@ -1,0 +1,15 @@
+{
+  "id": "62380",
+  "score_overall": 4.0,
+  "score_lokacija": 4.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Livada od 2831 m2 u k.o. Gornji Kućan kraj Ivanca je neizgrađeno poljoprivredno zemljište bez navedene infrastrukture, s ograničenom likvidnošću za investitora usmjerenog na nekretnine s prinosom. Popust od 20% na prvoj dražbi ne kompenzira nisku iskoristivost same parcele.",
+  "flags": [
+    "provjeriti: pristup parceli i mogućnost privođenja gradnji"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "bf8e9a4d3272",
+  "scored_at": "2026-11-25T15:58:41.301503"
+}

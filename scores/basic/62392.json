@@ -1,0 +1,15 @@
+{
+  "id": "62392",
+  "score_overall": 3.8,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 2.5,
+  "recommendation": "pass",
+  "reasoning": "4/8 suvlasnički dio veće parcele (2040 m2) u Saležu, izvan građevinskog područja i dijelom na vrijedno obradivom tlu, s pristupom cestom na istočnoj granici. Kombinacija suvlasništva i statusa izvan građevinske zone drži ROI nizak uz nisku apsolutnu vrijednost (1220 EUR).",
+  "flags": [
+    "nekretnina se prodaje samo kao 4/8 suvlasnički dio"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "444c8dca77c6",
+  "scored_at": "2026-11-25T15:58:41.302160"
+}

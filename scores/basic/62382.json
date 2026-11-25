@@ -1,0 +1,15 @@
+{
+  "id": "62382",
+  "score_overall": 3.9,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Građevinsko zemljište izvan granica GP-a (vrijedno obradivo tlo P2) u ruralnom području k.o. Sovinjak kod Buzeta, vrlo mala vrijednost (605 EUR) i popust od tek 20% na prvoj dražbi. Pristup je osiguran s javnog puta, ali nemogućnost gradnje i mikroskopska vrijednost čine investicijski case slabim.",
+  "flags": [
+    "provjeriti: mogućnost promjene namjene/gradnje s obzirom na PPU status"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "4d4274b7c068",
+  "scored_at": "2026-11-25T15:59:17.941724"
+}

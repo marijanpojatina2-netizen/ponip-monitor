@@ -1,0 +1,15 @@
+{
+  "id": "62386",
+  "score_overall": 3.5,
+  "score_lokacija": 3.5,
+  "score_roi": 4.5,
+  "score_stanje": 1.5,
+  "recommendation": "pass",
+  "reasoning": "Parcela od 1321 m2 kod Buzeta izvan je građevinskog područja, dijelom poljoprivredno-šumskog karaktera, uz izrijekom navedeno da nema osiguran pristup s javnog puta. Minimalna vrijednost (2390 EUR) i pravna/fizička neupotrebljivost parcele čine ovo nisko prioritetnu investiciju.",
+  "flags": [
+    "nema osiguran pristup s javnog puta"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "fbebe61cb886",
+  "scored_at": "2026-11-25T15:58:41.301709"
+}

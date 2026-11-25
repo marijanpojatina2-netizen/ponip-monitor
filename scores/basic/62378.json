@@ -1,0 +1,15 @@
+{
+  "id": "62378",
+  "score_overall": 3.4,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 1.5,
+  "recommendation": "pass",
+  "reasoning": "Mala parcela (227 m2) u naselju Bartolići kod Buzeta, izvan građevinskog područja, s pristupom isključivo preko nekretnina u vlasništvu trećih osoba. Minimalna vrijednost (797 EUR) i nesiguran pristup svrstavaju ovo među niskoprioritetne, teško iskoristive parcele.",
+  "flags": [
+    "nema osiguran pristup s javnog puta (pristup preko tuđeg zemljišta)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "c5de929e010d",
+  "scored_at": "2026-11-25T15:58:41.302593"
+}

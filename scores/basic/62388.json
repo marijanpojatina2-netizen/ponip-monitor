@@ -1,0 +1,16 @@
+{
+  "id": "62388",
+  "score_overall": 3.4,
+  "score_lokacija": 3.0,
+  "score_roi": 4.5,
+  "score_stanje": 1.5,
+  "recommendation": "pass",
+  "reasoning": "Predmet je tek 1/4 suvlasničkog dijela sitne šumske parcele (91 m2 ukupno) izvan GP-a, uz zanemarivu vrijednost (41 EUR) i popust od 20%. Nekretnini se pristupa preko tuđeg zemljišta i suvlasnički udio bitno otežava samostalnu realizaciju, što je čini praktično neinvestabilnom.",
+  "flags": [
+    "pristup preko zemljišta trećih osoba",
+    "suvlasnički udio (1/4) - teža samostalna realizacija"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "ff0e85e6d092",
+  "scored_at": "2026-11-25T15:59:17.942237"
+}

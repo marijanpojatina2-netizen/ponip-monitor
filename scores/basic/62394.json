@@ -1,0 +1,15 @@
+{
+  "id": "62394",
+  "score_overall": 4.0,
+  "score_lokacija": 4.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.0,
+  "recommendation": "pass",
+  "reasoning": "Riječ je o 4/8 suvlasničkog dijela male građevinske parcele (224 m2) u naselju Salež kod Buzeta, unutar građevinskog područja ali u neuređenom dijelu, s pristupom osiguranim preko javne ceste. Niska apsolutna vrijednost (1650 EUR) i podijeljeno vlasništvo znatno smanjuju praktičnu iskoristivost za samostalnog investitora.",
+  "flags": [
+    "nekretnina se prodaje samo kao 4/8 suvlasnički dio (preostali suvlasnici nisu u prodaji)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "6f4894ef9eb0",
+  "scored_at": "2026-11-25T15:58:41.301947"
+}
