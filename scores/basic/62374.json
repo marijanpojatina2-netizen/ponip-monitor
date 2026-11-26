@@ -1,0 +1,16 @@
+{
+  "id": "62374",
+  "score_overall": 3.4,
+  "score_lokacija": 2.0,
+  "score_roi": 4.5,
+  "score_stanje": 3.5,
+  "recommendation": "pass",
+  "reasoning": "Kuća i dvorište u Jasenovcu (Sisačko-moslavačka županija) nalaze se u ruralnom, depopulacijskom području sa slabom potražnjom i likvidnošću. Opis ne navodi stanje objekta niti useljivost, a stara zk evidencija (čhv) upućuje na zastarjelu dokumentaciju.",
+  "flags": [
+    "provjeriti: stanje i useljivost objekta (opis ne navodi detalje)",
+    "provjeriti: rizik od poplave s obzirom na blizinu rijeke Save"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "ca547f92369f",
+  "scored_at": "2026-11-26T15:53:26.251681"
+}
