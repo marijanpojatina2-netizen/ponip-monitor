@@ -1,0 +1,15 @@
+{
+  "id": "62488",
+  "score_overall": 3.8,
+  "score_lokacija": 2.5,
+  "score_roi": 4.5,
+  "score_stanje": 4.5,
+  "recommendation": "pass",
+  "reasoning": "Kuća s dvorištem u Bršadinu kod Vukovara nalazi se u ruralnom, depopulacijskom području Slavonije sa slabom likvidnošću nekretnina. Niska apsolutna vrijednost i popust od samo 20% na prvoj dražbi ne nude dovoljan investicijski potencijal.",
+  "flags": [
+    "provjeriti: stanje nekretnine i moguću useljenost (osoba stanuje?)"
+  ],
+  "discount_pct": 20.0,
+  "input_hash": "b8484eb3e53d",
+  "scored_at": "2026-11-27T15:30:20.915121"
+}
